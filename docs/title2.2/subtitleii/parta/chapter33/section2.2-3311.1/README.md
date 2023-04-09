@@ -1,0 +1,3 @@
+# § 2.2-3311.1 Day of recognition for direct care staffs and other long-term care professionals.
+
+<p>The second Wednesday of every June shall be designated as a day of recognition to acknowledge the contributions of and pay tribute to direct care staffs and members of other professions that provide dedicated assistance and health care services to enhance the quality of life of persons receiving long-term care in the Commonwealth.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0454'>454</a>.</p>

@@ -1,0 +1,3 @@
+# § 21-324 Right of appeal.
+
+<p>Any person or corporation owning lands within the drainage or levee district, which he or it thinks will not be benefited by the improvement, and should not be included within the district, shall have a right to appeal as provided by Chapter 26 (§ <a href='http://law.lis.virginia.gov/vacode/8.01-669/'>8.01-669</a> et seq.) of Title 8.01; but such appeal shall be perfected within sixty days from the date of the order finally establishing the drainage district, after which time, no appeal shall be allowed.</p><p>Code 1919, § 1748; 1926, p. 610.</p>

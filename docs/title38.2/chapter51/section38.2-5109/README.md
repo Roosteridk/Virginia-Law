@@ -1,0 +1,3 @@
+# § 38.2-5109 Restrictions on insurance purchased by purchasing groups.
+
+<p>A. A purchasing group may not purchase insurance from a risk retention group that is not chartered in a state or from an insurer not admitted in the state in which the purchasing group is located, unless the purchase is effected through a licensed agent or broker acting pursuant to the surplus lines laws and regulations of such state.</p><p>B. No purchasing group may purchase insurance providing for a deductible or self-insured retention applicable to the group as a whole; however, coverage may provide for a deductible or self-insured retention applicable to individual members.</p><p>1987, c. 585; 1992, c. 588.</p>

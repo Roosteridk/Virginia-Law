@@ -1,0 +1,3 @@
+# § 3.2-6513 Inclusion of false or misleading statements in certificate violation of Consumer Protection Act.
+
+<p>It shall be a violation of the Virginia Consumer Protection Act (§ <a href='http://law.lis.virginia.gov/vacode/59.1-196/'>59.1-196</a> et seq.) for a pet dealer to include in the pet dealer's animal history certificate provided for in § <a href='http://law.lis.virginia.gov/vacode/3.2-6512/'>3.2-6512</a> any false or misleading statement regarding the information to be contained therein.</p><p>1984, c. 492, § 29-213.49; 1987, c. 488, § 3.1-796.79; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

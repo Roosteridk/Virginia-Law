@@ -1,0 +1,3 @@
+# § 6.2-703 Acquisition of interest in entity other than financial institution by financial institutions.
+
+<p>No financial institution shall acquire more than five percent of the voting shares or otherwise gain control of any entity other than a financial institution without prior notice to the Commission.</p><p>1978, c. 683, § 6.1-383; 1983, cc. 193, 194; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

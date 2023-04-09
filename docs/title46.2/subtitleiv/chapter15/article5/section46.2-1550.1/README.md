@@ -1,0 +1,3 @@
+# § 46.2-1550.1 Use of dealer's license plates and temporary transport plates on certain vehicles.
+
+<p>Notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/46.2-1550/'>46.2-1550</a>, dealer's license plates or dealer's temporary transport plates may be used on vehicles being transported (i) from a motor vehicle auction or other point of purchase or sale, (ii) between properties owned or controlled by the same dealership, or (iii) for repairs, painting, or installation of parts or accessories. This section shall also apply to return trips by such vehicles.</p><p>1991, c. 712.</p>

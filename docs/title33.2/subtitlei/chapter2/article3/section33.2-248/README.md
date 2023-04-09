@@ -1,0 +1,3 @@
+# § 33.2-248 Expenditure of funds for interstate bridges and approaches.
+
+<p>The Commissioner of Highways may expend from funds available for construction or maintenance of roads or highways, either alone or in cooperation with public road authorities of other states, such funds as he may deem necessary for the construction, maintenance, operation, and repair of interstate highway bridges, tunnels, and approaches forming connecting links between highways in the systems of state highways and public roads of other states.</p><p>Code 1950, § 33-172; 1970, c. 322, § 33.1-248; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

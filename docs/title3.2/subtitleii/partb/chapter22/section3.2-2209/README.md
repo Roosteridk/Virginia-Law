@@ -1,0 +1,3 @@
+# § 3.2-2209 Referenda results; action of Governor.
+
+<p>If the Governor finds any referendum in order and that at least a simple majority of those voting are in opposition to the continuation of the assessment on small grains, he shall so proclaim and upon such proclamation the assessment on small grains will be discontinued. If the Governor finds that at least a simple majority of those voting are in favor of the continuation of the assessment on small grains, the Governor shall not so proclaim.</p><p>1991, c. 587, § 3.1-684.48; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,0 +1,3 @@
+# § 4.1-351 Previous convictions.
+
+<p>In any indictment, information or warrant charging any person with a violation of any provision of this subtitle, it may be alleged and evidence may be introduced at the trial of such person to prove that such person has been previously convicted of a violation of this subtitle.</p><p>Code 1950, § 4-91; 1993, c. 866.</p>

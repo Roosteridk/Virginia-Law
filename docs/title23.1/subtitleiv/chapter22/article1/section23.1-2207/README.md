@@ -1,0 +1,3 @@
+# § 23.1-2207 Payment of interest on debt of University; sinking fund.
+
+<p>Out of the appropriation made by the General Assembly for the support of the University, there shall be first set apart, annually, a sum sufficient to pay the interest accruing on the existing interest-bearing debt of the University, except as provided in § <a href='http://law.lis.virginia.gov/vacode/23.1-1109/'>23.1-1109</a>, and to constitute a sinking fund for the liquidation of the principal of such debt. Such sum shall be applied to no other purpose or object.</p><p>Code 1919, § 820, § 23-67; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

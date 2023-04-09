@@ -1,0 +1,3 @@
+# § 2.2-1817 Commonwealth shall not be liable for loss in collection of checks, etc.
+
+<p>The Commonwealth shall not be liable for any loss resulting from lack of diligence on the part of any depository in forwarding, or in failing to collect, any check, draft, or electronic transfer of funds as is referred to in § <a href='http://law.lis.virginia.gov/vacode/2.2-1804/'>2.2-1804</a>, or for the loss of any check, draft, or electronic transfer of funds in transmission through the mails or otherwise.</p><p>Code 1950, § 2-189; 1966, c. 677, § 2.1-220; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

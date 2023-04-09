@@ -1,0 +1,3 @@
+# § 8.01-357 Selection of jury panel.
+
+<p>On the day on which jurors have been notified to appear, jurors not excused by the court shall be called in such manner as the judge may direct to be sworn on their voir dire until a panel free from exceptions shall be obtained. The jurors shall be selected randomly. The remaining jurors may be discharged or excused subject to such orders as the court shall make.</p><p>Code 1950, § 8-208.19; 1973, c. 439; 1977, c. 617; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0003'>3</a>.</p>

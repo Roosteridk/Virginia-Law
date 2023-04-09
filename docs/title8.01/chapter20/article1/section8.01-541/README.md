@@ -1,0 +1,3 @@
+# § 8.01-541 To whom attachments directed; when and where returned.
+
+<p>Any attachment issued under this chapter may be directed to the sheriff of any county or city. Except when otherwise provided, it shall be returnable to the office of the clerk of court wherein the petition has been filed not more than thirty days from its date of issuance.</p><p>Code 1950, § 8-527; 1954, c. 333; 1977, c. 617; 1993, c. 841.</p>

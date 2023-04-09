@@ -1,0 +1,3 @@
+# § 22.1-287.01 Student information; release to federal government agencies.
+
+<p>Except as required by federal law or regulation, no member or employee of a local school board or the Department of Education shall transmit personally identifiable information, as that term is defined in the Family Educational Rights and Privacy Act (20 U.S.C. § 1232g) and related regulations, from a student's record to a federal government agency or an authorized representative of such agency.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0322'>322</a>.</p>

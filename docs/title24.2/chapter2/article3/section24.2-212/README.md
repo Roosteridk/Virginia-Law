@@ -1,0 +1,3 @@
+# § 24.2-212 Discharge of duties when office of Lieutenant Governor vacant.
+
+<p>When a vacancy occurs in the office of Lieutenant Governor, the duties of that office shall be discharged by the President pro tempore of the Senate, but he shall not by reason thereof be deprived of his right to act and vote as a member of the Senate.</p><p>Code 1950, § 24-152; 1970, c. 462, § 24.1-84; 1973, c. 30; 1993, c. 641.</p>

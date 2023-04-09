@@ -1,0 +1,3 @@
+# § 1-3 Repeal of acts of a general nature.
+
+<p>All acts and parts of acts of a general nature, in force at the time of the adoption of this Code, shall be repealed from and after February 1, 1950, with such limitations and exceptions as are hereinafter expressed; and all acts and parts of acts of a general nature in force at the time of the adoption of this Code, and in conflict with any of the provisions of this Code which by virtue of § <a href='http://law.lis.virginia.gov/vacode/1-2.1/'>1-2.1</a> become effective on July 1, 1948, shall be repealed from and after July 1, 1948, with such limitations and exceptions as are hereinafter expressed.</p><p>Code 1919, § 6567; R. P. 1948, § 1-3.</p>

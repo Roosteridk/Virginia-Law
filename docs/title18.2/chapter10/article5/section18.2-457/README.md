@@ -1,0 +1,3 @@
+# § 18.2-457 Fine and imprisonment by court limited unless jury impaneled.
+
+<p>No court shall, without a jury, for any such contempt as is mentioned in the first class embraced in § <a href='http://law.lis.virginia.gov/vacode/18.2-456/'>18.2-456</a>, impose a fine exceeding $250 or imprison more than ten days; but in any such case the court may, without an indictment, information or any formal pleading, impanel a jury to ascertain the fine or imprisonment proper to be inflicted and may give judgment according to the verdict.</p><p>Code 1950, § 18.1-295; 1960, c. 358; 1975, cc. 14, 15; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0626'>626</a>.</p>

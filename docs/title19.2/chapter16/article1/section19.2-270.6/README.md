@@ -1,0 +1,3 @@
+# § 19.2-270.6 Evidence of abuse admissible in certain criminal trials (Supreme Court Rule 2:409 derived from this section).
+
+<p>In any criminal prosecution alleging personal injury or death, or the attempt to cause personal injury or death, relevant evidence of repeated physical and psychological abuse of the accused by the victim shall be admissible, subject to the general rules of evidence.</p><p>1993, c. 5.</p>

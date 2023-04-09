@@ -1,0 +1,3 @@
+# § 15.2-5349 Bond indebtedness.
+
+<p>The bonds and other obligations of the authority, and such bonds and obligations shall so state on their face, shall not be a debt of any city in which the authority is located or of the Commonwealth, and neither the Commonwealth nor any such city shall be liable thereon. In no event shall they be payable out of any funds or properties other than those of the authority. The bonds shall not constitute an indebtedness within the meaning of any constitutional or statutory debt limitation of the laws of the Commonwealth.</p><p>Code 1950, § 32-264; 1979, c. 719, § 15.1-1584; 1997, c. 587.</p>

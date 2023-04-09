@@ -1,0 +1,3 @@
+# § 13.1-434 Definitions.
+
+<p>As used in this chapter:</p><p>(a) "Corporation" means a private or public corporation, association, or trust issuing a security.</p><p>(b) "Security" includes any share of stock, bond, debenture, note or other security issued by a corporation and registered as to ownership on the books of the corporation.</p><p>(c) "Transfer agent" includes any person employed or authorized to transfer securities issued by a corporation, including a registrar.</p><p>1960, c. 20.</p>

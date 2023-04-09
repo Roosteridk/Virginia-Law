@@ -1,0 +1,3 @@
+# § 19.2-127 Conditions of release of material witness.
+
+<p>If it appears by affidavit that the testimony of a person is material in any criminal proceeding, and it reasonably appears that it will be impossible to secure his presence by a subpoena, a judge shall inquire into the conditions of his release pursuant to this article.</p><p>Code 1950, § 19.1-109.6; 1973, c. 485; 1975, c. 495; 1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0829'>829</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0846'>846</a>.</p>

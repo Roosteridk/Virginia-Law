@@ -1,0 +1,3 @@
+# § 59.1-485 Legal recognition of electronic records, electronic signatures, and electronic contracts.
+
+<p>(a) A record or signature may not be denied legal effect or enforceability solely because it is in electronic form.</p><p>(b) A contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation.</p><p>(c) If a law requires a record to be in writing, an electronic record satisfies the law.</p><p>(d) If a law requires a signature, or provides for certain consequences in the absence of a signature, an electronic signature satisfies the law.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0995'>995</a>.</p>

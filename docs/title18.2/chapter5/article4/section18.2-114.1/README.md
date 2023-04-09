@@ -1,0 +1,3 @@
+# § 18.2-114.1 When collection of money by commissioner, etc., larceny.
+
+<p>If any special commissioner or receiver, appointed by any court to collect money, and required by law, or decree of the court, to give bond before collecting the same, shall collect such money, or any part thereof, without giving such bond, and fail properly to account for the same, he shall be deemed guilty of larceny of the money so collected and not so accounted for.</p><p>1978, c. 718.</p>

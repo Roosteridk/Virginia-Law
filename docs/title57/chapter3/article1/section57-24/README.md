@@ -1,0 +1,3 @@
+# § 57-24 Powers and duties of trustees.
+
+<p>Such trustees and their successors shall have power to make such rules and regulations for the burial of the dead, the laying off, assignment and sale of burial lots, and the management, care, preservation and improvement of the grounds, as they may deem proper. They may take and hold personal property and money for the purposes of the trust, and what is so acquired and all money received from the sale of lots shall be accounted for by them and faithfully applied to such purposes.</p><p>Code 1919, § 52.</p>

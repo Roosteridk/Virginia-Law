@@ -1,0 +1,3 @@
+# § 40.1-56 Department head, etc., to notify employee of such termination, etc.
+
+<p>In any such case the head of any department of the state government, or the mayor of any city or town, or the chairman of the board of supervisors or other governing body of any county, or the head of any other such employing agency, in which such employee was employed, shall forthwith notify such employee of the fact of the termination of his employment and at the same time serve upon him in person or by registered mail a declaration of his ineligibility for reemployment as before provided. Such declaration shall state the fact upon which the asserted ineligibility is based.</p><p>Code 1950, § 40-66; 1970, c. 321.</p>

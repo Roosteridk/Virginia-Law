@@ -1,0 +1,3 @@
+# § 16.1-69.12 Limitations on practice of law by judges.
+
+<p>(a) A general district court judge or juvenile and domestic relations district court judge elected as a full-time judge for a term commencing on or after July 1, 1980, shall be prohibited from engaging in the practice of law.</p><p>(b) [Repealed.]</p><p>(c) Substitute judges shall not appear as counsel in any civil or criminal case arising out of the circumstances which were involved in any other case brought before them.</p><p>1972, c. 708; 1973, c. 546; 1980, c. 194.</p>

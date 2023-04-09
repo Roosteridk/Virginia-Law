@@ -1,0 +1,3 @@
+# § 15.2-1814 Acquisition authorized by chapter declared to be for public use.
+
+<p>Any acquisition of property authorized by any provision of this chapter is hereby declared to be for a public use as the term "public uses" is used in § <a href='http://law.lis.virginia.gov/vacode/1-219.1/'>1-219.1</a>.</p><p>1997, c. 587; 2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0882'>882</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0901'>901</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0926'>926</a>.</p>

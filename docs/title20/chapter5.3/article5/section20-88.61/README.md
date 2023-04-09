@@ -1,0 +1,3 @@
+# § 20-88.61 Assistance with discovery.
+
+<p>A tribunal of the Commonwealth may (i) request a tribunal outside the Commonwealth to assist in obtaining discovery and (ii) upon request, compel a person over which it has jurisdiction to respond to a discovery order issued by a tribunal outside the Commonwealth.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0673'>673</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0727'>727</a>.</p>

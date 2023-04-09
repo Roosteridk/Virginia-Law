@@ -1,0 +1,3 @@
+# § 2.2-1147.1 Right to breast-feed.
+
+<p>Notwithstanding any other provision of law, a woman may breast-feed her child at any location where that woman would otherwise be allowed on property that is owned, leased or controlled by the Commonwealth as defined in § <a href='http://law.lis.virginia.gov/vacode/2.2-1147/'>2.2-1147</a>.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0561'>561</a>.</p>

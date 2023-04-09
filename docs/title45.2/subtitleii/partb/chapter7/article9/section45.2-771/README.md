@@ -1,0 +1,3 @@
+# § 45.2-771  Fire prevention and fire control.
+
+<p>The provisions of Article 5 (§ <a href='/vacode/45.2-912/'>45.2-912</a> et seq.) of Chapter 9 shall apply with respect to any requirement for firefighting equipment, duties in the event of a fire, or fire precautions at any surface area of an underground coal mine.</p><p>Code 1950, § 45-14.1; 1954, c. 191; 1966, c. 594, § 45.1-89; 1974, c. 323; 1978, c. 118; 1984, c. 590; 1985, c. 500; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.243; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

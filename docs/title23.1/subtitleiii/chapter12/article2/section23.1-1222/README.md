@@ -1,0 +1,3 @@
+# § 23.1-1222 Expenses of administering article.
+
+<p>All expenses incurred in carrying out the provisions of this article shall be payable solely from funds provided under the provisions of this article, and no liability or obligation shall be incurred by the Authority pursuant to this article beyond the extent to which moneys have been provided under the provisions of this article.</p><p>1972, c. 686, § 23-30.43; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

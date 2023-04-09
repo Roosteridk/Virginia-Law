@@ -1,0 +1,3 @@
+# § 38.2-2027 Withholding information; giving false or misleading information.
+
+<p>No person shall willfully withhold information from or knowingly give false or misleading information to (i) the Commission, (ii) any statistical agency designated by the Commission, (iii) any rate service organization or (iv) any insurer that will affect the rates or premiums subject to this chapter.</p><p>Code 1950, §§ 38-218.6, 38-253.41, 38-253.87; 1952, c. 317, § 38.1-277; 1986, c. 562.</p>

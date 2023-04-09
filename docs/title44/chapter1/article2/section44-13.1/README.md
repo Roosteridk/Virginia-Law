@@ -1,0 +1,3 @@
+# § 44-13.1 Virginia National Guard Morale, Welfare, and Recreation Program established.
+
+<p>The Adjutant General is authorized to establish a Virginia National Guard Morale, Welfare, and Recreation Program (the MWR Program) to provide leisure, recreation, and lodging opportunities for Virginia National Guard members and their families, Virginia Defense Force members and their families, employees of the Department of Military Affairs and their families, and other users of Department facilities as authorized by the Adjutant General.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0622'>622</a>.</p>

@@ -1,0 +1,3 @@
+# § 33.2-270 Provide for training of certain local employees.
+
+<p>The Department shall provide for the training and certification of local governments in order that such local governments are capable of administering local maintenance and construction projects that involve the secondary or urban highway system. Such training and certification shall enable such local governments to carry out locally administered projects in compliance with federal and state law and regulations with minimal oversight by Department personnel.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0470'>470</a>, § 33.1-223.2:27; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

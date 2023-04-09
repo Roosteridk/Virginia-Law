@@ -1,0 +1,3 @@
+# § 53.1-118 Courts to fine sheriffs for failure to perform duties.
+
+<p>If it appears to the circuit court having jurisdiction that the sheriff or jail superintendent has in any respect failed to perform his duties with respect to the operation of the jail, the court may, after summoning him to show cause against it, summarily fine him not more than fifty dollars.</p><p>Code 1950, § 53-161; 1970, c. 648; 1982, c. 636; 1991, c. 383.</p>

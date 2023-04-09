@@ -1,0 +1,3 @@
+# § 10.1-1005 Pollution; penalties.
+
+<p>A. It shall be unlawful for any person, without express, prior, written permission of the owner, to store, dump, litter, dispose of or otherwise place any refuse, garbage, dead animals, sewage, or toxic substances harmful to cave life or humans, in any cave or sinkhole. It shall also be unlawful to burn within a cave or sinkhole any material which produces any smoke or gas which is harmful to any naturally occurring organism in any cave.</p><p>B. Any violation of this section shall be punished as a Class 1 misdemeanor.</p><p>1979, c. 252, § 10-150.14; 1982, c. 81; 1988, c. 891.</p>

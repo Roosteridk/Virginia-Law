@@ -1,0 +1,3 @@
+# § 15.2-2125 Board, etc., for supervision of such works.
+
+<p>Localities contracting with each other pursuant to § <a href='http://law.lis.virginia.gov/vacode/15.2-2124/'>15.2-2124</a> may also provide in the contract (i) for a board, commission or other body as deemed appropriate; (ii) for the supervision, general management and operation of such works or structures; and (iii) may prescribe their authority, duties and compensation.</p><p>Code 1950, § 15-739; 1962, c. 623, § 15.1-319; 1997, c. 587.</p>

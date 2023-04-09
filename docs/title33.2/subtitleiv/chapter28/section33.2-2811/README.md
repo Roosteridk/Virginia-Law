@@ -1,0 +1,3 @@
+# § 33.2-2811 Withdrawal from the Authority.
+
+<p>A member of the Authority may withdraw from the participation in and the obligations of the Authority by a resolution or an ordinance of its governing body, and pursuant to such conditions and procedures adopted by the Authority. However, if the Authority has any outstanding bonds or other debt, no member may withdraw from the Authority without the unanimous consent of all the holders of such bonds unless such bonds have been paid or cashed or United States government obligations have been deposited for their payment.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0645'>645</a>, § 15.2-7034; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

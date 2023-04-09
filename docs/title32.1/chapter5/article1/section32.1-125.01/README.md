@@ -1,0 +1,3 @@
+# § 32.1-125.01 Failing to report; penalty.
+
+<p>Any hospital or nursing home that has not paid civil penalties assessed for failing to report pursuant to § <a href='http://law.lis.virginia.gov/vacode/54.1-2400.6/'>54.1-2400.6</a> shall not be issued a license or certification or a renewal of such.</p><p>2003, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0753'>753</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0762'>762</a>; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0064'>64</a>.</p>

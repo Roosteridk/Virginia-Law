@@ -1,0 +1,3 @@
+# § 60.2-308 Expenditures solely for cost of administration.
+
+<p>A. All moneys in this fund shall be expended solely for the purpose of defraying the cost of the administration of this title and for no other purpose whatsoever.</p><p>B. All moneys received by the Commission pursuant to the provisions of § 302 of the Social Security Act (42 U.S.C. § 502), shall be expended solely for the purposes and in the amounts found necessary by the Secretary of Labor of the United States for the proper and efficient administration of this title.</p><p>Code 1950, § 60-97; 1956, c. 440; 1968, c. 738, § 60.1-114; 1986, c. 480.</p>

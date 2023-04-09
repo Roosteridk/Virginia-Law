@@ -1,0 +1,3 @@
+# § 58.1-3313 Commissioners to correct mistakes in their land books.
+
+<p>Every commissioner, in making out his land book, shall correct any mistake made in any entry therein. But land which has been correctly charged to one person shall not afterwards be charged to another without evidence of record that such charge is proper.</p><p>Code 1950, § 58-809; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 55.1-2400 Definition.
+
+<p>As used in this chapter, "known" in terms of determining whether an owner is "known" includes inspection of tax records and any other inquiry deemed to be reasonable. It need not include inspection of the premises or inspection of title records in the clerk's office in the county or city in which the land is located.</p><p>1984, c. 315, § 55-170.1; 1988, c. 312; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0551'>551</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

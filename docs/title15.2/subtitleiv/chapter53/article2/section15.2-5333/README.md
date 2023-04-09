@@ -1,0 +1,3 @@
+# § 15.2-5333 Rules as to patients.
+
+<p>An authority shall have power to make rules governing the admission of patients to, and the care, conduct, and treatment of patients in, any hospital operated by the authority; to determine whether patients presented to the hospital for treatment are subjects for charity, to fix the compensation to be paid by patients other than those unable to assist themselves; and to maintain and operate isolation wards for the care and treatment of mental, contagious or other similar diseases.</p><p>Code 1950, § 32-246; 1979, c. 719, § 15.1-1567; 1997, c. 587.</p>

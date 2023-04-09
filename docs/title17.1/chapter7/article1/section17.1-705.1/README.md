@@ -1,0 +1,3 @@
+# § 17.1-705.1 Civil immunity for investigation of commissioners of accounts, etc.
+
+<p>All members of the Standing Committee on Commissioners of Accounts of the Judicial Council of Virginia shall be immune from civil liability for, or resulting from, any act, decision, omission, communication, finding, opinion or conclusion done or made in connection with the investigation of complaints against any commissioner of accounts, assistant commissioner of accounts or deputy commissioner of accounts, if such act, decision, omission, communication, finding, opinion or conclusion is done in good faith and without malicious intent.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0976'>976</a>.</p>

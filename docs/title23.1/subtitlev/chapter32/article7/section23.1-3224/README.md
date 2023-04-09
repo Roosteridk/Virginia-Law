@@ -1,0 +1,3 @@
+# § 23.1-3224 Director of the Commission.
+
+<p>The Governor may appoint a director of the Commission, who shall serve at the pleasure of the Governor. The director may employ the personnel required to assist the Commission in the exercise and performance of its powers and duties. The director shall supervise and manage such personnel and shall prepare, approve, and submit all requests for appropriations and be responsible for all expenditures pursuant to appropriations.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

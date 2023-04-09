@@ -1,0 +1,3 @@
+# § 40.1-109 Newspaper carriers on regular routes; hours.
+
+<p>Notwithstanding the other provisions of this chapter, any child between twelve and sixteen years of age may daily engage in the occupation of distributing newspapers on regularly established routes between the hours of four o'clock ante meridian and seven o'clock post meridian, excluding the time public schools are actually in session.</p><p>Code 1950, § 40-118; 1960, c. 434; 1962, c. 352; 1970, c. 321; 1972, c. 807; 1973, c. 13; 1979, c. 219; 1982, c. 83; 1991, c. 511.</p>

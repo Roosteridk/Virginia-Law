@@ -1,0 +1,3 @@
+# § 2.2-2372 Form and audit of accounts and records.
+
+<p>A. The accounts and records of the Authority showing the receipt and disbursement of funds from whatever source derived shall be in such form as the Auditor of Public Accounts prescribes.</p><p>B. The accounts and records of the Authority are subject to an annual audit by the Auditor of Public Accounts or his legal representative.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0306'>306</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0307'>307</a>.</p>

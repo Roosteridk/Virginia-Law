@@ -1,0 +1,3 @@
+# § 3.2-2900 Definitions.
+
+<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Farmers" shall include all producers of agricultural products such as cotton, tobacco, peanuts, soybeans, potatoes, vegetables, fruits, livestock, livestock products, poultry and turkeys, any other agricultural products having domestic and foreign markets, and all nursery, horticultural, or floricultural products.</p><p>Code 1950, § 3-16.7; 1966, c. 536, § 3.1-22.3; 1968, c. 85; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

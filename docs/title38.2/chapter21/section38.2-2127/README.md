@@ -1,0 +1,3 @@
+# § 38.2-2127 Notice of change in deductible.
+
+<p>Whenever an insurer unilaterally changes the deductible under a policy written to insure an owner-occupied dwelling, the insurer shall provide a written notice that (i) explicitly states that the deductible has changed and (ii) explains how the new deductible will be applied. Nothing in this section shall allow an insurer to change a deductible except at renewal. This section shall apply to all policies renewed in the Commonwealth on or after October 1, 2004.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0745'>745</a>.</p>

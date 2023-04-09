@@ -1,0 +1,3 @@
+# § 21-129 Agents for sale of bonds.
+
+<p>The governing body shall have power to appoint an agent or agents to sell the bonds and to pay such agent or agents a commission for negotiating the sale not exceeding three per centum of the amount of bonds sold by them, provided the bonds shall be sold to be paid for in lawful money only, and shall not be sold at less than their par value. When such a sale has been negotiated, the governing body shall issue the bonds.</p><p>1946, p. 182; Michie Suppl. 1946, § 1560z6.</p>

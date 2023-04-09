@@ -1,0 +1,3 @@
+# § 8.01-526 When forthcoming bond taken; property remains in debtor's possession.
+
+<p>The sheriff or other officer levying a writ of fieri facias, or distress warrant, may take from the debtor a bond, with sufficient surety, payable to the creditor, reciting the service of such writ or warrant, and the amount due thereon, including the officer's fee for taking the bond, commissions, and other lawful charges, if any, with condition that the property shall be forthcoming at the day and place of sale; whereupon, such property may be permitted to remain in the possession and at the risk of the debtor.</p><p>Code 1950, § 8-450; 1977, c. 617.</p>

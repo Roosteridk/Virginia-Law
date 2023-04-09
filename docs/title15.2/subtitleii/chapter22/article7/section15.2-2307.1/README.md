@@ -1,0 +1,3 @@
+# § 15.2-2307.1 Protection of established commercial fishing operations.
+
+<p>Registered commercial fishermen and seafood buyers who operate their businesses from their waterfront residences shall not be prohibited by a locality from continuing their businesses, notwithstanding the provisions of any local zoning ordinance. This section shall only apply to businesses that have been in operation by the current owner, or a family member of the current owner, for at least 20 years at the location in question. The protection granted by this section shall continue so long as the property is owned by the current owner or a family member of the owner.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0194'>194</a>.</p>

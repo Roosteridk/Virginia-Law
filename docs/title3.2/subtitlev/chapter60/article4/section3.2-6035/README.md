@@ -1,0 +1,3 @@
+# § 3.2-6035 Definitions.
+
+<p>As used in this article, unless the context requires a different meaning:</p><p>"Shooting enclosure" or "enclosure" means any fenced area open commercially to the public or any private facility where animals are held for the purpose of being shot.</p><p>"Wildlife" means any native or exotic wild animal or bird.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0822'>822</a>, § 3.1-763.5:1; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0298'>298</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,0 +1,3 @@
+# § 38.2-1378 Minimum standard for accident and health insurance contracts.
+
+<p>For accident and health insurance contracts issued on or after the operative date of the valuation manual, the standard prescribed in the valuation manual is the minimum standard of valuation required under subsection B of § <a href='http://law.lis.virginia.gov/vacode/38.2-1366/'>38.2-1366</a>. For disability and accident and sickness insurance contracts issued on or after January 1, 1937, and prior to the operative date of the valuation manual, the minimum standard of valuation is the standard adopted by the Commission by regulation.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0571'>571</a>.</p>

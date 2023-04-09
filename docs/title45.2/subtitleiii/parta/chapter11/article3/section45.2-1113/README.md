@@ -1,0 +1,3 @@
+# § 45.2-1113  Records of Board of Mineral Mining Examiners.
+
+<p>The Director of the Division shall preserve in his office a record of the meetings and transactions of the Board of Mineral Mining Examiners and of all certificates issued by the Board.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0390'>390</a>, § 45.1-161.292:17; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

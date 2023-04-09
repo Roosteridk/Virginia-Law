@@ -1,0 +1,3 @@
+# § 20-88.64:3 Immunity from civil liability.
+
+<p>An employer that complies with an income-withholding order issued in another state in accordance with this article is not subject to civil liability to an individual or agency with regard to the employer's withholding child support from the obligor's income.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0797'>797</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0897'>897</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0727'>727</a>.</p>

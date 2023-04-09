@@ -1,0 +1,3 @@
+# § 59.1-335.11 Statute of limitations.
+
+<p>An action to enforce any liability created under this chapter may be brought within two years from the date on which the liability arises, except that where a defendant has materially and willfully misrepresented any information required under this chapter to be disclosed to a consumer and the information so misrepresented is material to the establishment of the defendant's liability to that consumer under this chapter, the action may be brought at any time within two years after discovery by the consumer of the misrepresentation.</p><p>1989, cc. 651, 655.</p>

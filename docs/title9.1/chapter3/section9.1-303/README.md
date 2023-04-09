@@ -1,0 +1,3 @@
+# § 9.1-303 Informal counseling not prohibited.
+
+<p>Nothing in this chapter shall be construed to prohibit the informal counseling of a firefighter or emergency medical services personnel by a supervisor in reference to a minor infraction of policy or procedure that does not result in disciplinary action being taken against the firefighter or emergency medical services personnel.</p><p>1987, c. 509, § 2.1-116.9:3; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

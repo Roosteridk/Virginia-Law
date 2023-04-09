@@ -1,0 +1,3 @@
+# § 57-35.35:1 Definitions.
+
+<p>As used in this article, unless the context requires a different meaning:</p><p>"Previously unidentified cemetery" means a cemetery that, notwithstanding the fact that it is known to researchers, members of the community, or descendants of those buried there, has not been identified in the Virginia Cultural Resources Information System or has not been officially located in the land records of the locality.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0195'>195</a>.</p>

@@ -1,0 +1,3 @@
+# § 38.2-4518 Renewal of nonstock corporation license.
+
+<p>A. Each nonstock corporation licensed under this chapter shall renew its license annually by July 1. The renewal license shall not be issued unless the nonstock corporation has complied with all requirements of law.</p><p>B. The Commission shall not fail or refuse to renew the license of any nonstock corporation without first giving the nonstock corporation ten days' notice of its intention not to renew the license and giving it an opportunity to be heard and to introduce evidence in its behalf. Any nonrenewal hearing may be informal, and the required notice may be waived by the Commission and the nonstock corporation.</p><p>1980, c. 682, § 38.1-907; 1986, c. 562; 1987, cc. 565, 655.</p>

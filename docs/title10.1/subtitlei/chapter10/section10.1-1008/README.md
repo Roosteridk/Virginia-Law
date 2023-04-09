@@ -1,0 +1,3 @@
+# § 10.1-1008 Liability of owners and agents limited; sovereign immunity of Commonwealth not waived.
+
+<p>Neither the owner of a cave nor his authorized agents acting within the scope of their authority are liable for injuries sustained by any person using the cave for recreational or scientific purposes if no charge has been made for the use of the cave, notwithstanding that an inquiry as to the experience or expertise of the individual seeking consent may have been made.</p><p>Nothing in this section shall be construed to constitute a waiver of the sovereign immunity of the Commonwealth or any of its boards, departments, bureaus, or agencies.</p><p>1979, c. 252, § 10-150.18; 1988, c. 891.</p>

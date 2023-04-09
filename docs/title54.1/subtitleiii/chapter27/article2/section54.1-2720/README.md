@@ -1,0 +1,3 @@
+# § 54.1-2720 Display of name of practitioner.
+
+<p>Every person practicing dentistry under a firm name, and every person practicing dentistry as an employee of another licensed dentist shall conspicuously display his name at the entrance of the office. Any licensed dentist who fails to display his name shall be subject to disciplinary action by the Board.</p><p>Code 1950, § 54-186; 1972, c. 805; 1988, c. 765; 2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0505'>505</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0587'>587</a>.</p>

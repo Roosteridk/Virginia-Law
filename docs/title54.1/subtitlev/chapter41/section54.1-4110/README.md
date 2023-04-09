@@ -1,0 +1,3 @@
+# § 54.1-4110 Penalties; first and subsequent offenses.
+
+<p>A. Any person convicted of violating any of the provisions of this chapter shall be guilty of a Class 2 misdemeanor for the first offense. Upon conviction of any subsequent offense he shall be guilty of a Class 1 misdemeanor.</p><p>B. Upon the first conviction of a dealer for violation of any provision of this chapter, the chief law-enforcement officer may revoke the dealer's permit for one full year from the date the conviction becomes final. Such revocation shall be mandatory for two full years from the date the conviction becomes final upon a second conviction.</p><p>1981, c. 581, § 54-859.25; 1988, c. 765; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0100'>100</a>.</p>

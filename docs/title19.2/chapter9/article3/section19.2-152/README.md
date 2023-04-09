@@ -1,0 +1,3 @@
+# § 19.2-152 Order discharging recognizance or superseding commitment; judgment for costs.
+
+<p>Every order discharging a recognizance shall be filed with the clerk before the session of the court at which the party was to appear. Where a person is held under a commitment, any order superseding a commitment shall be delivered to the jailer, who shall forthwith discharge the witnesses, if any, and the accused or juvenile, and judgment against the accused or juvenile shall be entered in the court for the costs of the prosecution.</p><p>Code 1950, § 19.1-19; 1960, c. 366; 1975, c. 495; 1978, c. 755.</p>

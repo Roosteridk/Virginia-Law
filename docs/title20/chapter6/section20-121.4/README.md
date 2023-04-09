@@ -1,0 +1,3 @@
+# § 20-121.4 Restoration of former name.
+
+<p>Upon decreeing a divorce from the bond of matrimony the court shall, on motion of a party who changed his or her name by reason of the marriage, restore such party's former name or maiden name by separate order meeting the requirements of § <a href='http://law.lis.virginia.gov/vacode/8.01-217/'>8.01-217</a>.</p><p>1979, c. 1; 1990, c. 569; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0258'>258</a>.</p>

@@ -1,0 +1,3 @@
+# § 20-146.22 Definitions.
+
+<p>In this article:</p><p>"Petitioner" means a person who seeks enforcement of an order for return of a child under the Hague Convention on the Civil Aspects of International Child Abduction or enforcement of a child custody determination.</p><p>"Respondent" means a person against whom a proceeding has been commenced for enforcement of an order for return of a child under the Hague Convention on the Civil Aspects of International Child Abduction or enforcement of a child custody determination.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0305'>305</a>.</p>

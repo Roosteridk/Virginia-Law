@@ -1,0 +1,3 @@
+# § 15.2-3100 Commissioners to settle disputed boundary lines.
+
+<p>Whenever a doubt exists or dispute arises over the true boundary line between any two localities, the circuit courts for the respective localities may each appoint not fewer than three nor more than five commissioners, who shall be resident landowners of their respective localities, a majority of those appointed for each locality being necessary to act, who shall meet and proceed to ascertain and establish the true line.</p><p>Code 1950, § 15-38; 1954, c. 536; 1962, c. 623, § 15.1-1026; 1979, c. 456; 1997, c. 587.</p>

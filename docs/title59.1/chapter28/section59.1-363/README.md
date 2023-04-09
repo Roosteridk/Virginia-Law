@@ -1,0 +1,3 @@
+# § 59.1-363 Exclusions.
+
+<p>Agreements subject to the provisions of this chapter shall not be subject to any requirement contained in Chapter 8 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-557/'>13.1-557</a> et seq.) of Title 13.1 or Chapter 27.1 (§ <a href='http://law.lis.virginia.gov/vacode/59.1-352.1/'>59.1-352.1</a> et seq.) of this title.</p><p>1988, c. 73; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0898'>898</a>.</p>

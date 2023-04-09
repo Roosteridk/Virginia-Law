@@ -1,0 +1,3 @@
+# § 38.2-1334.8 Contents of ORSA summary report.
+
+<p>A. The ORSA summary report shall be prepared consistent with the ORSA Guidance Manual, subject to the requirements of subsection B. Documentation and supporting information shall be maintained and made available upon examination or upon request of the Commission.</p><p>B. The review of the ORSA summary report, and any additional requests for information, shall be made using similar procedures currently used in the analysis and examination of multistate or global insurers and insurance groups.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0248'>248</a>.</p>

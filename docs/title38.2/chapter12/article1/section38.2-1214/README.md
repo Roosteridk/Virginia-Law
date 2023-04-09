@@ -1,0 +1,3 @@
+# § 38.2-1214 Savings returned to subscribers.
+
+<p>A reciprocal may return to its subscribers any savings or credits accruing to their accounts. Any such distribution shall not unfairly discriminate between classes of risks or policies, or between subscribers. However, the distribution may vary for classes of subscribers based upon the experience of those classes.</p><p>1952, c. 317, § 38.1-704; 1986, c. 562.</p>

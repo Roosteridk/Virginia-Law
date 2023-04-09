@@ -1,0 +1,3 @@
+# § 18.2-51.6 Strangulation of another; penalty.
+
+<p>Any person who, without consent, impedes the blood circulation or respiration of another person by knowingly, intentionally, and unlawfully applying pressure to the neck of such person resulting in the wounding or bodily injury of such person is guilty of strangulation, a Class 6 felony.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0577'>577</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0602'>602</a>.</p>

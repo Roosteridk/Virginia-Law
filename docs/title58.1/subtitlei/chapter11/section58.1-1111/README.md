@@ -1,0 +1,3 @@
+# § 58.1-1111 Application to fiduciaries generally.
+
+<p>Fiduciaries shall be subject to all the provisions of this chapter which apply to other taxpayers, except as otherwise specifically provided herein. Any fiduciary for a taxpayer shall file a return of intangible personal property in the county or city wherein the taxpayer would have been required to file.</p><p>Code 1950, §§ 58-432, 58-433, 58-437; 1984, c. 675.</p>

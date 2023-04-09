@@ -1,0 +1,3 @@
+# § 59.1-501.8 Proof and effect of authentication.
+
+<p>(a) Authentication may be proven in any manner, including a showing that a party made use of information or access that could have been available only if it engaged in conduct or operations that authenticated the record or term.</p><p>(b) Compliance with a commercially reasonable attribution procedure agreed to or adopted by the parties or established by law for authenticating a record authenticates the record as a matter of law.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0101'>101</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0996'>996</a>.</p>

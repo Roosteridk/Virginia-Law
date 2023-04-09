@@ -1,0 +1,3 @@
+# § 32.1-237 Effect upon local ordinances, etc.
+
+<p>Ordinances, resolutions or regulations, now or hereafter in effect, of the governing body of a county or city relating to by-product, source and special nuclear materials shall not be superseded by this article, provided that such ordinances or regulations are and continue to be consistent with the provisions of this article, amendments thereto and regulations thereunder.</p><p>Code 1950, § 32-414.13; 1964, c. 158; 1979, c. 711.</p>

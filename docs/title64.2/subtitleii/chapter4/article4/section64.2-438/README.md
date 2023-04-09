@@ -1,0 +1,3 @@
+# § 64.2-438 Effect of certificate.
+
+<p>In the absence of evidence to the contrary, the certificate of the authorized person shall be conclusive of the formal validity of the instrument as a will under this article. The absence or irregularity of a certificate shall not affect the formal validity of a will under this article.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0443'>443</a>, § 64.1-96.7; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

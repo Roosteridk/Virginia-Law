@@ -1,0 +1,3 @@
+# § 8.01-227.18 Helmets.
+
+<p>Each winter sports participant, or the parent or legal guardian of, or adult acting in a supervisory position over, a participant under the age of 18, shall be responsible for determining whether the participant will wear a helmet and whether the helmet is sufficiently protective and properly sized, fitted, and secured.</p><p>Nothing in this article shall be construed to extend liability to an operator for injury to or death of a participant or other individual or damage to property resulting from a participant not wearing a helmet while participating in a winter sport.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0713'>713</a>.</p>

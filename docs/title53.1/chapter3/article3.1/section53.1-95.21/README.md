@@ -1,0 +1,3 @@
+# § 53.1-95.21 Supplemental and additional powers.
+
+<p>The foregoing sections of this article shall be deemed to provide an additional and alternative method for the performance of acts authorized thereby, shall be regarded as supplemental and additional to powers conferred by other laws, and shall not be regarded as in derogation of any powers now existing.</p><p>1990, c. 837.</p>

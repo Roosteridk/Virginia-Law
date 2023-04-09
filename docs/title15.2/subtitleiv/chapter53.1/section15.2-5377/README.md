@@ -1,0 +1,3 @@
+# § 15.2-5377 Issuance and sale of bonds.
+
+<p>Any bonds issued by the Authority may be issued in one or more series, shall bear such date or dates, mature at such time or times, bear interest at such rate or rates payable at such time or times, be in such denominations, be in such form, either coupon or registered, carry such registration privileges, be executed in such manner, be payable in such medium of payment, at such place or places, be subject to such terms of redemption, with or without premium, as the Authority by resolution may prescribe. Such bonds may be sold at public or private sale for such price or prices as the Authority determines.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0676'>676</a>.</p>

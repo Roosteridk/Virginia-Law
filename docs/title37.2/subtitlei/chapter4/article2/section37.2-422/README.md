@@ -1,0 +1,3 @@
+# § 37.2-422 Penalty.
+
+<p>Any person violating any provision of this article or any applicable regulation made under such provisions shall be guilty of a Class 3 misdemeanor, and each day, or part thereof, of continuation of any such violation shall constitute a separate offense.</p><p>Code 1950, § 37-260; 1960, c. 496; 1968, c. 477, § 37.1-189; 1976, c. 671; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

@@ -1,0 +1,3 @@
+# § 46.2-2127 Freight bill violation.
+
+<p>Any motor carrier that consistently submits a freight bill to a shipper for services rendered, which bill is more than ten percent above the written estimate of charges for such services, shall be subject to penalties and/or revocation or suspension of certificate as provided in this chapter.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

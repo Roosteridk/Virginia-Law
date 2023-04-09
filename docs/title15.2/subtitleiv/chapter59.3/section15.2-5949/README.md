@@ -1,0 +1,3 @@
+# § 15.2-5949 Expiration of entitlement to certain sales tax revenues.
+
+<p>The provisions of this chapter shall expire on the earlier of (i) the maturity date of any bonds issued for the construction of a Facility, including any refunding or refinancing of such bonds, or (ii) July 1, 2060.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0538'>538</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0539'>539</a>.</p>

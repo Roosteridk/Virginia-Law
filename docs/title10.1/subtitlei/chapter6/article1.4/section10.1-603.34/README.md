@@ -1,0 +1,3 @@
+# § 10.1-603.34 Grants to local governments.
+
+<p>Subject to any restrictions that may apply to the use of money in the Fund, the Department may approve the use of money in the Fund to make grants or appropriations to local governments to pay the cost of any project. The Department may establish such terms and conditions on any grant as it deems appropriate. Grants shall be disbursed from the Fund by the Authority in accordance with the written direction of the Department.</p><p>2022, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0739'>739</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0782'>782</a>.</p>

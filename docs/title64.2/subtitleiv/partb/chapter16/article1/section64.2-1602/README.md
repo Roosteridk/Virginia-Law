@@ -1,0 +1,3 @@
+# § 64.2-1602 Power of attorney is durable.
+
+<p>A power of attorney created under this chapter is durable unless it expressly provides that it is terminated by the incapacity of the principal.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0455'>455</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0632'>632</a>, § 26-75; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

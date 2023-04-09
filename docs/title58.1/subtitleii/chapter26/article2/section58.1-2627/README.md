@@ -1,0 +1,3 @@
+# § 58.1-2627 Exemptions.
+
+<p>There shall be deducted from the gross receipts of any corporation engaged in the business of furnishing heat, light or power by means of gas, revenues billed on behalf of another person to the extent such revenues are later paid over to or settled with that person.</p><p>Code 1950, § 58-603; 1971, Ex. Sess., c. 41; 1972, c. 858; 1976, c. 778; 1978, c. 786; 1980, c. 668; 1982, c. 633; 1984, c. 675; 1986, c. 243; 1993, c. 522; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0197'>197</a>; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0971'>971</a>.</p>

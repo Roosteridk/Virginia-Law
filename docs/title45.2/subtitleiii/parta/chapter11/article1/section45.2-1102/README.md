@@ -1,0 +1,3 @@
+# § 45.2-1102  Safety and health.
+
+<p>In safety and health, all mineral miners are to be governed by the Act, Article 1 (§ <a href='/vacode/45.2-1300/'>45.2-1300</a> et seq.) of Chapter 13, any other section of the Code relating to the safety and health of miners, and regulations adopted by the Department.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0390'>390</a>, § 45.1-161.292:3; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

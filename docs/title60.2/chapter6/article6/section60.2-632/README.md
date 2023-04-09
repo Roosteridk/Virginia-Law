@@ -1,0 +1,3 @@
+# § 60.2-632 False statements, etc., to obtain or increase benefits.
+
+<p>Whoever makes a false statement or representation knowing it to be false or knowingly fails to disclose a material fact, with intent to obtain or increase any benefit or other payment under this title, the unemployment compensation act of any other state, or any program of the federal government which is administered in any way under this title, either for himself or for any other person, shall be guilty of a Class 1 misdemeanor. Each such false statement or representation or failure to disclose a material fact shall constitute a separate offense.</p><p>Code 1950, § 60-112; 1968, c. 738, § 60.1-129; 1970, c. 104; 1986, c. 480.</p>

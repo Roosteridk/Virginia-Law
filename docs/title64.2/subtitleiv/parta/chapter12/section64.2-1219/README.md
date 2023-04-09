@@ -1,0 +1,3 @@
+# § 64.2-1219 Fees of commissioners of accounts.
+
+<p>Except as otherwise provided, the circuit court appointing a commissioner of accounts shall prescribe the fees of such commissioner of accounts.</p><p>Code 1919, § 5414; 1938, p. 141; Code 1950, § 26-24; 1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0214'>214</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0842'>842</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

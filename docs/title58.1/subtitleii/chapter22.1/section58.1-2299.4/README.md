@@ -1,0 +1,3 @@
+# § 58.1-2299.4 Absorption of tax prohibited.
+
+<p>No person shall advertise or hold out to the public, directly or indirectly, that he will absorb all or any part of the tax levied under this chapter, or that he will relieve the purchaser of the payment of all or any part of such tax. Any person who violates this section shall be guilty of a Class 2 misdemeanor.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0217'>217</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0225'>225</a>.</p>

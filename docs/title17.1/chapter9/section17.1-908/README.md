@@ -1,0 +1,3 @@
+# § 17.1-908 Scope of process.
+
+<p>In any investigation or formal proceeding in any part of the Commonwealth, any process issued pursuant to the provisions of § <a href='http://law.lis.virginia.gov/vacode/17.1-907/'>17.1-907</a> shall be effective throughout the Commonwealth.</p><p>1971, Ex. Sess., c. 154, § 2.1-37.10; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

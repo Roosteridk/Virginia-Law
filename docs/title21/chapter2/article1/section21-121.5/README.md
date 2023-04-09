@@ -1,0 +1,3 @@
+# § 21-121.5 Validation of certain actions.
+
+<p>All proceedings had in the creation, enlargement or merger of sanitary districts in the Commonwealth prior to January 1, 1977, whether under general law or by special act, are validated and confirmed, and all such districts so created, enlarged or merged or attempted to be created, enlarged or merged under existing law or by special act are declared to have been validly created, established, enlarged or merged notwithstanding any defects or irregularities in the creation, enlargement or merger thereof.</p><p>1977, c. 183.</p>

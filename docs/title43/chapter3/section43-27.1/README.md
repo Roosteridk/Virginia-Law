@@ -1,0 +1,3 @@
+# § 43-27.1 When clerk may destroy crop lien agreement and crop lien book.
+
+<p>Any agreement evidencing a lien on crops required by § <a href='http://law.lis.virginia.gov/vacode/43-27/'>43-27</a> to be docketed in a clerk's office may be destroyed by such clerk after twenty-four months from the date the same is docketed in his office. Any "Crop Lien Book," together with the index thereto, required by § <a href='http://law.lis.virginia.gov/vacode/43-27/'>43-27</a> to be kept in a clerk's office, may be destroyed by such clerk after twenty-four months from the date the last entry has been made therein, provided the same is replaced with a similar book and index for the recordation of current liens.</p><p>1962, c. 109.</p>

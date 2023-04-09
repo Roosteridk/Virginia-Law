@@ -1,0 +1,3 @@
+# § 38.2-4508 Board of directors of nonstock corporation.
+
+<p>Notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/13.1-855/'>13.1-855</a>, a nonstock corporation shall have a board of directors consisting of at least twelve but no more than twenty members. A majority of the members of the board of directors of a nonstock corporation operating a dental services plan shall be participating dentists. A majority of the members of the board of directors of a nonstock corporation operating an optometric services plan shall be participating optometrists.</p><p>1980, c. 682, § 38.1-898; 1986, c. 562; 1987, c. 520.</p>

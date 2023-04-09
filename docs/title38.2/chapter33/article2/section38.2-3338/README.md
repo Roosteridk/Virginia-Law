@@ -1,0 +1,3 @@
+# § 38.2-3338 Provisions prohibited.
+
+<p>No group life insurance policy shall be delivered or issued for delivery in this Commonwealth if it contains any provision:</p><p>1. Limiting the time within which any action at law or in equity may be commenced to less than one year after the cause of action accrues; or</p><p>2. To the effect that the agent soliciting the insurance is the agent of the person insured under the policy, or making the acts or representations of the agent binding upon the person insured under the policy.</p><p>Code 1950, § 38-386; 1952, c. 317, § 38.1-406; 1956, c. 417; 1986, c. 562.</p>

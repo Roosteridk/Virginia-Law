@@ -1,0 +1,3 @@
+# § 38.2-3911 Time limit on certain defenses.
+
+<p>Every insurance policy or contract shall contain a provision that after two years from the effective date of the policy or contract, only fraudulent misstatements in the application may be used to void the policy or contract or deny any claim for a loss incurred or a disability that starts after the two-year period. This provision may be omitted if the incontestable clause referred to in § <a href='http://law.lis.virginia.gov/vacode/38.2-3912/'>38.2-3912</a> is included.</p><p>1985, c. 400, § 38.1-549.12; 1986, c. 562.</p>

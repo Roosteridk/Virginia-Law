@@ -1,0 +1,3 @@
+# § 52-28 Duty of Commonwealth and local agencies to make reports.
+
+<p>All Commonwealth, county and municipal law-enforcement agencies shall submit to the Department all periodic uniform crime reports setting forth their activities in connection with law enforcement. The provisions of this chapter shall not apply to any police agency not paid entirely from public funds.</p><p>1974, c. 577; 1979, c. 83.</p>

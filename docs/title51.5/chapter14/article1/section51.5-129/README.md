@@ -1,0 +1,3 @@
+# § 51.5-129 Creation of State Rehabilitation Council; purpose; membership.
+
+<p>The State Rehabilitation Council is established as a designated state council in the executive branch of government for the purpose of providing advice to and performing other functions for the Department regarding vocational services provided pursuant to Title I and Title VI of the federal Rehabilitation Act of 1973 (29 U.S.C. § 701 et seq. and 29 U.S.C. § 795 et seq., respectively). Membership, terms, and meeting requirements shall be in accordance with federal provisions as provided in 29 U.S.C. § 725.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

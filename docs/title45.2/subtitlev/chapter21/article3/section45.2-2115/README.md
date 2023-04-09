@@ -1,0 +1,3 @@
+# § 45.2-2115  Right of inspection by Director.
+
+<p>For the purposes of carrying out the provisions of this article, the Director is hereby vested with authority to inspect at reasonable times and in a reasonable manner any area for which he has received an application for a permit, or has granted a permit, for exploration activity.</p><p>1982, c. 269, § 45.1-280; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

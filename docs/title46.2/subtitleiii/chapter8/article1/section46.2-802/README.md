@@ -1,0 +1,3 @@
+# § 46.2-802 Drive on right side of highways; penalty.
+
+<p>Except as otherwise provided by law, on all highways of sufficient width, the driver of a vehicle shall drive on the right half of the highway, unless it is impracticable to travel on such side of the highway and except when overtaking and passing another vehicle, subject to the provisions applicable to overtaking and passing set forth in Article 4 (§ <a href='http://law.lis.virginia.gov/vacode/46.2-837/'>46.2-837</a> et seq.) of this chapter. A violation of this section is punishable by a fine of $100.</p><p>Code 1950, § 46-220; 1952, c. 671; 1958, c. 541, § 46.1-203; 1989, c. 727; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0795'>795</a>.</p>

@@ -1,0 +1,3 @@
+# § 46.2-922 Driving over fire hose.
+
+<p>It shall be unlawful, without the consent of the fire department official in command, for the driver of any vehicle to drive over any unprotected hose of a fire department laid down for use at any fire or alarm of fire.</p><p>Code 1950, § 46-242.1; 1954, c. 13; 1958, c. 541, § 46.1-228; 1989, c. 727.</p>

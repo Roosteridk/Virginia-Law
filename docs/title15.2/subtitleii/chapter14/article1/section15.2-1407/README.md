@@ -1,0 +1,3 @@
+# § 15.2-1407 Administrative leave for certain members of governing bodies.
+
+<p>Any duly elected member of a governing body who is an employee of that locality may receive administrative leave each year in addition to his annual and sick leave.</p><p>Code 1950, § 15-5; 1962, c. 623, § 15.1-13; 1987, c. 432; 1997, c. 587.</p>

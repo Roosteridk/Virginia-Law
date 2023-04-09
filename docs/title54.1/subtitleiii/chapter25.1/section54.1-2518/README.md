@@ -1,0 +1,3 @@
+# § 54.1-2518 Investigation by Department or other authorized official; prosecution for violations of law.
+
+<p>This chapter shall not be construed to inhibit an investigation into the conduct of a practitioner by the Department of Health Professions or any other authorized agency, including, but not limited to, law-enforcement or health regulatory agencies, or to prohibit the prosecution of any practitioner for any violation of law.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0439'>439</a>.</p>

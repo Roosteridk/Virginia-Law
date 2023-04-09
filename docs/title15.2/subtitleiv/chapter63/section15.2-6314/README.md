@@ -1,0 +1,3 @@
+# § 15.2-6314 Exemption from taxation; authorities to be municipal corporate instrumentalities of Commonwealth.
+
+<p>The bonds or other securities issued by an authority, the interest thereon, and all real and personal property and any interest therein of an authority, and all income derived therefrom by an authority shall at all times be free from taxation by the Commonwealth, or by any political subdivision thereof. The authority shall be regarded as a municipal corporate instrumentality of the Commonwealth for the purpose of discharging its functions and exercising its powers under this chapter.</p><p>Code 1950, § 15-952; 1954, c. 645; 1962, c. 623, § 15.1-1335; 1997, c. 587.</p>

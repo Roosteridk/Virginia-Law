@@ -1,0 +1,3 @@
+# § 6.2-827 Rights of national bank stockholders dissenting from conversion.
+
+<p>The rights of stockholders of a national banking association who dissent from the approval by the stockholders of the conversion of the national banking corporation into a state bank shall be governed by the provisions of 12 U.S.C. § 214a (b), as now existing or as hereafter amended.</p><p>Code 1950, § 6-15.3; 1952, c. 571; 1966, c. 584, § 6.1-37; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

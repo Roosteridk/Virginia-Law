@@ -1,0 +1,3 @@
+# § 46.2-1077.01 Display of certain visual material in motor vehicles prohibited; penalty.
+
+<p>It shall be unlawful for the operator of any motor vehicle on a public highway to display or permit the display within the vehicle of any image, motion picture, or video display that is obscene as defined in § <a href='http://law.lis.virginia.gov/vacode/18.2-372/'>18.2-372</a> if such image, motion picture, or video display can be seen by persons outside the vehicle. Violation of this section shall constitute a Class 4 misdemeanor.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0669'>669</a>.</p>

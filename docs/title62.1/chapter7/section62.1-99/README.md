@@ -1,0 +1,3 @@
+# § 62.1-99 Water-power developments constructed or acquired prior to certain date.
+
+<p>Section 12 of Chapter 424 of the Acts of 1928, approved March 24, 1928, as amended by Chapter 346 of the Acts of 1932, approved March 26, 1932, codified as § 3581 (13) of Michie Code 1942 and as § 62-88 of the Code of Virginia of 1950, relating to water-power developments constructed or acquired prior to January 1, 1928, and being utilized on that date or within two years prior thereto, or upon which, between January 1, 1923, and June 17, 1928, not less than $50,000 had been expended, is continued in effect.</p><p>Code 1950, § 62-88; 1968, c. 659.</p>

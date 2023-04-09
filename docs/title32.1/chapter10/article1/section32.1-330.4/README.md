@@ -1,0 +1,3 @@
+# § 32.1-330.4 Uniform assessment instrument for PACE plans.
+
+<p>Every individual who requests a screening for the purpose of enrollment in a PACE plan, as defined in § <a href='http://law.lis.virginia.gov/vacode/32.1-330.3/'>32.1-330.3</a>, shall be eligible for such screening, regardless of whether the individual is eligible under the state plan for medical assistance.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0413'>413</a>.</p>

@@ -1,0 +1,3 @@
+# § 1-251 Systems of state highways.
+
+<p>"Systems of state highways" means all systems of highways within the Commonwealth over which the Commonwealth Transportation Board exercises jurisdiction and control. In context, such words shall apply to the extent, but only to the extent, that the Commonwealth Transportation Board exercises such jurisdiction and control.</p><p>1970, c. 136, § 1-13.40; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

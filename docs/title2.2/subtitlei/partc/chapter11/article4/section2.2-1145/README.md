@@ -1,0 +1,3 @@
+# § 2.2-1145 Inventory of property and Governor's house; custody of house and property pending election of Governor.
+
+<p>When the term of office of any Governor expires, or he shall die or resign, the Division shall take an inventory of all the public property and furniture in the Governor's house and outbuildings and deliver the inventory to the Comptroller, to be preserved in his office. The Division shall, unless the house is occupied by the Lieutenant Governor, have charge of the house, furniture, and other public property, until a Governor is elected and takes possession.</p><p>Code 1950, § 2-68; 1966, c. 677, § 2.1-86; 1977, c. 672, § 2.1-501; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

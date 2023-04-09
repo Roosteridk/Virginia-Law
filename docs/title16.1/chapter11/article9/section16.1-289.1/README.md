@@ -1,0 +1,3 @@
+# § 16.1-289.1 Motions to reconsider orders for participation in continuing programs.
+
+<p>When a person is ordered to participate in therapy, counseling or similar continuing programs, a motion may be filed with the court to reconsider the order, whether interlocutory or final, or the terms and conditions of participation at any time after the order is entered. The motion shall be heard within thirty days. Any order disposing of such motion shall be deemed to be a final order for purposes of appeal pursuant to Article 11 (§ <a href='http://law.lis.virginia.gov/vacode/16.1-296/'>16.1-296</a> et seq.), of this chapter.</p><p>1988, c. 771.</p>

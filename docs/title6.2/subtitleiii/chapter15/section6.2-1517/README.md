@@ -1,0 +1,3 @@
+# § 6.2-1517 Place of business generally.
+
+<p>A licensee shall not use any name other than the legal name or fictitious name set forth on the license issued by the Commission. No licensee shall conduct the business of making loans provided for by this chapter within any place of business other than is designated in the license issued by the Commission.</p><p>Code 1950, §§ 6-296, 6-298; 1966, c. 584, §§ 6.1-266, 6.1-268; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>; 2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1215'>1215</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1258'>1258</a>.</p>

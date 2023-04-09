@@ -1,0 +1,3 @@
+# § 58.1-4132 Authorized on-premises mobile casino gaming.
+
+<p>On-premises mobile casino gaming is prohibited except when offered by a casino gaming operator to individuals who participate in on-premises mobile casino gaming on the premises of the casino gaming establishment. Any casino gaming operator that offers on-premises mobile casino gaming shall comply with any regulations promulgated by the Board related to on-premises mobile casino gaming.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1197'>1197</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1248'>1248</a>.</p>

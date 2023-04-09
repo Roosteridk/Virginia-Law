@@ -1,0 +1,3 @@
+# § 55.1-2815 Effect of such law on certain fences.
+
+<p>A declaration made by ordinance adopted pursuant to § <a href='/vacode/55.1-2814/'>55.1-2814</a> shall not apply to relieve the adjoining landowners from making and maintaining their division fences, as defined by § <a href='/vacode/55.1-2804/'>55.1-2804</a>; however, Article 6 (§ <a href='/vacode/55.1-2821/'>55.1-2821</a> et seq.) shall apply to such division fences.</p><p>Code 1950, § 8-881; 1977, c. 624, § 55-311; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

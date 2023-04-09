@@ -1,0 +1,3 @@
+# § 3.2-1308 Falsification of records; misdemeanor.
+
+<p>It is a Class 1 misdemeanor:</p><p>1. For any first handler to fail to submit to the Tax Commissioner any statement or report required in this chapter within 60 days from the time such statement or report is required to be submitted.</p><p>2. For any first handler knowingly to report falsely to the Tax Commissioner the number of taxable cattle handled by him during any period or to falsify the records.</p><p>1970, c. 310, § 3.1-796.27; 1985, c. 237; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

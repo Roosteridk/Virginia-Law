@@ -1,0 +1,3 @@
+# § 38.2-3222 Computation of present value.
+
+<p>Any paid-up annuity benefit available under a contract shall be such that its present value on the date annuity payments are to commence at least equals the minimum nonforfeiture amount on that date. The present value shall be computed using the mortality table, if any, and the interest rate or rates specified in the contract for determining the minimum paid-up annuity benefits guaranteed in the contract.</p><p>1979, c. 437, § 38.1-470.1; 1986, c. 562; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0313'>313</a>.</p>

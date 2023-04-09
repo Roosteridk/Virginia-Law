@@ -1,0 +1,3 @@
+# § 46.2-810 Age limits for drivers of public passenger-carrying vehicles.
+
+<p>No person, whether licensed or not, under the age of eighteen years shall drive a motor vehicle while in use as a public passenger-carrying vehicle.</p><p>Code 1950, § 46-182; 1958, c. 541, § 46.1-170; 1970, c. 481; 1972, cc. 386, 823; 1989, c. 727.</p>

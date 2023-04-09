@@ -1,0 +1,3 @@
+# § 33.2-505 Exclusion of HOT lanes from certain other laws.
+
+<p>Notwithstanding any other provision of law, the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/22.1-187/'>22.1-187</a>, <a href='http://law.lis.virginia.gov/vacode/33.2-501/'>33.2-501</a>, <a href='http://law.lis.virginia.gov/vacode/33.2-613/'>33.2-613</a>, <a href='http://law.lis.virginia.gov/vacode/46.2-819/'>46.2-819</a>, and <a href='http://law.lis.virginia.gov/vacode/46.2-819.1/'>46.2-819.1</a> shall not apply to HOT lanes.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0783'>783</a>, § 33.1-56.5; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

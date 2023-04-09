@@ -1,0 +1,3 @@
+# § 20-37.1 Validation of certain marriages solemnized outside of Commonwealth.
+
+<p>All marriages heretofore solemnized outside this Commonwealth by a minister authorized to celebrate the rites of marriage in this Commonwealth, under a license issued in this Commonwealth, and showing on the application therefor the place out of this Commonwealth where said marriage is to be performed, shall be valid as if such marriage had been performed in this Commonwealth.</p><p>1952, c. 133.</p>

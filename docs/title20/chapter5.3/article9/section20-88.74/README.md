@@ -1,0 +1,3 @@
+# § 20-88.74 Procedure to register child support order of another state for modification.
+
+<p>A party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another state shall register that order in this Commonwealth in the same manner as provided in Article 8 (§ <a href='http://law.lis.virginia.gov/vacode/20-88.66/'>20-88.66</a> et seq.) if the order has not been registered. A petition for modification may be filed at the same time as a request for registration, or later. The pleading must specify the grounds for modification.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0673'>673</a>; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0069'>69</a>.</p>

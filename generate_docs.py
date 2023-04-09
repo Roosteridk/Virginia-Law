@@ -21,19 +21,15 @@ def treeify(data: list[dict]):
     labels = set()
     path = "./docs"
 
-    root_label = ""
     # Iterate over each row in current level
     for row in data:
-
-        if root_label != "":
-            path = "./docs/" + root_label
-
+        path = "./docs"
         for i in range(0, 13, 2):
             key = keys[i]
             val: str = row[key]
 
             # If value is empty, skip
-            if val == "":
+            if not val or not row['Section']:
                 continue
 
             name = row[keys[i + 1]]
@@ -49,12 +45,15 @@ def treeify(data: list[dict]):
                 label = f"{short_name}{val}".lower()
                 # Add label to path
 
+            path += "/" + label
+
             # If label already exists, skip label creation
             if label in labels:
                 continue
 
-            path += "/" + label
             # Create folder for label
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+
             os.mkdir(path)
 
             # Create README.md file for label
@@ -62,9 +61,6 @@ def treeify(data: list[dict]):
                 f.write(content)
 
             labels.add(label)
-
-            if i == 0:
-                root_label = label
 
 
 # Read JSON files from output folder in sorted order of their titles

@@ -1,0 +1,3 @@
+# § 51.1-302 Membership in retirement system.
+
+<p>Membership in the retirement system shall consist of all judges.</p><p>1970, c. 779, § 51-162; 1981, c. 396; 1990, c. 832; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0701'>701</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0823'>823</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0356'>356</a>.</p>

@@ -1,0 +1,3 @@
+# § 64.2-1640 Uniformity of application and construction.
+
+<p>In applying and construing this uniform act, consideration shall be given to the need to promote uniformity of the law with respect to its subject matter among the states that enact it.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0455'>455</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0632'>632</a>, § 26-114; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

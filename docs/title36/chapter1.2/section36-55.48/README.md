@@ -1,0 +1,3 @@
+# § 36-55.48 Grants from Commonwealth.
+
+<p>The Commonwealth may make grants of money or property to HDA for the purpose of enabling it to carry out its corporate purposes and for the exercise of its powers, including, but not limited to, deposits to the reserve funds. This section shall not be construed to limit any other power the Commonwealth may have to make such grants to HDA.</p><p>1972, c. 830.</p>

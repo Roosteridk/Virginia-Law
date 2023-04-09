@@ -1,0 +1,3 @@
+# § 59.1-122 Books and places of business open to inspection.
+
+<p>The books required by this article to be kept, and the places of business of all persons engaged in the acquiring, selling, receiving, or purchasing of the articles mentioned in § <a href='http://law.lis.virginia.gov/vacode/59.1-117/'>59.1-117</a>, shall at all reasonable times be open to the inspection of any police officer, sheriff, or deputy of the county, city, or town in which such place of business is located.</p><p>Code 1950, § 59-150; 1968, c. 439; 2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0836'>836</a>.</p>

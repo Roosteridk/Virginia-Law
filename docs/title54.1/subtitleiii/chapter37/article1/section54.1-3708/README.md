@@ -1,0 +1,3 @@
+# § 54.1-3708 Continuing education requirements.
+
+<p>The Board shall establish in regulations requirements for the continuing education of licensed social workers.</p><p>The Board may approve persons who provide continuing education or accredit continuing education programs in order to accomplish the purposes of this section.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0575'>575</a>.</p>

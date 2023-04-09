@@ -1,0 +1,3 @@
+# § 55.1-2701 Conditions on which owner may remove drift property.
+
+<p>The owner of property described in § <a href='/vacode/55.1-2700/'>55.1-2700</a>, after he has paid to the owner of the land a just compensation for any proper care, labor, or expense bestowed, done, or incurred by him for such property, may enter upon the land and, doing as little injury as possible, remove the property, but shall pay the owner of the land for any damage caused to him by such entry and removal.</p><p>Code 1919, § 3570; Code 1950, § 55-208; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

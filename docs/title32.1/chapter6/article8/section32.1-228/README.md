@@ -1,0 +1,3 @@
+# § 32.1-228 Exemption.
+
+<p>The provisions of this article shall not apply to radioactive materials or facilities, including nuclear reactors that are subject to exclusive licensing and regulation by the United States Nuclear Regulatory Commission.</p><p>Code 1950, § 32-414.7; 1964, c. 158; 1979, c. 711; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0041'>41</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0466'>466</a>.</p>

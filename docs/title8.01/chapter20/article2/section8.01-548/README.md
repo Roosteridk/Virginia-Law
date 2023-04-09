@@ -1,0 +1,3 @@
+# § 8.01-548 Who may levy attachment and on what.
+
+<p>An attachment may be levied upon any estate of the defendant, whether the same be in the county or city in which the attachment issued, or in any other, either by the officer of the county or city wherein the attachment issued, or by the officer of the county or city where the estate is.</p><p>Code 1950, § 8-535; 1977, c. 617.</p>

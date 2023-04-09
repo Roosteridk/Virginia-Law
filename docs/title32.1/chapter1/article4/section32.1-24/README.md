@@ -1,0 +1,3 @@
+# § 32.1-24 Applicability of Administrative Process Act.
+
+<p>The provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.) shall govern the procedures for rendering all case decisions, as defined in § <a href='http://law.lis.virginia.gov/vacode/2.2-4001/'>2.2-4001</a>, and issuing all orders and regulations under the provisions of this Code administered by the Board, the Commissioner or the Department unless exempt from the Administrative Process Act.</p><p>1979, c. 711.</p>

@@ -1,0 +1,3 @@
+# § 56-236.2 Suspension of service to sewerage system.
+
+<p>No public utility furnishing heat, light or power to a sewerage system, after receiving notice pursuant to § <a href='http://law.lis.virginia.gov/vacode/56-261/'>56-261</a> or § <a href='http://law.lis.virginia.gov/vacode/56-265.11:1/'>56-265.11:1</a> from the person operating such system, may suspend service for nonpayment without giving at least ten days' advance notice in writing to the Commission and the Director of the Department of Environmental Quality.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0183'>183</a>.</p>

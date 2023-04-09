@@ -1,0 +1,3 @@
+# § 53.1-1.1 Telephone systems within correctional facilities.
+
+<p>The Department of Corrections shall offer debit or prepaid telephone systems, in addition to any existing collect calling systems, which allow telephone calls to be placed to the telephone number or numbers on an approved call list. Such telephone systems may be established with the lowest available rates.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0612'>612</a>.</p>

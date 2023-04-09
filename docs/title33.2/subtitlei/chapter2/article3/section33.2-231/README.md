@@ -1,0 +1,3 @@
+# § 33.2-231 Establish community service landscaping program.
+
+<p>The Commissioner of Highways shall establish a program whereby persons convicted of nonviolent misdemeanors who have received a suspended sentence or probation can fulfill their community service requirements by mowing rights-of-way and performing other landscaping maintenance tasks for roads and highways that the Department has the responsibility to maintain.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0688'>688</a>, § 33.1-12.2; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

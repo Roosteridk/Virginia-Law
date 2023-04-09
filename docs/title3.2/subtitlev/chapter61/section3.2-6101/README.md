@@ -1,0 +1,3 @@
+# § 3.2-6101 Authority to adopt regulations.
+
+<p>The Commissioner, with the approval of the Board, may adopt regulations reasonably necessary to carry out the intent and purposes of this chapter and that facilitate the tracing and identification of cattle and afford protection against stealing and unlawful dealing in cattle.</p><p>1974, c. 642, § 3.1-796.36; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

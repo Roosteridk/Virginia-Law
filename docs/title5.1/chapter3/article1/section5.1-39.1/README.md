@@ -1,0 +1,3 @@
+# § 5.1-39.1 Use of airport property for industrial development purposes.
+
+<p>Notwithstanding § <a href='http://law.lis.virginia.gov/vacode/5.1-39/'>5.1-39</a>, any county, city, town, or airport commission may use, lease or convey for any industrial development purposes any airport property described in § <a href='http://law.lis.virginia.gov/vacode/5.1-39/'>5.1-39</a> with the written approval of the Director of Aviation on such terms and conditions as the Director may require. When any easement, rights, or privileges have been pledged as a sponsor's share to secure funds from the Federal Aviation Administration, written approval of the Federal Aviation Administration shall also be required.</p><p>1980, c. 59.</p>

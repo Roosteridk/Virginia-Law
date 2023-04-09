@@ -1,0 +1,1 @@
+# 1 FAIR TRADE ACT [Repealed]

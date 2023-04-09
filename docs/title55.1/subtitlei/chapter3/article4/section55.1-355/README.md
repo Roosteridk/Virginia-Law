@@ -1,0 +1,3 @@
+# § 55.1-355 Covenant of special warranty.
+
+<p>A covenant by any such grantor "that he will warrant specially the property hereby conveyed" shall have the same effect as if the grantor has covenanted that he and his heirs and personal representatives will forever warrant and defend such property unto the grantee and his heirs, personal representatives, and assigns against the claims and demands of the grantor and all persons claiming or to claim by, through, or under him.</p><p>Code 1919, § 5172; Code 1950, § 55-69; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

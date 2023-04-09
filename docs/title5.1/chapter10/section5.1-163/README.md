@@ -1,0 +1,3 @@
+# § 5.1-163 Pledge of funds.
+
+<p>All moneys received pursuant to the provisions of this act, whether as proceeds from the sale of bonds, as revenues, or as grants, appropriations or other funds provided by federal, state or local governments, may be pledged to the payment of bonds issued by the Authority and, if so pledged, shall be deemed to be trust funds to be held and applied solely as provided in this act.</p><p> 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0342'>342</a>.</p>

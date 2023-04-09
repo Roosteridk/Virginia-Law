@@ -1,0 +1,3 @@
+# § 38.2-1502 Jurisdiction and procedure.
+
+<p>The jurisdiction of delinquency proceedings shall be determined by general law, except that if the Commission files a delinquency proceeding application, it shall be filed with the Circuit Court of the City of Richmond. Unless otherwise provided, all delinquency proceedings shall be conducted as a suit in equity.</p><p>1952, c. 317, § 38.1-128; 1986, c. 562.</p>

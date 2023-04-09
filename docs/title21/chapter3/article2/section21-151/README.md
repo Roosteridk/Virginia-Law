@@ -1,0 +1,3 @@
+# § 21-151 Exclusion from district of county, city or town voting against establishment.
+
+<p>If upon the certification of the results of the election provided for in § <a href='http://law.lis.virginia.gov/vacode/21-150/'>21-150</a> it shall appear that a majority of the qualified voters of any county or of any city or of any town voting on the question at the election, shall have voted "no" against the creation of the proposed sanitation district, then the territory included within the limits of such county or of such city, or of such town, shall be excluded from, and shall not constitute a part of the district.</p><p>1938, p. 513; Michie Code 1942, § 1560jj.</p>

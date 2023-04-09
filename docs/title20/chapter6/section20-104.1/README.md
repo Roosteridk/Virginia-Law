@@ -1,0 +1,3 @@
+# § 20-104.1 Orders of publication may be combined.
+
+<p>Orders of publication as provided for in § <a href='http://law.lis.virginia.gov/vacode/20-104/'>20-104</a> in any two or more suits for annulment or divorce may be combined into a single order to be published as required by law; provided that, at such time as the clerk may direct the plaintiff in each case shall pay to the clerk a pro rata share of the expense of such publication. Payments made by any plaintiff shall be subject to the provisions of § <a href='http://law.lis.virginia.gov/vacode/20-99/'>20-99</a> as to costs.</p><p>1974, c. 581.</p>

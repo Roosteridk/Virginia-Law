@@ -1,0 +1,3 @@
+# § 3.2-5803 Application for license.
+
+<p>Application for a license as a licensed public weighmaster shall be made upon a form provided by the Commissioner and the application shall furnish evidence that the applicant has the qualifications required by § <a href='http://law.lis.virginia.gov/vacode/3.2-5802/'>3.2-5802</a>.</p><p>Code 1950, § 3-709.4; 1962, c. 126; 1966, c. 702, § 3.1-973; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

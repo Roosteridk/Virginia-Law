@@ -1,0 +1,3 @@
+# § 54.1-2822.1 Funeral establishments to maintain preneed records.
+
+<p>Every person selling preneed funeral contracts within this Commonwealth shall keep and maintain such records of preneed transactions, including copies of preneed contracts, as may be prescribed by the Board. All such records shall be maintained on the premises of the funeral establishment providing the preneed services and supplies, except that preneed records of funeral establishments under common ownership, control, or management may be maintained at a single location within this Commonwealth.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0026'>26</a>.</p>

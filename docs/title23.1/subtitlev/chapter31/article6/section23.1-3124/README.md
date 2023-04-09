@@ -1,0 +1,3 @@
+# § 23.1-3124 Cooperation of other agencies.
+
+<p>All agencies of the Commonwealth shall cooperate with the Center and, upon request, assist the Center in the performance of its duties and responsibilities.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0774'>774</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0799'>799</a>, § 23-231.29; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

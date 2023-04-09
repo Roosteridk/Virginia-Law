@@ -1,0 +1,3 @@
+# § 22.1-203.3 Religious viewpoint expression; student expression.
+
+<p>Students may express their beliefs about religion in homework, artwork, and other written and oral assignments free from discrimination based on the religious content of their submissions. Home and classroom work shall be judged by ordinary academic standards of substance and relevance and other legitimate pedagogical concerns identified by the school.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0859'>859</a>.</p>

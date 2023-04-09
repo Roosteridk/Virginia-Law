@@ -1,0 +1,3 @@
+# § 19.2-8.1 Prosecution for murder or manslaughter; passage of time not a limitation.
+
+<p>A prosecution for murder or manslaughter, whether at common law or under the Code of Virginia, may be instituted regardless of the time elapsed between the act or omission causing the death of the victim and the death of the victim.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0278'>278</a>.</p>

@@ -1,0 +1,3 @@
+# § 44-29 Qualifications of National Guard officers.
+
+<p>The qualifications of National Guard officers shall be as prescribed in current and subsequently amended National Guard regulations.</p><p>1930, p. 953; Michie Code 1942, § 2673(19); 1958, c. 393.</p>

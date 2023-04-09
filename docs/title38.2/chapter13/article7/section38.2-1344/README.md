@@ -1,0 +1,3 @@
+# § 38.2-1344 Disclosure.
+
+<p>The producer, prior to the effective date of the policy, shall deliver written notice to the prospective insured disclosing the relationship between the producer and the controlled insurer. However, if the business is placed through a subproducer who is not a controlling producer, the controlling producer shall retain in his records a signed commitment from the subproducer that the subproducer is aware of the relationship between the insurer and the producer and that the subproducer has or will notify the insured.</p><p>1993, c. 158.</p>

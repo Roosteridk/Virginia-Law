@@ -1,0 +1,3 @@
+# § 30-161 Publication of information.
+
+<p>By such means and to such extent as it deems appropriate, the Commission shall keep the public informed as to the operations of organized crime, problems of criminal law enforcement in the Commonwealth and other activities of the Commission.</p><p>1972, c. 766, § 9-133; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

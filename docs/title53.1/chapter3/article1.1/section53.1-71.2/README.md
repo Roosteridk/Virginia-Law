@@ -1,0 +1,3 @@
+# § 53.1-71.2 Authority of security employees.
+
+<p>Security employees of a regional jail facility contractor shall be allowed to use force and shall exercise their powers and authority only while on the grounds of a regional jail facility under the supervision of the regional jail facility contractor, while transporting inmates, and while pursuing escapees from such facilities until such time that the pursuit of the escapees is assumed by state or local law-enforcement agencies. All provisions of law pertaining to custodians of inmates or jail guards or officers shall apply to contractors' security employees.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0715'>715</a>.</p>

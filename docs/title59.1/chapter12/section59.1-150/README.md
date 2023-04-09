@@ -1,0 +1,3 @@
+# § 59.1-150 Motor fuel subject to inspection and testing.
+
+<p>All motor fuel used, intended to be used, sold or offered for sale or distribution in this Commonwealth, shall be subject to inspection and testing for (i) the purpose of preventing adulteration, misbranding, deception or fraud in the sale thereof or (ii) for any other purpose of assuring compliance with any requirement of this chapter or regulation adopted thereunder.</p><p>Code 1950, § 59-42; 1968, c. 439; 1992, c. 885.</p>

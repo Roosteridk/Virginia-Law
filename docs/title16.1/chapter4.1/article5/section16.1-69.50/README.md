@@ -1,0 +1,3 @@
+# § 16.1-69.50 Quarters for court and clerk.
+
+<p>Each county and city having a general district court or juvenile and domestic relations district court shall provide suitable quarters for such court and its clerk and social services staff and a suitable room or rooms for the sessions of the court at the places designated for such purpose, except that if the court of a county is held in a city or town, other than the county seat, such city or town shall provide a suitable place for the court to be held. Such county or city shall also provide all necessary furniture, filing cabinets and other equipment necessary for the efficient operation of the court.</p><p>1972, c. 708; 1973, c. 546.</p>

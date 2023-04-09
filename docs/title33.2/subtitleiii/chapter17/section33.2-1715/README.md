@@ -1,0 +1,3 @@
+# § 33.2-1715 Financing two or more projects together.
+
+<p>The Board may, in its discretion, couple or unite into one unit for financing purposes any two or more such projects, whether acquired by purchase or condemnation or constructed, and revenue bonds of a single issue may be issued for the purpose of paying the cost of any one or more projects, unless otherwise restricted by statute.</p><p>Code 1950, § 33-242; 1970, c. 322, § 33.1-282; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

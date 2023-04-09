@@ -1,0 +1,3 @@
+# § 58.1-3522 Assessment method for manufactured homes.
+
+<p>Manufactured homes installed according to the Uniform Statewide Building Code shall be assessed at the same time as the assessment of the real property on which the manufactured home is installed. Such homes shall be assessed in the same manner and using the same methods applied to improvements and buildings which are assessed in accordance with Article 7 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-3280/'>58.1-3280</a> et seq.) of Chapter 32 of this title.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0152'>152</a>.</p>

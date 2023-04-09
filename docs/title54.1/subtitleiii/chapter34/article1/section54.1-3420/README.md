@@ -1,0 +1,3 @@
+# § 54.1-3420 Distribution of certain drugs; written request or confirmation of receipt.
+
+<p>No manufacturer or distributor of controlled substances shall distribute or dispense any substance listed on Schedules II through V to any person, whether a practitioner of the healing arts or some other profession, except with the written request or confirmation of receipt of the practitioner. Such request or confirmation shall be maintained as required by this chapter.</p><p>Subject to the foregoing provisions, no person shall be prohibited from distributing controlled substances listed on Schedules II through V for charitable uses or for use in research or investigations.</p><p>1984, c. 724, § 54-524.58:2; 1988, c. 765.</p>

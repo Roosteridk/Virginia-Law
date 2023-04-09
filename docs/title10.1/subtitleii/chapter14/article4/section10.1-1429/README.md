@@ -1,0 +1,3 @@
+# § 10.1-1429 Notice of release of hazardous substance.
+
+<p>Any person responsible for the release of a hazardous substance from a fixed facility which poses an immediate or imminent threat to public health and who is required by law to notify the National Response Center shall notify the chief administrative officer or his designee of the local government of the jurisdiction in which the release occurs and shall also notify the Department.</p><p>1986, c. 492, § 10-282; 1988, c. 891.</p>

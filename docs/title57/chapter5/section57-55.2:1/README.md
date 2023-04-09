@@ -1,0 +1,3 @@
+# § 57-55.2:1 Solicitations by for-profit organizations.
+
+<p>A. Every solicitor for an organization which is for-profit which solicits contributions from a prospective contributor in the Commonwealth shall disclose that the organization is not exempt from taxation under § 501(c) of the Internal Revenue Code.</p><p>B. For every contribution received for five dollars or more, a for-profit organization shall, within thirty days following receipt, send a written statement to such contributor disclosing that the organization is not exempt from taxation under § 501(c) of the Internal Revenue Code.</p><p>1993, c. 240.</p>

@@ -1,0 +1,3 @@
+# § 63.2-1908.1 Arrears compromise program.
+
+<p>The Department may establish and operate an arrears compromise program pursuant to which it may compromise child support arrears and interest accrued thereon owed to the Commonwealth for reimbursement of public assistance paid. The program shall take into consideration the obligor's ability to pay.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0506'>506</a>.</p>

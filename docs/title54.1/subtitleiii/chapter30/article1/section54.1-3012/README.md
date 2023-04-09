@@ -1,0 +1,3 @@
+# § 54.1-3012 Additional power of the Board.
+
+<p>In addition to other powers enumerated in this title, the Board may take those steps necessary to obtain recognition by the United States Secretary of Education as a reliable authority concerning the quality of education offered by educational institutions or programs in the area of practical nursing.</p><p>1986, c. 13, § 54-367.11:1; 1988, c. 765.</p>

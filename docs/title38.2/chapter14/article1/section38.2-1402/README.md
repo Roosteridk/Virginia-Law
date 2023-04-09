@@ -1,0 +1,3 @@
+# § 38.2-1402 Authority to invest; classification of investments by category.
+
+<p>A. A domestic insurer may invest its funds and assets in accordance with this chapter. All investments of a domestic insurer shall be classified as (i) Category 1 investments, (ii) Category 2 investments, or (iii) prohibited investments.</p><p>B. The Commission, upon application by an insurer, may classify any investments made or proposed to be made and not otherwise specifically classified in Articles 1 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-1400/'>38.2-1400</a> et seq.) and 2 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-1412/'>38.2-1412</a> et seq.) of this chapter as a Category 1 investment.</p><p>1983, c. 457, § 38.1-217.3; 1986, c. 562.</p>

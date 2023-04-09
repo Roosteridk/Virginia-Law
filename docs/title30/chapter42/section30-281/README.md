@@ -1,0 +1,3 @@
+# § 30-281 Confidentiality of certain records submitted to the Commission.
+
+<p>Records and information afforded the protection under subdivision 11 of § <a href='http://law.lis.virginia.gov/vacode/2.2-3705.6/'>2.2-3705.6</a> that are provided by a responsible public entity to the Commission shall continue to be protected from disclosure when in the possession of the Commission.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0764'>764</a>.</p>

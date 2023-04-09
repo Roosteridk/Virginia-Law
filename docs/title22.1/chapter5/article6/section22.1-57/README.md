@@ -1,0 +1,3 @@
+# § 22.1-57 Effective date for formation of board.
+
+<p>The effective date for the formation of any school division to which the provisions of this article are applicable and the school board thereof and the supervision and operation of the schools in the school division by such school board shall be as of the first day of July of a school year, and the school board or boards as then constituted in the school division shall cease to exist in such school division as of such effective date.</p><p>Code 1950, § 22-100.11; 1954, c. 391; 1956, c. 671; 1971, Ex. Sess., c. 161; 1980, c. 559.</p>

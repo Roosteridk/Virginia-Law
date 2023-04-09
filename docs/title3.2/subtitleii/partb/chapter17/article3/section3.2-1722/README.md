@@ -1,0 +1,3 @@
+# § 3.2-1722 Falsification of records; misdemeanor.
+
+<p>It is a Class 1 misdemeanor:</p><p>1. For any manufacturer to fail to submit to the Department any report required pursuant to § <a href='http://law.lis.virginia.gov/vacode/3.2-1719/'>3.2-1719</a> within 60 days after the time such report is due.</p><p>2. For any manufacturer knowingly to report falsely to the Department any information required pursuant to this article.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0497'>497</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0588'>588</a>, § 3.1-22.77; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

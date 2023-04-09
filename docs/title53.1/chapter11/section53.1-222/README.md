@@ -1,0 +1,3 @@
+# § 53.1-222 Powers and liabilities of committee; prosecution and defense of suits to which prisoner is party.
+
+<p>A committee appointed pursuant to § <a href='http://law.lis.virginia.gov/vacode/53.1-221/'>53.1-221</a> may sue and be sued in respect to all claims or demands of every nature in favor of or against such prisoner and against any of the prisoner's estate. All actions or suits to which the prisoner is a party at the time of his conviction shall be prosecuted or defended, as the case may be, by such committee after ten days' notice of the pendency thereof, which notice shall be given by the clerk of the court in which the same are pending.</p><p>Code 1950, § 53-307; 1980, c. 504; 1982, c. 636.</p>

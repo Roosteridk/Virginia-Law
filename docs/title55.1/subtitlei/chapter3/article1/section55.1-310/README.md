@@ -1,0 +1,3 @@
+# § 55.1-310 Conveyance of property not owned but subsequently acquired.
+
+<p>When a deed purports to convey property, real or personal, describing it with reasonable certainty, that the grantor does not own at the time of the execution of the deed, but subsequently acquires, such deed shall, as between the parties, have the same effect as if the title that the grantor subsequently acquires were vested in him at the time of the execution of such deed and thereby conveyed.</p><p>Code 1919, § 5202; Code 1950, § 55-52; 1958, c. 424; 1990, c. 831; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

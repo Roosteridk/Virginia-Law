@@ -1,0 +1,3 @@
+# § 58.1-2661 Exceptions.
+
+<p>The amount of the regulatory revenue tax levied pursuant to § <a href='http://law.lis.virginia.gov/vacode/58.1-2660/'>58.1-2660</a> on railroads shall not exceed an estimate of the expenses to be incurred by the Commission and the Department reasonably attributable to the regulation and assessment for taxation of railroads, including a reasonable margin in the nature of a reserve fund.</p><p>Code 1950, § 58-664; 1970, c. 773; 1979, c. 443; 1980, c. 282; 1982, c. 62; 1983, c. 547; 1984, c. 675.</p>

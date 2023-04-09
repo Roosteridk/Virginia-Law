@@ -1,0 +1,3 @@
+# § 40.1-61 Employers not to require abstention from membership or officeholding in union.
+
+<p>No person shall be required by an employer to abstain or refrain from membership in, or holding office in, any labor union or labor organization as a condition of employment or continuation of employment.</p><p>Code 1950, § 40-71; 1970, c. 321; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0422'>422</a>.</p>

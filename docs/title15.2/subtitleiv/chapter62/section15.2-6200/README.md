@@ -1,0 +1,3 @@
+# § 15.2-6200 Authority created; name.
+
+<p>The Alleghany-Highlands Economic Development Authority, hereinafter referred to as the Authority, is created as a body politic and corporate, a political subdivision of the Commonwealth. As such it shall have, and is hereby vested with, the powers and duties hereinafter conferred in this chapter. Each locality within the region may become a member of the Authority upon passage of a region-wide concurrent resolution by the governing bodies. The resolution may be passed at any time prior to the effective date of this chapter; otherwise, membership shall be effective July 1, 1993.</p><p>1993, c. 982, § 15.1-1662; 1997, c. 587.</p>

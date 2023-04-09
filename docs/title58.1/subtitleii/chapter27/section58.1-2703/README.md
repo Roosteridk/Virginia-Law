@@ -1,0 +1,3 @@
+# § 58.1-2703 Payment of tax.
+
+<p>The tax imposed under § <a href='http://law.lis.virginia.gov/vacode/58.1-2701/'>58.1-2701</a> shall be paid by each motor carrier quarterly to the State Treasurer on or before the last day of April, July, October and January of each year and calculated upon the amount of gasoline or other motor fuel used in its operations within the Commonwealth by each such carrier during the quarter ending with the last day of the preceding month.</p><p>Code 1950, § 58-630; 1984, c. 675.</p>

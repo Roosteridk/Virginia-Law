@@ -1,0 +1,3 @@
+# § 15.2-1227 Well covers in Caroline County.
+
+<p>Caroline County may by ordinance provide that owners of property keep covers on water wells and may after reasonable notice cover uncovered water wells by its own agents or employees, in which event the cost or expense thereof shall be chargeable to and paid by the owners of such property and may be collected by the county as taxes are collected.</p><p>1950, § 15-14; 1962, cc. 400, 623, § 15.1-11; 1964, c. 31; 1968, c. 423; 1974, c. 655; 1978, c. 533; 1983, cc. 192, 390; 1990, c. 177; 1992, c. 649; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0167'>167</a>; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0587'>587</a>.</p>

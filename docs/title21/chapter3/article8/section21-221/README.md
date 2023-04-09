@@ -1,0 +1,3 @@
+# § 21-221 Jurisdiction.
+
+<p>Jurisdiction to enforce the provisions of this article and to grant any remedy or relief authorized by § <a href='http://law.lis.virginia.gov/vacode/21-220/'>21-220</a> shall be in the circuit court of any county and in the corporation court of any city in whole or in part embraced within the district, or within which are located any tidal waters of the district. The remedies, relief and jurisdiction authorized by this section and § <a href='http://law.lis.virginia.gov/vacode/21-220/'>21-220</a> shall be concurrent and cumulative.</p><p>1938, p. 528; Michie Code 1942, § 1560ccc.</p>

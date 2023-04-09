@@ -1,0 +1,3 @@
+# § 32.1-193 Eminent domain.
+
+<p>Each mosquito control commission is vested with the power of eminent domain to the extent necessary to carry out the provisions of this article. Condemnation proceedings shall be instituted and conducted in the name of the mosquito control commission for the district in which such property is located or the district for which its acquisition is deemed necessary and shall be conducted as prescribed by Chapter 2 (§ <a href='http://law.lis.virginia.gov/vacode/25.1-200/'>25.1-200</a> et seq.) of Title 25.1.</p><p>Code 1950, § 32-384; 1979, c. 711; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

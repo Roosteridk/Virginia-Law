@@ -1,0 +1,3 @@
+# § 2.2-2499 Staff; cooperation from other state agencies.
+
+<p>The Department of Social Services shall provide staff support to the Board. All agencies of the Commonwealth shall provide assistance to the Board, upon request.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1078'>1078</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1079'>1079</a>.</p>

@@ -1,0 +1,3 @@
+# § 13.1-858 Staggered terms of directors.
+
+<p>A. The articles of incorporation may provide for staggering the terms of directors by dividing the total number of directors into groups, and the terms of office of the several groups need not be uniform.</p><p>B. If the articles of incorporation permit cumulative voting, any provision establishing staggered terms of directors shall provide that at least three directors shall be elected at each annual members' meeting.</p><p>Code 1950, § 13.1-221; 1956, c. 428; 1985, c. 522; 1987, c. 140; 1989, c. 419; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0925'>925</a>.</p>

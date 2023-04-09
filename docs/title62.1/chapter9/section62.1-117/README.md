@@ -1,0 +1,3 @@
+# § 62.1-117 Notice required.
+
+<p>Of such application ten days' previous notice shall be given in the manner prescribed in Article 2 (§ <a href='http://law.lis.virginia.gov/vacode/25.1-205/'>25.1-205</a> et seq.) of Chapter 2 of Title 25.1 to each tenant, or the guardian, conservator or committee of the tenant, of the freehold of any lands not owned by the applicant, upon which it is desired to abut a dam, or through which it is desired to cut or enlarge a canal, or construct the work aforesaid.</p><p>Code 1950, § 62-96; 1968, c. 659; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0801'>801</a>.</p>

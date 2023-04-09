@@ -1,0 +1,3 @@
+# § 45.2-835  Auxiliary fans.
+
+<p>A. The installation or use of an auxiliary fan in any mine is prohibited without the prior written approval of the Chief.</p><p>B. A machine-mounted scrubber and spray fan system may be used for control of coal dust and enhancement of ventilation. Such an installation is not considered an auxiliary fan.</p><p>Code 1950, § 45-60.2; 1954, c. 191; 1966, c. 594, § 45.1-55; 1993, c. 442; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.218; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0003'>3</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

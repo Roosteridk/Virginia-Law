@@ -1,0 +1,3 @@
+# § 15.2-2816 Cooperation of state agencies.
+
+<p>All state agencies shall cooperate with the Governor and the local governing body of the county or city wherein the pilot program is located in carrying out the purposes of this chapter. The Governor may consult from time to time with the directors and commissioners of state agencies involved and with the appropriate boards and commissions.</p><p>1974, c. 395, § 63.1-297; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

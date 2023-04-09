@@ -1,0 +1,3 @@
+# § 46.2-774 (For contingent expiration, see Acts 2020, cc. 1230 and 1275) Distribution of revenues.
+
+<p>All revenues collected pursuant to this chapter shall be used first to pay for the direct cost of administration of this chapter by the Department, and then shall be deposited into the Commonwealth Transportation Fund established pursuant to § <a href='/vacode/33.2-1524/'>33.2-1524</a>.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1230'>1230</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1275'>1275</a>.</p>

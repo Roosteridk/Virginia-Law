@@ -1,0 +1,3 @@
+# § 28.2-552 Resurvey on motion of Commission or on application of citizens.
+
+<p>The Commission may select and appoint any surveyor to survey or resurvey any oyster-planting grounds either in his own or any other county, and to reestablish and permanently mark any line or lines of the Baylor survey of natural oyster rocks which the Commission finds necessary to define.</p><p>Code 1950, § 28-117; 1962, c. 406, § 28.1-100; 1964, c. 624; 1992, c. 836.</p>

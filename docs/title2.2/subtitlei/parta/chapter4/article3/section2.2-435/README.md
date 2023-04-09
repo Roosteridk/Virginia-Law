@@ -1,0 +1,3 @@
+# § 2.2-435 Prohibition for state party chairman.
+
+<p>The chairman or any full-time paid employee of a state political party, as defined in § <a href='http://law.lis.virginia.gov/vacode/24.2-101/'>24.2-101</a>, or a member of his immediate family, as defined in § <a href='http://law.lis.virginia.gov/vacode/2.2-3101/'>2.2-3101</a>, shall not be employed as a lobbyist by any principal.</p><p>1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0857'>857</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0937'>937</a>, § 2.1-794; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

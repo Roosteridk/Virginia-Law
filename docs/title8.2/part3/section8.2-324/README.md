@@ -1,0 +1,3 @@
+# § 8.2-324 No arrival, no sale term.
+
+<p>Under a term "no arrival, no sale" or terms of like meaning, unless otherwise agreed,</p><p>(a) the seller must properly ship conforming goods and if they arrive by any means he must tender them on arrival but he assumes no obligation that the goods will arrive unless he has caused the non-arrival; and</p><p>(b) where without fault of the seller the goods are in part lost or have so deteriorated as no longer to conform to the contract or arrive after the contract time, the buyer may proceed as if there had been casualty to identified goods (§ <a href='http://law.lis.virginia.gov/vacode/8.2-613/'>8.2-613</a>).</p><p>1964, c. 219.</p>

@@ -1,0 +1,3 @@
+# § 55.1-332 Title to real estate sold not affected by nonlisting of secured notes for taxation.
+
+<p>The title to real estate sold under a deed of trust shall not be drawn in question upon the ground that the holder of the notes secured by such deed of trust did not list the same for taxation.</p><p>1924, p. 469; 1926, p. 978; 1944, p. 630; Tax Code, §§ 69, 69a; Code 1950, § 55-64.1; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

@@ -1,0 +1,3 @@
+# § 29.1-342 Floating blinds.
+
+<p>Floating blinds shall mean floating blinds permitted by law in the public waters. They may be used in any position in public waters at different locations from day to day if the blind is anchored the required distance from any other blind, unless agreed otherwise between the parties. Licenses for floating blinds shall be limited to two floating blinds in any one season, to any one applicant.</p><p>Code 1950, § 29-83; 1970, c. 579; 1987, c. 488.</p>

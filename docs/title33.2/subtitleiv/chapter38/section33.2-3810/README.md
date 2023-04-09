@@ -1,0 +1,3 @@
+# § 33.2-3810 Investment in bonds.
+
+<p>Any financial institution, investment company, insurance company, or association, and any personal representative, guardian, trustee, or other fiduciary, may legally invest any moneys belonging to them or within their control in any bonds issued by the authority.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0353'>353</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0354'>354</a>.</p>

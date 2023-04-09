@@ -1,0 +1,3 @@
+# § 62.1-124 Such leave not to affect vested rights.
+
+<p>No person shall by means of any such leave, draw the water from any millpond of another, existing at the time of such leave, or do anything in conflict with any vested right in any waterworks erected on such watercourse.</p><p>Code 1950, § 62-103; 1968, c. 659.</p>

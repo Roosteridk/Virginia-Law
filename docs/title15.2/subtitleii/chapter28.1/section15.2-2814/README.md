@@ -1,0 +1,3 @@
+# § 15.2-2814 Governor to adopt regulations.
+
+<p>The Governor shall adopt regulations concerning programs, budget and administration to be used as guidelines for counties and cities desiring to establish a pilot program in human services delivery. These regulations should provide for evaluating the effectiveness of such a pilot program.</p><p>1974, c. 395, § 63.1-294; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

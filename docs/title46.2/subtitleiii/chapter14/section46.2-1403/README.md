@@ -1,0 +1,3 @@
+# § 46.2-1403 Liability of employer.
+
+<p>An employer shall not be liable for injuries to passengers and other persons resulting from the operation or use of a motor vehicle, not owned, leased or contracted for by the employer, in a ridesharing arrangement.</p><p>An employer shall not be liable for injuries to passengers and other persons because he provides information or incentives or otherwise encourages his employees to participate in ridesharing arrangements.</p><p>1981, c. 218, § 46.1-559; 1989, c. 727.</p>

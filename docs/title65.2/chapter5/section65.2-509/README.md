@@ -1,0 +1,3 @@
+# § 65.2-509 Commencement of compensation.
+
+<p>No compensation shall be allowed for the first seven calendar days of incapacity resulting from an injury except the benefits provided for in § <a href='http://law.lis.virginia.gov/vacode/65.2-603/'>65.2-603</a>; but if incapacity extends beyond that period, compensation shall commence with the eighth day of disability. If, however, such incapacity shall continue for a period of more than three weeks, then compensation shall be allowed from the first day of such incapacity.</p><p>Code 1950, § 65-59; 1968, c. 660, § 65.1-62; 1976, c. 165; 1991, c. 355.</p>

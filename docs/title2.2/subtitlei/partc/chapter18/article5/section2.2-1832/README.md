@@ -1,0 +1,3 @@
+# § 2.2-1832 Division of Risk Management.
+
+<p>The Division of Risk Management (the "Division"), formerly within the Department of General Services, is hereby transferred to the Department (the "Department") of the Treasury and shall exercise the powers and duties described in this article.</p><p>1980, c. 488, § 2.1-526.1; 1988, c. 848; 2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0618'>618</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0632'>632</a>, § 2.1-191.5; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

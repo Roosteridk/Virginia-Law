@@ -1,0 +1,3 @@
+# § 54.1-3806 Licensed veterinary technicians.
+
+<p>The Board may license a veterinary technician to perform acts relating to the treatment or the maintenance of the health of any animal under the immediate and direct supervision of a person licensed to practice veterinary medicine in the Commonwealth or a veterinarian who is employed by the United States or the Commonwealth while actually engaged in the performance of his official duties. No person licensed as a veterinary technician may perform surgery, diagnose, or prescribe medication for any animal.</p><p>1978, c. 539, § 54-786.3; 1988, c. 765; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0100'>100</a>.</p>

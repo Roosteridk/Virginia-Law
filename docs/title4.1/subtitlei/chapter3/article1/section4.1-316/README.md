@@ -1,0 +1,3 @@
+# § 4.1-316 Keeping or drinking alcoholic beverages upon premises of club; penalty.
+
+<p>No person operating a club for profit or otherwise, either public or private, shall (i) keep or allow to be kept any alcoholic beverages, either by himself or any other person, upon the premises or (ii) permit the drinking of any alcoholic beverages upon the premises, unless he is licensed to sell alcoholic beverages.</p><p>Any person convicted of a violation of this section shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 4-61.1; 1954, c. 147; 1993, c. 866.</p>

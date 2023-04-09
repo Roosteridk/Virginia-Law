@@ -1,0 +1,3 @@
+# § 15.2-6310 Payments to Commonwealth or political subdivisions thereof.
+
+<p>An authority may agree to make such payments to the Commonwealth, a locality, or any political subdivision thereof, which payments such bodies are hereby authorized to accept, as the authority finds consistent with the purposes for which the authority has been created.</p><p>Code 1950, § 15-948; 1954, c. 645; 1962, c. 623, § 15.1-1331; 1997, c. 587.</p>

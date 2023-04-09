@@ -1,0 +1,3 @@
+# § 58.1-1508 Retention of documents; examination by Commissioner.
+
+<p>Any person who sells, leases or charters an aircraft in this Commonwealth shall retain a copy of the invoice and other financial data pertaining to the transaction required by § <a href='http://law.lis.virginia.gov/vacode/58.1-1503/'>58.1-1503</a> for three years following such transaction. Each invoice shall give an accurate description of the aircraft sold, leased or used.</p><p>Code 1950, § 58-685.36; 1974, c. 431; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 10.1-1111 Kindling fires on state forests; cutting and removing timber; damaging land or timber.
+
+<p>Any person who kindles fire upon any of the state forests of this Commonwealth, except in accordance with regulations prescribed by the State Forester, or who cuts and removes any timber, or who damages or causes the damage of forestland or timber belonging to the Commonwealth, shall be guilty of a Class 3 misdemeanor for each offense committed.</p><p>Code 1950, § 10-44; 1986, c. 539; 1988, c. 891.</p>

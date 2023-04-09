@@ -1,0 +1,3 @@
+# § 28.2-1501 Powers and duties of Commission.
+
+<p>A. The Commission may receive gifts, grants, bequests, and devises of shores of the sea, marsh, meadowlands, and money which shall be held for the uses prescribed by the donor, grantor, or testator in accordance with the provisions of this chapter. The Commission shall manage any shores of the sea, marsh or meadowlands it receives as prescribed in Article 2 (§ <a href='http://law.lis.virginia.gov/vacode/28.2-1503/'>28.2-1503</a> et seq.) of this chapter.</p><p>B. The Commission may promulgate regulations and guidelines necessary to carry out the provisions of this chapter.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0850'>850</a>.</p>

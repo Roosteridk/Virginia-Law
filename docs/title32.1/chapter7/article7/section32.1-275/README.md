@@ -1,0 +1,3 @@
+# § 32.1-275 Information as to births, deaths, marriages and divorces to be furnished on demand.
+
+<p>It shall be the duty of any person to furnish such information as he may possess regarding any birth, death, fetal death, marriage or divorce, upon demand of the State Registrar in person, by mail, or through the county, city, or special registrar.</p><p>Code 1950, § 32-353.30; 1960, c. 451; 1979, c. 711.</p>

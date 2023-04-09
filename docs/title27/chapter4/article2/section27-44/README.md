@@ -1,0 +1,3 @@
+# § 27-44 Payments for total and permanent disability.
+
+<p>Should any volunteer fire fighter be injured under circumstances set forth in § <a href='http://law.lis.virginia.gov/vacode/27-43/'>27-43</a>, so as to be totally and permanently disabled from making a livelihood, he shall be paid in like manner the sum of twenty-five dollars per week for forty weeks.</p><p>1928, p. 1002; Michie Code 1942, § 3144d; 1977, c. 326.</p>

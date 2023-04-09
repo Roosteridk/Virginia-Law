@@ -1,0 +1,3 @@
+# § 64.2-1209 Who may insist or object before commissioner of accounts.
+
+<p>Any interested person, or the next friend of an interested person, may, before the commissioner of accounts, insist upon or object to anything which could be insisted upon or objected to by such interested person if the commissioner of accounts were acting under an order of a circuit court for the settlement of a fiduciary's accounts made in a suit to which such interested person was a party.</p><p>Code 1919, § 5424; Code 1950, § 26-29; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0681'>681</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

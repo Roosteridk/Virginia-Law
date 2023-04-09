@@ -1,0 +1,3 @@
+# § 18.2-228 Same; imitating indicia of other brands.
+
+<p>It shall be unlawful, for any person, firm, association or corporation to disguise or camouflage his or their own equipment by imitating the design, symbol or trade name of the equipment under which recognized brands of liquid fuels, lubricating oils and similar products are generally marketed.</p><p>Code 1950, § 59.1-57; 1968, c. 439; 1975, cc. 14, 15.</p>

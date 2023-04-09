@@ -1,0 +1,3 @@
+# § 33.2-116 Statewide transportation technology programs to incorporate new technologies and innovations in transportation.
+
+<p>The Secretary of Transportation and the Department of Transportation shall revise and update statewide transportation technology programs by evaluating and incorporating, where appropriate, new smart road technologies and other innovations in transportation.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0477'>477</a>.</p>

@@ -1,0 +1,3 @@
+# § 19.2-190.1 Certification of ancillary misdemeanor offenses.
+
+<p>Upon certification of any felony offense pursuant to this chapter, the court shall also certify any ancillary misdemeanor offense to the clerk of the circuit court provided that the attorney for the Commonwealth and the accused consent to such certification. Any misdemeanor offense certified pursuant to this section shall proceed in the same manner as a misdemeanor appealed to circuit court pursuant to § <a href='http://law.lis.virginia.gov/vacode/16.1-136/'>16.1-136</a>.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0548'>548</a>.</p>

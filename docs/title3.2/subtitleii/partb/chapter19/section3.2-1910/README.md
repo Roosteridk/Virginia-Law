@@ -1,0 +1,3 @@
+# § 3.2-1910 Failure to file reports; misdemeanor.
+
+<p>Any processor who fails to file the required reports, or who fails to keep the required records, is guilty of a Class 1 misdemeanor. Each month of such failure is a separate offense.</p><p>Code 1950, § 3-525.19; 1966, c. 702, § 3.1-665; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

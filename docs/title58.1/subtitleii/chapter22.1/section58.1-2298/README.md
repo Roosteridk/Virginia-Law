@@ -1,0 +1,3 @@
+# § 58.1-2298 Deductions.
+
+<p>For purposes of compensating a distributor for accounting for and remitting the tax levied by this chapter, such distributor shall be allowed to deduct two percent of the tax otherwise due in submitting his return and paying the amount due by him if the amount was not delinquent at the time of payment.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0217'>217</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0225'>225</a>.</p>

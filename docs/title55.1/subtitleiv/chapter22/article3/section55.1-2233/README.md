@@ -1,0 +1,3 @@
+# § 55.1-2233 Financial records.
+
+<p>The person or entity responsible for either making or collecting common expense assessments or maintenance assessments shall keep detailed financial records. All financial and other records shall be made reasonably available at such person's or entity's office for examination by any time-share owner and his authorized agents.</p><p>1981, c. 462, § 55-385; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

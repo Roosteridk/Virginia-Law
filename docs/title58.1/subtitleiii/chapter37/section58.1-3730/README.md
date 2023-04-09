@@ -1,0 +1,3 @@
+# § 58.1-3730 Savings institutions and credit unions; limitations.
+
+<p>Any license tax levied by a county, city or town on savings institutions or on state-chartered credit unions shall be no greater than fifty dollars and shall be levied only where the main office of such savings institution or credit union is located.</p><p>Code 1950, § 58-266.10; 1982, c. 633; 1984, c. 675; 1991, c. 430; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0077'>77</a>.</p>

@@ -1,0 +1,3 @@
+# § 55.1-1701 What rent tenant entitled to emblements to pay.
+
+<p>The tenant who is entitled to emblements, or his personal representative, shall pay a reasonable rent for the land occupied by the emblements in the same proportion as such land bears in quantity and value to the entire premises. Such rent shall be apportioned among the owners of the reversion, if there is more than one, according to their respective interests.</p><p>Code 1919, § 5441; Code 1950, § 55-250; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

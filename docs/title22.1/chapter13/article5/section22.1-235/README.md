@@ -1,0 +1,3 @@
+# § 22.1-235 Transportation of students; insurance.
+
+<p>A school board may provide transportation for students to career and technical education project sites.</p><p>A school board or corporation may provide insurance protecting its students and agents from loss as a result of physical injury or liability resulting from their work on the project.</p><p>Code 1950, § 22-330.45; 1974, c. 336; 1980, c. 559; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0483'>483</a>.</p>

@@ -1,0 +1,3 @@
+# § 57-55.2 Charitable solicitation disclosure.
+
+<p>Every professional solicitor who solicits contributions from a prospective contributor in the Commonwealth: (i) shall identify himself and his employer; (ii) shall disclose that he is a paid solicitor; and (iii) shall further disclose, in writing, the fact that a financial statement for the last fiscal year is available from the Department of Agriculture and Consumer Services.</p><p>1987, c. 561; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0024'>24</a>.</p>

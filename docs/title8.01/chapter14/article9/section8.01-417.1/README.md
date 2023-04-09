@@ -1,0 +1,3 @@
+# § 8.01-417.1 Use of portions of documents in evidence (Subsection (b) of Supreme Court Rule 2:106 derived from this section).
+
+<p>To expedite trial proceedings in civil cases, upon appropriate and timely motion by counsel, the court may permit the reading to the jury, or the introduction into evidence, of relevant portions of lengthy and complex documents without the necessity of having the jury read or receive the entire document. The court, in its discretion, may permit the entire document to be received by the jury, or may order the parties to edit from any such document admitted into evidence information that is irrelevant to the proceedings.</p><p>1992, c. 720.</p>

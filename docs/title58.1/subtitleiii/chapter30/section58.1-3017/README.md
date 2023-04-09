@@ -1,0 +1,3 @@
+# § 58.1-3017 Disclosure of social security account numbers for local tax administration purposes.
+
+<p>Notwithstanding any other provision of law, a tax official of any county, city or town may require disclosure of the social security account number of a taxpayer for any purpose relating to local taxes administered by such official, including verification of the identity of any individual. Such numbers shall be regarded as confidential tax information.</p><p>1993, c. 103.</p>

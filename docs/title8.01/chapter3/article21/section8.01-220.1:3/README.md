@@ -1,0 +1,3 @@
+# § 8.01-220.1:3 Immunity for members of church, synagogue or religious body.
+
+<p>No member of any church, synagogue or religious body shall be liable in tort or contract for the actions of any officer, employee, leader, or other member of such church, synagogue or religious body solely because of his membership in such church, synagogue or religious body. Nothing in this section shall prevent any person from being held liable for his own actions.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0480'>480</a>.</p>

@@ -1,0 +1,3 @@
+# § 8.7-208 Altered warehouse receipts.
+
+<p>Where a blank in a negotiable warehouse receipt has been filled in without authority, a good faith purchaser for value and without notice of the lack of authority may treat the insertion as authorized. Any other unauthorized alteration leaves any tangible or electronic receipt enforceable against the issuer according to its original tenor.</p><p>Code 1950, § 61-16; 1964, c. 219; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0200'>200</a>.</p>

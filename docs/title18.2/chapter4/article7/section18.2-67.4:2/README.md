@@ -1,0 +1,3 @@
+# § 18.2-67.4:2 Sexual abuse of a child under 15 years of age; penalty.
+
+<p>Any adult who, with lascivious intent, commits an act of sexual abuse, as defined in § <a href='http://law.lis.virginia.gov/vacode/18.2-67.10/'>18.2-67.10</a>, with any child 13 years of age or older but under 15 years of age is guilty of a Class 1 misdemeanor.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0463'>463</a>.</p>

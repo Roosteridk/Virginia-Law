@@ -1,0 +1,3 @@
+# § 30-113.1 Records.
+
+<p>If a complaint is dismissed during the preliminary investigation, such records shall remain confidential and be retained for a period of five years and then destroyed. Records related to a complaint that has proceeded to an inquiry beyond a preliminary investigation shall be made available to the public and retained in a manner prescribed by the Virginia Public Records Act (§ <a href='http://law.lis.virginia.gov/vacode/42.1-76/'>42.1-76</a> et seq.).</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0876'>876</a>.</p>

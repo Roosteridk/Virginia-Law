@@ -1,0 +1,3 @@
+# § 8.01-402 Members of Department of Motor Vehicles' Crash Investigation Team not to be required to give evidence in certain cases.
+
+<p>No member of the Department of Motor Vehicles' Crash Investigation Team shall be required to give evidence concerning any statements made to him in the course of such investigation before any court or grand jury in any case involving a motor vehicle crash on the highways of the Commonwealth in which any member or members of such Crash Investigation Team made or took part in any investigation pursuant to a directive from the Commissioner of the Department of Motor Vehicles for purposes of research and evaluation of the Commonwealth's highway safety program.</p><p>Code 1950, § 8-296.1; 1974, c. 390; 1977, c. 617; 1992, c. 108.</p>

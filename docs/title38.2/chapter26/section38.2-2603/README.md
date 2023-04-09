@@ -1,0 +1,3 @@
+# § 38.2-2603 License required; application; fee.
+
+<p>Except as provided in § <a href='/vacode/38.2-2602/'>38.2-2602</a>, no home protection company shall issue or offer to issue home protection contracts in this Commonwealth until a home protection company license has been granted by the Commission. Application for a license shall be made in writing, in the form prescribed by the Commission, and shall be accompanied by a nonrefundable application fee of $500.</p><p>1981, c. 530, § 38.1-933; 1986, c. 562.</p>

@@ -1,0 +1,3 @@
+# § 28.2-903.1 Impeding lawful fishing in tidal waters; penalty.
+
+<p>A. It is unlawful for any person to willfully and intentionally impede the lawful fishing of any species of fish or shellfish. "Fishing" means those activities defined in § <a href='http://law.lis.virginia.gov/vacode/28.2-100/'>28.2-100</a> as "fishing," "fisheries" or "to fish."</p><p>B. Notwithstanding any other provision of law, any person convicted of a violation of this section shall be guilty of a Class 3 misdemeanor.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0703'>703</a>.</p>

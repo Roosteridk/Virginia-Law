@@ -1,0 +1,3 @@
+# § 55.1-2521 Holder of tangible or intangible personal property may voluntarily report such property.
+
+<p>Any holder of tangible or intangible personal property the owner of which is unlocatable may voluntarily report the property to the administrator, prior to the statutory due dates, whereupon the property shall be presumed abandoned under this chapter.</p><p>1981, c. 47, § 55-210.10:2; 1983, c. 190; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

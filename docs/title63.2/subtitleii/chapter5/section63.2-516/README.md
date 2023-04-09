@@ -1,0 +1,3 @@
+# § 63.2-516 Record of decision.
+
+<p>The local board shall preserve for such time as the Commissioner may prescribe, a record of its decision and all supporting documents and records including the findings and recommendations of the local director.</p><p>Code 1950, §§ 63-122, 63-140.6, 63-148, 63-186, 63-211; 1962, c. 621; 1968, c. 578, § 63.1-115; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

@@ -1,0 +1,3 @@
+# § 2.2-502 Support staff.
+
+<p>The Attorney General may appoint such persons as he deems necessary for the efficient conduct of his office, and apportion, out of the appropriation for his office, such salaries among such persons as he deems proper, but the aggregate amount paid them shall not exceed the amount provided by law.</p><p>Code 1950, § 2-95; 1966, c. 677, § 2.1-131; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

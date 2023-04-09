@@ -1,0 +1,3 @@
+# § 50-73.35 Sharing of distributions.
+
+<p>Distributions of cash or other assets of a limited partnership shall be allocated among the partners, and among classes of partners, in the manner provided in writing in the partnership agreement. If the partnership agreement does not so provide in writing, distributions shall be made on the basis of the value, as stated in the partnership records required to be kept pursuant to § <a href='http://law.lis.virginia.gov/vacode/50-73.8/'>50-73.8</a>, of the contributions made by each partner to the extent they have been received by the partnership and have not been returned.</p><p>1985, c. 607; 1987, c. 702.</p>

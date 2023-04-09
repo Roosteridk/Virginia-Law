@@ -1,0 +1,3 @@
+# § 36-98.01 Mechanics' lien agent included on building permit for residential property at request of applicant.
+
+<p>In addition to any information required by the Uniform Statewide Building Code, a building permit issued for any one- or two-family residential dwelling unit shall at the time of issuance contain, at the request of the applicant, the name, mailing address, and telephone number of the mechanics' lien agent as defined in § <a href='http://law.lis.virginia.gov/vacode/43-1/'>43-1</a>. If the designation of a mechanics' lien agent is not so requested by the applicant, the building permit shall at the time of issuance state that none has been designated with the words "None Designated."</p><p>1992, cc. 779, 787.</p>

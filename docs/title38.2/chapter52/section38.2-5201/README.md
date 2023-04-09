@@ -1,0 +1,3 @@
+# § 38.2-5201 What laws applicable.
+
+<p>All policies and certificates shall comply with all of the provisions of this title relating to insurance policies and certificates generally, except Article 2 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-3408/'>38.2-3408</a> et seq.) of Chapter 34 and Chapter 36 of this title. In the event of conflict between the provisions of this chapter and other provisions of this title, the provisions of this chapter shall be controlling.</p><p>1987, c. 586; 1990, c. 285.</p>

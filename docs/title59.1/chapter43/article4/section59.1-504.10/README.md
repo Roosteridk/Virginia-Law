@@ -1,0 +1,3 @@
+# § 59.1-504.10 No implied warranties for free software.
+
+<p>(a) In this section, "free software" means a computer program with respect to which the licensor does not intend to make a profit from the distribution of the copy of the program and does not act generally for commercial gain derived from controlling use of the program or making, modifying, or redistributing copies of the program.</p><p>(b) The warranties under §§ <a href='http://law.lis.virginia.gov/vacode/59.1-504.1/'>59.1-504.1</a> and <a href='http://law.lis.virginia.gov/vacode/59.1-504.3/'>59.1-504.3</a> do not apply to free software.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0794'>794</a>.</p>

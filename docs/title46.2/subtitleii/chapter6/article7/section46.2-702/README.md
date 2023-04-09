@@ -1,0 +1,3 @@
+# § 46.2-702 Fees for service or wrecking vehicles.
+
+<p>For the purpose of determining the registration and license fees paid by the owners of motor vehicles used as service or wrecking cranes, these motor vehicles, when used in connection with the business of any person engaged in selling motor vehicles or repairing the same, shall be treated as private motor vehicles and not as motor vehicles operated for compensation or for hire.</p><p>Code 1950, § 46-174; 1958, c. 541, § 46.1-163; 1960, c. 123; 1989, c. 727.</p>

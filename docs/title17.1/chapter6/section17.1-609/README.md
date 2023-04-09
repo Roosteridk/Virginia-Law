@@ -1,0 +1,3 @@
+# § 17.1-609 Costs on certain motions and interlocutory orders.
+
+<p>Upon any motion, other than for a judgment for money, or upon any interlocutory order or proceeding, the court may give or refuse costs, at its discretion, unless otherwise provided. It may, when a demurrer is sustained to a plea in abatement, give judgment for the plaintiff for his full costs, to the time of sustaining it, an attorney's fee only excepted; and when any other part of the pleading is adjudged insufficient, order all costs occasioned by such insufficient pleading to be paid by him who committed the fault.</p><p>Code 1950, § 14-184; 1964, c. 386, § 14.1-187; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

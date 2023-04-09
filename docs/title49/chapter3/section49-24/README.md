@@ -1,0 +1,3 @@
+# § 49-24 Failure of officer to give new bond.
+
+<p>If any such officer, commissioner or receiver, being so required, shall fail to give a new bond, as provided in § <a href='http://law.lis.virginia.gov/vacode/49-22/'>49-22</a>, within the time required by the court, he shall be deemed to be guilty of a breach of duty, and shall be forthwith removed from his office or trust.</p><p>Code 1919, § 5773.</p>

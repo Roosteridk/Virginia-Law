@@ -1,0 +1,3 @@
+# § 28.2-604 Eligible applicants.
+
+<p>Application for assignment of general oyster-planting ground may be made by (i) any resident of the Commonwealth, (ii) any county, municipality, or political subdivision of the Commonwealth, or (iii) any firm, or corporation chartered under the laws of this Commonwealth for the purpose of oyster culture and the oyster business provided that at least sixty percent of the stock of any such corporation is wholly owned by residents of the Commonwealth.</p><p>Code 1950, § 28-124; 1954, c. 352; 1958, c. 183; 1960, c. 517; 1962, c. 406, § 28.1-109(2); 1964, c. 393; 1966, c. 684; 1970, c. 726; 1972, c. 644; 1973, c. 14; 1978, cc. 546, 548; 1980, cc. 34, 609; 1984, c. 259; 1986, c. 171; 1992, c. 836.</p>

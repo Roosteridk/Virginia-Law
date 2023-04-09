@@ -1,0 +1,3 @@
+# § 58.1-3226.1 Release of lien on portion of real estate upon payment of taxes.
+
+<p>The local governing body of any county, city or town may adopt an ordinance providing that when an individual purchases or acquires a portion of a tract of real estate, the individual or treasurer may apply to the commissioner of the revenue, or the real estate assessor of the county, city or town in which the real estate is located to determine the amount of any tax or assessment that is properly chargeable against such portion of real estate. The treasurer shall release such portion of real estate from any lien for delinquent taxes, upon receipt of payment for the total amount of taxes and penalty and interest due on such portion of real estate.</p><p>1987, c. 245; 1988, c. 277.</p>

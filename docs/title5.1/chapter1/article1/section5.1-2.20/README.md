@@ -1,0 +1,3 @@
+# § 5.1-2.20 Same; eminent domain.
+
+<p>Eminent domain proceedings shall not be instituted by any joint authority except by majority vote of each component agency or authority of such joint authority. If so instituted, any property or rights acquired thereunder shall be held by such agencies or authorities jointly, according to the terms of the agreement creating the joint authority.</p><p>1980, c. 750.</p>

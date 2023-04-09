@@ -1,0 +1,3 @@
+# § 6.2-610 Transfers arising from right of survivorship nontestamentary.
+
+<p>Any transfers resulting from the application of § <a href='http://law.lis.virginia.gov/vacode/6.2-608/'>6.2-608</a> are effective by reason of the account contracts involved and this article and are not to be considered as testamentary or subject to Chapter 4 (§ <a href='http://law.lis.virginia.gov/vacode/64.2-400/'>64.2-400</a> et seq.) of Title 64.2.</p><p>1979, c. 407, § 6.1-125.7; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

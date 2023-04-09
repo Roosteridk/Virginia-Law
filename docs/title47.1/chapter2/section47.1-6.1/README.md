@@ -1,0 +1,3 @@
+# § 47.1-6.1 Standards for electronic notarization.
+
+<p>The Secretary of the Commonwealth shall develop standards for electronic notarization and the Virginia Information Technologies Agency shall provide assistance to the Secretary of the Commonwealth relating to the equipment, security, and technological aspects of the electronic notarization standards. The process for developing and maintaining such standards shall be exempt from the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0160'>160</a>.</p>

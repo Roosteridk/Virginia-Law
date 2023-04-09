@@ -1,0 +1,3 @@
+# § 9.1-1105 Reexamination by independent experts.
+
+<p>Independent experts employed by (i) an attorney of record for a person accused of violation of any criminal law of the Commonwealth or (ii) the accused, for the purpose of reexamination of materials previously examined in any laboratory of the Department, shall conduct their analyses or examinations independently of the facilities, equipment, or supplies of the Department.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0868'>868</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0881'>881</a>.</p>

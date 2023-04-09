@@ -1,0 +1,3 @@
+# § 38.2-1880 What laws applicable; rulemaking authority.
+
+<p>A. Except as otherwise provided in this article and except where the context otherwise requires, all of the provisions of this title apply to this article.</p><p>B. Pursuant to the authority granted by § <a href='http://law.lis.virginia.gov/vacode/38.2-223/'>38.2-223</a>, the Commission may promulgate such rules and regulations as may be necessary or appropriate for the administration and enforcement of this article.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0222'>222</a>.</p>

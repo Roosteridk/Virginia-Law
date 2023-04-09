@@ -1,0 +1,3 @@
+# § 58.1-3244 Article not in conflict with requirements for preparation and use of true values.
+
+<p>Nothing in this article shall be construed to be in conflict with the requirements for preparation and use of true values where prescribed by the General Assembly for use in any fund distribution formula.</p><p>Code 1950, § 58-769.15:1; 1971, Ex. Sess., c. 172; 1984, c. 675.</p>

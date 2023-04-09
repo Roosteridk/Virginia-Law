@@ -1,0 +1,3 @@
+# § 29.1-544 Dressing, packing and selling bobwhite quail.
+
+<p>A. It shall be lawful for the licensee of a shooting preserve or his designated agents to dress, pack and sell bobwhite quail raised by him for use as food, under rules or regulations to be prescribed by the Board.</p><p>B. It shall be lawful to sell mounted bobwhite quail in the Commonwealth that have been legally raised captively and mounted outside of the Commonwealth.</p><p>1960, c. 131, § 29-158.2; 1987, c. 488; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0179'>179</a>.</p>

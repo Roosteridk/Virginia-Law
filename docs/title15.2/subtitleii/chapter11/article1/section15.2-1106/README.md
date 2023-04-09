@@ -1,0 +1,3 @@
+# § 15.2-1106 Control and management of affairs; books, records, accounts, etc., of agencies.
+
+<p>A municipal corporation shall provide for the control and management of the affairs of the municipality, and may prescribe and require the adoption and keeping of such books, records, accounts and systems of accounting by the departments, boards, commissions, courts or other agencies of the local government as may be necessary to give full and true accounts of the affairs, resources and revenues of the municipal corporation and the handling, use and disposal thereof.</p><p>Code 1950, § 15-77.8; 1958, c. 328; 1962, c. 623, § 15.1-844; 1997, c. 587.</p>

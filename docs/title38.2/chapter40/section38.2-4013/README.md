@@ -1,0 +1,3 @@
+# § 38.2-4013 Certificates of membership.
+
+<p>Each burial society shall issue certificates of membership to each member of the society. Each certificate shall state the amount of the benefit payable and the name of the beneficiary.</p><p>Code 1950, § 38-150; 1952, c. 317, § 38.1-560; 1986, c. 562.</p>

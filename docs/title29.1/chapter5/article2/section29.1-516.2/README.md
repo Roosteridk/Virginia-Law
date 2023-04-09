@@ -1,0 +1,3 @@
+# § 29.1-516.2 Hunting with dogs; dogs to wear tags.
+
+<p>Any person engaged in lawful hunting with a dog shall ensure that the dog has a tag identifying the name of the owner or custodian and a current phone number. The tag shall be securely fastened to a substantial collar by the owner or custodian and worn by such dog.</p><p>2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0651'>651</a>.</p>

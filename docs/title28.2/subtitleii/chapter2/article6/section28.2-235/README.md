@@ -1,0 +1,3 @@
+# § 28.2-235 Duty to apply for new tag in case of loss; penalty.
+
+<p>Should the metal tag required by § <a href='http://law.lis.virginia.gov/vacode/28.2-234/'>28.2-234</a> be removed or destroyed by accident, by the force of the sea, or in any other casual manner, the licensee shall apply for a new tag within twenty-four hours after the discovery of the destruction or loss of the original tag. Failure to do so is a Class 3 misdemeanor.</p><p>Code 1950, § 28-79; 1962, c. 406, § 28.1-77; 1992, c. 836.</p>

@@ -1,0 +1,3 @@
+# § 4.1-314 Keeping, possessing, or storing still or distilling apparatus without a permit; penalty.
+
+<p>No person shall keep, store, or have in his possession any still or distilling apparatus for the purpose of distilling alcohol without a permit from the Board.</p><p>Any person convicted of a violation of this section shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 4-77; 1993, c. 866; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0386'>386</a>.</p>

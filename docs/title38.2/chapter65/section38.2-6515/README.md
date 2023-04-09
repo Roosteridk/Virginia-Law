@@ -1,0 +1,3 @@
+# § 38.2-6515 Regulations.
+
+<p>The Commission shall promulgate regulations to implement the provisions of this chapter in accordance with the Commission's rules of practice and procedure. Regulations promulgated under this section shall be consistent with applicable provisions of federal and state law.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0916'>916</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0917'>917</a>.</p>

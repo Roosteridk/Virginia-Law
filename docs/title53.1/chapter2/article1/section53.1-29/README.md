@@ -1,0 +1,3 @@
+# § 53.1-29 Authority for correctional officers and other employees to carry weapons.
+
+<p>It shall be lawful for any correctional officer and any noncustodial employee who has been designated by the Director of the Department, and who has completed the basic course in firearms for correctional officers as approved by the Department of Criminal Justice Services, to carry and use sufficient weapons to prevent escapes, suppress rebellion, and defend or protect himself or others in the course of his assigned duties.</p><p>Code 1950, § 53-39; 1970, c. 648; 1979, c. 642; 1982, c. 636; 1984, c. 720; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0804'>804</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0838'>838</a>.</p>

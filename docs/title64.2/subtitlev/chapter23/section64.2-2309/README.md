@@ -1,0 +1,3 @@
+# § 64.2-2309 Costs.
+
+<p>The costs attendant to the issuing of an order determining death or the revocation of such order shall be paid out of the estate of the presumed decedent. If the petition for the issuance or revocation of an order determining death is not granted, the costs shall be paid by the petitioner.</p><p>Code 1950, § 64-111; 1968, c. 656, § 64.1-115; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0351'>351</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,0 +1,3 @@
+# § 38.2-3314 Title.
+
+<p>Each individual life insurance policy shall have a title on its face that shall briefly and accurately describe the nature and form of the policy.</p><p>Code 1950, § 38-371(13); 1950, p. 181; 1952, c. 317, § 38.1-403; 1986, c. 562.</p>

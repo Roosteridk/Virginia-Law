@@ -1,0 +1,3 @@
+# § 56-231.45 Officers.
+
+<p>The officers of a cooperative shall consist of a president, vice-president, secretary and treasurer who shall be elected annually by the board and such other officers as may be designated by the board of directors. No person shall hold any offices unless that person is a director or employee of the cooperative. The offices of secretary and treasurer may be held by the same person. Any officer may be removed from office and a successor elected or appointed in accordance with such cooperative's bylaws.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0874'>874</a>.</p>

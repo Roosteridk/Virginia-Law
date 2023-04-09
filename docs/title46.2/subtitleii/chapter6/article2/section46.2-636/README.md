@@ -1,0 +1,3 @@
+# § 46.2-636 Certificate to show security interests.
+
+<p>When the Department receives an application for a certificate of title to a motor vehicle, trailer, or semitrailer showing security interests on the motor vehicle, trailer, or semitrailer, the certificate of title issued by the Department to the owner of the vehicle shall show all security interests disclosed by the application. All security interests shown on the certificate of title shall be shown in the order of their priority according to the information contained in the application.</p><p>Code 1950, § 46-69; 1958, c. 541, § 46.1-69; 1966, c. 558; 1989, c. 727.</p>

@@ -1,0 +1,3 @@
+# § 46.2-640.1 Vehicle leases that are not sales or security interests.
+
+<p>Notwithstanding any other provision of law, in the case of motor vehicles, trailers or semi-trailers, a transaction does not create a sale or security interest merely because it provides that the rental price is permitted or required to be adjusted under the agreement either upward or downward by reference to the amount realized upon sale or other disposition of the motor vehicle or trailer.</p><p>1991, c. 536.</p>

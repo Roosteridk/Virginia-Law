@@ -1,0 +1,3 @@
+# § 23.1-2702 Powers and duties.
+
+<p>A. The board shall appoint all professors, teachers, and agents and fix their salaries and generally direct the affairs of the University.</p><p>B. The board may confer degrees.</p><p>1964, c. 70, §§ 23-165.6, 23-165.8; 1979, c. 147; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0314'>314</a>.</p>

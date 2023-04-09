@@ -1,0 +1,3 @@
+# § 33.2-610 Sections 33.2-606 through 33.2-609 not applicable to certain toll bridges.
+
+<p>Nothing contained in §§ <a href='http://law.lis.virginia.gov/vacode/33.2-606/'>33.2-606</a> through <a href='http://law.lis.virginia.gov/vacode/33.2-609/'>33.2-609</a> shall be construed to apply to any bridge existing or under construction on March 20, 1928, or to bridges constructed within or adjacent to towns or cities having a population of more than 3,500.</p><p>Code 1950, § 33-226; 1970, c. 322, § 33.1-266; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,0 +1,3 @@
+# § 55.1-2126 Easement rights.
+
+<p>Subject to the provisions of the declaration, a declarant has an easement through the common elements as may be reasonably necessary for the purpose of discharging a declarant's obligations or exercising special declarant rights, whether arising under this chapter or reserved in the declaration.</p><p>1982, c. 277, § 55-452; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

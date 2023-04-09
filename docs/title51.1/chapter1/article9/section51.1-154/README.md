@@ -1,0 +1,3 @@
+# § 51.1-154 Compulsory service retirement.
+
+<p>Any employer, subsequent to the employee's normal retirement date, may provide for compulsory service retirement upon a determination that age is a bona fide occupational qualification reasonably necessary to the normal operation of the particular business or that an employee is incapable of performing his duties in a safe and efficient manner. Any such determination shall be made by the employer.</p><p>1952, c. 157, § 51-111.54; 1954, c. 460; 1956, c. 458; 1958, c. 356; 1959, Ex. Sess., c. 59; 1966, c. 147; 1968, c. 177; 1970, c. 476; 1971, Ex. Sess., c. 185; 1972, c. 26; 1974, c. 353; 1975, c. 611; 1980, c. 595; 1982, c. 406; 1984, c. 430; 1987, c. 571; 1990, c. 832.</p>

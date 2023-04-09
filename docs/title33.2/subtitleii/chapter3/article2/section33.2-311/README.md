@@ -1,0 +1,3 @@
+# § 33.2-311 Certain highways in parks included in primary state highway system.
+
+<p>All highways in state parks that provide connections between highways, in either the primary or secondary state highway system, outside such parks and recreation centers within such parks shall continue to be portions of the primary state highway system.</p><p>Code 1950, § 33-24; 1970, c. 322, § 33.1-31; 1986, c. 498; 1989, c. 656; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

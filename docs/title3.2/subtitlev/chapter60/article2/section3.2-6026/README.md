@@ -1,0 +1,3 @@
+# § 3.2-6026 Disposal of dead poultry.
+
+<p>It shall be unlawful for any person engaged in the raising or keeping of poultry for profit to dispose of dead poultry on his premises in any manner except in a disposal pit, landfill, incinerator, or by composting or rendering.</p><p>Code 1950, § 3-583.4; 1962, c. 157; 1966, c. 702, § 3.1-745; 1992, c. 101; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

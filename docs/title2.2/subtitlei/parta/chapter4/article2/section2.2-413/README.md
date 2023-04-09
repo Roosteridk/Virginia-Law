@@ -1,0 +1,3 @@
+# § 2.2-413 Registration for benefit of associated branches, etc.
+
+<p>Registration shall be for the use, benefit, and on behalf of all associations, degrees, branches, subordinate lodges, and auxiliaries of such associations, lodge, order, fraternal society, beneficial association, or fraternal and beneficial society or association, historical, military, or veterans' organization, labor union, foundation, federation, or other society, organization, or association, degree, branch, subordinate lodge, or auxiliary thereof, and the individual members of such organizations, throughout the Commonwealth.</p><p>Code 1950, § 38-310; 1952, c. 225, § 2-64.3; 1966, c. 677, § 2.1-76; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

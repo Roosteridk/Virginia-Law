@@ -1,0 +1,3 @@
+# § 45.2-805  Underground transformers.
+
+<p>Every transformer that is used underground shall be air-cooled or filled with nonflammable liquid or inert gas.</p><p>Code 1950, § 45-82.2; 1954, c. 191; 1966, c. 594, § 45.1-76; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.183; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

@@ -1,0 +1,3 @@
+# § 19.2-224 In prosecution for forgery, unnecessary to set forth copy of forged instrument.
+
+<p>In a prosecution for forging or altering any instrument or other thing, or attempting to employ as true any forged instrument or other thing, or for any of the offenses mentioned in Article 1 (§ <a href='http://law.lis.virginia.gov/vacode/18.2-168/'>18.2-168</a> et seq.) of Chapter 6 of Title 18.2, it shall not be necessary to set forth any copy or facsimile of such instrument or other thing; but it shall be sufficient to describe the same in such manner as would sustain an indictment for stealing such instrument or other thing, supposing it to be the subject of larceny.</p><p>Code 1950, § 19.1-169; 1960, c. 366; 1975, c. 495.</p>

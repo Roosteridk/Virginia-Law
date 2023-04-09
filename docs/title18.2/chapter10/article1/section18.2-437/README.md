@@ -1,0 +1,3 @@
+# § 18.2-437 Immunity of witnesses.
+
+<p>No witness called by the attorney for the Commonwealth, or by the court, and required to give evidence for the prosecution in a proceeding under this article shall ever be proceeded against for the offense concerning which he testified. Such witness shall be compelled to testify and may be punished for contempt for refusing to do so.</p><p>Code 1950, § 18.1-277; 1960, c. 358; 1975, cc. 14, 15.</p>

@@ -1,0 +1,3 @@
+# § 36-83 Violation a Class 1 misdemeanor; penalty.
+
+<p>It shall be unlawful for any person, firm or corporation, on or after June 26, 1970, to violate any provisions of this law or the rules and regulations made pursuant hereto. Any person, firm or corporation violating any of the provisions of this law, or the rules and regulations made hereunder, shall be deemed guilty of a Class 1 misdemeanor and, upon conviction thereof, shall be punished by a fine of not more than $1,000.</p><p>Code 1950, § 12-81; 1970, c. 305; 1971, Ex. Sess., c. 103; 1986, c. 37.</p>

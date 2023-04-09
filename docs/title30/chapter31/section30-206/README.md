@@ -1,0 +1,3 @@
+# § 30-206 (Expires July 1, 2024) Staffing.
+
+<p>Administrative staff support shall be provided by the Office of the Clerk of the Senate or the Office of Clerk of the House of Delegates as may be appropriate for the house in which the chairman of the Commission serves. The Division of Legislative Services shall provide legal, research, policy analysis and other services as requested by the Commission. All agencies of the Commonwealth shall provide assistance to the Commission, upon request.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0885'>885</a>.</p>

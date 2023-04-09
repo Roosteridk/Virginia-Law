@@ -1,0 +1,3 @@
+# § 15.2-1431 Appeals; nonpayment of fine.
+
+<p>An appeal from any fine or imprisonment shall be as in misdemeanor cases. Whenever any fine is imposed but not paid, the court trying the case shall proceed in accordance with Article 4 (§ <a href='http://law.lis.virginia.gov/vacode/19.2-354/'>19.2-354</a> et seq.) of Chapter 21 of Title 19.2.</p><p>Code 1950, § 15-77.66; 1958, c. 328; 1962, c. 623, § 15.1-903; 1973, c. 342; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 15.2-206 Special elections; request for abolition of certain local constitutional offices.
+
+<p>No bill to enact or amend a charter which has the effect of abolishing any office set forth in Article VII, Section 4 of the Constitution of Virginia shall be considered unless a referendum, elsewhere authorized by law, has been conducted in accordance with the provisions of § <a href='http://law.lis.virginia.gov/vacode/24.2-685/'>24.2-685</a>, and a majority of the qualified voters voting thereon have approved the request for the enactment or amendment of the charter.</p><p>1985, c. 586, § 15.1-836.1:1; 1986, c. 355; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 30-204 (Expires July 1, 2024) Compensation; expenses.
+
+<p>Members of the Commission shall receive such compensation as provided in § <a href='/vacode/30-19.12/'>30-19.12</a> and shall be reimbursed for all reasonable and necessary expenses incurred in the performance of their duties as provided in §§ <a href='/vacode/2.2-2813/'>2.2-2813</a> and <a href='/vacode/2.2-2825/'>2.2-2825</a>. However, all such compensation and expenses shall be paid from existing appropriations to the Commission or, if unfunded, shall be approved by the Joint Rules Committee.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0885'>885</a>.</p>

@@ -1,0 +1,3 @@
+# § 46.2-1010 Equipment required.
+
+<p>Every vehicle driven or moved on a highway within the Commonwealth shall at all times be equipped with such lights as are required in this chapter for different classes of vehicles. The lights shall at all times be capable of being lighted, except as otherwise provided. This section shall not apply, however, to any vehicle for transporting well-drilling machinery licensed under § <a href='http://law.lis.virginia.gov/vacode/46.2-700/'>46.2-700</a> when operated only between the hours of sunrise and sunset.</p><p>Code 1950, § 46-264; 1950, p. 690; 1958, c. 541, § 46.1-259; 1989, c. 727.</p>

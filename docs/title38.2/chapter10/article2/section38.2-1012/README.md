@@ -1,0 +1,3 @@
+# § 38.2-1012 Jurisdiction to compel completion of mutualization.
+
+<p>Whenever (i) a plan of mutualization approved in accordance with the laws of this Commonwealth has been in effect for more than five years, and (ii) the insurer has acquired in the name of its trustees under the plan at least ninety percent of its outstanding stock, and (iii) the plan itself contains no provision for the compulsory completion of mutualization inconsistent with the terms of this article, circuit courts shall have jurisdiction to compel completion of the mutualization of the insurer upon the petition of either the insurer or any stockholder of the insurer.</p><p>1954, c. 20, § 38.1-495.1; 1986, c. 562.</p>

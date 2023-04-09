@@ -1,0 +1,3 @@
+# § 64.2-203 Inheritance rights of certain individuals.
+
+<p>A. Except as otherwise provided by law, no person is barred from inheriting because such person or a person through whom he claims his inheritance is or has been an alien.</p><p>B. A person who is related to the decedent through two lines of relationship is entitled to only a single share based on the relationship that would entitle him to the larger share.</p><p>Code 1950, § 64-4; 1968, c. 656, § 64.1-4; 1978, c. 647, § 64.1-6.1; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

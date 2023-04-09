@@ -1,0 +1,3 @@
+# § 8.01-167 How damages of plaintiff assessed.
+
+<p>The jury, in assessing such damages, either under this article or under Article 14 (§ <a href='http://law.lis.virginia.gov/vacode/8.01-131/'>8.01-131</a> et seq.) of this chapter, shall determine the annual value of the premises during the time the defendant was in possession thereof, exclusive of the use by the tenant of the improvements thereon made by himself or those under whom he claims, and also the damages for waste or other injury to the premises committed by the defendant.</p><p>Code 1950, § 8-843; 1977, c. 617.</p>

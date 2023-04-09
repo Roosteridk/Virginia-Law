@@ -1,0 +1,3 @@
+# § 18.2-237 Buying, etc., certain secondhand materials; intent; possession.
+
+<p>If any person buy or receive secondhand grate baskets, keys, bells and bell fixtures, gas fixtures, water fixtures, water pipes, gas pipes, or any part of such fixtures or pipes with intent to defraud, he shall be guilty of a Class 2 misdemeanor. Possession of any such secondhand baskets, keys, bells and bell fixtures, water fixtures, gas fixtures, water pipes, gas pipes, or any part of such fixtures or pipes if bought or received from any other person than the manufacturer thereof or his authorized agent or the owner thereof shall be prima facie evidence of such intent.</p><p>Code 1950, § 59.1-66; 1968, c. 439; 1975, cc. 14, 15.</p>

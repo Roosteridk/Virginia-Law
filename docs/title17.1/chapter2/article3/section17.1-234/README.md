@@ -1,0 +1,3 @@
+# § 17.1-234 Documents to be recorded in "writings partially proved.".
+
+<p>All deeds and other instruments which have been only partially proved shall be recorded in a separate book to be known as "writings partially proved."</p><p>Code 1919, § 3393, § 17-66; 1920, p. 314; 1932, p. 334; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

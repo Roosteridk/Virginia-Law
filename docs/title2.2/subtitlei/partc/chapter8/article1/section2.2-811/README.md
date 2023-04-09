@@ -1,0 +1,3 @@
+# § 2.2-811 Cancellation of state bonds received in settlement of claims.
+
+<p>All bonds of the Commonwealth that are received by the Comptroller in the settlement of claims of the Commonwealth against the sureties of treasurers, sheriffs, or other officers, or in settlement of any other claim, shall be turned over by him to the Treasury Board, who shall cancel the bonds according to law.</p><p>Code 1950, § 2-173; 1966, c. 677, § 2.1-205; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

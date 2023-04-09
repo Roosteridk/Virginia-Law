@@ -1,0 +1,3 @@
+# § 5.1-90.1 Incidental transportation of certain passengers and property by motor vehicle.
+
+<p>Nothing in this chapter shall be construed to prohibit the transportation of property or guards or other attendants of such property by motor vehicle when such transportation is incidental to transportation by aircraft, provided that such transportation shall not exceed twenty-five miles from airport to destination of such guards or other attendants or property.</p><p>1972, c. 281.</p>

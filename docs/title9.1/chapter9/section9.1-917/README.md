@@ -1,0 +1,3 @@
+# § 9.1-917 Limitation on liability.
+
+<p>No liability shall be imposed upon any law-enforcement official who disseminates information or fails to disseminate information in good faith compliance with the requirements of this chapter, but this provision shall not be construed to grant immunity for gross negligence or willful misconduct.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0584'>584</a>.</p>

@@ -1,0 +1,3 @@
+# § 8.9A-802 Savings clause.
+
+<p>(a) Pre-effective-date transactions or liens. Except as otherwise provided in this part, the 2013 amendments apply to a transaction or lien within its scope, even if the transaction or lien was entered into or created before July 1, 2013.</p><p>(b) Pre-effective-date proceedings. The 2013 amendments do not affect an action, case, or proceeding commenced before July 1, 2013.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0155'>155</a>.</p>

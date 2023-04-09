@@ -1,0 +1,3 @@
+# § 10.1-1310.1 Notification of local government.
+
+<p>Upon determining that there has been a violation of this chapter or any regulation promulgated under this chapter or order of the Department, and such violation poses an imminent threat to the health, safety or welfare of the public, the Director shall immediately notify the chief administrative officer of any potentially affected local government. Neither the Director, the Commonwealth, nor any employee of the Commonwealth shall be liable for a failure to provide, or a delay in providing, the notification required by this section.</p><p>1988, cc. 434, 891; 1990, c. 238; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0356'>356</a>.</p>

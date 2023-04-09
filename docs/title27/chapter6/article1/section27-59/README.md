@@ -1,0 +1,3 @@
+# § 27-59 Criminal prosecutions.
+
+<p>If the Department shall be of opinion, after investigation as to the cause or origin of any fire, that there is sufficient evidence to charge any person with the crime of arson, or with incendiary burning of property, it shall furnish to the attorney for the Commonwealth of the city or county all such evidence, together with the names of witnesses, and all information obtained by it, including a copy of all pertinent and material testimony taken by it touching such offense.</p><p>Code 1919, § 4188; 1918, p. 123; 1977, c. 613.</p>

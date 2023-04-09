@@ -1,0 +1,3 @@
+# § 15.2-1113.1 Prohibiting hunting in certain areas.
+
+<p>Any municipal corporation may by ordinance prohibit all hunting with firearms or other weapons in, or within one-half mile of, any subdivision or other area of such municipal corporation which, in the opinion of the governing body, is so heavily populated as to make such hunting dangerous to the inhabitants thereof. Any such ordinance shall clearly describe each area in which hunting is prohibited and shall further provide that appropriate signs shall be erected designating the boundaries of such area.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0289'>289</a>.</p>

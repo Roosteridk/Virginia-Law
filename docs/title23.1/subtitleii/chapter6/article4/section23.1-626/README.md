@@ -1,0 +1,3 @@
+# § 23.1-626 Determination of domicile.
+
+<p>For the purposes of determining a student's eligibility for a grant, the enrolling institution shall determine domicile as provided in § <a href='http://law.lis.virginia.gov/vacode/23.1-502/'>23.1-502</a> and the Council's domicile guidelines.</p><p>2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0850'>850</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0899'>899</a>, § 23-38.10:12; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

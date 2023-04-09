@@ -1,0 +1,3 @@
+# § 15.2-1612.1 Deputy sheriffs to complete course of instruction established by Department of Criminal Justice Services.
+
+<p>Any full-time deputy sheriff not employed on July 1, 1971, shall successfully complete a course of instruction established by the Department of Criminal Justice Services as provided in clause (i) of subdivision 2 of § <a href='http://law.lis.virginia.gov/vacode/9.1-102/'>9.1-102</a>.</p><p>1972, c. 716, § 14.1-73.2; 1973, c. 216; 1974, c. 571; 1975, c. 387; 1976, c. 705; 1979, c. 419; 1980, c. 587; 1984, c. 779; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

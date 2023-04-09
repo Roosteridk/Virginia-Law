@@ -1,0 +1,3 @@
+# § 27-23.4 Validation of prior advances.
+
+<p>The advancement of any funds heretofore advanced from the general fund by the governing body of any city or county in this Commonwealth for the benefit of a fire zone or district in exercising the lawful powers of such fire zone or district is hereby validated and confirmed.</p><p>1970, c. 187; 1985, c. 343; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0142'>142</a>; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

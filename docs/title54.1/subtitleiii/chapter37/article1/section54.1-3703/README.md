@@ -1,0 +1,3 @@
+# § 54.1-3703 Board of Social Work; members.
+
+<p>The Board of Social Work shall regulate the practice of social work.</p><p>The Board shall be composed of nine nonlegislative citizen members appointed by the Governor, seven of whom shall be licensed social workers who have been in active practice of social work for at least five years prior to appointment and two of whom shall be nonlegislative citizen members at large. The terms of the members of the Board shall be four years.</p><p>1976, c. 608, § 54-942; 1981, cc. 447, 555; 1986, c. 464; 1988, cc. 42, 765; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0685'>685</a>.</p>

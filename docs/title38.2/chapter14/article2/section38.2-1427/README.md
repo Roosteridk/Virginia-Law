@@ -1,0 +1,3 @@
+# § 38.2-1427 Common stock; covered call options.
+
+<p>A. A domestic insurer may invest in the common capital stock of any company incorporated under the laws of the United States or any state, if the common capital stock of the corporation is traded on a securities exchange or on an over-the-counter market regulated under the Securities Exchange Act of 1934, as amended.</p><p>B. A domestic insurer also may write exchange-traded, covered call options on shares of common capital stock it owns.</p><p>C. No domestic insurer shall invest, pursuant to this section, in more than ten percent of the issued and outstanding common capital stock of any one corporation or issuer.</p><p>1983, c. 457, § 38.1-217.30; 1986, c. 562; 1992, c. 588.</p>

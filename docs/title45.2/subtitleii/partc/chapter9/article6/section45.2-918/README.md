@@ -1,0 +1,3 @@
+# § 45.2-918  Transportation of personnel.
+
+<p>No person shall be permitted to ride or otherwise be transported (i) on or in a dipper, shovel, bucket, fork, or clamshell; (ii) on or in the cargo space of a dump truck; (iii) outside the cab or bed of a piece of heavy equipment; or (iv) on or in a chain, belt, or bucket conveyor, unless the item described in clauses (i) through (iv) is specifically designed to transport persons.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.271; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

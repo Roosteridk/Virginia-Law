@@ -1,0 +1,3 @@
+# § 29.1-803 Powers with respect to hearings, legal proceedings, witnesses, etc.
+
+<p>The Director may, in hearings arising under this chapter, determine the place in the Commonwealth where they shall be held; subpoena witnesses; take depositions of witnesses residing without the Commonwealth in the manner provided for in civil actions in courts of record; pay such witnesses the fees and mileage for their attendance as is provided for witnesses in civil actions in courts of record; and administer oaths.</p><p>1988, c. 592.</p>

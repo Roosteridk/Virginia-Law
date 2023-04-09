@@ -1,0 +1,3 @@
+# § 54.1-606 Unlawful to advertise as an auctioneer.
+
+<p>It shall be unlawful for any person not licensed under the provisions of this chapter to advertise that he is in the auction business or to hold himself out to the public as an auctioneer.</p><p>1982, c. 538, § 54-824.19; 1983, c. 522; 1988, c. 765; 1991, c. 299.</p>

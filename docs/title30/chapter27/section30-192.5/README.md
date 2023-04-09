@@ -1,0 +1,3 @@
+# § 30-192.5 Staffing.
+
+<p>The Office of the Clerk of the chairman of the Commission shall provide administrative staff support. The Division of Legislative Services shall provide legal, research, policy analysis and other services as requested by the Commission. All agencies of the Commonwealth shall assist the Commission, upon request.</p><p>2003, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP1035'>1035</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP1037'>1037</a>.</p>

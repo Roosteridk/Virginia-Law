@@ -1,0 +1,3 @@
+# § 59.1-207.5:1 Sale or installation of motor vehicle glass; prohibited conduct.
+
+<p>No person selling or engaged in the sale, installation, or replacement of motor vehicle glass shall advertise, promise to provide, or offer any coupon, credit, or rebate to pay all or part of an insurance deductible under a policy of motor vehicle insurance, as defined in § <a href='http://law.lis.virginia.gov/vacode/38.2-124/'>38.2-124</a>, unless such person charges no more than the prevailing market rate for such services.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0707'>707</a>.</p>

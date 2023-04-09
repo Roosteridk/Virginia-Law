@@ -1,0 +1,3 @@
+# § 8.01-433.1 Notice of confession of judgment provision.
+
+<p>No judgment shall be confessed upon a note, bond, or other evidence of debt pursuant to a confession of judgment provision contained therein which does not contain a statement typed in boldface print of not less than eight point type on its face:</p><p>IMPORTANT NOTICE </p><p>THIS INSTRUMENT CONTAINS A CONFESSION OF JUDGMENT PROVISION WHICH CONSTITUTES A WAIVER OF IMPORTANT RIGHTS YOU MAY HAVE AS A DEBTOR AND ALLOWS THE CREDITOR TO OBTAIN A JUDGMENT AGAINST YOU WITHOUT ANY FURTHER NOTICE.</p><p>This section shall only apply to notes, bonds, or other evidences of debt containing confession of judgment provisions entered into after January 1, 1993.</p><p>1992, c. 396.</p>

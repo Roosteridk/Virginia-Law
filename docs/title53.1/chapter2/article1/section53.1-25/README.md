@@ -1,0 +1,3 @@
+# § 53.1-25 Director to prescribe rules; rules to be available to prisoners.
+
+<p>The Director may prescribe rules for the preservation of state property and the health of prisoners in state correctional facilities and for the government thereof. Printed copies of all such rules shall be made available to prisoners under such terms and conditions as the Director may prescribe.</p><p>Code 1950, § 53-23; 1970, c. 648; 1977, c. 354; 1982, c. 636.</p>

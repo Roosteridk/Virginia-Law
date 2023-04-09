@@ -1,0 +1,3 @@
+# § 50-73.19 Scope of notice.
+
+<p>The fact that a certificate of limited partnership has been filed in accordance with the provisions of this chapter or the Virginia Uniform Limited Partnership Act, Chapter 2 (§ <a href='http://law.lis.virginia.gov/vacode/50-44/'>50-44</a> et seq.) of this title, as it existed prior to its repeal, is notice that the partnership is a limited partnership and that a person designated as a general partner is a general partner, but shall not be deemed to be notice of any other fact.</p><p>1985, c. 607; 1987, c. 702.</p>

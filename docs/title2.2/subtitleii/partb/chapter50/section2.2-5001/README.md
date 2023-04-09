@@ -1,0 +1,3 @@
+# § 2.2-5001 Manner of exercising authority.
+
+<p>The authority vested in governmental instrumentalities under the provisions of this chapter may be exercised by the body authorized to issue such bonds without securing the further approval of any other body, board or agency that may have approved the issuance of such bonds and, in the case of bonds approved by election, without a further election, unless a lower maximum rate of interest was stated in the approval of such other body, board or agency or was stated on the ballot of such election.</p><p>1970, c. 1, § 2.1-326.2; 1972, c. 735; 1974, cc. 82, 650; 1976, c. 522; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

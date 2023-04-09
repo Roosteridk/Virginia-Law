@@ -1,0 +1,3 @@
+# § 8.01-149 Verdict when jury finds for plaintiffs or any of them.
+
+<p>If the jury be of opinion for the plaintiffs, or any of them, the verdict shall be for the plaintiffs, or such of them as appear to have right to the possession of the premises, or any part thereof, and against such of the defendants as were in possession thereof or claimed title thereto at the commencement of the action.</p><p>Code 1950, § 8-819; 1977, c. 617.</p>

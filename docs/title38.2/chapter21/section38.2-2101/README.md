@@ -1,0 +1,3 @@
+# § 38.2-2101 Policies shall conform to provisions of this chapter.
+
+<p>No insurance policy or contract on any property in this Commonwealth shall be issued or delivered in this Commonwealth unless the policy or contract meets the requirements of this chapter.</p><p>Code 1950, § 38-177; 1952, c. 317, § 38.1-363; 1986, c. 562.</p>

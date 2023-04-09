@@ -1,0 +1,3 @@
+# § 61.1-4 Failure to state in receipt warehouseman's interest in goods.
+
+<p>Where there are deposited with or held by a warehouseman goods of which he is the owner, either solely or jointly in common with others, such warehouseman, or any of his officers, agents or servants, who knowing this ownership, issues or aids in issuing a negotiable receipt for such goods which does not state such ownership, shall be guilty of a misdemeanor, and upon conviction shall be punished as provided for misdemeanors generally in § <a href='http://law.lis.virginia.gov/vacode/18.2-12/'>18.2-12</a>.</p><p>Code 1950, § 61-56; 1968, c. 69.</p>

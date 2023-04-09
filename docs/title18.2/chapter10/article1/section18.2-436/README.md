@@ -1,0 +1,3 @@
+# § 18.2-436 Inducing another to give false testimony; sufficiency of evidence.
+
+<p>If any person procure or induce another to commit perjury or to give false testimony under oath in violation of any provision of this article, he shall be punished as prescribed in § <a href='http://law.lis.virginia.gov/vacode/18.2-434/'>18.2-434</a>.</p><p>In any prosecution under this section, it shall be sufficient to prove that the person alleged to have given false testimony shall have been procured, induced, counselled or advised to give such testimony by the party charged.</p><p>Code 1950, § 18.1-277; 1960, c. 358; 1975, cc. 14, 15.</p>

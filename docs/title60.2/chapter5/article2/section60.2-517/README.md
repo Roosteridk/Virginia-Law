@@ -1,0 +1,3 @@
+# § 60.2-517 How fractional part of cent computed.
+
+<p>In the payment of any such taxes, a fractional part of a cent shall be disregarded, unless it amounts to one-half cent or more, in which case it shall be increased to one cent.</p><p>Code 1950, § 60-66; 1968, c. 738, § 60.1-78; 1986, c. 480.</p>

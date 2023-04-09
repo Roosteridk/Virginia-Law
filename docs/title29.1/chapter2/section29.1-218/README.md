@@ -1,0 +1,3 @@
+# § 29.1-218 Defense of conservation police officer prosecuted on criminal charge.
+
+<p>If any conservation police officer appointed by the Director is prosecuted on any criminal charge arising out of any act committed in performing his official duties, the Director may employ special counsel approved by the Governor to defend the officer. The compensation for special counsel employed pursuant to this section, shall, subject to the approval of the Governor, be paid out of the funds appropriated for the administration of the Department.</p><p>1966, c. 222, § 29-37.2; 1987, c. 488; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0087'>87</a>.</p>

@@ -1,0 +1,3 @@
+# § 3.2-3807 Eradication and control measures.
+
+<p>The Commissioner may order the owner or custodian of any infested nursery stock or plant products for sale or distribution to take eradication and control measures. The owner or custodian shall promptly carry out the order of the Commissioner. The Commissioner may take the eradication or control measures required by the order if the owner or custodian refuses or neglects to carry out the order.</p><p>Code 1950, § 3-178.9; 1964, c. 476; 1966, c. 702, § 3.1-143; 1980, c. 291, § 3.1-188.37; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

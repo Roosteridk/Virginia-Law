@@ -1,0 +1,3 @@
+# § 8.01-113 When title of purchaser at judicial sale not to be disturbed.
+
+<p>If a sale of property is made under a decree of a court, and such sale is confirmed, the title of the purchaser at such sale shall not be disturbed unless within twelve months from such confirmation the sale is set aside by the trial court or an appeal is taken to the Court of Appeals or allowed by the Supreme Court, and a decree is therein afterwards entered requiring such sale to be set aside. This limitation shall not affect any right of restitution of the proceeds of sale.</p><p>Code 1950, § 8-673; 1977, c. 617; 1984, c. 703.</p>

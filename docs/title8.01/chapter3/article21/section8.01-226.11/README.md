@@ -1,0 +1,3 @@
+# § 8.01-226.11 Civil immunity for operation of victim notification program.
+
+<p>The Virginia Sheriffs' Association and the Virginia Community Policing Institute, and the directors, managers, members, officers and employees of such entities shall be immune from civil liability for their acts or omissions relating to the establishment and operation of an automated victim notification system unless such act or omission was the result of gross negligence or willful misconduct.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0267'>267</a>.</p>

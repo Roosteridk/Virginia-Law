@@ -1,0 +1,3 @@
+# § 10.1-1181.12 Exemption from article.
+
+<p>The provisions of this article shall not apply to any person who supplies the Department of Forestry with information or documentation showing that such person was actively engaged in the practice of forestry for a continuous period of at least ten years prior to July 1, 2002. The Department shall maintain and make available to the public a list of all persons who satisfy the requirements of this section.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0447'>447</a>.</p>

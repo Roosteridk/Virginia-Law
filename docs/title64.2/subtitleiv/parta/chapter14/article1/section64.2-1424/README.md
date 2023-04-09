@@ -1,0 +1,3 @@
+# § 64.2-1424 Resignation by fiduciary of his trust.
+
+<p>The circuit court in which or before the clerk of which a fiduciary qualified may allow any personal representative, guardian, conservator, or committee to resign his trust conditioned upon his accounts as the fiduciary being stated and settled in the mode prescribed by law. Such resignation shall not invalidate any act done or affect any liability incurred by him while holding such trust.</p><p>Code 1919, § 5419; 1938, p. 790; Code 1950, § 26-46; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0801'>801</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

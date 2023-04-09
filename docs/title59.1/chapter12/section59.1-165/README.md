@@ -1,0 +1,3 @@
+# § 59.1-165 Chemical analysis as evidence.
+
+<p>A certificate of analysis of any motor fuel or lubricating oils shall be admitted into evidence in any case relating to such motor fuel or lubricating oil that involves an alleged violation of this chapter or regulation adopted thereunder, provided that the requirements of subsection A of § <a href='http://law.lis.virginia.gov/vacode/19.2-187.1/'>19.2-187.1</a> have been satisfied and the accused has not objected to the admission of the certificate pursuant to subsection B of § <a href='http://law.lis.virginia.gov/vacode/19.2-187.1/'>19.2-187.1</a>.</p><p>Code 1950, § 59-58; 1968, c. 439; 1972, c. 741; 1992, c. 885; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0152'>152</a>.</p>

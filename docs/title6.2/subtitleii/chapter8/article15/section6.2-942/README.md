@@ -1,0 +1,3 @@
+# § 6.2-942 False certification of checks; penalty.
+
+<p>Any officer, employee, agent, or director of a bank who (i) certifies a check drawn on such bank and willfully fails forthwith to charge the amount thereof against the account of the drawer thereof or (ii) willfully certifies a check drawn on such bank when the drawer of such check does not have on deposit with the bank the amount of money subject to the payment of such check, is guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 6-136; 1966, c. 584, § 6.1-120; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

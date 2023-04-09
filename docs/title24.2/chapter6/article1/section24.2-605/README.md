@@ -1,0 +1,3 @@
+# § 24.2-605 Loudspeakers prohibited at polls; penalty.
+
+<p>Notwithstanding any contrary statute or ordinance of a county, city, or town, except for school purposes or in an emergency, no loudspeaker shall be used within 300 feet of a polling place on an election day. Any person violating this section shall be guilty of a Class 4 misdemeanor.</p><p>1976, c. 616, § 24.1-96.1; 1993, c. 641.</p>

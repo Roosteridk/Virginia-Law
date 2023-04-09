@@ -1,0 +1,3 @@
+# § 22.1-55 Compensation of members.
+
+<p>A school board of a school division to which the provisions of this article are applicable may pay each of its members an annual salary not to exceed the amount authorized by § <a href='http://law.lis.virginia.gov/vacode/22.1-32/'>22.1-32</a>, if any, for the county or city from which such member was appointed.</p><p>Code 1950, § 22-100.6; 1954, c. 391; 1971, Ex. Sess., c. 161; 1980, c. 559.</p>

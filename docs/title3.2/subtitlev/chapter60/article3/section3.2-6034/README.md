@@ -1,0 +1,3 @@
+# § 3.2-6034 Commissioner to enjoin violations.
+
+<p>The Commissioner may bring an action to enjoin the violation of any provision of this article in the circuit court of the county or city where such violation occurs.</p><p>Code 1950, § 3-598.6; 1954, c. 506; 1956, c. 308; 1966, c. 702, § 3.1-763; 1970, c. 619; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0563'>563</a>.</p>

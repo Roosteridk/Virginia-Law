@@ -1,0 +1,3 @@
+# § 2.2-4506 Securities lending.
+
+<p>Notwithstanding any provision of law to the contrary, the Commonwealth, all public officers, municipal corporations, political subdivisions and all public bodies of the Commonwealth may engage in securities lending from the portfolio of investments of which they have custody and control, other than sinking funds. The Treasury Board shall develop guidelines with which such securities lending shall fully comply. Such guidelines shall ensure that the state treasury is at all times fully collateralized by the borrowing institution.</p><p>1983, c. 268, § 2.1-328.6; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

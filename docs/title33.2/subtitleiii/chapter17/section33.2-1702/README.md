@@ -1,0 +1,3 @@
+# § 33.2-1702 Acquisition and construction of projects.
+
+<p>The Board shall acquire or construct, under the provisions of this chapter, each of the projects included in the undertaking at the earliest dates deemed by the Board to be feasible for the acquisition or construction of each project and its financing under this chapter.</p><p>Code 1950, § 33-230; 1970, c. 322, § 33.1-270; 1986, Sp. Sess., c. 13; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

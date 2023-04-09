@@ -1,0 +1,3 @@
+# § 54.1-3006 Advisory committees.
+
+<p>The Board may appoint advisory committees consisting of three persons or more who are knowledgeable in the area of practice or education under consideration. Members of advisory committees shall not receive compensation, but shall receive reimbursement for travel and other actual and necessary expenses incurred in the performance of their duties.</p><p>Code 1950, §§ 54-339, 54-343; 1970, c. 116; 1979, c. 5, § 54-367.11; 1982, c. 598; 1984, c. 734; 1988, c. 765.</p>

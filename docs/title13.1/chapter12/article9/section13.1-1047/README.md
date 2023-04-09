@@ -1,0 +1,3 @@
+# § 13.1-1047 Judicial dissolution.
+
+<p>A. On application by or for a member, the circuit court of the locality in which the registered office of the limited liability company is located may decree dissolution of a limited liability company if it is not reasonably practicable to carry on the business in conformity with the articles of organization and any operating agreement.</p><p>B. When the winding up of the affairs of the limited liability company has been completed, the court shall so advise the Commission, which shall enter an order of cancellation of the limited liability company's existence.</p><p>1991, c. 168; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0108'>108</a>.</p>

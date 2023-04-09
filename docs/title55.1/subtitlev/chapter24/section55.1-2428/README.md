@@ -1,0 +1,3 @@
+# § 55.1-2428 State Treasurer may examine records of any escheator, commissioner of the revenue, or treasurer.
+
+<p>The State Treasurer may at reasonable times and upon reasonable notice examine the records of any escheator, commissioner of the revenue, treasurer, or other person charged with his duties.</p><p>1982, c. 486, § 55-190.1; 1990, c. 938; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

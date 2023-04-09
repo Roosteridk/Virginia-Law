@@ -1,0 +1,3 @@
+# § 6.2-926 Appointment of FDIC as receiver.
+
+<p>In any case where the Commission has closed and taken possession of a bank, the deposits in which are insured by the FDIC, the Commission may apply to the Circuit Court of the City of Richmond for the appointment of the FDIC as receiver. The court, if it finds that the FDIC is willing to accept the appointment, shall appoint the FDIC as receiver. Upon acceptance of the court's appointment of the FDIC as receiver, the FDIC shall not be required to post bond.</p><p>1983, c. 507, § 6.1-110.2; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0257'>257</a>.</p>

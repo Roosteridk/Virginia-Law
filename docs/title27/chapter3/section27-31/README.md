@@ -1,0 +1,3 @@
+# § 27-31 Investigation of fires and explosions.
+
+<p>Such fire marshal shall make an investigation into the origin and cause of every fire and explosion occurring within the limits for which he was appointed, and for any such service he shall receive such compensation as the governing body may allow.</p><p>Code 1919, § 3138; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0436'>436</a>.</p>

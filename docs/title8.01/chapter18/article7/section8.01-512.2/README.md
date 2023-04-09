@@ -1,0 +1,3 @@
+# § 8.01-512.2 Fee for garnishee-employers.
+
+<p>Garnishee-employers may charge and collect a fee of up to ten dollars from a judgment-debtor employee on account of such employers' expense in processing each garnishment summons served on such employers on account of the judgment-debtor employee.</p><p>1980, c. 537; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0664'>664</a>.</p>

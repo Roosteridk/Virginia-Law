@@ -1,0 +1,3 @@
+# § 59.1-523 Enforcement; civil penalties; limitation.
+
+<p>A. Enforcement of the provisions of this chapter may be brought only as follows:</p><p>1. Any law-enforcement officer may issue a summons for a violation of this chapter; and</p><p>2. The attorney for the county, city or town in which the alleged violation occurred may bring an action to recover the civil penalty authorized by subsection B.</p><p>B. Except for the failure to report an injury, any person who violates the provisions of this chapter may be subject to a civil penalty in an amount not to exceed $500. Such penalty shall be paid into the local treasury.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0788'>788</a>.</p>

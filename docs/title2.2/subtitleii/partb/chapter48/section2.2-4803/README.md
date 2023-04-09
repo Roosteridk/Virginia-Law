@@ -1,0 +1,3 @@
+# § 2.2-4803 Legal counsel.
+
+<p>The Office of the Attorney General shall be the primary agency responsible for the provision of all legal services and advice related to the collection of accounts receivable, pursuant to § <a href='http://law.lis.virginia.gov/vacode/2.2-507/'>2.2-507</a>.</p><p>The Attorney General shall adopt necessary policies and procedures pertaining to all accounts receivable legal matters and the litigation of past-due accounts receivable that shall be published together with the policies and procedures adopted by the Department of Accounts.</p><p>1988, c. 544, § 2.1-729; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

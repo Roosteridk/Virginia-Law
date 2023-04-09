@@ -1,0 +1,3 @@
+# § 15.2-5431.1 Title of chapter; construction.
+
+<p>This chapter shall be known and may be cited as the "Virginia Wireless Service Authorities Act." This chapter shall constitute full and complete authority for the doing of the acts herein authorized, and shall be liberally construed to effect the purposes of the chapter.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0643'>643</a>.</p>

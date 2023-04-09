@@ -1,0 +1,3 @@
+# § 23.1-2618 Centers; function.
+
+<p>The Centers shall conduct basic and applied research in the fields that may bear directly on the interests of commercial growers of vegetable and ornamental crops in the Commonwealth. The Centers shall coordinate their research with related work of the Station to avoid unnecessary duplication of effort. The Centers shall disseminate the results of their research conducted pursuant to this section.</p><p>1985, c. 505, § 23-155.02; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

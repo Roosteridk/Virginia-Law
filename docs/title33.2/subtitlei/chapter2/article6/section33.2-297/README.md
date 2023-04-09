@@ -1,0 +1,3 @@
+# § 33.2-297 Moneys of Authority.
+
+<p>All moneys of the Authority, from whatever source derived, shall be paid to the treasurer of the Authority. Such moneys shall be deposited in the first instance by the treasurer in one or more banks or trust companies, in one or more special accounts. All banks and trust companies are authorized to give such security for such deposits, if required by the Authority. The moneys in such accounts shall be paid out on the warrant or other order of such person or persons as the Authority may authorize to execute such warrants or orders.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1230'>1230</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1275'>1275</a>.</p>

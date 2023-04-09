@@ -1,0 +1,3 @@
+# § 19.2-386.7 Sale of property liable to deterioration.
+
+<p>If the property seized is perishable or liable to deterioration, decay, or injury by being detained in custody pending the proceedings, the circuit court for the county or city in which the information is filed or in which the property is located, may order the same to be sold upon such notice as the court, in its discretion, may deem proper and hold the proceeds of sale pending the final disposition of such proceedings.</p><p>1989, c. 690.</p>

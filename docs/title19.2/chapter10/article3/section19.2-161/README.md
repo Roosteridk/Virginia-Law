@@ -1,0 +1,3 @@
+# § 19.2-161 Penalty for false swearing with regard to statement of indigence.
+
+<p>Any person charged with a felony who shall falsely swear or who shall execute the statement provided for in § <a href='http://law.lis.virginia.gov/vacode/19.2-159/'>19.2-159</a> knowing such statement to be false, shall be guilty of perjury, punishable as a Class 5 felony.</p><p>Any person charged with a misdemeanor punishable by confinement in jail who shall falsely swear or who shall execute the statement provided for in § <a href='http://law.lis.virginia.gov/vacode/19.2-159/'>19.2-159</a> knowing such statement to be false shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, §§ 19.1-241.6, 19.1-241.12; 1964, c. 657; 1973, c. 316; 1975, c. 495.</p>

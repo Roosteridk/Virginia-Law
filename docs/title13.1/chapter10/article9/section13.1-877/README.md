@@ -1,0 +1,3 @@
+# § 13.1-877 Mandatory indemnification.
+
+<p>Unless limited by its articles of incorporation, a corporation shall indemnify a director who entirely prevails in the defense of any proceeding to which he was a party because he is or was a director of the corporation against reasonable expenses incurred by him in connection with the proceeding.</p><p>Code 1950, § 13.1-205.1; 1968, c. 689; 1975, c. 500; 1981, c. 57; 1985, c. 522.</p>

@@ -1,0 +1,3 @@
+# § 47.1-3 Power of appointment.
+
+<p>The Governor may appoint in and for the Commonwealth as many notaries as to him shall seem proper. Any person who acts as a notary in the Commonwealth shall register with and be commissioned by the Secretary of the Commonwealth and otherwise be in compliance with the provisions of this title.</p><p>Code 1950, § 47-2; 1962, p. 287; 1972, c. 824; 1976, c. 559; 1979, c. 14; 1980, c. 580; 2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0269'>269</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0590'>590</a>.</p>

@@ -1,0 +1,3 @@
+# § 64.2-1220 Receipt for vouchers filed in settlement; effect thereof.
+
+<p>Any commissioner of accounts having before him the accounts of a fiduciary for settlement shall, on request, execute and deliver to the fiduciary a receipt for all vouchers filed with the commissioner of accounts. The receipt, if such vouchers are subsequently lost or destroyed, shall be evidence of the delivery to the commissioner of accounts of the vouchers mentioned in the receipt in any suit or proceeding against the fiduciary.</p><p>Code 1919, § 5415; Code 1950, § 26-26; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

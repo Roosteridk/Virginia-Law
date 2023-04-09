@@ -1,0 +1,3 @@
+# § 8.01-581.03 Appointment of arbitrators by court; powers of arbitrators.
+
+<p>If the arbitration agreement provides a method of appointment of arbitrators, this method shall be followed. In the absence thereof, or if the agreed method fails or for any reason cannot be followed, or when an arbitrator appointed fails or is unable to act and his successor has not been duly appointed, the court on application of a party shall appoint one or more arbitrators. An arbitrator so appointed has all the powers of one specifically named in the agreement.</p><p>The powers of the arbitrators may be exercised by a majority, unless otherwise provided by the agreement or by this article.</p><p>1986, c. 614.</p>

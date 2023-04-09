@@ -1,0 +1,3 @@
+# § 3.2-4773 Identification of finished bales of cotton.
+
+<p>Every cotton gin shall: (i) determine the weight of each bale of finished cotton immediately following the making of the bale; (ii) number sequentially all finished cotton bales; and (iii) affix to each bale a sequentially numbered tag for the purpose of identifying the individual bale of finished cotton. The tag shall also identify the origin module. The burden of proof shall be upon the cotton gin to prove the accuracy of its accounting.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0584'>584</a>, § 3.1-722.41; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

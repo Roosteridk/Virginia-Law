@@ -1,0 +1,3 @@
+# § 18.2-372 Obscene defined.
+
+<p>The word "obscene" where it appears in this article shall mean that which, considered as a whole, has as its dominant theme or purpose an appeal to the prurient interest in sex, that is, a shameful or morbid interest in nudity, sexual conduct, sexual excitement, excretory functions or products thereof or sadomasochistic abuse, and which goes substantially beyond customary limits of candor in description or representation of such matters and which, taken as a whole, does not have serious literary, artistic, political or scientific value.</p><p>Code 1950, § 18.1-227; 1960, c. 233; 1975, cc. 14, 15.</p>

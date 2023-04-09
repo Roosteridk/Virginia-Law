@@ -1,0 +1,3 @@
+# § 38.2-123 Title.
+
+<p>"Title insurance" means insurance against loss by reason of liens and encumbrances upon property, defects in the title to property, and other matters affecting the title to property or the right to the use and enjoyment of property. "Title insurance" includes insurance of the condition of the title to property and the status of any lien on property.</p><p>Code 1950, § 38-233; 1952, c. 317, § 38.1-20; 1986, c. 562.</p>

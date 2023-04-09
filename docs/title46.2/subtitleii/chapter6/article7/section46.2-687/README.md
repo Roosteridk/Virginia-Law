@@ -1,0 +1,3 @@
+# § 46.2-687 Failure to pay certain fees; penalty.
+
+<p>Any person who operates or permits the operation over any highway in the Commonwealth of any motor vehicle, trailer, or semitrailer for the transportation of passengers without first having paid to the Commissioner the fee prescribed by § <a href='http://law.lis.virginia.gov/vacode/46.2-694/'>46.2-694</a> shall be guilty of a Class 2 misdemeanor.</p><p>Code 1950, § 46-161; 1958, c. 541, § 46.1-152; 1989, c. 727; 1990, c. 418.</p>

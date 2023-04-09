@@ -1,0 +1,3 @@
+# § 3.2-4766 Additional information to be reported by cotton gin each license year.
+
+<p>Prior to beginning ginning for the current license year, the cotton gin will provide to the Commissioner the last bale tag number used in the previous year and first bale tag number to be used in the current year.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0584'>584</a>, § 3.1-722.33; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,0 +1,3 @@
+# § 13.1-1034 Distribution in kind.
+
+<p>Except as provided in writing in the articles of organization or an operating agreement, a member, regardless of the nature of his or its contribution, has no right to demand and receive any distribution from a limited liability company in any form other than cash. Except as provided in writing in the articles of organization or an operating agreement, a member may not be compelled to accept a distribution of any asset in kind from a limited liability company to the extent that the percentage of the asset distributed to him or it exceeds a percentage of that asset which his or its membership interest constitutes of all membership interests in the limited liability company.</p><p>1991, c. 168.</p>

@@ -1,0 +1,3 @@
+# § 38.2-4932 Penalties.
+
+<p>A. Any person who willfully and knowingly violates any provision of this chapter, or any rule, regulation, or order issued under this chapter, shall be subject to payment of a fine as provided in § <a href='http://law.lis.virginia.gov/vacode/38.2-218/'>38.2-218</a>.</p><p>B. Nothing in this chapter limits the power of the Commonwealth to punish any person for any conduct that constitutes a crime under any other statute.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0208'>208</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0303'>303</a>.</p>

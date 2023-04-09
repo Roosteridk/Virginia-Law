@@ -1,0 +1,3 @@
+# § 3.2-4401 Powers and duties of the Board.
+
+<p>The Board may adopt regulations to:</p><p>1. Suppress bee diseases by regulating the movement of bees and controlling or destroying disease reservoirs;</p><p>2. Require apiary identification;</p><p>3. Adopt colony strength standards for pollination services;</p><p>4. Promote the sale and distribution of bees and their products; and</p><p>5. Effectively administer and enforce this chapter.</p><p>1972, c. 499, § 3.1-610.9; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,0 +1,3 @@
+# § 55.1-2821 Obligation to provide division fences.
+
+<p>Adjoining landowners shall build and maintain, at their joint and equal expense, division fences between their lands, unless one of them chooses to let his land lie open or unless they agree otherwise.</p><p>Code 1950, § 8-887; 1970, c. 713; 1977, c. 624, § 55-317; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0873'>873</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

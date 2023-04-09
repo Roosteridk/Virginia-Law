@@ -1,0 +1,3 @@
+# § 29.1-701.1 Authority of Board to set fees.
+
+<p>Notwithstanding any other provision of this title, the Board may by regulation adopt revisions in the fees, as it deems appropriate, charged for motorboat registration certificates and certificates of title under this chapter. Such license fees may be increased or decreased beginning July 1, 2004; however, no fee shall be increased or decreased more frequently than once every three years thereafter and no fee shall be increased or decreased more than $5 during such period.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1027'>1027</a>.</p>

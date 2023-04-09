@@ -1,0 +1,3 @@
+# § 10.1-518.1 Secretary to send copies of certificates to State Board of Elections.
+
+<p>Whenever the Secretary issues a certificate creating, dissolving, or changing the name or composition of a district, the Secretary shall promptly send a certified copy of such certificate to the State Board of Elections.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0053'>53</a>.</p>

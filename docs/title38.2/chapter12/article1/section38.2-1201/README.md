@@ -1,0 +1,3 @@
+# § 38.2-1201 Definitions.
+
+<p>A. As used in this title:</p><p>"Reciprocal" means the aggregation of subscribers under a common name.</p><p>"Reciprocal insurance" means insurance resulting from the mutual exchange of insurance contracts among persons in an unincorporated association under a common name through an attorney-in-fact having authority to obligate each person both as insured and insurer.</p><p>B. As used in this chapter:</p><p>"Attorney" means the person designated and authorized by subscribers as the attorney-in-fact having authority to obligate them on reciprocal insurance contracts.</p><p>"Subscriber" means a person obligated under a reciprocal insurance agreement.</p><p>1952, c. 317, § 38.1-689; 1986, c. 562.</p>

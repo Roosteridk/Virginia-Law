@@ -1,0 +1,3 @@
+# § 58.1-1021.04:5 Tax Commissioner to establish guidelines and rules.
+
+<p>The Tax Commissioner shall establish guidelines and rules, including record keeping requirements, for implementation of the tax on tobacco products under Article 2.1 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-1021.01/'>58.1-1021.01</a> et seq.) of Chapter 10 of Title 58.1 of the Code of Virginia. The establishment of the guidelines and rules by the Tax Commissioner shall be exempt from the provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0071'>71</a>.</p>

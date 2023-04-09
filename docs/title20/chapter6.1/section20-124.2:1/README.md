@@ -1,0 +1,3 @@
+# § 20-124.2:1 In camera interviews of child; record.
+
+<p>In any proceeding in a court of record to determine custody or visitation, when the court conducts an in camera interview of a minor child whose custody or visitation is at issue without the presence of the parties or their counsel, a record of the interview shall be prepared, unless the parties otherwise agree. The record of the interview shall be made a part of the record in the case unless a decision is made by the court that doing so would endanger the safety of the child. The cost of creating the record shall be taxed as costs to the parties to the proceeding.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP1024'>1024</a>.</p>

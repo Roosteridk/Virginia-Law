@@ -1,0 +1,3 @@
+# § 64.2-614 Origination of registration in beneficiary form.
+
+<p>A security, whether evidenced by certificate or account, is registered in beneficiary form when the registration includes a designation of a beneficiary to take the ownership at the death of the owner or the deaths of all multiple owners.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0422'>422</a>, § 64.1-206.3; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

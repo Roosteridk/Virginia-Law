@@ -1,0 +1,3 @@
+# § 46.2-771 (For contingent expiration, see Acts 2020, cc. 1230 and 1275) Purpose.
+
+<p>The purpose of this chapter is to ensure more equitable contributions to the Commonwealth Transportation Fund from alternative fuel vehicles, electric motor vehicles, and fuel-efficient vehicles using highways in the Commonwealth.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1230'>1230</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1275'>1275</a>.</p>

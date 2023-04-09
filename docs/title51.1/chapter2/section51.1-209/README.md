@@ -1,0 +1,3 @@
+# § 51.1-209 Disability as the result of felonious misconduct of another.
+
+<p>Any member in service who is totally and permanently disabled while on active duty as the result of the felonious misconduct of another may retire for disability as provided in subsection B of § <a href='http://law.lis.virginia.gov/vacode/51.1-156/'>51.1-156</a> and shall be entitled to maintenance and services at or under the supervision of the Wilson Workforce and Rehabilitation Center without being liable to pay for the same.</p><p>1990, c. 832; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0542'>542</a>.</p>

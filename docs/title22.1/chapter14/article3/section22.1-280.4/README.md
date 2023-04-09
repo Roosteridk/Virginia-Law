@@ -1,0 +1,3 @@
+# § 22.1-280.4 School board action regarding destruction of property.
+
+<p>A school board may take action against a pupil or the pupil's parent for any actual loss, breakage, or destruction of or failure to return property, owned by or under the control of the school board, caused or committed by such pupil in pursuit of his studies. Such action may include seeking reimbursement from a pupil or the pupil's parent for any such loss, breakage, or destruction of or failure to return school property.</p><p>2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0688'>688</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0820'>820</a>.</p>

@@ -1,0 +1,3 @@
+# § 33.2-1233 Penalty for violation of § 33.2-1232.
+
+<p>Any person who violates any of the provisions of § <a href='http://law.lis.virginia.gov/vacode/33.2-1232/'>33.2-1232</a> shall be subject to a fine not to exceed $10 for each offense, and it shall be deemed a separate offense for the same person to erect, or permit to be erected, a similar sign at each of two or more places.</p><p>Code 1950, § 33-325; 1970, c. 322, § 33.1-380; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,0 +1,3 @@
+# § 16.1-94.1 Limitations on enforcement of district court judgments.
+
+<p>For judgments entered in a general district court on or after January 1, 1985, no execution shall be issued or action brought on such judgment, including a judgment in favor of the Commonwealth, after ten years from the date of such judgment except as provided in § <a href='http://law.lis.virginia.gov/vacode/16.1-69.55/'>16.1-69.55</a> B 4.</p><p>1983, c. 499.</p>

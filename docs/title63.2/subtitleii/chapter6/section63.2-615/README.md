@@ -1,0 +1,3 @@
+# § 63.2-615 Payment of tuition and other expenses of public assistance recipients enrolled in skill development training programs.
+
+<p>The Board may authorize the payment of tuition fees, transportation costs or other necessary or incidental expenses for obtaining skill development training or retraining for qualified public assistance recipients. The Board may, by regulation, prescribe necessary requisites and conditions under which such payments may be made. Such assistance shall be in addition to any other public assistance for which such recipient may be eligible and shall not affect his entitlement thereto.</p><p>Code 1950, § 63-110.1; 1968, c. 586, § 63.1-96.1; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

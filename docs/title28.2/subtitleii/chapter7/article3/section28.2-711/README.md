@@ -1,0 +1,3 @@
+# § 28.2-711 Crab pots; unlawful activities; penalty.
+
+<p>It is unlawful to knowingly place, set, or leave any crab pot in any of the tidal tributaries of the Commonwealth between January 1 and January 31. The Commission may change the time period during which such activities are prohibited. Proof that any crab pot was located in any such tributary during the prohibition period constitutes a rebuttable presumption that such pot was knowingly placed, set, or left in that location.</p><p>A violation of this section is a Class 4 misdemeanor.</p><p>1988, c. 315, § 28.1-173.1:1; 1989, c. 431; 1992, cc. 202, 836.</p>

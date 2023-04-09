@@ -1,0 +1,3 @@
+# § 63.2-208 Standards for personnel.
+
+<p>The Commissioner shall enforce the minimum education, professional and training requirements and performance standards as determined by the Board for personnel employed in the administration of this title and remove each employee who does not meet such standards.</p><p>Code 1950, § 63-46; 1968, cc. 578, 670, § 63.1-37; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

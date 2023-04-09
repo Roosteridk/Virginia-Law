@@ -1,0 +1,3 @@
+# § 4.1-319 Disobeying subpoena; hindering conduct of hearing; penalty.
+
+<p>No person shall (i) fail or refuse to obey any subpoena issued by the Board, any Board member, or agent authorized by the Board to issue such subpoena or (ii) hinder the orderly conduct and decorum of any hearing held and conducted by the Board, any Board member, or agent authorized by the Board to hold and conduct such hearing.</p><p>Any person convicted of a violation of this section shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 4-70; 1993, c. 866.</p>

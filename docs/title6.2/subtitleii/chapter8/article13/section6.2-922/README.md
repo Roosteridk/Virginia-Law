@@ -1,0 +1,3 @@
+# § 6.2-922 When publication once in two newspapers sufficient.
+
+<p>If there are two or more newspapers having general circulation in the locality where a suit or petition described in § <a href='http://law.lis.virginia.gov/vacode/6.2-920/'>6.2-920</a> is pending, the court, in its discretion, in lieu of the publication provided for therein or in § <a href='http://law.lis.virginia.gov/vacode/6.2-921/'>6.2-921</a>, may direct that the list of creditors and the notice, be published once in at least two of the newspapers having general circulation in the locality.</p><p>Code 1950, § 6-60; 1966, c. 584, § 6.1-108; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

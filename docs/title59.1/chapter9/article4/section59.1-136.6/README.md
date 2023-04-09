@@ -1,0 +1,3 @@
+# § 59.1-136.6 Penalties.
+
+<p>A. Any scrap metal purchaser who negligently violates any provisions of this article may be assessed a civil penalty not to exceed $7,500 for each violation. Any attorney for the county, city, or town in which an alleged violation of this article occurred may bring a civil action to recover such a civil penalty. The civil penalty shall be paid into the local treasury.</p><p>B. Any scrap metal purchaser who knowingly violates any provisions of this article is guilty of a Class 1 misdemeanor.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0917'>917</a>; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0414'>414</a>.</p>

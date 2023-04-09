@@ -1,0 +1,3 @@
+# § 38.2-4815 Effect on other provisions of Title 38.2.
+
+<p>Except as is otherwise provided herein and in Chapter 18 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-1800/'>38.2-1800</a> et seq.) of this title, the provisions relating to the licensing and control of surplus lines brokers shall have no effect on or in any way alter any of the other provisions of this title.</p><p>Code 1950, § 38.1-314.16; 1960, c. 503; 1979, c. 513, § 38.1-327.60; 1986, c. 562; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0706'>706</a>.</p>

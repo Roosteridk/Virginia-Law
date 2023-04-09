@@ -1,0 +1,3 @@
+# § 15.2-4112 Charter for resulting town.
+
+<p>A. If a proposed charter for the resulting town has been approved by the General Assembly for adoption pending order of the special court pursuant to this chapter, such proposed charter shall be the charter of the town upon approval of the transition from city to town status.</p><p>B. If no such proposed charter for the resulting town has been approved by the General Assembly, the court shall enter an order conforming the city charter to a town charter, which shall be the charter of the town until a new charter is granted by the General Assembly.</p><p>1988, c. 881, § 15.1-965.22; 1997, c. 587.</p>

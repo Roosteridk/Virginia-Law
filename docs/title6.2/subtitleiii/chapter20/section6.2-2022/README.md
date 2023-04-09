@@ -1,0 +1,3 @@
+# § 6.2-2022 Criminal penalty.
+
+<p>Any person violating subsection A of § <a href='http://law.lis.virginia.gov/vacode/6.2-2001/'>6.2-2001</a> is guilty of a Class 1 misdemeanor. For purposes of this section, each violation shall constitute a separate offense.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0790'>790</a>, § 6.1-363.3; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

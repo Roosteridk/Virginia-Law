@@ -1,0 +1,3 @@
+# § 38.2-1420 Transportation equipment trust certificates.
+
+<p>A domestic insurer may invest in adequately secured equipment trust certificates or other adequately secured instruments evidencing (i) an interest in transportation equipment wholly or partly within the United States and (ii) a right to receive determined portions of rental, purchase or other fixed obligatory payments for the use or purchase of the transportation equipment.</p><p>1983, c. 457, § 38.1-217.23; 1986, c. 562.</p>

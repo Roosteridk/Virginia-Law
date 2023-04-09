@@ -1,0 +1,3 @@
+# § 18.2-32.3 Human infant; independent and separate existence.
+
+<p>For the purposes of this article, the fact that the umbilical cord has not been cut or that the placenta remains attached shall not be considered in determining whether a human infant has achieved an independent and separate existence.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0810'>810</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0851'>851</a>.</p>

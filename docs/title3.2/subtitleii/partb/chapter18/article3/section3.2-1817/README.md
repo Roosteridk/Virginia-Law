@@ -1,0 +1,3 @@
+# § 3.2-1817 Exempted sales.
+
+<p>Nothing in this article shall prohibit the sale of seed potatoes sold by the grower to a planter who has personal knowledge of the conditions under which the seed potatoes were grown.</p><p>Code 1950, § 3-228.10; 1950, p. 1030; 1958, c. 94; 1966, c. 702, § 3.1-294; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>, § 3.2-4106; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

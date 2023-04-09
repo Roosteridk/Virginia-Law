@@ -1,0 +1,3 @@
+# § 55.1-1979 Annual report by declarant.
+
+<p>The declarant shall file a report in the form prescribed by the regulations of the Common Interest Community Board within 30 days of each anniversary date of the order registering the condominium. The report shall reflect any material changes in information contained in the original application for registration.</p><p>1974, c. 416, § 55-79.93; 1975, c. 415; 1988, c. 15; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0481'>481</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0797'>797</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

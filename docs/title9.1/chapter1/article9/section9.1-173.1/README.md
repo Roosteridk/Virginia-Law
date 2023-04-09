@@ -1,0 +1,3 @@
+# § 9.1-173.1 Procedures for treatment of veterans and active service members.
+
+<p>Localities may establish special treatment procedures for veterans and active military service members pursuant to § <a href='http://law.lis.virginia.gov/vacode/2.2-2001.1/'>2.2-2001.1</a>.</p><p>2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0772'>772</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0847'>847</a>.</p>

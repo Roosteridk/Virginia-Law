@@ -1,0 +1,3 @@
+# § 58.1-3936 Omission of taxes from delinquent list.
+
+<p>If any county or city treasurer shall knowingly omit from any delinquent list required by this title to be prepared by him any taxes which are in fact delinquent and which should be included in such delinquent list, such county or city treasurer shall be guilty of a Class 3 misdemeanor; and such county or city treasurer shall moreover be deemed guilty of malfeasance in office.</p><p>Code 1950, § 58-1000; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 64.2-1218 When fiduciaries personally liable for costs.
+
+<p>The costs of all proceedings against a fiduciary who fails without good cause to make the returns and exhibits required shall be paid by him personally, and he shall receive no allowance for the costs in the settlement of his accounts.</p><p>Code 1919, § 5413; Code 1950, § 26-23; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

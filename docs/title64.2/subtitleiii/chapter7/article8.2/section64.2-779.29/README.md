@@ -1,0 +1,3 @@
+# § 64.2-779.29 Powers of trust director.
+
+<p>A. Subject to § <a href='/vacode/64.2-779.30/'>64.2-779.30</a>, the terms of a trust may grant a power of direction to a trust director.</p><p>B. Unless the terms of a trust provide otherwise:</p><p>1. A trust director may exercise any further power appropriate to the exercise or nonexercise of a power of direction granted to the trust director under subsection A; and</p><p>2. Trust directors with joint powers must act by majority decision.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0768'>768</a>.</p>

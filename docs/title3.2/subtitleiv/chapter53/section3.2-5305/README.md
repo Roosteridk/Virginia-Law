@@ -1,0 +1,3 @@
+# § 3.2-5305 Certain producers exempt from law.
+
+<p>Producers selling a total of 150 dozen eggs or less per week produced by their own hens, or eggs purchased from other producers not to exceed 60 dozen per week are exempt from this law provided all eggs are of edible quality and of the quality as represented.</p><p>Code 1950, § 3-600; 1956, c. 284; 1966, c. 702, § 3.1-765; 1968, c. 142; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,0 +1,3 @@
+# § 46.2-1411 Notification of implications of lien.
+
+<p>At the time when a vehicle owner registers as a shared vehicle owner on a peer-to-peer vehicle sharing platform and prior to when the shared vehicle owner makes a shared vehicle available for vehicle sharing on the peer-to-peer vehicle sharing platform, the peer-to-peer vehicle sharing platform shall notify the shared vehicle owner that, if the shared vehicle has a lien against it, the use of the shared vehicle through a peer-to-peer vehicle sharing platform, including use without physical damage coverage, may violate the terms of the contract with the lienholder.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1266'>1266</a>.</p>

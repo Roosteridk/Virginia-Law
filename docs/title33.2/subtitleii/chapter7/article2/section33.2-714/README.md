@@ -1,0 +1,3 @@
+# § 33.2-714 Enhancement in value of residue.
+
+<p>The enhancement, if any, in value of the residue by reason of the establishment or alteration of such highway or bridge shall be offset against the damage to the residue, but there shall be no recovery over against such landowner for any excess nor shall enhancement be offset against the value of land taken.</p><p>Code 1950, § 33-150; 1964, c. 565; 1970, c. 322, § 33.1-237; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

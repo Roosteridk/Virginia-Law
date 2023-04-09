@@ -1,0 +1,3 @@
+# § 38.2-6605 (Contingent effective date — see Editor's note) Confidentiality of data.
+
+<p>Data and information that an eligible carrier considers confidential proprietary information that is provided to the Commission pursuant to the provisions of this chapter shall be excluded from, and the Commission shall not be subject to, subpoena or public inspection with respect to such information.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0480'>480</a>.</p>

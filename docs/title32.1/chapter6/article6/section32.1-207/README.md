@@ -1,0 +1,3 @@
+# § 32.1-207 Inspection; issuance of permit; permits nontransferable.
+
+<p>If, after inspection by the Commissioner or his designee, the Commissioner finds that the camp or the proposed operation of the camp for which an application is submitted pursuant to § <a href='http://law.lis.virginia.gov/vacode/32.1-206/'>32.1-206</a> conforms or will conform to the provisions of this article and any applicable regulations, the Commissioner shall issue a permit for the operation of the camp. A permit shall not be transferable and shall expire on December 31 of each year.</p><p>Code 1950, § 32-416; 1962, c. 251; 1979, c. 711.</p>

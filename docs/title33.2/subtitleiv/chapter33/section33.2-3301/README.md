@@ -1,0 +1,3 @@
+# § 33.2-3301 Counties and cities embraced by the Authority.
+
+<p>Upon adoption of an approving ordinance by each of the respective governing bodies wishing to join the Authority, the Authority shall embrace the County of James City, such portions of York County as its governing body desires to have covered, and the City of Williamsburg.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0179'>179</a>, § 15.2-6802; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0256'>256</a>.</p>

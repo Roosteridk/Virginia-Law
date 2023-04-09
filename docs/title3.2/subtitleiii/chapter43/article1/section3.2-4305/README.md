@@ -1,0 +1,3 @@
+# § 3.2-4305 Unclassified products.
+
+<p>This article shall not prevent the use of any trademark or brand not established and adopted, or not approved by the Commissioner, on or in connection with any agricultural product, if, as a part of such trademark or brand, or immediately adjacent thereto, there is printed in letters not less than one-half inch in height the word "unclassified."</p><p>Code 1950, § 3-265; 1966, c. 702, § 3.1-344; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0317'>317</a>.</p>

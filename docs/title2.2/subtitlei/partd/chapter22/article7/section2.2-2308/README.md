@@ -1,0 +1,3 @@
+# § 2.2-2308 Expenses of Authority; liability of Commonwealth or political subdivision prohibited.
+
+<p>All expenses incurred by the Authority in carrying out the provisions of this article shall be payable solely from funds provided under this article, and nothing in this article shall be construed to authorize the Authority to incur indebtedness or liability on behalf of or payable by the Commonwealth or any of its other political subdivisions.</p><p>1984, c. 749, § 9-232; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,0 +1,3 @@
+# § 53.1-197.1 Limitation upon applicability of this article.
+
+<p>The provisions of this article shall not apply to any sentence imposed upon a conviction of a felony offense committed on or after January 1, 1995.</p><p>1994, 2nd Sp. Sess., cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?943+ful+CHAP0001'>1</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?943+ful+CHAP0002'>2</a>.</p>

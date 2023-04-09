@@ -1,0 +1,3 @@
+# § 18.2-222 Misrepresentation as to source of merchandise; penalty.
+
+<p>No person, firm, corporation or association selling or offering for sale any article or merchandise, shall in any manner represent, contrary to fact, that the article was made for, or acquired directly or indirectly from, the United States government or its military or naval forces or any agency of the United States government, or that it has been disposed of by the United States government.</p><p>Any person, firm, corporation or association violating any provision of this section shall be guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 59.1-53; 1968, c. 439; 1975, cc. 14, 15; 1983, c. 290.</p>

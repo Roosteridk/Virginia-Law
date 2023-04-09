@@ -1,0 +1,3 @@
+# § 59.1-570 Liability imposed by other laws not decreased.
+
+<p>Except as provided in § <a href='http://law.lis.virginia.gov/vacode/59.1-569/'>59.1-569</a>, nothing contained in this chapter shall be construed as making lawful any act or omission that is now unlawful, or as decreasing the liability, civil or criminal, of any person, imposed by existing laws.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0318'>318</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0703'>703</a>.</p>

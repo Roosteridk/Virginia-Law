@@ -1,0 +1,3 @@
+# § 58.1-2671 Setting for hearing and notice to adverse parties.
+
+<p>Upon the filing of any such application, the Commission shall fix a time and place at which it will hear such testimony with reference thereto as any of the parties may desire to introduce and the applicant shall cause a copy of the application and notice of the time and place of the hearing to be served upon the company or corporation or the Commonwealth and each county, city and town whose revenue is, or may be, affected thereby, at least ten days prior to the day set for the hearing.</p><p>Code 1950, § 58-673; 1984, c. 675.</p>

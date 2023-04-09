@@ -1,0 +1,3 @@
+# § 25.1-216 Amendments to pleadings.
+
+<p>A. No amendments shall be made to the petition or other pleading after it is filed, except by leave of court.</p><p>B. Leave to amend for the addition of new parties and for other purposes shall be liberally granted in furtherance of the ends of justice.</p><p>C. In granting leave to amend, the court may make such provision for notice and opportunity to make response as the court deems reasonable and proper.</p><p>1962, c. 426, § 25-46.14; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

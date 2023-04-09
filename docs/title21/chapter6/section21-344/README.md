@@ -1,0 +1,3 @@
+# § 21-344 Payment of total costs and expenses.
+
+<p>The total amount of the costs and expenses, or any part thereof may be paid by any person in lieu of assessments against his land with the consent of the board of viewers. If all landowners elect to pay their total assessed costs, upon the request of the board of viewers, the sale of bonds shall not be made.</p><p>Code 1919, § 1756; 1926, p. 614; 1954, c. 642.</p>

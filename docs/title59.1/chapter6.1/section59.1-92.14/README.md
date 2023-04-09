@@ -1,0 +1,3 @@
+# § 59.1-92.14 Service on out-of-state registrants.
+
+<p>In any action brought against a nonresident registrant, service may be effected upon the clerk of the Commission as agent for service of the registrant in accordance with the procedures established in § <a href='http://law.lis.virginia.gov/vacode/12.1-19.1/'>12.1-19.1</a>.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0819'>819</a>.</p>

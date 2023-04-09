@@ -1,0 +1,3 @@
+# § 21-115 Answer and defense.
+
+<p>Any person interested may answer the petition and make defense thereto; and if upon such hearing the governing body of a county be of opinion that any property embraced within the limits of such proposed district will not be benefited by the establishment of such district, then such property shall not be embraced therein.</p><p>1940, p. 173; Michie Code 1942, § 1560n; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0014'>14</a>.</p>

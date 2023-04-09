@@ -1,0 +1,3 @@
+# § 63.2-1615 What functions and services may be funded.
+
+<p>In dispersing funds through grants to local agencies to provide service programs for the victims of domestic violence, the Department may fund both administrative functions and the delivery of direct services, including a portion of: the operational costs of offices and shelters including staff, rent, utilities, travel and supplies; twenty-four-hour crisis intervention hotlines; counseling; information and referral; self-help groups; transportation; emergency shelter; and follow-up services.</p><p>1980, c. 597, § 63.1-319; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

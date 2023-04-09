@@ -1,0 +1,3 @@
+# § 65.2-1105 Payments by fraud, mistake or improper processing of claim; recovery.
+
+<p>Any payment to the employer or carrier pursuant to this chapter which is later determined by the Commission to have been procured through fraud, mistake or the improper processing of the claim by the carrier shall be recovered from the employer or carrier and credited to the Second Injury Fund. Any subrogation recoveries or other recoveries from a third party or other source shall be shared by the employer or carrier and the Second Injury Fund on a pro rata basis after deducting all reasonable expenses in obtaining the recovery.</p><p>1975, c. 365, § 65.1-144; 1980, c. 599; 1991, c. 355.</p>

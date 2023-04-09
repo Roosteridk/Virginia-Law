@@ -1,0 +1,3 @@
+# § 15.2-2413.10 Administering nonprofit.
+
+<p>A. Any locality establishing a tourism improvement district may contract with an administering nonprofit for the purpose of carrying out such activities as may be prescribed in the tourism improvement district plan.</p><p>B. The administering nonprofit may make recommendations to the locality with respect to any matter involving or relating to the tourism improvement district.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0500'>500</a>.</p>

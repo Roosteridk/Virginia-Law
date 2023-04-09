@@ -1,0 +1,3 @@
+# § 22.1-364 The Virginia STEM Education Advisory Board; purpose.
+
+<p>The Virginia Science, Technology, Engineering, and Mathematics (STEM) Education Advisory Board (the Board) is established as an advisory board, within the meaning of § <a href='/vacode/2.2-2100/'>2.2-2100</a>, in the executive branch of state government. The purpose of the Board is to advise the Governor, Cabinet members, and the General Assembly on strategies to align STEM education efforts and report STEM education challenges, goals, and successes across the Commonwealth.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0291'>291</a>.</p>

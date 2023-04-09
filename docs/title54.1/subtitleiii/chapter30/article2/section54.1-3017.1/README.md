@@ -1,0 +1,3 @@
+# § 54.1-3017.1 Registered nurse provisional license.
+
+<p>The Board may issue a provisional license to an applicant for licensure as a registered nurse who has met the educational and examination requirements for licensure, in order to allow the applicant to obtain clinical experience, as specified by the Board in regulation. A person practicing under a provisional license shall only practice under the supervision of a licensed registered nurse, in accordance with regulations established by the Board.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0712'>712</a>.</p>

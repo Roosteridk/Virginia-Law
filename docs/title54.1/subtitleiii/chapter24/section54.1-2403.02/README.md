@@ -1,0 +1,3 @@
+# § 54.1-2403.02 Prenatal education; cord blood banking.
+
+<p>Every practitioner licensed pursuant to this subtitle who renders prenatal care, including any holder of a multistate licensure privilege to practice nursing, regardless of the site of such practice, shall, prior to the beginning of his patient's third trimester of pregnancy or, if later, at the first visit of such pregnant woman to the provider, make available to the patient information developed pursuant to &sect; <a href="http://law.lis.virginia.gov/vacode/32.1-69.4/">32.1-69.4</a> relating to the women's options with respect to umbilical cord blood banking.</p>  <p>2010, c. <a href="http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0069">69</a>.</p>

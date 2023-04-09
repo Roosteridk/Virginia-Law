@@ -1,0 +1,3 @@
+# § 24.2-947.10 Filing requirements for persons with multiple campaign committees.
+
+<p>Any person who is named as the candidate on the statement of organization for more than one campaign committee required to file campaign finance reports under this article shall have separate campaign finance reports filed for all such campaign committees by the deadline for filing campaign finance reports for any such campaign committee. Such campaign finance reports shall be complete through the period prescribed for the associated deadline.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0347'>347</a>.</p>

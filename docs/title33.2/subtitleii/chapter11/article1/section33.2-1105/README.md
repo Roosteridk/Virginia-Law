@@ -1,0 +1,3 @@
+# § 33.2-1105 Provisions of article deemed part of contract.
+
+<p>The provisions of this article shall be deemed to enter into and form a part of every contract entered into between the Board and any contractor on or after July 1, 1976, and no provision in said contracts shall be valid that is in conflict herewith.</p><p>1976, c. 230, § 33.1-389; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

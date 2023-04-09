@@ -1,0 +1,3 @@
+# § 45.2-1636  Abandonment or cessation of well or corehole operation; plugging required.
+
+<p>Upon the abandonment or cessation of the operation of any well or corehole, the gas, oil, or geophysical operator shall immediately fill and plug the well or corehole in the manner required by regulations in force at the time of abandonment or the operation's cessation.</p><p>1990, c. 92, § 45.1-361.34; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

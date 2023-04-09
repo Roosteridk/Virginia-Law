@@ -1,0 +1,3 @@
+# § 21-340 Power of court to reopen after approval.
+
+<p>Nothing in this chapter shall be construed as depriving the court of the power of reopening the proceedings in any case after the approval of the final report and before the letting of the contract in accordance with § <a href='http://law.lis.virginia.gov/vacode/21-349/'>21-349</a>, in order to make such changes in the plans as may be necessary to an economical or cheaper completion of the work, provided, such reopening is upon ten days' notice to all parties.</p><p>Code 1919, § 1756; 1926, p. 614.</p>

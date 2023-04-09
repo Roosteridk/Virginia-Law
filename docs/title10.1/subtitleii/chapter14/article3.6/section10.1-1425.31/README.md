@@ -1,0 +1,3 @@
+# § 10.1-1425.31 Retailer responsibility.
+
+<p>A person who is a retailer of computer equipment may not sell or offer to sell new computer equipment in the Commonwealth unless the equipment is labeled with the manufacturer's label and the manufacturer has a recovery plan that complies with the provisions of this article and is accessible on the manufacturer's website. A retailer who is not a manufacturer is not required to collect computer equipment for recycling or reuse under this article.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0541'>541</a>.</p>

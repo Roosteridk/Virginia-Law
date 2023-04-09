@@ -1,0 +1,3 @@
+# § 13.1-1020 Parties to actions.
+
+<p>A member of a limited liability company, solely by reason of being a member, is not a proper party to a proceeding by or against a limited liability company, except where (i) the object is to enforce a member's right against or liability to the limited liability company or (ii) as provided in Article 8 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-1042/'>13.1-1042</a> et seq.) of this chapter.</p><p>1991, c. 168; 2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0233'>233</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0639'>639</a>.</p>

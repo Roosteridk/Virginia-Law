@@ -1,0 +1,3 @@
+# § 54.1-2708 Disciplinary action discretion.
+
+<p>Except in the case of a monetary penalty, the Board may take disciplinary action notwithstanding any action pending before or consummated before any court or any criminal penalty which has been or may be imposed.</p><p>1972, c. 805, § 54-189.1; 1975, c. 479; 1978, c. 248; 1988, cc. 64; 765; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0556'>556</a>.</p>

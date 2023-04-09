@@ -1,0 +1,3 @@
+# § 19.2-152.16 False statement to law-enforcement officer, etc.; penalty.
+
+<p>Any person who knowingly and willfully makes any materially false statement or representation to a law-enforcement officer or attorney for the Commonwealth who is in the course of conducting an investigation undertaken pursuant to this chapter is guilty of a Class 1 misdemeanor.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0887'>887</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0888'>888</a>.</p>

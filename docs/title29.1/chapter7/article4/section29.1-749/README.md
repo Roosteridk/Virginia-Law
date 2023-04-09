@@ -1,0 +1,3 @@
+# § 29.1-749 Owner of personal watercraft permitting violation; penalty.
+
+<p>A. It shall be unlawful for the owner of or any person having control of a personal watercraft to authorize or knowingly permit a person under the age of sixteen to operate the personal watercraft, unless the person fourteen or fifteen years of age has successfully completed a boating safety education course as required under subdivision A 1 of § <a href='http://law.lis.virginia.gov/vacode/29.1-748/'>29.1-748</a>.</p><p>B. A violation of any provision of this section shall constitute a Class 4 misdemeanor.</p><p>1991, c. 320; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0443'>443</a>.</p>

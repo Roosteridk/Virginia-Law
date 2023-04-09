@@ -1,0 +1,3 @@
+# § 28.2-211 Hearing on proposed regulations.
+
+<p>A public hearing shall be held by the agency at the time and place designated in the notice prescribed in § <a href='http://law.lis.virginia.gov/vacode/28.2-209/'>28.2-209</a>. An opportunity shall be afforded all interested persons to be heard and to submit objections, amendments, evidence and arguments.</p><p>1962, c. 406, § 28.1-26; 1992, c. 836.</p>

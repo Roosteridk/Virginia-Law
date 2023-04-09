@@ -1,0 +1,3 @@
+# § 38.2-1018 Plan of merger to be approved by Commission.
+
+<p>Before any joint agreement for the merger of domestic insurers is submitted to the stockholders or members, it shall first be submitted to and approved by the Commission. The Commission shall not approve the agreement unless, after a hearing, it finds that the plan of merger is fair, equitable, consistent with law, and that no reasonable objection to the plan exists. If the Commission fails to approve the plan it shall state the reasons in its order.</p><p>1952, c. 317, § 38.1-81; 1956, c. 431; 1986, c. 562.</p>

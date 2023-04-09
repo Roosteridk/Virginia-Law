@@ -1,0 +1,3 @@
+# § 58.1-1732 Collection.
+
+<p>The fee imposed by this article shall be collected monthly by the Department of Taxation in the same manner as the sales and use tax imposed under Chapter 6 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-600/'>58.1-600</a> et seq.), as provided by rules and regulations promulgated by the Tax Commissioner.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0531'>531</a>.</p>

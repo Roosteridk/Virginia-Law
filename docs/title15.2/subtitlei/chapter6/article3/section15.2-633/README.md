@@ -1,0 +1,3 @@
+# § 15.2-633 Office of the county attorney.
+
+<p>The board may create the office of county attorney. The county attorney shall be appointed by the county manager, and serve at a salary fixed by the board. He shall be accountable to the county manager.</p><p>No person shall be appointed a county attorney under the provisions of this section unless at the time of his appointment he has been admitted to practice before the Supreme Court of Virginia.</p><p>1964, c. 312, § 15.1-9.1; 1973, c. 287; 1977, c. 584; 1982, c. 30; 1997, c. 587.</p>

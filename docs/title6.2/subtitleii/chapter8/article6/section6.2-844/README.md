@@ -1,0 +1,3 @@
+# § 6.2-844 Enforcement.
+
+<p>If the Commission determines that there is any violation of any law of the Commonwealth in the operation of a branch of an out-of-state state bank, or that such branch is being operated in an unsafe and unsound manner, the Commission shall have the authority to undertake such enforcement actions as it would be permitted to take if the branch were a Virginia state bank.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0301'>301</a>, § 6.1-44.10; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

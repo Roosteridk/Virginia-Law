@@ -1,0 +1,3 @@
+# § 37.2-407 Regulations for treatment of pregnant women with substance abuse.
+
+<p>The Board shall adopt regulations that ensure that providers licensed to offer substance abuse services develop policies and procedures for the timely and appropriate treatment of pregnant women with substance abuse.</p><p>1992, c. 428, § 37.1-182.1; 2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0486'>486</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0506'>506</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

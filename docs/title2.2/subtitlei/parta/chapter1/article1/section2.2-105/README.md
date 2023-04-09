@@ -1,0 +1,3 @@
+# § 2.2-105 Appointments to office; effect of refusal to confirm by the General Assembly.
+
+<p>No person appointed to any office by the Governor, whose appointment is subject to confirmation by the General Assembly, shall enter upon, or continue in, office after the General Assembly has refused to confirm his appointment. Nor shall such person be eligible for reappointment during the recess of the General Assembly to fill the vacancy caused by the refusal to confirm.</p><p>Code 1950, § 2-35; 1966, c. 677, § 2.1-39; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

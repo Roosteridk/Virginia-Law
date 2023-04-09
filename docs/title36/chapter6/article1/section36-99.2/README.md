@@ -1,0 +1,3 @@
+# § 36-99.2 Standards for replacement glass.
+
+<p>Any replacement glass installed in buildings constructed prior to the effective date of the Uniform Statewide Building Code shall meet the quality and installation standards for glass installed in new buildings as are in effect at the time of installation.</p><p>1976, c. 137.</p>

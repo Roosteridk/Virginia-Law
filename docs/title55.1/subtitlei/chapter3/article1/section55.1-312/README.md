@@ -1,0 +1,3 @@
+# § 55.1-312 Certain deeds to county real estate validated.
+
+<p>All deeds executed prior to January 1, 1920, by a county commissioner, county commissioners, or a board of supervisors that convey any part of the real estate previously acquired by such county for county purposes are hereby validated and declared to have effectually passed the title to the part so conveyed even though the conveyance thereof reduced the real estate of the county to an area less than the county was required by law to own at the time of such conveyance.</p><p>1934, p. 228; Michie Code 1942, § 5183a; Code 1950, § 55-54; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

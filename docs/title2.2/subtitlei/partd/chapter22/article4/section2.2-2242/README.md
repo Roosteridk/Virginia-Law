@@ -1,0 +1,3 @@
+# § 2.2-2242 Forms of accounts and records.
+
+<p>The accounts and records of the Authority showing the receipt and disbursement of funds from whatever source derived shall be in a form prescribed by the Auditor of Public Accounts. The Auditor of Public Accounts or his legally authorized representatives shall annually examine the accounts and books of the Authority.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0638'>638</a>, § 2.1-548.40; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0650'>650</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0591'>591</a>.</p>

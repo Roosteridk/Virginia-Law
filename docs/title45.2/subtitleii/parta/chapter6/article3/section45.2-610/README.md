@@ -1,0 +1,3 @@
+# § 45.2-610  Additional powers of Governor to operate seized properties.
+
+<p>The Governor may exercise the powers and authority to possess and operate for public uses any person's property used in the mining, production, or marketing of coal in the manner provided in this article.</p><p>Code 1950, § 45-148; 1950, p. 30; 1966, c. 594, § 45.1-148; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.315; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

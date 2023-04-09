@@ -1,0 +1,3 @@
+# § 8.01-675 Repealed.
+
+<p>Repealed by Acts 1984, c. 703, effective Oct. 1, 1984.</p>

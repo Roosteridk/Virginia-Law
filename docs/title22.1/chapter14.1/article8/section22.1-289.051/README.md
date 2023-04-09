@@ -1,0 +1,3 @@
+# § 22.1-289.051 Dual licenses for certain child day centers.
+
+<p>Any facility licensed as a child day center which also meets the requirements for a license as a summer camp by the Department of Health under the provisions of § <a href='/vacode/35.1-18/'>35.1-18</a> shall be entitled to a summer camp license. Such a facility shall comply with all of the regulations adopted by the Board and the State Board of Health for each such license.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0860'>860</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0861'>861</a>.</p>

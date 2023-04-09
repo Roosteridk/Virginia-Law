@@ -1,0 +1,3 @@
+# § 18.2-227 Same; sale from pump indicating other brand.
+
+<p>It shall be unlawful for any person, firm, association or corporation to store, keep, expose for sale, offer for sale or sell, from any tank or container, or from any pump or other distributing device or equipment, any other liquid fuels, lubricating oils or other similar products than those indicated by the name, trade name, symbol, sign or other distinguishing mark or device of the manufacturer or distributor, appearing upon the tank, container, pump or other distributing equipment from which the same are sold, offered for sale or distributed.</p><p>Code 1950, § 59.1-56; 1968, c. 439; 1975, cc. 14, 15.</p>

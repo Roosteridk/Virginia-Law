@@ -1,0 +1,3 @@
+# § 8.3A-207 Reacquisition.
+
+<p>Reacquisition of an instrument occurs if it is transferred to a former holder, by negotiation or otherwise. A former holder who reacquires the instrument may cancel endorsements made after the reacquirer first became a holder of the instrument. If the cancellation causes the instrument to be payable to the reacquirer or to bearer, the reacquirer may negotiate the instrument. An endorser whose endorsement is canceled is discharged, and the discharge is effective against any subsequent holder.</p><p>Code 1950, §§ 6-400, 6-402, 6-474; 1964, c. 219, § 8.3-208; 1992, c. 693.</p>

@@ -1,0 +1,3 @@
+# § 63.2-1614 Authority to receive and grant funds.
+
+<p>Subject to regulations of the Board and to the availability of state or federal funds for services to the victims of domestic violence, the Department is authorized to:</p><p>1. Receive state and federal funds for services to the victims of domestic violence;</p><p>2. Disperse funds through matching grants to local, public or private nonprofit agencies to provide service programs for the victims of domestic violence; and</p><p>3. Develop and implement grant mechanisms for funding such local services.</p><p>1980, c. 597, § 63.1-318; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

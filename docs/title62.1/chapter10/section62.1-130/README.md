@@ -1,0 +1,3 @@
+# § 62.1-130 Powers and duties of Executive Director.
+
+<p>The Executive Director shall employ or retain such other agents or employees subordinate to the Executive Director as may be necessary, subject to the Board's approval. The Executive Director shall also exercise such of the powers and duties relating to ports conferred upon the Board as may be delegated to him by the Board, including powers and duties involving the exercise of discretion. The Executive Director shall also exercise and perform such other powers and duties as may be lawfully delegated to him, and such powers and duties as may be conferred or imposed upon him by law.</p><p>Code 1950, § 62-106.3; 1952, c. 61; 1954, c. 667; 1968, c. 659; 1981, c. 589.</p>

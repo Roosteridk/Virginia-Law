@@ -1,0 +1,3 @@
+# § 15.2-5313 Service on commissioner by mail.
+
+<p>If, after due and diligent search, a commissioner to whom charges are required to be delivered hereunder cannot be found within the city where the authority is located, such charges shall be deemed served upon the commissioner if mailed to him at his last known address as it appears upon the records of the authority.</p><p>Code 1950, § 32-227; 1979, c. 719, § 15.1-1546; 1997, c. 587.</p>

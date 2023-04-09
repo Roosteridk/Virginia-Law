@@ -1,0 +1,3 @@
+# § 16.1-347 Fees and expenses for qualified evaluators.
+
+<p>Every qualified evaluator appointed by the court to conduct an evaluation pursuant to this article who is not regularly employed by the Commonwealth shall be compensated for fees and expenses as provided in § <a href='http://law.lis.virginia.gov/vacode/37.2-804/'>37.2-804</a>.</p><p>1990, c. 975; 2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0778'>778</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0825'>825</a>.</p>

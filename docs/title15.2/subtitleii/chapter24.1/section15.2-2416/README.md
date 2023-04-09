@@ -1,0 +1,3 @@
+# § 15.2-2416 Audit.
+
+<p>The Auditor of Public Accounts or his legally authorized representatives shall audit the accounts of the Fund as determined necessary by the Auditor of Public Accounts in accordance with generally accepted auditing standards, and the cost of such audit services shall be borne by the Fund.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0757'>757</a>; 2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0057'>57</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0307'>307</a>.</p>

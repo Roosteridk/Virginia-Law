@@ -1,0 +1,3 @@
+# § 2.2-2482 Staffing.
+
+<p>The Department of Social Services and any other executive branch agencies as the Governor may designate shall serve as staff to the Board. All agencies of the Commonwealth shall assist the Board upon request.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0026'>26</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0452'>452</a>.</p>

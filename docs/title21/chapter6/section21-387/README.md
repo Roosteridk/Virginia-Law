@@ -1,0 +1,3 @@
+# § 21-387 Deed to purchaser.
+
+<p>If no objection is made in any sale of land within thirty days after the date of sale, and the purchase price has been paid, the clerk of the circuit court of the county wherein the land lies shall convey to the purchaser the land sold by special warranty deed receiving therefor the fee provided by law for the conveyance of land sold for delinquent taxes.</p><p>Such conveyances shall be indefeasible to the same extent as a conveyance by a special commissioner acting under court appointment, and all persons having actual or constructive notice of the sale shall be precluded by such conveyance from thereafter objecting to the sale.</p><p>Code 1919, § 1771; 1924, p. 712; 1926, p. 622; 1936, p. 1037.</p>

@@ -1,0 +1,3 @@
+# § 28.2-518 Dredging for oysters in James River; penalty.
+
+<p>It shall be unlawful for any person to dredge for oysters in the James River during the open season for taking oysters from the public rocks and shoals. However, the Commission may grant a permit to applicants to dredge in specified areas.</p><p>A violation of this section is a Class 6 felony.</p><p>Code 1950, § 28.1-201.2; 1952, c. 181; 1962, c. 406, § 28.1-146; 1964, c. 393; 1992, c. 836.</p>

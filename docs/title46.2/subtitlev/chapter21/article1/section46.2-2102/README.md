@@ -1,0 +1,3 @@
+# § 46.2-2102 Compliance with chapter required.
+
+<p>No motor carrier shall operate any motor vehicle for the transportation of property for compensation on any highway in this Commonwealth on an intrastate basis except in accordance with the provisions of this chapter.</p><p>Code 1950, § 56-338.3; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0744'>744</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0803'>803</a>; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

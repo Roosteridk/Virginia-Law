@@ -1,0 +1,3 @@
+# § 56-30 Payment of damages occasioned by crossing highway.
+
+<p>If any such crossing or change as is provided for in §§ <a href='http://law.lis.virginia.gov/vacode/56-23/'>56-23</a> to <a href='http://law.lis.virginia.gov/vacode/56-32/'>56-32</a> cause damage to any county property or public highway, or to the owners or occupants of any lands, the company exercising the privileges granted by such sections shall make proper compensation for such damage.</p><p>Code 1919, § 3885; 1920, p. 413.</p>

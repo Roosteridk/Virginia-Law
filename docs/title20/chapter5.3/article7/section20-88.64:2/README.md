@@ -1,0 +1,3 @@
+# § 20-88.64:2 Compliance with two or more income-withholding orders.
+
+<p>If an obligor's employer receives two or more income-withholding orders with respect to the earnings of the same obligor, the employer satisfies the terms of the orders if the employer complies with the law of the state of the obligor's principal place of employment to establish priorities for withholding and allocating income withheld for two or more child support obligees.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0797'>797</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0897'>897</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0754'>754</a>.</p>

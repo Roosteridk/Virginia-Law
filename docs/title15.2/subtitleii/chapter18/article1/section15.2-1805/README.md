@@ -1,0 +1,3 @@
+# § 15.2-1805 Permitting visually handicapped persons to operate stands for sale of newspapers, etc.
+
+<p>A locality, by ordinance or resolution, may authorize any visually handicapped person to construct, maintain and operate, under the supervision of the Virginia Department for the Blind and Vision Impaired, in the county or city courthouse or in any other property of the locality, a stand for the sale of newspapers, periodicals, confections, tobacco products and similar articles and may prescribe rules for the operation of such stand.</p><p>Code 1950, § 15-712; 1954, c. 71; 1962, c. 623, § 15.1-289; 1997, c. 587.</p>

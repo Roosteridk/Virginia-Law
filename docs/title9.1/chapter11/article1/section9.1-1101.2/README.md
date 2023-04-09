@@ -1,0 +1,3 @@
+# § 9.1-1101.2 Possession or transfer of unlawful items by Department employees while engaged in the performance of official duties.
+
+<p>Whenever the possession or transfer of any item or material is prohibited by law, such prohibition shall not apply to any Department employee who possesses or transfers such prohibited item or material while engaged in the performance of his official duties.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0507'>507</a>.</p>

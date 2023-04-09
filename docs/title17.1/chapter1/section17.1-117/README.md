@@ -1,0 +1,3 @@
+# § 17.1-117 Certain acts of courts held at improper places confirmed.
+
+<p>When any court has at any time prior to June 13, 1919, been held at a place not authorized by law, in consequence of the destruction of the courthouse, or other unavoidable cause, the acts and proceedings of such court shall be as valid as if the court had been held at the proper place.</p><p>Code 1919, § 5969, § 17-19; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

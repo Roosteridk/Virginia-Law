@@ -1,0 +1,3 @@
+# § 54.1-1148 Continuing education.
+
+<p>The Board shall establish in the regulations requirements for continuing education as a prerequisite to renewal of a certificate issued under this article. The Board shall require evidence of knowledge of changes to the Virginia Statewide Fire Prevention Code as a prerequisite to renewal of any certificate issued under this article. In addition, the Board may require continuing education for any individual who is found to be in violation of law or regulations governing automatic fire sprinkler inspectors certified under this article.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0726'>726</a>.</p>

@@ -1,0 +1,3 @@
+# § 33.2-1030 Installation of broadband conduit.
+
+<p>Where a public highway exists pursuant to § <a href='http://law.lis.virginia.gov/vacode/33.2-105/'>33.2-105</a>, the rights of the Commonwealth include the use of such public highway for communications purposes and specifically include the power of the Department to permit a broadband service provider to install, maintain, operate, repair, and replace within the public right of way underground lines, systems, and facilities necessary for the provision and extension of broadband services to the extent allowed by applicable land use permit regulations, policies, and procedures of the Department.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0655'>655</a>.</p>

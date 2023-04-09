@@ -1,0 +1,3 @@
+# § 58.1-2672 Review on motion of Commission.
+
+<p>At any time within three months after a taxpayer receives the certified copy of any such assessment of value or tax, the Commission may of its own motion, after not less than ten days' notice to the taxpayer and to the Commonwealth and each county, city and town whose revenue is affected by the item or items to be reviewed and an opportunity given to such parties to introduce testimony with reference thereto, review and correct any specified item or items of such assessment of value or tax, as to which it may have cause to believe that an error may have been made.</p><p>Code 1950, § 58-674; 1984, c. 675.</p>

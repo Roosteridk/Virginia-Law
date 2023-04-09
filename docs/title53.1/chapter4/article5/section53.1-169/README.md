@@ -1,0 +1,3 @@
+# § 53.1-169 Who may hold hearings; procedures therefor.
+
+<p>A. Any hearing held pursuant to this article may be before the person or persons designated by the compact administrator of this Commonwealth or his designee to hold preliminary hearings involving alleged parole or probation violations. No hearing officer, however, shall be the person or the direct supervisor of the person making the allegation of violation.</p><p>B. The compact administrator of this Commonwealth or his designee shall establish a procedure for the administrative hearings held pursuant to this article.</p><p>Code 1950, § 53-290.2; 1975, c. 39; 1977, c. 106; 1982, c. 636.</p>

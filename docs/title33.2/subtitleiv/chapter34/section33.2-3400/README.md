@@ -1,0 +1,3 @@
+# § 33.2-3400 Definitions.
+
+<p>As used in this chapter:</p><p>"Fund" means the Washington Metropolitan Area Transit Authority Capital Fund.</p><p>"NVTC" means the Northern Virginia Transportation Commission.</p><p>"WMATA" means the Washington Metropolitan Area Transit Authority.</p><p>2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0854'>854</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0856'>856</a>.</p>

@@ -1,0 +1,3 @@
+# § 28.2-244 Purchase of shellfish or finfish; penalty.
+
+<p>A person shall not purchase shellfish or finfish from any fisherman who is known by such person to have not registered as a commercial fisherman as required by § <a href='http://law.lis.virginia.gov/vacode/28.2-241/'>28.2-241</a>. Whenever a court finds that a defendant has violated the provisions of this section, the court shall assess a civil penalty of $500. All civil penalties assessed pursuant to this section shall be paid into the Marine Fishing Improvement Fund as established in § <a href='http://law.lis.virginia.gov/vacode/28.2-208/'>28.2-208</a>.</p><p>1992, cc. 493, 503.</p>

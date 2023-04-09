@@ -1,0 +1,3 @@
+# § 62.1-218 Grants to local governments.
+
+<p>The Authority shall have the power and authority, with any funds of the Authority available for this purpose, to make grants to local governments. In determining which local governments are to receive grants, the Department of Environmental Quality, the Department of Health, and the Virginia Waste Management Board shall assist the Authority in determining needs for wastewater treatment facilities, water supply facilities, solid waste treatment, disposal or management facilities, or recycling facilities, and the method and form of such grants.</p><p>1984, c. 699; 1992, cc. 378, 887.</p>

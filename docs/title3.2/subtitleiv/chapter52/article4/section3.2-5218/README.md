@@ -1,0 +1,3 @@
+# § 3.2-5218 Definitions.
+
+<p>As used in this article, unless the context requires a different meaning:</p><p>"Holder" means a corporation, association, partnership or two or more persons having a joint or common interest.</p><p>Code 1950, § 3-415; 1966, c. 702, § 3.1-545; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-2256 Procedure to account for fees for common improvements.
+
+<p>Upon a verified petition signed by the owners, other than the original subdivider, of ten percent of the lots in any subdivision, the board of directors or other governing body of the subdivision charged with collection of fees and the maintenance of common improvements shall render an annual report with a statement of account of all fees collected and the disposition of all funds derived from any fees assessed for the maintenance of common improvements to the lot owners. The board of directors or other governing body of the subdivision may charge the lot owners for the actual cost of copying the annual report.</p><p>1987, c. 501, § 15.1-474.1; 1997, c. 587.</p>

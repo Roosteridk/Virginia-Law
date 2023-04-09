@@ -1,0 +1,3 @@
+# § 55.1-2418 Publication of escheator's certificate.
+
+<p>The State Treasurer shall cause the contents of the certificate transmitted pursuant to § <a href='/vacode/55.1-2415/'>55.1-2415</a> to be published once each week for four consecutive weeks in a newspaper of general circulation in the county or city where the inquest was held.</p><p>Code 1919, § 504; 1945, p. 40; Code 1950, § 55-183; 1977, c. 583; 1982, c. 486; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

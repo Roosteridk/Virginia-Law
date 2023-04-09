@@ -1,0 +1,3 @@
+# § 13.1-1113 Registration certificate required for limited liability company engaged in practice of law.
+
+<p>Before any professional limited liability company may engage in the practice of law in this Commonwealth, it shall first obtain and maintain a registration certificate required for that professional limited liability company by Chapter 39 (§ <a href='http://law.lis.virginia.gov/vacode/54.1-3900/'>54.1-3900</a> et seq.) of Title 54.1.</p><p>1992, c. 574.</p>

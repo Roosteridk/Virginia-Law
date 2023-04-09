@@ -1,0 +1,3 @@
+# § 3.2-6594 Definitions.
+
+<p>As used in this article:</p><p>"Dangerous captive animal" means any bear, cougar, jaguar, leopard, lion, nonhuman primate, or tiger, or any hybrid of any such animal. "Dangerous captive animal" does not include a clouded leopard.</p><p>"Direct contact" means physical contact or proximity where physical contact is possible, including an opportunity for photography without a permanent physical barrier designed to prevent physical contact between the public and a dangerous captive animal.</p><p>"Keeper" means any person, as defined in § <a href='/vacode/1-230/'>1-230</a>, who owns, has custody of, or is in control of a dangerous captive animal.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0632'>632</a>.</p>

@@ -1,0 +1,3 @@
+# § 23.1-3135 Online Virginia Network Authority established.
+
+<p>The Online Virginia Network Authority (the Authority) is established as a political subdivision of the Commonwealth for the purpose of providing a means for individuals to earn degrees and postsecondary education credentials by improving the quality of and expanding access to online degree and credential programs that are beneficial to citizens, public institutions of higher education, and employers in the Commonwealth.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0686'>686</a>.</p>

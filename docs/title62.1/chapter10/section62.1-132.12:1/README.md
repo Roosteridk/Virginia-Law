@@ -1,0 +1,3 @@
+# § 62.1-132.12:1 Agreements with private terminal operators.
+
+<p>The Authority may enter into agreements with private maritime cargo terminal operators that require services comparable to services provided by the Authority to permit special police officers appointed and employed by the Authority pursuant to § <a href='http://law.lis.virginia.gov/vacode/62.1-132.12/'>62.1-132.12</a> to provide and enforce safety and security on the operator's property. Such agreements shall require the private maritime cargo terminal operator to compensate the Authority for the direct and indirect costs of the services provided by the Authority.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0220'>220</a>.</p>

@@ -1,0 +1,3 @@
+# § 55.1-2414 Escheator to notify State Treasurer of claim and decision.
+
+<p>The escheator shall certify to the State Treasurer, within 60 days after the end of a year from the date of such inquest, whether any petition has been filed claiming an interest in the property pursuant to § <a href='/vacode/55.1-2409/'>55.1-2409</a>, and if such claim is made, he shall certify the decision on such petition within 60 days after such decision.</p><p>Code 1919, § 502; Code 1950, § 55-181; 1977, c. 583; 1982, c. 486; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

@@ -1,0 +1,3 @@
+# § 53.1-146 Use of officers as to persons convicted of local violations; payment of expenses.
+
+<p>Upon request of the governing body of a county, city or town, the probation and parole officer shall perform the same duties and have the same powers as to persons convicted for violations of ordinances of the county, city or town as he has as to persons violating laws of the Commonwealth. The county, city or town so using the services of a probation and parole officer shall pay a pro rata part of his expenses to be arrived at by mutual agreement between the local governing body and the Department.</p><p>Code 1950, § 53-249; 1970, c. 648; 1974, cc. 44, 45; 1982, c. 636.</p>

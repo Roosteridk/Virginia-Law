@@ -1,0 +1,3 @@
+# § 20-88.42 Child support orders for two or more obligees.
+
+<p>In responding to registrations or petitions for enforcement of two or more child support orders in effect at the same time with regard to the same obligor and different individual obligees, at least one of which was issued by a tribunal of another state or a foreign country, a tribunal of the Commonwealth shall enforce those orders in the same manner as if the orders had been issued by a tribunal of the Commonwealth.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0673'>673</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0754'>754</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0727'>727</a>.</p>

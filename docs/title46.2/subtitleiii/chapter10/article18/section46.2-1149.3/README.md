@@ -1,0 +1,3 @@
+# § 46.2-1149.3 Payment of fees into special fund.
+
+<p>Except as otherwise provided, all fees collected by the Commissioner under this article shall be paid into the state treasury and set aside as a special fund to be used to meet the expenses of the Department.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0314'>314</a>; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0738'>738</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0443'>443</a>.</p>

@@ -1,0 +1,3 @@
+# § 10.1-1244 Recording.
+
+<p>A. An environmental covenant and any amendment or termination of the covenant shall be recorded in every locality in which any portion of the real property subject to the covenant is located. For purposes of indexing, a holder shall be treated as a grantee.</p><p>B. Except as otherwise provided in § <a href='http://law.lis.virginia.gov/vacode/10.1-1245/'>10.1-1245</a>, an environmental covenant is subject to the laws of the Commonwealth governing recording and priority of interests in real property.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0691'>691</a>.</p>

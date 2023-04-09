@@ -1,0 +1,3 @@
+# § 38.2-3508 Requirements of other jurisdictions.
+
+<p>A. Any individual accident and sickness insurance policy delivered or issued for delivery to any person in this Commonwealth by a foreign or alien insurer may contain any provision that is prescribed or required by the insurer's domiciliary jurisdiction and that is not less favorable than the provisions of this article to the insured or the beneficiary.</p><p>B. Any individual accident and sickness insurance policy delivered or issued for delivery by a domestic insurer in any other jurisdiction may contain any provision permitted or required by the laws of the other jurisdiction.</p><p>Code 1950, § 38-224; 1952, c. 317, § 38.1-354; 1986, c. 562.</p>

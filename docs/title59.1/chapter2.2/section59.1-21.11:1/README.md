@@ -1,0 +1,3 @@
+# § 59.1-21.11:1 Waiver of constitutional rights prohibited.
+
+<p>Any provision in any agreement or franchise subject to the provisions of this chapter purporting to waive or to directly or indirectly limit the constitutional rights of a dealer (i) to petition any governmental authority or body or (ii) lawfully to seek or oppose any governmental or regulatory action with respect to any matter, notwithstanding any contrary position taken by the franchisor thereon, shall be null and void.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0170'>170</a>.</p>

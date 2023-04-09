@@ -1,0 +1,3 @@
+# § 62.1-230 Grants to local governments.
+
+<p>Subject to any restrictions which may apply to the use of money in the Fund, the Board in its discretion may approve the use of money in the Fund to make grants or appropriations to local governments to pay the cost of any project. The Board may establish such terms and conditions on any grant as it deems appropriate. Grants shall be disbursed from the Fund by the Authority in accordance with the written direction of the Board.</p><p>1986, c. 415.</p>

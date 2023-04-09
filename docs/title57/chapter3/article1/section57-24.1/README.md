@@ -1,0 +1,3 @@
+# § 57-24.1 Trustee for purpose of suit.
+
+<p>In the case of any private or family graveyard, where no trustees have been designated, and it appears that the interest of justice may be served by the appointment of a trustee or trustees for the purpose of suing or being sued, on the petition of any interested party, the court of record wherein deeds are recorded of the county or city in which such cemetery is located, may appoint a trustee or trustees for the purpose of suing or being sued. The petitioner shall bear the expense of such proceedings, provided that in the event a recovery is effected on behalf of such trustee or trustees, costs shall be taxed as provided by law.</p><p>1970, c. 94.</p>

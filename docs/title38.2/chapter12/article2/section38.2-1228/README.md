@@ -1,0 +1,3 @@
+# § 38.2-1228 Subscribers' share in assets.
+
+<p>Upon the liquidation of a domestic reciprocal, the assets remaining after discharge of its (i) indebtedness and policy obligations, (ii) the return of any contributions of the attorney or other person made as provided in § <a href='http://law.lis.virginia.gov/vacode/38.2-1225/'>38.2-1225</a>, and (iii) the return of any unused deposits, savings or credits, shall be distributed. The distribution shall be according to a formula approved by the Commission or the court to the persons who were its subscribers within the twelve months prior to the final termination of its license.</p><p>1952, c. 317, § 38.1-717; 1986, c. 562.</p>

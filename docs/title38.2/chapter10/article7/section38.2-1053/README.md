@@ -1,0 +1,3 @@
+# § 38.2-1053 Interest on deposits; to whom paid.
+
+<p>The State Treasurer, at the time of receiving any securities deposited under this title, shall give the insurer authority to collect the interest for its own use as the interest is paid. This authority shall continue in force until the insurer fails to pay any of its liabilities for which the deposit is security. In that case, the party paying interest shall be notified of the failure, and thereafter the interest shall be payable to the State Treasurer, and shall be applied, if necessary, to the payment of the liabilities.</p><p>Code 1950, § 38-48; 1952, c. 317, § 38.1-117; 1986, c. 562.</p>

@@ -1,0 +1,3 @@
+# § 46.2-718 Use of old license plates or decals after application for new.
+
+<p>An owner who has applied for renewal of registration of a motor vehicle, trailer, or semitrailer fifteen days prior to the day the registration period begins, but who has not received the license plates, decals, or registration card for the ensuing registration period shall be entitled to operate or permit the operation of the vehicle on the highways on displaying on the vehicle the license plates or decals issued for the preceding registration period for such time to be prescribed by the Department as it may find necessary to issue new license plates or decals.</p><p>Code 1950, § 46-104; 1958, c. 541, § 46.1-109; 1972, c. 609; 1989, c. 727.</p>

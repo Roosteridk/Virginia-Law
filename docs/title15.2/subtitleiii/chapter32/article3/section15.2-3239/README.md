@@ -1,0 +1,3 @@
+# § 15.2-3239 Certification of real estate list.
+
+<p>Upon entry of the order under § <a href='http://law.lis.virginia.gov/vacode/15.2-3238/'>15.2-3238</a>, the proper city officers shall certify to the clerk of the county a list of all real estate within the territory, with every entry in regard thereto, as it appears on the city land books. The list and entries so certified shall be entered upon the county land books.</p><p>Code 1950, § 15-156; 1962, c. 623, § 15.1-1062; 1997, c. 587.</p>

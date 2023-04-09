@@ -1,0 +1,3 @@
+# § 51.1-1118 Survivor benefits.
+
+<p>If a participating full-time employee who is a member of the retirement system dies during periods he is receiving disability benefits, survivor benefits shall be payable to the extent provided in subsections A and B of § <a href='http://law.lis.virginia.gov/vacode/51.1-162/'>51.1-162</a>.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0774'>774</a>; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0144'>144</a>.</p>

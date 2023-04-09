@@ -1,0 +1,3 @@
+# § 56-265.17:2 Procedures for project owners.
+
+<p>The project owner shall provide copies of those portions of the drawings that affect the respective operator with underground utility lines in the project area who have responded in accordance with § <a href='http://law.lis.virginia.gov/vacode/56-265.17:3/'>56-265.17:3</a>.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0841'>841</a>.</p>

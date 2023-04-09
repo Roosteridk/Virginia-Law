@@ -1,0 +1,3 @@
+# § 8.01-227.6 Law-enforcement officer or agency; health care provider not liable under certain conditions.
+
+<p>A law-enforcement officer or agency shall not be liable under this article if acting in furtherance of an official investigation. A health care provider who in good faith and in compliance with state or federal law, sells, administers, furnishes or distributes a controlled substance shall not be liable under this article.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0863'>863</a>.</p>

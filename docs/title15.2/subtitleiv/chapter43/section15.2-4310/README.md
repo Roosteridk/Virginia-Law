@@ -1,0 +1,3 @@
+# § 15.2-4310 Additions to a district.
+
+<p>Additional parcels of land may be added to an existing district at any time by following the process and application deadlines prescribed for the creation of a new district.</p><p>1977, c. 681, § 15.1-1511; 1979, c. 377; 1981, c. 546; 1984, c. 20; 1985, c. 13; 1987, c. 552; 1993, cc. 745, 761; 1997, c. 587; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0344'>344</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0355'>355</a>.</p>

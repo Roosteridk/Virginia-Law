@@ -1,0 +1,3 @@
+# § 3.2-5420 Only genuine Smithfield hams to be labeled or advertised as such.
+
+<p>No person shall knowingly, label, stamp, pack, advertise, sell, or offer for sale any ham, either wrapped or unwrapped, in a container or loose, as a genuine Smithfield ham unless such ham be a genuine Smithfield ham as defined in § <a href='http://law.lis.virginia.gov/vacode/3.2-5419/'>3.2-5419</a>.</p><p>Code 1950, § 3-668; 1966, c. 702, § 3.1-868; 1968, c. 140; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

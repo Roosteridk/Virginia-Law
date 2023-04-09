@@ -1,0 +1,3 @@
+# § 8.01-77 What proceeds of sale to pass as real estate.
+
+<p>The proceeds received under the preceding provisions of this article or under Article 9 (§ <a href='http://law.lis.virginia.gov/vacode/8.01-81/'>8.01-81</a> et seq.) of this chapter, from the sale or division of real estate of a person under a disability or so much thereof as may remain at such person's death, if such person continue until death incapable from any cause of making a will, shall pass to those who would have been entitled to the land if it had not been sold or divided.</p><p>Code 1950, § 8-689; 1952, c. 360; 1968, c. 66; 1977, c. 617.</p>

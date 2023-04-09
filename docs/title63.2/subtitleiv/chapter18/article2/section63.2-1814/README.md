@@ -1,0 +1,3 @@
+# § 63.2-1814 Public funds to be withheld for serious or persistent violations.
+
+<p>The Board and the State Board of Education may adopt policies, as permitted by state and federal law, to restrict the eligibility of a licensed child welfare agency to receive or continue to receive funds when such agency is found to be in serious or persistent violation of regulations.</p><p>1993, cc. 730, 742, § 63.1-211.2; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0492'>492</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

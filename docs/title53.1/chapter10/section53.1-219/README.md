@@ -1,0 +1,3 @@
+# § 53.1-219 Duty of clerk to furnish copy of complaint, indictment, judgment and sentence.
+
+<p>Upon the official request of the United States immigration officer in charge of the territory or district in which is located any court committing any alien to any correctional facility for the commission of a felony, it shall be the duty of the clerk of such court to furnish without charge a certified copy, in duplicate, of the complaint, information or indictment and the judgment and sentence and any other records pertaining to the case of the convicted alien.</p><p>Code 1950, § 53-315; 1982, c. 636; 2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0995'>995</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0996'>996</a>.</p>

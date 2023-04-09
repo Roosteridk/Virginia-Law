@@ -1,0 +1,3 @@
+# § 45.2-2109  Regulations.
+
+<p>The Director shall, in accordance with the Administrative Process Act (§ <a href='/vacode/2.2-4000/'>2.2-4000</a> et seq.), adopt regulations as may be necessary and proper to carry out the provisions of this article.</p><p>1982, c. 269, § 45.1-279; 1984, c. 590; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

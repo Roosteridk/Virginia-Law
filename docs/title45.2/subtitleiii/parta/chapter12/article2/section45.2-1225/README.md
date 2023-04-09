@@ -1,0 +1,3 @@
+# § 45.2-1225  Injunction prohibiting mining operation.
+
+<p>Whenever adverse ecological disruptions or the injurious effects thereof seriously threaten or endanger the health, safety, welfare, or property rights of citizens of the Commonwealth, and abatement by the application of control techniques is not feasible, the Director shall petition the appropriate circuit court for an injunction to prohibit further operations. Such injunction shall not relieve the operator of the duty to reclaim lands previously affected according to the terms and conditions of the applicable permit.</p><p>1977, c. 312, § 45.1-193.1; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

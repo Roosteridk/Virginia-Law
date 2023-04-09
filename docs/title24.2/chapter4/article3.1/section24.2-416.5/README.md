@@ -1,0 +1,3 @@
+# § 24.2-416.5 Social security number or parts thereof not to be disclosed.
+
+<p>Any person assisting an applicant with the completion or return of a mail voter registration application shall not copy, disclose or make any use of the social security number, or any part thereof, of the applicant except as authorized by law for official use.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0072'>72</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0073'>73</a>; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0318'>318</a>.</p>

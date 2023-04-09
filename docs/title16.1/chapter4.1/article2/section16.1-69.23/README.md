@@ -1,0 +1,3 @@
+# § 16.1-69.23 In what cases judge disqualified.
+
+<p>If the judge or substitute judge of any district court:</p><p>(1) Be a party to an action;</p><p>(2) Be interested in the result of any action, otherwise than as resident or taxpayer of the city or county;</p><p>(3) Be related to any party to the action as spouse, grandparent, parent, father-in-law, mother-in-law, child, grandchild, son-in-law, daughter-in-law, brother, sister, brother-in-law, sister-in-law, nephew, niece, uncle, aunt, first cousin, guardian or ward;</p><p>(4) Be a material witness for either party to the action;</p><p>(5) Be counsel for any party to the action;</p><p>he shall not take cognizance thereof.</p><p>1972, c. 708; 1973, c. 546.</p>

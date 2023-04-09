@@ -1,0 +1,3 @@
+# § 8.01-115 Bond required as prerequisite.
+
+<p>No such order or process, however, shall be issued until a bond, conforming with the requirements of § <a href='http://law.lis.virginia.gov/vacode/8.01-537.1/'>8.01-537.1</a>, is posted with the judge or magistrate, in a penalty at least double the estimated fair market value of the property claimed, payable to the defendant, with the additional condition to redeliver the property so seized to the defendant, or to the person from whose possession it was taken, if the right to the possession shall be adjudged against the plaintiff.</p><p>Code 1950, § 8-587; 1977, cc. 230, 617; 1986, c. 341; 1993, c. 841.</p>

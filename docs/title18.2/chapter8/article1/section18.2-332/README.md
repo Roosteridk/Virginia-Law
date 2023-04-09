@@ -1,0 +1,3 @@
+# § 18.2-332 Certain acts not deemed "consideration" in prosecution under this article.
+
+<p>In any prosecution under this article, no consideration shall be deemed to have passed or been given because of any person's attendance upon the premises of another; his execution, mailing or delivery of an entry blank; his answering of questions, verbally or in writing; his witnessing of a demonstration or other proceeding; or any one or more thereof, where no charge is made to, paid by, or any purchase required of him in connection therewith.</p><p>Code 1950, § 18.1-340.1; 1960, c. 226; 1975, cc. 14, 15.</p>

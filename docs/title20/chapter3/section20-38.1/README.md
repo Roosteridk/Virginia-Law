@@ -1,0 +1,3 @@
+# § 20-38.1 Certain marriages prohibited.
+
+<p>The following marriages are prohibited:</p><p>1. A marriage entered into prior to the dissolution of an earlier marriage of one of the parties;</p><p>2. A marriage between an ancestor and descendant, or between siblings, whether the relationship is by the half or the whole blood or by adoption;</p><p>3. A marriage between an uncle or aunt and a nephew or niece, whether the relationship is by the half or the whole blood.</p><p>1975, c. 644; 1978, c. 647; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0900'>900</a>.</p>

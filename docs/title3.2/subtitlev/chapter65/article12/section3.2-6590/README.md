@@ -1,0 +1,3 @@
+# § 3.2-6590 Jurisdiction of general district courts; right of appeal.
+
+<p>Unless otherwise provided, the provisions of this article may be enforced by any general district court in cities or counties wherein the offense is committed or the offender or owner may be found. Every such offender shall have the right of appeal to the appropriate circuit court.</p><p>1984, c. 492, § 29-213.100; 1987, c. 488, § 3.1-796.129; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

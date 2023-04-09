@@ -1,0 +1,3 @@
+# § 18.2-135 Destruction of posted signs; posting land of another.
+
+<p>Any person who shall mutilate, destroy or take down any "posted," "no hunting" or similar sign or poster on the lands or waters of another, or who shall post such sign or poster on the lands or waters of another, without the consent of the landowner or his agent, shall be deemed guilty of a Class 3 misdemeanor and his hunting, fishing, and trapping license and privileges shall be revoked for a period of one to five years from the date of conviction.</p><p>Code 1950, § 29-167; 1962, c. 469; 1975, cc. 14, 15; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0183'>183</a>.</p>

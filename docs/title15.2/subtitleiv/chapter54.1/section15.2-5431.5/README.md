@@ -1,0 +1,3 @@
+# § 15.2-5431.5 Advertisement of resolution and notice of hearing.
+
+<p>The governing body of the locality shall cause to be advertised at least one time in a newspaper of general circulation in such locality a copy of the resolution creating the authority, or a descriptive summary of the resolution and a reference to the place within the locality where a copy of the resolution can be obtained, and notice of the day, not less than 30 days after publication of the advertisement, on which a public hearing will be held on the resolution.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0643'>643</a>.</p>

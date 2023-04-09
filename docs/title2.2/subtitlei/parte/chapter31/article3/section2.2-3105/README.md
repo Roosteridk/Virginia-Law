@@ -1,0 +1,3 @@
+# § 2.2-3105 Application.
+
+<p>This article proscribes certain conduct relating to contracts by state and local government officers and employees. The provisions of this article shall be supplemented but not superseded by the provisions on ethics in public contracting in Article 6 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4367/'>2.2-4367</a> et seq.) of Chapter 43 of this title.</p><p>1987, Sp. Sess., c. 1, § 2.1-639.5; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0694'>694</a>.</p>

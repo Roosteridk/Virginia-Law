@@ -1,0 +1,3 @@
+# § 15.2-5129 Provisions of chapter only requirements for issue.
+
+<p>Bonds may be issued under the provisions of this chapter without obtaining the approval or consent of any department, division, commission, board, bureau or agency of the Commonwealth, and without any other proceeding or the happening of any other condition or thing than those proceedings, conditions or things which are specifically required by this chapter.</p><p>Code 1950, § 15-764.17; 1950, p. 1322; 1962, c. 623, § 15.1-1255; 1997, c. 587.</p>

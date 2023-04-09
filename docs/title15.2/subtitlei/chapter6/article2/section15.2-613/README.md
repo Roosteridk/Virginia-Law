@@ -1,0 +1,3 @@
+# § 15.2-613 Term of office and removal of such appointees.
+
+<p>All appointments made pursuant to § <a href='http://law.lis.virginia.gov/vacode/15.2-612/'>15.2-612</a> shall be without definite term, unless for temporary service not to exceed twelve months. Any officer or employee of the county appointed by the manager, or upon his authorization, may be laid off, suspended or removed from office or employment either by the manager or the officer who appointed him.</p><p>Code 1950, § 15-315; 1962, c. 623, § 15.1-635; 1997, c. 587.</p>

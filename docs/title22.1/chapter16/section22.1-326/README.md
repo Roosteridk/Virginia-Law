@@ -1,0 +1,3 @@
+# § 22.1-326 License restricted to specific disability categories; supplementary application.
+
+<p>A school may offer education programs serving the disability categories specifically indicated on its license only. A supplementary application for additional programs of instruction or disability categories may be submitted in such form as the Board may prescribe.</p><p>Code 1950, § 22-330.24; 1970, c. 665; 1980, c. 559; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0691'>691</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0832'>832</a>; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0991'>991</a>.</p>

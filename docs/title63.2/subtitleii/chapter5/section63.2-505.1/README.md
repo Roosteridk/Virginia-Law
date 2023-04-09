@@ -1,0 +1,3 @@
+# § 63.2-505.1 Transitional food stamp benefits.
+
+<p>To the extent permitted by federal law, the Department shall provide transitional food stamp benefits for a period of not more than five months after the date on which Temporary Assistance for Needy Families (TANF) cash assistance is terminated. However, no household shall be eligible for transitional food stamp benefits if TANF cash assistance was terminated because all children in the assistance unit were removed from the home as a result of a child protective services investigation.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0463'>463</a>.</p>

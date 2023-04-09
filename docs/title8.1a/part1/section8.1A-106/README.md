@@ -1,0 +1,3 @@
+# § 8.1A-106 Use of singular and plural; gender.
+
+<p>In the Uniform Commercial Code, unless the statutory context otherwise requires:</p><p>(1) words in the singular number include the plural, and those in the plural include the singular; and</p><p>(2) words of any gender also refer to any other gender.</p><p>1964, c. 219, § 8.1-102; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0353'>353</a>.</p>

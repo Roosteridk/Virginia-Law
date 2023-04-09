@@ -1,0 +1,3 @@
+# § 22.1-106 Same; levy in accordance with results of referendum.
+
+<p>If a majority of those voting in the referendum vote against a uniform county school levy the governing body may levy such taxes as it deems best, subject to law. But if a majority of those voting vote for a uniform county school levy the governing body of the county thereafter shall, for each succeeding tax year, lay a uniform county school levy and the proceeds thereof shall be expended as provided by law for school purposes including the repayment of district school obligations.</p><p>Code 1950, § 22-130.4; 1958, cc. 45, 632; 1980, c. 559.</p>

@@ -1,0 +1,3 @@
+# § 63.2-1205.1 Certain offenders prohibited from adopting a child.
+
+<p>No petition for adoption shall be granted if the person seeking to adopt has been convicted of an offense requiring registration pursuant to § <a href='/vacode/9.1-902/'>9.1-902</a>.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0384'>384</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0829'>829</a>.</p>

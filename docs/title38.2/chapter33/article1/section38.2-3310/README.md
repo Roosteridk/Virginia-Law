@@ -1,0 +1,3 @@
+# § 38.2-3310 Table of values and options.
+
+<p>Each individual life insurance policy shall contain a table showing the loan values in figures, line by line. The table shall also show any options available under the policy each year upon default in premium payments, during at least the first twenty years of the policy or during the premium-paying period if it is less than twenty years.</p><p>Code 1950, § 38-371(9); 1950, p. 180; 1952, c. 317, § 38.1-399; 1986, c. 562.</p>

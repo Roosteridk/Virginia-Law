@@ -1,0 +1,3 @@
+# § 57-66 Rules and regulations; model ordinance.
+
+<p>The Board shall have the power to make and publish reasonable rules and regulations not inconsistent with this chapter, or other applicable laws, or the Constitution of the Commonwealth, or the Constitution of the United States, for the enforcement of the provisions of this chapter and for the achievement of uniform regulation of charitable solicitations throughout the Commonwealth. The Commissioner shall promulgate a model ordinance which may be used by localities in their regulation of charitable solicitations.</p><p>1974, c. 574; 1979, c. 595.</p>

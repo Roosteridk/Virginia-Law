@@ -1,0 +1,3 @@
+# § 15.2-2320 Impact fee service areas to be established.
+
+<p>The locality shall delineate one or more impact fee service areas within its comprehensive plan. Impact fees collected from new development within an impact fee service area shall be expended for road improvements benefiting that impact fee service area. An impact fee service area may encompass more than one road improvement project. A locality may exclude urban development areas designated pursuant to § <a href='http://law.lis.virginia.gov/vacode/15.2-2223.1/'>15.2-2223.1</a> from impact fee service areas.</p><p>1989, c. 485, § 15.1-498.3; 1992, c. 465; 1997, c. 587; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0896'>896</a>.</p>

@@ -1,0 +1,3 @@
+# § 18.2-498.3 Misrepresentations prohibited.
+
+<p>Any person, in any commercial dealing in any matter within the jurisdiction of any department or agency of the Commonwealth of Virginia, or any local government within the Commonwealth or any department or agency thereof, who knowingly falsifies, conceals, misleads, or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, shall be guilty of a Class 6 felony.</p><p>1980, c. 472.</p>

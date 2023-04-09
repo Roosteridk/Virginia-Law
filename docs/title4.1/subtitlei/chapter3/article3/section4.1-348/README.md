@@ -1,0 +1,3 @@
+# § 4.1-348 Beverages not licensed under this subtitle.
+
+<p>The provisions of §§ <a href='http://law.lis.virginia.gov/vacode/4.1-339/'>4.1-339</a> through <a href='http://law.lis.virginia.gov/vacode/4.1-348/'>4.1-348</a> shall not apply to alcoholic beverages which may be manufactured and sold without any license under the provisions of this subtitle.</p><p>Code 1950, § 4-56; 1954, c. 504; 1968, c. 763; 1971, Ex. Sess., c. 155; 1973, c. 16; 1978, cc. 434, 436; 1981, c. 365; 1983, c. 271; 1984, c. 52; 1993, c. 866.</p>

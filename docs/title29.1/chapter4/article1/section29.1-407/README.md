@@ -1,0 +1,3 @@
+# § 29.1-407 Forfeiture of furs.
+
+<p>Any furs found in the possession of any person or firm and acquired in violation of this article shall be forfeited to the Commonwealth. The proceedings for forfeiture shall conform as far as practicable to the provisions of Chapter 22.1 (§ <a href='http://law.lis.virginia.gov/vacode/19.2-386.1/'>19.2-386.1</a> et seq.) of Title 19.2, and the net proceeds of the forfeiture shall be paid into the Literary Fund.</p><p>Code 1950, § 29-102; 1987, c. 488; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0283'>283</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0756'>756</a>.</p>

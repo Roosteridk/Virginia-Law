@@ -1,0 +1,3 @@
+# § 8.01-457 Marking satisfied judgments for Commonwealth; payment by third parties releasing recognizances.
+
+<p>It shall be the duty of the clerks of the circuit courts of this Commonwealth, upon the payment of any judgment in favor of the Commonwealth by any person or upon the release of any recognizance by court order, to mark the same satisfied upon the judgment lien docket at every place such judgment or recognizance, as the case may be, shall have been recorded upon such lien docket. In marking such recognizance satisfied it shall be the duty of such clerk to refer by marginal reference to the court order, if any, releasing or discharging such recognizance.</p><p>Code 1950, § 8-385; 1977, c. 617; 1986, c. 132.</p>

@@ -1,0 +1,3 @@
+# § 8.01-520 Payment, etc., by garnishee before return of summons.
+
+<p>Any person, summoned under § <a href='http://law.lis.virginia.gov/vacode/8.01-511/'>8.01-511</a>, before the return day of the summons, may pay what he is liable for to the clerk of the court issuing the summons and such clerk shall give a receipt, upon request, for what is so paid.</p><p>Code 1950, § 8-448; 1977, c. 617; 1983, c. 399.</p>

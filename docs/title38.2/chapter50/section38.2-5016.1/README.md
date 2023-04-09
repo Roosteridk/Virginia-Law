@@ -1,0 +1,3 @@
+# § 38.2-5016.1 Investment strategy advice; expected returns.
+
+<p>The investment advisor or advisors retained by the board pursuant to subsection F of § <a href='http://law.lis.virginia.gov/vacode/38.2-5016/'>38.2-5016</a> shall provide the board with annual statements explaining the expected returns on its equities and fixed income portfolios.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0897'>897</a>; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0777'>777</a>.</p>

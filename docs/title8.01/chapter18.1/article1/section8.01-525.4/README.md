@@ -1,0 +1,3 @@
+# § 8.01-525.4 Provision to bar further claim by creditors who accept deed.
+
+<p>Any deed of assignment may contain a provision to the effect that those creditors who accept such assignment do so in full satisfaction of their respective claims and shall be forever barred from further recovery of any balance.</p><p>1924, p. 658; Michie Code 1942, § 5278d; Code 1950, § 55-159; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

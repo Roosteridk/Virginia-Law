@@ -1,0 +1,3 @@
+# § 12.1-30 Rules of evidence to be as in courts of record.
+
+<p>The Commission, on hearing of all complaints, proceedings, contests or controversies, in which it shall be called upon to decide or render judgment in its capacity as a court of record, shall observe and administer the common and statute law rules of evidence as observed and administered by the courts of the Commonwealth.</p><p>Code 1950, § 12-57; 1971, Ex. Sess., c. 157.</p>

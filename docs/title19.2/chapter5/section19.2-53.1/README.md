@@ -1,0 +1,3 @@
+# § 19.2-53.1 Taking blood samples pursuant to search warrant; immunity.
+
+<p>No cause of action shall lie in any court against any person authorized by law to withdraw blood pursuant to a search warrant issued in accordance with § <a href='http://law.lis.virginia.gov/vacode/19.2-53/'>19.2-53</a> when that person is acting in accordance with such warrant, except in cases of negligence in the withdrawing of blood or willful misconduct.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0425'>425</a>.</p>

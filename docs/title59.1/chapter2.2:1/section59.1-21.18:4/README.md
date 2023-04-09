@@ -1,0 +1,3 @@
+# § 59.1-21.18:4 Exemptions under chapter.
+
+<p>A supplier shall be authorized to reduce or discontinue monthly allocations of petroleum products with any Virginia distributor if the supplier:</p><p>1. Furnishes the distributor with an alternative source of monthly allocations of petroleum products of equal type, grade, quantity and equivalent delivery location; or</p><p>2. Agrees to supply the distributor with monthly allocations of petroleum products for a period of twelve months and furnishes the distributor and the Governor of the Commonwealth with written notice of its intention to discontinue or reduce such allocations at least twelve months in advance of such discontinuance or reduction.</p><p>1980, c. 457.</p>

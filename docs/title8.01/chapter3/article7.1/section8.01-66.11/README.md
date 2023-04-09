@@ -1,0 +1,3 @@
+# § 8.01-66.11 Necessity for settlement or judgment.
+
+<p>Nothing contained in this article shall be construed as imposing liability on any person, firm or corporation whose negligence is alleged to have caused injuries or on the attorney for the injured party where no settlement is made, or, in case of an attorney, where no funds come into his hands, or where no judgment is obtained in favor of such injured party or his personal representative.</p><p>Code 1950, § 32-144; 1979, c. 722.</p>

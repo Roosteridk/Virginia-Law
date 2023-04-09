@@ -1,0 +1,3 @@
+# § 33.2-2015 Chapter to constitute complete authority for acts authorized; liberal construction.
+
+<p>This chapter shall constitute complete authority for the district to take the actions authorized in this chapter. This chapter, being necessary for the welfare of the Commonwealth and its inhabitants, shall be liberally construed to effect its purposes. Any court test concerning the validity of any bonds that may be issued for transportation improvements made pursuant to this chapter may be determined pursuant to Article 6 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-2650/'>15.2-2650</a> et seq.) of Chapter 26 of Title 15.2.</p><p>1993, c. 395, § 33.1-425; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

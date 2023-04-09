@@ -1,0 +1,3 @@
+# § 5.1-112 Broker's license not substitute for other certificates or permits required.
+
+<p>No person who holds a broker's license under this chapter shall engage in transportation subject to this chapter unless he holds a certificate or permit as provided in this chapter. In the execution of any contract, agreement, or arrangement to sell, provide, procure, furnish, or arrange for such transportation, it shall be unlawful for such person to employ any aircraft which is not the lawful holder of an effective certificate or permit issued as provided in this chapter.</p><p>Code 1950, § 56-166; 1970, c. 708.</p>

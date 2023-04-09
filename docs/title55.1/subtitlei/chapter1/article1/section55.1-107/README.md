@@ -1,0 +1,3 @@
+# § 55.1-107 Default or surrender of tenant for life not to prejudice remainderman.
+
+<p>If any tenant for life of land make default or surrender, the heirs or those entitled to the remainder may, before judgment, be admitted to defend their right or, after judgment, may assert their right without prejudice from such default or surrender.</p><p>Code 1919, § 5443; Code 1950, § 55-8; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

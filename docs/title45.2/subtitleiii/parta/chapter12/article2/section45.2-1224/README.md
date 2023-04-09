@@ -1,0 +1,3 @@
+# § 45.2-1224  Assistance of federal, state, and local agencies.
+
+<p>In approving plans of operation and in issuing rules and regulations for reclamation, the Director may avail himself and the Department of the advice, assistance, and facilities of local soil and water conservation district supervisors or any other federal, state, or local agency.</p><p>1968, c. 734, § 45.1-192; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

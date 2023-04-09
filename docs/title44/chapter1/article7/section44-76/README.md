@@ -1,0 +1,3 @@
+# § 44-76 Transportation, equipment and support of militia.
+
+<p>Whenever the Governor shall call forth the militia, whether by virtue of the Constitution or of § <a href='http://law.lis.virginia.gov/vacode/44-75.1/'>44-75.1</a>, he shall issue such orders and take such measures for procuring and transporting the elements thereof as to him shall seem best; and for their accommodation, equipment and support, he shall appoint such a staff as to him shall seem proper.</p><p>1930, p. 962; Michie Code 1942, § 2673(62); 1958, c. 393.</p>

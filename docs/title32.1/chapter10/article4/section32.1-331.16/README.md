@@ -1,0 +1,3 @@
+# § 32.1-331.16 Immunity.
+
+<p>The members of the Committee and of the Board, as well as the staff of the Department, shall be immune, individually and jointly, from civil liability for any act, decision, or omission done or made in performance of their duties pursuant to this article while serving as a member of such Board, Committee, or staff provided that such act, decision, or omission is not done or made in bad faith or with malicious intent.</p><p>1993, c. 537.</p>

@@ -1,0 +1,3 @@
+# § 9.1-900 Purpose of the Sex Offender and Crimes Against Minors Registry.
+
+<p>The purpose of the Sex Offender and Crimes Against Minors Registry (Registry) shall be to assist the efforts of law-enforcement agencies and others to protect their communities and families from repeat offenders and to protect children from becoming victims of criminal offenders by helping to prevent such individuals from being allowed to work directly with children.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0584'>584</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0829'>829</a>.</p>

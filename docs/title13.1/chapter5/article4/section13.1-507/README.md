@@ -1,0 +1,3 @@
+# § 13.1-507 Registration requirement; exemptions.
+
+<p>It shall be unlawful for any person to offer or sell any security unless (i) the security is registered under this chapter, (ii) the security or transaction is exempted by this chapter, or (iii) the security is a federal covered security.</p><p>Code 1950, § 13-110; 1956, c. 428; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0279'>279</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0595'>595</a>.</p>

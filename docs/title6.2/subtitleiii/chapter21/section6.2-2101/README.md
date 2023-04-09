@@ -1,0 +1,3 @@
+# § 6.2-2101 Registration requirement; offices.
+
+<p>A. No person shall engage in business as a check casher in the Commonwealth unless such person has first registered with the Commission in accordance with procedures established by the Commission under this chapter.</p><p>B. Every registered check casher shall give written notice to the Commission, within 10 days thereafter, of the opening, closing, or relocation of an office.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0221'>221</a>, § 6.1-433; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0529'>529</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,0 +1,3 @@
+# § 54.1-3933 Decreeing fee out of funds under control of court.
+
+<p>No court shall decree or order any fee or compensation to counsel to be paid out of money or property under the control of the court, unless the claim is in the complaint, petition, or other proceeding, of which the parties interested have due notice.</p><p>Code 1950, § 54-71; 1988, c. 765; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0112'>112</a>.</p>

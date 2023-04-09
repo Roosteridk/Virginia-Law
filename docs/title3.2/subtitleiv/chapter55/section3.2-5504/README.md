@@ -1,0 +1,3 @@
+# § 3.2-5504 Marking packages containing vinegar reduced with water; sale of certain reduced vinegar prohibited.
+
+<p>Packages containing vinegar that has been reduced with water must be plainly marked to indicate the acidity to which it has been reduced and the sale of any vinegar containing less than four percent acid strength is prohibited.</p><p>Code 1950, § 3-694; 1964, c. 554; 1966, c. 702, § 3.1-903; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

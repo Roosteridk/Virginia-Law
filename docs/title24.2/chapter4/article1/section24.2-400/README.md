@@ -1,0 +1,3 @@
+# § 24.2-400 Persons entitled to register and vote.
+
+<p>Any person who is not registered to vote, but would otherwise be a qualified voter, is entitled to register to vote as provided in this chapter. Any person who is registered to vote and is a qualified voter shall be entitled to vote in the precinct where he resides.</p><p>Code 1950, §§ 24-17, 24-22, 24-23; 1963, Ex. Sess., c. 2; 1970, c. 462, § 24.1-41; 1971, Ex. Sess., cc. 205, 265; 1974, c. 428; 1977, c. 490; 1978, c. 778; 1993, c. 641.</p>

@@ -1,0 +1,3 @@
+# § 23.1-3006 Medical School; duties.
+
+<p>The Medical School shall deliver and support the delivery of high-quality medical and health care and related services to residents of the Commonwealth and such other persons as may be served by the Medical School regardless of their ability to pay, provide educational opportunities, and conduct and facilitate research.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

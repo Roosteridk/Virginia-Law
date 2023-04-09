@@ -1,0 +1,3 @@
+# § 8.01-73 Guardian ad litem to be appointed.
+
+<p>In every suit brought under this article, a guardian ad litem shall be appointed for any person under a disability not otherwise represented by a guardian or committee, or trustee appointed pursuant to § <a href='http://law.lis.virginia.gov/vacode/64.2-2003/'>64.2-2003</a>, and for all persons proceeded against by an order or publication under the designation of "parties unknown" as provided for in § <a href='http://law.lis.virginia.gov/vacode/8.01-316/'>8.01-316</a>. The guardian ad litem shall file an answer as such.</p><p>Code 1950, § 8-679; 1952, c. 360; 1972, c. 361; 1977, c. 617; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0540'>540</a>.</p>

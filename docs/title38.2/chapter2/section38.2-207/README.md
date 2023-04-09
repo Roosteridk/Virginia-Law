@@ -1,0 +1,3 @@
+# § 38.2-207 Enforcement of right of subrogation in name of insured.
+
+<p>Except for contracts or plans subject to § <a href='http://law.lis.virginia.gov/vacode/38.2-3405/'>38.2-3405</a> or § <a href='http://law.lis.virginia.gov/vacode/38.2-2209/'>38.2-2209</a>, when any insurer pays an insured under a contract of insurance which provides that the insurer becomes subrogated to the rights of the insured against any other party the insurer may enforce the legal liability of the other party. This action may be brought in its own name or in the name of the insured or the insured's personal representative.</p><p>1952, c. 476, § 38.1-31.2; 1973, c. 28; 1986, c. 562.</p>

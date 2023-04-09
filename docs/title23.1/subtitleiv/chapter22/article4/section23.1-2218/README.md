@@ -1,0 +1,3 @@
+# § 23.1-2218 Commonwealth to be trustee of donations; liability of State Treasurer.
+
+<p>The Commonwealth is the trustee for the safekeeping and due application of all funds that may be deposited in the state treasury pursuant to § <a href='http://law.lis.virginia.gov/vacode/23.1-2214/'>23.1-2214</a>. The State Treasurer and the sureties in his official bond are liable for the money or other funds deposited, and the accounting officers of the Commonwealth shall keep separate accounts of each such deposit in the same manner as other public funds.</p><p>Code 1919, § 826, § 23-85; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

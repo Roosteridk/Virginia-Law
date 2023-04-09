@@ -1,0 +1,3 @@
+# § 3.2-2000 Definitions.
+
+<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Feeder pig" means a hog not weighing 140 pounds or less.</p><p>"Processor" means any person that slaughters hogs commercially, or agent thereof.</p><p>"Producer" means any person engaged in the business of raising hogs for sale for slaughter or raising hogs for sale as feeder pigs.</p><p>"Slaughter hog" means a hog weighing in excess of 140 pounds.</p><p>Code 1950, § 3-598.12; 1966, c. 658, § 3.1-763.6; 1985, c. 448; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

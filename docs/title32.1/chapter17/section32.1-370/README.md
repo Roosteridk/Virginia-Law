@@ -1,0 +1,3 @@
+# § 32.1-370 Right to breastfeed.
+
+<p>A mother may breastfeed in any place where the mother is lawfully present, including any location where she would otherwise be allowed on property that is owned, leased, or controlled by the Commonwealth in accordance with § <a href='http://law.lis.virginia.gov/vacode/2.2-1147.1/'>2.2-1147.1</a>.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0045'>45</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0105'>105</a>.</p>

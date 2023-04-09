@@ -1,0 +1,3 @@
+# § 18.2-454 Enjoining barratry.
+
+<p>Suits to enjoin barratry may be brought by the Attorney General or the attorney for the Commonwealth in the appropriate circuit court.</p><p>Code 1950, § 18.1-392; 1960, c. 358; 1975, cc. 14, 15.</p>

@@ -1,0 +1,3 @@
+# § 38.2-1424 Guaranteed stocks.
+
+<p>A domestic insurer may invest in stocks guaranteed by a solvent company incorporated under the laws of the United States or of any state if for the past three years the guarantor's net earnings available for meeting fixed charges is at least 1 1/4 times the sum of (i) the fixed charges of the guarantor and (ii) the dividends on the guaranteed stock.</p><p>1983, c. 457, § 38.1-217.27; 1986, c. 562.</p>

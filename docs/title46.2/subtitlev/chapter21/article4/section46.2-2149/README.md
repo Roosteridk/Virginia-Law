@@ -1,0 +1,3 @@
+# § 46.2-2149 Certain household goods carriers exempt from certain provisions of article.
+
+<p>Household goods carriers transporting household goods for a lesser distance than thirty-one road miles are exempt from this article except the provisions of § <a href='http://law.lis.virginia.gov/vacode/46.2-2168/'>46.2-2168</a>.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

@@ -1,0 +1,3 @@
+# § 13.1-613 Unlawful to transact or offer to transact business as a corporation unless authorized.
+
+<p>It shall be unlawful for any person to transact business in this Commonwealth as a corporation or to offer or advertise to transact business in this Commonwealth as a corporation unless the alleged corporation is either a domestic corporation or a foreign corporation authorized to transact business in this Commonwealth. Any person who violates this section shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 13.1-135; 1958, c. 565; 1981, c. 320; 1985, c. 522.</p>

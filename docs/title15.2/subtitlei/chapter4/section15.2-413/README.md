@@ -1,0 +1,3 @@
+# § 15.2-413 Department of extension and continuing education.
+
+<p>The department of extension and continuing education shall be established for the purpose of conducting noncredit educational programs and disseminating useful and practical information pursuant to the provisions of § <a href='http://law.lis.virginia.gov/vacode/23.1-2608/'>23.1-2608</a> et seq.</p><p>1972, c. 653, § 15.1-711.1; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0587'>587</a>.</p>

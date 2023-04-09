@@ -1,0 +1,3 @@
+# § 30-345 Chairman's executive summary of activity and work of the Commission.
+
+<p>The chairman of the Commission shall submit to the Governor and the General Assembly an annual executive summary of the interim activity and work of the Commission no later than the first day of each regular session of the General Assembly. The executive summary shall be submitted as provided in the procedures of the Division of Legislative Automated Systems for the processing of legislative documents and reports and shall be posted on the General Assembly's website.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0709'>709</a>.</p>

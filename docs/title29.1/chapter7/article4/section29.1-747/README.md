@@ -1,0 +1,3 @@
+# § 29.1-747 Repealed.
+
+<p>Repealed by Acts 1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0084'>84</a> and <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0563'>563</a>, and repealed by Acts 1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0443'>443</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0512'>512</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0514'>514</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0515'>515</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0537'>537</a>, effective January 1, 1999.</p>

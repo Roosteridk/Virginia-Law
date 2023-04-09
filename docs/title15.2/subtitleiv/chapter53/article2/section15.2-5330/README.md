@@ -1,0 +1,3 @@
+# § 15.2-5330 Construction, repair and management.
+
+<p>An authority shall have power to do all things necessary in connection with the construction, improvement, alteration, repair, reconstruction, management, supervision, control and operation of its business, including but not limited to the hospitals and all departments thereof.</p><p>Code 1950, § 32-243; 1979, c. 719, § 15.1-1564; 1997, c. 587.</p>

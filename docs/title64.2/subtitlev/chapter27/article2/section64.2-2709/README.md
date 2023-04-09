@@ -1,0 +1,3 @@
+# § 64.2-2709 Presumption of unlimited authority.
+
+<p>Subject to § <a href='http://law.lis.virginia.gov/vacode/64.2-2711/'>64.2-2711</a>, and unless the terms of the instrument creating a power of appointment manifest a contrary intent, the power is:</p><p>1. Presently exercisable;</p><p>2. Exclusionary; and</p><p>3. Except as otherwise provided in § <a href='http://law.lis.virginia.gov/vacode/64.2-2710/'>64.2-2710</a>, general.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

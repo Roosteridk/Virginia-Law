@@ -1,0 +1,3 @@
+# § 46.2-855 Driving with driver's view obstructed or control impaired.
+
+<p>A person shall be guilty of reckless driving who drives a vehicle when it is so loaded, or when there are in the front seat such number of persons, as to obstruct the view of the driver to the front or sides of the vehicle or to interfere with the driver's control over the driving mechanism of the vehicle.</p><p>Code 1950, §§ 46-209, 46-209.1; 1950, p. 880; 1952, c. 671; 1954, cc. 225, 401, 458; 1958, c. 541, § 46.1-190; 1960, c. 510; 1964, c. 266; 1966, c. 694; 1968, c. 575; 1970, c. 521; 1974, cc. 222, 455; 1975, c. 633; 1978, c. 27; 1979, c. 86; 1981, cc. 333, 585; 1985, c. 148; 1989, c. 727.</p>

@@ -1,0 +1,3 @@
+# § 51.5-73 Rehabilitation Center for the Blind and Vision Impaired; operation and maintenance.
+
+<p>The Department shall have the authority and responsibility for the operation and maintenance of the Virginia Rehabilitation Center for the Blind and Vision Impaired for the purpose of providing services to eligible blind and vision impaired individuals.</p><p>1978, c. 143, § 63.1-73.1; 1980, c. 4; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0112'>112</a>; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0498'>498</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

@@ -1,0 +1,3 @@
+# § 10.1-1425.30 Reporting requirements.
+
+<p>Each manufacturer shall publish a report on its publicly accessible website no later than January 31 of each year that includes:</p><p>1. The name and contact information of the representative responsible for the manufacturer's recovery plan;</p><p>2. The weight of computer equipment collected, recycled, and reused during the preceding calendar year; and</p><p>3. Documentation certifying that the collection, recycling, and reuse of computer equipment complies with § <a href='http://law.lis.virginia.gov/vacode/10.1-1425.38/'>10.1-1425.38</a> regarding sound environmental management.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0541'>541</a>.</p>

@@ -1,0 +1,3 @@
+# § 52-8.4:1 Regulations for firearms shows.
+
+<p>The Superintendent of State Police shall provide a form for use by promoters of firearms shows for the purpose of notifying the State Police and the chief of police, or the sheriff in localities without police departments, of their intent to conduct a firearms show pursuant to § <a href='http://law.lis.virginia.gov/vacode/54.1-4201.1/'>54.1-4201.1</a>.</p><p>1993, c. 477.</p>

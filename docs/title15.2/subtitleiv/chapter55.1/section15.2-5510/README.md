@@ -1,0 +1,3 @@
+# § 15.2-5510 Southside Virginia Tourism Development Authority created.
+
+<p>A. There is hereby established a Tourism Development Authority for the West Piedmont and the Southside Planning District Commissions that shall be known as the Southside Virginia Tourism Development Authority. The Authority shall inventory attractions and events and market, promote, expand and develop the tourism industries of these tobacco-producing localities as a whole.</p><p>B. On the local level, the governing body of each county and city shall appoint one member to represent the member's locality on the Southside Virginia Tourism Development Authority.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0791'>791</a>.</p>

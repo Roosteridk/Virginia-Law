@@ -1,0 +1,3 @@
+# § 3.2-1413 Records to be kept by handlers.
+
+<p>Every handler shall keep a complete record of the corn handled by him for a period of not less than three years from the time the corn was handled. Such records shall be open to the inspection of the Tax Commissioner, and shall be established and maintained as required by the Tax Commissioner.</p><p>1980, c. 395, § 3.1-1045; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

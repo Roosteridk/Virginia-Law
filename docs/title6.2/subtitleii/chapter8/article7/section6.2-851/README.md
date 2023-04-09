@@ -1,0 +1,3 @@
+# § 6.2-851 Interstate merger transactions and branching permitted.
+
+<p>Virginia banks may merge with out-of-state banks under this article, and an out-of-state bank resulting from such an interstate merger transaction may maintain and operate the branches in the Commonwealth of a merged Virginia bank, provided the requirements of this article are met.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0301'>301</a>, § 6.1-44.18; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

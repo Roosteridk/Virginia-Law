@@ -1,0 +1,3 @@
+# § 13.1-1284 Application to existing real estate investment trusts and foreign business trusts.
+
+<p>Unless otherwise provided, the provisions of this chapter shall apply to all real estate investment trusts created under former Chapter 9 (§ 6-577 et seq.) of Title 6 and Chapter 9 (§ 6.1-343 et seq.) of Title 6.1 as in effect immediately prior to the effective date of this chapter. The declaration of trust of every such real estate investment trust heretofore organized in this Commonwealth shall be subject to the provisions of this chapter.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0621'>621</a>.</p>

@@ -1,0 +1,3 @@
+# § 19.2-146 Defects in form of recognizance not to defeat action or judgment.
+
+<p>No action or judgment on a recognizance shall be defeated or arrested by reason of any defect in the form of the recognizance, if it appear to have been taken by a court or officer authorized to take it and be substantially sufficient.</p><p>Code 1950, § 19.1-141; 1960, c. 366; 1975, c. 495.</p>

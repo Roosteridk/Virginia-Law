@@ -1,0 +1,3 @@
+# § 32.1-137 Certification of medical care facilities under Title XVIII of Social Security Act.
+
+<p>The Board shall constitute the sole agency of the Commonwealth to enter into contracts with the United States government for the certification of medical care facilities under Title XVIII of the United States Social Security Act and any amendments thereto and with the Virginia Department of Medical Assistance Services for the certification of medical care facilities under Title XIX of the United States Social Security Act and any amendments thereto.</p><p>1979, c. 711; 1989, c. 618.</p>

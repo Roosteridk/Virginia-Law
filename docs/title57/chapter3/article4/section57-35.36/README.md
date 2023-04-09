@@ -1,0 +1,3 @@
+# § 57-35.36 Cemeteries owned by localities; good faith effort required prior to interment.
+
+<p>Notwithstanding the exemptions provided for in § <a href='/vacode/54.1-2312/'>54.1-2312</a>, a cemetery operated by a county or city shall keep accurate records of the ownership of cemetery lots and shall make a good faith effort to ensure, prior to interment, that the ownership of a cemetery lot is vested in the decedent's estate or that permission for the interment has been granted by the person holding such ownership.  This section shall not apply to lots or cemeteries which are dedicated for the burial of indigents.</p><p>1991, c. 614.</p>

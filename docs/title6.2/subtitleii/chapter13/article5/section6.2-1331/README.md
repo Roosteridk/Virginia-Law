@@ -1,0 +1,3 @@
+# § 6.2-1331 Definitions.
+
+<p>As used in this article, unless the context requires a different meaning:</p><p>"Corporation" means a corporation organized in accordance with this article.</p><p>"Member credit union" means a credit union which is a member of the corporation.</p><p>"Shares" means the interest of a member having a savings account in a member credit union.</p><p>1974, c. 587, § 6.1-226.2; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

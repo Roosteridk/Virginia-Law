@@ -1,0 +1,3 @@
+# § 29.1-207 Impeding conservation police officer, etc., in discharge of his duty.
+
+<p>If any person, by threats or force, attempts to intimidate or impede any law-enforcement officer enforcing the game, inland fish and boating laws, he shall be guilty of a Class 2 misdemeanor and shall be subject to arrest by the officer and to the procedures set forth in § <a href='http://law.lis.virginia.gov/vacode/29.1-210/'>29.1-210</a>.</p><p>1974, c. 299, § 29-32.2; 1987, c. 488; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0087'>87</a>.</p>

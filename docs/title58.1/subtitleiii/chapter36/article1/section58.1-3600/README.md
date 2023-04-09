@@ -1,0 +1,3 @@
+# § 58.1-3600 Definitions.
+
+<p>As used in this chapter the word "taxation" shall not be construed to include assessments for local improvements as provided for in Article 2 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-2404/'>15.2-2404</a> et seq.) of Chapter 24 of Title 15.2, Article 2 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-2404/'>15.2-2404</a> et seq.) of Chapter 24 of Title 15.2 or the charter of any city or town.</p><p>Code 1950, § 58-12.1; 1964, c. 470; 1984, c. 675.</p>

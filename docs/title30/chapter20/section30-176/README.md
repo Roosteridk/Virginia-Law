@@ -1,0 +1,3 @@
+# § 30-176 Executive director; staff; compensation.
+
+<p>The Commission may appoint and employ and, at its pleasure, remove an executive director and such other persons as it deems necessary to assist it in carrying out its duties as set forth in this chapter. The Commission may determine the duties of such staff and fix their salaries or compensation within the amounts appropriated therefor.</p><p>1989, c. 189, § 9-295; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

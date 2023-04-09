@@ -1,0 +1,3 @@
+# § 10.1-657 Account established.
+
+<p>An account designated as the Stream Restoration Account shall be established to provide grants to landowners who make requests under the Stream Restoration Assistance Programs. The Board may seek money from federal and private sources to establish and maintain the Stream Restoration Fund.</p><p>1981, c. 450, § 21-11.29; 1988, c. 891.</p>

@@ -1,0 +1,3 @@
+# § 32.1-29 Employment of attorney to defend Board members, employee, etc.
+
+<p>If the Commissioner, any Board member or any officer or employee of the Department is arrested, indicted or otherwise prosecuted on any criminal charge arising out of any act committed in the discharge of his duties as such, the Commissioner may employ an attorney approved by the Attorney General to defend such person. The compensation for such attorney shall, subject to the approval of the Attorney General, be paid out of the funds appropriated for the administration of the Department.</p><p>1979, c. 711.</p>

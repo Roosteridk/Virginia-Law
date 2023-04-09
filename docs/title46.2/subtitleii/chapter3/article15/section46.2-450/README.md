@@ -1,0 +1,3 @@
+# § 46.2-450 Order discharging lien of bond.
+
+<p>On satisfactory proof that the bond filed with the Commissioner as provided for in this chapter has been cancelled and that there are no claims or judgments against the principal in the bond on account of damage to property or injury to or death of any person or persons resulting from the ownership, maintenance, use, or operation of a motor vehicle of the principal caused while the bond was in effect, the court in which the bond was admitted to record may enter an order discharging the lien of the bond on the real estate of the sureties thereon, upon their petition and at their proper cost.</p><p>Code 1950, § 46-471; 1958, c. 541, § 46.1-482; 1989, c. 727.</p>

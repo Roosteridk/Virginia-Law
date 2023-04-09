@@ -1,0 +1,3 @@
+# § 22.1-79.6 Employee lactation support policy.
+
+<p>Each local school board shall adopt a policy to set aside, in each school in the school division, a non-restroom location that is shielded from the public view to be designated as an area in which any mother who is employed by the local school board or enrolled as a student may take breaks of reasonable length during the school day to express milk to feed her child until the child reaches the age of one.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0380'>380</a>.</p>

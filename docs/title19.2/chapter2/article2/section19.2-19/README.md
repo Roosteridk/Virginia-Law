@@ -1,0 +1,3 @@
+# § 19.2-19 Recognizance to keep the peace; when required.
+
+<p>If any person threatens to kill or injure another or to commit violence or injury against his person or property, or to unlawfully trespass upon his property, he shall be required to give a recognizance to keep the peace for such period not to exceed one year as the court hearing the complaint may determine.</p><p>Code 1950, §§ 19.1-26, 19.1-27; 1960, c. 366; 1975, c. 495; 1978, c. 500.</p>

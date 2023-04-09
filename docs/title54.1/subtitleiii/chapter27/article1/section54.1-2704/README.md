@@ -1,0 +1,3 @@
+# § 54.1-2704 Nominations.
+
+<p>Nominations may be made for each professional vacancy from a list of three names submitted to the Governor by the Virginia Dental Association, the Old Dominion State Dental Society, the Virginia Dental Hygienists' Association, and the Commonwealth Dental Hygienists' Society. Further, any licensee of this chapter may submit nominations to the Governor. The Governor shall not be bound to make any appointment from among the nominees.</p><p>Code 1950, § 54-156; 1972, c. 805; 1977, c. 669; 1986, c. 464; 1988, c. 765; 2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0505'>505</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0587'>587</a>.</p>

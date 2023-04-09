@@ -1,0 +1,3 @@
+# § 15.2-6305 Powers and duties of director.
+
+<p>The director shall exercise such of the powers and duties relating to the authority conferred upon the board as may be delegated to him by the board, including powers and duties involving the exercise of discretion. The director shall also exercise and perform such other powers and duties as may be lawfully delegated to him, and such powers and duties as may be conferred or imposed upon him by law.</p><p>Code 1950, § 15-942; 1954, c. 645; 1962, c. 623, § 15.1-1325; 1997, c. 587.</p>

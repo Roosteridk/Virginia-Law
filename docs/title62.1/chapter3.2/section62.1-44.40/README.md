@@ -1,0 +1,3 @@
+# § 62.1-44.40 Governor and General Assembly to be advised; annual report.
+
+<p>The Board shall submit an annual report to the Governor and the General Assembly on or before October 1 of each year on matters relating to the state's water resources policy and the status of the state's water resources, including ground water.</p><p>Code 1950, § 10-17.5; 1966, c. 561; 1972, c. 728; 1984, c. 734; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0650'>650</a>.</p>

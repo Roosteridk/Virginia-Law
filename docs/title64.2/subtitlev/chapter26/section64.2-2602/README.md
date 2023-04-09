@@ -1,0 +1,3 @@
+# § 64.2-2602 Chapter supplemented by other law.
+
+<p>A. Unless displaced by a provision of this chapter, the principles of law and equity supplement this chapter.</p><p>B. This chapter does not limit any right of a person to waive, release, disclaim, or renounce an interest in or power over property under a law other than this chapter.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0253'>253</a>, § 64.1-196.3; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

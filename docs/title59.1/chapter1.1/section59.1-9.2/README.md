@@ -1,0 +1,3 @@
+# § 59.1-9.2 Purpose of chapter.
+
+<p>The purpose of this chapter is to promote the free market system in the economy of this Commonwealth by prohibiting restraints of trade and monopolistic practices that act or tend to act to decrease competition. This chapter shall be construed in accordance with the legislative purpose to implement fully the Commonwealth's police power to regulate commerce.</p><p>1974, c. 545.</p>

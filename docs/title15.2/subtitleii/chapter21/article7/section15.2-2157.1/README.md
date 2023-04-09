@@ -1,0 +1,3 @@
+# § 15.2-2157.1 Permit for onsite sewage disposal system installation in certain counties.
+
+<p>Augusta County may require any person desiring to install a septic tank or other onsite sewage disposal system to secure a permit to do so. A reasonable fee may be prescribed, not to exceed $150, for processing an application for such a permit.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0204'>204</a>; 2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0813'>813</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0880'>880</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0920'>920</a>.</p>

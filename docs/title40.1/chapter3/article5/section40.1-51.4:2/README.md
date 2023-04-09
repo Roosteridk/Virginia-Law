@@ -1,0 +1,3 @@
+# § 40.1-51.4:2 Penalty for making false statements, etc.
+
+<p>Any person who knowingly makes any false statement, representation or certification in any application, record, report, plan, or other document filed or required to be maintained under this title shall upon conviction be punished by a fine of not more than $10,000, or by imprisonment for not more than six months or by both.</p><p>1976, c. 607; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>.</p>

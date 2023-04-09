@@ -1,0 +1,3 @@
+# § 3.2-5619 Commissioner to have concurrent authority with sealers; ordinances in conflict with chapter.
+
+<p>In cities and counties where sealers of weights and measures have been appointed as provided for in this chapter, the Commissioner shall have concurrent authority to enforce the provisions of this chapter. The provisions of this chapter shall be the law throughout the Commonwealth and no city or county shall pass or enforce ordinances in conflict.</p><p>Code 1950, § 3-708.23; 1962, c. 298; 1966, c. 702, § 3.1-941; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

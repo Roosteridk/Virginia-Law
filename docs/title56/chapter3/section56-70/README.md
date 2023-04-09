@@ -1,0 +1,3 @@
+# § 56-70 Accounting for disposition of proceeds of issue of securities.
+
+<p>The Commission shall have the power to require public service companies to account for the disposition of the proceeds of all sales of stocks and stock certificates or other evidences of interest or ownership, and bonds, notes, and other evidences of indebtedness, in such form and detail as it may deem advisable, and to establish such rules and regulations as it may deem reasonable and necessary to insure the disposition of such proceeds for the purpose or purposes specified in its order.</p><p>1934, p. 224; Michie Code 1942, § 4073(9).</p>

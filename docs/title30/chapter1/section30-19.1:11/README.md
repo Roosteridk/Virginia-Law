@@ -1,0 +1,3 @@
+# § 30-19.1:11 Legislation that creates or renews tax credits.
+
+<p>No bill proposing to add a new state tax credit or renew an existing state tax credit shall be reported from any committee of the General Assembly unless such bill contains an expiration date of not longer than five years from the effective date of the new or renewed state tax credit.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0265'>265</a>.</p>

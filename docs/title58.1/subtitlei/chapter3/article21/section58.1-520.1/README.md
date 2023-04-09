@@ -1,0 +1,3 @@
+# § 58.1-520.1 Recovery of administrative costs.
+
+<p>Any county, city or town may collect, in addition to the amount of delinquent debt collected pursuant to the provisions of this article, the administrative costs associated with collection of the debt in an amount not to exceed twenty-five dollars per claim.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0484'>484</a>.</p>

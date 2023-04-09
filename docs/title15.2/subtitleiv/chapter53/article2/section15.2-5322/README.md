@@ -1,0 +1,3 @@
+# § 15.2-5322 In general.
+
+<p>An authority shall constitute a body politic and corporate with perpetual succession, exercising public powers, and having all the powers necessary or convenient to carry out and effectuate the purposes and provisions of this chapter. It may sue and be sued and have a seal with power to alter same at pleasure.</p><p>Code 1950, § 32-236; 1979, c. 719, § 15.1-1555; 1997, c. 587.</p>

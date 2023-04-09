@@ -1,0 +1,3 @@
+# § 15.2-3544 Effect on pending suits.
+
+<p>Any action or proceeding pending by or against any of the consolidated localities may be perfected to judgment as if such consolidation had not taken place, or the consolidated locality, if any, may be substituted.</p><p>Code 1950, § 15-228; 1962, c. 623, § 15.1-1142; 1997, c. 587.</p>

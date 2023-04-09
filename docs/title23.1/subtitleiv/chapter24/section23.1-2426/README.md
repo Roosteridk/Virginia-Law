@@ -1,0 +1,3 @@
+# § 23.1-2426 Chapter liberally construed.
+
+<p>This chapter shall constitute full and complete authority, without regard to the provisions of any other law, for the performance of acts authorized in the chapter and shall be liberally construed to effect the purposes of the chapter. Insofar as the provisions of this chapter are inconsistent with the provisions of any other general, specific, or local law, the provisions of this chapter control.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0905'>905</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP1046'>1046</a>, § 23-50.16:33; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

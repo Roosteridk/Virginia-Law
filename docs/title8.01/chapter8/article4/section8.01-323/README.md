@@ -1,0 +1,3 @@
+# § 8.01-323 In what counties city newspapers deemed published for purpose of legal advertisements.
+
+<p>Any newspaper published in a city adjoining or wholly or partly within the geographical limits of any county shall be deemed to be published in such county or counties as well as in such city, for the purpose of legal advertisements.</p><p>Code 1950, § 8-80; 1977, c. 617.</p>

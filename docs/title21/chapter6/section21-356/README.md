@@ -1,0 +1,3 @@
+# § 21-356 Correction of report.
+
+<p>The board of viewers of each drainage project shall have power to correct errors and modify the details of the final report, if in their judgment they can increase the efficiency of the drainage plan and afford better drainage to the lands in the district without increasing the estimated cost.</p><p>Code 1919, § 1761; 1926, p. 617; 1954, c. 642.</p>

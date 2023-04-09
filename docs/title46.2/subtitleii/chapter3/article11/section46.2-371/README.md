@@ -1,0 +1,3 @@
+# § 46.2-371 Driver to give immediate notice of certain accidents.
+
+<p>The driver of any vehicle involved in any accident resulting in injury to or death of any person, or some person acting for him, shall immediately give notice of the accident to a law-enforcement officer. A willful failure to make the report required in this section shall constitute a Class 4 misdemeanor.</p><p>Code 1950, § 46-397; 1958, c. 541, § 46.1-399; 1989, c. 727.</p>

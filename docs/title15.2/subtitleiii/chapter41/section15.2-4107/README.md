@@ -1,0 +1,3 @@
+# § 15.2-4107 Assistance of state agencies.
+
+<p>The special court may, in its discretion, direct any appropriate state agency, in addition to the Commission on Local Government, to gather and present evidence, including statistical data and exhibits, for the court, to be subject to the usual rules of evidence. The court may determine the actual expense of preparing such evidence and may tax such expense as costs in the case; the costs, if so taxed, shall be paid by the clerk into the general fund of the state treasury, and credited to the agency furnishing the evidence.</p><p>1988, c. 881, § 15.1-965.17; 1997, c. 587.</p>

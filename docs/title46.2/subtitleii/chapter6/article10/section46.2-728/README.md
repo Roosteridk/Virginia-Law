@@ -1,0 +1,3 @@
+# § 46.2-728 Special license plates incorporating the Great Seal of Virginia; fees.
+
+<p>On receipt of an application, the Commissioner shall issue license plates incorporating the Great Seal of Virginia. These license plates shall be valid for whatever period the Commissioner determines.</p><p>For each set of license plates issued under this section the Commissioner shall charge, in addition to the prescribed cost of state license plates, a one-time fee of twenty-five dollars.</p><p>1985, c. 547, § 46.1-105.14; 1987, c. 696; 1989, c. 727.</p>

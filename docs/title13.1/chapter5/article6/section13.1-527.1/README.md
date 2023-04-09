@@ -1,0 +1,3 @@
+# § 13.1-527.1 Division created; duties.
+
+<p>There is hereby created in the office of the Attorney General a Division of Securities Counsel.</p><p>The duties of such Division shall be to provide legal and technical assistance to an attorney for the Commonwealth, in the preparation for a prosecution of and the prosecution of a violation of this title; provided, however, such assistance shall be rendered only upon the request of the attorney for the Commonwealth.</p><p>1974, c. 253.</p>

@@ -1,0 +1,3 @@
+# § 29.1-504 Annual publication of laws and regulations.
+
+<p>All laws relating to hunting, fishing and trapping, together with the regulations of the Board, of both general and local application, shall be published annually by the Department in a handbook or pamphlet. The courts of the Commonwealth shall take judicial notice of all laws and regulations contained in such publication.</p><p>1952, c. 608, § 29-128.1; 1979, c. 264; 1987, c. 488.</p>

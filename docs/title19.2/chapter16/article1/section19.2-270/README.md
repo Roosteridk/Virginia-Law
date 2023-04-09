@@ -1,0 +1,3 @@
+# § 19.2-270 When statement by accused as witness not received as evidence.
+
+<p>In a criminal prosecution, other than for perjury, or in an action on a penal statute, evidence shall not be given against the accused of any statement made by him as a witness upon a legal examination, in a criminal or civil action, unless such statement was made when examined as a witness in his own behalf.</p><p>Code 1950, § 19.1-267; 1960, c. 366; 1975, c. 495; 1988, c. 366.</p>

@@ -1,0 +1,3 @@
+# § 63.2-1959 Department exempt from fees.
+
+<p>No filing or recording fees, court fees, or fees for service of process shall be required from the Department by any clerk, auditor, sheriff or other local officer for the filing of any actions or documents authorized by this chapter or, for the service of any summons or other process in any action or proceeding authorized by this chapter.</p><p>1988, c. 906, § 63.1-274.7; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

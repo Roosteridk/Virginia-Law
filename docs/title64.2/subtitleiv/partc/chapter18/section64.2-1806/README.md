@@ -1,0 +1,3 @@
+# § 64.2-1806 Powers of guardian; transition rule.
+
+<p>The provisions of Chapter 17 (§ <a href='http://law.lis.virginia.gov/vacode/64.2-1700/'>64.2-1700</a> et seq.) and this chapter are applicable to all guardianships, whenever created, except that a guardian who qualifies prior to July 1, 1999, shall have the power to make conveyances of his ward's estate only in accordance with the laws in effect on June 30, 1999, unless the guardian in office on June 30, 1999, has requalified on or after July 1, 1999.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0016'>16</a>, § 31-18.1; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

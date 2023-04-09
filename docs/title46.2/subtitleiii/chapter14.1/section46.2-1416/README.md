@@ -1,0 +1,3 @@
+# § 46.2-1416 Operation at airports.
+
+<p>No peer-to-peer vehicle sharing platform or shared vehicle owner shall conduct any peer-to-peer vehicle sharing on the property of any airport, unless such operation is authorized by the airport owner or operator and is in compliance with the rules and regulations of that airport. An airport may take action against a peer-to-peer vehicle sharing platform or shared vehicle owner that violates any regulation of an airport owner or operator, including suspension or revocation of the peer-to-peer vehicle sharing platform's authority to operate.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1266'>1266</a>.</p>

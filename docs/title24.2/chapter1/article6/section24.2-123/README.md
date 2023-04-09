@@ -1,0 +1,3 @@
+# § 24.2-123 Requirements for registration and voting; prohibition on use of power of attorney.
+
+<p>No action undertaken to fulfill any requirement of this title to register or vote shall be valid or complete when the action is based on the exercise of a power of attorney, or other writing, in which any principal shall have vested any power or authority in an attorney-in-fact or other agent.</p><p>1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0192'>192</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0234'>234</a>.</p>

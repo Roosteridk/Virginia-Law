@@ -1,0 +1,3 @@
+# § 15.2-925.1 Local notifications.
+
+<p>Any locality may by ordinance establish a system to deliver notifications to residents by email, phone, text message or other similar means of communication. Such ordinance shall be adopted only after a public hearing and shall contain an opt-in provision for non-emergency notifications.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0192'>192</a>.</p>

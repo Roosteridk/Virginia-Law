@@ -1,0 +1,3 @@
+# § 42.1-10 Acquisition of books and other library matter.
+
+<p>The Library may from time to time acquire books and other library matter by gift, purchase, exchange or loan. And the Library shall cause to be procured, from time to time, as opportunity may offer, a copy of any book, pamphlet, manuscript, or other library material, relating to the history of Virginia, not now in The Library of Virginia, which can be obtained on reasonable terms.</p><p>Code 1950, § 42-44; 1970, c. 606; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0064'>64</a>.</p>

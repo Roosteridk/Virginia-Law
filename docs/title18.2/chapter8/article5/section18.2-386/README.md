@@ -1,0 +1,3 @@
+# § 18.2-386 Showing previews of certain motion pictures.
+
+<p>It shall be unlawful for any person to exhibit any trailer or preview of any motion picture which has a motion picture industry rating which would not permit persons in the audience viewing the feature motion picture to see the complete motion picture from which the trailer or preview is taken. Persons violating the provisions of this section shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 18.1-246.1; 1970, c. 504; 1975, cc. 14, 15.</p>

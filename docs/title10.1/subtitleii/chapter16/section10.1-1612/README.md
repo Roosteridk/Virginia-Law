@@ -1,0 +1,3 @@
+# § 10.1-1612 Proceedings by bondholder or trustee to enforce rights.
+
+<p>Any holder of bonds issued under the provisions of this chapter or any of the applicable coupons, and the trustee under any trust agreement, except to the extent the rights herein given may be restricted by the trust agreement or the resolution authorizing the issuance of such bonds, may protect and enforce rights under the laws of the Commonwealth or under the trust agreement or resolution, and may enforce all duties required by this chapter or by the trust agreement or resolution to be performed by the Authority or by any officer thereof, including the fixing, charging, and collecting of rates, rentals, and other charges.</p><p>1986, c. 360, § 10-158.9; 1988, c. 891.</p>

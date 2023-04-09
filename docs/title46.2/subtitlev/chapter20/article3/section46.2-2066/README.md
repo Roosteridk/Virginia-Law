@@ -1,0 +1,3 @@
+# § 46.2-2066 Penalty for violation of provisions of article or regulations.
+
+<p>Every owner or operator of a motor vehicle used as a vehicle for the transportation of persons for a consideration on any highway, street, road, lane or alley in any county, city or town who violates any of the provisions of this article or regulations of a governing body made pursuant to this chapter shall be guilty of a misdemeanor and upon conviction thereof be fined not more than $100 for the first offense and not more than $500 for each subsequent offense.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

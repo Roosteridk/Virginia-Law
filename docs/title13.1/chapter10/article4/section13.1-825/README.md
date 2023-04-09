@@ -1,0 +1,3 @@
+# § 13.1-825 Purposes.
+
+<p>Every corporation incorporated under this Act has the purpose of engaging in any lawful activity, unless:</p><p>1. A statute requires the corporation to issue shares or one of the purposes of the corporation is to conduct the business of a public service company other than a sewer company; or</p><p>2. A more limited purpose is (i) set forth in the articles of incorporation or (ii) required to be set forth in the articles of incorporation by any other law of the Commonwealth.</p><p>Code 1950, § 13.1-204; 1956, c. 428; 1958, c. 564; 1960, c. 296; 1971, Ex. Sess., c. 98; 1985, c. 522; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0925'>925</a>.</p>

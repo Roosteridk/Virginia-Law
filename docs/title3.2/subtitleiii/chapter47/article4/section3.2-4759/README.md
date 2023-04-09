@@ -1,0 +1,3 @@
+# § 3.2-4759 Records to be kept by dealers.
+
+<p>A. Every grain dealer in the Commonwealth shall keep such records of grain transactions for such reasonable periods of time and in accordance with good business practices as may be required by the Board.</p><p>B. Written agreements, in addition to such other information as may be required, shall contain the following:</p><p>1. The seller's name and address;</p><p>2. The conditions of delivery;</p><p>3. The amount and kind of grain delivered;</p><p>4. The price per bushel or basis of value; and</p><p>5. The date payment is to be made.</p><p>1972, c. 296, § 3.1-722.23; 1982, c. 187; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

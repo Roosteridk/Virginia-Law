@@ -1,0 +1,3 @@
+# § 46.2-1101 Limitations applicable throughout Commonwealth; alteration by local authorities.
+
+<p>The maximum size and weight of vehicles specified in Articles 14 through 17 (§ <a href='http://law.lis.virginia.gov/vacode/46.2-1101/'>46.2-1101</a> et seq.) of this chapter shall apply throughout the Commonwealth. Local authorities shall not alter such limitations except as expressly authorized in this title.</p><p>Code 1950, § 46-325; 1958, c. 541, § 46.1-327; 1989, c. 727.</p>

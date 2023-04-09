@@ -1,0 +1,3 @@
+# § 46.2-702.2 Fees for registration of vehicles specially equipped to accommodate persons with disabilities.
+
+<p>In determining the fee to be charged for registration of any vehicle specially equipped to be driven by or to transport persons with disabilities, the weight of the vehicle upon which such fee is based shall be the weight of the vehicle prior to the installation of such special equipment for the accommodation of persons with disabilities.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0130'>130</a>.</p>

@@ -1,0 +1,3 @@
+# § 58.1-3113 Returns of intangible personal property forwarded to Department.
+
+<p>All returns which are used for the assessment of intangible personal property shall be transmitted by the commissioner of the revenue to the Department of Taxation at its office in Richmond, after the commissioner of the revenue has recorded the assessments on such property in his assessment books.</p><p>Code 1950, § 58-878; 1956, c. 69; 1984, c. 675.</p>

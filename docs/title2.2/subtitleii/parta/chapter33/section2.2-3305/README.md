@@ -1,0 +1,3 @@
+# § 2.2-3305 Commonwealth Day of Prayer.
+
+<p>The first Thursday in May of each year shall be designated the "Commonwealth Day of Prayer" and shall be a day on which the people of the Commonwealth may turn to God in prayer and meditation and may celebrate the religious freedom secured for them by the laws of the Commonwealth and nation.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0388'>388</a>, § 2.1-24.2; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

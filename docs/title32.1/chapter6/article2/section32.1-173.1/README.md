@@ -1,0 +1,3 @@
+# § 32.1-173.1 Increase in charges to finance required changes.
+
+<p>Any owner required to make any change, alteration or improvement in its waterworks or water supply may increase its charges for water to finance or defray the cost of such change, alteration or improvement and any extra costs incident to the maintenance and operation thereof.</p><p>Code 1950, § 62.1-53; 1964, c. 475; 1968, c. 659; 1977, c. 7; 1979, c. 711.</p>

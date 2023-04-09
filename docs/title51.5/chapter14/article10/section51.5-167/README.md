@@ -1,0 +1,3 @@
+# § 51.5-167 Participation by clients in cost of services.
+
+<p>The Commissioner shall establish written standards for determining the extent to which a client shall be financially responsible for the cost of services funded in whole or in part by the Department. Each public or private agency awarded a grant or contract in accordance with § <a href='http://law.lis.virginia.gov/vacode/51.5-161/'>51.5-161</a> shall utilize the Commissioner's regulations to maximize the financial participation of persons receiving services.</p><p>1985, c. 421, §§ 51.01-28, 51.5-28; 1987, c. 50; 1992, c. 755; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

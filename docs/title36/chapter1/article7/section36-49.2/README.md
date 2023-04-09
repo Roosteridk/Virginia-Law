@@ -1,0 +1,3 @@
+# § 36-49.2 Power to purchase or lease land for certain other redevelopment projects.
+
+<p>In addition to the other powers to acquire real property by purchase or lease, an authority is specifically empowered to purchase or lease real property for immediate or future use, without the exercise of the power of eminent domain, for improvement and development for sale, lease, or sublease as industrial sites, scientific research laboratory sites, educational institution sites or sites for housing persons displaced from other lands of the authority.</p><p>1964, Ex. Sess., c. 16.</p>

@@ -1,0 +1,3 @@
+# § 44-81 Length of service when called out.
+
+<p>The National Guard, the Virginia Defense Force, or the unorganized militia, when called into service by the Governor, shall serve for such time as, in the Governor's judgment, may be necessary.</p><p>1930, p. 963; Michie Code 1942, § 2673(67); 1958, c. 393; 1989, c. 414; 1993, c. 112; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0572'>572</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0586'>586</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0221'>221</a>.</p>

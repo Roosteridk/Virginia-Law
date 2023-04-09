@@ -1,0 +1,3 @@
+# § 58.1-1725 Levy of tax.
+
+<p>When the seal of the Commonwealth is affixed to any paper, except in the cases exempted by law, the tax shall be two dollars, which shall be paid to the Secretary of the Commonwealth or his successor.</p><p>Code 1950, § 58-52; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 3.2-6543.1 Authority to enact parallel dangerous dog ordinance.
+
+<p>The governing body of any locality may enact an ordinance regulating dangerous dogs that is parallel to § <a href='/vacode/3.2-6540/'>3.2-6540</a>, <a href='/vacode/3.2-6540.01/'>3.2-6540.01</a>, <a href='/vacode/3.2-6540.02/'>3.2-6540.02</a>, <a href='/vacode/3.2-6540.03/'>3.2-6540.03</a>, or <a href='/vacode/3.2-6540.04/'>3.2-6540.04</a>. No locality shall impose a felony penalty for violation of such ordinance.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0464'>464</a>.</p>

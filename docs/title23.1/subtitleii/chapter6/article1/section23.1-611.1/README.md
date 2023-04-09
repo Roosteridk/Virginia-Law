@@ -1,0 +1,3 @@
+# § 23.1-611.1 Financial aid award notification.
+
+<p>Any comprehensive financial aid award notification provided to a student by a public institution of higher education or private institution of higher education shall meet the requirements and best practices established by the Council in its Financial Aid Award Letters Policies and Guidance.</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0571'>571</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0572'>572</a>.</p>

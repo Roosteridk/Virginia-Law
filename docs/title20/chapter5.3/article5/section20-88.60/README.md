@@ -1,0 +1,3 @@
+# § 20-88.60 Communications between tribunals.
+
+<p>A tribunal of the Commonwealth may communicate with a tribunal outside the Commonwealth in a record, or by telephone, electronic mail, or other means, to obtain information concerning the laws, the legal effect of a judgment, decree, or order of that tribunal; and the status of a proceeding. A tribunal of the Commonwealth may furnish similar information by similar means to a tribunal outside the Commonwealth.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0673'>673</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0754'>754</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0727'>727</a>.</p>

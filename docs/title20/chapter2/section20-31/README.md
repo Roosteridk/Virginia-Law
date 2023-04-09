@@ -1,0 +1,3 @@
+# § 20-31 Belief of parties in lawful marriage validates certain defects.
+
+<p>No marriage solemnized under a license issued in this Commonwealth by any person professing to be authorized to solemnize the same shall be deemed or adjudged to be void, nor shall the validity thereof be in any way affected on account of any want of authority in such person, or any defect, omission or imperfection in such license, if the marriage be in all other respects lawful, and be consummated with a full belief on the part of the persons so married, or either of them, that they have been lawfully joined in marriage.</p><p>Code 1919, § 5082.</p>

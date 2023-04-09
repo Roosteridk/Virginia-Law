@@ -1,0 +1,3 @@
+# § 59.1-586 Definitions.
+
+<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Food delivery platform" means a person that operates a mobile application or other online service to act as an intermediary between consumers and multiple restaurants to submit food orders on behalf of a consumer to a participating restaurant and to arrange for the delivery of the order from the restaurant to the consumer.</p><p>"Restaurant" has the same meaning as provided in § <a href='/vacode/35.1-1/'>35.1-1</a> and excludes establishments listed in § <a href='/vacode/35.1-25/'>35.1-25</a>.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0485'>485</a>.</p>

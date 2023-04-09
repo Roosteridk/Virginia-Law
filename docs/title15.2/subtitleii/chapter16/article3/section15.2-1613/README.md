@@ -1,0 +1,3 @@
+# § 15.2-1613 Operation of sheriff's office.
+
+<p>Any county or city may appropriate funds for the operation of the sheriff's office.</p><p>In addition to those items listed in § <a href='http://law.lis.virginia.gov/vacode/15.2-1615.1/'>15.2-1615.1</a>, counties and cities shall provide at their expense in accordance with standards set forth in § <a href='http://law.lis.virginia.gov/vacode/15.2-1610/'>15.2-1610</a> a reasonable number of uniforms and items of personal equipment required by the sheriff to carry out his official duties.</p><p>1986, c. 139, § 15.1-137.3; 1990, c. 68; 1997, c. 587.</p>

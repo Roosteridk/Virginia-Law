@@ -1,0 +1,3 @@
+# § 64.2-1205 Commissioners of accounts to inspect and file inventories with clerks.
+
+<p>The commissioner shall inspect all inventories returned to him by fiduciaries and see that they are in proper form. Within 10 days after any inventory is received and approved by the commissioner of accounts, he shall deliver the inventory to the clerk of the circuit court to be recorded as required by law.</p><p>Code 1919, § 5403; 1932, p. 337; Code 1950, § 26-14; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

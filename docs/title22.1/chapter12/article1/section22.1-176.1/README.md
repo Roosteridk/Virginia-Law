@@ -1,0 +1,3 @@
+# § 22.1-176.1 Agreements to provide transportation for nonpublic school pupils.
+
+<p>Local school boards may enter into agreements with nonpublic schools within the school division to provide student transportation to and from such schools and school field trips under such terms and conditions as the local school boards deem appropriate and responsible. Such terms may include arrangements relating to cost-sharing, fees, insurance, and liability.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0476'>476</a>; 2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0057'>57</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0145'>145</a>.</p>

@@ -1,0 +1,3 @@
+# § 24.2-225 Applicability.
+
+<p>This article applies to vacancies in any elected constitutional or local office if there is no other statutory or charter provision for filling a vacancy in the office. Further provisions within this article which specifically override other statutory or charter provisions shall prevail.</p><p>Code 1950, § 24-145; 1958, c. 621; 1970, c. 462, § 24.1-76; 1975, c. 515; 1976, c. 616; 1977, c. 490; 1984, c. 480; 1993, c. 641.</p>

@@ -1,0 +1,3 @@
+# § 6.2-833 Bank agent for depository institution.
+
+<p>A bank may act as the agent of any other depository institution in receiving deposits and providing other services without being deemed a branch of such other depository institution.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0301'>301</a>, § 6.1-39.5; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0024'>24</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

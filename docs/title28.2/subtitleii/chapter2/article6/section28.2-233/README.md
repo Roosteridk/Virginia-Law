@@ -1,0 +1,3 @@
+# § 28.2-233 License tags or identification generally.
+
+<p>The Commission shall provide metal license tags or identification numbers to licensees in a form and manner prescribed by the Commission.</p><p>Code 1950, § 28-76; 1962, c. 406, §§ 28.1-73, 28.1-74; 1966, c. 684; 1992, c. 836.</p>

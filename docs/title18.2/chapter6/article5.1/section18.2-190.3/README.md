@@ -1,0 +1,3 @@
+# § 18.2-190.3 Sale of an unlawful electronic communication device; penalty.
+
+<p>A person who (i) knowingly sells an unlawful electronic communication device or (ii) sells material, including hardware, data, computer software or other information or equipment, knowing, or having reason to know, that the purchaser or a third person intends to use such material in the manufacture of an unlawful electronic communication device, shall be guilty of a Class 6 felony.</p><p>1993, c. 439; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0518'>518</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0671'>671</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0354'>354</a>.</p>

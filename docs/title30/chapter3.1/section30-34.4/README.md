@@ -1,0 +1,3 @@
+# § 30-34.4 Copies of bills, calendars, etc., to be furnished on application.
+
+<p>The Commission shall furnish to such persons, firms, or corporations as may apply therefor, copies of each bill, resolution and document printed for the House of Delegates and the Senate, as well as the calendar of each house. The Commission may limit the number of such copies furnished to any person, firm or corporation.</p><p>1980, c. 687.</p>

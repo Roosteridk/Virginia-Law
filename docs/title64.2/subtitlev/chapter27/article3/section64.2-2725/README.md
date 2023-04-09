@@ -1,0 +1,3 @@
+# § 64.2-2725 Appointment to taker in default.
+
+<p>If a powerholder makes an appointment to a taker in default of appointment and the appointee would have taken the property under a gift-in-default clause had the property not been appointed, the power of appointment is deemed not to have been exercised and the appointee takes under the clause.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

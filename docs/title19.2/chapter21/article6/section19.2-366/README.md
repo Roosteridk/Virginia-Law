@@ -1,0 +1,3 @@
+# § 19.2-366 Duty of court in which petition filed; certificate and opinion.
+
+<p>The court wherein such petition is filed shall hear all such testimony as may be offered, either by the petitioner or attorney for the Commonwealth, and after the evidence has been heard shall cause to be made out by the clerk of the court a certificate of the facts proved, and file with the same an opinion, in writing, as to the propriety of granting the relief prayed for.</p><p>Code 1950, § 19.1-355; 1960, c. 366; 1975, c. 495.</p>

@@ -1,0 +1,3 @@
+# § 24.2-464 Confirmation of receipt of application and voted ballot.
+
+<p>The Commissioner, in coordination with local election officials, shall implement a free-access system by which a covered voter may determine whether:</p><p>1. The voter's federal postcard application or other registration or military-overseas ballot application has been received and accepted; and</p><p>2. The voter's military-overseas ballot has been received and the current status of the ballot.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0353'>353</a>; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0542'>542</a>.</p>

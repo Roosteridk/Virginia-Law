@@ -1,0 +1,3 @@
+# § 6.2-910 Reduction of fees.
+
+<p>If the Commission is of the opinion that the amounts of the several charges and fees set forth in § <a href='http://law.lis.virginia.gov/vacode/6.2-908/'>6.2-908</a> will produce more revenue than is required to cover the costs and expenses to be paid from such charges and fees, the Commission, in its discretion, may reduce on a pro rata basis the amount of such charges and fees.</p><p>Code 1950, § 6-124; 1966, c. 584, § 6.1-96; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

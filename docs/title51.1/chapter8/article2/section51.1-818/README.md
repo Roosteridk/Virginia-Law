@@ -1,0 +1,3 @@
+# § 51.1-818 Funds for payment of pensions and benefits.
+
+<p>Any and all cash assets and funds not necessary for immediate payment of pensions or benefits shall be invested in securities that are legal investments under the laws of the Commonwealth for public sinking funds. Any funds raised by any police officers' pension and retirement board for the payment of pensions and benefits shall be paid over to the treasurer of such board who shall deposit and pay the funds as provided in this section to the credit of the board.</p><p>1940, p. 739; Michie Code 1942, § 3035n; Code 1950, § 51-125; 1956, c. 184; 1990, c. 832.</p>

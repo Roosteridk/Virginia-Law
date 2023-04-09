@@ -1,0 +1,3 @@
+# § 38.2-4926 Waivers.
+
+<p>No act, agreement, or statement of any resident or participant or by an individual purchasing care for a resident or participant under any agreement to furnish care to the resident or participant shall constitute a valid waiver of any provision of this chapter intended for the benefit or protection of the resident or participant or the individual purchasing care for the resident or participant.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0208'>208</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0303'>303</a>.</p>

@@ -1,0 +1,3 @@
+# § 54.1-109 Reviews and appeals.
+
+<p>Any person who has been aggrieved by any action of the Department of Professional and Occupational Regulation, Department of Health Professions, Board for Professional and Occupational Regulation, Board of Health Professions, any regulatory board within the Departments or any panel of a health regulatory board convened pursuant to § <a href='http://law.lis.virginia.gov/vacode/54.1-2400/'>54.1-2400</a> shall be entitled to a review of such action. Appeals from such actions shall be in accordance with the provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>1979, c. 408, § 54-1.19; 1988, c. 765; 1992, c. 659; 1993, c. 499.</p>

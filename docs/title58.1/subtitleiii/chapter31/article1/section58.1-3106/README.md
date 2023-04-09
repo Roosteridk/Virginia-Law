@@ -1,0 +1,3 @@
+# § 58.1-3106 How compensation of commissioners paid; when compensation withheld.
+
+<p>A. All compensation payable to a commissioner of the revenue shall be paid pursuant to § <a href='http://law.lis.virginia.gov/vacode/15.2-1636.13/'>15.2-1636.13</a>.</p><p>B. The compensation allowed to a commissioner shall not be paid unless he has punctually performed his duties in reference to the assessment of property and licenses and has made all reports required within the time prescribed by law or can show to the satisfaction of the Department of Taxation a sufficient reason for his delay.</p><p>Code 1950, §§ 58-890, 58-891; 1984, c. 675.</p>

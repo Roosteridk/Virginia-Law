@@ -1,0 +1,3 @@
+# § 23.1-3013 Taxation.
+
+<p>A. The Medical School is not required to pay any taxes or assessments upon any project acquired and constructed by the Medical School under the provisions of this chapter.</p><p>B. The bonds issued under the provisions of this chapter, their transfer, the income from such bonds, and the income from the transfer of such bonds, including any profit made on the sale of such bonds, are exempt from taxation by the Commonwealth and any political subdivision of the Commonwealth.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

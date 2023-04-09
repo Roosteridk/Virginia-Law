@@ -1,0 +1,3 @@
+# § 23.1-2414 Leases of property.
+
+<p>Leases of real property that the Authority enters into are exempt from the provisions of § <a href='http://law.lis.virginia.gov/vacode/2.2-1149/'>2.2-1149</a> and from any policies, regulations, and guidelines of the Division of Engineering and Buildings.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0905'>905</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP1046'>1046</a>, § 23-50.16:19; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

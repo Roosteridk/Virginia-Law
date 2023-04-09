@@ -1,0 +1,3 @@
+# § 51.1-201 Definitions.
+
+<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Employee" means a state police officer.</p><p>"Member" means any person included in the membership of the retirement system as provided in this chapter.</p><p>"Normal retirement date" means a member's sixtieth birthday.</p><p>"Retirement system" means the State Police Officers' Retirement System.</p><p>1966, c. 628, § 51-144; 1972, c. 568; 1973, c. 523; 1974, c. 353; 1975, c. 597; 1984, c. 430; 1990, c. 832.</p>

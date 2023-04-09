@@ -1,0 +1,3 @@
+# § 29.1-702.1 Making false affidavit or swearing falsely, perjury; penalty.
+
+<p>Any person who knowingly makes any false affidavit or knowingly swears to or affirms falsely any matter or thing required by this chapter or Chapter 8 (§ <a href='http://law.lis.virginia.gov/vacode/29.1-800/'>29.1-800</a> et seq.) of this title or by the Director incidental to his administration of the boating laws shall, upon conviction, be guilty of perjury.</p><p>1990, c. 321.</p>

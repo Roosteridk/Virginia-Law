@@ -1,0 +1,3 @@
+# § 46.2-1602.2 Exemptions.
+
+<p>A repairable vehicle, as defined in § <a href='http://law.lis.virginia.gov/vacode/46.2-1600/'>46.2-1600</a>, shall be exempt from the remaining provisions of this chapter, provided that the insurance company responsible for repair (i) notifies the Department of each late model vehicle declared repairable, and that (ii) upon discovery by the Department that such vehicle was incorrectly designated as a repairable vehicle, the Department may require that vehicle's certificate status be corrected.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0064'>64</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0280'>280</a>.</p>

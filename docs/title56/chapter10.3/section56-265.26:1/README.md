@@ -1,0 +1,3 @@
+# § 56-265.26:1 Utility line depth requirement.
+
+<p>Every operator having the right to install underground utility lines shall install such underground utility lines at depths required by accepted industry standards. Such standards shall include, as applicable, standards established by the National Electrical Safety Code, Bellcore Blue Book-Manual of Construction&nbsp;Procedures, the Commission's pipeline safety regulations, the Department of Health's waterworks regulations, and the depth standards of the Virginia Cable Telecommunications Association, which shall be established in consultation with the State Corporation Commission no later than July 1, 2002.</p><p>2002, c. <a href="http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0841">841</a>.</p>

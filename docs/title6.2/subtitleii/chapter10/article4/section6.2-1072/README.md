@@ -1,0 +1,3 @@
+# § 6.2-1072 Enforcement.
+
+<p>If the Commission determines that there is any violation of any applicable law or regulation in the operation of an out-of-state trust institution engaged in business in this state or that a trust office of such an institution in this state is being operated in an unsafe and unsound manner, the Commission shall have authority to undertake such enforcement actions as it would be permitted to take if the office were a Virginia state bank or state trust company.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0835'>835</a>, § 6.1-32.41; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

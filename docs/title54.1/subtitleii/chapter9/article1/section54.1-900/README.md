@@ -1,0 +1,3 @@
+# § 54.1-900 Definitions.
+
+<p>For the purposes of this chapter, unless the context requires a different meaning:</p><p>"Board" means the Board for Branch Pilots.</p><p>"Branch pilots" means pilots who have qualified and been licensed in accordance with the provisions of § <a href='http://law.lis.virginia.gov/vacode/54.1-905/'>54.1-905</a>.</p><p>"Limited branch pilots" means pilots who have qualified and been licensed in accordance with the provisions of § <a href='http://law.lis.virginia.gov/vacode/54.1-909/'>54.1-909</a>.</p><p>"Pilot" means branch pilot and limited branch pilot.</p><p>Code 1950, § 54-525; 1988, c. 765.</p>

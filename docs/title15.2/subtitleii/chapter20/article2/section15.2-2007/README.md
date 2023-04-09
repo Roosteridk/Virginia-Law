@@ -1,0 +1,3 @@
+# § 15.2-2007 Fee for processing application under § 15.2-2006.
+
+<p>The governing body of any locality may prescribe and charge a reasonable fee not exceeding $100 for processing an application pursuant to § <a href='http://law.lis.virginia.gov/vacode/15.2-2006/'>15.2-2006</a>.</p><p>1970, c. 161, § 15.1-364.1; 1976, c. 183; 1979, c. 208; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 32.1-162.11 Liability insurance required.
+
+<p>Every licensed home care organization shall obtain and maintain a liability insurance policy and third-party crime insurance policy or blanket fidelity bond in accordance with regulations of the Board. Such insurance policy or bond shall provide coverage in an amount sufficient to compensate patients or individuals for injuries and losses resulting from the negligent or criminal acts of the licensee. Failure to maintain these requirements shall result in revocation of the home care organization's license.</p><p>1986, c. 633; 1991, c. 695; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0184'>184</a>.</p>

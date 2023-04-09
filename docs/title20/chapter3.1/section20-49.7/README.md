@@ -1,0 +1,3 @@
+# § 20-49.7 Civil actions.
+
+<p>An action brought under this chapter is a civil action. The natural parent and the alleged parent are competent to testify. Testimony of a physician concerning the medical circumstances of the pregnancy and the condition and characteristics of the child upon birth shall not be privileged. Bills for expenses incurred for pregnancy, childbirth and genetic testing shall be admissible as prima facie evidence of the facts stated therein, without requiring third-party foundation testimony if the party offering such evidence is under oath.</p><p>1988, cc. 866, 878; 1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0792'>792</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0896'>896</a>.</p>

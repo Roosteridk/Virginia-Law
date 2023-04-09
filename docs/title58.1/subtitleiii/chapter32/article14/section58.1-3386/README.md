@@ -1,0 +1,3 @@
+# § 58.1-3386 Power of boards to send for persons and papers.
+
+<p>Such board shall have authority to summon taxpayers or their agents, or any person: (1) to furnish information relating to the real estate of any and all taxpayers, (2) to answer, under oath, all questions touching the ownership and value of real estate of any and all taxpayers, and (3) to bring before it their books of account or other papers and records containing information with respect to the valuation of real estate of the taxpayer or any other real estate subject to taxation within the county or city under review by the board. Such summons may be served in person or by registered mail.</p><p>Code 1950, § 58-911; 1984, c. 675.</p>

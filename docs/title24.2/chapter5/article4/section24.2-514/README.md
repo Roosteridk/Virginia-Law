@@ -1,0 +1,3 @@
+# § 24.2-514 To what nominations this article applies.
+
+<p>This article shall apply to the nomination of candidates for offices by a direct primary held on the regular dates established in § <a href='http://law.lis.virginia.gov/vacode/24.2-515/'>24.2-515</a> for the conduct of primaries, and to no other nominations.</p><p>A primary is not authorized under this article to nominate presidential electors, nor to nominate candidates to fill vacancies unless the candidates for nomination to fill vacancies are to be voted for on the regular date set by this article for primaries.</p><p>Code 1950, §§ 24-348, 24-361; 1970, c. 462, § 24.1-171; 1993, c. 641.</p>

@@ -1,0 +1,3 @@
+# § 8.7-603 Conflicting claims; interpleader.
+
+<p>If more than one person claims title or possession of the goods, the bailee is excused from delivery until he has had a reasonable time to ascertain the validity of the adverse claims or to bring an action for interpleader. The bailee may assert an interpleader either in defending an action for nondelivery of the goods or by original action.</p><p>Code 1950, §§ 61-19, 61-20; 1964, c. 219; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0200'>200</a>.</p>

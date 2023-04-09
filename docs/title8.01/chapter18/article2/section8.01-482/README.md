@@ -1,0 +1,3 @@
+# § 8.01-482 If levy be on coin or currency, how accounted for.
+
+<p>If the levy be on coin or currency (including notes) made a legal tender for the payment of debts, the same shall be accounted for at its par value as so much money made under the execution. If it be upon coin or currency (including notes) not a legal tender for the payment of debts, and the creditor will not take them at their nominal value, they shall be sold and accounted for as any other property taken under execution.</p><p>Code 1950, § 8-415; 1977, c. 617.</p>

@@ -1,0 +1,3 @@
+# § 8.01-247 When action on contract governed by the law of another state or country barred in Virginia.
+
+<p>No action shall be maintained on any contract which is governed by the law of another state or country if the right of action thereon is barred either by the laws of such state or country or of this Commonwealth.</p><p>Code 1950, § 8-23; 1977, c. 617.</p>

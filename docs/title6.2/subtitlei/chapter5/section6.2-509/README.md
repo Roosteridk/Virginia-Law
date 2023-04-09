@@ -1,0 +1,3 @@
+# § 6.2-509 Public to be informed of rights under chapter.
+
+<p>The Commission shall use any methods available to it to inform the public of the rights created by this chapter. Notice given pursuant to the federal Equal Credit Opportunity Act, (15 U.S.C. § 1691 et seq.), and regulations promulgated thereto, shall satisfy the requirements of this section.</p><p>1977, c. 589, § 59.1-21.25; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

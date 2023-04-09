@@ -1,0 +1,3 @@
+# § 17.1-515.4 Designation of certain courtrooms within sixteenth circuit for trial of certain cases.
+
+<p>When it appears to one or more of the judges of the sixteenth judicial circuit that such use is appropriate, the courthouse of the Circuit Court of Albemarle County may be used for the trial of civil or criminal cases whose venue is laid in the City of Charlottesville, or the courthouse of the Circuit Court of the City of Charlottesville may be used for the trial of civil or criminal cases whose venue is laid in the County of Albemarle; provided, that in criminal cases, jurors summoned to appear at any such courtroom shall reside in the vicinage of which the crime is laid.</p><p>1978, c. 61, § 17-126.4.</p>

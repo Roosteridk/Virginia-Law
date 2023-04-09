@@ -1,0 +1,3 @@
+# § 4.1-413 Retaliatory action prohibited.
+
+<p>A winery shall not take retaliatory action against a wholesaler who files or manifests an intention to file a complaint of alleged violation of state or federal law or regulation by the winery with the appropriate state or federal regulatory or judicial authority. Retaliatory action shall include, but is not limited to, refusal without good cause to continue the agreement, or a material reduction in the amount and quality of services or quality of products available to the wholesaler under the agreement.</p><p>Code 1950, § 4-118.34; 1985, c. 542, § 4-118.54; 1989, c. 10; 1993, c. 866.</p>

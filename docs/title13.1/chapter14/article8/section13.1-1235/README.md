@@ -1,0 +1,3 @@
+# § 13.1-1235 Judicial dissolution.
+
+<p>A. On application by or for a beneficial owner, the circuit court of the city or county in which the registered office of the business trust is located may decree dissolution of a business trust if it is not reasonably practicable to carry on the business in conformity with the articles of trust and any governing instrument.</p><p>B. When the winding up of the affairs of the business trust has been completed, the court shall so advise the Commission, which shall enter an order of cancellation of the business trust's existence.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0621'>621</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0101'>101</a>.</p>

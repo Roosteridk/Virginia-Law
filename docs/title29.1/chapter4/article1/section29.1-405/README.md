@@ -1,0 +1,3 @@
+# § 29.1-405 Reports of permittees.
+
+<p>The Director may require each permit holder to submit, within ten days after the end of each fiscal year, a detailed activities report in a form as the Director may prescribe.</p><p>Code 1950, § 29-100; 1980, c. 494; 1987, c. 488.</p>

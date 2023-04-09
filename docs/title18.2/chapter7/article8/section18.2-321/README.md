@@ -1,0 +1,3 @@
+# § 18.2-321 Using X ray, fluoroscope, etc., in the fitting of footwear.
+
+<p>It shall be unlawful for any person to use any X ray, fluoroscope, or other equipment or apparatus employing roentgen rays, in the fitting of shoes or other footwear. This section shall not apply to any licensed physician or surgeon in the practice of his profession. Any person violating the provisions of this section shall be guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 18.1-416; 1960, c. 358; 1975, cc. 14, 15.</p>

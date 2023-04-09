@@ -1,0 +1,3 @@
+# § 8.2-315 Implied warranty: Fitness for particular purpose.
+
+<p>Where the seller at the time of contracting has reason to know any particular purpose for which the goods are required and that the buyer is relying on the seller's skill or judgment to select or furnish suitable goods, there is unless excluded or modified under the next section [§ <a href='http://law.lis.virginia.gov/vacode/8.2-316/'>8.2-316</a>] an implied warranty that the goods shall be fit for such purpose.</p><p>1964, c. 219.</p>

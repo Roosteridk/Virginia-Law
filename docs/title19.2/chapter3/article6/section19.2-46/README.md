@@ -1,0 +1,3 @@
+# § 19.2-46 Compensation.
+
+<p>The salaries of all magistrates shall be fixed and paid as provided in § <a href='http://law.lis.virginia.gov/vacode/19.2-46.1/'>19.2-46.1</a>. The salaries referred to herein shall be in lieu of all fees which may accrue to the recipient by virtue of his office.</p><p>Code 1950, § 19.1-395; 1973, c. 545; 1974, c. 484; 1975, c. 495; 1980, c. 139; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0551'>551</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0691'>691</a>.</p>

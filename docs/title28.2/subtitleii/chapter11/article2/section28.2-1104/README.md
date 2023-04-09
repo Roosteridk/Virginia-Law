@@ -1,0 +1,3 @@
+# § 28.2-1104 Coordination.
+
+<p>A. To the extent feasible, this system shall be carried out in coordination with the National Estuarine Research Reserve System established by 16 U.S.C. § 1461.</p><p>B. To the extent feasible, lands within the Virginia Estuarine and Coastal Research Reserve System shall be dedicated as part of the Commonwealth's natural area preserves components pursuant to § <a href='http://law.lis.virginia.gov/vacode/10.1-213/'>10.1-213</a>.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0553'>553</a>.</p>

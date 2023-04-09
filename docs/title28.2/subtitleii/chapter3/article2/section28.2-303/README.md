@@ -1,0 +1,3 @@
+# § 28.2-303 Taking and sale of sturgeon prohibited; penalty.
+
+<p>Except as otherwise provided by regulation, it shall be unlawful for any person to take, catch or possess any sturgeon. Any sturgeon caught by any person shall be immediately returned to the water.</p><p>It shall be unlawful for any dealer or wholesaler of fish for human consumption to buy from others or to otherwise possess for purposes of resale any sturgeon.</p><p>A violation of this section is a Class 1 misdemeanor.</p><p>1970, c. 629, § 28.1-49.1; 1981, c. 579; 1984, c. 13; 1985, cc. 546, 615; 1992, c. 836.</p>

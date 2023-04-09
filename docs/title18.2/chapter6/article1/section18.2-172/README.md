@@ -1,0 +1,3 @@
+# § 18.2-172 Forging, uttering, etc., other writings.
+
+<p>If any person forge any writing, other than such as is mentioned in §§ <a href='http://law.lis.virginia.gov/vacode/18.2-168/'>18.2-168</a> and <a href='http://law.lis.virginia.gov/vacode/18.2-170/'>18.2-170</a>, to the prejudice of another's right, or utter, or attempt to employ as true, such forged writing, knowing it to be forged, he shall be guilty of a Class 5 felony. Any person who shall obtain, by any false pretense or token, the signature of another person, to any such writing, with intent to defraud any other person, shall be deemed guilty of the forgery thereof, and shall be subject to like punishment.</p><p>Code 1950, § 18.1-96; 1960, c. 358; 1975, cc. 14, 15.</p>

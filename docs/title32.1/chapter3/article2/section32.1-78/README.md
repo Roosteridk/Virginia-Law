@@ -1,0 +1,3 @@
+# § 32.1-78 Reporting information about children with health problems or handicapping conditions.
+
+<p>Notwithstanding § <a href='http://law.lis.virginia.gov/vacode/32.1-271/'>32.1-271</a> or any other law to the contrary, the Commissioner shall report to the Superintendent of Public Instruction or to the appropriate school division superintendent within the Commonwealth the identity of, and pertinent information about, children with health problems or handicapping conditions which might affect the child's career in school and his need for special education.</p><p>Code 1950, § 32-11.1; 1972, c. 431; 1979, c. 711.</p>

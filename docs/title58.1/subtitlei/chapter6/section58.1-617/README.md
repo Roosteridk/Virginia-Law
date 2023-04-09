@@ -1,0 +1,3 @@
+# § 58.1-617 Extensions.
+
+<p>The Tax Commissioner for good cause may grant an extension upon written application therefor to the end of the calendar month in which any tax return is due hereunder, or for a period not exceeding thirty days, and no interest or penalty shall be charged, assessed or collected by reason of the granting of any such extension. Where any such extension is granted beyond the end of the calendar month in which any tax return is due hereunder, interest on the tax at a rate determined in accordance with § <a href='http://law.lis.virginia.gov/vacode/58.1-15/'>58.1-15</a> shall be charged.</p><p>Code 1950, § 58-441.26; 1966, c. 151; 1977, c. 396; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 53.1-49 Evasion by variance from specifications of Director.
+
+<p>No department, institution or agency of the Commonwealth shall be allowed to evade the intent and meaning of §§ <a href='http://law.lis.virginia.gov/vacode/53.1-47/'>53.1-47</a> and <a href='http://law.lis.virginia.gov/vacode/53.1-48/'>53.1-48</a> by slight variations from specifications adopted by the Division of Purchases and Supply of the Department of General Services pursuant to § <a href='http://law.lis.virginia.gov/vacode/2.2-1112/'>2.2-1112</a>, when the articles produced or manufactured in accordance with specifications of the Department are reasonably adapted to the actual needs of the department, institution or agency.</p><p>Code 1950, § 53-70; 1982, cc. 636, 647.</p>

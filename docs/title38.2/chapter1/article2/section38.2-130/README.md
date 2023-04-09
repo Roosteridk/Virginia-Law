@@ -1,0 +1,3 @@
+# § 38.2-130 Homeowners insurance.
+
+<p>"Homeowners insurance" is a combination multi-peril policy written under the provisions of § <a href='http://law.lis.virginia.gov/vacode/38.2-1921/'>38.2-1921</a> containing fire, miscellaneous property, and liability coverages, insuring primarily (i) owner-occupied residential real property pursuant to § <a href='http://law.lis.virginia.gov/vacode/38.2-2108/'>38.2-2108</a>, (ii) personal property located in residential units, or (iii) any combination thereof.</p><p>1986, c. 562.</p>

@@ -1,0 +1,3 @@
+# § 23.1-627.5 Board of Workforce Development to keep a list of high-demand fields and related noncredit workforce training programs and credentials.
+
+<p>The Board shall maintain and update a list of high-demand fields and the related noncredit workforce training programs and noncredit workforce credentials on its website.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0326'>326</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0470'>470</a>.</p>

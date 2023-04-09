@@ -1,0 +1,3 @@
+# § 21-231 Signatures on petition.
+
+<p>Every such petition shall be signed by not less than 100 qualified voters of the proposed sanitation district, including not less than 25 qualified voters of each city and county and town in whole or in part embraced within the proposed sanitation district.</p><p>1946, p. 349; Michie Suppl. 1946, § 1560iii3.</p>

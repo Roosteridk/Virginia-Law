@@ -1,0 +1,3 @@
+# § 19.2-105 Persons under criminal prosecution in this Commonwealth at time of requisition.
+
+<p>If a criminal prosecution has been instituted against such person under the laws of this Commonwealth and is still pending, the Governor, in his discretion, either may surrender him on demand of the executive authority of another state or hold him until he has been tried and discharged or convicted and punished in this Commonwealth.</p><p>Code 1950, § 19.1-69; 1960, c. 366; 1975, c. 495.</p>

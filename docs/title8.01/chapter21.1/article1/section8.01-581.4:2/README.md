@@ -1,0 +1,3 @@
+# § 8.01-581.4:2 Removal of record for inspection and copying; notice.
+
+<p>Any party may, upon notice to all other parties or their counsel, remove any book, record or document which has been filed with the clerk or has become a part of the permanent record filed with the Executive Secretary for purposes of inspection and copying. The party removing the documents shall give an appropriate receipt to the clerk or Executive Secretary and shall be responsible for the return of the materials within ten days.</p><p>1986, c. 227.</p>

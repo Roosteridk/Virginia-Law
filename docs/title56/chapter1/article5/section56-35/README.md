@@ -1,0 +1,3 @@
+# § 56-35 Regulation of public service companies.
+
+<p>The Commission shall have the power, and be charged with the duty, of supervising, regulating and controlling all public service companies doing business in this Commonwealth, in all matters relating to the performance of their public duties and their charges therefor, and of correcting abuses therein by such companies.</p><p>Const., § 156, par. (b); Code 1919, § 3709; 1971, Ex. Sess., c. 38; 1973, c. 377.</p>

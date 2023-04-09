@@ -1,0 +1,3 @@
+# § 23.1-1112 Bonds; interest.
+
+<p>No bond issued by an institution pursuant to this chapter shall (i) bear interest at an annual percentage rate exceeding the greater of the rates authorized under § <a href='http://law.lis.virginia.gov/vacode/6.2-303/'>6.2-303</a> or <a href='http://law.lis.virginia.gov/vacode/15.2-2612/'>15.2-2612</a> or (ii) be sold at public or private sale such that the interest cost to maturity exceeds the greater of such annual percentage rates authorized under § <a href='http://law.lis.virginia.gov/vacode/6.2-303/'>6.2-303</a> or <a href='http://law.lis.virginia.gov/vacode/15.2-2612/'>15.2-2612</a>.</p><p>1970, c. 609, § 23-30.03; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

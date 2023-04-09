@@ -1,0 +1,3 @@
+# § 59.1-405 Conspiracies and attempts to commit violations.
+
+<p>A. Any person who conspires, confederates or combines with another, either within or without this Commonwealth, to commit a felony prohibited by this chapter shall be guilty of a Class 4 felony.</p><p>B. Any person who attempts to commit any act prohibited by this article shall be guilty of a criminal offense and punished as provided in either §§ <a href='http://law.lis.virginia.gov/vacode/18.2-26/'>18.2-26</a>, <a href='http://law.lis.virginia.gov/vacode/18.2-27/'>18.2-27</a> or § <a href='http://law.lis.virginia.gov/vacode/18.2-28/'>18.2-28</a>, as appropriate.</p><p>1988, c. 855; 1991, c. 591.</p>

@@ -1,0 +1,3 @@
+# § 59.1-567 Acquisition of interest in fantasy contest operator.
+
+<p>A. If any person acquires actual control of a registered operator, such person shall register with the Department in accordance with § <a href='http://law.lis.virginia.gov/vacode/59.1-557/'>59.1-557</a>.</p><p>B. Where any such acquisition of control is without prior approval of the Department, the Department may suspend any registration it has issued to such operator, order compliance with this section, or take such other action as may be appropriate within the authority of the Department.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0318'>318</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0703'>703</a>.</p>

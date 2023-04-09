@@ -1,0 +1,3 @@
+# § 44-96 Military property exempt from levy and sale.
+
+<p>The uniforms, arms, and equipment required by law or regulations of every commissioned and warrant officer and every enlisted person of the Virginia National Guard and Virginia Defense Force shall be exempt from sale under any execution, distress, or other process for debt and taxes.</p><p>1930, p. 966; Michie Code 1942, § 2673(81); 1958, c. 393; 1984, c. 765; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0572'>572</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0586'>586</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0221'>221</a>.</p>

@@ -1,0 +1,3 @@
+# § 17.1-246 How costs thereof certified and paid.
+
+<p>The cost incurred shall be certified by the court or, if so designated by the judge, the clerk, to the governing body of the county or city in whose clerk's office the books or records so bound, rebound, microfilmed, transcribed or digitally reproduced are on file, to be paid by such county or city.</p><p>Code 1919, § 5982, § 17-76; 1976, c. 630; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0836'>836</a>; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

@@ -1,0 +1,3 @@
+# § 9.1-166 Local governments to receive state funds for law enforcement.
+
+<p>The Department of the Treasury shall disburse funds to cities, towns and counties, to aid in the law-enforcement expenditures of those local governments, pursuant to the terms of this article.</p><p>1979, c. 83, § 14.1-84.1; 1981, c. 485; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>, § 9-183.13; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,0 +1,3 @@
+# § 59.1-405.1 Greyhound racing and simulcasting prohibited; penalty.
+
+<p>A. No person shall hold, conduct or operate any greyhound races for public exhibition in the Commonwealth for monetary remuneration.</p><p>B. No person shall transmit or receive interstate or intrastate simulcasting of greyhound races for commercial purposes in the Commonwealth.</p><p>C. Any person who violates the provisions of this chapter shall be guilty of a Class 4 felony.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0019'>19</a>.</p>

@@ -1,0 +1,3 @@
+# § 2.2-2904 Classification of persons who have passed certified professional secretary examination.
+
+<p>Clerical personnel who have passed all parts of the certified professional secretary examination, evidenced by certification by the Institute for Certifying Secretaries, a department of the National Secretaries Association (International), or the professional legal secretary examination, evidenced by certification by the Certifying Board of the National Association of Legal Secretaries (International), shall be assured that this certification will be taken into consideration when opportunity for promotion becomes available.</p><p>1975, c. 393, § 2.1-114.1; 1977, c. 104; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

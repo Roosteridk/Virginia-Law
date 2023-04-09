@@ -1,0 +1,3 @@
+# § 6.2-1523.2 Application of chapter to Internet loans.
+
+<p>A. The provisions of this chapter, including specifically the licensure requirements of § <a href='/vacode/6.2-1501/'>6.2-1501</a>, shall apply to persons making loans over the Internet to Virginia residents or any individuals in Virginia, whether or not the person maintains a physical presence in the Commonwealth.</p><p>B. The Commission may, from time to time, by administrative rule or policy statement, set requirements that the Commission reasonably deems necessary to ensure compliance with this section.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1215'>1215</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1258'>1258</a>.</p>

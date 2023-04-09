@@ -1,0 +1,3 @@
+# § 56-33 Duty of corporation whose wires cross other works.
+
+<p>Every corporation, association, person, or partnership erecting or maintaining any wires over or across the works of a public service corporation shall support the same by, and shall maintain, all proper and needful structures, fixtures, and approved appliances, so as to afford the utmost protection to the employees of such public service corporation and to all persons traveling upon or using the facilities of such corporation.</p><p>Code 1919, § 3888.</p>

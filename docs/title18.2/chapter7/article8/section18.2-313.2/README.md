@@ -1,0 +1,3 @@
+# § 18.2-313.2 Introduction of snakehead fish or zebra mussel; penalty.
+
+<p>Any person who knowingly introduces into state waters any snakehead fish of the family Channidae, or knowingly places or causes to be placed into state waters any zebra mussel (Dreissena polymorpha) or the larvae thereof, without a permit from the Director of Wildlife Resources issued pursuant to § <a href='/vacode/29.1-575/'>29.1-575</a> is guilty of a Class 1 misdemeanor.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0916'>916</a>; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0361'>361</a>.</p>

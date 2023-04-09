@@ -1,0 +1,3 @@
+# § 3.2-5642 Determining number of board feet in tree or log.
+
+<p>The standard rule for determining the number of board feet in a tree or log in the Commonwealth shall be the "International 1/4 Inch Log Rule." The provisions of this section shall not prevent the buyer and the seller from agreeing that some other unit of measurement shall be used to determine the number of board feet in trees or logs, provided that such other unit of measurement is specified in a written contract between them.</p><p>Code 1950, §§ 3-109.39, 59-101.2; 1960, c. 242; 1962, c. 298; 1966, c. 702, § 3.1-957; 1993, c. 604; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

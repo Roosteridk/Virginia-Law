@@ -1,0 +1,3 @@
+# § 4.1-325.01 Combined licenses for same premises.
+
+<p>On and after July 1, 2015, any licensee of the Board that holds both a mixed beverage restaurant license and a mixed beverage caterer's license for the same business premises may, upon request in writing to the Board, be granted a combined mixed beverage restaurant and caterer's license for the same business premises. The Board may require such licensee to surrender the previously granted mixed beverage restaurant license and mixed beverage caterer's license for the same licensed location. No additional license fee shall be assessed for this change.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0404'>404</a>.</p>

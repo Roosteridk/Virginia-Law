@@ -1,0 +1,3 @@
+# § 29.1-814 Collection of license fees; appropriation; payments from fund.
+
+<p>All licensing fees shall be collected by the Director as provided in this chapter and by him shall be paid into the state treasury and credited to the Game Protection Fund and accounted for as a separate part known as the Motorboat and Water Safety Fund for the purpose of administering, enforcing and effectuating the purposes of this chapter.</p><p>1988, c. 592.</p>

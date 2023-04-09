@@ -1,0 +1,3 @@
+# § 64.2-766 Prudent administration.
+
+<p>A trustee shall administer the trust as a prudent person would, by considering the purposes, terms, distributional requirements, and other circumstances of the trust. In satisfying this standard, the trustee shall exercise reasonable care, skill, and caution.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-548.04; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

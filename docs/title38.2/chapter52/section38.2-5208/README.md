@@ -1,0 +1,3 @@
+# § 38.2-5208 Right to return; free look provision.
+
+<p>Long-term care insurance policies and certificates shall have a notice prominently printed on the first page or attached thereto stating in substance that the policyholder or insured person has the right to return the policy or certificate within thirty days of its delivery and to have the premium refunded if, after examination of the policy or certificate, the policyholder or insured person is not satisfied for any reason. A policy or certificate returned pursuant to the notice shall be void from its inception upon the mailing or delivery of the policy or certificate to the insurer or its agent.</p><p>1987, c. 586; 1990, c. 285.</p>

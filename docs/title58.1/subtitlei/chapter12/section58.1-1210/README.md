@@ -1,0 +1,3 @@
+# § 58.1-1210 County tax.
+
+<p>Any county of this Commonwealth in which is located any bank outside any incorporated town therein may, by ordinance, impose a tax not to exceed 80 percent of the state rate of taxation for each $100 of the net capital of the bank so located in such county outside the corporate limits of any town therein. If such bank also has offices that are located outside such county or within the corporate limits of any town therein, the tax shall be apportioned as provided in § <a href='http://law.lis.virginia.gov/vacode/58.1-1211/'>58.1-1211</a>.</p><p>Code 1950, § 58-485.011; 1980, c. 578; 1984, c. 675.</p>

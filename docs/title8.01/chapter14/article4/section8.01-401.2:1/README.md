@@ -1,0 +1,3 @@
+# § 8.01-401.2:1 Podiatrist as an expert witness.
+
+<p>A podiatrist shall not be permitted to testify as an expert witness against a doctor of medicine or osteopathic medicine in connection with a medical malpractice civil court proceeding or a medical malpractice review panel in any case where the doctor or osteopath is a defendant in such proceeding.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0715'>715</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0725'>725</a>.</p>

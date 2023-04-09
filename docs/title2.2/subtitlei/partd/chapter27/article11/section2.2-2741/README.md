@@ -1,0 +1,3 @@
+# § 2.2-2741 Grants from the Commonwealth.
+
+<p>The Commonwealth may make grants of money or property to the Corporation for the purpose of enabling it to carry out its purposes and for the exercise of its duties. This section shall not be construed to limit any other power the Commonwealth may have to make grants to the Corporation.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0749'>749</a>.</p>

@@ -1,0 +1,3 @@
+# § 16.1-332 Orders of court; investigation, report and appointment of counsel.
+
+<p>If deemed appropriate the court may (i) require the local department of social services or any other agency or person to investigate the allegations in the petition and file a report of that investigation with the court, (ii) appoint counsel for the minor's parents or guardian, or (iii) make any other orders regarding the matter which the court deems appropriate. In any case pursuant to this article the court shall appoint counsel for the minor to serve as guardian ad litem.</p><p>1986, c. 506; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

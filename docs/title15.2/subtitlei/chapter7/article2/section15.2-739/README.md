@@ -1,0 +1,3 @@
+# § 15.2-739 Diversion of certain waters.
+
+<p>With the consent of the property owner, a county may enter private property and, at the county's expense, construct or reconstruct a system to divert water not requiring treatment by the county's sanitary sewer system into the county's storm sewer system.</p><p>1989, c. 622, § 15.1-687.17; 1997, c. 587.</p>

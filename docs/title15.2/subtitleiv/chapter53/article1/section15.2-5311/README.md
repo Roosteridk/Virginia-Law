@@ -1,0 +1,3 @@
+# § 15.2-5311 Removal of commissioner on charges of mayor.
+
+<p>The mayor may remove a commissioner for inefficiency or neglect of duty or misconduct in office, but only after the commissioner has been given a copy of the charges against him, which may be made by the mayor, at least ten days prior to the hearing thereon and has had an opportunity to be heard in person or by counsel.</p><p>Code 1950, § 32-225; 1979, c. 719, § 15.1-1544; 1997, c. 587.</p>

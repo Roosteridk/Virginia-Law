@@ -1,0 +1,3 @@
+# § 19.2-368.16 Claims to be made under oath.
+
+<p>All claims shall be made under oath. Any person who asserts a false claim under the provisions of this chapter shall be guilty of perjury and, in addition, shall be subject to prosecution under the provisions of Article 3 (§ <a href='http://law.lis.virginia.gov/vacode/18.2-95/'>18.2-95</a> et seq.) of Chapter 5 of Title 18.2, and shall further forfeit any benefit received and shall reimburse and repay the Commonwealth for payments received or paid on his behalf pursuant to any of the provisions hereunder.</p><p>1976, c. 605.</p>

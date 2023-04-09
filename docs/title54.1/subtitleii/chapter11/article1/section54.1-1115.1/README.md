@@ -1,0 +1,3 @@
+# § 54.1-1115.1 Evidence of violation of the Virginia Uniform Statewide Building Code.
+
+<p>In any proceeding pursuant to § <a href='http://law.lis.virginia.gov/vacode/54.1-1114/'>54.1-1114</a>, the Board shall consider any written documentation of a violation of the Uniform Statewide Building Code (§ <a href='http://law.lis.virginia.gov/vacode/36-97/'>36-97</a> et seq.) provided by a local building official as evidence of a violation of such building code. Such written documentation shall not be prima facie evidence of a building code violation.</p><p>1993, c. 942.</p>

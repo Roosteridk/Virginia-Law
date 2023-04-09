@@ -1,0 +1,3 @@
+# § 8.01-576.1 Election by parties; order of court.
+
+<p>In any civil action pending before a circuit court, the parties may, by agreement in writing submitted to the court at any time prior to trial, elect to have a summary jury trial of the issues in the case in accordance with this chapter. However, where the court determines that the election is made for the purpose of delaying a trial on the merits, a summary jury trial shall not be had.</p><p>1988, c. 759.</p>

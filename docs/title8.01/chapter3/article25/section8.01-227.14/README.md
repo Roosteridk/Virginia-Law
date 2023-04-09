@@ -1,0 +1,3 @@
+# § 8.01-227.14 Freestyle terrain.
+
+<p>In addition to providing the signage and warnings set forth in subsections C and E of § <a href='http://law.lis.virginia.gov/vacode/8.01-227.12/'>8.01-227.12</a>, an operator shall construct a barricade through use of fencing, flagging, or similar means at the entrance to any trail containing freestyle terrain. The barricade shall contain an entrance opening not wider than 30 feet.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0713'>713</a>.</p>

@@ -1,0 +1,3 @@
+# § 18.2-171 Making or having anything designed for forging any writing, etc.
+
+<p>If any person engrave, stamp, or cast, or otherwise make or mend, any plate, block, press, or other thing, adapted and designed for the forging and false making of any writing or other thing, the forging or false making whereof is punishable by this chapter, or if such person have in possession any such plate, block, press, or other thing, with intent to use, or cause or permit it to be used, in forging or false making any such writing or other thing, he shall be guilty of a Class 4 felony.</p><p>Code 1950, § 18.1-95; 1960, c. 358; 1975, cc. 14, 15.</p>

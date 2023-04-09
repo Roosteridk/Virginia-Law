@@ -1,0 +1,3 @@
+# § 59.1-136.7 Exemption.
+
+<p>Nothing in this article shall apply to the purchase, sale or disposal of any material that is used in the provision of health care by any professional who is licensed, certified or registered to practice by a board within the Department of Health Professions under Title 54.1.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0917'>917</a>.</p>

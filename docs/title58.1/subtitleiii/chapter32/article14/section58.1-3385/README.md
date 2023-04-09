@@ -1,0 +1,3 @@
+# § 58.1-3385 Commissioner to make changes ordered; when order exonerates taxpayer.
+
+<p>The commissioner of the revenue shall make on his land book the changes so ordered by the board and, if such changes affect the land book for the then current year and such land book has been then completed, the commissioner of the revenue may for that year make a supplemental assessment in case of an increase in valuation. In case of a decrease in valuation, the order of the board shall entitle the taxpayer to an exoneration from so much of the assessment as exceeds the proper amount, if the taxes have not been paid by him and, in case the taxes have been paid, to a refund of so much thereof as is erroneous.</p><p>Code 1950, § 58-910; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 42.1-12 Fees for copies made by Library staff.
+
+<p>The Library may, in its discretion, charge and collect such fees as it may deem reasonable for copies or extracts from any books, papers, records, documents or manuscripts in the Library, made by the Library staff, for persons applying for the same. The Librarian of Virginia shall keep an accurate account of all such fees and pay the same into the general fund of the state treasury.</p><p>Code 1950, § 42-46; 1970, c. 606; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0427'>427</a>.</p>

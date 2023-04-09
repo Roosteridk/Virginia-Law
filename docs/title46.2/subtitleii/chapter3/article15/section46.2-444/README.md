@@ -1,0 +1,3 @@
+# § 46.2-444 Surety requirements of bond.
+
+<p>The bond mentioned in subdivision 2 of § <a href='http://law.lis.virginia.gov/vacode/46.2-436/'>46.2-436</a> shall be duly executed by the person giving proof and by a surety company duly authorized to transact business in the Commonwealth or by the person giving proof and by one or more individual sureties owning real estate within the Commonwealth and having an equity therein in at least the amount of the bond and the real estate shall be scheduled in the bond. But the Commissioner may not accept any real estate bond unless it is first approved by the circuit court of the jurisdiction wherein the real estate is located.</p><p>Code 1950, § 46-465; 1958, c. 541, § 46.1-476; 1989, c. 727.</p>

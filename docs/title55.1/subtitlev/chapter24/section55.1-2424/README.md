@@ -1,0 +1,3 @@
+# § 55.1-2424 Recordation of certified copy of grant.
+
+<p>The clerk shall accept for recordation a copy of the grant of escheated property from the Commonwealth that is certified as a true copy by the Librarian of Virginia under § <a href='/vacode/55.1-2423/'>55.1-2423</a>.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0540'>540</a>, § 55-186.3; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

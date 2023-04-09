@@ -1,0 +1,3 @@
+# § 19.2-182.12 Representation of Commonwealth and acquittee.
+
+<p>The attorney for the Commonwealth shall represent the Commonwealth in all proceedings held pursuant to this chapter. The court shall appoint counsel for the acquittee unless the acquittee waives his right to counsel. The court shall consider appointment of the person who represented the acquittee at the last proceeding.</p><p>1991, c. 427; 1993, c. 295.</p>

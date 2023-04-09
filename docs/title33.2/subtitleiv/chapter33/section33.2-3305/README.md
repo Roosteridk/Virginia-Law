@@ -1,0 +1,3 @@
+# § 33.2-3305 Allocation of certain Authority expenses among component members.
+
+<p>The administrative expenses of the Authority, as provided in an annual budget adopted by the Authority, to the extent funds for such expenses are not provided from other sources, shall be allocated among the component counties, city, and educational and nonprofit agencies pursuant to a funding formula as duly adopted by the Authority.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0179'>179</a>, § 15.2-6806; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0256'>256</a>.</p>

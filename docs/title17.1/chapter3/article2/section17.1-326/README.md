@@ -1,0 +1,3 @@
+# § 17.1-326 Reporter of Supreme Court.
+
+<p>The reporter of the Supreme Court shall receive an annual salary as fixed by the Court.</p><p>Nothing herein contained, however, shall be construed to lessen or eliminate the authority of the General Assembly to fix and determine such salary.</p><p>Code 1950, § 14-41; 1964, c. 386, § 14.1-32; 1971, Ex. Sess., c. 156; 1972, c. 856; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

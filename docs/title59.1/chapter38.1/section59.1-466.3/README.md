@@ -1,0 +1,3 @@
+# § 59.1-466.3 Restraining prohibited acts.
+
+<p>Whenever an attorney for the Commonwealth has reason to believe that any performer or performing group, or its agent, is advertising or conducting, or is about to advertise or conduct, a live musical performance or production in violation of § <a href='http://law.lis.virginia.gov/vacode/59.1-466.2/'>59.1-466.2</a> and that proceedings would be in the public interest, the attorney for the Commonwealth may bring an action in the name of the Commonwealth against the person to restrain by temporary or permanent injunction that practice.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0261'>261</a>.</p>

@@ -1,0 +1,3 @@
+# § 19.2-246 Injury inflicted by person within Commonwealth upon one outside Commonwealth.
+
+<p>If a mortal wound or other violence or injury be inflicted by a person within this Commonwealth upon one outside of the same, or upon one in this Commonwealth who afterwards dies from the effect thereof out of the Commonwealth, the offender shall be amenable to prosecution and punishment for the offense in the courts of the county or city in which he was at the time of the commission thereof as if the same had been committed in such county or city.</p><p>Code 1950, § 19.1-221; 1960, c. 366; 1975, c. 495.</p>

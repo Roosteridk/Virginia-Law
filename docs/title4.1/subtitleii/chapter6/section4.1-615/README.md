@@ -1,0 +1,3 @@
+# § 4.1-615 Leases and purchases of property by the Board.
+
+<p>The making of leases and the purchasing of real estate by the Board under the provisions of this subtitle are exempt from the Virginia Public Procurement Act (§ <a href='/vacode/2.2-4300/'>2.2-4300</a> et seq.). The Authority shall be exempt from the provisions of § <a href='/vacode/2.2-1149/'>2.2-1149</a> and from any rules, regulations, and guidelines of the Division of Engineering and Buildings in relation to leases of real property into which it enters.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0550'>550</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0551'>551</a>.</p>

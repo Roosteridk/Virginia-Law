@@ -1,0 +1,3 @@
+# § 51.5-143 Powers and duties of Department relating to universal design and visitability features.
+
+<p>The Department shall publicize guidelines on universal design and visitability features to make structures and dwellings accessible for older Virginians and people who develop mobility impairment. Such guidelines shall be disseminated to the public and posted on the Department's website.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

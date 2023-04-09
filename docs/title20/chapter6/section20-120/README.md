@@ -1,0 +1,3 @@
+# § 20-120 Revocation of decree from bed and board.
+
+<p>A decree of divorce from bed and board entered in a suit pursuant to § <a href='http://law.lis.virginia.gov/vacode/20-95/'>20-95</a> shall at any time thereafter, upon submission of an order endorsed by both parties or counsel, be revoked by the same court which entered such decree of divorce.</p><p>Code 1919, § 5115; 1926, p. 859; 1934, p. 21; 1942, p. 158; 1946, p. 264; 1948, p. 539; 1975, c. 644; 1984, c. 537.</p>

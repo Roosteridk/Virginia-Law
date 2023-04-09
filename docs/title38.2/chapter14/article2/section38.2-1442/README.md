@@ -1,0 +1,3 @@
+# § 38.2-1442 Guaranty association obligations.
+
+<p>A domestic insurer may invest in any obligation not in default of the Virginia Life, Accident and Sickness Insurance Guaranty Association issued pursuant to subdivision L 3 of § <a href='http://law.lis.virginia.gov/vacode/38.2-1704/'>38.2-1704</a> or the Virginia Property and Casualty Insurance Guaranty Association issued pursuant to subdivision 2 of subsection B of § <a href='http://law.lis.virginia.gov/vacode/38.2-1606/'>38.2-1606</a>.</p><p>1986, c. 562; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0510'>510</a>.</p>

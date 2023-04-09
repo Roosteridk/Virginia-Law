@@ -1,0 +1,3 @@
+# § 33.2-1228 Disposition of fees.
+
+<p>All moneys received by the Commissioner of Highways under the provisions of this article shall be paid by him into the state treasury, except as provided in §§ <a href='http://law.lis.virginia.gov/vacode/33.2-1224/'>33.2-1224</a> and <a href='http://law.lis.virginia.gov/vacode/33.2-1229/'>33.2-1229</a>, and allocated to the Board for use in the regulation and control of outdoor advertising and landscaping of highways.</p><p>Code 1950, § 33-322; 1964, c. 619; 1970, c. 322, § 33.1-376; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

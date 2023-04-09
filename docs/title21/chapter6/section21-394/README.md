@@ -1,0 +1,3 @@
+# § 21-394 Payment of full amount by landowner.
+
+<p>Any landowner in the project not wanting to pay interest on the bonds may, within fifteen days after the last publication of the notice, pay to the treasurer of the county in which his land is located the full amount for which his land is liable, to be ascertained from the assessment list, and the certificate of the board of viewers showing the total cost of the improvements, and have his lands released from liability to be assessed for the improvement; but such land shall continue liable for any future assessment for maintenance or for any increased assessment authorized under this chapter.</p><p>Code 1919, § 1772; 1926, p. 623; 1954, c. 642.</p>

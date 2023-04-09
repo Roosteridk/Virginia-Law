@@ -1,0 +1,3 @@
+# § 3.2-4023 Compensation and expenses.
+
+<p>The members of the Board shall serve without compensation, but shall be reimbursed for all reasonable and necessary expenses incurred in the performance of their duties as provided in § <a href='http://law.lis.virginia.gov/vacode/2.2-2825/'>2.2-2825</a>. Funding for the costs of expenses of the members shall be provided by the Certified Seed Board. Expenses shall be paid by the Treasurer, on warrants of the Comptroller, and issued on vouchers signed by the chairman of the Certified Seed Board or his designee.</p><p>Code 1950, § 3-222; 1966, c. 702, § 3.1-278; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

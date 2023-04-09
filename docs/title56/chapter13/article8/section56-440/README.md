@@ -1,0 +1,3 @@
+# § 56-440 Penalty for failure to remove cause of complaint in cities or towns.
+
+<p>If any railroad, when directed so to do by a valid order of the State Corporation Commission, shall refuse or fail to remove the cause of complaint of the authorities of any incorporated city or town in which such railroad is located, as to the physical condition or operation of such railroad, it shall, in the discretion of the Commission, be fined not less than $10 nor more than $1,000.</p><p>Code 1919, § 4001.</p>

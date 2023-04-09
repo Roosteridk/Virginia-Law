@@ -1,0 +1,3 @@
+# § 15.2-2108.14 Civil action.
+
+<p>A private provider may file an action against a municipality in the circuit court having jurisdiction over the municipality for equitable relief, including a restraining order and injunction, for a violation of the provisions of this article. At least 10 days before filing such action the private provider shall file a written notice thereof with the municipality.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0677'>677</a>.</p>

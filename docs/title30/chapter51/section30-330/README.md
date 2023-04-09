@@ -1,0 +1,3 @@
+# § 30-330 Title of chapter and purpose.
+
+<p>The General Assembly hereby designates the Joint Legislative Audit and Review Commission (the Commission) to oversee and evaluate the Virginia College Savings Plan on a continuing basis and to make such special studies and reports as may be requested by the General Assembly, the House Committee on Appropriations, or the Senate Committee on Finance and Appropriations.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0591'>591</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0659'>659</a>.</p>

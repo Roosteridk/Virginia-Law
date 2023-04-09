@@ -1,0 +1,3 @@
+# § 64.2-2608 Disclaimer by appointee, object, or taker in default of exercise of power of appointment.
+
+<p>A. A disclaimer of an interest in property by an appointee of a power of appointment takes effect as of the time the instrument by which the holder exercises the power becomes irrevocable.</p><p>B. A disclaimer of an interest in property by an object or taker in default of an exercise of a power of appointment takes effect as of the time the instrument creating the power becomes irrevocable.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0253'>253</a>, § 64.1-196.9; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,0 +1,3 @@
+# § 23.1-404 Retention of student birth certificates authorized.
+
+<p>Any public institution of higher education that requests that an applicant who has been accepted for admission present a certified copy of his birth certificate as a condition of enrollment may retain a copy of the birth certificate in the student's record.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0049'>49</a>, § 23-2.1:2; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

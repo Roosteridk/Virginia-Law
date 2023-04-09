@@ -1,0 +1,3 @@
+# § 46.2-399 Revocation of license for improper use or failure to pay certain taxes.
+
+<p>The Department shall revoke a driver's license whenever the person to whom the license has been issued makes or permits to be made an unlawful use of it or permits the use of it by a person not entitled to it or fails or refuses to pay within the time prescribed by law, any lawful taxes due the Commonwealth imposed under Chapter 27 of Title 58.1.</p><p>Code 1950, § 46-379; 1958, c. 541, § 46.1-426; 1984, c. 780; 1989, c. 727.</p>

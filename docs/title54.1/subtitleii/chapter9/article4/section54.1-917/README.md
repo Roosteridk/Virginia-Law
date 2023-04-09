@@ -1,0 +1,3 @@
+# § 54.1-917 Enforcement of suspension.
+
+<p>If any individual whose pilot's license has been suspended is found on board any vessel as a pilot, or offers to conduct any vessel, he may be dismissed from the vessel by any licensed pilot, to whom all the pilotage shall be paid. The Board may proceed against the individual under the provisions of § <a href='http://law.lis.virginia.gov/vacode/54.1-924/'>54.1-924</a> as if the individual had never been licensed. An individual whose pilot's license has been suspended may also be proceeded against under § <a href='http://law.lis.virginia.gov/vacode/54.1-111/'>54.1-111</a>.</p><p>Code 1950, § 54-561; 1988, c. 765.</p>

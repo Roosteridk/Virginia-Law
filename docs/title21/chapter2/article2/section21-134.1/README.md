@@ -1,0 +1,3 @@
+# § 21-134.1 Reimbursement of county for advances to sanitary district.
+
+<p>Notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/21-132/'>21-132</a>, the governing body shall direct the treasurer to reimburse the general fund of the county from the proceeds of the bond issue or from any funds to the credit of the sanitary district, not otherwise specifically allocated or obligated to the extent that the county has made advances to the sanitary district from such general fund to assist the district to initiate or effectuate the project for which it was created.</p><p>1954, c. 321; 1962, c. 335.</p>

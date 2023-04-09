@@ -1,0 +1,3 @@
+# § 45.2-1121  Reexamination.
+
+<p>The holder of a certificate revoked pursuant to § <a href='/vacode/45.2-1120/'>45.2-1120</a> is entitled to examination by the Department after a period of three months has elapsed from the date of revocation of the certificate if he can prove to the satisfaction of the Department that the cause for revocation of his certificate has ceased to exist.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0390'>390</a>, § 45.1-161.292:27; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

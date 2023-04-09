@@ -1,0 +1,3 @@
+# § 8.4A-504 Order in which items and payment orders may be charged to account; order of withdrawals from account.
+
+<p>(a) If a receiving bank has received more than one payment order of the sender or one or more payment orders and other items that are payable from the sender's account, the bank may charge the sender's account with respect to the various orders and items in any sequence.</p><p>(b) In determining whether a credit to an account has been withdrawn by the holder of the account or applied to a debt of the holder of the account, credits first made to the account are first withdrawn or applied.</p><p>1990, c. 9.</p>

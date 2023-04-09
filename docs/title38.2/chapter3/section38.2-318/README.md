@@ -1,0 +1,3 @@
+# § 38.2-318 Validity of noncomplying forms.
+
+<p>A. Any insurance policy or form containing any condition or provision that is not in compliance with this title shall be valid, but shall be construed and applied in accordance with the conditions and provisions required by this title.</p><p>B. As used in this section, "form" means any contract, rider, endorsement, amendment, certificate, or application or other instrument providing, modifying, or eliminating insurance coverage.</p><p>1952, c. 317, § 38.1-343; 1986, c. 562.</p>

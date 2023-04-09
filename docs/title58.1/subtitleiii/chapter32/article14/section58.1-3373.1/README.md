@@ -1,0 +1,3 @@
+# § 58.1-3373.1 City may elect to provide for board of equalization.
+
+<p>Notwithstanding any other provision of law, the City of Richmond may by ordinance elect to provide for a board of equalization or permanent board of equalization as provided in this article instead of a board of review.</p><p>2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0061'>61</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0607'>607</a>.</p>

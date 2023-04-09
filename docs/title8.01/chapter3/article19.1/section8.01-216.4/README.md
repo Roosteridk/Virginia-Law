@@ -1,0 +1,3 @@
+# § 8.01-216.4 Attorney General; investigation, civil action.
+
+<p>The Attorney General shall investigate any violation of § <a href='http://law.lis.virginia.gov/vacode/8.01-216.3/'>8.01-216.3</a>. If the Attorney General finds that a person has violated or is violating § <a href='http://law.lis.virginia.gov/vacode/8.01-216.3/'>8.01-216.3</a>, the Attorney General may bring a civil action under this section.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0842'>842</a>.</p>

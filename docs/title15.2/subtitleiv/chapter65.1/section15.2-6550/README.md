@@ -1,0 +1,3 @@
+# § 15.2-6550 Tourist Train Development Authority established.
+
+<p>The Tourist Train Development Authority, hereinafter referred to as the "Authority," is created as a body politic and corporate, a political subdivision of the Commonwealth. As such it shall have, and is hereby vested with, the powers and duties hereinafter conferred in this chapter.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0608'>608</a>.</p>

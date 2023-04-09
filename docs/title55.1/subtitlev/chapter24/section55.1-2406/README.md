@@ -1,0 +1,3 @@
+# § 55.1-2406 Jury of inquest; presentation of evidence.
+
+<p>The sheriff of the county or city shall summon and return 10 qualified jurors for the inquest, of whom at least seven shall be impaneled as a jury. They shall meet at the courthouse and sit in public and may be adjourned by the escheator from day to day. Every person competent to testify as a witness shall be required to give evidence openly in the presence of the jurors.</p><p>Code 1919, § 494; Code 1950, § 55-173; 1977, c. 583; 1984, c. 315; 1990, c. 938; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0551'>551</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

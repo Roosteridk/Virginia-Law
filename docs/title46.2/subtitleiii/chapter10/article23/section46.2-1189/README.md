@@ -1,0 +1,3 @@
+# § 46.2-1189 Authority of the Department of Motor Vehicles.
+
+<p>The Department of Motor Vehicles may do all things necessary to carry out the purposes of this article, including entering into contracts for administrative and other operational support for motorcycle rider safety training centers.</p><p>1984, c. 476, § 46.1-567; 1989, c. 727; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0734'>734</a>.</p>

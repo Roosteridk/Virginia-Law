@@ -1,0 +1,3 @@
+# § 38.2-2508 Incorporation of insurers.
+
+<p>Mutual assessment property and casualty insurers formed after July 1, 1986, shall be incorporated under the provisions of Article 3 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-818/'>13.1-818</a> et seq.) of Chapter 10 of Title 13.1, as modified by the provisions of this title. Except as otherwise provided in this title, mutual assessment property and casualty insurers shall be subject to all the general restrictions and have all the general powers imposed and conferred upon those corporations by law. Mutual assessment property and casualty insurers formed prior to July 1, 1986, may continue to operate as organized.</p><p>Code 1950, § 38-523; 1952, c. 317, § 38.1-666; 1956, c. 431; 1986, c. 562.</p>

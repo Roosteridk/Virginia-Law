@@ -1,0 +1,3 @@
+# § 13.1-554.1 Income and property taxes.
+
+<p>All professional corporations organized or qualifying under the provisions of this chapter, shall be taxed as corporations for income tax purposes and shall be subject to the provisions of Chapter 3 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-300/'>58.1-300</a> et seq.) of Title 58.1, entitled "Income Taxes," insofar as these provisions are applicable to corporations, and property owned by such corporations shall be taxed in the actual form in which it may exist and not as capital. The provisions of this section shall be effective January 1, 1971.</p><p>1972, c. 214.</p>

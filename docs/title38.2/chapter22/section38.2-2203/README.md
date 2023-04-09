@@ -1,0 +1,3 @@
+# § 38.2-2203 Policy providing for reimbursement for services that may be performed by certain practitioners other than physicians.
+
+<p>Notwithstanding any provision of any policy or contract of bodily injury liability insurance, when the policy or contract provides for reimbursement for any service that may be legally performed by a person licensed in this Commonwealth for the practice of chiropractic, reimbursement under the policy shall not be denied because the service is rendered by a licensed chiropractor.</p><p>1984, c. 441, § 38.1-380.3; 1986, c. 562.</p>

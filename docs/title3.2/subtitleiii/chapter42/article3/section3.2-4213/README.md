@@ -1,0 +1,3 @@
+# § 3.2-4213 Notice and review of determination.
+
+<p>A determination of the Attorney General to not list or to remove from the Directory a brand family or tobacco product manufacturer shall be subject to review in the manner prescribed by the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0798'>798</a>, § 3.1-336.11; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,0 +1,3 @@
+# § 3.2-5702 Delegation of authority.
+
+<p>The Board may delegate to the Commissioner: (i) any authority vested in it under this chapter, except the authority to adopt regulations; and (ii) any authority contained in § <a href='http://law.lis.virginia.gov/vacode/3.2-5646/'>3.2-5646</a> relating to the assessment of civil penalties.</p><p>1992, c. 242, § 3.1-969.3; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

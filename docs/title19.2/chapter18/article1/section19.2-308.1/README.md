@@ -1,0 +1,3 @@
+# § 19.2-308.1 When sentence may run concurrently with sentence in another jurisdiction.
+
+<p>Notwithstanding any other provision of law, in the event that a person is convicted of a criminal offense in any court of this Commonwealth and such person has also been sentenced to imprisonment for a term of one year or more by a court of the United States, or any other state or territory, and, at the time of sentencing in this Commonwealth, is incarcerated in a federal or state penal institution, the court may order the sentence to run concurrently with the sentence imposed by such other court.</p><p>1977, c. 344.</p>

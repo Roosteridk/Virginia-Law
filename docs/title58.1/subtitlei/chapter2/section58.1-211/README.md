@@ -1,0 +1,3 @@
+# § 58.1-211 Department to advise Comptroller of amounts to be charged state collecting officers.
+
+<p>Whenever the Department has information concerning amounts properly chargeable to any collecting or receiving officer by reason of the fact that such collecting officer has been delivered an assessment of state taxes for collection, or otherwise, the Department shall as soon as practicable advise the Comptroller thereof so that he may make the proper entries in his books.</p><p>Code 1950, § 58-48; 1984, c. 675.</p>

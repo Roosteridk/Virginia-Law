@@ -1,0 +1,3 @@
+# § 15.2-2635 What indebtedness not included in determining limitation.
+
+<p>In determining the limitation contained in § <a href='http://law.lis.virginia.gov/vacode/15.2-2634/'>15.2-2634</a>, there shall not be included the classes of indebtedness described in clauses (1) through (4) of Article VII, Section 10 (a) of the Constitution of Virginia.</p><p>1991, c. 668, § 15.1-227.36; 1997, c. 587.</p>

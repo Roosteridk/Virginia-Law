@@ -1,0 +1,3 @@
+# § 34-5 To what debts exemptions shall not apply.
+
+<p>The property exemptions created under this Code shall not be claimed against the following debts:</p><p>1. For the purchase price of such property or any part thereof. If the property purchased and not paid for is exchanged for or converted into other property by the debtor, such last named property shall not be exempted from the payment of such unpaid purchase money.</p><p>2. For spousal or child support obligations.</p><p>Code 1919, § 6531; 1918, p. 487; 1956, c. 637; 1986, c. 218; 1990, c. 942; 1991, c. 256; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0550'>550</a>.</p>

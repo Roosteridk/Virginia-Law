@@ -1,0 +1,3 @@
+# § 13.1-851 Change in quorum or voting requirements.
+
+<p>A. The articles of incorporation may provide for a lesser or greater quorum requirement for members or voting groups of members than required by this chapter.</p><p>B. An amendment to the articles of incorporation that adds, changes, or deletes a quorum or voting requirement shall meet the quorum requirement and be adopted by the vote and voting groups required to take action under the quorum and voting requirements then in effect.</p><p>Code 1950, § 13.1-218; 1956, c. 428; 1985, c. 522; 1986, c. 321.</p>

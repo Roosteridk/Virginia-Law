@@ -1,0 +1,3 @@
+# § 38.2-1005.1:3 Mutual holding company membership interest.
+
+<p>A. A member of a mutual holding company shall not transfer membership in the company or any right arising from membership.</p><p>B. A member of a mutual holding company shall not, as a member, be personally liable for or subject to assessment on account of any act, debt, liability or obligation of the MHC or of any entity owned or controlled by the MHC.</p><p>C. A membership interest in a mutual holding company shall not constitute a security under the laws of the Commonwealth.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0726'>726</a>.</p>

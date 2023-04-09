@@ -1,0 +1,3 @@
+# § 32.1-303 Penalty for trafficking in bodies.
+
+<p>Except as provided in §§ <a href='http://law.lis.virginia.gov/vacode/32.1-299/'>32.1-299</a> and <a href='http://law.lis.virginia.gov/vacode/32.1-302/'>32.1-302</a>, if any person sell or buy any dead human body, or in any way traffic in the same, or transmit or convey, or procure in order to be transmitted or conveyed, any such body for the purpose of trafficking in the same to any place outside of this Commonwealth, he shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 32-361; 1976, c. 222; 1979, c. 711.</p>

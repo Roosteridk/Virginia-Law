@@ -1,0 +1,3 @@
+# § 15.2-5379 Bonds made legal investments.
+
+<p>Any bonds issued pursuant to the authority of this chapter are hereby made securities in which all public officers and bodies of this Commonwealth and all political subdivisions thereof, all insurance companies and associations, and all savings banks and savings institutions, including savings and loan associations, in the Commonwealth may properly and legally invest funds in their control.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0676'>676</a>.</p>

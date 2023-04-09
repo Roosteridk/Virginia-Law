@@ -1,0 +1,3 @@
+# § 46.2-313 Persons with suspended or revoked licenses.
+
+<p>The Department shall not issue a driver's license to any person whose license has been suspended, during the period of the suspension; nor to any person whose license has been revoked, or should have been revoked, under the provisions of this title, until the expiration of one year after the license was revoked, unless otherwise permitted by the provisions of this title.</p><p>Code 1950, § 46-354; 1958, c. 541, § 46.1-358; 1984, c. 780; 1989, c. 727.</p>

@@ -1,0 +1,3 @@
+# § 15.2-630 Department of assessments.
+
+<p>The department of assessments, if and when established, shall be headed by a commissioner of the revenue or supervisor of assessments, who shall exercise the powers conferred and perform the duties imposed by § <a href='http://law.lis.virginia.gov/vacode/15.2-619/'>15.2-619</a> upon the director of finance.</p><p>Code 1950, § 15-327; 1962, c. 623, § 15.1-647; 1997, c. 587.</p>

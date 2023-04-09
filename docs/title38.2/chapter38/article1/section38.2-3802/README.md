@@ -1,0 +1,3 @@
+# § 38.2-3802 Continuation of existing companies.
+
+<p>Any company licensed and doing business in this Commonwealth on July 1, 1952, may continue to do business in accordance with the powers contained in its certificate of incorporation, subject to the provisions of this chapter, but no such company shall be permitted to extend its powers.</p><p>1952, c. 317, § 38.1-498; 1986, c. 562.</p>

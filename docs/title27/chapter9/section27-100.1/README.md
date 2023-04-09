@@ -1,0 +1,3 @@
+# § 27-100.1 Seizure and destruction of certain fireworks.
+
+<p>Any law-enforcement officer arresting any person for a violation of this chapter related to fireworks shall seize any article of fireworks in the possession or under the control of the person so arrested and shall hold the same until final disposition of any criminal proceedings against such person. If a judgment of conviction be entered against such person, the court shall order destruction of such articles upon expiration of the time allowed for appeal of such judgment of conviction.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0856'>856</a>.</p>

@@ -1,0 +1,3 @@
+# § 18.2-497 Fines and costs.
+
+<p>The costs incurred in the enforcement of this article shall be assessed and collected in the same manner as in criminal cases, and all fines collected by virtue of this article shall be turned over in the same manner and for the same purposes as criminal and misdemeanor fines are disposed of by law.</p><p>Code 1950, § 18.1-400.5; 1970, c. 442; 1975, cc. 14, 15.</p>

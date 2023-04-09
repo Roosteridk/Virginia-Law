@@ -1,0 +1,3 @@
+# § 10.1-1314.1 Protection of trade secrets.
+
+<p>Any information, except emissions data, reported to or otherwise obtained by the Director, the Board, or the agents or employees of either which contains or might reveal a trade secret shall be confidential and shall be limited to those persons who need such information for purposes of enforcement of this chapter or the federal Clean Air Act or regulations and orders of the Board. It shall be the duty of each owner to notify the Director or his representatives of the existence of trade secrets when he desires the protection provided herein.</p><p>1990, c. 238.</p>

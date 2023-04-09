@@ -1,0 +1,3 @@
+# § 1-229 Optional form of county government; effect of change in form.
+
+<p>Whenever any county, city, town, political subdivision, or combination thereof is identified in an act of the General Assembly by reference to its proximity to a county that has adopted an optional form of government provided in Title 15.2, and that county changes its form of government, the act shall continue to apply to such county, city, town, political subdivision, or combination thereof and shall cease to apply only upon the subsequent enactment by the General Assembly of a measure in which such intent clearly is stated.</p><p>1990, c. 253, § 1-13.35:1; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

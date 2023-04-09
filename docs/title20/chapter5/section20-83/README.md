@@ -1,0 +1,3 @@
+# § 20-83 Venue of offense.
+
+<p>Any offense under this chapter shall be held to have been committed in any county or city in which such spouse, child or children may be at the time of desertion, or in which such child or children may be or remain, with the knowledge and acquiescence of the accused, in destitute or necessitous condition, or where the accused shall be found in this Commonwealth.</p><p>Code 1919, § 1942; 1918, p. 761; 1922, p. 846; 1975, c. 644.</p>

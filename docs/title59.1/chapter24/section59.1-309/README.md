@@ -1,0 +1,3 @@
+# § 59.1-309 Enforcement; penalties.
+
+<p>Any violation of the provisions of this chapter shall constitute a prohibited practice pursuant to the provisions of § <a href='http://law.lis.virginia.gov/vacode/59.1-200/'>59.1-200</a> and shall be subject to any and all of the enforcement provisions of the Virginia Consumer Protection Act (§ <a href='http://law.lis.virginia.gov/vacode/59.1-196/'>59.1-196</a> et seq.) of this title.</p><p>1984, c. 738.</p>

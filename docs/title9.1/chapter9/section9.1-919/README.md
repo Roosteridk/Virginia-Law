@@ -1,0 +1,3 @@
+# § 9.1-919 Notice of penalty on forms and documents.
+
+<p>The Virginia Criminal Information Network and any form or document used by the Department of State Police to disseminate information from the Registry shall provide notice that any unauthorized use of the information with the intent to harass or intimidate another is a crime punishable as a Class 1 misdemeanor.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0391'>391</a>.</p>

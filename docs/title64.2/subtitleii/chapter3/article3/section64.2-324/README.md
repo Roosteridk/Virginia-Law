@@ -1,0 +1,3 @@
+# § 64.2-324 Uniformity of application and construction.
+
+<p>This article shall be so applied and construed as to effectuate its general purpose to make uniform the law with respect to the subject of this article among those states which enact it.</p><p>1982, c. 456, § 64.1-206; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

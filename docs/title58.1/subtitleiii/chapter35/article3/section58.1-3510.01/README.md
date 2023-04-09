@@ -1,0 +1,3 @@
+# § 58.1-3510.01 Separate classification of merchants' capital of pharmaceutical wholesalers.
+
+<p>Merchants' capital reported as inventory of pharmaceutical wholesalers shall constitute a classification for local taxation separate from other classifications of merchants' capital as defined in § <a href='http://law.lis.virginia.gov/vacode/58.1-3510/'>58.1-3510</a>. The governing body of any county, city or town may levy a tax on such inventory at different rates from the tax levied on other merchants' capital. The rates of tax and the rates of assessment shall not exceed that applicable generally to merchants' capital.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0071'>71</a>.</p>

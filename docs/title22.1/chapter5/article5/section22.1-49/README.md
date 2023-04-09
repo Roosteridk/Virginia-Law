@@ -1,0 +1,3 @@
+# § 22.1-49 City school districts.
+
+<p>As used in this article, "district" shall mean a school district. The school board of a city to which the provisions of this article are applicable shall have power, subject to the approval of the governing body of the city, to prescribe the number and boundaries of the school districts; but until such provision is made every such city which is not divided into wards shall constitute a single school district, and in every city which is divided into wards, each ward shall be a school district. The number and boundaries of districts shall be duly reported to the Superintendent of Public Instruction and recorded in his office and also in that of the clerk of the circuit court of the city.</p><p>Code 1950, § 22-44; 1980, c. 559.</p>

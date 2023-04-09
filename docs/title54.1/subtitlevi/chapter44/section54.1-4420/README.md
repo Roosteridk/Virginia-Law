@@ -1,0 +1,3 @@
+# § 54.1-4420 Annual audit.
+
+<p>The Board's financial statements shall be prepared in accordance with generally accepted accounting principles and shall be audited annually by the Auditor of Public Accounts, or his legally authorized representatives, or by a firm selected by the Board through a competitive procurement.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0832'>832</a>; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0804'>804</a>.</p>

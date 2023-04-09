@@ -1,0 +1,3 @@
+# § 15.2-1712 Employment of off-duty officers.
+
+<p>Notwithstanding the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/2.2-3100/'>2.2-3100</a> through <a href='http://law.lis.virginia.gov/vacode/2.2-3127/'>2.2-3127</a>, any locality may adopt an ordinance which permits law-enforcement officers and deputy sheriffs in such locality to engage in off-duty employment which may occasionally require the use of their police powers in the performance of such employment. Such ordinance may include reasonable rules to apply to such off-duty employment, or it may delegate the promulgation of such reasonable rules to the chief of the respective police departments or the sheriff of the county or city.</p><p>1978, c. 537, § 15.1-133.1; 1997, c. 587.</p>

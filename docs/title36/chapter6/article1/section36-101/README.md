@@ -1,0 +1,3 @@
+# § 36-101 Effective date of Code; when local codes may remain in effect.
+
+<p>No Code provisions shall be made effective prior to January 1, 1973, or later than September 1, 1973; provided that the initial Building Code shall not become effective earlier than 180 days after the publication thereof.</p><p>It is further provided that where, in the opinion of the Review Board, local codes are in substantial conformity with the State Code the local code may, with the concurrence of the Review Board remain in effect for two years from the effective day of the State Code for transition to implementation of the State Code.</p><p>1972, c. 829.</p>

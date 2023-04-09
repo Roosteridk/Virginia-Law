@@ -1,0 +1,3 @@
+# § 10.1-553 Petition by landowners.
+
+<p>Any time after two years after the organization of a district, any twenty-five owners of land lying within the boundaries of the district may file a petition with the Board requesting that the operations of the district be terminated and the existence of the district discontinued.</p><p>Code 1950, § 21-106; 1964, c. 512; 1988, c. 891.</p>

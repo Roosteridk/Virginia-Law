@@ -1,0 +1,3 @@
+# § 6.2-1513 Record and notice of revocation or suspension.
+
+<p>Whenever the Commission revokes or suspends a license issued pursuant to this chapter, it shall:</p><p>1. Enter an order to that effect, which order shall set forth its findings;</p><p>2. Compile a record containing (i) a summary of the evidence, (ii) the findings with respect thereto, (iii) the order, and (iv) the reasons supporting the revocation or suspension; and</p><p>3. Serve a copy of the order upon the licensee.</p><p>Code 1950, § 6-292; 1966, c. 584, § 6.1-262; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

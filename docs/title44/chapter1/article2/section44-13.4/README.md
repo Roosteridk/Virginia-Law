@@ -1,0 +1,3 @@
+# § 44-13.4 Risk management.
+
+<p>The MWR Program shall be eligible to participate in the state risk management pool. The MWR Program shall procure separate insurance policies to cover liability associated with activities and operations not otherwise covered in the state risk management pool or by the Division of Risk Management.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0622'>622</a>.</p>

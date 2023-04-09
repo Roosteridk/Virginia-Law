@@ -1,0 +1,3 @@
+# § 2.2-4808 Provision of state services to delinquent debtors.
+
+<p>Each state agency and institution shall develop internal policies and procedures, in accordance with accounts receivable policies of the Department of Accounts and the Attorney General, for delaying or withholding certain state services to those persons who refuse to pay their debts.</p><p>1988, c. 544, § 2.1-735; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

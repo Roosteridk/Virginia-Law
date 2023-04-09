@@ -1,0 +1,3 @@
+# § 45.2-900  Scope of chapter.
+
+<p>This chapter applies to the operation of any surface coal mine in the Commonwealth and supplements the provisions of Chapter 5 (§ <a href='/vacode/45.2-500/'>45.2-500</a> et seq.).</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.253; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

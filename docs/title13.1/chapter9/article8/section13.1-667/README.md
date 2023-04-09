@@ -1,0 +1,3 @@
+# § 13.1-667 Action by single and multiple voting groups.
+
+<p>A. If the articles of incorporation or this chapter provides for voting by a single voting group on a matter, action on that matter is taken when voted upon by that voting group as provided in § <a href='/vacode/13.1-666/'>13.1-666</a>.</p><p>B. If the articles of incorporation or this chapter provides for voting by two or more voting groups on a matter, action on that matter is taken only when voted upon by each of those voting groups counted separately as provided in § <a href='/vacode/13.1-666/'>13.1-666</a>. Action may be taken by different voting groups on a matter at different times.</p><p>1985, c. 522; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0734'>734</a>.</p>

@@ -1,0 +1,3 @@
+# § 8.8A-305 Instruction.
+
+<p>(a) If an instruction has been originated by an appropriate person but is incomplete in any other respect, any person may complete it as authorized and the issuer may rely on it as completed, even though it has been completed incorrectly.</p><p>(b) Unless otherwise agreed, a person initiating an instruction assumes only the obligations imposed by § <a href='http://law.lis.virginia.gov/vacode/8.8A-108/'>8.8A-108</a> and not an obligation that the security will be honored by the issuer.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0216'>216</a>.</p>

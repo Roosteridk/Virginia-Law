@@ -1,0 +1,3 @@
+# § 28.2-1318 Violations; penalty.
+
+<p>Any person who knowingly, intentionally, or negligently violates any order, rule, or regulation of the Commission or of a wetlands board established pursuant to this chapter, any provision of this chapter or of a wetlands zoning ordinance enacted pursuant to this chapter, or any provision of a permit granted pursuant to this chapter is guilty of a Class 1 misdemeanor. Following a conviction, every day the violation continues is a separate offense.</p><p>1972, c. 711, § 62.1-13.18; 1992, c. 836.</p>

@@ -1,0 +1,3 @@
+# § 55.1-2603 Status of title to property acquired from museum.
+
+<p>Any person who purchases property from a museum acquires good title to the property if the museum represents that it has acquired title to the property pursuant to § <a href='/vacode/55.1-2601/'>55.1-2601</a>.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0883'>883</a>, § 55-210.34; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

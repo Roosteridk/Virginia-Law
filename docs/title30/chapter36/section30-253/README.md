@@ -1,0 +1,3 @@
+# § 30-253 Term.
+
+<p>The duration of this Agreement among the Commonwealth of Virginia, the state of Maryland, and the Commonwealth of Pennsylvania shall be for an initial period of 10 years from its effective date, and it shall be continued for additional periods of 10 years unless one or more of the signatory states, by authority of an act of its legislature, notifies the Commission of intention to terminate the Agreement at the end of the current 10-year term. However, any signatory, by act of its legislature, can withdraw from the Agreement at the end of any calendar year or fiscal year.</p><p>1980, c. 662, § 62.1-69.18; 1985, c. 149; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1000'>1000</a>.</p>

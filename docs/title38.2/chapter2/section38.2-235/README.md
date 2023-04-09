@@ -1,0 +1,3 @@
+# § 38.2-235 Liability insurance; carbon monoxide exclusions.
+
+<p>No policy of insurance furnishing personal injury liability or property damage liability coverage as defined in §§ <a href='http://law.lis.virginia.gov/vacode/38.2-117/'>38.2-117</a> and <a href='http://law.lis.virginia.gov/vacode/38.2-118/'>38.2-118</a>, including any endorsements thereto, shall be deemed to exclude coverage for the discharge, dispersal, seepage, migration, release, emission, leakage or escape of carbon monoxide from a residential or commercial heating system unless excluded in such policy by explicit reference thereto.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0157'>157</a>.</p>

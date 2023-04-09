@@ -1,0 +1,3 @@
+# § 13.1-1251 Annual registration fees to be assessed and collected by Commission; application of payment.
+
+<p>The Commission shall assess and collect the annual registration fees imposed by this chapter. When the Commission receives payment of a registration fee assessed against a domestic or foreign business trust, such payment shall be applied against any unpaid registration fees previously assessed against such business trust, including any penalties incurred thereon, beginning with the assessment that has remained unpaid for the longest period of time.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0621'>621</a>.</p>

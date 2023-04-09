@@ -1,0 +1,3 @@
+# § 28.2-536 Taking clams in certain areas; penalty.
+
+<p>It is unlawful to take or catch clams in Pocomoke Sound above a line drawn from Drum Bay Point, in the County of Accomack, and running a north-northwest course to the line between the States of Maryland and Virginia, except upon such grounds in those waters as may be set aside by the Commission for public clamming.</p><p>Any person who violates this section is guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 28-137; 1960, c. 517; 1962, c. 406, § 28.1-120; 1964, c. 393; 1966, c. 684; 1970, c. 726; 1979, c. 274; 1991, c. 285; 1992, c. 836.</p>

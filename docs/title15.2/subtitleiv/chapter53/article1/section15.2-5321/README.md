@@ -1,0 +1,3 @@
+# § 15.2-5321 Chapter controlling.
+
+<p>Insofar as the provisions of this chapter are inconsistent with the provisions of any other law, the provisions of this chapter shall be controlling. Nothing in this chapter shall prevent any city from establishing, equipping, and operating a hospital or hospitals or improving or extending existing hospitals and hospital facilities under the provisions of its charter or any general law other than this chapter.</p><p>Code 1950, § 32-235; 1979, c. 719, § 15.1-1554; 1997, c. 587.</p>

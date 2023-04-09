@@ -1,0 +1,3 @@
+# § 15.2-936 Garbage and refuse disposal; fee exemption.
+
+<p>Persons may be exempted, deferred, or charged a lesser amount by a locality from paying any charges and fees authorized by any law for the collection and disposal of garbage and refuse. Ordinances providing for such exemptions, deferrals or charges of lesser amounts may be conditioned upon only the income criteria as provided by § <a href='http://law.lis.virginia.gov/vacode/58.1-3211/'>58.1-3211</a> as in effect on December 31, 2010.</p><p>1992, cc. 197, 458, § 15.1-11.04; 1993, cc. 643, 651; 1997, c. 587; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0438'>438</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0496'>496</a>.</p>

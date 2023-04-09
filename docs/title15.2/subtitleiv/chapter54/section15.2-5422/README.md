@@ -1,0 +1,3 @@
+# § 15.2-5422 Bonds exempt from taxation.
+
+<p>Bonds, their transfer and the income therefrom, including any profit made on the sale thereof, shall at all times be exempt from all taxation by the Commonwealth or any political subdivision thereof, except inheritance or gift taxes.</p><p>1979, c. 416, § 15.1-1625; 1997, c. 587.</p>

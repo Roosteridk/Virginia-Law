@@ -1,0 +1,3 @@
+# § 30-117 Confidentiality of proceedings.
+
+<p>All proceedings during the investigation of any complaint by the Panel shall be confidential. This rule of confidentiality shall apply to Panel members and their staff, the Committee on Privileges and Elections and its staff, and the Virginia Conflict of Interest and Ethics Advisory Council.</p><p>1987, Sp. Sess., c. 1, § 2.1-639.49; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0792'>792</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0804'>804</a>.</p>

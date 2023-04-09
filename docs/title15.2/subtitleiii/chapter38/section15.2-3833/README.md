@@ -1,0 +1,3 @@
+# § 15.2-3833 Chapter not applicable to cities already existing.
+
+<p>This chapter shall not affect the organization, government, officers, charter or laws governing any city declared to be such prior to January 1, 1976, under former acts of the General Assembly. Statutes under which cities declared to be such prior to January 1, 1976, were organized as cities shall continue in force.</p><p>Code 1950, § 15-108; 1962, c. 623, § 15.1-1009; 1979, c. 85; 1997, c. 587.</p>

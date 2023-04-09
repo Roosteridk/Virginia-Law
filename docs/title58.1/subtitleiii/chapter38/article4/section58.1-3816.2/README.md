@@ -1,0 +1,3 @@
+# § 58.1-3816.2 Exemptions from consumer utility taxes.
+
+<p>The governing body of any county, city or town may exempt utilities consumed on all property that has been designated or classified as exempt from property taxes pursuant to Article X, Section 6 (a) (2) or Article X, Section 6 (a) (6) of the Constitution of Virginia, from the consumer utility taxes that may be imposed under this article.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0302'>302</a>; 2004, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0008'>8</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0159'>159</a>; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0780'>780</a>.</p>

@@ -1,0 +1,3 @@
+# § 58.1-474 Liability of employer for failure to withhold.
+
+<p>Every employer who fails to withhold or pay to the Tax Commissioner any sums required by this article to be withheld and paid shall be personally and individually liable therefor. Any sum or sums withheld in accordance with the provisions of this article shall be deemed to be held in trust for the Commonwealth.</p><p>Code 1950, § 58-151.13; 1962, c. 612; 1968, c. 12; 1970, c. 540; 1972, c. 827; 1973, c. 279; 1974, c. 636; 1975, c. 49; 1977, cc. 396, 663; 1981, c. 283; 1984, c. 675.</p>

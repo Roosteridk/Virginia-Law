@@ -1,0 +1,3 @@
+# § 38.2-3527 Grace period.
+
+<p>Each group accident and sickness insurance policy shall contain a provision that the policyowner is entitled to a grace period of not less than thirty-one days for the payment of any premium due except the first premium. The provision shall also state that during the grace period the accident and sickness coverage shall continue in force unless the policyowner has given the insurer written notice of discontinuance in accordance with the terms of the policy and in advance of the date of discontinuance. The policy may provide that the policyowner shall be liable to the insurer for the payment of a pro rata premium for the time the policy was in force during the grace period.</p><p>1986, c. 562.</p>

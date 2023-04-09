@@ -1,0 +1,3 @@
+# § 29.1-733.3 Applicability.
+
+<p>Subject to § <a href='http://law.lis.virginia.gov/vacode/29.1-733.29/'>29.1-733.29</a>, this article applies to any transaction, certificate of title, or record relating to a watercraft, even if the transaction, certificate of title, or record was entered into or created before July 1, 2014.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0787'>787</a>.</p>

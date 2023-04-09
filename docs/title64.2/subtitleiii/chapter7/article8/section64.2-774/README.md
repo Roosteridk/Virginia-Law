@@ -1,0 +1,3 @@
+# § 64.2-774 Collecting trust property.
+
+<p>A trustee shall take reasonable steps to compel a former trustee or other person to deliver trust property to the trustee, and to redress a breach of trust or duty known to the trustee to have been committed by a former trustee or other fiduciary.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-548.12; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,0 +1,3 @@
+# § 18.2-107 Theft or destruction of public records by others than officers.
+
+<p>If any person steal or fraudulently secrete or destroy a public record or part thereof, including a microphotographic copy thereof, he shall, if the offense be not embraced by § <a href='http://law.lis.virginia.gov/vacode/18.2-472/'>18.2-472</a> be guilty of a Class 6 felony.</p><p>Code 1950, § 18.1-308; 1960, c. 358; 1974, c. 649; 1975, cc. 14, 15; 1977, c. 107.</p>

@@ -1,0 +1,3 @@
+# § 58.1-4119 Application for service permit.
+
+<p>A. Any person desiring to obtain a service permit as required by this chapter shall apply on a form prescribed by the Department. The application shall be accompanied by a fee prescribed by the Department.</p><p>B. Any application filed hereunder shall be verified by the oath or affirmation of the applicant.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1197'>1197</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1248'>1248</a>.</p>

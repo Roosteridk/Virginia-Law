@@ -1,0 +1,3 @@
+# § 18.2-263 Unnecessary to negative exception, etc.; burden of proof of exception, etc.
+
+<p>In any complaint, information, or indictment, and in any action or proceeding brought for the enforcement of any provision of this article or of the Drug Control Act (§ <a href='http://law.lis.virginia.gov/vacode/54.1-3400/'>54.1-3400</a> et seq.), it shall not be necessary to negative any exception, excuse, proviso, or exemption contained in this article or in the Drug Control Act, and the burden of proof of any such exception, excuse, proviso, or exemption shall be upon the defendant.</p><p>Code 1950, § 54-524.108; 1970, c. 650; 1975, cc. 14, 15.</p>

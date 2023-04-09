@@ -1,0 +1,3 @@
+# § 54.1-3938 Service of process in license revocation proceedings.
+
+<p>If personal service of process cannot be had upon the defendant in license revocation proceedings, proceedings may be had by order of publication on proper affidavit.</p><p>Code 1950, § 54-76; 1987, c. 567; 1988, c. 765.</p>

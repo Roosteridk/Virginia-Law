@@ -1,0 +1,3 @@
+# § 55.1-2826 How notice given.
+
+<p>Any notice required to be given pursuant to this article shall be given to the landowner, if he resides in the county in which the land lies; otherwise, it may be given to such person as, under the laws of the Commonwealth, would be his agent or to any person occupying such land as tenant of the landowner, who shall, for the purposes of this article, be deemed the agent of such landowner.</p><p>Code 1950, § 8-892; 1977, c. 624, § 55-322; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

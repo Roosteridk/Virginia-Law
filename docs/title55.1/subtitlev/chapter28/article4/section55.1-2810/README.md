@@ -1,0 +1,3 @@
+# § 55.1-2810 Damages for trespass by animals; punitive and double damages.
+
+<p>A. If any domesticated livestock enters into any grounds enclosed by a lawful fence, as defined in §§ <a href='/vacode/55.1-2804/'>55.1-2804</a> through <a href='/vacode/55.1-2807/'>55.1-2807</a>, the owner or manager of any such animal shall be liable for the actual damages sustained.</p><p>B. Punitive damages may be awarded but shall not exceed $20 in any case.</p><p>C. For every second and subsequent trespass, the owner or manager of such animal shall be liable for double damages, both actual and punitive.</p><p>Code 1950, §§ 8-874 through 8-876; 1977, c. 624, § 55-306; 1979, c. 486; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

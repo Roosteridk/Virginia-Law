@@ -1,0 +1,3 @@
+# § 38.2-1325 Alternate filing materials.
+
+<p>If any acquisition referred to in § <a href='http://law.lis.virginia.gov/vacode/38.2-1323/'>38.2-1323</a> is proposed to be made by means of a registration statement under the Securities Act of 1933 or in circumstances requiring the disclosure of similar information under the Securities Exchange Act of 1934, the person required by § <a href='http://law.lis.virginia.gov/vacode/38.2-1323/'>38.2-1323</a> to file an application may use these documents in furnishing the required information.</p><p>1977, c. 414, § 38.1-178.1:3; 1986, c. 562; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0309'>309</a>.</p>

@@ -1,0 +1,3 @@
+# § 21-127 Amount of bonds.
+
+<p>The governing body at its next meeting or as soon thereafter as practicable, shall determine what amount of bonds shall be issued for the purposes defined in the order calling the election.</p><p>The maximum amount of bonds issued shall in no case exceed the limitations prescribed in § <a href='http://law.lis.virginia.gov/vacode/21-122/'>21-122</a>, and in the event such governing body does not at such meeting direct the present issuing of all bonds, it may thereafter, from time to time, direct the residue thereof to be issued to carry out the wishes of the voters, so far as necessary, as expressed in such election.</p><p>1946, p. 181; Michie Suppl. 1946, § 1560z6.</p>

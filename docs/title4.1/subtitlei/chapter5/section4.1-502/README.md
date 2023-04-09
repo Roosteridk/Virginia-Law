@@ -1,0 +1,3 @@
+# § 4.1-502 No inducement or coercion.
+
+<p>No brewery shall:</p><p>1. Induce or coerce, or attempt to induce or coerce, any beer wholesaler to accept delivery of any beer or any other commodity which has not been ordered by the beer wholesaler.</p><p>2. Induce or coerce, or attempt to induce or coerce, any beer wholesaler to do any illegal act by any means including, but not limited to, threatening to amend, cancel, terminate, or refuse to renew any agreement existing between a brewery and beer wholesaler.</p><p>3. Require a beer wholesaler to assent to any condition, stipulation or provision limiting the wholesaler in his right to sell the product of any other brewery anywhere in the Commonwealth.</p><p>1978, c. 579, § 4-118.5; 1993, c. 866.</p>

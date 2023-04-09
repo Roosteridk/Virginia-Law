@@ -1,0 +1,3 @@
+# § 16.1-69.17 Oath of office of judges, clerks and others.
+
+<p>Every judge, substitute judge, clerk, deputy clerk, and juvenile and domestic relations probation officer of a juvenile and domestic relations district court shall, before entering upon the duties of his office, take the oath required by law. The oath of the judge and substitute judge shall be taken before a clerk of a court of record to which appeals from his court lie or any judge, and the oath of the clerk and other officers of the court shall be taken before the judge of the court he serves. Any oath taken before a judge or clerk prior to July 1, 1992, and otherwise conforming with this section is valid.</p><p>1972, c. 708; 1973, c. 546; 1992, c. 390; 1992, Sp. Sess., cc. 1, 2.</p>

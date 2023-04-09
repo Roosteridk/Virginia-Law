@@ -1,0 +1,3 @@
+# § 10.1-542 Financial aid to agencies and occupiers.
+
+<p>Districts are authorized to enter into agreements, within the limits of available appropriations, to give, lend or otherwise furnish financial or other aid to any governmental or other agency, or any occupier of lands within the district, to provide erosion-control and prevention operations and works of improvement for flood prevention or agricultural and nonagricultural phases of the conservation, development, utilization, and disposal of water within the district. Agreements shall be subject to such conditions as the directors may deem necessary to advance the purposes of this chapter.</p><p>Code 1950, § 21-57; 1956, c. 654; 1970, c. 480; 1988, c. 891.</p>

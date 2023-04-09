@@ -1,0 +1,3 @@
+# § 28.2-519 Use of rakes or scrapes on ocean side of Eastern Shore; penalty.
+
+<p>It shall be unlawful for any person to use dredges, scrapes, rakes other than hand rakes, or other like devices to take or catch crabs, clams, or shells from the public rocks, beds, or shoals on the ocean side of the Counties of Accomack and Northampton.</p><p>A violation of this section is a Class 3 misdemeanor.</p><p>Code 1950, § 28-198; 1962, c. 406, § 28.1-143; 1992, c. 836.</p>

@@ -1,0 +1,3 @@
+# § 4.1-512 Retaliatory action prohibited.
+
+<p>A brewery shall not take retaliatory action against a wholesaler who files or manifests an intention to file a complaint of alleged violation of state or federal law or regulation by the brewery with the appropriate state or federal regulatory or judicial authority. Retaliatory action shall include, but is not limited to, refusal without good cause to continue the agreement, or a material reduction in the amount and quality of service or quantity of products available to the wholesaler under the agreement.</p><p>1978, c. 579, § 4-118.13; 1993, c. 866.</p>

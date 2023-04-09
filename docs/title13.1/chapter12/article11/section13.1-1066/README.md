@@ -1,0 +1,3 @@
+# § 13.1-1066 Collection of unpaid bills for annual registration fees.
+
+<p>The annual registration fee with penalty and interest shall be enforceable, in addition to existing remedies for the collection of taxes, levies, and fees, by action in the name of the Commonwealth in the appropriate circuit court. Venue shall be in accordance with § <a href='http://law.lis.virginia.gov/vacode/8.01-261/'>8.01-261</a>.</p><p>1991, c. 168; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0288'>288</a>.</p>

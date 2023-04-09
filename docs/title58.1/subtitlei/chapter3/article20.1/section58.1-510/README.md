@@ -1,0 +1,3 @@
+# § 58.1-510 Purpose.
+
+<p>The purpose of this act is to supplement existing land conservation programs to further encourage the preservation and sustainability of Virginia's unique natural resources, wildlife habitats, open spaces and forested resources.</p><p>1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0968'>968</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0983'>983</a>.</p>

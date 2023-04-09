@@ -1,0 +1,3 @@
+# § 55.1-636 Acknowledgments taken by notaries in foreign countries.
+
+<p>All certificates of acknowledgment to deeds and other writings taken and certified prior to July 1, 1995, by notaries public residing in foreign countries shall be held and are hereby declared valid and effective in all respects if otherwise valid according to the law then in force.</p><p>1918, p. 506; 1936, p. 101; Michie Code 1942, §§ 5209e, 5209k; Code 1950, § 55-130; 1960, c. 285; 1972, c. 631; 1976, c. 685; 1984, c. 35; 1989, c. 602; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0048'>48</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

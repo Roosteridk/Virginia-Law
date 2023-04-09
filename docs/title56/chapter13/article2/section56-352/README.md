@@ -1,0 +1,3 @@
+# § 56-352 Railroad to have an insurable interest in property along its route.
+
+<p>Every railroad company is hereby invested with an insurable interest in the property upon the route operated by it, and may procure insurance thereupon in its own behalf for protection against any damage to such property by fire or otherwise, for which such company shall or might be liable.</p><p>Code 1919, § 4018.</p>

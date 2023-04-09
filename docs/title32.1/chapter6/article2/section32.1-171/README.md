@@ -1,0 +1,3 @@
+# § 32.1-171 Technical assistance as to sources and purity.
+
+<p>The Commissioner shall, upon request and without charge, provide technical assistance to owners regarding the most appropriate source of water supply and the best method of assuring pure water, but the Commissioner shall not prepare plans, specifications or detailed estimates for such owners. The technical assistance provided by this section shall be exclusive of the Waterworks Technical Assistance Program required by § <a href='http://law.lis.virginia.gov/vacode/32.1-171.1/'>32.1-171.1</a>.</p><p>Code 1950, § 62.1-49; 1964, c. 475; 1968, c. 659; 1979, c. 711; 1992, c. 804.</p>

@@ -1,0 +1,3 @@
+# § 58.1-439.19 Public policy; business firms; donations.
+
+<p>It is hereby declared to be public policy of the Commonwealth to encourage business firms to make donations to neighborhood organizations for the benefit of low-income persons.</p><p>1981, c. 629, § 63.1-322; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0640'>640</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>, § 63.2-2001; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0585'>585</a>; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0731'>731</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0842'>842</a>.</p>

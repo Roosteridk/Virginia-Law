@@ -1,0 +1,3 @@
+# § 54.1-2980 Article inapplicable to certain medical or surgical treatment.
+
+<p>No provision in this article shall apply to or be construed so as to prevent, control, or regulate the medical or surgical treatment for sound therapeutic reasons of any person in this Commonwealth by a physician licensed by the Board of Medicine, which treatment may require sexual sterilization or may involve the nullification or destruction of the reproductive functions. For the purposes of this section the sterilization of a person whose health would be endangered by a pregnancy shall be deemed a medical or surgical treatment for sound therapeutic reasons.</p><p>1981, c. 454, § 54-325.15; 1988, c. 765.</p>

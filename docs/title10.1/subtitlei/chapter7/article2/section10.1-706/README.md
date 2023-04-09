@@ -1,0 +1,3 @@
+# § 10.1-706 Duties of the Department.
+
+<p>The Department shall:</p><p>1. Promote understanding of the value of public beaches and the causes and effects of erosion;</p><p>2. Make available information concerning erosion of public beaches;</p><p>3. Encourage research and development of new erosion control techniques and new sources of sand for public beach enhancement.</p><p>1980, c. 428, § 10-216; 1984, c. 235; 1988, c. 891.</p>

@@ -1,0 +1,3 @@
+# § 32.1-238 Impounding sources of ionizing radiation.
+
+<p>The Department is authorized, in the event of an emergency or under other circumstances constituting a hazard to health and safety, to impound or order the impounding of sources of ionizing radiation in the possession of any person who is not equipped to observe or fails to observe the provisions of this article or any regulations issued thereunder.</p><p>Code 1950, § 32-414.17; 1964, c. 158; 1979, c. 711; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0041'>41</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0466'>466</a>.</p>

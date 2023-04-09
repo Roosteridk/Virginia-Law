@@ -1,0 +1,3 @@
+# § 15.2-3546 Effect on jurisdiction of courts.
+
+<p>Unless and until changed by general law, the jurisdiction and authority of the circuit courts having jurisdiction within any area covered by the consolidation agreement shall remain as provided for in general law as if no consolidation had occurred.</p><p>Code 1950, § 15-230; 1956, c. 554; 1958, c. 101; 1962, c. 623, § 15.1-1144; 1997, c. 587.</p>

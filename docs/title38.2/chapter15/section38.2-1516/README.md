@@ -1,0 +1,3 @@
+# § 38.2-1516 Receivers to file reports, etc., with Commission.
+
+<p>Each receiver appointed in delinquency proceedings shall file with the Commission annually a report of the affairs of the insurer in the form prescribed by the Commission. Each receiver shall file with the Commission copies of all reports, petitions, court orders, and other pertinent papers dealing with the delinquency proceeding.</p><p>Code 1950, § 38-142; 1952, c. 317, § 38.1-140; 1986, c. 562.</p>

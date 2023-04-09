@@ -1,0 +1,3 @@
+# § 59.1-205 Additional relief.
+
+<p>The circuit court may make such additional orders or decrees as may be necessary to restore to any identifiable person any money or property, real, personal, or mixed, tangible or intangible, which may have been acquired from such person by means of any act or practice declared to be unlawful in § <a href='http://law.lis.virginia.gov/vacode/59.1-200/'>59.1-200</a> or <a href='http://law.lis.virginia.gov/vacode/59.1-200.1/'>59.1-200.1</a>, provided, that such person shall be identified by order of the court within 180 days from the date of the order permanently enjoining the unlawful act or practice.</p><p>1977, c. 635; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0485'>485</a>.</p>

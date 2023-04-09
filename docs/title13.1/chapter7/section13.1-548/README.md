@@ -1,0 +1,3 @@
+# § 13.1-548 Corporation not to engage in other business; investment of funds.
+
+<p>No corporation organized under this chapter shall engage in any business other than the rendering of the professional services for which it was specifically incorporated; provided, however, nothing in this chapter or in any other provisions of existing law applicable to corporations shall be interpreted to prohibit such corporation from investing its funds in real estate, mortgages, stocks, bonds or any other type of investments, from owning real or personal property, or from exercising any other investment power granted to corporations under this title and not in conflict with the provisions of this chapter.</p><p>1970, c. 77; 1975, c. 543.</p>

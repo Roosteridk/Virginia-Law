@@ -1,0 +1,3 @@
+# § 32.1-209 Denial, revocation or suspension of permits.
+
+<p>A. The Commissioner may deny, revoke or suspend a permit for a camp when the Commissioner determines that the camp or the proposed operation thereof does not conform to or is in violation of any provision of this article or any applicable regulations.</p><p>B. A new permit shall be issued upon application therefor when the camp is in compliance with the provisions of this article and any applicable regulations.</p><p>Code 1950, § 32-416; 1962, c. 251; 1979, c. 711.</p>

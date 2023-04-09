@@ -1,0 +1,3 @@
+# § 55.1-1247 Sheriffs authorized to serve certain notices; fee for service.
+
+<p>The sheriff of any county or city, upon request, may deliver any notice to a tenant on behalf of a landlord or lessor under the provisions of § <a href='/vacode/55.1-1245/'>55.1-1245</a> or <a href='/vacode/55.1-1415/'>55.1-1415</a>. For this service, the sheriff shall be allowed a fee not to exceed $12.</p><p>1981, c. 148, § 55-248.31:1; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0051'>51</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

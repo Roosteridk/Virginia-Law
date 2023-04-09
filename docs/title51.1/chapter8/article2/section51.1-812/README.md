@@ -1,0 +1,3 @@
+# § 51.1-812 Disability from natural causes not originating in performance of official duties.
+
+<p>Any member disabled on account of a natural cause or causes not originating in the performance of the member's official duties shall receive a minimum sum equal to ten percent of the member's salary, during such disability, if the member's disability occurs at any time during the first five years of service and an additional amount equal to two percent of the member's salary for each additional year of service exceeding five years. At no time shall the disability payment amount exceed one-half of the member's salary.</p><p>1940, p. 739; Michie Code 1942, § 3035j; Code 1950, § 51-121; 1990, c. 832.</p>

@@ -1,0 +1,3 @@
+# § 3.2-3222 Penalties.
+
+<p>Any person violating any provision of this chapter or of any license issued by the Commission is guilty of a Class 2 misdemeanor. Each day during which such violation shall continue shall be deemed a separate violation. Prosecutions shall be instituted by the attorney for the Commonwealth.</p><p>Code 1950, § 3-380; 1966, c. 702, § 3.1-459; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

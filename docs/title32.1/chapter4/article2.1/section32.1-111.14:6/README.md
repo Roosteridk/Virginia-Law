@@ -1,0 +1,3 @@
+# § 32.1-111.14:6 Supervision and control of joint services of emergency medical services agencies.
+
+<p>Whenever two or more emergency medical services agencies are called to provide joint services in any district or political subdivision, the incident commander of the first agency to arrive shall have general supervision and control of all such participating agencies until an officer of such district or political subdivision who is otherwise authorized by law to do so shall assume such general supervision and control.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

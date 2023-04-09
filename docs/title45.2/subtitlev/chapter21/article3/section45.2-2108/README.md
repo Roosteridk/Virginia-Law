@@ -1,0 +1,3 @@
+# § 45.2-2108  Definitions.
+
+<p>As used in this article, unless the context requires a different meaning:</p><p>"Exploration activity" means and is limited to the drilling of test holes or stratigraphic or core holes of a depth in excess of 50 feet for the purpose of determining the location, quantity, or quality of uranium ore.</p><p>"Person" means any individual, firm, corporation, partnership, association, or other legal entity.</p><p>"Usable quality water" means groundwater that is used or can be used for a beneficial purpose, including a domestic, livestock, or irrigation use.</p><p>1982, c. 269, § 45.1-273; 1984, c. 590; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

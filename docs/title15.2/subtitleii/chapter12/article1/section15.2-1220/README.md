@@ -1,0 +1,3 @@
+# § 15.2-1220 Regulation by certain counties of persons and vehicles.
+
+<p>The Counties of Franklin, Pulaski, and York may by ordinance impose reasonable regulations to provide for the comfort, safety and health of the general public and persons assembled, or traveling to assemble, for any outdoor occasion.</p><p>Such regulations may cover the following: (i) hours of operation, (ii) sanitary facility requirements, (iii) security personnel requirements, and (iv) maximum noise levels.</p><p>1986, c. 98, § 15.1-514.2; 1988, c. 148; 1997, c. 587; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0813'>813</a>.</p>

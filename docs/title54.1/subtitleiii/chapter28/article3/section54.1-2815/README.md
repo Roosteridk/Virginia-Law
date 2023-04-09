@@ -1,0 +1,3 @@
+# § 54.1-2815 Application for license; how license signed; duration.
+
+<p>All applications for examination for a license for the practice of funeral service shall be upon forms furnished by the Board.</p><p>All licenses shall be issued or renewed for a period prescribed by the Board, not exceeding two years.</p><p>1978, c. 849, § 54-260.70:1; 1988, c. 765; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0534'>534</a>.</p>

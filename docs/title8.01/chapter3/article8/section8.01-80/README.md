@@ -1,0 +1,3 @@
+# § 8.01-80 Same; action of court on report; application of proceeds of transaction.
+
+<p>If upon the filing of the report and examination of the matter it shall appear to the court to be proper, an order shall be entered for the mortgaging, leasing, or sale, on such terms and conditions as the court may deem proper, of so much of such real estate as may be necessary; but no conveyance shall be executed until such shall have been confirmed by the court. The proceeds of such transactions shall be secured and applied under the order of the court.</p><p>Code 1950, § 8-689.3; 1977, c. 617.</p>

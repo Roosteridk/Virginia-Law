@@ -1,0 +1,3 @@
+# § 8.01-15 Suits by and against unincorporated associations or orders.
+
+<p>All unincorporated associations or orders may sue and be sued under the name by which they are commonly known and called, or under which they do business, and judgments and executions against any such association or order shall bind its real and personal property in like manner as if it were incorporated.</p><p>Code 1950, § 8-66; 1962, c. 250; 1977, c. 617.</p>

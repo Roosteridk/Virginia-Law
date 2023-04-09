@@ -1,0 +1,3 @@
+# § 19.2-339 Word "fine" construed.
+
+<p>Whenever the word "fine" is used in this chapter, it shall be construed to refer solely to the pecuniary penalty imposed by a court or jury upon a defendant who has been found guilty of a crime. The word "fine" shall not include other forfeitures, penalties, costs, amercements or the like, even though they follow as a consequence of conviction of crime.</p><p>Code 1950, § 19.1-323; 1960, c. 366; 1975, c. 495.</p>

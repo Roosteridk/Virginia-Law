@@ -1,0 +1,3 @@
+# § 8.2A-217 Identification.
+
+<p>Identification of goods as goods to which a lease contract refers may be made at any time and in any manner explicitly agreed to by the parties. In the absence of explicit agreement, identification occurs when:</p><p>(a) The lease contract is made if the lease contract is for a lease of goods that are existing and identified;</p><p>(b) The goods are shipped, marked, or otherwise designated by the lessor as goods to which the lease contract refers, if the lease contract is for a lease of goods that are not existing and identified; or</p><p>(c) The young are conceived, if the lease contract is for a lease of unborn young of animals.</p><p>1991, c. 536.</p>

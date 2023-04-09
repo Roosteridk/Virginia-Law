@@ -1,0 +1,3 @@
+# § 4.1-418 Reasonableness and good faith.
+
+<p>A. Every agreement entered into under this chapter shall impose on the parties the obligation to act in good faith.</p><p>B. This chapter shall impose on every term and provision of any agreement a requirement of reasonableness. Every term or provision shall be interpreted so that the requirements or obligations imposed therein are reasonable.</p><p>Code 1950, § 4-118.40; 1985, c. 542, § 4-118.60; 1989, c. 10; 1993, c. 866.</p>

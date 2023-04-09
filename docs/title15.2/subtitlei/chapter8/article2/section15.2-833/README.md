@@ -1,0 +1,3 @@
+# § 15.2-833 Same; obligations of chief assessing officer.
+
+<p>The chief assessing officer shall be subject to the obligations and penalties imposed by general law upon commissioners of the revenue.</p><p>Code 1950, § 15-384.53; 1960, c. 382; 1962, c. 623, § 15.1-766; 1972, c. 456; 1982, c. 647; 1987, c. 419; 1997, c. 587.</p>

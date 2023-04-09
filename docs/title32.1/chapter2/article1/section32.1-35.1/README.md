@@ -1,0 +1,3 @@
+# § 32.1-35.1 Information on health care-associated infections.
+
+<p>Health care facilities that are required to report information about health care-associated infections to the Centers for Disease Control and Prevention's National Healthcare Safety Network (NHSN) pursuant to the Centers for Medicare and Medicaid Services reporting requirements shall release such data to the Board through the NHSN.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0444'>444</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0293'>293</a>.</p>

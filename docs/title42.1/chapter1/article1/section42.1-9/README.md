@@ -1,0 +1,3 @@
+# § 42.1-9 When Library to be kept open.
+
+<p>The Library of Virginia shall be kept open for such days and hours each day as may be prescribed for other state agencies at the seat of government. But the Board may, in its discretion, prescribe additional hours in which the Library shall be kept open.</p><p>Code 1950, § 42-43; 1970, c. 606; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0064'>64</a>.</p>

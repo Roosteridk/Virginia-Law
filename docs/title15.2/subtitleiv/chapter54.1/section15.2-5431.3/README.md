@@ -1,0 +1,3 @@
+# § 15.2-5431.3 Creation of authority.
+
+<p>The governing body of a locality may by resolution, or two or more localities may by concurrent resolutions, create an authority, the name of which shall contain the word "authority." The authority shall be a public body politic and corporate. The resolution creating the authority shall not be adopted or approved until a public hearing has been held in each participating locality on the question of its adoption or approval.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0643'>643</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0299'>299</a>.</p>

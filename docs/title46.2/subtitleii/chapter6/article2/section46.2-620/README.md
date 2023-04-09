@@ -1,0 +1,3 @@
+# § 46.2-620 Period of validity of certificate of title.
+
+<p>Every certificate of title issued under this chapter shall be valid for the life of the motor vehicle, trailer, or semitrailer so long as the owner to whom it is issued shall retain legal title or right of possession of or to the vehicle. Such certificates need not be renewed except on a transfer of title or interest of the owner.</p><p>Code 1950, § 46-83; 1958, c. 541, § 46.1-86; 1989, c. 727; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0093'>93</a>.</p>

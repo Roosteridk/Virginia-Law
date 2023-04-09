@@ -1,0 +1,3 @@
+# § 19.2-55 Issuing general search warrant or search warrant without affidavit deemed malfeasance.
+
+<p>Any person having authority to issue criminal warrants who wilfully and knowingly issues a general search warrant or a search warrant without the affidavit required by § <a href='http://law.lis.virginia.gov/vacode/19.2-54/'>19.2-54</a> shall be deemed guilty of a malfeasance.</p><p>Code 1950, § 19.1-89; 1960, c. 366; 1975, c. 495.</p>

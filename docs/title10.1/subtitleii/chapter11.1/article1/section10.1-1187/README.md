@@ -1,0 +1,3 @@
+# § 10.1-1187 Provision of the Code continued.
+
+<p>The conditions, requirements, provisions, contents, powers and duties of any section, article, or chapter of the Code in effect on March 31, 1993, relating to agencies consolidated in this chapter shall apply to the Department of Environmental Quality until superseded by new legislation.</p><p>1992, c. 887.</p>

@@ -1,0 +1,3 @@
+# § 59.1-503.6 Performance under open terms.
+
+<p>A performance obligation of a party that cannot be determined from the agreement or from other provisions of this chapter requires the party to perform in a manner and in a time that is reasonable in light of the commercial circumstances existing at the time of agreement.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0101'>101</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0996'>996</a>.</p>

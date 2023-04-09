@@ -1,0 +1,3 @@
+# § 66-33 Unexpended funds.
+
+<p>In any case in which any portion of state funds obtained through a grant authorized pursuant to this chapter remains unencumbered or unexpended at the end of the fiscal year, such funds shall be returned by the locality to the State Treasurer, who shall deposit such moneys in the state general fund.</p><p>Code 1950, § 53-341; 1979, c. 698; 1982, c. 636, § 53.1-258; 1989, c. 733.</p>

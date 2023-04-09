@@ -1,0 +1,3 @@
+# § 32.1-240 Department designated state toxic substance information agency.
+
+<p>The State Department of Health is designated as the state toxic substances information agency. The Commissioner of Health may employ, compensate, and prescribe the administrative and clerical duties of such individuals as may be necessary to discharge the responsibilities imposed by this article.</p><p>Code 1950, § 32-431; 1976, c. 627; 1979, c. 711.</p>

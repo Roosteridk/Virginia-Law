@@ -1,0 +1,3 @@
+# § 3.2-5411 Limitation of inspection to plants preparing products for human food.
+
+<p>Inspection shall not be provided under this chapter at any establishment for the slaughter of livestock or poultry or the preparation of any livestock products or poultry products that are not intended for use as human food, but such articles shall, prior to their offer for sale or transportation in intrastate commerce, unless naturally inedible by humans, be denatured or otherwise identified as prescribed by regulations of the Board to deter their use for human food.</p><p>1970, c. 290, § 3.1-884.26; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

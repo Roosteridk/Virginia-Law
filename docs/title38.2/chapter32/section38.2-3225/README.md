@@ -1,0 +1,3 @@
+# § 38.2-3225 Maturity date.
+
+<p>For the purpose of determining the benefits calculated under §§ <a href='http://law.lis.virginia.gov/vacode/38.2-3223/'>38.2-3223</a> and <a href='http://law.lis.virginia.gov/vacode/38.2-3224/'>38.2-3224</a> for annuity contracts under which an election may be made to have annuity payments commence at optional maturity dates, the maturity date shall be deemed to be the latest date for which election is permitted by the contract, but shall not be deemed to be later than the anniversary of the contract next following the annuitant's seventieth birthday or the tenth anniversary of the contract, whichever is later.</p><p>1979, c. 437, § 38.1-470.1; 1986, c. 562.</p>

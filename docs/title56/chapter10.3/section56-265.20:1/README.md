@@ -1,0 +1,3 @@
+# § 56-265.20:1 Locating nonmetallic underground utility lines.
+
+<p>Notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/56-257.1/'>56-257.1</a>, any plastic or other nonmetallic utility lines installed underground on and after July 1, 2002, shall be installed in such a manner as to be locatable by the operator for the purposes of this chapter.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0841'>841</a>.</p>

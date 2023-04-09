@@ -1,0 +1,3 @@
+# § 1-201 Acts of Parliament.
+
+<p>The right and benefit of all writs, remedial and judicial, given by any statute or act of Parliament, made in aid of the common law prior to the fourth year of the reign of James the First, of a general nature, not local to England, shall still be saved, insofar as the same are consistent with the Bill of Rights and Constitution of this Commonwealth and the Acts of Assembly.</p><p>Code 1919, § 3, § 1-11; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

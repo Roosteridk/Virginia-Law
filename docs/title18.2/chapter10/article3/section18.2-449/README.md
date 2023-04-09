@@ -1,0 +1,3 @@
+# § 18.2-449 Punishment.
+
+<p>Any person found guilty of bribery under the provisions of this article shall be guilty of a Class 4 felony, and if such person be a public servant he shall in addition forfeit his public office and shall be forever incapable of holding any public office in this Commonwealth.</p><p>Code 1950, § 18.1-282.4; 1968, c. 552; 1975, cc. 14, 15.</p>

@@ -1,0 +1,3 @@
+# § 63.2-222 Establishment of system.
+
+<p>There shall be created a statewide human services information and referral system designed to:</p><p>1. Collect and maintain accurate and complete resource data on a statewide basis;</p><p>2. Link citizens needing human services with appropriate community resources to satisfy those needs;</p><p>3. Assist in planning for human services delivery at the local, regional and state levels; and</p><p>4. Provide information to assist decision-makers in allocating financial and other resources to respond to state and local human service priorities.</p><p>1984, c. 402, § 63.1-314.1; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

@@ -1,0 +1,3 @@
+# § 38.2-2220 Use of form after adoption.
+
+<p>Except as provided in § <a href='http://law.lis.virginia.gov/vacode/38.2-2223/'>38.2-2223</a>, after any standard form is adopted by the Commission, no insurer shall use any form covering substantially the same provisions contained in the standard form unless it is in the precise language of the form filed and adopted by the Commission.</p><p>Code 1950, §§ 38-240, 38-551; 1952, c. 317, § 38.1-384; 1981, c. 172; 1986, c. 562.</p>

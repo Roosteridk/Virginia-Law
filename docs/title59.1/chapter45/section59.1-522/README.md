@@ -1,0 +1,3 @@
+# § 59.1-522 Owner or operator duty to post.
+
+<p>A. The owner or operator shall post signs stating "State law requires riders to obey all warnings and directions and behave in a manner that will not cause or contribute to injuring themselves or others. Riders shall report all injuries before leaving."</p><p>B. Such signs shall be posted at (i) any station designated for reporting an injury, (ii) any first aid station, and (iii) every entrance or exit to or from the premises designated for riders or any area or structure at which riders may purchase admission or obtain authority to use an amusement device.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0788'>788</a>.</p>

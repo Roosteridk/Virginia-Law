@@ -1,0 +1,3 @@
+# § 58.1-1017.2 Sealed pack labeled as cigarettes; prima facie evidence of cigarettes.
+
+<p>In any prosecution for violations of this title, where a sealed pack is labeled as containing cigarettes, such labeling shall be prima facie evidence that the contents of the pack meet the definition of "cigarette" as defined by § <a href='http://law.lis.virginia.gov/vacode/58.1-1000/'>58.1-1000</a>. Nothing shall preclude the introduction of other relevant evidence to establish the contents of a pack, whether sealed or not.</p><p>2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0301'>301</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0422'>422</a>.</p>

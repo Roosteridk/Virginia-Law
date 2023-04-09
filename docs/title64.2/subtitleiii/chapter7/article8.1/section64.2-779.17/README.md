@@ -1,0 +1,3 @@
+# § 64.2-779.17 Duration of second trust.
+
+<p>A. Subject to subsection B, a second trust may have a duration that is the same as or different from the duration of the first trust.</p><p>B. To the extent that property of a second trust is attributable to property of the first trust, the property of the second trust is subject to any rules governing maximum perpetuity, accumulation, or suspension of the power of alienation that apply to property of the first trust.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0592'>592</a>.</p>

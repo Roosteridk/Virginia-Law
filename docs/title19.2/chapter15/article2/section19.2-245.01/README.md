@@ -1,0 +1,3 @@
+# § 19.2-245.01 Offenses involving reports or statements concerning cigarette sales or stamping.
+
+<p>Any criminal violation of Chapter 42 (§ <a href='http://law.lis.virginia.gov/vacode/3.2-4200/'>3.2-4200</a> et seq.) of Title 3.2, Article 10 (§ <a href='http://law.lis.virginia.gov/vacode/18.2-246.6/'>18.2-246.6</a> et seq.) of Chapter 6 of Title 18.2, or § <a href='http://law.lis.virginia.gov/vacode/18.2-514/'>18.2-514</a> involving reports or statements concerning cigarette sales or stamping may be prosecuted in the City of Richmond.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0847'>847</a>; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0625'>625</a>.</p>

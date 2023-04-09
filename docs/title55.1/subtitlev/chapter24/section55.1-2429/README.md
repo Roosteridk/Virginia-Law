@@ -1,0 +1,3 @@
+# § 55.1-2429 When State Treasurer to issue grant to purchaser.
+
+<p>The State Treasurer shall not request that the Governor issue a grant for the lands sold to the purchaser, or his heirs or assigns, until the purchase money has been fully paid.</p><p>Code 1919, § 512; Code 1950, § 55-191; 1982, c. 486; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

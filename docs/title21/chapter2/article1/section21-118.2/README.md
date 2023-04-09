@@ -1,0 +1,3 @@
+# § 21-118.2 Certain counties authorized to use sanitary district funds for certain purposes.
+
+<p>The board of supervisors of any county operating sanitary districts under the provisions of this chapter as amended or under the provisions of an act or acts continued in effect by § <a href='http://law.lis.virginia.gov/vacode/21-120/'>21-120</a>, may use sanitary district funds for police protection and for construction and operation of community houses within the district, provided that this section shall apply only to Chesterfield County and Henrico County. Action hereunder shall be subject to the rights of the holders of any bonds issued by such district.</p><p>1952, c. 26; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0813'>813</a>.</p>

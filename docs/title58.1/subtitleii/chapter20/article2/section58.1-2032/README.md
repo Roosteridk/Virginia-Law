@@ -1,0 +1,3 @@
+# § 58.1-2032 Determination by State Corporation Commission.
+
+<p>In determining the issue the State Corporation Commission shall sit in its capacity as a court and shall consider all matters of law and fact involved. If of the opinion that the petitioner is entitled to relief, in whole or in part, the Commission shall certify to the Comptroller its findings and judgment and the Comptroller shall draw his warrant on the State Treasurer in favor of the person or corporation for the erroneous or excessive amount so certified to have been paid.</p><p>Code 1950, § 58-1124; 1984, c. 675.</p>

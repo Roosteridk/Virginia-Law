@@ -1,0 +1,3 @@
+# § 38.2-900 Workers' compensation.
+
+<p>All acts and parts of acts inconsistent with the provisions of this title are hereby repealed to the extent of the inconsistency. However, the provisions of this title shall not amend or repeal any provisions of Title 65.2 relating to workers' compensation.</p><p>1952, c. 317, § 38.1-43.1; 1986, c. 562.</p>

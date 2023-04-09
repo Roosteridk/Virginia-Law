@@ -1,0 +1,3 @@
+# § 64.2-1611 Agent's acceptance.
+
+<p>Except as otherwise provided in the power of attorney, a person accepts appointment as an agent under a power of attorney by exercising authority or performing duties as an agent or by any other assertion or conduct indicating acceptance.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0455'>455</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0632'>632</a>, § 26-84; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

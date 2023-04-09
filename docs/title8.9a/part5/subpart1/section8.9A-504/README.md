@@ -1,0 +1,3 @@
+# § 8.9A-504 Indication of collateral.
+
+<p>A financing statement sufficiently indicates the collateral that it covers if the financing statement provides:</p><p>(1) a description of the collateral pursuant to § <a href='http://law.lis.virginia.gov/vacode/8.9A-108/'>8.9A-108</a>; or</p><p>(2) an indication that the financing statement covers all assets or all personal property.</p><p>1964, c. 219, § 8.9-402; 1966, c. 649; 1973, c. 509; 1976, c. 536; 1977, c. 539; 1978, cc. 284, 285; 1982, c. 652; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0096'>96</a>; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1007'>1007</a>.</p>

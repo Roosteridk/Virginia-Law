@@ -1,0 +1,3 @@
+# § 60.2-200 Definitions generally.
+
+<p>As used in this title, unless the context clearly requires otherwise, the terms defined in this chapter shall have the meanings there ascribed to them.</p><p>Code 1950, § 60-2; 1964, c. 3; 1968, c. 738, § 60.1-2; 1986, c. 480.</p>

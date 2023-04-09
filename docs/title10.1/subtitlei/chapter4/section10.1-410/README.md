@@ -1,0 +1,3 @@
+# § 10.1-410 Catoctin Creek State Scenic River.
+
+<p>The Catoctin Creek from bank to bank in Loudoun County from Waterford to its junction with the Potomac River, a distance of approximately 16 river miles, is hereby designated as the Catoctin Creek State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>1984, c. 739, § 10-173.3; 1985, cc. 346, 448; 1988, c. 891; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0240'>240</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>.</p>

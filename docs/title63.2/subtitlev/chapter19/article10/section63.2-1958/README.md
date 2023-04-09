@@ -1,0 +1,3 @@
+# § 63.2-1958 Charging off support debts as uncollectible.
+
+<p>Any support debt due the Department pursuant to § <a href='http://law.lis.virginia.gov/vacode/63.2-1908/'>63.2-1908</a> that the Commissioner deems uncollectible may be transferred from accounts receivable to a doubtful account, cease to be accounted as an asset, and discharged from its records.</p><p>1974, c. 413, § 63.1-270; 1975, c. 596; 1976, c. 357; 1988, c. 906; 1992, c. 716; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

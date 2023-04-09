@@ -1,0 +1,3 @@
+# § 24.2-534 Returns tabulated by State Board; when nominee declared.
+
+<p>As soon as possible after receipt of the certified abstract and not later than fourteen days after the day of the election, the State Board shall open and tabulate the returns. Upon completion of the tabulation the Board shall declare the nominee in the manner and form as it does in general elections.</p><p>Code 1950, § 24-389; 1952, c. 4; 1970, c. 462, § 24.1-192; 1978, c. 778; 1993, c. 641.</p>

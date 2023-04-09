@@ -1,0 +1,3 @@
+# § 36-107 Employment of personnel for administration of chapter.
+
+<p>Subject to the provisions of Chapter 29 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-2900/'>2.2-2900</a> et seq.) of Title 2.2, the Director may employ such permanent and temporary clerical, technical and other assistants as are necessary or advisable for the proper administration of the provision of this chapter.</p><p>1972, c. 829; 1974, c. 668; 1977, c. 613.</p>

@@ -1,0 +1,3 @@
+# § 18.2-414.2 Crossing established police lines, perimeters or barricades.
+
+<p>It shall be unlawful for any person to cross or remain within police lines or barricades which have been established pursuant to § <a href='http://law.lis.virginia.gov/vacode/15.2-1714/'>15.2-1714</a> without proper authorization.</p><p>Any person violating the provisions of this section shall be guilty of a Class 3 misdemeanor.</p><p>1984, c. 533; 1990, c. 327.</p>

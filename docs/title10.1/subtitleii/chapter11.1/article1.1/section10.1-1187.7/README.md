@@ -1,0 +1,3 @@
+# § 10.1-1187.7 Governor's Environmental Excellence Awards.
+
+<p>The Governor's Environmental Excellence Awards shall be awarded each year to recognize participants in the Virginia Environmental Excellence Program that have demonstrated extraordinary leadership, innovation, and commitment to implementation of pollution prevention practices and other efforts to reduce environmental impacts and improve Virginia's natural environment.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0705'>705</a>.</p>

@@ -1,0 +1,3 @@
+# § 4.1-501 Applicability.
+
+<p>This chapter shall apply to all agreements in effect on or after January 1, 1978.</p><p>1978, c. 579, § 4-118.18; 1993, c. 866.</p>

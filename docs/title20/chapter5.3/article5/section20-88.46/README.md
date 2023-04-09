@@ -1,0 +1,3 @@
+# § 20-88.46 Application of law of the Commonwealth.
+
+<p>Except as otherwise provided in this chapter, a responding tribunal of the Commonwealth shall apply the procedural and substantive law generally applicable to similar proceedings originating in the Commonwealth and may exercise all powers and provide all remedies available in those proceedings.</p><p>A responding tribunal of the Commonwealth shall determine the duty of support and the amount payable in accordance with the law and support guidelines of the Commonwealth.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0673'>673</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0754'>754</a>.</p>

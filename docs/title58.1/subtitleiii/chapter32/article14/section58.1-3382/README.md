@@ -1,0 +1,3 @@
+# § 58.1-3382 Appeal.
+
+<p>The attorney for the county, city or town or any taxpayer, aggrieved by any such order, may apply to the circuit court of the county or city, for the correction and revision of such order, in the same manner and within the same time as is provided by law for the correction of erroneous assessments of real estate by any person who is aggrieved thereby.</p><p>Code 1950, § 58-907; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 24.2-106.1 Prohibiting the solicitation in public buildings of signatures for nominating petitions by electoral board members and employees.
+
+<p>No member of an electoral board or their office staff shall solicit or assist in the solicitation of signatures for nominating petitions for candidates for public office in any public building owned or leased by the county or city served by the electoral board.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0271'>271</a>.</p>

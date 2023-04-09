@@ -1,0 +1,3 @@
+# § 19.2-82.1 Giving false identity to law-enforcement officer; penalty.
+
+<p>Any person who falsely identifies himself to a law-enforcement officer with the intent to deceive the law-enforcement officer as to his real identity after having been lawfully detained and after being requested to identify himself by a law-enforcement officer, is guilty of a Class 1 misdemeanor.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0387'>387</a>.</p>

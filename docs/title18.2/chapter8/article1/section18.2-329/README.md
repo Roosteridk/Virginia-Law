@@ -1,0 +1,3 @@
+# § 18.2-329 Owners, etc., of gambling place permitting its continuance; penalty.
+
+<p>If the owner, lessee, tenant, occupant or other person in control of any place or conveyance, knows, or reasonably should know, that it is being used for illegal gambling, and permits such gambling to continue without having notified a law-enforcement officer of the presence of such illegal gambling activity, he shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, §§ 18.1-319, 18.1-324, 18.1-337, 18.1-339; 1960, c. 358; 1968, c. 401; 1975, cc. 14, 15.</p>

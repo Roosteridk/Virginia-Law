@@ -1,0 +1,1 @@
+# 2 UNFAIR SALES ACT [Repealed]

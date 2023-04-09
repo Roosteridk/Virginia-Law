@@ -1,0 +1,3 @@
+# § 32.1-138.4 Retaliation or discrimination against complainants.
+
+<p>No nursing facility may retaliate or discriminate in any manner against any person who (i) in good faith complains or provides information to, or otherwise cooperates with, the Department or any other agency of government or any person or entity operating under contract with an agency of government, having responsibility for protecting the rights of patients of nursing facilities or (ii) attempts to assert any right protected by state or federal law.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0941'>941</a>.</p>

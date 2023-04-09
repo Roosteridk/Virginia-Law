@@ -1,0 +1,3 @@
+# § 46.2-1230 Authority of counties, cities, and towns to issue parking permits.
+
+<p>The governing body of any county, city, or town may by ordinance provide for the issuance of permits for motor vehicles parking on public streets, to set the rates for the permits, and to set the term of validity of the permits. In setting the rates, the governing body may differentiate between motor vehicles registered in the political subdivision issuing the permit and other motor vehicles.</p><p>1972, c. 819, § 46.1-252.01; 1989, c. 727.</p>

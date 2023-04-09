@@ -1,0 +1,3 @@
+# § 28.2-534 Possession of oysters while taking clams; penalty.
+
+<p>The possession of oysters while taking or catching clams during the season in which it is unlawful to take or catch oysters from the public rocks, beds, or shoals, is prima facie evidence of a violation of the law against taking or catching oysters during the prohibited season. A violation of this section is a Class 1 misdemeanor.</p><p>Code 1950, § 28-178; 1954, c. 177; 1960, c. 517; 1962, c. 406, § 28.1-160; 1968, c. 747; 1970, c. 726; 1992, c. 836.</p>

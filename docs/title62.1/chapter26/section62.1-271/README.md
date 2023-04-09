@@ -1,0 +1,3 @@
+# § 62.1-271 Definitions.
+
+<p>For the purposes of this chapter:</p><p>"Committee" means the Potomac Aquifer Recharge Oversight Committee established pursuant to § <a href='/vacode/62.1-272/'>62.1-272</a>.</p><p>"Department" means the Department of Environmental Quality.</p><p>"HRSD" means the Hampton Roads Sanitation District.</p><p>"Laboratory" means the Potomac Aquifer Recharge Monitoring Laboratory established pursuant to § <a href='/vacode/62.1-274/'>62.1-274</a>.</p><p>"SWIFT Project" means the Sustainable Water Initiative for Tomorrow Project conducted by HRSD.</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0054'>54</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0058'>58</a>.</p>

@@ -1,0 +1,3 @@
+# § 8.01-155 How judgment for plaintiff entered.
+
+<p>The judgment for the plaintiff shall be, that he recover the possession of the premises, according to the verdict of the jury, if there be a verdict, or if the judgment be by default, or on demurrer, according to the description thereof in the motion for judgment.</p><p>Code 1950, § 8-825; 1954, c. 333; 1977, c. 617.</p>

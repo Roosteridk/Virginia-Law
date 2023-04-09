@@ -1,0 +1,3 @@
+# § 2.2-2724 Staffing.
+
+<p>The Board shall employ an executive director and such other persons as it deems necessary to assist it in performing its duties as set forth in this article, and, at its pleasure, remove such employees. The Board shall determine the duties of all staff and fix the salaries and compensation of such persons within the amounts allocated therefor from such funds as may be available to the Board.</p><p>2004, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0938'>938</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0964'>964</a>.</p>

@@ -1,0 +1,3 @@
+# § 38.2-119 Workers' compensation and employers' liability.
+
+<p>"Workers' compensation and employers' liability insurance" means insurance against the legal liability of any employer for the death or disablement of, or injury to, his or its employee whether imposed by common law or by statute, or assumed by contract.</p><p>Employers' liability insurance may include appropriate provisions obligating the insurer to pay medical, chiropractic, hospital, surgical, and funeral expenses arising out of the death or injury of an employee, regardless of any legal liability of the insured.</p><p>1952, c. 317, § 38.1-17; 1986, c. 562.</p>

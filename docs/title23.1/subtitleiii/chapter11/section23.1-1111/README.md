@@ -1,0 +1,3 @@
+# § 23.1-1111 Bonds; prohibition against obligating Commonwealth.
+
+<p>The bonds and other obligations of an institution are not a debt of the Commonwealth, do not create or constitute any indebtedness or obligation of the Commonwealth, legal, moral, or otherwise, and are not payable out of any funds other than those of the institution. Nothing in this chapter shall be construed to authorize any institution to incur any indebtedness on behalf of the Commonwealth or in any way to obligate the Commonwealth.</p><p>1933, p. 91, § 23-24; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

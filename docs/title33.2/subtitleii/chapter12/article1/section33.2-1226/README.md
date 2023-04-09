@@ -1,0 +1,3 @@
+# § 33.2-1226 Harmony of regulations.
+
+<p>No zoning board or commission or any other public officer or agency shall permit any sign, advertisement, or advertising structure that is prohibited under the provisions of this article, nor shall the Commissioner of Highways permit any sign, advertisement, or advertising structure that is prohibited by any other public board, officer, or agency in the lawful exercise of its powers.</p><p>Code 1950, § 33-320; 1970, c. 322, § 33.1-374; 1976, c. 14; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

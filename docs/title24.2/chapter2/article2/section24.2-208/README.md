@@ -1,0 +1,3 @@
+# § 24.2-208 Election and term of members of House of Representatives.
+
+<p>The qualified voters of each congressional district shall elect one member of the United States House of Representatives at the general election in November 1994, and every second year thereafter, for the term of two years to begin on the January 3 following his election.</p><p>Code 1950, § 24-5; 1970, c. 462, § 24.1-6; 1993, c. 641.</p>

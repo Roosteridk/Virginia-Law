@@ -1,0 +1,3 @@
+# § 15.2-3245 Validation of proceedings.
+
+<p>All proceedings prior to July 1, 1960, taken in contraction of the corporate limits of the City of Fairfax are hereby validated, ratified, approved, and confirmed, and all such contractions or attempted contractions of the corporate limits of such city are hereby declared to have been validly created and established, notwithstanding any defects or irregularities in the creation thereof.</p><p>1960, c. 420, § 15.1-1067.1; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0587'>587</a>.</p>

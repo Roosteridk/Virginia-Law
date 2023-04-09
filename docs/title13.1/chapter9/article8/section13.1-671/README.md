@@ -1,0 +1,3 @@
+# § 13.1-671 Voting agreements.
+
+<p>A. Two or more shareholders may provide for the manner in which they will vote their shares by signing an agreement for that purpose. A voting agreement created under this section is not subject to the provisions of § <a href='http://law.lis.virginia.gov/vacode/13.1-670/'>13.1-670</a>.</p><p>B. A voting agreement created under this section is specifically enforceable.</p><p>Code 1950, § 13.1-34; 1956, c. 428; 1975, c. 500; 1985, c. 522.</p>

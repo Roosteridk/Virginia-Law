@@ -1,0 +1,3 @@
+# § 1-254 Town.
+
+<p>"Town" means any existing town or an incorporated community within one or more counties which became a town before noon, July 1, 1971, as provided by law or which has within defined boundaries a population of 1,000 or more and which has become a town as provided by law.</p><p>Code 1919, § 5; Code 1950, § 1-13; 1950, p. 24, § 1-13.29; 1971, Ex. Sess., c. 49; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0155'>155</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

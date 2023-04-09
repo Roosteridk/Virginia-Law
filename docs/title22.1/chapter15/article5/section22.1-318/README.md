@@ -1,0 +1,3 @@
+# § 22.1-318 Filing and publication of contracts made pursuant to Agreement.
+
+<p>True copies of all contracts made on behalf of this Commonwealth pursuant to the Interstate Agreement on Qualification of Educational Personnel shall be kept on file in the State Department of Education. The State Department of Education shall publish all such contracts in convenient form.</p><p>Code 1950, § 22-350; 1970, c. 193; 1980, c. 559.</p>

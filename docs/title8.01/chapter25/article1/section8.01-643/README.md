@@ -1,0 +1,3 @@
+# § 8.01-643 Trial; verdict; judgment; costs; attorney's fee.
+
+<p>Unless the defendant shall ask for a trial by jury, the court shall hear the same. If the case is tried by jury and the defendant is found guilty as to only a part of the charges, the verdict shall be guilty as to such part and shall particularly specify the same. As to the residue of such charges, the verdict shall be not guilty.</p><p>If the defendant appears and is found guilty the court shall give such judgment as is appropriate and authorized by law and for costs incurred in the prosecution of the information, including a reasonable attorney's fee to be prescribed by the court.</p><p>Code 1950, § 8-865; 1977, c. 617.</p>

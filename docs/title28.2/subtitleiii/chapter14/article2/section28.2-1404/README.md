@@ -1,0 +1,3 @@
+# § 28.2-1404 Meetings, quorum, rules, etc., of wetlands boards; records and reports.
+
+<p>For the conduct of any wetlands board hearing and the taking of any action, a quorum shall be not less than three members of a five-member board nor less than four members of a seven-member board. The board may make, alter, and rescind rules and forms for its procedures, provided they are consistent with state law and local ordinances. The board shall keep a full public record of its proceedings and shall submit a report of its activities to the local governing body at least once each year. The board shall forward a copy of each report to the Commission.</p><p>1992, c. 836.</p>

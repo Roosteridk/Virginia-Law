@@ -1,0 +1,3 @@
+# § 38.2-1039.1 Risk retention groups.
+
+<p>Except in the case of a risk retention group all of whose members are insurers, no risk retention group, as defined in Chapter 51 of this title, shall be licensed in this Commonwealth if an insurer is directly or indirectly a member or owner of such risk retention group.</p><p>1987, c. 585.</p>

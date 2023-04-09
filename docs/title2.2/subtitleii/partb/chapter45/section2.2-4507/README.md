@@ -1,0 +1,3 @@
+# § 2.2-4507 Investment of funds in overnight, term and open repurchase agreements.
+
+<p>Notwithstanding any provision of law to the contrary, the Commonwealth, all public officers, municipal corporations, other political subdivisions and all other public bodies of the Commonwealth, may invest any and all moneys belonging to them or within their control in overnight, term and open repurchase agreements that are collateralized with securities that are approved for direct investment.</p><p>1985, c. 352, § 2.1-328.8; 1988, c. 834; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

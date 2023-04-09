@@ -1,0 +1,3 @@
+# § 10.1-1197 Cooperation of state agencies.
+
+<p>All agencies of the Commonwealth shall cooperate with the Department and the Task Force and, upon request, assist the Department and the Task Force in the performance of their efforts in coordinating and promoting watershed planning and watershed permitting.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0793'>793</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-2029 Regulation of transportation of certain materials.
+
+<p>Any locality may regulate the transportation of hay, coal, gasoline, explosives or other articles through the streets of the locality.</p><p>Code 1950, § 15-6; 1960, c. 528; 1962, c. 623, § 15.1-14; 1970, c. 453; 1973, c. 402; 1990, c. 58; 1997, c. 587.</p>

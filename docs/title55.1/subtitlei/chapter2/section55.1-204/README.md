@@ -1,0 +1,3 @@
+# § 55.1-204 Rights of spouse not affected by other spouse's acts only.
+
+<p>No conveyance or other act by one spouse only of any land that is the inheritance of the other spouse shall be or make any discontinuance thereof, or be prejudicial to the other spouse or his heirs or to any having right or title to the same by his death, but they may respectively enter into such land, according to their right and title in such land, as if no such conveyance or act had been done.</p><p>Code 1919, § 5442; Code 1950, § 55-39; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

@@ -1,0 +1,3 @@
+# § 17.1-321 Reporter of Court; his appointment and salary.
+
+<p>The Supreme Court shall have authority to contract with some suitable person to report such of its decisions as the Court shall direct, at such compensation as may be appropriated by law for the purpose, payable in monthly installments.</p><p>The Court may at any time put an end to such contract and contract with another person for performing the service, upon the same terms.</p><p>Code 1919, §§ 5879 and 5882, §§ 17-113, 17-114; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

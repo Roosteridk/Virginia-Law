@@ -1,0 +1,3 @@
+# § 53.1-76 Commitment to jail of another county or city; payment of costs, etc.
+
+<p>In any case should it become necessary or expedient for the safekeeping of any prisoner, or for good cause, a circuit court may commit such prisoner to a jail other than that located in its county or city. The keeper of the jail in making his account for the board of such prisoner shall include the prisoner in such account, as if the prisoner had actually been committed from his county or city. The authorities of the county or city from which the prisoner is sent shall be responsible for any damage done by him to the jail of the county or city in which such prisoner may be confined.</p><p>Code 1950, § 53-142; 1960, c. 376; 1982, c. 636; 1985, c. 321.</p>

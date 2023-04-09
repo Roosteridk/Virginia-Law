@@ -1,0 +1,3 @@
+# § 63.2-900.3 School placement of children in foster care.
+
+<p>When placing a child of school age in a foster care placement, as defined in § <a href='http://law.lis.virginia.gov/vacode/63.2-100/'>63.2-100</a>, the local social services agency making such placement shall, in writing, determine jointly with the local school division whether it is in the child's best interests to remain enrolled at the school in which he was enrolled prior to the most recent foster care placement, pursuant to § <a href='http://law.lis.virginia.gov/vacode/22.1-3.4/'>22.1-3.4</a>.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0154'>154</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0711'>711</a>.</p>

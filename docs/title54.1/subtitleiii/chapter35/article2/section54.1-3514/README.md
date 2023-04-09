@@ -1,0 +1,3 @@
+# § 54.1-3514 Certification of existing providers.
+
+<p>The Board of Counseling upon receipt of a completed application and payment of the prescribed fee on or before June 30, 1995, shall issue a certificate to any person who was actively engaged in providing rehabilitation services on January 1, 1994.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0558'>558</a>; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0473'>473</a>.</p>

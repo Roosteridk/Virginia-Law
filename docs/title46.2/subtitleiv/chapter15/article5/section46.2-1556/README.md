@@ -1,0 +1,3 @@
+# § 46.2-1556 Operation under foreign dealer's license.
+
+<p>It shall be unlawful, except as provided for by reciprocal agreement, for any person to operate a motor vehicle or for the owner thereof to permit a motor vehicle to be operated in the Commonwealth on a foreign dealer's license, unless the operation of the motor vehicle on the license is specifically authorized by the Commissioner.</p><p>1988, c. 865, § 46.1-550.5:14; 1989, c. 727; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0767'>767</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0816'>816</a>.</p>

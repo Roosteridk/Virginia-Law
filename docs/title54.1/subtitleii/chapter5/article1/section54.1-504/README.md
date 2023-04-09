@@ -1,0 +1,3 @@
+# § 54.1-504 Asbestos supervisor's or worker's license required; exception.
+
+<p>After July 1, 1988, it shall be unlawful for an individual who does not have an asbestos supervisor's license or worker's license to work on an asbestos project. No asbestos supervisor's license or worker's license shall be required for a supervisor or worker in the installation, maintenance, repair or removal of asbestos-containing roofing, flooring or siding material, provided that such supervisor or worker shall satisfy any training requirements promulgated by the Board pursuant to § <a href='http://law.lis.virginia.gov/vacode/54.1-501/'>54.1-501</a>.</p><p>1987, c. 579, § 54-145.8; 1988, c. 765; 1989, c. 397; 1993, c. 660.</p>

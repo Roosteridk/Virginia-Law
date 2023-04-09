@@ -1,0 +1,3 @@
+# § 59.1-92.18 Appeals from final action of Commission.
+
+<p>From any final action of the Commission under the provisions of this chapter an appeal shall lie of right to the Supreme Court in accordance with the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/12.1-39/'>12.1-39</a>, <a href='http://law.lis.virginia.gov/vacode/12.1-40/'>12.1-40</a> and <a href='http://law.lis.virginia.gov/vacode/12.1-41/'>12.1-41</a>.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0819'>819</a>.</p>

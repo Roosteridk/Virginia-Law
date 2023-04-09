@@ -1,0 +1,3 @@
+# § 22.1-239 Basal textbooks.
+
+<p>In approving basal textbooks for reading in kindergarten and first grade, the Board shall report to local school boards those textbooks with a minimum decodability standard based on words that students can correctly read by properly attaching speech sounds to each letter to formulate the word at 70 percent or above for such textbooks.</p><p>Code 1950, § 22-297; 1980, c. 559; 1981, c. 190; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0430'>430</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0615'>615</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0663'>663</a>.</p>

@@ -1,0 +1,3 @@
+# § 37.2-822 Treatment of person admitted while appeal is pending.
+
+<p>Whenever the director of any facility reasonably believes that treatment is necessary to protect the life, health, or safety of a person, treatment may be given during the period allowed for any appeal unless prohibited by order of a circuit court in the county or city wherein the appeal is pending.</p><p>Code 1950, §§ 37-71.2, 37-204.1; 1964, c. 322; 1968, c. 477, § 37.1-85; 1972, c. 639; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

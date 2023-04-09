@@ -1,0 +1,3 @@
+# § 10.1-1179 State Forester to investigate; notice to landowners.
+
+<p>Where an insect infestation or disease infection is believed to exist on forest land within this Commonwealth, the State Forester shall investigate the condition. Whenever he finds that an infestation or infection exists he shall give notice in writing by mail or otherwise to each forest landowner within the affected area, advising him of the nature of the infestation or infection and the recommended control measures, and offering him technical advice on methods of carrying out control measures.</p><p>1952, c. 657, § 10-90.5; 1988, c. 891.</p>

@@ -1,0 +1,3 @@
+# § 58.1-4023 Post-audit of accounts and transactions of Department; post-compliance audits.
+
+<p>A regular post-audit shall be conducted of all accounts and transactions of the Department. An annual audit of a fiscal and compliance nature of the accounts and transactions of the Department shall be conducted by the Auditor of Public Accounts on or before August 15 of each year. The cost of the annual audit and post-audit examinations shall be borne by the Department. The Board may order such other audits as it deems necessary and desirable.</p><p>1987, c. 531; 1989, c. 478.</p>

@@ -1,0 +1,3 @@
+# § 46.2-917.1 School buses hired to transport children.
+
+<p>Notwithstanding § <a href='http://law.lis.virginia.gov/vacode/46.2-917/'>46.2-917</a>, any person may contract to hire school buses for the purpose of transporting students to or from school, camp, or any other place during any part of the year. All provisions of this title applicable to school buses shall also apply to any school bus hired under the provisions of this section.</p><p>1989, c. 727.</p>

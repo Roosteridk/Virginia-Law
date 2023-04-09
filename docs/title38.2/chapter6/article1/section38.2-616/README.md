@@ -1,0 +1,3 @@
+# § 38.2-616 Service of process on insurance-support organizations.
+
+<p>For the purpose of this article, an insurance-support organization transacting business outside the Commonwealth that has an effect on a person residing in the Commonwealth and which is alleged to violate this article shall be deemed to have appointed the clerk of the Commission to accept service of process on its behalf. Service on the clerk shall be made in accordance with § <a href='/vacode/12.1-19.1/'>12.1-19.1</a>.</p><p>1981, c. 389, § 38.1-57.19; 1986, c. 562; 1991, c. 672; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0264'>264</a>.</p>

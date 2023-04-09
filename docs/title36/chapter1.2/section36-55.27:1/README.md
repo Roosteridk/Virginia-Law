@@ -1,0 +1,3 @@
+# § 36-55.27:1 Programs and regulations to implement the Consolidated Plan.
+
+<p>The HDA shall be responsible for implementing, to the extent and in the manner determined by the HDA to be reasonable and proper and consistent with its legal and financing responsibilities, new and existing programs, policies, and regulations to accomplish the goals, objectives, and strategies set forth in the Consolidated Plan developed in accordance with the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/36-131/'>36-131</a> and <a href='http://law.lis.virginia.gov/vacode/36-139/'>36-139</a>.</p><p>1992, c. 754; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0461'>461</a>.</p>

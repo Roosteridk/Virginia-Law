@@ -1,0 +1,3 @@
+# § 8.2-308 Absence of specified place for delivery.
+
+<p>Unless otherwise agreed</p><p>(a) the place for delivery of goods is the seller's place of business or if he has none his residence; but</p><p>(b) in a contract for sale of identified goods which to the knowledge of the parties at the time of contracting are in some other place, that place is the place for their delivery; and</p><p>(c) documents of title may be delivered through customary banking channels.</p><p>1964, c. 219.</p>

@@ -1,0 +1,3 @@
+# § 53.1-73 When jail of county to be jail for town.
+
+<p>Every town shall have the use of the jail of the county in which such town is located, to aid the constituted authorities of any such town in maintaining peace and good order, and generally for the enforcement of its ordinances, unless for good cause the judge of the circuit court of such county shall prohibit such use.</p><p>Code 1950, § 53-138; 1972, c. 573; 1982, c. 636.</p>

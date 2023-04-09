@@ -1,0 +1,3 @@
+# § 54.1-2728 Grounds for revocation or suspension.
+
+<p>The Board may revoke or suspend the license of any dental hygienist for any of the causes set forth in § <a href='http://law.lis.virginia.gov/vacode/54.1-2706/'>54.1-2706</a>, insofar as applicable to the practice of dental hygiene.</p><p>1950, p. 986, § 54-200.18; 1972, c. 805; 1988, c. 765; 2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0505'>505</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0587'>587</a>.</p>

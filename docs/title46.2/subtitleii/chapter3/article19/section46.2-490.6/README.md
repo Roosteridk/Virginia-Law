@@ -1,0 +1,3 @@
+# § 46.2-490.6 Civil penalties.
+
+<p>In addition to any other sanctions or remedies available to the Commissioner under this chapter, the Commissioner may assess a civil penalty not to exceed $1,000 for any violation of any provision of this chapter, any regulation promulgated thereunder, or any criteria established by the Department pursuant to this chapter. The penalty may be sued for and recovered in the name of the Commonwealth.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0622'>622</a>.</p>

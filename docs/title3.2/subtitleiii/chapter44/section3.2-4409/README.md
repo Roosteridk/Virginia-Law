@@ -1,0 +1,3 @@
+# § 3.2-4409 Right of entry for inspection and enforcement.
+
+<p>The Commissioner may enter any private or public premises during business hours, except private dwellings. The Commissioner shall have access to all apiaries and other places where bees, combs, beekeeping equipment, and appliances may be kept.</p><p>Code 1950, § 3-488; 1966, c. 702, § 3.1-593; 1972, c. 499, § 3.1-610.7; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

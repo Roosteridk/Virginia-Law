@@ -1,0 +1,3 @@
+# § 2.2-1116 Purchase of products and services of state correctional facilities.
+
+<p>The provisions of this article shall be subject to the provisions of Title 53.1 relating to the products and services of state correctional facilities required by state departments, institutions, and agencies, and the purchase of the same through the Division.</p><p>Code 1950, § 2-268; 1958, c. 124; 1966, c. 677, § 2.1-294; 1977, c. 672, § 2.1-453; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

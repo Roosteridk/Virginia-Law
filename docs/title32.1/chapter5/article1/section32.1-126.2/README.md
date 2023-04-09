@@ -1,0 +1,3 @@
+# § 32.1-126.2 Fire suppression systems required in nursing facilities and nursing homes.
+
+<p>After January 1, 1993, the Commissioner shall not issue a license to or renew the license of any nursing facility or nursing home, regardless of when such institution was constructed, unless the nursing facility or nursing home is equipped with a fire suppression system which complies with the regulations of the Board of Housing and Community Development.</p><p>Units consisting of certified long-term care beds described in this section and § <a href='http://law.lis.virginia.gov/vacode/36-99.9/'>36-99.9</a> located on the ground floor of general hospitals shall be exempt from the requirements of this section.</p><p>1990, c. 804.</p>

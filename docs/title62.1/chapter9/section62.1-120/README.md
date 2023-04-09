@@ -1,0 +1,3 @@
+# § 62.1-120 When further notice required.
+
+<p>If, by such report, or otherwise, it appear that any person to whom notice has not been given, will sustain damage, notice shall be given to him, in the manner prescribed by § <a href='http://law.lis.virginia.gov/vacode/62.1-117/'>62.1-117</a> to show cause why the applicant should not have the leave desired.</p><p>Code 1950, § 62-99; 1968, c. 659.</p>

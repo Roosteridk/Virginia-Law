@@ -1,0 +1,3 @@
+# § 56-1.1 Designation as public service corporation.
+
+<p>The State Corporation Commission may designate a business enterprise operating as a telephone or telecommunications company to be a public service corporation when, upon appropriate inquiry and public hearing, the Commission determines that the enterprise is engaged in any of the public utility services described in § <a href='http://law.lis.virginia.gov/vacode/56-1/'>56-1</a>. However, this section shall not apply to any mutual telephone association existing prior to January 1, 1984.</p><p>1984, c. 648.</p>

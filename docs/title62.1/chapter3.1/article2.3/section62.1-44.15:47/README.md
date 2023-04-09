@@ -1,0 +1,3 @@
+# § 62.1-44.15:47 (For repeal date, see Acts 2016, cc. 68 and 758, as amended by Acts 2017, c. 345) Appeal to Court of Appeals.
+
+<p>From the final decision of the circuit court an appeal may be taken to the Court of Appeals as provided in § <a href='http://law.lis.virginia.gov/vacode/17.1-405/'>17.1-405</a>.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0372'>372</a>, § 10.1-603.13:1; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0756'>756</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0793'>793</a>.</p>

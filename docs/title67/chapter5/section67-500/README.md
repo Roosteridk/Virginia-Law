@@ -1,0 +1,3 @@
+# § 67-500 (Repealed effective October 1, 2021) Definitions.
+
+<p>As used in this chapter:</p><p>"Biodiesel fuel" means a renewable, biodegradable, mono-alkyl ester combustible liquid fluid fuel from agricultural plant oils or animal fats that meets the applicable American Society for Testing and Materials (ASTM) Specification for Biodiesel Fuel (B100) Blend Stock for Distillate Fuels.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0939'>939</a>.</p>

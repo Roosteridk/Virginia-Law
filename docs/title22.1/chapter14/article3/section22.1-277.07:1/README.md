@@ -1,0 +1,3 @@
+# § 22.1-277.07:1 Policies prohibiting possession of firearms.
+
+<p>Notwithstanding any other provision of law to the contrary, each school division may develop and implement procedures addressing disciplinary actions against students, and may establish disciplinary policies prohibiting the possession of firearms on school property, school buses, and at school-sponsored activities.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0560'>560</a>.</p>

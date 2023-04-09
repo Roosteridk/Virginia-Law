@@ -1,0 +1,3 @@
+# § 2.2-1160 Facilities for persons with physical disabilities; what buildings to be constructed in accordance with standards.
+
+<p>Every building or facility designed, constructed or substantially altered after the effective date of a standard issued under subsection B of § <a href='http://law.lis.virginia.gov/vacode/2.2-1159/'>2.2-1159</a>, which is applicable to such building shall be designed, constructed or altered in accordance with such standard.</p><p>1970, c. 539, § 2.1-109.05; 1977, c. 672, § 2.1-519; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

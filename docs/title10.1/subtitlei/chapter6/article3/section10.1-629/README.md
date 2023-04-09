@@ -1,0 +1,3 @@
+# § 10.1-629 Order authorizing governing body to incur indebtedness or issue bonds.
+
+<p>If the owners of at least two-thirds of the land area in the district vote in the election, and if at least two-thirds of the voters in the election vote in favor of incurring the indebtedness or issuing bonds, the circuit court or courts shall enter an order authorizing the governing body of the watershed improvement district to incur indebtedness or issue bonds for one or more of the purposes for which the district was created.</p><p>1956, c. 668, § 21-112.16; 1988, c. 891.</p>

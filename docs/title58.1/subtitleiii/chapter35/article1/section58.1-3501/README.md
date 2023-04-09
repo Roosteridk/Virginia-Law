@@ -1,0 +1,3 @@
+# § 58.1-3501 Tangible personal property leased to agency of federal, state or local government.
+
+<p>The aggregate of all tangible personal property owned by any person, firm, association, unincorporated company, or corporation which is leased by such owner to any agency or political subdivision of the federal, state or local governments shall be subject to local taxation.</p><p>Code 1950, § 58-831.1; 1960, c. 239; 1975, c. 504; 1984, c. 675.</p>

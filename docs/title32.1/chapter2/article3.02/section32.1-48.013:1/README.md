@@ -1,0 +1,3 @@
+# § 32.1-48.013:1 Electronic filings as protection from communicable disease.
+
+<p>Notwithstanding Rule 1:17 of the Supreme Court of Virginia, a court in its discretion may permit the electronic or facsimile filing of a petition, notice, brief, notice of appeal, or other legal document when such filing is necessary to expedite the proceedings or to protect the public, court officials, or others participating in the proceedings from exposure to a communicable disease.</p><p>2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0699'>699</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0783'>783</a>.</p>

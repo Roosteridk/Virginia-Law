@@ -1,0 +1,3 @@
+# § 8.01-220.1:5 Defense of intra-family immunity abolished for wrongful death actions.
+
+<p>In any action for death by wrongful act under § <a href='/vacode/8.01-50/'>8.01-50</a>, the common-law defense of intra-family immunity is abolished and shall not constitute a valid defense as to any such cause of action that arises on or after July 1, 2020.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0906'>906</a>.</p>

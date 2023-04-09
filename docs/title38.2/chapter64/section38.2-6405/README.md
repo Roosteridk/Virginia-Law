@@ -1,0 +1,3 @@
+# § 38.2-6405 Commercial transactions.
+
+<p>Subsection C of § <a href='/vacode/38.2-6401/'>38.2-6401</a> and § <a href='/vacode/38.2-6403/'>38.2-6403</a> do not apply to a guaranteed asset protection waiver offered in connection with a lease or retail installment sale associated with a commercial transaction.</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0799'>799</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0800'>800</a>.</p>

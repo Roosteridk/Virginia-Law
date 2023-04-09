@@ -1,0 +1,3 @@
+# § 45.2-2005  Reinjection policy.
+
+<p>The Department, the Board, and the State Department of Health shall jointly develop and revise as necessary a policy on reinjection of spent geothermal fluids. Such policy shall refer to the reinjection into the ground of waters extracted from the earth in the process of geothermal development, production, or utilization.</p><p>1981, c. 506, § 45.1-179.8; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

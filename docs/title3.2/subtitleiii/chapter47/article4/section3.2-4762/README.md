@@ -1,0 +1,3 @@
+# § 3.2-4762 Commissioner's authority to investigate.
+
+<p>The Commissioner may conduct investigations relative to the complaint or matter being investigated, and he shall have free and unimpeded access during normal business hours to all buildings, yards, warehouses, storage and transportation facilities in which grain is kept, stored, handled, or transported, or where records of grain transactions are kept.</p><p>1972, c. 296, § 3.1-722.26; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

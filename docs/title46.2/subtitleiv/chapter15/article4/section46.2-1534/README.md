@@ -1,0 +1,3 @@
+# § 46.2-1534 Signs.
+
+<p>Each retail motor vehicle dealer's place of business shall be identified by a permanent sign visible from the front of the business office so that the public may quickly and easily identify the dealership. The sign shall contain the dealer's trade name in letters no less than six inches in height unless otherwise restricted by law or contract.</p><p>1988, c. 865, § 46.1-547.9; 1989, c. 727; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0615'>615</a>.</p>

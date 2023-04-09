@@ -1,0 +1,3 @@
+# § 19.2-142 Where recognizance taken out of court to be sent.
+
+<p>A person taking a recognizance out of court shall forthwith transmit it to the clerk of the court for appearance before which it is taken; or, if it be not for appearance before a court, to the clerk of the circuit court of the county or city in which it is taken; and it shall remain filed in the clerk's office.</p><p>Code 1950, § 19.1-136; 1960, c. 366; 1975, c. 495.</p>

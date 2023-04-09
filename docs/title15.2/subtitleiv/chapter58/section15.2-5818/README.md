@@ -1,0 +1,3 @@
+# § 15.2-5818 Tort claims.
+
+<p>For purposes of Article 18.1 (§ <a href='http://law.lis.virginia.gov/vacode/8.01-195.1/'>8.01-195.1</a> et seq.) of Chapter 3 of Title 8.01, the Authority is an "agency" within the meaning of § <a href='http://law.lis.virginia.gov/vacode/8.01-195.2/'>8.01-195.2</a>, and each of its members and agents is an "employee" within the meaning of such section.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0950'>950</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP1038'>1038</a>, § 15.1-227.88; 1997, c. 587.</p>

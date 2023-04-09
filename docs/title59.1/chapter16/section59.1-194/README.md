@@ -1,0 +1,3 @@
+# § 59.1-194 Record available for inspection.
+
+<p>The purchaser shall keep such record for a period of at least six months from the date of purchase. Every such purchaser shall also keep such record available for inspection by the law-enforcement officers of the Commonwealth and the counties, cities and towns thereof, and shall exhibit it to such officers upon their lawful demand.</p><p>Code 1950, § 59-167; 1968, c. 429.</p>

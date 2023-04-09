@@ -1,0 +1,3 @@
+# § 22.1-54 Members need not be appointed by districts.
+
+<p>Members of a school board in a school division to which the provisions of this article are applicable need not be appointed by districts, if deemed advisable by the governing body making the appointments.</p><p>Code 1950, § 22-100.4; 1954, c. 391; 1980, c. 559.</p>

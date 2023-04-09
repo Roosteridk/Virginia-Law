@@ -1,0 +1,3 @@
+# § 46.2-621 Application for certificate of title.
+
+<p>The owner of a vehicle, or his duly authorized attorney-in-fact, shall apply for a certificate of title in the name of the owner on appropriate forms prescribed and furnished by the Commissioner. Officers and employees of the Department are vested with the authority to administer oaths and take acknowledgments and affidavits incidental to the administration and enforcement of this section and all other laws relating to the operation of motor vehicles, the collection and refunding of taxes levied on motor fuels and sales and use tax, for which services they shall receive no compensation.</p><p>Code 1950, § 46-49; 1958, c. 541, § 46.1-51; 1972, cc. 301, 378; 1989, c. 727.</p>

@@ -1,0 +1,3 @@
+# § 2.2-2499.2 Compensation; expenses.
+
+<p>Members shall receive no compensation for their services, but shall be reimbursed for all reasonable and necessary expenses incurred in the performance of their duties as provided in §§ <a href='/vacode/2.2-2813/'>2.2-2813</a> and <a href='/vacode/2.2-2825/'>2.2-2825</a>.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0169'>169</a>.</p>

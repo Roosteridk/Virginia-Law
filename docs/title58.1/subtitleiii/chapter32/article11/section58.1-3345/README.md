@@ -1,0 +1,3 @@
+# § 58.1-3345 Tax liens on timber in certain counties.
+
+<p>In any county in this Commonwealth which adjoins three cities lying wholly within this Commonwealth, one of which cities has a population of 190,000 or more, taxes and levies assessed against the land of a life tenant shall be a lien upon any matured timber growing upon such land, and in any suit brought for the purpose of enforcing such lien the court may decree a sale of such timber. The term "matured timber," as used in this section, shall mean any timber which may be selectively cut without damage to the estate of the remainder, and the certificate of the State Forester that timber is matured shall be accepted as prima facie evidence of that fact.</p><p>Code 1950, § 58-768.1; 1984, c. 675.</p>

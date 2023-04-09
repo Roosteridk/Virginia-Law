@@ -1,0 +1,3 @@
+# § 38.2-3543 Provisions required by other jurisdictions.
+
+<p>A. Group accident and sickness insurance policies of a foreign or alien insurer, delivered or issued for delivery in this Commonwealth, may contain any provision that is not less favorable to the insured or the beneficiary than the provisions required by this article and that is prescribed by the laws of its domiciliary jurisdiction.</p><p>B. Any group accident and sickness insurance policy of a domestic insurer may, when delivered or issued for delivery in any other jurisdiction, contain any provision permitted or required by the laws of that jurisdiction.</p><p>1986, c. 562.</p>

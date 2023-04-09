@@ -1,0 +1,3 @@
+# § 2.2-2376 Exemption of Authority from personnel and procurement procedures.
+
+<p>The provisions of the Virginia Personnel Act (§ <a href='/vacode/2.2-2900/'>2.2-2900</a> et seq.) and the Virginia Public Procurement Act (§ <a href='/vacode/2.2-4300/'>2.2-4300</a> et seq.) shall not apply to the Authority in the exercise of any power conferred under this article.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0306'>306</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0307'>307</a>.</p>

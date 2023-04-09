@@ -1,0 +1,3 @@
+# § 29.1-741 Furnishing information to agency of United States.
+
+<p>In accordance with any request duly made by an authorized official or agency of the United States, any information compiled or otherwise available to the Department pursuant to subsection B of § <a href='http://law.lis.virginia.gov/vacode/29.1-739/'>29.1-739</a> shall be transmitted to the official or agency of the United States.</p><p>1960, c. 500, § 62-174.12; 1968, c. 659, § 62.1-178; 1987, c. 488.</p>

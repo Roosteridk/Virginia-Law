@@ -1,0 +1,3 @@
+# § 33.2-1522 Exemption from taxation.
+
+<p>The interest income from and any profit made on the sale of the Notes issued under the provisions of this article shall at all times be free and exempt from taxation by the Commonwealth and by any municipality, county, or other political subdivision thereof.</p><p>2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0830'>830</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0868'>868</a>, § 33.1-23.25; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

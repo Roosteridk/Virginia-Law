@@ -1,0 +1,3 @@
+# § 54.1-3614 Delegation to unlicensed persons.
+
+<p>Any licensed psychologist may delegate to unlicensed personnel supervised by him such activities or functions as are nondiscretionary and do not require the exercise of professional judgment for their performance and which are usually or customarily delegated to such persons by psychologists, if such activities or functions are authorized by and performed for such psychologist and responsibility for such activities or functions is assumed by such psychologist.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0937'>937</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0980'>980</a>.</p>

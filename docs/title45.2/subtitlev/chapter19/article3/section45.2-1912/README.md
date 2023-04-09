@@ -1,0 +1,3 @@
+# § 45.2-1912  Definitions.
+
+<p>As used in this article, unless the context requires a different meaning:</p><p>"Board" means the Clean Energy Advisory Board created pursuant to § <a href='/vacode/45.2-1913/'>45.2-1913</a>.</p><p>"Fund" means the Low-to-Moderate Income Solar Loan and Rebate Fund created pursuant to § <a href='/vacode/45.2-1916/'>45.2-1916</a>.</p><p>"Program" means the Low-to-Moderate Income Solar Loan and Rebate Pilot Program created pursuant to § <a href='/vacode/45.2-1917/'>45.2-1917</a>.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

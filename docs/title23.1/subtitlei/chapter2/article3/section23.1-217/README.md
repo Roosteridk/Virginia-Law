@@ -1,0 +1,3 @@
+# § 23.1-217 Certification required.
+
+<p>A. No person shall open, operate, or conduct any postsecondary school in the Commonwealth without certification to operate such postsecondary school issued by the Council. The Council shall certify those postsecondary schools in compliance with Council regulations issued pursuant to this article.</p><p>B. Postsecondary schools shall seek such certification from the Council immediately after receipt of a valid business license issued by the relevant official of the locality in which it seeks to operate.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0991'>991</a>, § 23-276.14; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

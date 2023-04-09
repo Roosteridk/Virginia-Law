@@ -1,0 +1,3 @@
+# § 15.2-1524 Failure to qualify vacates office.
+
+<p>If any such officer fails to qualify and give bond, as required by § <a href='http://law.lis.virginia.gov/vacode/15.2-1523/'>15.2-1523</a>, on or before the day on which his term begins, his office shall be deemed vacant. However, members of local governing bodies and elected school boards may qualify up to and including the day of the initial meeting of the new governing body or elected school board.</p><p>Code 1950, § 15-477; 1962, c. 623, § 15.1-40; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0167'>167</a>; 1997, c. 587.</p>

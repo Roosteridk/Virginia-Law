@@ -1,0 +1,3 @@
+# § 13.1-326 Officers generally.
+
+<p>The board shall elect a president, a secretary and a treasurer, and may elect one or more vice-presidents, and such other officers as may be authorized in the bylaws. The president and at least one of the vice-presidents must be directors, but a vice-president who is not a director cannot succeed to or fill the office of president. Any two of the offices of vice-president, secretary and treasurer may be combined in one person.</p><p>Code 1950, § 13-267; 1956, c. 428.</p>

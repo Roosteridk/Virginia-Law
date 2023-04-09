@@ -1,0 +1,3 @@
+# § 3.2-5229 False manipulation and reading of tests.
+
+<p>Any person who shall, by himself or as the officer, servant, agent, or employee of any person falsely manipulate, underread, or overread the Babcock test or any other apparatus used for the purpose of determining the amount of milk fat in milk or cream, or who shall make any false determination of any test or apparatus used for the purpose of determining the amount of milk fat in any dairy products, is guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 3-410; 1966, c. 702, § 3.1-540; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

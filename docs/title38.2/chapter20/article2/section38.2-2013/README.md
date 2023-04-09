@@ -1,0 +1,3 @@
+# § 38.2-2013 Excess rate for specific risk.
+
+<p>Subject to the Commission's approval, a rate in excess of that provided by an applicable filing may be used for a specific risk upon the filing of (i) written application of an insurer stating its reasons for the increased rate, accompanied by (ii) the written consent of the insured or prospective insured.</p><p>Code 1950, §§ 38-211, 38-253.32, 38-253.78; 1952, c. 317, § 38.1-262; 1986, c. 562.</p>

@@ -1,0 +1,3 @@
+# § 55.1-111 Fee tail converted into fee simple.
+
+<p>Every estate in lands so limited that, as the law was on October 7, 1776, such estate would have been an estate tail shall be deemed an estate in fee simple, and every limitation upon such an estate shall be held valid if the same would be valid when limited upon an estate in fee simple created by technical language.</p><p>Code 1919, § 5150; Code 1950, § 55-12; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

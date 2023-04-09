@@ -1,0 +1,3 @@
+# § 10.1-1016 Savings clause.
+
+<p>Nothing herein shall in any way affect the power of a public body under any other statute, including without limitation the Virginia Outdoors Foundation and the Virginia Historic Landmarks Board, to acquire and hold conservation easements or affect the terms of any such easement held by any public body.</p><p>1988, cc. 720, 891.</p>

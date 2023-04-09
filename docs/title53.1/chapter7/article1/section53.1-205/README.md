@@ -1,0 +1,3 @@
+# § 53.1-205 Jurisdiction for trial of prisoners; nature of proceedings.
+
+<p>Subject to the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/53.1-203/'>53.1-203</a> and <a href='http://law.lis.virginia.gov/vacode/53.1-204/'>53.1-204</a>, the jurisdiction, proceedings, trial and judgment in a criminal proceeding against a person confined in a state correctional facility shall be as is provided for in other cases of criminal prosecution.</p><p>Code 1950, §§ 53-295, 53-300; 1966, c. 430; 1970, c. 593; 1973, c. 59; 1982, c. 636.</p>

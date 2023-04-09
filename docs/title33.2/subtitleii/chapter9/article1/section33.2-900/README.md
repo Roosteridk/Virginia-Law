@@ -1,0 +1,3 @@
+# § 33.2-900 Definitions.
+
+<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Abandonment" means that the public's right to use a public highway, public landing, or public crossing has been extinguished.</p><p>"Discontinuance" means that the Board has determined that a highway, landing, or crossing no longer serves the public convenience warranting its maintenance at public expense; it divests the Department from maintenance responsibilities. Discontinuance does not render a highway, landing, or crossing unavailable for public use.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

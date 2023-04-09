@@ -1,0 +1,3 @@
+# § 54.1-920 Detention on seagoing vessel.
+
+<p>If a pilot is detained on board any seagoing vessel he shall be paid by the master, owner, or consignee of the vessel the rate prescribed by the State Corporation Commission for a day's detention for each day detained. If any pilot is carried beyond the limits of the Commonwealth against his will, he shall be entitled to recover $300 from the master or owner of the vessel upon which he has been carried away.</p><p>Code 1950, § 54-564; 1988, c. 765.</p>

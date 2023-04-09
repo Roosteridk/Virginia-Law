@@ -1,0 +1,3 @@
+# § 8.01-521 Judgments as to costs.
+
+<p>Unless the garnishee appear to be liable for more than is so delivered and paid, there shall be no judgment against him for costs. In other cases, judgment under §§ <a href='http://law.lis.virginia.gov/vacode/8.01-516.1/'>8.01-516.1</a> and <a href='http://law.lis.virginia.gov/vacode/8.01-519/'>8.01-519</a> may be for such costs, and against such party, as the court may deem just.</p><p>Code 1950, § 8-449; 1977, c. 617.</p>

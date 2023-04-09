@@ -1,0 +1,3 @@
+# § 23.1-629 Council designated as administering agency.
+
+<p>The Council is designated as the administering agency for the Program and may adopt regulations consistent with this article and appropriate to the administration of the Program. The Council may define by regulation such terms used in this article as "full-time," "undergraduate," "graduate," "professional," and "financial aid."</p><p>1972, c. 18, § 23-38.13; 1973, c. 2; 1981, c. 257; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-3810 Declining of grant of city status.
+
+<p>In any proceeding brought under this chapter, the town council may, by ordinance or resolution, decline to accept city status on the terms and conditions imposed by the court at any time prior to twenty-one days after final adjudication establishing city status. In such case the court shall apportion the total costs, taking into consideration the extent to which county revenues are derived from within the town, the relative financial abilities of the parties, and the relative merits of the case.</p><p>1979, c. 85, § 15.1-982.11; 1997, c. 587.</p>

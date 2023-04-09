@@ -1,0 +1,3 @@
+# § 5.1-33 Public purpose declared.
+
+<p>Any lands, easements or privileges acquired, owned, controlled or occupied by any cities, incorporated towns and counties of the Commonwealth under the provisions of this article are hereby declared to be acquired, owned, controlled or occupied for a public purpose, and as a matter of public necessity; and such lands, easements and privileges so acquired, owned, controlled or occupied are hereby declared to be acquired, owned, controlled or occupied for public, governmental and municipal purposes, and to be within the definition of property acquired for public uses as such term is used in Article I, Section 11 of the Constitution of Virginia.</p><p>Code 1950, §§ 5-22, 5-30; 1966, c. 576; 1971, Ex. Sess., c. 26.</p>

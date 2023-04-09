@@ -1,0 +1,3 @@
+# § 62.1-132.8 Consolidation of terminal operations.
+
+<p>The Authority shall effect consolidation of the water terminals of the several cities within the ports of the Commonwealth. It, specifically, shall bring about the centrally directed operation of all state-owned port facilities at Hampton Roads by such means as may prove necessary or desirable, not inconsistent with state law.</p><p>1981, c. 589.</p>

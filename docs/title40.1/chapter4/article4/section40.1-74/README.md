@@ -1,0 +1,3 @@
+# § 40.1-74 Right of entry.
+
+<p>In order to carry out the duties imposed by this article, the Commissioner or his designated agent shall have the right to enter upon the property of the utility.</p><p>Code 1950, § 40-95.5; 1952, c. 697; 1970, c. 321.</p>

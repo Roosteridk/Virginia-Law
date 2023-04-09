@@ -1,0 +1,3 @@
+# § 46.2-491 Persons included within scope of article.
+
+<p>This article shall apply to (i) every resident of the Commonwealth, regardless of whether he possesses a driver's license issued by the Department and (ii) every nonresident to whom the Department has issued a driver's license.</p><p>1974, c. 453, § 46.1-514.5; 1989, c. 727; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0672'>672</a>.</p>

@@ -1,0 +1,3 @@
+# § 32.1-297 Action for implied warranty in connection with transfer of blood or human tissue.
+
+<p>No action for implied warranty shall lie for the procurement, processing, distribution or use of whole blood, plasma, blood products, blood derivatives and other human tissue such as corneas, bones, or organs for the purpose of injecting, transfusing or transplanting any of them into the human body except where any defects or impurities in the said whole blood, plasma, blood products, blood derivatives and other human tissue such as corneas, bones, or organs are detectable by the use of established medical and technological procedures employed pursuant to the standards of local medical practice.</p><p>Code 1950, § 32-364.2; 1968, c. 81; 1979, c. 711.</p>

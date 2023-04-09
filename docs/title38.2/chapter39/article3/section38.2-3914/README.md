@@ -1,0 +1,3 @@
+# § 38.2-3914 Policy to specify amount of payment and when to be paid.
+
+<p>Each policy shall specify the sum of money payable upon the occurrence of the insured risk. Each policy shall also state that payment shall be made within thirty days after showing proof of the occurrence of the insured risk.</p><p>1985, c. 400, § 38.1-549.15; 1986, c. 562.</p>

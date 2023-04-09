@@ -1,0 +1,3 @@
+# § 57-34 Amount to defray original cost not limited.
+
+<p>Nothing contained in this article shall be construed as limiting the amount which may be given, bequeathed or devised to defray the original cost of the cemetery, burial lot, monument, vault or other like erection or structure, nor shall this article be construed as affecting any estate that has been distributed or settled on the basis of the law then existing.</p><p>Code 1919, § 59; 1918, p. 103; 1920, p. 10.</p>

@@ -1,0 +1,3 @@
+# § 45.2-112  Disposition of materials that have served purpose of the Division.
+
+<p>Materials collected after having served the purpose of the Division shall be distributed to the educational institutions of the Commonwealth in the manner that the Director determines to be of the greatest advantage to the educational interests of the Commonwealth.</p><p>1984, c. 590, § 45.1-388; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

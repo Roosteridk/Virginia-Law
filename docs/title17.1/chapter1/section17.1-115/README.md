@@ -1,0 +1,3 @@
+# § 17.1-115 How order or warrant making change posted.
+
+<p>A copy of every order of court of a judge issued under § <a href='http://law.lis.virginia.gov/vacode/17.1-114/'>17.1-114</a> shall, if practicable, be posted by the clerk of the court at the door of his office and at the courthouse door, and also at the place where the court has designated that its session be held.</p><p>Code 1919, § 5966, § 17-16; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

@@ -1,0 +1,3 @@
+# § 8.01-473 Judgment for benefit of other person than plaintiff; remedies of such person.
+
+<p>When an execution issues on a judgment, for the benefit, in whole or in part, of any person other than the plaintiff, if the fact appears by the record, the clerk shall, in the execution, or by an endorsement thereon, state the extent of the interest therein of such person; and such person, either in his own name or that of the plaintiff, may, as a party injured, prosecute a suit or motion against the officer.</p><p>Code 1950, § 8-405; 1977, c. 617.</p>

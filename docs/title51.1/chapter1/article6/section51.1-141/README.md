@@ -1,0 +1,3 @@
+# § 51.1-141 Service equivalents.
+
+<p>The Board shall determine how much service in any month is the equivalent of a month of service or how much service in any year is the equivalent of a year of service. The Board shall not allow more than one year of service credit for all service rendered in any period of twelve consecutive months.</p><p>1952, c. 157, § 51-111.40; 1956, c. 560; 1990, c. 832.</p>

@@ -1,0 +1,3 @@
+# § 15.2-5420 Status of bonds under Uniform Commercial Code.
+
+<p>Notwithstanding any of the provisions of this chapter or any recitals in any bonds issued under this chapter, all such bonds shall be deemed to be investment securities under the Uniform Commercial Code as enacted in this Commonwealth, subject only to the provisions of the bonds pertaining to registration.</p><p>1979, c. 416, § 15.1-1623; 1997, c. 587.</p>

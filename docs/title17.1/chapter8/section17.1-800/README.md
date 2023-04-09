@@ -1,0 +1,3 @@
+# § 17.1-800 Virginia Criminal Sentencing Commission created.
+
+<p>There is hereby created within the judicial branch as an agency of the Supreme Court of Virginia, the Virginia Criminal Sentencing Commission, hereinafter referred to in this chapter as the Commission.</p><p>1994, 2nd Sp. Sess., cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?943+ful+CHAP0001'>1</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?943+ful+CHAP0002'>2</a>, § 17-232; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

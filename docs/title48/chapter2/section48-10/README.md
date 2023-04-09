@@ -1,0 +1,3 @@
+# § 48-10 Contempt proceedings.
+
+<p>In case of the violation of any injunction granted to restrain such nuisance, the court, or, in vacation, a judge thereof, may summarily try and punish the offender. The proceeding shall be commenced by filing with the clerk of the court an information, under oath, setting out the alleged facts constituting such violation, upon which the court or judge shall cause a warrant to issue, under which the defendant shall be arrested. The trial may be had upon affidavits, or either party may at any stage of the proceeding demand the production and oral examination of the witnesses.</p><p>Code 1919, § 1524.</p>

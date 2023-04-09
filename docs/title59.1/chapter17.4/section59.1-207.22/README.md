@@ -1,0 +1,3 @@
+# § 59.1-207.22 Prohibited practices.
+
+<p>A lease-purchase agreement may not contain:</p><p>1. A confession of judgment;</p><p>2. A negotiable instrument;</p><p>3. A security interest or any other claim of a property interest in any goods except those goods delivered by the lessor pursuant to the lease-purchase agreement;</p><p>4. A wage assignment;</p><p>5. A waiver by the consumer of claims or defenses; or</p><p>6. A provision authorizing the lessor or a person acting on the lessor's behalf to enter upon the consumer's premises or to commit any breach of the peace in the repossession of goods.</p><p>1988, c. 24.</p>

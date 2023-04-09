@@ -1,0 +1,3 @@
+# § 58.1-632 Memorandum of lien.
+
+<p>The Tax Commissioner is empowered, when any tax becomes delinquent under this chapter, to issue a memorandum of lien for the collection of the tax, penalty and interest from each delinquent taxpayer. Section <a href='http://law.lis.virginia.gov/vacode/58.1-1805/'>58.1-1805</a> shall apply to such memorandum, except that the same may be issued as soon as the tax becomes delinquent.</p><p>Code 1950, § 58-441.36; 1966, c. 151; 1984, c. 675.</p>

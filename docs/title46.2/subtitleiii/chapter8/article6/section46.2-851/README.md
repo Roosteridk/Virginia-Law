@@ -1,0 +1,3 @@
+# § 46.2-851 Signals prior to moving standing vehicles into traffic.
+
+<p>Drivers of vehicles stopped at the curb or edge of a highway, before moving such vehicles, shall signal their intentions to move into traffic, as provided in this article, before turning in the direction the vehicle will proceed from the curb.</p><p>Code 1950, § 46-237; 1958, c. 541, § 46.1-220; 1989, c. 727.</p>

@@ -1,0 +1,3 @@
+# § 63.2-1101 Discharging financial responsibilities imposed by compact or agreement.
+
+<p>Financial responsibility for any child placed pursuant to the provisions of Chapter 10 (§ <a href='http://law.lis.virginia.gov/vacode/63.2-1000/'>63.2-1000</a> et seq.) of this title shall be determined in accordance with the provision of Article V of the compact. In the event of partial or complete default of performance thereunder, the provisions of Chapter 19 (§ <a href='http://law.lis.virginia.gov/vacode/63.2-1900/'>63.2-1900</a> et seq.) of this title may also be invoked.</p><p>1975, c. 406, § 63.1-219.3; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

@@ -1,0 +1,3 @@
+# § 56-468 Endangering life or limb by stringing wires across other works.
+
+<p>Whoever shall hereafter erect, string, or maintain wires for any telephone or telegraph lines, over or across the works, in this Commonwealth, of any company chartered as a work of internal improvement in any manner so as to endanger the lives or limbs of the employees of such company, or other person, shall, for each offense, be fined not less than $100 nor more than $500.</p><p>Code 1919, § 4049.</p>

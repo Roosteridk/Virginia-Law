@@ -1,0 +1,3 @@
+# § 33.2-3804 Office of authority; title to property.
+
+<p>A. The principal office of the authority shall be within the boundaries of Planning District 4. All records of the authority shall be kept at such office.</p><p>B. The title to all property of every kind belonging to the authority shall be titled to the authority and shall be held for the benefit of its members.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0353'>353</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0354'>354</a>.</p>

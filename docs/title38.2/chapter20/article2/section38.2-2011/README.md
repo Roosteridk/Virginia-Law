@@ -1,0 +1,3 @@
+# § 38.2-2011 Interchange of rating data and information.
+
+<p>To promote uniform administration of rate regulatory laws, the Commission and each insurer and each rate service organization subject to this chapter may (i) exchange information and experience data with insurance supervisory officials, insurers, and rate service organizations in other states, and (ii) consult with them regarding rate making and the application of rating schedules and rating plans. Reasonable rules and plans may be promulgated by the Commission for the interchange of data necessary for the application of rating plans.</p><p>Code 1950, §§ 38-218, 38-253.37, 38-253.38, 38-253.83, 38-253.84; 1952, c. 317, § 38.1-260; 1986, c. 562.</p>

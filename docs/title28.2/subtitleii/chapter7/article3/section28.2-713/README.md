@@ -1,0 +1,3 @@
+# § 28.2-713 Limiting the taking of crabs by one boat in one day; penalty.
+
+<p>Whenever the interest of conservation or the crabbing industry requires, the Commission may limit the taking or catching of crabs by one boat in one day. Violation of such a regulation is a Class 1 misdemeanor.</p><p>Possession of crabs in excess of the amount provided by such regulation shall be prima facie evidence of violation; however, the provisions of this section shall not apply to crab buy boats.</p><p>Code 1950, § 28-172.1; 1956, c. 357; 1958, c. 449; 1962, c. 406, § 28.1-168; 1992, c. 836.</p>

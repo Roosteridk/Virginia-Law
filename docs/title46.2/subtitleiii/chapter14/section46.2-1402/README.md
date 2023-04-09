@@ -1,0 +1,3 @@
+# § 46.2-1402 Workers' compensation law does not apply.
+
+<p>Title 65.2, providing compensation for workers injured during the course of their employment, shall not apply to a person injured while participating in a ridesharing arrangement between his place of residence and place of employment or termini near such places; however, if the employer owns, leases, or contracts for the motor vehicle used in such arrangement, Title 65.2 shall apply.</p><p>1981, c. 218, § 46.1-558; 1989, c. 727.</p>

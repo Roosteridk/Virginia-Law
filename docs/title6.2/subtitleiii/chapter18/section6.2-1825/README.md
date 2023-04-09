@@ -1,0 +1,3 @@
+# § 6.2-1825 Criminal penalties.
+
+<p>Any person violating § <a href='http://law.lis.virginia.gov/vacode/6.2-1801/'>6.2-1801</a> is guilty of a Class 6 felony. For the purposes of this section, each violation shall constitute a separate offense.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0897'>897</a>, § 6.1-468; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

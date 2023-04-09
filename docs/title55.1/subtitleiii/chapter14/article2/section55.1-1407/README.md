@@ -1,0 +1,3 @@
+# § 55.1-1407 Lessees have same rights against grantees as against lessors.
+
+<p>A lessee, his personal representative, or his assigns may have against a grantee or alienee of the reversion, or of any part of such reversion, his heirs, or his assigns the like benefit of any condition, covenant, or promise in the lease as he could have had against the lessor himself and his heirs and assigns, except the benefit of any warranty, in deed or law.</p><p>Code 1919, § 5513; Code 1950, § 55-218; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

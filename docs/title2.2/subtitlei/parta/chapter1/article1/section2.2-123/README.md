@@ -1,0 +1,3 @@
+# § 2.2-123 Authority over rooms and space in public buildings.
+
+<p>Rooms and space in public buildings at the seat of government, other than the Capitol, whether the rooms or space are occupied, may be vacated, assigned, and reassigned by the Governor to such departments, divisions, agencies, and officers of the Commonwealth as the Governor deems proper. The Governor shall not vacate, assign or reassign any rooms or space occupied by the Supreme Court, the General Assembly, the State Corporation Commission or other independent agencies, without the consent and approval of such bodies.</p><p>Code 1950, § 2-41; 1966, c. 677, § 2.1-46; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

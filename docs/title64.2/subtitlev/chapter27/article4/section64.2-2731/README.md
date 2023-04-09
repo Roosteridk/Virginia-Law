@@ -1,0 +1,3 @@
+# § 64.2-2731 Revocation or amendment of release.
+
+<p>A powerholder may revoke or amend a release of a power of appointment only to the extent that:</p><p>1. The instrument of release is revocable by the powerholder; or</p><p>2. The powerholder reserves a power of revocation or amendment in the instrument of release.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

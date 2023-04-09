@@ -1,0 +1,3 @@
+# § 13.1-352 Voting rights.
+
+<p>A. No shares other than membership shares shall be given voting rights in a worker cooperative.</p><p>B. The power to amend or repeal bylaws of a worker cooperative shall be in the members only, except to the extent that directors are authorized to amend or repeal the bylaws.</p><p>C. Voting on amendments to the articles of incorporation of a worker cooperative shall be limited to the members qualified to vote membership shares.</p><p>D. Each member with a membership share shall have one vote in any matter requiring voting by shareholders.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0673'>673</a>.</p>

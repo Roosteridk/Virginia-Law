@@ -1,0 +1,3 @@
+# § 32.1-11.3 Patient and community health education services.
+
+<p>The Board shall formulate a program of patient and community health education services to be provided by the Department on a regional, district, or local basis. The program shall include services addressing health promotion and disease prevention and shall encourage the coordination of local and private sector health education services. This program shall include information on the causes, prevention, early detection, and treatment of osteoporosis.</p><p>1991, c. 195; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0078'>78</a>.</p>

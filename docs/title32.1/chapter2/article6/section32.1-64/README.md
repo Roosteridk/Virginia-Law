@@ -1,0 +1,3 @@
+# § 32.1-64 Duty of Board to provide for treatment.
+
+<p>The Board shall provide for the gratuitous distribution of the necessary treatment approved by it for ophthalmia neonatorum, together with proper directions for the use and administration thereof, to all physicians, midwives and hospitals requesting it. The Board shall provide free of charge in medically indigent cases the necessary treatment for ophthalmia neonatorum when the cause is ascertained to be gonococcus.</p><p>Code 1950, § 32-109; 1979, c. 711.</p>

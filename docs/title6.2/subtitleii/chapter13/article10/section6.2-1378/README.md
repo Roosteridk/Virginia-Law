@@ -1,0 +1,3 @@
+# § 6.2-1378 Use of reserves.
+
+<p>Losses may be charged to the reserve fund. Any sums recovered on items previously charged to it shall be credited to the reserve fund. No dividends shall be paid out of the reserve fund unless the fund, after such payment, exceeds the total amount required to be set aside in the regular reserve and special reserves of the credit union.</p><p>Code 1950, § 6-227; 1964, c. 75; 1966, c. 584, § 6.1-218; 1968, c. 560; 1984, c. 410; 1986, c. 146; 1990, c. 373, § 6.1-225.59; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

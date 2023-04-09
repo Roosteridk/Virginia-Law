@@ -1,0 +1,3 @@
+# § 3.2-4210 Escrow fund information.
+
+<p>The Attorney General at any time may require a nonparticipating manufacturer to provide proof from the financial institution in which such manufacturer has established a qualified escrow fund for the purpose of compliance with Article 1 (§ <a href='http://law.lis.virginia.gov/vacode/3.2-4200/'>3.2-4200</a> et seq.) of this chapter of the amount of money in and the dates of deposits to such fund being held on behalf of the Commonwealth and listing the amounts and dates of all withdrawals from such fund.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0798'>798</a>, § 3.1-336.9; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

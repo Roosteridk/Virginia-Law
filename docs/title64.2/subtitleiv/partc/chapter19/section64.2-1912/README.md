@@ -1,0 +1,3 @@
+# § 64.2-1912 Powers of custodian.
+
+<p>A custodian, acting in a custodial capacity, has all the rights, powers, and authority over custodial property that unmarried adult owners have over their own property, which shall include but not be limited to those powers set forth in § <a href='http://law.lis.virginia.gov/vacode/64.2-105/'>64.2-105</a> as of the date the custodian acts, but a custodian may exercise such rights, powers, and authority in that capacity only. However, this section does not relieve a custodian from liability for breach of a duty imposed under § <a href='http://law.lis.virginia.gov/vacode/64.2-1911/'>64.2-1911</a>.</p><p>1988, c. 516, § 31-49; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,0 +1,3 @@
+# § 46.2-2145 Condition or obligation of security.
+
+<p>The insurance, bond or other security provided for in § <a href='http://law.lis.virginia.gov/vacode/46.2-2144/'>46.2-2144</a> shall obligate the insurer or surety to pay any final judgment for (i) damages sustained by the shippers or consignees for injury to any passenger or passengers or for loss or damage to property entrusted to such motor carrier when a cargo policy is required and (ii) any and all injuries to persons and loss of or damage to property resulting from the negligent operation of any motor vehicle.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

@@ -1,0 +1,3 @@
+# § 38.2-2615 Other insurance transactions prohibited.
+
+<p>A. A home protection company that engages in any business other than the business of a home protection company is not eligible for the issuance or renewal of a license in this Commonwealth.</p><p>B. Nothing in this chapter shall be deemed to authorize any home protection company to transact any business other than that of a home protection company or to transact any other business of insurance, unless the company is authorized by a license issued by the Commission.</p><p>1981, c. 530, § 38.1-945; 1986, c. 562; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0634'>634</a>; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0727'>727</a>.</p>

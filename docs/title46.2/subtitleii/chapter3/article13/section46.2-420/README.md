@@ -1,0 +1,3 @@
+# § 46.2-420 Order for payment of judgment in installments.
+
+<p>A judgment debtor, on five days' notice to the judgment creditor, may apply to the court in which the judgment was obtained for the privilege of paying it in installments. The court, without prejudice to other legal remedies which the judgment creditor may have, may so order, fixing the amounts and times of payment of the installments.</p><p>Code 1950, § 46-432; 1958, c. 541, § 46.1-445; 1989, c. 727.</p>

@@ -1,0 +1,3 @@
+# § 15.2-1237 Legal review of contracts; filing.
+
+<p>All contracts shall be approved as to form by the county attorney or other qualified attorney and a copy of each long-term contract shall be filed with the treasurer or other chief financial officer of the county.</p><p>Code 1950, § 15-545; 1962, c. 623, § 15.1-109; 1977, c. 584; 1982, c. 647; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 15.2-2114.1 Car-washing fundraiser.
+
+<p>No locality shall prohibit car washing as a noncommercial fundraising activity if the washing uses only biodegradable, phosphate-free, water-based cleaners, nor shall any permit issued pursuant to the State Water Control Law (§ <a href='/vacode/62.1-44.2/'>62.1-44.2</a> et seq.) prohibit the discharge of such noncommercial fundraising activity washwaters from a municipal separate storm sewer system.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0793'>793</a>.</p>

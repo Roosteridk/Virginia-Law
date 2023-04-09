@@ -1,0 +1,3 @@
+# § 38.2-3321.1 Requirements for those marketing group life insurance.
+
+<p>Insurance marketed to certificate holders of a group that does not qualify pursuant to § <a href='http://law.lis.virginia.gov/vacode/38.2-3318.1/'>38.2-3318.1</a> must be marketed by a person holding a valid life and health insurance agent license as required by Chapter 18 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-1800/'>38.2-1800</a> et seq.) of this title.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0154'>154</a>.</p>

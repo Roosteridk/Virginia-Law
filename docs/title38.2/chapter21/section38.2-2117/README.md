@@ -1,0 +1,3 @@
+# § 38.2-2117 Approval of forms or provisions for additional coverage.
+
+<p>The Commission may approve and authorize the use of appropriate forms or provisions contained in supplemental contracts or extended coverage endorsements used in connection with policies on property in this Commonwealth to provide coverage for one or more perils in addition to the perils covered by the standard insuring agreement and standard provisions prescribed in this chapter.</p><p>Code 1950, § 38-190; 1950, p. 995; 1952, c. 317, § 38.1-373; 1986, c. 562.</p>

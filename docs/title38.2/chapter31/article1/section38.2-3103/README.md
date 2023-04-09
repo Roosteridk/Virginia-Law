@@ -1,0 +1,3 @@
+# § 38.2-3103 Fraudulent procurement of policy; penalty.
+
+<p>A. No person shall knowingly secure, attempt to secure or cause to be secured a life insurance policy on any person who is not in an insurable condition by means of misrepresentations or false or fraudulent statements.</p><p>B. An insurance agent who violates this section shall be subject to penalties under § <a href='http://law.lis.virginia.gov/vacode/38.2-1831/'>38.2-1831</a> in addition to the penalties of § <a href='http://law.lis.virginia.gov/vacode/38.2-218/'>38.2-218</a>.</p><p>Code 1950, § 38-369; 1952, c. 317, § 38.1-434; 1986, c. 562.</p>

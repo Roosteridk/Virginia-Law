@@ -1,0 +1,3 @@
+# § 33.2-1711 No other prerequisites to issue of bonds.
+
+<p>Such revenue bonds may be issued without any other proceedings or the happening of any other conditions or things than those proceedings, conditions, and things that are specified and required by this chapter.</p><p>Code 1950, § 33-239; 1970, c. 322, § 33.1-279; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

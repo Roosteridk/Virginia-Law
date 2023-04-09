@@ -1,0 +1,3 @@
+# § 38.2-4511 Corporation's contracts with participating dentists or optometrists.
+
+<p>Participating dentists or optometrists shall agree to (i) perform the dental services or optometric services specified by the plan at the rates of compensation determined by the nonstock corporation and filed with the Commission, and (ii) abide by the bylaws, rules and regulations of the nonstock corporation.</p><p>1980, c. 682, § 38.1-901; 1986, c. 562.</p>

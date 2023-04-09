@@ -1,0 +1,3 @@
+# § 3.2-4407 Certificate of health to accompany bill of sale.
+
+<p>No bees on combs, hives, used beekeeping equipment with combs, or appliances may be offered for sale without a certificate of health prepared by the State Apiarist for each specifically identifiable item. The certificate of health must accompany each bill of sale.</p><p>Code 1950, § 3-502; 1966, c. 702, § 3.1-607; 1972, c. 499, § 3.1-610.17; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

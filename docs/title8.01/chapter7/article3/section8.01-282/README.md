@@ -1,0 +1,3 @@
+# § 8.01-282 Motion to strike evidence.
+
+<p>When a defendant moves the court to strike out all of the evidence, upon any grounds, and such motion is overruled by the court, such defendant shall not thereafter be precluded from introducing evidence in his behalf.</p><p>Code 1950, § 8-122.1; 1954, c. 605; 1977, c. 617; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0681'>681</a>.</p>

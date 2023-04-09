@@ -1,0 +1,3 @@
+# § 22.1-233 Application of zoning laws and building codes; inspection of work; school boards to make no warranties.
+
+<p>Nothing herein shall exempt career and technical education projects from compliance with state and local zoning laws and building codes, if applicable. Work done by students or other nonlicensed personnel shall be inspected by an appropriately licensed person to assure compliance with prescribed standards. No school board shall make any warranty, express or implied, as to the construction or as to the compliance of a project with zoning laws and building codes.</p><p>Code 1950, § 22-330.43; 1974, c. 336; 1975, c. 139; 1980, c. 559; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0483'>483</a>.</p>

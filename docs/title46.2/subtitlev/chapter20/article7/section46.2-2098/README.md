@@ -1,0 +1,3 @@
+# § 46.2-2098 Control, supervision and regulation by Department.
+
+<p>Except as otherwise provided in this chapter, every contract passenger carrier shall be subject to the exclusive control, supervision, and regulation by the Department, except that enforcement of statutes and Department regulations shall be not only by the Department, but also by the Department of State Police and local law-enforcement agencies. Nothing in this section shall be construed as authorizing the adoption of local ordinances providing for local regulation of contract passenger carriers.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

@@ -1,0 +1,3 @@
+# § 55.1-701 Applicability.
+
+<p>The provisions of this chapter apply only with respect to transfers by sale, exchange, installment land sales contract, or lease with option to buy of residential real property consisting of not less than one nor more than four dwelling units, whether or not the transaction is with the assistance of a licensed real estate broker or salesperson.</p><p>1992, c. 717, § 55-517; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0265'>265</a>; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0386'>386</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

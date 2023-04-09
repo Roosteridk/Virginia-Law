@@ -1,0 +1,3 @@
+# § 58.1-2634 Copies of assessment forwarded to interested parties.
+
+<p>A certified copy of the assessment made pursuant to § <a href='http://law.lis.virginia.gov/vacode/58.1-2633/'>58.1-2633</a>, when made, shall be immediately forwarded by the clerk of the Commission to the Comptroller and to the president or other proper officer of each company, and to the governing body of each county, city and town wherein any property belonging to such company is situated and to each commissioner of the revenue.</p><p>The assessment shall show the type of property and its value and location.</p><p>Code 1950, §§ 58-583, 58-584, 58-592, 58-611, 58-612; 1968, c. 637; 1972, c. 813; 1983, c. 570; 1984, c. 675.</p>

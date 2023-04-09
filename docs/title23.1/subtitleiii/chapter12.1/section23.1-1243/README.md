@@ -1,0 +1,3 @@
+# § 23.1-1243 Annual report.
+
+<p>The Secretary of Finance, in consultation with the other designated reviewers, shall submit a report by December 1 of each year to the Chairmen of the House Committee on Appropriations and the Senate Committee on Finance and Appropriations. Such report shall provide an update as to the progress of each qualified institution in meeting the goals set forth in its memorandum of understanding and the aggregate amount of grants awarded to the qualified institution pursuant to this chapter.</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0638'>638</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0639'>639</a>.</p>

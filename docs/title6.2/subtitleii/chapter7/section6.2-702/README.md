@@ -1,0 +1,3 @@
+# § 6.2-702 Registration; authority to transact business.
+
+<p>Every person that controls one or more Virginia financial institutions (i) shall register with the Commission in accordance with procedures established by the Commission within 180 days after the date the person acquires control of a Virginia financial institution, unless the Commission allows additional time, and (ii) unless such person is a corporation chartered under the laws of Virginia, shall obtain a certificate of authority to transact business in the Commonwealth in accordance with § <a href='http://law.lis.virginia.gov/vacode/13.1-757/'>13.1-757</a>.</p><p>1978, c. 683, § 6.1-382; 1985, c. 544; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

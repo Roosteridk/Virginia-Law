@@ -1,0 +1,3 @@
+# § 29.1-818 Licenses of salesmen, etc., to be carried, etc.; change of employer.
+
+<p>Every watercraft dealer, watercraft salesman, watercraft demonstrator, factory representative and distributor representative shall carry his license when engaged in his business and shall display the same upon request. The license shall name his employer and, in the event of a change of employer, he shall immediately mail his license to the Director, who shall endorse such change on the license without a charge.</p><p>1988, c. 592; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0515'>515</a>.</p>

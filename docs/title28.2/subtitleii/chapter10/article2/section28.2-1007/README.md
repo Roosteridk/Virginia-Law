@@ -1,0 +1,3 @@
+# § 28.2-1007 Authority to regulate leasing.
+
+<p>The Potomac River Fisheries Commission shall have the power to make, adopt, and publish such rules and regulations as may be necessary or desirable for authorizing and regulating the leasing of the river bottom or the water column in areas of the Potomac River within its geographical jurisdiction and may levy license, leasing, and repletion fees for same.</p><p> 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0885'>885</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-6320 Powers conferred additional and supplemental; liberal construction.
+
+<p>The powers conferred by this chapter shall be in addition and supplemental to the powers conferred by any other law. This chapter shall be liberally construed to effect the purposes hereof.</p><p>Code 1950, § 15-957; 1954, c. 645; 1962, c. 623, § 15.1-1340; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0740'>740</a>; 1997, c. 587; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0709'>709</a>.</p>

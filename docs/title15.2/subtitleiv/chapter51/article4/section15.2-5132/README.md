@@ -1,0 +1,3 @@
+# § 15.2-5132 Exemption from taxation.
+
+<p>No authority shall be required to pay any taxes or assessments upon any system acquired or constructed by it under the provisions of this chapter or upon the income therefrom. The bonds issued under the provisions of this chapter, their transfer and the income therefor, including any profit made on their sale, shall be free from taxation within the Commonwealth.</p><p>Code 1950, § 15-764.20; 1950, p. 1323; 1962, c. 623, § 15.1-1258; 1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0527'>527</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0573'>573</a>, 587; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0473'>473</a>.</p>

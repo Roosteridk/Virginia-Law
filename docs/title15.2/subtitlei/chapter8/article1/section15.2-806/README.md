@@ -1,0 +1,3 @@
+# § 15.2-806 Absence or disability of county executive.
+
+<p>In case of the absence or disability of the urban county executive, the board may designate some responsible person to perform the duties of the office.</p><p>Code 1950, § 15-384.21; 1960, c. 382; 1962, c. 623, § 15.1-733; 1997, c. 587.</p>

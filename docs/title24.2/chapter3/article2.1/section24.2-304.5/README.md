@@ -1,0 +1,3 @@
+# § 24.2-304.5 Notification of certain civil actions.
+
+<p>Any county, city, or town made a defendant in any civil action challenging the legality of its election district boundaries shall immediately notify the Attorney General of the pending civil action for review pursuant to § <a href='http://law.lis.virginia.gov/vacode/2.2-508/'>2.2-508</a>.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0249'>249</a>.</p>

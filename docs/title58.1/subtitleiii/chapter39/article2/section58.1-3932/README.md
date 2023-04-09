@@ -1,0 +1,3 @@
+# § 58.1-3932 Card system record and index of delinquent real estate in City of Norfolk.
+
+<p>The City of Norfolk is authorized to keep its record of delinquent real estate and all liens described under § <a href='http://law.lis.virginia.gov/vacode/58.1-3745/'>58.1-3745</a> in the Treasurer's office, using a card system record and index, or such other method approved by the Auditor of Public Accounts.</p><p>Code 1950, § 58-986.1; 1984, c. 675; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0462'>462</a>; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0305'>305</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0618'>618</a>.</p>

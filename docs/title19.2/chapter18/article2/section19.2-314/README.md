@@ -1,0 +1,3 @@
+# § 19.2-314 Supervision of persons released.
+
+<p>Every person released under § <a href='http://law.lis.virginia.gov/vacode/19.2-313/'>19.2-313</a> shall receive intensive parole supervision for a period of at least one and one-half years and may have parole supervision continued for a longer period, if the Parole Board deems it advisable.</p><p>Code 1950, § 19.1-295.4; 1966, c. 579; 1975, c. 495; 2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0668'>668</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0690'>690</a>.</p>

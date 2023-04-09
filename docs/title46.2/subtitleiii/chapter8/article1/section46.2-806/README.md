@@ -1,0 +1,3 @@
+# § 46.2-806 One-way roadways and highways.
+
+<p>The Commissioner of Highways may designate any highway or any separate roadway under his jurisdiction for one-way traffic and shall erect appropriate signs. Traffic thereon shall move only in the direction designated.</p><p>Code 1950, § 46-220.1; 1952, c. 671; 1958, c. 541, § 46.1-204; 1989, c. 727; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0585'>585</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0646'>646</a>.</p>

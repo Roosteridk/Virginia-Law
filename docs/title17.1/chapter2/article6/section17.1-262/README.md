@@ -1,0 +1,3 @@
+# § 17.1-262 Recordation of discharges of those who served in World War I.
+
+<p>Whenever the honorable discharge of any person who served in the military or naval forces of the United States or its associates during World War I, and who at the time of entering such service was a resident of Virginia shall be delivered to the clerk of any circuit court in this Commonwealth, the clerk shall record the same in the book hereinafter provided for. Copies of honorable discharges certified by the clerk shall be received as evidence of the facts therein stated.</p><p>1924, p. 471, 472, §§ 17-85, 17-86; Michie Code 1942, §§ 5214b, 5214d; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

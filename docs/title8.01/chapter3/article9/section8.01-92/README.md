@@ -1,0 +1,3 @@
+# § 8.01-92 Allowance of attorneys' fees out of unrepresented shares.
+
+<p>In any partition suit when there are unrepresented shares, the court shall allow reasonable fees to the attorney or attorneys bringing the action on account of the services rendered to the parceners unrepresented by counsel.</p><p>Code 1950, § 8-701.1; 1950, p. 96; 1977, c. 617.</p>

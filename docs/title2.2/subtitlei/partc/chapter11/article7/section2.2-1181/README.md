@@ -1,0 +1,3 @@
+# § 2.2-1181 Fleet Management Internal Service Fund.
+
+<p>There is hereby established a Fleet Management Internal Service Fund to be used exclusively to finance the operations of the centralized fleet.</p><p>1989, c. 479, § 33.1-408; 2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0815'>815</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0842'>842</a>, § 2.1-548.09.</p>

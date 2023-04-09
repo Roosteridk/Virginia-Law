@@ -1,0 +1,3 @@
+# § 58.1-4046 Intermediate routing of electronic data.
+
+<p>All sports betting shall be initiated and received within Virginia unless otherwise permitted by federal law. Consistent with the intent of the United States Congress as expressed in the Unlawful Internet Gambling Enforcement Act, 31 U.S.C. § 5361 et seq., the intermediate routing of electronic data relating to lawful intrastate sports betting authorized under this article shall not determine the location in which such bet is initiated and received.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1218'>1218</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1256'>1256</a>.</p>

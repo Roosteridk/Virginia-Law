@@ -1,0 +1,3 @@
+# § 54.1-1127 No waiver by Board of disciplinary action against regulant.
+
+<p>This article shall not limit the authority of the Board to take disciplinary action against any regulant for any violation of this title or the regulations of the Board. Full repayment of the amount paid from the Fund on a regulant's account shall not nullify or modify the effect of any disciplinary proceeding against that regulant for any violation.</p><p>1980, c. 635, § 54-145.3:9; 1988, c. 765; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0885'>885</a>.</p>

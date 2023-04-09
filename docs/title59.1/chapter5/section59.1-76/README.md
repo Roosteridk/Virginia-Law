@@ -1,0 +1,3 @@
+# § 59.1-76 Effect of failure to file certificate on right of action.
+
+<p>The failure of any person or corporation to comply with the provisions of this chapter shall not prevent a recovery by or against such person or corporation, in any of the courts in this Commonwealth on any cause of action heretofore or hereafter arising, but no action shall be maintained in any of the courts in this Commonwealth by any such person, corporation or his or its assignee or successor in title unless and until the certificate required by this chapter has been filed.</p><p>Code 1950, § 59-176; 1968, c. 439.</p>

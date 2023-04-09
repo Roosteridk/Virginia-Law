@@ -1,0 +1,3 @@
+# § 33.2-115 Department to establish smart transportation pilot zone.
+
+<p>The Secretary of Transportation and the Department of Transportation shall establish a smart transportation pilot zone to test state-of-the-art smart road technology utilizing the existing state highway network, or the Smart Road managed by the Virginia Tech Transportation Institute and owned and maintained by the Department of Transportation in Montgomery County, or both.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0478'>478</a>.</p>

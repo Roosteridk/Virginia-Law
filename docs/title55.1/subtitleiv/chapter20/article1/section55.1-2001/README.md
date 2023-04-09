@@ -1,0 +1,3 @@
+# § 55.1-2001 Property taxes assessed on individual apartments.
+
+<p>Property taxes assessed by the Commonwealth or by any locality shall be assessed on and collected on the individual apartments and not on the property as a whole, or on the common elements.</p><p>1962, c. 627, § 14, § 55-79.14; 1966, c. 683; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

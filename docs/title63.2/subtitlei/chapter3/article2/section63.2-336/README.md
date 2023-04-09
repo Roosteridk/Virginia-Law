@@ -1,0 +1,3 @@
+# § 63.2-336 Annual report.
+
+<p>At the request of the local governing body, the local director shall each year prepare and keep on file a full report of the local department's work and proceedings during the year. If such request is made, one copy of such report shall be filed with the local governing body and another with the Board.</p><p>Code 1950, § 63-99; 1968, c. 578, § 63.1-67.7; 1976, c. 214; 1978, c. 146; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

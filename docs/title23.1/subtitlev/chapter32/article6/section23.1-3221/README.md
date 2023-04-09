@@ -1,0 +1,3 @@
+# § 23.1-3221 Annual report.
+
+<p>The board shall submit an annual report to the Governor and General Assembly on or before November 1 of each year containing, at a minimum, the annual financial statements of the Museum for the fiscal year ending the preceding June 30. Such report shall be submitted as a report document as provided in the procedures of the Division of Legislative Automated Systems for the processing of legislative documents and reports and shall be posted on the General Assembly's website.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

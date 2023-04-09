@@ -1,0 +1,3 @@
+# § 13.1-1076 Action on plan of domestication by a domestic limited liability company.
+
+<p>In the case of a domestic limited liability company, unless the articles of organization or a written operating agreement of the limited liability company provides otherwise, the members of the limited liability company shall approve the plan of domestication in the manner provided in the limited liability company's operating agreement for amendments to the operating agreement by the members or, if no provision is made in an operating agreement, by all the members.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0912'>912</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0288'>288</a>.</p>

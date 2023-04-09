@@ -1,0 +1,3 @@
+# § 3.2-3713 Commissioner's actions.
+
+<p>Nothing in this chapter shall require the Commissioner to report for prosecution, or institute seizure proceedings, where the Commissioner considers the violations of this chapter to be minor. In such cases, the Commissioner may serve a suitable notice of warning in writing, when he believes that the public interest will be best served by so doing.</p><p>1974, c. 647, § 3.1-126.8; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0649'>649</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

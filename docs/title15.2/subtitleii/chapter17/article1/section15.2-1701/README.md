@@ -1,0 +1,3 @@
+# § 15.2-1701 Organization of police forces.
+
+<p>Any locality may, by ordinance, provide for the organization of its authorized police forces. Such forces shall include a chief of police, and such officers and other personnel as appropriate.</p><p>When a locality provides for a police department, the chief of police shall be the chief law-enforcement officer of that locality. However, in towns, the chief law-enforcement officer may be called the town sergeant.</p><p>1979, c. 333, § 15.1-131.7; 1997, c. 587.</p>

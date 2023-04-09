@@ -1,0 +1,3 @@
+# § 28.2-107 Commission to implement radio system.
+
+<p>The Commission shall take steps to implement an effective marine police radio dispatch system. In establishing and operating such a system on a permanent basis, the Commissioner may negotiate appropriate leases or other necessary agreements for base radio stations.</p><p>1972, c. 779, § 28.1-46.1; 1979, c. 670; 1992, c. 836; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0789'>789</a>.</p>

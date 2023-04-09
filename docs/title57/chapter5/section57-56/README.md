@@ -1,0 +1,3 @@
+# § 57-56 Information filed to become public records.
+
+<p>Registration statements, reports, professional fund-raising counsel contracts or professional solicitor contracts and all other documents and information required to be filed under this chapter shall become public records in the office of the Commissioner, and shall be open to the general public for inspection at such time and under such conditions as the Commissioner may prescribe. A charge not exceeding one dollar per page may be made for any copy of such documents and information as may be furnished any person by the Commissioner.</p><p>1974, c. 574; 1979, c. 595.</p>

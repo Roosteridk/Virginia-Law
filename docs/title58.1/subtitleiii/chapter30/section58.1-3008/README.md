@@ -1,0 +1,3 @@
+# § 58.1-3008 Different rates of levy on different classes of property.
+
+<p>The governing body of any county, city or town in laying levies on taxable real estate, tangible personal property and merchants' capital may impose different rates of levy on real estate, merchants' capital, tangible personal property or any separate class thereof authorized under Chapter 35 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-3500/'>58.1-3500</a> et seq.), and machinery and tools, or it may impose the same rate of levy on any or all of these subjects of taxation. Such rates shall conform to the requirements set forth in such Chapter 35.</p><p>Code 1950, § 58-851.2; 1952, c. 507; 1970, c. 748; 1984, c. 675.</p>

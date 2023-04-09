@@ -1,0 +1,3 @@
+# § 3.2-6029 Regulations.
+
+<p>The Board is authorized to adopt regulations concerning the specifications of disposal pits, incinerators, composting and rendering and all other matters within the purview and scope of this article to carry out the provisions of this article.</p><p>Code 1950, § 3-583.6; 1962, c. 157; 1966, c. 702, § 3.1-747; 1992, c. 101; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

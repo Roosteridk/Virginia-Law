@@ -1,0 +1,3 @@
+# § 25.1-415 Adjustments to certain benefit limits.
+
+<p>The monetary limits provided for in §§ <a href='http://law.lis.virginia.gov/vacode/25.1-406/'>25.1-406</a>, <a href='http://law.lis.virginia.gov/vacode/25.1-408/'>25.1-408</a>, <a href='http://law.lis.virginia.gov/vacode/25.1-409/'>25.1-409</a>, and <a href='http://law.lis.virginia.gov/vacode/25.1-410/'>25.1-410</a> shall be adjusted to conform to future revisions of corresponding monetary benefits under the federal Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (Public Law 91-646).</p><p>1981, c. 149, § 25-247.1; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

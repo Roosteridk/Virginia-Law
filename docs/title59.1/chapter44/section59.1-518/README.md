@@ -1,0 +1,3 @@
+# § 59.1-518 Effect on other remedies, causes of action or penalties.
+
+<p>Nothing in this chapter shall be construed to limit any remedies, causes of action or penalties available to any person or governmental agency under any other federal or state law.</p><p>2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0528'>528</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0553'>553</a>.</p>

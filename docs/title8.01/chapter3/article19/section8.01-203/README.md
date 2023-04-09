@@ -1,0 +1,3 @@
+# § 8.01-203 Goods and chattels liable before real estate.
+
+<p>Every writ of fieri facias, issued according to § <a href='http://law.lis.virginia.gov/vacode/8.01-201/'>8.01-201</a>, shall be levied first on the goods and chattels of the person against whose estate such writ issued. If, in the political subdivision, the residence of such person, there are no goods and chattels liable thereto, or not a sufficiency thereof, then the officer having such writ shall levy it on the real estate of such person.</p><p>Code 1950, § 8-766; 1977, c. 617.</p>

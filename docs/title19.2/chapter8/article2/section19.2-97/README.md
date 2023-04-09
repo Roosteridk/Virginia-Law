@@ -1,0 +1,3 @@
+# § 19.2-97 Confinement in jail when necessary.
+
+<p>The officer or persons executing the Governor's warrant of arrest, or the agent of the demanding state to whom the prisoner may have been delivered, may, when necessary, confine the prisoner in the jail of any county or city through which he may pass; and the keeper of such jail shall receive and safely keep the prisoner until the officer or person having charge of him is ready to proceed on his route, such officer or person being chargeable with the expense of keeping.</p><p>Code 1950, § 19.1-61; 1960, c. 366; 1975, c. 495.</p>

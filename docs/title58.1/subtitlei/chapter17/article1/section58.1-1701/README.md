@@ -1,0 +1,3 @@
+# § 58.1-1701 Definition.
+
+<p>As used in this article, unless the context clearly shows otherwise, "wholesaler or distributor" means any person, firm or corporation who manufactures or sells at wholesale carbonated soft drinks to retail dealers for the purpose of resale only or who sells at wholesale to institutional, commercial or industrial users or who distributes such drinks to chain stores.</p><p>Code 1950, § 58-404.02; 1977, c. 616; 1979, c. 134; 1984, c. 675.</p>

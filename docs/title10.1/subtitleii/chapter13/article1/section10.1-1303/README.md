@@ -1,0 +1,3 @@
+# § 10.1-1303 Chairman of the Board; Executive Director; cooperation of state agencies.
+
+<p>The Board shall elect its own chairman. The Governor shall appoint an Executive Director who shall serve as executive officer of the Board, but shall not serve as a member thereof. The Board may call upon any state department or agency for technical assistance. All departments and agencies of the Commonwealth shall, upon request, assist the Board in the performance of its duties.</p><p>1966, c. 497, § 10-17.14; 1972, c. 781; 1984, c. 444; 1985, c. 397; 1988, c. 891; 1990, c. 238.</p>

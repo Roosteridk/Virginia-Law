@@ -1,0 +1,3 @@
+# § 44-146.17:2 Annual statewide drill.
+
+<p>The Governor shall conduct an annual statewide drill on response to a large-scale disaster, including electrical power outages. Such drill shall include the participation of local governments, affected state agencies, public utilities, law-enforcement agencies, and other entities as determined by the Governor.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0430'>430</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0615'>615</a>.</p>

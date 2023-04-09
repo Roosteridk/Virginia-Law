@@ -1,0 +1,3 @@
+# § 15.2-982 Designation of tourism activity zones.
+
+<p>Any locality may designate one or more tourism activity zones as areas that may be used for special events, including parades, events requiring temporary street closures, and indoor and outdoor entertainment activities. The locality shall include any designated tourism activity zone as an amendment to the locality's zoning map.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0246'>246</a>.</p>

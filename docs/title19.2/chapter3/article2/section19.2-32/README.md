@@ -1,0 +1,3 @@
+# § 19.2-32 References to justices of the peace.
+
+<p>References in law to justices of the peace shall be deemed to apply to magistrates unless the provisions of Chapter 3 (§ <a href='http://law.lis.virginia.gov/vacode/19.2-26/'>19.2-26</a> et seq.) of this title shall render such reference inapplicable.</p><p>Code 1950, § 19.1-380; 1973, c. 545; 1975, c. 495; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0310'>310</a>.</p>

@@ -1,0 +1,3 @@
+# § 23.1-2409 Grants and loans from localities.
+
+<p>Localities may lend or donate money or other property to the Authority for any of the Authority's purposes. The local governing body making the grant or loan may restrict the use of such grants or loans to a specific project within or outside that locality.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0905'>905</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP1046'>1046</a>, § 23-50.16:11; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0314'>314</a>.</p>

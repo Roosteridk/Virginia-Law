@@ -1,0 +1,3 @@
+# § 15.2-6648 Liberal construction.
+
+<p>Neither this act nor anything contained herein is or shall be construed as a restriction or limitation upon any powers that the Authority might otherwise have under any laws of the Commonwealth, and this act is cumulative to any such powers. This act does and shall be construed to provide a complete, additional, and alternative method for the doing of the things authorized hereby and shall be regarded as supplemental and additional to powers conferred by other laws.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0842'>842</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0709'>709</a>.</p>

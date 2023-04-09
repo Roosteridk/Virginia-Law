@@ -1,0 +1,3 @@
+# § 15.2-3001 Priority of proceedings in special courts.
+
+<p>Any proceeding heard by a special court appointed pursuant to §§ <a href='http://law.lis.virginia.gov/vacode/15.2-3000/'>15.2-3000</a> and <a href='http://law.lis.virginia.gov/vacode/15.2-3002/'>15.2-3002</a> shall have priority over all other cases, including criminal cases, on the docket of the court in which such proceeding is pending or on the docket of each judge designated to hear the case.</p><p>1993, c. 398, § 15.1-1168.1; 1997, c. 587.</p>

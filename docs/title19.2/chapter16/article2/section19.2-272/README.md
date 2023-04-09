@@ -1,0 +1,3 @@
+# § 19.2-272 Definitions.
+
+<p>"Witness" as used in this article shall include a person whose testimony is desired in any proceeding or investigation by a grand jury or in a criminal action, prosecution or proceeding.</p><p>The word "state" shall include any territory of the United States and the District of Columbia.</p><p>The word "summons" shall include a subpoena (both subpoena ad testificandum and subpoena duces tecum), order or other notice requiring the appearance of a witness or production of documents.</p><p>Code 1950, § 19.1-269; 1960, c. 366; 1975, c. 495; 1988, c. 34.</p>

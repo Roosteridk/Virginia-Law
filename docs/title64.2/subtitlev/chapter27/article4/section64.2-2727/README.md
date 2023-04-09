@@ -1,0 +1,3 @@
+# § 64.2-2727 Disclaimer.
+
+<p>As provided by Chapter 26 (§ <a href='http://law.lis.virginia.gov/vacode/64.2-2600/'>64.2-2600</a> et seq.):</p><p>1. A powerholder may disclaim all or part of a power of appointment.</p><p>2. A permissible appointee, appointee, or taker in default of appointment may disclaim all or part of an interest in appointive property.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

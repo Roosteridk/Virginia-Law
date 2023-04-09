@@ -1,0 +1,3 @@
+# § 64.2-2726 Powerholder's authority to revoke or amend exercise.
+
+<p>A powerholder may revoke or amend an exercise of a power of appointment only to the extent that:</p><p>1. The powerholder reserves a power of revocation or amendment in the instrument exercising the power of appointment, and if the power is nongeneral, the terms of the instrument creating the power of appointment do not prohibit the reservation; or</p><p>2. The terms of the instrument creating the power of appointment provide that the exercise is revocable or amendable.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

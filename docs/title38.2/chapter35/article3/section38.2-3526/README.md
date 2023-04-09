@@ -1,0 +1,3 @@
+# § 38.2-3526 Standard provisions required; exceptions.
+
+<p>A. No group accident and sickness insurance policy shall be delivered or issued for delivery in this Commonwealth unless it contains the standard provisions prescribed in this article.</p><p>B. The provisions of § <a href='http://law.lis.virginia.gov/vacode/38.2-3531/'>38.2-3531</a>, subsection A of §§ <a href='http://law.lis.virginia.gov/vacode/38.2-3533/'>38.2-3533</a> and <a href='http://law.lis.virginia.gov/vacode/38.2-3538/'>38.2-3538</a> shall not apply to policies issued pursuant to subsection B of § <a href='http://law.lis.virginia.gov/vacode/38.2-3522.1/'>38.2-3522.1</a>.</p><p>1986, c. 562; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0154'>154</a>.</p>

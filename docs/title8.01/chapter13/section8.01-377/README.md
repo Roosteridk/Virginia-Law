@@ -1,0 +1,3 @@
+# § 8.01-377 Remedy when variance appears between evidence and allegations.
+
+<p>If, at the trial of any action, there appears to be a variance between the evidence and the allegations or recitals, the court, if it consider that substantial justice will be promoted and that the opposite party cannot be prejudiced thereby, may allow the pleadings to be amended, on such terms as to the payment of costs or postponement of the trial, or both, as it may deem reasonable. Or, instead of the pleadings being amended, the court may direct the jury to find the facts, and, after such finding, if it consider the variance such as could not have prejudiced the opposite party, shall give judgment according to the right of the case.</p><p>Code 1950, § 8-217; 1977, c. 617.</p>

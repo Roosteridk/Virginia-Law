@@ -1,0 +1,3 @@
+# § 38.2-2610 Cancellation of home protection contracts.
+
+<p>A. No home protection contract shall be cancelable by the home protection company during the initial term for which it is issued, except for:</p><p>1. Nonpayment of premium;</p><p>2. Fraud or misrepresentation of facts material to the issuance of the contract; or</p><p>3. Contracts providing coverage prior to the time the residential property is purchased, provided that purchase of the property does not occur.</p><p>B. Nothing in this section establishes the right of a contract holder to renew any contract.</p><p>1981, c. 530, § 38.1-940; 1986, c. 562.</p>

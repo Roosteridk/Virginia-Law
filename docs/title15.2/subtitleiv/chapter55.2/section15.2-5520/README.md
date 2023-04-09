@@ -1,0 +1,3 @@
+# § 15.2-5520 Liability of authority.
+
+<p>All expenses incurred in carrying out the provisions of this chapter shall be payable solely from the funds of the authority and no liability or obligation shall be incurred by the authority hereunder beyond the extent to which moneys shall be available to the authority.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0864'>864</a>.</p>

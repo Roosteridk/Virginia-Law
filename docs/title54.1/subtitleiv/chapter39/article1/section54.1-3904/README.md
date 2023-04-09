@@ -1,0 +1,3 @@
+# § 54.1-3904 Penalty for practicing without authority.
+
+<p>Any person who practices law without being authorized or licensed shall be guilty of a Class 1 misdemeanor. A collection agency may refer debts to an attorney for collection with the creditor's approval of the referral and the fee arrangement and shall not be deemed to be engaged in the unauthorized practice of law. An attorney is permitted by the creditor's authorization to enter into such representation agreements.</p><p>Code 1950, § 54-44; 1988, c. 765; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0441'>441</a>.</p>

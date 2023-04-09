@@ -1,0 +1,3 @@
+# § 54.1-2981 Short title.
+
+<p>The provisions of this article shall be known and may be cited as the "Health Care Decisions Act."</p><p>1983, c. 532, § 54-325.8:1; 1988, c. 765; 1992, cc. 748, 772.</p>

@@ -1,0 +1,3 @@
+# § 56-130 Penalty for failure to make necessary repairs, etc.
+
+<p>If any railroad, or other railroad company, when directed by a valid order of the Commission, refuses or fails to comply with any requirement imposed pursuant to § <a href='http://law.lis.virginia.gov/vacode/56-129.1/'>56-129.1</a>, such company shall, in the discretion of the Commission, be fined in accordance with federal guidelines.</p><p>Code 1919, § 3932; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0114'>114</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0157'>157</a>.</p>

@@ -1,0 +1,3 @@
+# § 20-99.2 Service in divorce and annulment cases.
+
+<p>A. In any suit for divorce or annulment or affirmation of a marriage, process may be served in any manner authorized under § <a href='http://law.lis.virginia.gov/vacode/8.01-296/'>8.01-296</a> or <a href='http://law.lis.virginia.gov/vacode/8.01-320/'>8.01-320</a>.</p><p>B. Any such process served prior to July 1, 1984, shall not be invalidated solely because service was made as prescribed under § <a href='http://law.lis.virginia.gov/vacode/8.01-296/'>8.01-296</a>.</p><p>1984, c. 611; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0078'>78</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0084'>84</a>.</p>

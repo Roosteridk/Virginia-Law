@@ -1,0 +1,3 @@
+# § 3.2-6547 Acceptance of animals for research or experimentation; prohibition.
+
+<p>No person shall use or accept for the purpose of medical research or experimentation any animal bearing a tag, license, or tattooed identification, unless the individual who owns such animal consents thereto in writing.</p><p>1990, c. 904, § 3.1-796.96:1; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

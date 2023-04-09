@@ -1,0 +1,3 @@
+# § 10.1-418.1 North Meherrin State Scenic River.
+
+<p>The North Meherrin River in Lunenburg County from the Route 712 Bridge to the junction with the South Meherrin River, a distance of approximately 7.5 miles, is hereby designated as the North Meherrin State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0045'>45</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0505'>505</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0240'>240</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>.</p>

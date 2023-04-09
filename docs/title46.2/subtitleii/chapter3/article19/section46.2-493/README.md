@@ -1,0 +1,3 @@
+# § 46.2-493 Demerit points valid for two years.
+
+<p>Demerit points, assigned to any conviction, or finding of not innocent in the case of a juvenile, shall be valid for a period of two years from the date the offense was committed. Demerit points used prior to the termination of the two-year period as the basis for suspension, revocation, probation, or other action which extends beyond the two-year period shall remain valid until the suspension, revocation, probationary period, or other action has terminated.</p><p>1974, c. 453, § 46.1-514.7; 1989, c. 727.</p>

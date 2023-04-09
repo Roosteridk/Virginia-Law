@@ -1,0 +1,3 @@
+# § 59.1-9.12 Personal suit for injunction or actual damages.
+
+<p>(a) Any person threatened with injury or damage to his business or property by reason of a violation of this chapter may institute an action or proceeding for injunctive relief when and under the same conditions and principles as injunctive relief is granted in other cases.</p><p>(b) Any person injured in his business or property by reason of a violation of this chapter may recover the actual damages sustained, and, as determined by the court, the costs of suit and reasonable attorney's fees. If the trier of facts finds that the violation is willful or flagrant, it may increase damages to an amount not in excess of three times the actual damages sustained.</p><p>1974, c. 545.</p>

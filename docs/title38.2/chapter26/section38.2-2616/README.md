@@ -1,0 +1,3 @@
+# § 38.2-2616 Binding arbitration provisions in contract.
+
+<p>Notwithstanding the provisions of § <a href='/vacode/38.2-312/'>38.2-312</a>, no home protection company based in this Commonwealth shall be prohibited from including in its contract a provision that requires the contract holder to submit to binding arbitration any dispute between the contract holder and the home protection company.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0799'>799</a>.</p>

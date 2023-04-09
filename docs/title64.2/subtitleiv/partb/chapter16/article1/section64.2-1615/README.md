@@ -1,0 +1,3 @@
+# § 64.2-1615 Agent's liability.
+
+<p>An agent that violates this chapter is liable to the principal or the principal's successors in interest for the amount required to:</p><p>1. Restore the value of the principal's property to what it would have been had the violation not occurred; and</p><p>2. Reimburse the principal or the principal's successors in interest for the attorney fees and costs paid on the agent's behalf.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0455'>455</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0632'>632</a>, § 26-88; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

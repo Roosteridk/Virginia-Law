@@ -1,0 +1,3 @@
+# § 2.2-1140 Assignment of office space.
+
+<p>The Division shall be responsible for the assignment of office space to agencies at the seat of government and buildings under control of the Division, and for the establishment of standards for the utilization and furnishing of such space.</p><p>1966, c. 55, § 2-65.1, 2.1-82.1; 1970, c. 202; 1974, c. 27; 1976, c. 125; 1977, c. 672, § 2.1-495; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

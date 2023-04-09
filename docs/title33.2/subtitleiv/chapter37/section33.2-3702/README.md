@@ -1,0 +1,3 @@
+# § 33.2-3702 Central Virginia Transportation Authority created.
+
+<p>The Central Virginia Transportation Authority is hereby created as a body politic and as a political subdivision of the Commonwealth. The Authority shall embrace each county, city, and town located in Planning District 15, which is established pursuant to Chapter 42 (§ <a href='/vacode/15.2-4200/'>15.2-4200</a> et seq.) of Title 15.2.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1235'>1235</a>.</p>

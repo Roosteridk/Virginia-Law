@@ -1,0 +1,3 @@
+# § 58.1-3245.9 Copies of local enterprise zone development taxation ordinance to local assessing officer and treasurer or director of finance.
+
+<p>The governing body shall transmit to the local assessing officer and treasurer or director of finance a copy of the local enterprise zone development taxation ordinance, a description of all real estate or machinery and tools, or both, located within the local enterprise zone, a map indicating the boundaries of the local enterprise zone and the manner of collecting and allocating real estate taxes or machinery and tools taxes pursuant to this article.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0314'>314</a>.</p>

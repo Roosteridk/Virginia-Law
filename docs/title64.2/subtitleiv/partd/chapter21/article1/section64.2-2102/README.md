@@ -1,0 +1,3 @@
+# § 64.2-2102 Communication between courts.
+
+<p>A. A court of the Commonwealth may communicate with a court in another state concerning a proceeding arising under this chapter. The court may allow the parties to participate in the communication. Except as otherwise provided in subsection B, the court shall make a record of the communication. The record may be limited to the fact that the communication occurred.</p><p>B. Courts may communicate concerning schedules, calendars, court records, and other administrative matters without making a record.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0518'>518</a>, § 37.2-1034; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,0 +1,3 @@
+# § 46.2-1036 Acetylene lights on antique motor vehicles.
+
+<p>Antique motor vehicles as defined in § <a href='http://law.lis.virginia.gov/vacode/46.2-100/'>46.2-100</a> may be equipped with acetylene headlights, taillights, and lights to illuminate their rear license plates as provided in regulations promulgated by the Superintendent.</p><p>Code 1950, § 46-280; 1958, c. 541, § 46.1-274; 1989, c. 727.</p>

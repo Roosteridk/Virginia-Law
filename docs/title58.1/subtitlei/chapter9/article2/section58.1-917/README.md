@@ -1,0 +1,3 @@
+# § 58.1-917 To what nonresident estates article applies.
+
+<p>The provisions of this article shall apply to the estate of any nonresident decedent if the laws of the state of his domicile contain a provision, of any nature or however expressed, whereby this Commonwealth is given reasonable assurance of the collection of its inheritance or death taxes, interest and penalties, from the estates of decedents dying domiciled in this Commonwealth when the estates of such decedents are being administered by the probate courts of such other state, or if the state of domicile does not grant letters in nonresident estates until after letters have been issued by the state of domicile.</p><p>Code 1950, § 58-238.22; 1978, c. 838; 1984, c. 675.</p>

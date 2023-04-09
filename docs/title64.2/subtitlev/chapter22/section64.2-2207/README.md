@@ -1,0 +1,3 @@
+# § 64.2-2207 Uniformity of application and construction.
+
+<p>This chapter shall be applied and construed to effectuate its general purpose to make uniform the law with respect to the subject of this chapter among states enacting it.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0475'>475</a>, § 64.1-104.8; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

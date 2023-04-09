@@ -1,0 +1,3 @@
+# § 32.1-248.1 Posting of water quality test results by certain recreational facilities.
+
+<p>The Board of Health shall promulgate regulations to require the daily posting of water quality test results at swimming pools and other water recreational facilities operated for public use or in conjunction with a tourist facility or health spa. Such regulations shall require, among other things, the posting of water quality data regarding the current pH level, disinfectant type and concentration, and water temperature, and the recommended safe levels of each, and shall not apply to private residential water recreational facilities, as defined by the Board.</p><p>1990, c. 812.</p>

@@ -1,0 +1,3 @@
+# § 15.2-5431.36 Liability of members or officers.
+
+<p>No member of any authority or officer of any governing body of locality creating such authority, or person or persons acting in their behalf, while acting within the scope of their authority shall be subject to any personal liability by reason of his carrying out of any of the powers expressly given in this chapter.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0643'>643</a>.</p>

@@ -1,0 +1,3 @@
+# § 38.2-3817 Paid-up insurance or extended term insurance.
+
+<p>Any company shall provide for automatic paid-up or extended term insurance in the event of the default in premium payments of any contract that has been in force for at least two years from the date of issue. The amount of such insurance shall not exceed the amount which the reserve that is credited to the member will purchase. The company shall carry the liability on its books.</p><p>Code 1950, § 38-486; 1952, c. 317, § 38.1-517; 1986, c. 562.</p>

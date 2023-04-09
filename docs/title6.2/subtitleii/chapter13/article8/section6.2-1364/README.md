@@ -1,0 +1,3 @@
+# § 6.2-1364 Acceptance of money under Virginia Uniform Transfers to Minors Act.
+
+<p>A credit union may accept money paid to it pursuant to the Virginia Uniform Transfers to Minors Act (§ <a href='http://law.lis.virginia.gov/vacode/64.2-1900/'>64.2-1900</a> et seq.) for credit to an account in the name of the custodian as provided in such Act if the custodian or the minor for whose benefit the transfer is made is a member of the credit union.</p><p>1979, c. 138, § 6.1-207.2; 1990, c. 373, § 6.1-225.47; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

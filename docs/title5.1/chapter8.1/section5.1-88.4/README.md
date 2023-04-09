@@ -1,0 +1,3 @@
+# § 5.1-88.4 Cancellation of insurance or corporate surety bond.
+
+<p>No policy of insurance or corporate surety bond issued pursuant to this chapter may be canceled or terminated, except for nonpayment of premiums, until at least thirty days after notice of cancellation or termination of said policy of insurance or corporate surety bond has been filed in the office of the Department, except that a subsequent policy or corporate surety bond procured and certified to the Department shall on the effective date thereof terminate the insurance or corporate surety bond previously in effect with respect to any aircraft designated in both policies or corporate surety bonds.</p><p>Code 1950, § 5.1-87; 1968, c. 773; 1970, c. 707; 1979, c. 272.</p>

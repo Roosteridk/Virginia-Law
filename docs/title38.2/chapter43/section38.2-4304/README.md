@@ -1,0 +1,3 @@
+# § 38.2-4304 Governing body.
+
+<p>A. The governing body of any health maintenance organization may include providers of health care services, other individuals, or both, but in no event shall any class of health care provider be excluded from eligibility for membership on the governing body of any health maintenance organization.</p><p>B. The governing body shall establish a mechanism to provide the enrollees with an opportunity to participate in matters of policy and operation through (i) the establishment of advisory panels, (ii) the use of advisory referenda on major policy decisions, or (iii) the use of other mechanisms.</p><p>1980, c. 720, § 38.1-867; 1985, c. 588; 1986, c. 562.</p>

@@ -1,0 +1,3 @@
+# § 65.2-810 How formal notice may be given.
+
+<p>Whenever by this title or the terms of any policy contract notice is required to be given by an employer to any insurance carrier, the same may be given by delivery or by mailing by registered letter properly addressed and stamped to the principal office or chief agent of such insurance carrier within this Commonwealth or to its home office, or to the secretary, general agent or chief officer thereof in the United States.</p><p>Code 1950, § 65-106; 1968, c. 660, § 65.1-110; 1991, c. 355.</p>

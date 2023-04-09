@@ -1,0 +1,3 @@
+# § 54.1-2957.02 When nurse practitioner signature accepted.
+
+<p>Whenever any law or regulation requires a signature, certification, stamp, verification, affidavit or endorsement by a physician, it shall be deemed to include a signature, certification, stamp, verification, affidavit or endorsement by a nurse practitioner.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0855'>855</a>.</p>

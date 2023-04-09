@@ -1,0 +1,3 @@
+# § 15.2-747 Board may prohibit and penalize acts which are misdemeanors under state law.
+
+<p>In addition to the powers conferred by § <a href='http://law.lis.virginia.gov/vacode/15.2-746/'>15.2-746</a>, the board may prohibit any act defined as a misdemeanor and prohibited by the laws of this Commonwealth and provide a penalty for violations to the end that such governing body may parallel by ordinance the criminal laws of this Commonwealth.</p><p>Code 1950, § 15-356.1; 1950, p. 228; 1962, c. 623, § 15.1-690; 1997, c. 587.</p>

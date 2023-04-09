@@ -1,0 +1,3 @@
+# § 8.01-227.23 Applicability of article.
+
+<p>Any liabilities and presumptions pursuant to this article apply only with regard to actions or potential actions between an operator and a participant or passenger. This article has no applicability to actions between a participant or passenger and any other person.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0713'>713</a>.</p>

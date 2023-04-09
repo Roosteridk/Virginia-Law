@@ -1,0 +1,3 @@
+# § 38.2-618 Immunity of persons disclosing information.
+
+<p>No cause of action in the nature of defamation, invasion of privacy, or negligence shall arise against any person for disclosing personal or privileged information in accordance with this article, nor shall such a cause of action arise against any person for furnishing personal or privileged information to an insurance institution, agent, or insurance-support organization. However, this section shall provide no immunity for disclosing or furnishing false information with malice or willful intent to injure any person.</p><p>1981, c. 389, § 38.1-57.25; 1986, c. 562; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0264'>264</a>.</p>

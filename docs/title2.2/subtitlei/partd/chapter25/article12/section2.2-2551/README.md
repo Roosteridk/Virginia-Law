@@ -1,0 +1,3 @@
+# § 2.2-2551 (Expires July 1, 2024) Commission to Study Slavery and Subsequent De Jure and De Facto Racial and Economic Discrimination Against African Americans; purpose.
+
+<p>The Commission to Study Slavery and Subsequent De Jure and De Facto Racial and Economic Discrimination Against African Americans (the Commission) is established as an advisory commission in the executive branch of state government. The purpose of the Commission is to study the current impact and long-term inequities of slavery and subsequent de jure and de facto racial and economic discrimination against African Americans.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1043'>1043</a>, § 2.2-2544.</p>

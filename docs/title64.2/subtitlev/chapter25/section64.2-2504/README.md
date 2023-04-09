@@ -1,0 +1,3 @@
+# § 64.2-2504 Reversions and vested remainders.
+
+<p>Property in which the slayer holds a reversion or vested remainder and would have obtained the right of present possession upon the death of the decedent shall pass to the estate of the decedent, if the decedent held the particular estate, during the period of the life expectancy of the decedent, or if the particular estate is held by a third person and measured by the life of the decedent, it shall remain in the possession of the third person during the period of the life expectancy of the decedent.</p><p>1981, c. 469, § 55-407; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

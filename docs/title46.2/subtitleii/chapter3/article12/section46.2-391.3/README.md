@@ -1,0 +1,3 @@
+# § 46.2-391.3 Content of notice of suspension.
+
+<p>A notice of suspension issued pursuant to § <a href='http://law.lis.virginia.gov/vacode/46.2-391.2/'>46.2-391.2</a> shall clearly specify (i) the reason and statutory grounds for the suspension, (ii) the effective date and duration of the suspension, (iii) the right of the offender to request a review of that suspension by the appropriate district court of the jurisdiction in which the arrest was made, and (iv) the procedures for requesting such a review.</p><p>1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0359'>359</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0363'>363</a>.</p>

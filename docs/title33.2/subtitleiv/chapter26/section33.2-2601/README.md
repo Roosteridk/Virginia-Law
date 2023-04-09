@@ -1,0 +1,3 @@
+# § 33.2-2601 Commission created.
+
+<p>The Hampton Roads Transportation Accountability Commission, referred to in this chapter as "the Commission," is hereby created as a body politic and as a political subdivision of the Commonwealth. The Commission shall embrace each county and city located in Planning District 23, which is established pursuant to Chapter 42 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-4200/'>15.2-4200</a> et seq.) of Title 15.2.</p><p>2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0545'>545</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0678'>678</a>.</p>

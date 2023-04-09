@@ -1,0 +1,3 @@
+# § 36-25 Payments by housing authorities to other bodies.
+
+<p>An authority may agree to make such payments to the city or county, the Commonwealth, or any political subdivision thereof, which payments such bodies are hereby authorized to accept, and to otherwise expend its funds in such manner as the authority finds consistent with the maintenance of the low-rent character of housing projects or the achievement of the purposes of this Housing Authorities Law.</p><p>1946, p. 278; Michie Suppl. 1946, § 3145(4q); 1970, c. 405.</p>

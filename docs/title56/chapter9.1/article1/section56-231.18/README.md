@@ -1,0 +1,3 @@
+# § 56-231.18 Name of other corporations not to include term "electric cooperative" or "utility consumer services cooperative.".
+
+<p>The words "electric cooperative" or "utility consumer services cooperative" shall not be used in the corporate name of corporations other than (i) those subject to the provisions of this chapter, (ii) nonstock corporations of which cooperatives are members, and (iii) corporations, all of the stock of which is owned by cooperatives.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0874'>874</a>; 2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0944'>944</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0999'>999</a>.</p>

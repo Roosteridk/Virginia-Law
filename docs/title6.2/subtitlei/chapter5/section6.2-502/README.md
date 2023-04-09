@@ -1,0 +1,3 @@
+# § 6.2-502 Notification of action on credit application.
+
+<p>Within 30 days, or such longer reasonable time as specified in regulations of the Commission for any class of credit transaction, after receipt of a completed application for credit, a creditor shall notify the applicant of its action on the application.</p><p>1977, c. 589, § 59.1-21.21:1; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

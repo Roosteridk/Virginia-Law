@@ -1,0 +1,3 @@
+# § 59.1-148.4 Sale of firearms by law-enforcement agencies prohibited; exception.
+
+<p>A law-enforcement agency of this Commonwealth shall not sell or trade any firearm owned and used or otherwise lawfully in its possession except (i) to another law-enforcement agency of the Commonwealth, (ii) to a licensed firearms dealer, (iii) to the persons as provided in § <a href='http://law.lis.virginia.gov/vacode/59.1-148.3/'>59.1-148.3</a> or (iv) as authorized by a court in accordance with § <a href='http://law.lis.virginia.gov/vacode/19.2-386.29/'>19.2-386.29</a>.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0467'>467</a>; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0995'>995</a>.</p>

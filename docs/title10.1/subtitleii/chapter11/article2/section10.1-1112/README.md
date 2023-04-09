@@ -1,0 +1,3 @@
+# § 10.1-1112 Notices relating to forest fires and trespasses.
+
+<p>The State Forester shall distribute notices, printed in large letters on cloth or other suitable material, calling attention to the danger of forest fires, to the forest fire laws, and to trespass laws and their penalties, to forest wardens, and to owners of timberland to be posted by them in conspicuous places. Any person other than a forest warden or the owner of the land on which notices are posted, who tears down, mutilates or defaces any such notice shall be guilty of a Class 4 misdemeanor.</p><p>1986, c. 567, § 10-31.5; 1988, c. 891.</p>

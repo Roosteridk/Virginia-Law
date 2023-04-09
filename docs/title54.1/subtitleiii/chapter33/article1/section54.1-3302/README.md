@@ -1,0 +1,3 @@
+# § 54.1-3302 Restrictions on practitioners of the healing arts.
+
+<p>A practitioner of the healing arts shall not sell or dispense controlled substances except as provided in §§ <a href='http://law.lis.virginia.gov/vacode/54.1-2914/'>54.1-2914</a> and <a href='http://law.lis.virginia.gov/vacode/54.1-3304.1/'>54.1-3304.1</a>. Such exceptions shall extend only to his own patients unless he is licensed to practice pharmacy.</p><p>Code 1950, § 54-481; 1966, c. 171; 1968, c. 582, § 54-524.53; 1970, c. 650; 1972, c. 798; 1988, c. 765; 1989, c. 510.</p>

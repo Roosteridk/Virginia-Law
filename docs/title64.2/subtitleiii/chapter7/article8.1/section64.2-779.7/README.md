@@ -1,0 +1,3 @@
+# § 64.2-779.7 Formalities.
+
+<p>An exercise of the decanting power shall be made in a record signed by an authorized fiduciary. The signed record shall, directly or by reference to the notice required by § <a href='http://law.lis.virginia.gov/vacode/64.2-779.5/'>64.2-779.5</a>, identify the first trust and the second trust or trusts and state the property of the first trust being distributed to or held subject to the terms of each second trust and the property, if any, that remains in the first trust.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0592'>592</a>.</p>

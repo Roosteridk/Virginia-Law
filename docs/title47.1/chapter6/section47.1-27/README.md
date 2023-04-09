@@ -1,0 +1,3 @@
+# § 47.1-27 Civil liability of employer of notary.
+
+<p>The employer of a notary public shall also be liable for all damages proximately caused by the official misconduct by such notary if:</p><p>1. The notary public was acting within the scope of his employment at the time such damages were caused; and</p><p>2. The employer had actual knowledge of, or reasonably should have known of, such notary's misconduct.</p><p>1980, c. 580.</p>

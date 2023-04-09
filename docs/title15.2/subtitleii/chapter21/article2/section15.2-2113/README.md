@@ -1,0 +1,3 @@
+# § 15.2-2113 Connections of fire suppression systems.
+
+<p>Any locality, by ordinance, may require local water utilities to allow connections of fire suppression systems to the water supply. Such ordinances may prohibit any requirement for installing water meters on a fire suppression system, may prohibit charging an availability fee to provide water service to such fire suppression systems, and may prohibit connection charges exceeding the actual cost of connecting the water supply to the fire suppression system.</p><p>1991, c. 265, § 15.1-292.3; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 8.01-472 Writs on judgments for personal property.
+
+<p>When the judgment is for personal property, the plaintiff may, at his option, have a fieri facias for the alternative value, instead of a writ of possession, and the damages and costs.</p><p>Code 1950, § 8-404; 1977, c. 617.</p>

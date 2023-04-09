@@ -1,0 +1,3 @@
+# § 56-231.34 Regulation by Commission.
+
+<p>The regulated utility services of a cooperative shall be subject to the jurisdiction of the Commission in the same manner and to the same extent as are regulated utility services provided by other persons under the laws of this Commonwealth. All other business activities of a cooperative and its affiliates shall be subject to the jurisdiction of the Commission to the extent provided by § <a href='http://law.lis.virginia.gov/vacode/56-231.34:1/'>56-231.34:1</a> and any other applicable laws of the Commonwealth.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0874'>874</a>.</p>

@@ -1,0 +1,3 @@
+# § 20-82 Spouses competent as witnesses.
+
+<p>In every prosecution under this chapter, persons married to each other shall be competent witnesses to testify against each other in all relevant matters, including the facts of such marriage, provided that neither shall be compelled to give evidence incriminating himself.</p><p>Code 1919, § 1941; 1918, p. 761; 1922, p. 846; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0900'>900</a>.</p>

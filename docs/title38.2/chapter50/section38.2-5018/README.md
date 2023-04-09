@@ -1,0 +1,3 @@
+# § 38.2-5018 Assessments to be held in restricted cash account.
+
+<p>All assessments paid pursuant to the plan of operation, shall be held in a separate restricted cash account under the sole control of an independent fund manager to be selected by the directors. The Fund, and any income from it, shall be disbursed for the payment of awards as provided in this chapter and for the payment of the expenses of administration of the Fund and the Program, including the reasonable expenses of the Commission.</p><p>1987, c. 540; 1989, c. 523; 1990, c. 244.</p>

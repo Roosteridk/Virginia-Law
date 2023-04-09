@@ -1,0 +1,3 @@
+# § 6.2-815 Suspension of business during emergency.
+
+<p>Every bank doing business in the Commonwealth is authorized temporarily to suspend its usual business during a period of actual or threatened enemy attack, civil insurrection or riot, affecting the community in which such institution is doing business or other emergency justifying temporary closing such as fire, flood, or hurricane.</p><p>Code 1950, § 6-30; 1966, c. 584, § 6.1-12; 1970, c. 15; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

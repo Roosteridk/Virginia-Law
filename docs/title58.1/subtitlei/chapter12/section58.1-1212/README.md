@@ -1,0 +1,3 @@
+# § 58.1-1212 Record of deposits through branches required.
+
+<p>Each bank in this Commonwealth that has as of the beginning of any tax year a bank located in any county, incorporated town or city other than the county, incorporated town or city wherein such bank's principal office is located, shall maintain a record of the deposits through each such branch as of the beginning of the tax year. Each bank shall also submit to the commissioner of the revenue or other assessing officer of the locality wherein such principal office is located a report of such deposits with the return required under § <a href='http://law.lis.virginia.gov/vacode/58.1-1207/'>58.1-1207</a>.</p><p>Code 1950, § 58-485.014; 1980, c. 578; 1984, c. 675.</p>

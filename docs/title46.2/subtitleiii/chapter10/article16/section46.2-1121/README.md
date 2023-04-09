@@ -1,0 +1,3 @@
+# § 46.2-1121 (Effective until July 1, 2023) Flag or light at end of load.
+
+<p>Whenever the load on any vehicle extends more than four feet beyond the rear of the bed or body thereof, there shall be displayed at the end of the load, in such a position as to be clearly visible at all times from the rear of the load, a red flag, not less than twelve inches, both in length and width. Between sunset and sunrise, however, there shall be displayed at the end of the load a red light plainly visible in clear weather at least 500 feet to the sides and rear of the vehicle.</p><p>Code 1950, § 46-304; 1958, c. 541, § 46.1-300; 1989, c. 727.</p>

@@ -1,0 +1,3 @@
+# § 19.2-257 Trial without jury in felony cases.
+
+<p>Upon a plea of guilty in a felony case, tendered in person by the accused after being advised by counsel, the court shall hear and determine the case without the intervention of a jury; or if the accused plead not guilty, with his consent after being advised by counsel and the concurrence of the attorney for the Commonwealth and of the court entered of record, the court shall hear and determine the case without the intervention of a jury. In such cases the court shall have and exercise all the powers, privileges and duties given to juries by any statute relating to crimes and punishments.</p><p>Code 1950, § 19.1-192; 1960, c. 366; 1975, c. 495.</p>

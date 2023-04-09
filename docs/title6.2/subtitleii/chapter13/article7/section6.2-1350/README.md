@@ -1,0 +1,3 @@
+# § 6.2-1350 Executive committee.
+
+<p>The board of directors may appoint from its own number an executive committee, consisting of not less than three directors. The executive committee may be authorized to act for the board in all respects, subject to such conditions and limitations as are prescribed by the board and subsection D of § <a href='http://law.lis.virginia.gov/vacode/13.1-869/'>13.1-869</a>.</p><p>1990, c. 373, § 6.1-225.33; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

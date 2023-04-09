@@ -1,0 +1,3 @@
+# § 58.1-3332 Property appraisal cards or sheets.
+
+<p>Each county, city or town assessing officer shall maintain current property appraisal cards or sheets for all parcels of real estate assessed and assessable by him. Any such assessing officer who maintains such property appraisal cards or sheets shall include thereon the appraised value of the property and improvements, if any, and the calculations and methodology used in determining the assessed value of such property and improvements.</p><p>Code 1950, § 58-817.1; 1975, c. 618; 1983, c. 161; 1984, c. 675.</p>

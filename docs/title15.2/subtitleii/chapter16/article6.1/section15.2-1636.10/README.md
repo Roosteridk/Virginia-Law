@@ -1,0 +1,3 @@
+# § 15.2-1636.10 Appeals from certain decisions affecting expenses, etc., of circuit court clerks.
+
+<p>Any clerk of a circuit court shall have a right to appeal from the annual budget decision of the Board under this article affecting the expenses or allowances of the clerk, or the salary and number of clerk's deputies. In addition, any county or city affected by such decision or the Attorney General as representative of the Commonwealth shall have the right to appeal from the decision. Such appeals shall be taken and heard as provided in § <a href='http://law.lis.virginia.gov/vacode/15.2-1636.9/'>15.2-1636.9</a>.</p><p>1984, c. 654, § 14.1-52.01; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

@@ -1,0 +1,3 @@
+# § 51.1-503 Limitation on coverage.
+
+<p>No person shall have more than one coverage under the group insurance program. Any person employed in more than one position which provides coverage under the group insurance program shall elect one position on which his coverage shall be based by written notification to the Board.</p><p>1952, c. 157, § 51-111.27; 1954, c. 241; 1960, c. 400; 1973, c. 523; 1978, c. 841; 1982, c. 467; 1984, c. 430; 1985, c. 490; 1987, c. 575; 1990, c. 832.</p>

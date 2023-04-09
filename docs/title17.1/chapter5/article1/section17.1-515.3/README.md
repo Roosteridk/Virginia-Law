@@ -1,0 +1,3 @@
+# § 17.1-515.3 Designation of courtrooms within twenty-first and twenty-third circuits for trial of certain cases.
+
+<p>The chief judge of the twenty-first and the twenty-third judicial circuits may, by order, as in the interest of justice may appear, designate one or more of the courtrooms of any circuit court within their respective circuits as the courtroom or courtrooms in which civil and criminal cases whose venue is laid within the circuit may be tried; provided, that in criminal cases, jurors summoned to appear at such courtroom or courtrooms shall reside in the vicinage of which the crime is laid.</p><p>1976, c. 272; 1977, c. 195, § 17-126.3.</p>

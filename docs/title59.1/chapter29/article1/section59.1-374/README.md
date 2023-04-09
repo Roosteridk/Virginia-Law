@@ -1,0 +1,3 @@
+# § 59.1-374 Injunction.
+
+<p>Whenever it appears to the Commission that any person has violated or may violate any provision of this chapter or any regulation or final decision of the Commission, it may apply to the appropriate circuit court for an injunction against such person. The order granting or refusing such injunction shall be subject to appeal as in other cases in equity.</p><p>1988, c. 855; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0619'>619</a>.</p>

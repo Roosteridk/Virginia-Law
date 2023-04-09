@@ -1,0 +1,3 @@
+# § 45.2-1221  Additional bond to cover amended estimate of land to be disturbed.
+
+<p>If, during any operation, it is found that the operator's estimate of the amount of disturbed land for which bond or other security has been posted for reclamation is less than the actual area disturbed, the Director shall order the operator to file additional bond or security sufficient to cover an amended estimate of land to be disturbed by such operation.</p><p>1968, c. 734, § 45.1-187; 1974, c. 312; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

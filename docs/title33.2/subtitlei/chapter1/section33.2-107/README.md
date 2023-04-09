@@ -1,0 +1,3 @@
+# § 33.2-107 Secretary of Transportation to conduct periodic examination of process.
+
+<p>The Secretary shall, at least once every four years, cause to be conducted an examination of the approval process for maintenance and improvements within the secondary and urban highway systems and adopt policies and procedures to reduce review redundancy and to allow approval at the district office level to the maximum extent practical.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0041'>41</a>, § 33.1-223.2:26; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

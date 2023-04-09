@@ -1,0 +1,3 @@
+# § 53.1-176 Revocation of parole by other states.
+
+<p>If probable cause be found that a parolee from Virginia has violated one or more of the terms and conditions of his parole, upon request by the Virginia Parole Board, the appropriate judicial or administrative authority of another state in which a parolee is present having the authority to revoke a parole is hereby authorized to determine whether there has been a violation of the terms and conditions of parole and, if so, whether such parole should be revoked. The decision thereon of such authorities of such other state shall be conclusive and shall not be reviewable within or by Virginia.</p><p>Code 1950, § 53-290.10; 1975, c. 39; 1977, c. 106; 1982, c. 636.</p>

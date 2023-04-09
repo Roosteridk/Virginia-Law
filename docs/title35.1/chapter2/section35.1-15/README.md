@@ -1,0 +1,3 @@
+# § 35.1-15 Training materials.
+
+<p>The Commissioner shall cause to be written materials designed to provide information on training for the prevention of disease transmission, symptoms of communicable disease, personal hygiene practices, hazards in food preparation, food safety and food allergy awareness and safety, and any other matter deemed appropriate by the Commissioner for the training of restaurant personnel. The Commissioner may, if he desires, provide personnel for the training of employees of restaurants in the handling of food.</p><p>1981, c. 468; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0356'>356</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0528'>528</a>.</p>

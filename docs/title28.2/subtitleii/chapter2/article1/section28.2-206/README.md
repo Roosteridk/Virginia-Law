@@ -1,0 +1,3 @@
+# § 28.2-206 Virginia Saltwater Sport Fishing Tournament.
+
+<p>The Commission shall promote and develop the Commonwealth's saltwater angling resources for their recreational and economic benefits. These efforts shall include, but not be limited to, a subprogram, the Virginia Saltwater Sport Fishing Tournament, which shall:</p><p>1. Publicize and document the quantity, quality, and variety of the Commonwealth's saltwater angling resources; and</p><p>2. Establish a system for securing and maintaining records of the largest of each marine game fish commonly taken in the Commonwealth's marine waters by anglers. When possible, fish caught or taken in the tournament shall be released alive.</p><p>1990, c. 364, § 28.1-22.1; 1992, c. 836.</p>

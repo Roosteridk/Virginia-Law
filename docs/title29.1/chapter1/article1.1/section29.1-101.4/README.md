@@ -1,0 +1,3 @@
+# § 29.1-101.4 Collection of money due to the Fund.
+
+<p>The Department, or its designated agent, is empowered to collect amounts due to the Fund under any loan made by it including, where appropriate, taking action as required by § <a href='http://law.lis.virginia.gov/vacode/15.2-2659/'>15.2-2659</a> to obtain payment of any amounts in default. Proceedings to recover amounts due to the Fund may be instituted by the Department in the name of the Fund in any appropriate circuit court.</p><p>1989, c. 5, § 10.1-1216; 1992, cc. 464, 887.</p>

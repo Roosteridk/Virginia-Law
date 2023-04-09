@@ -1,0 +1,3 @@
+# § 3.2-5154 (For expiration date, see Editor's notes) Violations.
+
+<p>No covered farm or farm eligible for a qualified exemption in accordance with 21 C.F.R. § 112.5 shall violate any provision of 21 C.F.R. Part 112 or any provision of a regulation of the Board adopted pursuant to § <a href='http://law.lis.virginia.gov/vacode/3.2-5148/'>3.2-5148</a>.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0574'>574</a>.</p>

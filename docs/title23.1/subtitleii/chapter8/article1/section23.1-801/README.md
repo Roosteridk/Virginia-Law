@@ -1,0 +1,3 @@
+# § 23.1-801 Educational program on human immunodeficiency virus infection.
+
+<p>Each public institution of higher education, in cooperation with the Department of Health, shall develop and implement educational programs for college students on the etiology, effects, and prevention of infection with human immunodeficiency virus.</p><p>1989, c. 613, § 23-9.2:3.2; 1991, c. 590; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0484'>484</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

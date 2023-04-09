@@ -1,0 +1,3 @@
+# § 63.2-916 Notice of developmental disabilities.
+
+<p>The local department of social services shall notify the appropriate community services board as soon as it is known that a child in the foster care system has a developmental disability so that the community services board may screen the child for placement on the statewide developmental disability waiver waiting list.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0301'>301</a>.</p>

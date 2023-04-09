@@ -1,0 +1,3 @@
+# § 22.1-354.8 Executive director; staff support.
+
+<p>From such funds as may be appropriated or received, the board of the Consortium may appoint an executive director, who shall be authorized to employ such staff as necessary to enable the Consortium to perform its duties as set forth in this chapter. The board is authorized to determine the duties of such staff and to fix salaries and compensation from such funds as may be appropriated or received.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0676'>676</a>.</p>

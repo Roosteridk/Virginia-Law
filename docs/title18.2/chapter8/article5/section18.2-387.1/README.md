@@ -1,0 +1,3 @@
+# § 18.2-387.1 Obscene sexual display; penalty.
+
+<p>Any person who, while in any public place where others are present, intending that he be seen by others, intentionally and obscenely as defined in § <a href='http://law.lis.virginia.gov/vacode/18.2-372/'>18.2-372</a>, engages in actual or explicitly simulated acts of masturbation, is guilty of a Class 1 misdemeanor.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0422'>422</a>.</p>

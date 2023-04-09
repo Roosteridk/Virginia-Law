@@ -1,0 +1,3 @@
+# § 62.1-93 Time limits on construction of proposed dam and works.
+
+<p>With respect to any license which may be granted, the Commission shall prescribe a time limit of not more than two years after the granting of such license for the commencement of the construction of the proposed dam and works of the applicant and of not more than five years after the granting of such license for the completion of such dam and works, either or both of which initial time limits may be extended for good cause from time to time in the discretion of the Commission.</p><p>Code 1950, § 62-82; 1968, c. 659.</p>

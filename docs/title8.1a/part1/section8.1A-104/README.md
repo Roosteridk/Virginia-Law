@@ -1,0 +1,3 @@
+# § 8.1A-104 Construction against implied repeal.
+
+<p>The Uniform Commercial Code being a general act intended as a unified coverage of its subject matter, no part of it shall be deemed to be impliedly repealed by subsequent legislation if such construction can reasonably be avoided.</p><p>1964, c. 219, § 8.1-104; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0353'>353</a>.</p>

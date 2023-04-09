@@ -1,0 +1,3 @@
+# § 46.2-439 Certificate of insurance carrier.
+
+<p>Proof of financial responsibility, when requested, shall be made by filing with the Commissioner the written certificate of any insurance carrier authorized to do business in the Commonwealth, certifying that there is in effect a motor vehicle liability policy for the benefit of the person required to furnish proof of financial responsibility. This certificate shall give its effective date and the effective date of the policy.</p><p>Code 1950, § 46-459; 1958, c. 541, § 46.1-471; 1972, c. 380; 1976, c. 143; 1988, c. 860; 1989, c. 727.</p>

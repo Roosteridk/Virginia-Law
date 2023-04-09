@@ -1,0 +1,3 @@
+# § 15.2-1611 Alternate clothing for sheriff and deputies.
+
+<p>When the duties of a sheriff or deputy sheriff are such that the wearing of the standard sheriff's uniform would adversely limit the effectiveness of the sheriff's or deputy sheriff's ability to perform his prescribed duties, then clothing appropriate for the duties to be performed may be required by the sheriff.</p><p>1984, c. 398, § 15.1-90.2; 1997, c. 587.</p>

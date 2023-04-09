@@ -1,0 +1,3 @@
+# § 38.2-505 Boycott, coercion and intimidation.
+
+<p>No person shall enter into any agreement to commit, or by any concerted action commit, any act of boycott, coercion or intimidation resulting in or tending to result in unreasonable restraint of, or monopoly in, the business of insurance.</p><p>Code 1950, § 38.1-52; 1952, c. 317, § 38.1-52.4; 1977, c. 529; 1978, c. 441; 1979, c. 324; 1980, c. 404; 1986, c. 562.</p>

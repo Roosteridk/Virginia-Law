@@ -1,0 +1,3 @@
+# § 46.2-2069 Application; requirements.
+
+<p>An applicant for a permit issued pursuant to this article shall furnish, at the time the application is made, a statement in writing signed by the applicant (i) setting forth the names and locations of the factories, plants, offices or other places of like nature to and from which the applicant proposes to operate and (ii) stating that such applicant will transport only bona fide employees of such factories, plants, offices or like places to and from work.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

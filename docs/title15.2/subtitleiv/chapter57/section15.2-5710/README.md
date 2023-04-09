@@ -1,0 +1,3 @@
+# § 15.2-5710 Funds.
+
+<p>All moneys received pursuant to the powers granted in this chapter shall be held and applied solely as provided in this chapter. The authority shall provide that any officer or other fiscal agent to which such moneys shall be paid shall hold and apply the same for the purposes hereof, subject to such regulations as the authority may provide.</p><p>Code 1950, § 15-714.8; 1950, p. 1248; 1962, c. 623, § 15.1-1235; 1997, c. 587.</p>

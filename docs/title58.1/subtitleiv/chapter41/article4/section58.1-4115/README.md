@@ -1,0 +1,3 @@
+# § 58.1-4115 Denial of permit final.
+
+<p>The denial of a supplier's permit by the Department shall be final unless appealed under § <a href='/vacode/58.1-4105/'>58.1-4105</a>. A permit may not be applied for again for a period of five years from the date of denial without the permission of the Department.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1197'>1197</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1248'>1248</a>.</p>

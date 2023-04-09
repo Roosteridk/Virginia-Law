@@ -1,0 +1,3 @@
+# § 46.2-803 Keep to the right in crossing intersections or railroads.
+
+<p>Except as otherwise provided by law, when crossing an intersection of highways or the intersection of a highway by a railroad right-of-way, the driver of a vehicle shall drive on the right half of the roadway unless it is obstructed or impassable. When crossing an intersection of highways, however, the driver of a vehicle may overtake or pass another vehicle in the intersection if such intersection is designated and marked as a passing zone.</p><p>Code 1950, § 46-221; 1958, c. 541, § 46.1-205; 1972, c. 369; 1978, c. 27; 1989, c. 727.</p>

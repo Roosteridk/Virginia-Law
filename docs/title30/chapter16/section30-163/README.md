@@ -1,0 +1,3 @@
+# § 30-163 Impounding of certain documents.
+
+<p>Upon the application of the Commission or duly authorized member of its staff, the judge of any court of record may impound any exhibit or document received or obtained in any public or private hearing held in connection with a hearing conducted by the Commission, and may order such exhibit to be retained by, or delivered to and placed in custody of the Commission. The order may be rescinded by further order of the court made after five days' notice to the Commission or upon its application or with its consent, all in the discretion of the court.</p><p>1972, c. 766, § 9-138; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

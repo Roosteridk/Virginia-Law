@@ -1,0 +1,3 @@
+# § 15.2-2213 Advisory members.
+
+<p>A member of a local planning commission may, with the consent of both governing bodies, serve as an advisory member of the local planning commission of a contiguous locality.</p><p>Code 1950, § 15-963.1; 1962, c. 407, § 15.1-438; 1997, c. 587.</p>

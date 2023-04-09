@@ -1,0 +1,3 @@
+# § 3.2-6014 Circuit court judges may enforce orders of Commissioner, Board, or State Veterinarian.
+
+<p>Upon petition by the Commissioner, the Board, or the State Veterinarian, a circuit court judge may issue orders as are necessary to enforce the orders of the Commissioner, the Board, or State Veterinarian.</p><p>1977, c. 395, § 3.1-738.1; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

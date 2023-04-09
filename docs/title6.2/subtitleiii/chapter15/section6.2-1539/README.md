@@ -1,0 +1,3 @@
+# § 6.2-1539 Review by Commission.
+
+<p>In addition to any other remedy he may have any licensee or any other person considering himself aggrieved by any action of the Commissioner under this chapter pursuant to authority conferred upon him or delegated to him by the Commission may, within 30 days of the action complained of, file a petition as a matter of right with the Commission to review the action. The proceeding on review shall be de novo and the record and summary of the evidence before, and findings of, the Commissioner shall be admissible as evidence before the Commission.</p><p>Code 1950, § 6-335; 1966, c. 584, § 6.1-306; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

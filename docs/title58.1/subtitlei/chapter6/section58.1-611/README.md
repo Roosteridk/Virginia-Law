@@ -1,0 +1,3 @@
+# § 58.1-611 Credit for taxes paid in another state.
+
+<p>A credit shall be granted against the taxes imposed by this chapter with respect to a person's use in this Commonwealth of tangible personal property purchased by him in another state. The amount of the credit shall be equal to the tax paid by him to another state or political subdivision thereof by reason of the imposition of a similar tax on his purchase or use of the property. The amount of the credit shall not exceed the tax imposed by this chapter.</p><p>Code 1950, § 58-441.8; 1966, c. 151; 1984, c. 675.</p>

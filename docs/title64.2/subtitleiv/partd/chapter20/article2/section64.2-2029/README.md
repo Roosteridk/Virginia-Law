@@ -1,0 +1,3 @@
+# § 64.2-2029 Application to guardians and conservators appointed pursuant to § 64.2-2115.
+
+<p>Except as otherwise provided in an order entered pursuant to § <a href='http://law.lis.virginia.gov/vacode/64.2-2115/'>64.2-2115</a>, a guardian or conservator appointed pursuant to § <a href='http://law.lis.virginia.gov/vacode/64.2-2115/'>64.2-2115</a> shall be subject to the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/64.2-2011/'>64.2-2011</a> and <a href='http://law.lis.virginia.gov/vacode/64.2-2012/'>64.2-2012</a> and this article.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0518'>518</a>, § 37.2-1030; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

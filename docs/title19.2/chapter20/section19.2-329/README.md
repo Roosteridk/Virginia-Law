@@ -1,0 +1,3 @@
+# § 19.2-329 Allowance to witnesses.
+
+<p>Sections <a href='http://law.lis.virginia.gov/vacode/17.1-612/'>17.1-612</a> to <a href='http://law.lis.virginia.gov/vacode/17.1-616/'>17.1-616</a>, inclusive, shall apply to a person attending as a witness, under a recognizance or summons in a criminal case, as well as to a person attending under a summons in a civil case, except that a person residing out of this Commonwealth, who attends a court therein as a witness, shall be allowed by the court a proper compensation for attendance and travel to and from the place of his abode, the amount of the same to be fixed by the court.</p><p>Code 1950, § 19.1-312; 1960, c. 366; 1975, c. 495; 1977, c. 483.</p>

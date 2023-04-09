@@ -1,0 +1,3 @@
+# § 55.1-2151 Association records.
+
+<p>The association shall keep financial records sufficiently detailed to enable the association to comply with § <a href='/vacode/55.1-2161/'>55.1-2161</a>. All financial and other records shall be made reasonably available for examination by any proprietary lessee and his authorized agents.</p><p>1982, c. 277, § 55-474; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

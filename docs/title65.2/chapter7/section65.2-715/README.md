@@ -1,0 +1,3 @@
+# § 65.2-715 Providing written information.
+
+<p>Whenever, in the course of proceedings in connection with awards, the Workers' Compensation Commission issues any written notice, opinion, order or award regarding a specific case, the Commission shall provide copies to the employee, the employer and the compensation carrier, and, if represented, their counsel, at the same time. The requirements of this section may be satisfied via electronic communications in the manner prescribed by the Commission.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0143'>143</a>; 2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0159'>159</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0274'>274</a>.</p>

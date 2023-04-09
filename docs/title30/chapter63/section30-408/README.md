@@ -1,0 +1,3 @@
+# § 30-408 (For contingent expiration date, see Acts 2021, Sp. Sess. I, c. 313, cl. 2) Cooperation of other state agencies and political subdivisions.
+
+<p>The Commission may request and shall, upon such request, receive from every department, division, board, bureau, commission, authority, or other agency created by the Commonwealth or to which the Commonwealth is a party, or from any political subdivision of the Commonwealth, cooperation and assistance in the performance of its duties.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0313'>313</a>.</p>

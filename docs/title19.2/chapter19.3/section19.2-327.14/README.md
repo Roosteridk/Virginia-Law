@@ -1,0 +1,3 @@
+# § 19.2-327.14 Claims of relief.
+
+<p>An action under this chapter or the actions of any attorney representing the petitioner under this chapter shall not form the basis for relief in any habeas corpus proceeding. Nothing in this chapter shall create any cause of action for damages against the Commonwealth or any of its political subdivisions.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1024'>1024</a>.</p>

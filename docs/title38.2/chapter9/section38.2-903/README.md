@@ -1,0 +1,3 @@
+# § 38.2-903 Existing form of policy, contract, certificate, application, rider or endorsement.
+
+<p>If any form does not comply with the provisions of this title but did comply with the provisions of any regulation or statute repealed by this Act of Assembly, it may continue to be used for a period of twelve months following July 1, 1986, unless the Commission prescribes otherwise pursuant to authority conferred by law.</p><p>1952, c. 317, § 38.1-43.4; 1986, c. 562.</p>

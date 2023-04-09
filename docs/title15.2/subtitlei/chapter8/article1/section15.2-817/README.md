@@ -1,0 +1,3 @@
+# § 15.2-817 No unincorporated area to be incorporated after adoption of urban county form of government.
+
+<p>After the date of adoption of the urban county executive form of government, no unincorporated area within the limits of such county shall be incorporated as a separate town or city within the limits of such county, whether by judicial proceedings or otherwise.</p><p>Code 1950, § 15-384.72; 1960, c. 382; 1962, c. 623, § 15.1-785; 1968, c. 797; 1997, c. 587.</p>

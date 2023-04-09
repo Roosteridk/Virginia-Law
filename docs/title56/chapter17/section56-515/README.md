@@ -1,0 +1,3 @@
+# § 56-515 Entry upon property of utility after proclamation of intention to take possession.
+
+<p>After any proclamation of intention to take possession, the Governor may, by and through agents designated by him, enter upon the property of the utility with prospective employees and familiarize them with the nature of the work incident to the positions in which it is contemplated they will be employed and train them to discharge the duties thereof. The management of the utility and all state departments, institutions and agencies shall cooperate with the Governor in the operation of the utility and in the securing and training of persons for employment in such operation.</p><p>1952, c. 696.</p>

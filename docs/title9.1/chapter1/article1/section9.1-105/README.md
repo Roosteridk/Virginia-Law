@@ -1,0 +1,3 @@
+# § 9.1-105 Intensified Drug Enforcement Jurisdictions Fund.
+
+<p>There is created a special nonreverting fund to be administered by the Department, known as the Intensified Drug Enforcement Jurisdictions Fund. This Fund shall be established on the books of the Comptroller and any funds remaining in such Fund at the end of the biennium shall not revert to the general fund but shall remain in the Fund. Interest earned on the Fund shall be credited to the Fund.</p><p>1990, c. 971, § 14.1-133.3; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>, § 9-178.1; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,0 +1,3 @@
+# § 16.1-69.37 Personnel continued in office.
+
+<p>The clerks, deputy clerks, referees, bailiffs and other officers and employees of county, municipal and juvenile and domestic relations courts shall continue in office in like positions with the general district courts and juvenile and domestic relations district courts until the expiration of the term, if any, for which elected or appointed. Nothing contained in this chapter shall be construed to effect or authorize any reduction in the compensation of any such officer or employee during such term.</p><p>1972, c. 708; 1973, c. 546.</p>

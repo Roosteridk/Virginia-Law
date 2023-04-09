@@ -1,0 +1,3 @@
+# § 10.1-414 Nottoway State Scenic River.
+
+<p>The Nottoway River in Sussex County and Southampton County, from the Route 40 bridge at Stony Creek to the North Carolina line, a distance of approximately 72.5 miles, is hereby designated as the Nottoway State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>1984, c. 739, § 10-173.6; 1985, cc. 346, 448; 1988, c. 891; 1992, c. 183; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0240'>240</a>; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0096'>96</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0136'>136</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>.</p>

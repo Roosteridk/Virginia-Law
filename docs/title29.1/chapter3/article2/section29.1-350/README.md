@@ -1,0 +1,3 @@
+# § 29.1-350 Exemption from application of article.
+
+<p>The provisions of this article shall not apply to the shores and public waters and marshes of Accomack and Northampton Counties. However, in those localities no person shall hunt migratory waterfowl, whether from a blind or otherwise, without having obtained a season license to hunt.</p><p>Code 1950, § 29-91; 1970, c. 644; 1987, c. 488; 1993, c. 209.</p>

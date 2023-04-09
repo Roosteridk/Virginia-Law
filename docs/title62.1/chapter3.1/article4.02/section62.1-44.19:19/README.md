@@ -1,0 +1,3 @@
+# § 62.1-44.19:19 Program audits.
+
+<p>In addition to its permit compliance and enforcement authority, the Department is authorized to conduct such audits of the Association and permittees as it deems necessary to ensure that the reports and data received from permittees and the Association are complete and accurate. The Association and permittees under the general permit shall cooperate with the Department in the conduct of such audits and provide the Department with such information as the Department may require to fulfill its responsibilities under this article.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0708'>708</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0710'>710</a>.</p>

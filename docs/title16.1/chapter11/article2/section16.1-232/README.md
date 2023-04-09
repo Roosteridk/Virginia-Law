@@ -1,0 +1,3 @@
+# § 16.1-232 Attorney for the Commonwealth to prosecute certain cases and represent Commonwealth on appeal.
+
+<p>The attorney for the Commonwealth shall prosecute felony charges before the juvenile court, unless relieved of such responsibility by order of the court. In his discretion, the attorney for the Commonwealth may prosecute misdemeanor charges before such court.</p><p>The attorney for the Commonwealth shall represent the Commonwealth in all cases appealed from the juvenile and domestic relations district court to the circuit court.</p><p>Code 1950, § 16.1-155; 1956, c. 555; 1977, c. 559; 1980, c. 530; 1991, c. 262.</p>

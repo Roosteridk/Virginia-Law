@@ -1,0 +1,3 @@
+# § 8.01-675.6 Jurisdictional amount.
+
+<p>No appeal shall be taken from any judgment of a circuit court except when the controversy is for a matter of $500 or more in value or amount, and except in cases in which it is otherwise expressly provided; nor to a judgment of any circuit court in a civil case when the controversy is for a matter less in value or amount than $500, exclusive of costs, unless there be drawn in question a freehold or franchise or the title or bounds of land, or some other matter not merely pecuniary.</p><p>2021, Sp. Sess. I, c. <a href='https://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0489'>489</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0714'>714</a>.</p>

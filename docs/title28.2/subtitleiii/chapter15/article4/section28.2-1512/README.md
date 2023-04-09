@@ -1,0 +1,3 @@
+# § 28.2-1512 Effect of disability.
+
+<p>The provisions of § <a href='http://law.lis.virginia.gov/vacode/8.01-237/'>8.01-237</a> shall apply with respect to the effect of disabilities on the preservation of a right to bring an action to establish ownership of land pursuant to §§ <a href='http://law.lis.virginia.gov/vacode/28.2-1509/'>28.2-1509</a> and <a href='http://law.lis.virginia.gov/vacode/28.2-1511/'>28.2-1511</a>.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0850'>850</a>.</p>

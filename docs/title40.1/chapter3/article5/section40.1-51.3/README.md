@@ -1,0 +1,3 @@
+# § 40.1-51.3 Duties of health and safety inspectors.
+
+<p>(a) It shall be the duty of all safety and health inspectors to inspect all places of business covered by the State Plan developed in accordance with the Federal Occupational Safety and Health Act of 1970 (P.L. 91-596) for conformity with the provisions of this title and with all safety and health standards, rules and regulations promulgated under this title.</p><p>(b) [Repealed.]</p><p>1972, c. 602; 1979, c. 354.</p>

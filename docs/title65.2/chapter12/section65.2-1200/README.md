@@ -1,0 +1,3 @@
+# § 65.2-1200 Fund created.
+
+<p>There is hereby created a fund to be known as the "Uninsured Employer's Fund" to be administered, maintained and disbursed by the Commission as hereinafter provided.</p><p>1977, c. 345, § 65.1-146; 1991, c. 355.</p>

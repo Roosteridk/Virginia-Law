@@ -1,0 +1,3 @@
+# § 36-84 Clerical assistants to Administrator; equipment, supplies and quarters.
+
+<p>The Administrator may employ such permanent or temporary, clerical, technical and other assistants as is found necessary or advisable for the proper administration of this law, and may fix their compensation and may likewise purchase equipment and supplies deemed necessary.</p><p>Code 1950, § 12-82; 1970, c. 305; 1971, Ex. Sess., c. 103; 1977, c. 613; 1986, c. 37.</p>

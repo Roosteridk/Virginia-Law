@@ -1,0 +1,3 @@
+# § 28.2-238 Concealing name or number of vessel; penalty.
+
+<p>Any captain or owner who covers or conceals the name, registration number, or fishing license tag of any boat licensed and engaged in the fisheries under this subtitle is guilty of a Class 1 misdemeanor.</p><p>Code 1950, §§ 28-49, 28-214; 1962, c. 406, §§ 28.1-54, 28.1-190; 1992, c. 836.</p>

@@ -1,0 +1,3 @@
+# § 55.1-120 Informalities in deeds made by attorneys-in-fact.
+
+<p>If, in a deed made by one as attorney-in-fact for another, the words of conveyance or the signature is in the name of the attorney, it is as much the principal's deed as if the words of conveyance or the signature were in the name of the principal by the attorney, if it is manifest on the face of the deed that it should be construed to be that of the principal to give effect to its intent.</p><p>Code 1919, § 5145; Code 1950, § 55-23; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

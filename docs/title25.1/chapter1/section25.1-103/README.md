@@ -1,0 +1,3 @@
+# § 25.1-103 Condemnation of lands of state institutions.
+
+<p>Without the consent of the General Assembly, no condemnor shall be authorized to condemn or acquire any lands belonging to, attached to the site, or used for the purposes of any state institution.</p><p>Code 1919, § 4384; Code 1950, §§ 25-45, 25-46; 1962, c. 426, § 25-46.6; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

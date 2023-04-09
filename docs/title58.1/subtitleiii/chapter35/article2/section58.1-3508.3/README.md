@@ -1,0 +1,3 @@
+# § 58.1-3508.3 Separate classification of machinery and tools used directly in precision investment castings.
+
+<p>Machinery and tools used directly in the manufacture of precision investment castings shall constitute a classification for local taxation separate from other classifications of machinery and tools, as defined in § <a href='http://law.lis.virginia.gov/vacode/58.1-3507/'>58.1-3507</a>. The governing body of any county, city, or town may levy a tax on such classification of property at a different rate from the tax levied on other machinery and tools. The rate of tax and the rate of assessment shall not exceed that applicable generally to machinery and tools.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0528'>528</a>.</p>

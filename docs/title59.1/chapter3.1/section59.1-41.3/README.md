@@ -1,0 +1,3 @@
+# § 59.1-41.3 Selling or renting, etc., of certain recorded devices unlawful.
+
+<p>It shall be unlawful for any person to knowingly sell, rent, cause to be sold or rented, or possess for the purpose of selling or renting any recorded device that has been produced, manufactured, distributed, or acquired in violation of any provision of this chapter.</p><p>1972, c. 618; 1989, c. 240.</p>

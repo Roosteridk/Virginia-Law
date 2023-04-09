@@ -1,0 +1,3 @@
+# § 62.1-269 Enforcement by injunction, etc.
+
+<p>Any person violating or failing, neglecting or refusing to obey any rule, regulation, order, standard or requirement of the Board pertaining to ground water, any provision of any ground water withdrawal permit issued by the Board, or any provision of this chapter may be compelled to obey same and to comply therewith in a proceeding instituted by the Board in any appropriate court for injunction, mandamus or other appropriate remedy. The Board shall be entitled to an award of reasonable attorneys' fees and costs in any action brought by the Board under this section in which it substantially prevails on the merits of the case, unless special circumstances would make an award unjust.</p><p>1992, c. 812.</p>

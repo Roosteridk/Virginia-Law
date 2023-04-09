@@ -1,0 +1,3 @@
+# § 15.2-5615 Chapter to constitute complete authority for acts authorized; liberal construction.
+
+<p>This chapter shall constitute full and complete authority, without regard to the provisions of any other law, for the doing of the acts and things herein authorized. This chapter, being necessary for the welfare of the Commonwealth and its inhabitants, shall be liberally construed to effect the purposes hereof.</p><p>Code 1950, § 15-714.28; 1962, c. 393, § 16, § 15.1-1286; 1973, c. 238; 1997, c. 587; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0709'>709</a>.</p>

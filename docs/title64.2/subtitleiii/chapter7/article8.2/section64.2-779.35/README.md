@@ -1,0 +1,3 @@
+# § 64.2-779.35 Limitation of action against trust director.
+
+<p>A. An action against a trust director for breach of trust must be commenced within the same limitation period as under § <a href='/vacode/64.2-796/'>64.2-796</a> for an action for breach of trust against a trustee in a like position and under similar circumstances.</p><p>B. A report or accounting has the same effect on the limitation period for an action against a trust director for breach of trust that the report or accounting would have under § <a href='/vacode/64.2-796/'>64.2-796</a> in an action for breach of trust against a trustee in a like position and under similar circumstances.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0768'>768</a>.</p>

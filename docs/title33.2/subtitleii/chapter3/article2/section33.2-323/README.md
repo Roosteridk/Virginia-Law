@@ -1,0 +1,3 @@
+# § 33.2-323 Approval of markings and traffic lights erected by towns.
+
+<p>Notwithstanding any provision of law contrary to this section, all markings and traffic lights installed or erected by towns on the primary highways maintained by the Department shall first be approved by the Commissioner of Highways.</p><p>Code 1950, § 33-36; 1970, c. 322, § 33.1-47; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,0 +1,3 @@
+# § 58.1-2654.1 Penalty for failure to properly file annual reports.
+
+<p>Every motor vehicle carrier failing to comply with § <a href='http://law.lis.virginia.gov/vacode/58.1-2654/'>58.1-2654</a> shall be subject to the imposition of a monetary penalty by the Commission as provided in § <a href='http://law.lis.virginia.gov/vacode/58.1-2610/'>58.1-2610</a>.</p><p>In addition to imposing such monetary penalty, or without imposing such monetary penalty, the Commission may, in any such case, after notice and hearing, suspend or revoke any certificate, warrant, exemption card, registration card, stamp, classification plate, identification marker, or identifying number issued pursuant to Title 56.</p><p>1990, c. 483.</p>

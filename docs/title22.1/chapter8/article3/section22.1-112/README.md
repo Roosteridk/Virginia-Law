@@ -1,0 +1,3 @@
+# § 22.1-112 Deposit and disbursement of donations.
+
+<p>Any donations made to the Board of Education or to any member thereof for the benefit of any public school or schools in the Commonwealth shall, upon acceptance, be paid into the state treasury and kept in a separate account on the books of the Comptroller. Such donations shall be expended by the Board in accordance with the wishes of the donor.</p><p>Code 1950, § 22-145; 1980, c. 559.</p>

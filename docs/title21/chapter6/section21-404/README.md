@@ -1,0 +1,3 @@
+# § 21-404 Payment of assessments from proceeds of sale of land.
+
+<p>If any person, or any number of persons, claiming to have a title to any tract or tracts of land subject to assessment or drainage tax, shall fail to pay an annual assessment levied against such lands, and a county treasurer shall be compelled to sell such lands under the law for the purpose of making such collection, the net proceeds of such sale shall be held by him and disbursed for the purpose of paying the current assessment and future annual assessments so far as the proceeds may be sufficient.</p><p>Code 1919, § 1776; 1926, p. 624.</p>

@@ -1,0 +1,3 @@
+# § 3.2-4728 Appeal from orders and actions of Commissioner.
+
+<p>Any action of the Commissioner: (i) entering any order pursuant to subsection B of § <a href='http://law.lis.virginia.gov/vacode/3.2-4722/'>3.2-4722</a>; (ii) refusing to grant a license; (iii) revoking a license already granted to a commission merchant; or (iv) refusing to renew a license, shall be subject to the right of appeal in accordance with the provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>Code 1950, § 3-554; 1966, c. 702, § 3.1-712; 1976, c. 164; 1986, c. 615; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

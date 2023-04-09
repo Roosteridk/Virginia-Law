@@ -1,0 +1,3 @@
+# § 21-121.2 Additional validation of proceedings.
+
+<p>All proceedings heretofore taken in the creation of sanitary districts of whatsoever kind in the Commonwealth of Virginia, whether under general law or special act, are hereby validated, ratified, approved and confirmed, and all such districts so created or attempted to be created thereunder are hereby declared to have been validly created and established, notwithstanding any defects or irregularities in the creation thereof.</p><p>1960, c. 562; 1962, c. 26; 1964, c. 243.</p>

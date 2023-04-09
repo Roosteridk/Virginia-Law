@@ -1,0 +1,3 @@
+# § 63.2-1953 Disposition of funds collected as debts to Department.
+
+<p>Funds collected as a debt to the Department pursuant to the provisions of this chapter shall be placed in a special fund of the Department for use in the enforcement of the provisions of this chapter.</p><p>1975, c. 302, § 63.1-251.1; 1988, c. 906, § 63.1-274.1; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

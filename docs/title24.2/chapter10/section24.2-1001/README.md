@@ -1,0 +1,3 @@
+# § 24.2-1001 Willful neglect or corrupt conduct.
+
+<p>A. If any officer of election, member of an electoral board, or other person on whom any duty is enjoined by law relative to any election, is guilty of willful neglect of his duty, he shall be guilty of a Class 1 misdemeanor.</p><p>B. If any person listed in subsection A is guilty of any corrupt conduct in the execution of his duty, he shall be guilty of a Class 5 felony.</p><p>Code 1950, § 24-212; 1970, c. 462, § 24.1-266; 1991, c. 710; 1993, c. 641.</p>

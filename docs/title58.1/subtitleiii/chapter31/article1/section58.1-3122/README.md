@@ -1,0 +1,3 @@
+# § 58.1-3122 Tax Commissioner may report misconduct or incapacity of commissioner of the revenue.
+
+<p>The Tax Commissioner may communicate any instances of misconduct or neglect of any commissioner, or any evidence of his incapacity, in a letter to the clerk of the circuit court of the county or city wherein such commissioner was elected. The clerk shall promptly present such letter to the circuit court.</p><p>Code 1950, §§ 58-892, 58-893; 1984, c. 675.</p>

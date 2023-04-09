@@ -1,0 +1,3 @@
+# § 46.2-1607 Inspection of records and examination of inventory.
+
+<p>The Commissioner or any person authorized by the Commissioner or any law-enforcement officer, during the usual business hours, may examine any records, books, papers, or other documents required to be maintained by this chapter, and may examine any vehicle or component part of any vehicle located in the yard, garage, or storage area of any salvage dealer, rebuilder, demolisher, salvage pool, scrap metal processor, or vehicle removal operator to ensure compliance with this chapter.</p><p>1979, c. 401, § 46.1-550.12; 1987, c. 325; 1989, c. 727; 1992, c. 148.</p>

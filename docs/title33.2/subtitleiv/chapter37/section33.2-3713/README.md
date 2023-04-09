@@ -1,0 +1,3 @@
+# § 33.2-3713 Use of revenues by the Authority.
+
+<p>Notwithstanding any other provision of this chapter, all moneys received by the Authority shall be used by the Authority solely for the benefit of those counties, cities, and towns that are embraced by the Authority, and such moneys shall be used by the Authority in a manner that is consistent with the purposes stated in this chapter.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1235'>1235</a>.</p>

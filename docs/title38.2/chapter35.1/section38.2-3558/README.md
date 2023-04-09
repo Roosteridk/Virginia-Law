@@ -1,0 +1,3 @@
+# § 38.2-3558 Health carrier's internal appeal process.
+
+<p>Each health carrier shall establish an internal appeal process, including a process for urgent care appeals, to consider a utilization review adverse determination or other adverse benefit determination or decision that is appealed by a covered person, his authorized representative, or his provider. The Commission shall promulgate regulations effectuating the purpose of this section, including timeframes for filing appeals, types of claims that may be appealed including rescissions, notice requirements, rights of the covered person, and reviewer requirements.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0788'>788</a>.</p>

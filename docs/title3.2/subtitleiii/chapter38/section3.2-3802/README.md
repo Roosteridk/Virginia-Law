@@ -1,0 +1,3 @@
+# § 3.2-3802 Permit required to sell or transport plant pests.
+
+<p>It is unlawful to sell, barter, offer for sale, move, transport, deliver, ship, or offer for shipment any plant pests without a permit from the Commissioner stating that such plant pests are: (i) not injurious; (ii) generally present already; or (iii) to be used for scientific purposes subject to specified safeguards.</p><p>Code 1950, § 3-178.14; 1964, c. 476; 1966, c. 702, § 3.1-148; 1980, c. 291, § 3.1-188.42; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

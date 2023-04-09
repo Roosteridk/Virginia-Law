@@ -1,0 +1,3 @@
+# § 46.2-468 Information filed with Commission by insurance carrier confidential.
+
+<p>Any information filed with the Commission by an insurance carrier in connection with an assigned risk shall be confidential and solely for the information of the Commission and its staff and shall not be disclosed to any person, including an applicant, policyholder, and any other insurance carrier.</p><p>Code 1950, § 46-489; 1958, c. 541, § 46.1-500; 1989, c. 727.</p>

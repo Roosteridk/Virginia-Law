@@ -1,0 +1,3 @@
+# § 17.1-220 Duplicate certificate of allowance prohibited, unless ordered by court.
+
+<p>Upon proof by the oath of a party or otherwise of the loss or destruction of an original certificate of any allowance to be paid out of the state treasury, the court shall order a duplicate which shall show on its face that it is a duplicate issued by order of the court.</p><p>Code 1919, § 3404, § 17-56; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

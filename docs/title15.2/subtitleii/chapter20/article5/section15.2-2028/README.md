@@ -1,0 +1,3 @@
+# § 15.2-2028 Regulation of traffic.
+
+<p>Every locality may regulate and control the operation of motor and other vehicles and the movement of vehicular and pedestrian travel and traffic on streets, highways, roads, alleys, bridges, viaducts, subways, underpasses and other public rights-of-way and places, provided such regulations shall not be inconsistent with the provisions of Chapter 13 (§ <a href='http://law.lis.virginia.gov/vacode/46.2-1300/'>46.2-1300</a> et seq.) of Title 46.2.</p><p>Code 1950, § 15-77.55; 1958, c. 328; 1962, c. 623, § 15.1-891; 1997, c. 587.</p>

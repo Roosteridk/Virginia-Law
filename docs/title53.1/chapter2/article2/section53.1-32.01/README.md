@@ -1,0 +1,3 @@
+# § 53.1-32.01 Payment for bodily injury.
+
+<p>The Director is authorized to establish administrative procedures for recovering from an inmate the cost for medical treatment of a bodily injury that is inflicted intentionally on any person by the inmate. Such administrative procedures shall ensure that the inmate is afforded due process.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0125'>125</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0759'>759</a>.</p>

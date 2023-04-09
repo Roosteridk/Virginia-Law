@@ -1,0 +1,3 @@
+# § 63.2-1733 Regulations for adult day care centers.
+
+<p>A. The Board shall have the authority to adopt and enforce regulations to carry out the provisions of this subtitle and to protect the health, safety, welfare, and individual rights of participants of adult day care centers and to promote their highest level of functioning.</p><p>B. Regulations shall include standards for care and services to be provided to participants; administration of medication; staffing; staff qualifications and training; and facility design, construction, and equipment.</p><p>1992, c. 356, § 63.1-194.2; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

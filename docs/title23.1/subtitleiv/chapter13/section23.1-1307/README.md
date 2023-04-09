@@ -1,0 +1,3 @@
+# § 23.1-1307 Governing boards; expenses of members.
+
+<p>Members of the governing board of each public institution of higher education shall be reimbursed for all reasonable and necessary expenses incurred in the performance of their duties. Funding for the expenses of the members shall be provided by the institution.</p><p>Code 1919, §§ 814, 864, 988, §§ 23-3, 23-79, 23-122; 1924, p. 143; 1970, c. 98; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

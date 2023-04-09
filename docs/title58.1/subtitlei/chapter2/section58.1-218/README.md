@@ -1,0 +1,3 @@
+# § 58.1-218 Fees and mileage of witnesses.
+
+<p>The Tax Commissioner shall make such allowances for fees and mileage of witnesses summoned before him as are allowed by law for witnesses summoned by the Commonwealth in felony cases, to be paid out of the funds at the disposal of the Tax Commissioner.</p><p>Code 1950, § 58-38; 1984, c. 675.</p>

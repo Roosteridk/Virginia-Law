@@ -1,0 +1,3 @@
+# § 13.1-1026 Business transactions of members or managers with the limited liability company.
+
+<p>Except as provided in the articles of organization or an operating agreement, a member or manager may lend money to and transact other business with the limited liability company and, subject to other applicable law, has the same rights and obligations with respect thereto as a person who is not a member or manager.</p><p>1991, c. 168.</p>

@@ -1,0 +1,3 @@
+# § 8.3A-102 Subject matter.
+
+<p>(a) This title applies to negotiable instruments. It does not apply to money, to payment orders governed by Title 8.4A, or to securities governed by Title 8.8A.</p><p>(b) If there is conflict between this title and Title 8.4 or 8.9A, Titles 8.4 and 8.9A govern.</p><p>(c) Regulations of the Board of Governors of the Federal Reserve System and operating circulars of the Federal Reserve Banks supersede any inconsistent provision of this title to the extent of the inconsistency.</p><p>1964, c. 219, § 8.3-103; 1992, c. 693.</p>

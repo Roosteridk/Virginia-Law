@@ -1,0 +1,3 @@
+# § 2.2-2347 Exemption from taxation.
+
+<p>The bonds or other securities issued by the Authority, the interest thereon, and all real and personal property and any interest therein of the Authority, and all income derived therefrom by the Authority shall at all times be free from taxation by the Commonwealth, or by any political subdivision thereof.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0716'>716</a>.</p>

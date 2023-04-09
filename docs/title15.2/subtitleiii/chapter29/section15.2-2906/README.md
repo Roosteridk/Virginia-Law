@@ -1,0 +1,3 @@
+# § 15.2-2906 Disqualification of Commissioners.
+
+<p>No member of the Commission shall participate in the discussion, deliberation, drafting or approval of any report or finding required to be made under this chapter when any of the parties to the proceeding to which such report relates is a locality in which such member presently resides or owns an interest in real property, or in which such member has resided or owned any interest in real property within the preceding five years.</p><p>1979, c. 85, § 15.1-945.6; 1980, c. 592; 1997, c. 587.</p>

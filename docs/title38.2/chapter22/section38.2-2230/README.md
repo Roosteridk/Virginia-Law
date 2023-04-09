@@ -1,0 +1,3 @@
+# § 38.2-2230 Mandatory offer of rental reimbursement coverage.
+
+<p>Every insurer issuing a new or renewal policy of motor vehicle insurance, as defined in § <a href='http://law.lis.virginia.gov/vacode/38.2-2212/'>38.2-2212</a>, which provides comprehensive or collision coverage, shall offer in writing to the named insured the option of purchasing rental reimbursement coverage.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0009'>9</a>.</p>

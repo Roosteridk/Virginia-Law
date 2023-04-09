@@ -1,0 +1,3 @@
+# § 22.1-20.4 Alternative assessments for students who are English language learners.
+
+<p>The Board of Education shall consider assessments aligned to the Standards of Learning that are structured and formatted in a way that measures the content knowledge of students who are English language learners and that may be administered to such students as Board of Education-approved alternatives to Standards of Learning end-of-course English reading assessments.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0058'>58</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0516'>516</a>.</p>

@@ -1,0 +1,3 @@
+# § 54.1-4012 Property pawned or purchased not to be disfigured or changed.
+
+<p>No property received on deposit or pledged or purchased by any pawnbroker shall be disfigured or its identity destroyed or affected in any manner (i) so long as it continues in pawn or in the possession of the pawnbroker while in pawn or (ii) in an effort to obtain a serial number or other information for identification purposes.</p><p>Code 1950, § 54-855; 1988, c. 765; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0848'>848</a>; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0327'>327</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0448'>448</a>.</p>

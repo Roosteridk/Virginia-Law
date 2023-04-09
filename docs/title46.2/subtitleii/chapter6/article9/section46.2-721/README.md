@@ -1,0 +1,3 @@
+# § 46.2-721 Application of liability insurance policy to vehicle carrying plates from insured vehicle.
+
+<p>The policy of liability insurance issued to the owner of a motor vehicle and covering the operation thereof shall extend to and be the primary insurance applicable to his operation of a motor vehicle on which he has placed license tags from another motor vehicle as provided in § <a href='http://law.lis.virginia.gov/vacode/46.2-720/'>46.2-720</a>.</p><p>For the purposes of this section, the term "motor vehicle" does not include a "moped" as defined in § <a href='http://law.lis.virginia.gov/vacode/46.2-100/'>46.2-100</a>.</p><p>1960, c. 457, § 46.1-110.2; 1989, c. 727; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0783'>783</a>.</p>

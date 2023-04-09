@@ -1,0 +1,3 @@
+# § 17.1-514 When plaintiff entitled to less than $100; judgment for defendant.
+
+<p>In any personal action in a circuit court, wherein it is ascertained that less than $100, exclusive of interest, is due to the plaintiff, judgment shall be for the defendant, unless the court enter of record that the matter in controversy was of greater value than $100, exclusive of interest, in which case it may render judgment for the plaintiff for what is ascertained to be due him, with or without costs, in the court's discretion.</p><p>Code 1950, § 8-511.1; 1952, c. 248; 1977, c. 624, § 17-123.1; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

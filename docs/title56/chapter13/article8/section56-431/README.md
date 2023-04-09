@@ -1,0 +1,3 @@
+# § 56-431 When company not liable for injury on enclosed track.
+
+<p>No railroad company shall be liable for any injury to any person or property on such part of its track as may be enclosed according to the provisions of this chapter, unless it be made to appear that the person or property was thereon by express permission of the company, or through the negligence of its employees, agents or servants, or unless the injury was willful or the result of gross negligence on the part of the company, its servants, agents, or employees.</p><p>Code 1919, § 3948.</p>

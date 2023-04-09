@@ -1,0 +1,3 @@
+# § 23.1-2203 Courses of study to be taught.
+
+<p>The following courses of study shall be taught at the University: the Latin, Greek, Hebrew, French, Spanish, Italian, German, and Anglo-Saxon languages; the different branches of mathematics, pure and physical; natural philosophy, chemistry, and mineralogy, including geology; the principles of agriculture; botany, anatomy, surgery, and medicine; zoology, history, ideology, general grammar, ethics, rhetoric, and belles lettres; and civil government, political economy, the law of nature and of nations, and municipal law.</p><p>Code 1919, § 817, § 23-63; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

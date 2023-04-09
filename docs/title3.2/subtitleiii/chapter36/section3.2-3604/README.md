@@ -1,0 +1,3 @@
+# § 3.2-3604 Exchanges between manufacturers.
+
+<p>Nothing in this chapter shall be construed to restrict or avoid sales or exchanges of regulated product between importers, manufacturers, or manipulators who mix fertilizer materials for sale, or to prevent the free and unrestricted shipments of regulated product to manufacturers or manipulators who have registered their brands, and are licensed, as required by provisions of this chapter.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0740'>740</a>, § 3.1-106.20; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

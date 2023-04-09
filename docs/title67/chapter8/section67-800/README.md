@@ -1,0 +1,3 @@
+# § 67-800 (Repealed effective October 1, 2021) Definitions.
+
+<p>As used in this section, "CAFE standards" means the corporate average fuel economy standards for passenger cars and light trucks manufactured for sale in the United States that have been implemented pursuant to the federal Energy Policy and Conservation Act of 1975 (P. L. 94-163), as amended.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0939'>939</a>.</p>

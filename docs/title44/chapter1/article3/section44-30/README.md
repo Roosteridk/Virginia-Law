@@ -1,0 +1,3 @@
+# § 44-30 Tests as to fitness for officers; examining board.
+
+<p>No person shall hereafter be appointed an officer of the National Guard unless such person first shall have successfully passed such tests as to physical, moral, and professional fitness as the President shall prescribe. The examination to determine such qualifications for commission shall be conducted by a board of three commissioned officers appointed by the Secretary of Defense from the active army or the National Guard, or both.</p><p>1930, p. 954; Michie Code 1942, § 2673(20); 1958, c. 393; 1964, c. 227; 1970, c. 662.</p>

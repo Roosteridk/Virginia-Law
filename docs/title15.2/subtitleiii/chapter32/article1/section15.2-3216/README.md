@@ -1,0 +1,3 @@
+# § 15.2-3216 Proceedings not to fail for technical or procedural defects or errors.
+
+<p>No proceedings brought under this chapter shall fail because of a defect, imperfection or omission in the annexation ordinance or the pleadings which does not affect the substantial rights of the parties or any other technical or procedural defect, imperfection or error, but the special court shall at any time allow amendment of the ordinance or the pleadings or make any other order necessary to ensure the hearing of the case on its merits.</p><p>Code 1950, § 15-152.16; 1952, c. 328; 1962, c. 623, § 15.1-1046; 1979, c. 85; 1980, c. 592; 1997, c. 587.</p>

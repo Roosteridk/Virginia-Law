@@ -1,0 +1,3 @@
+# § 38.2-1921 Combination policies.
+
+<p>The Commission may approve for use in this Commonwealth policies or forms for writing at divisible or indivisible rates and premiums any combination of the classes of insurance set forth in subsection A of § <a href='http://law.lis.virginia.gov/vacode/38.2-1902/'>38.2-1902</a>, except insurance on or with respect to operating properties of railroads. The rates and premiums for combination policies, whether divisible or indivisible, shall be subject to this chapter.</p><p>1973, c. 504, § 38.1-279.49; 1986, c. 562.</p>

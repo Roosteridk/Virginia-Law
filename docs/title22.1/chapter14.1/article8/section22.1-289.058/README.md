@@ -1,0 +1,3 @@
+# § 22.1-289.058 Child day programs and certain other programs; carbon monoxide detectors.
+
+<p>Each building that was built before 2015 and that houses a child day program that is licensed pursuant to this chapter or any program described in subdivision A 4, B 1, or B 5 of § <a href="/vacode/22.1-289.030/">22.1-289.030</a> that serves preschool-age children shall be equipped with at least one carbon monoxide detector.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0165'>165</a>.</p>

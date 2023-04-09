@@ -1,0 +1,3 @@
+# § 54.1-3426 Regulations for special packaging.
+
+<p>A. The Board shall adopt standards for special packaging consistent with those promulgated pursuant to the federal Poison Prevention Packaging Act of 1970 (15 U.S.C. § 1471 et seq.). The Board may exempt any drug from the requirements of special packaging and shall exempt any drug exempted pursuant to the Poison Prevention Packaging Act of 1970.</p><p>B. A prescriber or a purchaser may direct that a drug, which is subject to being dispensed in special packaging, be dispensed in other than special packaging.</p><p>1978, c. 833, § 54-524.67:1; 1988, c. 765; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0408'>408</a>.</p>

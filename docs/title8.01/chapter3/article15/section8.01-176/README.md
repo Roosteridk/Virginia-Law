@@ -1,0 +1,3 @@
+# § 8.01-176 How payment of such value to be made by defendant; when land sold therefor.
+
+<p>The payments shall be made to the plaintiff, or into court for his use, and the land shall be bound therefor, and if the defendant fail to make such payments within or at the times limited therefor respectively, the court may order the land to be sold and the proceeds applied to the payment of such value and interest, and the surplus, if any, to be paid to the defendant; but if the net proceeds be insufficient to satisfy such value and interest, the defendant shall not be bound for the deficiency.</p><p>Code 1950, § 8-854; 1977, c. 617.</p>

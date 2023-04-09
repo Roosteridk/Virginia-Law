@@ -1,0 +1,3 @@
+# § 59.1-474 Certain actions deemed void.
+
+<p>A. Any manufacturer's exclusion or limitation of the implied warranties or consumer remedies prescribed by this chapter shall be deemed void.</p><p>B. Any purported waiver of rights to legal action or arbitration by a consumer within an assistive device purchase agreement shall be deemed void.</p><p>1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0067'>67</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0242'>242</a>.</p>

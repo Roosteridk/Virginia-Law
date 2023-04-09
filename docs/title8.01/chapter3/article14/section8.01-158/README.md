@@ -1,0 +1,3 @@
+# § 8.01-158 How claim of plaintiff for profits and damages assessed.
+
+<p>If the plaintiff file with his motion for judgment a statement of the profits and other damages which he means to demand, and the jury find in his favor, they shall, at the same time, unless the court otherwise order, assess the damages for mesne profits of the land for any period not exceeding five years previously to the commencement of the suit until the verdict, and also the damages for any destruction or waste of the buildings or other property during the same time for which the defendant is chargeable.</p><p>Code 1950, § 8-827; 1954, c. 333; 1977, c. 617.</p>

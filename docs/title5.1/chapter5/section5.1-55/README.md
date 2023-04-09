@@ -1,0 +1,3 @@
+# § 5.1-55 Recurring expenditures on airports and landing fields.
+
+<p>No part of such special fund shall be used for recurring expenditures on any airport or landing field under this chapter; except that recurring expenditures may be made where the Department deems such expenditure to be necessary for the preservation of the safety of the public.</p><p>Code 1950, § 5-46; 1966, c. 576; 1979, c. 272.</p>

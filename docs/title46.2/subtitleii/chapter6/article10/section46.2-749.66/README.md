@@ -1,0 +1,3 @@
+# § 46.2-749.66 Special license plates; victims of attack on USS Cole.
+
+<p>On receipt of an application therefor, the Commissioner shall issue to the applicant special license plates honoring the persons injured or killed in the attack on the USS Cole (DDG 67) during its refueling in Aden, Yemen, on October 12, 2000.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0864'>864</a>.</p>

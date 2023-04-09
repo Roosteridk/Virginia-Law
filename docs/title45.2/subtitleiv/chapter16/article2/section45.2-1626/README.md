@@ -1,0 +1,3 @@
+# § 45.2-1626  Enforcement.
+
+<p>The Director shall enforce the provisions of this article pursuant to the provisions of Article 3 (§ <a href='/vacode/45.2-1629/'>45.2-1629</a> et seq.). In addition, if any person violates or threatens to violate any provision of this article, regulation adopted thereunder, or order of the Board, the Board may maintain suit to restrain any such violation or threatened violation.</p><p>1982, c. 347, § 45.1-306; 1990, c. 92, § 45.1-361.24; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

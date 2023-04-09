@@ -1,0 +1,3 @@
+# § 29.1-738.1 Analysis of breath to determine alcohol content of blood.
+
+<p>Any person who is suspected of a violation of subsection B of § <a href='http://law.lis.virginia.gov/vacode/29.1-738/'>29.1-738</a> or § <a href='http://law.lis.virginia.gov/vacode/29.1-738.02/'>29.1-738.02</a> shall be entitled, if such equipment is available, to have a preliminary breath analysis for the purpose of obtaining an analysis of the probable alcohol content of his blood. The procedures and requirements of § <a href='http://law.lis.virginia.gov/vacode/18.2-267/'>18.2-267</a> shall apply, mutatis mutandis.</p><p>1989, c. 726; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0631'>631</a>.</p>

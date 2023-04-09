@@ -1,0 +1,3 @@
+# § 1-511 English designated the official language of the Commonwealth.
+
+<p>English shall be designated as the official language of the Commonwealth. Except as provided by law, no state agency or local government shall be required to provide and no state agency or local government shall be prohibited from providing any documents, information, literature or other written materials in any language other than English.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0829'>829</a>, § 7.1-42; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

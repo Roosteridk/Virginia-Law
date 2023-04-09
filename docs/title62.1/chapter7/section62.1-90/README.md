@@ -1,0 +1,3 @@
+# § 62.1-90 Rejection of application; requiring applicant to modify plans.
+
+<p>If the Commission be of the opinion, from the evidence before it, that the prospective scheme of development is inadequate or wasteful or that the applicant is financially unable to construct and operate the proposed dam and works, or that it is prejudicial to the public interest, the Commission may require the applicant to modify the plans for the development in such manner as may be specified by the Commission or the Commission may reject the application.</p><p>Code 1950, § 62-78; 1968, c. 659.</p>

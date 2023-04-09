@@ -1,0 +1,3 @@
+# § 38.2-1711 Examination of the Association; annual report.
+
+<p>The Association shall be subject to examination and regulation by the Commission. The board of directors shall submit to the Commission, not later than each May 1, a financial report for the preceding calendar year in a form approved by the Commission and a report of its activities during the preceding calendar year. Upon the request of a member insurer, the Association shall provide the member insurer with a copy of the report.</p><p>1976, c. 330, § 38.1-482.29; 1986, c. 562; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0510'>510</a>.</p>

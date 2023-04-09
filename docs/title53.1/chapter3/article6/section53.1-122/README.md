@@ -1,0 +1,3 @@
+# § 53.1-122 Daily records of sheriffs and jail superintendents.
+
+<p>Each sheriff and jail superintendent shall keep a daily record showing the total number of prisoners confined in the jail of his county or city, the number of prisoners admitted, the number released and the time of each such admittance and release. Such records shall show such information separately as to the prisoners of the Commonwealth, of each county, city or town, of the United States, and of any other state or country.</p><p>Code 1950, § 53-170; 1982, c. 636; 1991, c. 383.</p>

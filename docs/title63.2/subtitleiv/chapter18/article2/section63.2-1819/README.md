@@ -1,0 +1,3 @@
+# § 63.2-1819 Where child-placing agencies may place children.
+
+<p>Any licensed child-placing agency may place or negotiate and arrange for the placement of children in any licensed children's residential facility, and, unless its license contains a limitation to the contrary, a licensed child-placing agency may also place or arrange for the placement of such persons in any suitable foster home or independent living arrangement.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0475'>475</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0483'>483</a>.</p>

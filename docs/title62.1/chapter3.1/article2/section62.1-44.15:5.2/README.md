@@ -1,0 +1,3 @@
+# § 62.1-44.15:5.2 General permits for ready-mix concrete plant discharges.
+
+<p>Any general permit issued by the Board for discharges of stormwater and process wastewater from industrial activities associated with the manufacture of ready-mix concrete shall apply to both permanent and portable plants. The general permit may include a requirement that settling basins for the treatment and control of process wastewater and commingled stormwater be lined with concrete or other impermeable materials for settling basins constructed on or before February 1, 1998, and shall include such a requirement for all settling basins constructed on or after February 2, 1998.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0028'>28</a>.</p>

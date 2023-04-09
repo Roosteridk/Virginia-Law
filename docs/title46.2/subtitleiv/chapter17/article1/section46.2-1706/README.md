@@ -1,0 +1,3 @@
+# § 46.2-1706 Civil penalties.
+
+<p>In addition to any other sanctions or remedies available to the Commissioner under this chapter, the Commissioner may assess a civil penalty not to exceed $1,000 for any violation of any provision of this chapter or any regulation promulgated thereunder. The penalty may be sued for and recovered in the name of the Commonwealth.</p><p>1991, c. 214.</p>

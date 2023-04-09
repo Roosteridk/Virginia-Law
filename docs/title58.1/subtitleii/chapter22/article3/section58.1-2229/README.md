@@ -1,0 +1,3 @@
+# § 58.1-2229 Removals by out-of-state bulk user.
+
+<p>An out-of-state bulk user shall not remove motor fuel from a terminal in the Commonwealth for use in the state in which the bulk user is located unless the bulk user is licensed under this chapter as an exporter.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0729'>729</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0758'>758</a>.</p>

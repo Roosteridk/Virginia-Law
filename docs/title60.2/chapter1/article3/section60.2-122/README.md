@@ -1,0 +1,3 @@
+# § 60.2-122 Limitation of fees.
+
+<p>No individual claiming benefits shall be charged fees of any kind in any proceeding under this title by the Commission or its representatives. Any person who violates any provision of this section shall, for each such offense, be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 60-107; 1968, c. 738, § 60.1-124; 1981, c. 249; 1986, c. 480.</p>

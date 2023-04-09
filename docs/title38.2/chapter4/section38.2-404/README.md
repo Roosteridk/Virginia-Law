@@ -1,0 +1,3 @@
+# § 38.2-404 Recovery of such assessments; revocation or suspension of license.
+
+<p>If an assessment made under § <a href='http://law.lis.virginia.gov/vacode/38.2-403/'>38.2-403</a> is not paid to the Commission by the prescribed date, the amount of the assessment, penalty, and interest may be recovered from the defaulting company on motion of the Commission made in the name and for the use of the Commonwealth in the appropriate circuit court after ten days' notice to the company. The license or certificate of authority of any defaulting company to transact business in this Commonwealth may be revoked or suspended by the Commission until it has paid such assessment.</p><p>Code 1950, § 38-19; 1952, c. 317, § 38.1-46; 1978, c. 4; 1986, c. 562.</p>

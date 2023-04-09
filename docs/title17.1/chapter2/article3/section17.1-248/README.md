@@ -1,0 +1,3 @@
+# § 17.1-248 Clerk to make index to each of his books.
+
+<p>The clerk of every circuit court shall have an index to each book he is required to keep, except those for which general indexes are required or permitted, and kept, making convenient reference to every order, record or entry therein. Every execution and every judgment or decree for money shall be indexed, in the name of the person against whom and in the name of the person in whose favor the judgment or decree was rendered.</p><p>Code 1919, § 3391, § 17-78; 1942, p. 179; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

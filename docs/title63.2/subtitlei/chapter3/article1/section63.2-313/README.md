@@ -1,0 +1,3 @@
+# § 63.2-313 Administration of law.
+
+<p>The local boards shall, subject to the regulations of the Board, administer the applicable provisions of this title in their respective counties and cities. The local boards shall also administer the applicable provisions of Chapter 14 (§ <a href='http://law.lis.virginia.gov/vacode/51.5-116/'>51.5-116</a> et seq.) of Title 51.5 pursuant to the regulations of the Commissioner for Aging and Rehabilitative Services.</p><p>Code 1950, § 63-66; 1968, c. 578, § 63.1-50; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

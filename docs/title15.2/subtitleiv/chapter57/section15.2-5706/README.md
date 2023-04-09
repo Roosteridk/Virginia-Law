@@ -1,0 +1,3 @@
+# § 15.2-5706 Appointment of special conservators of the peace.
+
+<p>The chairman of the board of any authority created pursuant to the provisions of this chapter may apply to the circuit court for any locality for the appointment of one or more special conservators of the peace under procedures specified by § <a href='http://law.lis.virginia.gov/vacode/19.2-13/'>19.2-13</a>. Any such special conservator of the peace shall have, within the lands and facilities controlled by such authority, the powers, functions, duties, responsibilities and authority of any other conservator of the peace.</p><p>1977, c. 381, § 15.1-1232.2; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 27-3.1 Public liability insurance to cover claims arising out of mutual aid agreements.
+
+<p>The governing body of any city, county or town in the Commonwealth is authorized to procure or extend the necessary public liability insurance to cover claims arising out of mutual aid agreements executed with other cities, counties, or towns outside the Commonwealth, including the District of Columbia.</p><p>1968, c. 801; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0461'>461</a>.</p>

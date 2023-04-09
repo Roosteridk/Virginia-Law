@@ -1,0 +1,3 @@
+# § 58.1-628.2 Adjustment to the rate of tax imposed under this chapter.
+
+<p>If a dealer can show to the satisfaction of the Tax Commissioner that more than 85 percent of the total dollar volume of his gross taxable sales during the taxable month was from individual sales at prices of 10 cents or less each and that he was unable to adjust his prices in such manner as to prevent the economic incidence of the sales tax from falling on him, the Tax Commissioner shall determine the proper tax liability of the dealer based on that portion of the dealer's gross taxable sales that was from sales at prices of 11 cents or more.</p><p>2004, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?042+ful+CHAP0003'>3</a>.</p>

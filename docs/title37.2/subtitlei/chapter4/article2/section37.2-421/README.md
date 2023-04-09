@@ -1,0 +1,3 @@
+# § 37.2-421 Advertising by licensed providers.
+
+<p>The Board shall adopt regulations governing advertising practices of any provider licensed pursuant to this article. The regulations shall require that any provider's advertisement not contain false or misleading information or false or misleading representations as to fees charged for services.</p><p>1990, c. 809, § 37.1-188.1; 2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0486'>486</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0506'>506</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

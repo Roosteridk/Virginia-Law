@@ -1,0 +1,3 @@
+# § 15.2-5431.33 Financial report; authority budget; audit.
+
+<p>Any locality may, by resolution, require an authority to:</p><p>1. Submit to it an annual financial statement in a form prescribed by the Auditor of Public Accounts; or</p><p>2. Have an audit conducted for any fiscal year according to generally accepted auditing and accounting standards or according to the audit specifications and audit program prescribed by the Auditor of Public Accounts.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0643'>643</a>.</p>

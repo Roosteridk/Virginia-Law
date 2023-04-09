@@ -1,0 +1,3 @@
+# § 8.01-311 Continuance of action where service made on Commissioner or Secretary.
+
+<p>The court, in which an action is pending against a nonresident growing out of an accident or collision as specified in §§ <a href='http://law.lis.virginia.gov/vacode/8.01-308/'>8.01-308</a> and <a href='http://law.lis.virginia.gov/vacode/8.01-309/'>8.01-309</a>, may order such continuances as necessary to afford such nonresident reasonable opportunity to defend the action.</p><p>Code 1950, § 8-67.3; 1954, c. 547; 1977, c. 617.</p>

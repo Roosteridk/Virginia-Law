@@ -1,0 +1,3 @@
+# § 3.2-4707 Investigation and correction of improper practices.
+
+<p>The Division shall investigate delays, improper conditions, overcharges, and unfair rates in the transportation of agricultural products, and may institute proceedings in the appropriate courts for the abatement or redress of such injuries; and may institute proper proceedings to prevent restraint of trade or unlawful combinations to fix prices.</p><p>Code 1950, § 3-529; 1966, c. 702, § 3.1-688; 1993, c. 115; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

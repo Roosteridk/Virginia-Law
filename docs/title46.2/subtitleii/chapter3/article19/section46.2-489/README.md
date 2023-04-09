@@ -1,0 +1,3 @@
+# § 46.2-489 Regulations; appeals.
+
+<p>The Commissioner may, subject to the provisions of § <a href='http://law.lis.virginia.gov/vacode/46.2-203/'>46.2-203</a>, promulgate regulations which he deems necessary to carry out the provisions of this article.</p><p>Any person receiving an order of the Commissioner to suspend or revoke his driver's license or licensing privilege or to require attendance at a driver improvement clinic or placing him on probation may, within thirty days from the date of the order, file a petition of appeal in accordance with § <a href='http://law.lis.virginia.gov/vacode/46.2-410/'>46.2-410</a>.</p><p>1974, c. 453, § 46.1-514.2; 1989, c. 727; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0672'>672</a>.</p>

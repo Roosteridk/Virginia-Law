@@ -1,0 +1,3 @@
+# § 58.1-3223 Taxation of life tenant's interest when remainder held by United States.
+
+<p>The life tenant of any property, a remainder interest in which has been acquired by the United States, shall receive a credit on his real estate tax each year for any amount paid to the county, city or town in such years under § 3 of Public Law 94-565 (31 U.S.C. § 1603) on behalf of such property. Such credit shall not exceed the amount of tax on such property.</p><p>Code 1950, § 58-761.1; 1980, c. 290; 1984, c. 675.</p>

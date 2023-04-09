@@ -1,0 +1,3 @@
+# § 58.1-3948 Notice to tenant prior to such leasing.
+
+<p>When real estate is advertised for leasing for the taxes and there is any tenant in possession of the property so advertised, then the treasurer, sheriff, constable, collector or other collecting officer making the lease shall serve upon such tenant, at least fifteen days prior to the day of leasing, a copy of the notice of leasing. This service shall be in conformity with §§ <a href='http://law.lis.virginia.gov/vacode/8.01-285/'>8.01-285</a> through <a href='http://law.lis.virginia.gov/vacode/8.01-295/'>8.01-295</a>.</p><p>Code 1950, § 58-1004; 1971, Ex. Sess., c. 155; 1984, c. 675.</p>

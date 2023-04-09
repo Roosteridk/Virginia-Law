@@ -1,0 +1,3 @@
+# § 3.2-5109 Washrooms and toilets.
+
+<p>Any place where food is manufactured, prepared, exposed, or offered for sale shall have a convenient washroom and toilet of sanitary construction, but such toilet shall be entirely separate and apart from any room used for the manufacture or storage of food products.</p><p>Code 1950, § 3-301; 1966, c. 702, § 3.1-380; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

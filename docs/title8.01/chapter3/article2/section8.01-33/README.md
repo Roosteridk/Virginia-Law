@@ -1,0 +1,3 @@
+# § 8.01-33 Equitable relief in certain cases.
+
+<p>A court shall not grant equitable relief in a suit upon a bond, note, or writing, by an assignee or holder thereof, unless it appears that the plaintiff had no adequate remedy thereon at law.</p><p>Code 1950, § 8-518; 1977, c. 617; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0681'>681</a>.</p>

@@ -1,0 +1,3 @@
+# § 2.2-5308 Licensure as home care organization not required.
+
+<p>Notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/32.1-162.9/'>32.1-162.9</a>, no person who provides early intervention services in accordance with this chapter shall be required to be licensed as a home care organization in order to provide these services in a child's home.</p><p>1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0640'>640</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0684'>684</a>, § 2.1-768.1; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

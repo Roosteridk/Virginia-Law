@@ -1,0 +1,3 @@
+# § 2.2-2619 Administrator.
+
+<p>The Council, with the concurrence of the Governor, shall appoint an administrator, who shall serve under the supervision and at the pleasure of the Council. He shall perform the duties and exercise the functions the Council assigns to him. He shall receive a salary for his services to be paid by the Council subject to the approval of the Governor.</p><p>1978, c. 455, § 2.1-64.28:3; 1984, c. 720; 1992, c. 81; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

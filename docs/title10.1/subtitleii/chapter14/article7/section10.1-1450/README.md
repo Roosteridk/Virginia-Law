@@ -1,0 +1,3 @@
+# § 10.1-1450 Waste Management Board to promulgate regulations regarding hazardous materials.
+
+<p>The Board shall promulgate regulations designating the manner and method by which hazardous materials shall be loaded, unloaded, packed, identified, marked, placarded, stored and transported. Such regulations shall be no more restrictive than any applicable federal laws or regulations.</p><p>1986, c. 492, § 10-305; 1988, c. 891; 1992, c. 208; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0260'>260</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-5431.13 Insurance for employees.
+
+<p>An authority may establish retirement, group life insurance, and group accident and sickness insurance plans or systems for its employees in the same manner as localities are permitted under §§ <a href='http://law.lis.virginia.gov/vacode/51.1-801/'>51.1-801</a> and <a href='http://law.lis.virginia.gov/vacode/51.1-802/'>51.1-802</a>.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0643'>643</a>.</p>

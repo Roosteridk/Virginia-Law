@@ -1,0 +1,3 @@
+# § 28.2-1211 Injunction against violation of § 28.2-1203.
+
+<p>The circuit court of the city or county in which any act is done or facility or project is found, which is unlawful under the provisions of § <a href='http://law.lis.virginia.gov/vacode/28.2-1203/'>28.2-1203</a>, shall have the authority, upon application by the Commission, reasonable notice, and after a hearing, to enjoin any further unlawful act and to direct the guilty party or the Commission, at the cost of the guilty party, to remove, tear down or take such other steps as are necessary to protect and preserve the subject property of the Commonwealth.</p><p>1970, c. 621, § 62.1-3.1; 1992, c. 836.</p>

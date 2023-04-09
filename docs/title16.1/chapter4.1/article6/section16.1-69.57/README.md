@@ -1,0 +1,3 @@
+# § 16.1-69.57 Destruction of court records.
+
+<p>The clerk of each district court shall destroy the court records upon expiration of the appropriate retention period as set forth in §§ <a href='http://law.lis.virginia.gov/vacode/16.1-69.55/'>16.1-69.55</a> and <a href='http://law.lis.virginia.gov/vacode/16.1-69.56/'>16.1-69.56</a> and consistent with the requirements of confidentiality for juvenile records. The Supreme Court shall determine the methods to be used in destroying court records. Likewise, magistrates shall destroy records retained in the office of the magistrate upon the expiration of the appropriate retention period as set forth in § <a href='http://law.lis.virginia.gov/vacode/16.1-69.56/'>16.1-69.56</a>.</p><p>1983, c. 499; 1987, c. 160.</p>

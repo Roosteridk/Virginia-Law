@@ -1,0 +1,3 @@
+# § 8.01-667 Transmission of records to federal court.
+
+<p>Whenever any habeas corpus case is pending in a federal court, upon written request of the Attorney General or any assistant attorney general, a court of this Commonwealth shall transmit to such federal court such records as may be requested.</p><p>Code 1950, § 8-608.1; 1975, c. 389; 1977, c. 617.</p>

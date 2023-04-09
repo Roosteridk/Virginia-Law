@@ -1,0 +1,3 @@
+# § 59.1-207.5 Written invoice required upon completion of repair work.
+
+<p>Upon completion of any repair work on a motor vehicle, including work performed pursuant to any warranty, an automobile repair facility shall provide the customer a written invoice which clearly indicates the work performed and the charges for parts and labor, separately stated, and which separately identifies those parts provided under warranty and not under warranty, and identifies those parts, if any, which are used, rebuilt or reconditioned. The provisions of this section shall not apply to work performed which was done on an advertised single price basis.</p><p>1979, c. 506.</p>

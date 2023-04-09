@@ -1,0 +1,3 @@
+# § 3.2-711 Costs of administration; reimbursements to Commonwealth.
+
+<p>Costs of administering this law shall be borne by the Commonwealth. The costs for services, products, or articles that the Commissioner determines are beyond the reasonable scope of the law, shall be paid by the persons affected to the State Treasurer. The Commissioner shall cause all reimbursements to be promptly credited to the State fund from which expended, regardless of the date the costs were incurred or collected.</p><p>1975, c. 29, § 3.1-188.30; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

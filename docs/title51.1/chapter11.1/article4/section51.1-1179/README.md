@@ -1,0 +1,3 @@
+# § 51.1-1179 Limitation on coverage.
+
+<p>No person shall have more than one coverage under a disability benefit program. Any person employed in more than one position that provides coverage under a disability benefit program shall elect one position on which his coverage shall be based by written notification to the Board. No person shall receive more than one disability benefit under this chapter at the same time.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0701'>701</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0823'>823</a>.</p>

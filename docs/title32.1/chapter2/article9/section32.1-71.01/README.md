@@ -1,0 +1,3 @@
+# § 32.1-71.01 Penalties for unauthorized use of statewide cancer registry.
+
+<p>In addition to the remedies provided in § <a href='http://law.lis.virginia.gov/vacode/32.1-27/'>32.1-27</a>, any person who uses, discloses or releases data maintained in the statewide cancer registry in violation of § <a href='http://law.lis.virginia.gov/vacode/32.1-71/'>32.1-71</a> shall be subject, in the discretion of the court, to a civil penalty not to exceed $25,000 for each violation, which shall be paid to the general fund.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0074'>74</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0139'>139</a>.</p>

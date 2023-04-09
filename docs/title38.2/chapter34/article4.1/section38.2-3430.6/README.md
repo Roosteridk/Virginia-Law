@@ -1,0 +1,3 @@
+# § 38.2-3430.6 Market requirements.
+
+<p>The provisions of § <a href='http://law.lis.virginia.gov/vacode/38.2-3430.3/'>38.2-3430.3</a> shall not be construed to require that a health insurance issuer offering health insurance coverage only in connection with group health plans or through one or more bona fide associations, or both, offer such health insurance coverage in the individual market.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0807'>807</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0913'>913</a>; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0024'>24</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0814'>814</a>.</p>

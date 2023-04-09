@@ -1,0 +1,3 @@
+# § 19.2-115 Nonwaiver by this Commonwealth.
+
+<p>Nothing in this chapter contained shall be deemed to constitute a waiver by this Commonwealth of its right, power or privilege to try such demanded person for crime committed within this Commonwealth, or of its right, power or privilege to regain custody of such person by extradition proceedings or otherwise for the purpose of trial, sentence or punishment for any crime committed within this Commonwealth, nor shall any proceedings had under this chapter which result in, or fail to result in, extradition be deemed a waiver by this Commonwealth of any of its rights, privileges or jurisdiction in any way whatsoever.</p><p>Code 1950, § 19.1-79; 1960, c. 366; 1975, c. 495.</p>

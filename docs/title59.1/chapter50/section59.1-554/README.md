@@ -1,0 +1,3 @@
+# § 59.1-554 Applicability of chapter.
+
+<p>The provisions of this chapter shall not be construed to require any individual or entity to rely on or accept any identity credential or attribute issued in accordance with Commonwealth identity management standards or this chapter.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0482'>482</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0483'>483</a>.</p>

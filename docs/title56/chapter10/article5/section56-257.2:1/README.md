@@ -1,0 +1,3 @@
+# § 56-257.2:1 Projects presenting material risk to public safety; licensed professional engineers; regulations.
+
+<p>The Commission shall promulgate regulations requiring that a licensed professional engineer exercise responsible charge, as defined in § <a href='/vacode/54.1-400/'>54.1-400</a>, over engineering projects that (i) involve gas pipeline facilities, as defined in the federal regulations promulgated under 49 U.S.C § 60101 et seq., as amended and adopted by the State Corporation Commission, and the federal pipeline safety laws, and (ii) may present a material risk to public safety.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0822'>822</a>.</p>

@@ -1,0 +1,3 @@
+# § 1-252 Tier-city.
+
+<p>"Tier-city" means an incorporated community within a consolidated county that (i) has within defined boundaries a population of 5,000 or more, (ii) has been designated as a tier-city by the General Assembly, and (iii) has both the powers of a town and such additional powers as may be granted tier-cities by the General Assembly. All references in this Code and the acts of the General Assembly to towns shall be deemed references to tier-cities, except to the extent tier-cities may be specifically excluded or where the context requires otherwise.</p><p>1984, c. 695, §§ 1-13.28:1, 1-13.28:2; 1989, c. 493; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

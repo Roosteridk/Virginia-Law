@@ -1,0 +1,3 @@
+# § 40.1-51.3:1 Penalty for giving advance notice of safety or health inspection under this title.
+
+<p>Any person who gives advance notice of any safety or health inspection to be conducted under the provisions of this title without authority of the Commissioner or his authorized representative shall be guilty of a misdemeanor and upon conviction shall be punished by a fine of not less than $100 nor more than $1,000, or by imprisonment for not more than six months, or by both such fine and imprisonment.</p><p>1973, c. 425; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>.</p>

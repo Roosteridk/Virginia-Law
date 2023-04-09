@@ -1,0 +1,3 @@
+# § 24.2-213 Filling vacancy in office of Attorney General.
+
+<p>If a vacancy occurs in the office of Attorney General during the session of the General Assembly, the General Assembly shall fill the vacancy by a majority vote of the total membership. If a vacancy occurs during a recess of the General Assembly, the Governor shall appoint a successor to serve for the remainder of the unexpired term or until the end of thirty days after the commencement of the next session of the General Assembly, whichever happens first. At that next session, the General Assembly shall fill the vacancy by election by a majority vote of the total membership for the unexpired portion of the term.</p><p>Code 1950, § 24-153; 1970, c. 462, § 24.1-85; 1993, c. 641.</p>

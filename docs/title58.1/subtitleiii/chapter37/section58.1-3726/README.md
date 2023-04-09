@@ -1,0 +1,3 @@
+# § 58.1-3726 Fortune-tellers, clairvoyants and practitioners of palmistry.
+
+<p>For the purpose of license taxation pursuant to § <a href='http://law.lis.virginia.gov/vacode/58.1-3703/'>58.1-3703</a>, any person who, for compensation, shall pretend to tell fortunes, assume to act as a clairvoyant, or to practice palmistry or phrenology shall be deemed a fortune-teller. No license tax on fortune-tellers imposed pursuant to this chapter shall exceed $1,000 per year. The governing body of any county, city or town may provide that any person who engages in business as a fortune-teller without the license required shall be guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 58-377.1; 1982, c. 633; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 5.1-44 Rules and regulations; fees and charges.
+
+<p>The governing body of such city, town or county, or a board, commission, authority or body created under § <a href='http://law.lis.virginia.gov/vacode/5.1-36/'>5.1-36</a>, may adopt regulations not in conflict with the rules and regulations adopted and promulgated by the Board from time to time and establish fees or other charges for the use of such airport or landing field or may authorize an officer representing such city, town, county, board, commission, authority or body to adopt such regulations and establish such fees and charges.</p><p>Code 1950, § 5-36; 1966, c. 576; 1970, c. 717; 1979, c. 272.</p>

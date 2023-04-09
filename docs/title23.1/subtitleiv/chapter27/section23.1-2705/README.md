@@ -1,0 +1,3 @@
+# § 23.1-2705 Gifts, grants, devises, and bequests; governmental aid.
+
+<p>A. The board may take, hold, receive, and enjoy any gift, grant, devise, or bequest to the board or to or for the benefit of the University. Any such gift, grant, devise, or bequest shall be used for the purposes designated by the donor, or if no purposes are so designated, for the general purposes of the board.</p><p>B. The University shall receive the governmental aid designated in §§ <a href='http://law.lis.virginia.gov/vacode/23.1-2638/'>23.1-2638</a> and <a href='http://law.lis.virginia.gov/vacode/23.1-2639/'>23.1-2639</a>.</p><p>Code 1919, § 957, § 23-170; 1930, p. 769; 1964, c. 70; 1979, c. 147; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

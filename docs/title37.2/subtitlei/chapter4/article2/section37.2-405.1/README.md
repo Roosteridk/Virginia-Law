@@ -1,0 +1,3 @@
+# § 37.2-405.1 Certain provider information on website.
+
+<p>The Department of Behavioral Health and Developmental Services shall list licensed providers included on the website of the Department's Office of Licensing by the assumed or fictitious name under which the provider is doing business in the Commonwealth. Within the file of that record following the name under which the provider does business in the Commonwealth, the record shall also include any other Virginia corporate name of the provider, if different from the assumed or fictitious name under which the provider is doing business.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0451'>451</a>.</p>

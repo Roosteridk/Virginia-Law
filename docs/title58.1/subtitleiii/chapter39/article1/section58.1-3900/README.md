@@ -1,0 +1,3 @@
+# § 58.1-3900 Filing of returns.
+
+<p>Any person having taxable personal property, machinery and tools or merchants' capital on January 1 of any year shall file a return thereof with the commissioner of the revenue for his county or city in accordance with § <a href='http://law.lis.virginia.gov/vacode/58.1-3518/'>58.1-3518</a>. Such returns shall be filed by May 1 of each year, except as otherwise provided by ordinance adopted under § <a href='http://law.lis.virginia.gov/vacode/58.1-3916/'>58.1-3916</a>.</p><p>1984, c. 675.</p>

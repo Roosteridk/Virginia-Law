@@ -1,0 +1,3 @@
+# § 21-325 Complete survey.
+
+<p>After the district is preliminarily established the court shall refer the report of the board of viewers back to them, and unless United States or state engineers have already surveyed the district or the major portion thereof, may make a complete survey, plans and specifications for the drainage or levees, and fix a time when the board of viewers shall complete and file their report, not exceeding six months; but such time may be extended by the court for good cause shown, either before or after the expiration of the time.</p><p>Code 1919, § 1749; 1920, p. 607.</p>

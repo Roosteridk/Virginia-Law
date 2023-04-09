@@ -1,0 +1,3 @@
+# § 46.2-1173 Imitation or counterfeit inspection stickers.
+
+<p>No person shall make, issue, or knowingly use any imitation or counterfeit of an official safety inspection sticker.</p><p>No person shall display or cause or permit to be displayed upon any vehicle any safety inspection sticker knowing it to be fictitious or issued for another vehicle.</p><p>Code 1950, § 46-322.2; 1952, c. 466; 1958, c. 541, § 46.1-326; 1989, c. 727.</p>

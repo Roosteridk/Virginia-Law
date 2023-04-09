@@ -1,0 +1,3 @@
+# § 8.01-219 Effect of judgment in trover.
+
+<p>A judgment for the plaintiff in an action of trover shall not operate to transfer the title to the property converted unless and until such judgment has been satisfied.</p><p>Code 1950, § 8-648; 1977, c. 617.</p>

@@ -1,0 +1,3 @@
+# § 15.2-940 Expenditures for promoting resources and advantages of locality.
+
+<p>Any locality may, in its discretion, expend funds from the locally derived revenues of the locality for the purpose of promoting the resources and advantages of the locality. Such purpose shall include, without limiting the generality thereof, watershed projects and expenditures in connection therewith.</p><p>Code 1950, §§ 15-11 through 15-13; 1952, c. 117; 1956, c. 25; 1960, cc. 168, 176; 1962, c. 623, § 15.1-10; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0593'>593</a>; 1997, c. 587.</p>

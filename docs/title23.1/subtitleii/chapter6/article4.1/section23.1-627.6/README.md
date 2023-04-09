@@ -1,0 +1,3 @@
+# § 23.1-627.6 Eligible institutions; academic credit; noncredit workforce credentials.
+
+<p>Each eligible institution that participates in the Program shall adopt a policy for the award of academic credit to any eligible student who has earned a noncredit workforce credential that is applicable to the student's certificate or degree program requirements.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0326'>326</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0470'>470</a>.</p>

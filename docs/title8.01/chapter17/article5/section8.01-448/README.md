@@ -1,0 +1,3 @@
+# § 8.01-448 Attorney General, etc., to have judgments in favor of Commonwealth docketed.
+
+<p>Whenever a judgment is recovered in favor of the Commonwealth, it shall be the duty of the Attorney General or other attorney representing the Commonwealth, to cause such judgment to be docketed in all counties and cities wherein there is any real estate owned by any person against whom the judgment is recovered.</p><p>Code 1950, § 8-376; 1977, c. 617.</p>

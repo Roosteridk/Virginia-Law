@@ -1,0 +1,3 @@
+# § 54.1-2143 Real estate board regulations to be consistent.
+
+<p>Any regulations adopted by the Virginia Real Estate Board shall be consistent with this article, and any such regulations existing as of the effective date of this article shall be modified to comply with the provisions of this article.</p><p>1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0741'>741</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0813'>813</a>.</p>

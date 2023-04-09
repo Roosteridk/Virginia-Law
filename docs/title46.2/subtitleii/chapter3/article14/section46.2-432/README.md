@@ -1,0 +1,3 @@
+# § 46.2-432 Failure of nonresident to report accident.
+
+<p>The failure of a nonresident to report an accident as required in this title shall constitute sufficient ground for suspension or revocation of his privileges of driving a motor vehicle in the Commonwealth and of driving within the Commonwealth of any motor vehicle owned by him.</p><p>Code 1950, § 46-452; 1958, c. 541, § 46.1-464; 1989, c. 727.</p>

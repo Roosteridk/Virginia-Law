@@ -1,0 +1,3 @@
+# § 62.1-193 Exemptions from chapter.
+
+<p>The prohibitions of this chapter shall not apply to any owner of any fastland, bluff, beach or bed of stream, upon or in front of which such deposits may lie, nor to any person or corporation acting under written permission from, or contract with such owner.</p><p>None of the provisions of this chapter shall be deemed to interfere in any manner with the provisions of any law of this Commonwealth relating to taking fish and oysters.</p><p>Code 1950, § 62-181; 1968, c. 659; 1986, c. 145.</p>

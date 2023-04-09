@@ -1,0 +1,3 @@
+# § 9.1-131 Annual audits.
+
+<p>The Board shall ensure that annual audits are conducted of a representative sample of state and local criminal justice agencies to ensure compliance with this article and Board regulations. The Board shall adopt such regulations as may be necessary for the conduct of audits, the retention of records to facilitate such audits, the determination of necessary corrective actions, and the reporting of corrective actions taken.</p><p>1981, c. 632, § 9-186; 1984, cc. 30, 734; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

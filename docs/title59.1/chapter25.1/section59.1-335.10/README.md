@@ -1,0 +1,3 @@
+# § 59.1-335.10 Liability to consumer.
+
+<p>A. Any credit services business which willfully fails to comply with any requirement imposed under this chapter with respect to any consumer is liable to that consumer in an amount equal to the sum of:</p><p>1. Any actual damages sustained by the consumer as a result of the failure; and</p><p>2. Such amount of punitive damages as the court may allow.</p><p>B. Any credit services business which is negligent in failing to comply with any requirement imposed under this chapter with respect to any consumer is liable to that consumer in an amount equal to the sum of any actual damages sustained by the consumer as a result of the failure.</p><p>1989, cc. 651, 655.</p>

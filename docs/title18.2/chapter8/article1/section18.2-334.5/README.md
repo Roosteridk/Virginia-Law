@@ -1,0 +1,3 @@
+# § 18.2-334.5 Exemptions to article; certain gaming operations.
+
+<p>Nothing in this article shall be construed to make it illegal to participate in any casino gaming operation conducted in accordance with Chapter 41 (§ <a href='/vacode/58.1-4100/'>58.1-4100</a> et seq.) of Title 58.1.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1197'>1197</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1248'>1248</a>.</p>

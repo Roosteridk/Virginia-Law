@@ -1,0 +1,3 @@
+# § 3.2-5639 Announcement of day and hour of livestock sale.
+
+<p>The operator of the livestock auction market shall publicly announce the day and hour when an auction sale of livestock is to begin at least one week in advance of the day of sale so chosen and shall include the time of sale in all information thereafter published concerning the sale. Auction sale of livestock shall begin on the day and hour so selected.</p><p>Code 1950, §§ 3-708.43, 59-114.3; 1952, c. 387; 1962, c. 298; 1966, c. 702, § 3.1-961; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

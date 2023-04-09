@@ -1,0 +1,3 @@
+# § 59.1-304 Notice of preservation of buyers' rights.
+
+<p>All health club contracts and any promissory note executed by the buyer in connection therewith shall contain the following provision on the face thereof in at least 10-point, boldface type:</p><p>NOTICE </p><p>ANY HOLDER OF THIS CONTRACT OR NOTE IS SUBJECT TO ALL CLAIMS AND DEFENSES WHICH THE DEBTOR COULD ASSERT AGAINST THE SELLER OF GOODS OR SERVICES OBTAINED WITH THE PROCEEDS HEREOF. RECOVERY HEREUNDER BY THE DEBTOR SHALL NOT EXCEED AMOUNTS PAID BY THE DEBTOR HEREUNDER.</p><p>1984, c. 738; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0459'>459</a>.</p>

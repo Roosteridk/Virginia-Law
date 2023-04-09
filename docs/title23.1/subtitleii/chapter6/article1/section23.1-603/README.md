@@ -1,0 +1,3 @@
+# § 23.1-603 State cadets; Mary Baldwin College and Virginia Polytechnic Institute and State University; financial assistance awards.
+
+<p>From funds appropriated by the Commonwealth to Mary Baldwin College for the Virginia Women's Institute for Leadership and to Virginia Polytechnic Institute and State University, each such institution's governing board may provide for financial assistance awards to students designated as state cadets on terms and conditions comparable to the provisions of § <a href='http://law.lis.virginia.gov/vacode/23.1-2506/'>23.1-2506</a>.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0203'>203</a>, § 23-31.1; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

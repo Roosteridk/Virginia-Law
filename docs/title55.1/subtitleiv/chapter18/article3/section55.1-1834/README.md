@@ -1,0 +1,3 @@
+# § 55.1-1834 Notice of sale under deed of trust.
+
+<p>In accordance with the provisions of § <a href='/vacode/15.2-979/'>15.2-979</a>, the association shall be given notice whenever a lot becomes subject to a sale under a deed of trust. Upon receipt of such notice, the board of directors, on behalf of the association, shall exercise whatever due diligence it deems necessary with respect to the lot subject to a sale under a deed of trust to protect the interests of the association.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0093'>93</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0410'>410</a>, § 55-516.01; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

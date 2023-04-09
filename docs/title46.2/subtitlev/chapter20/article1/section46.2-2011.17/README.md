@@ -1,0 +1,3 @@
+# § 46.2-2011.17 Certificate, license, or permit holder not relieved of liability for negligence.
+
+<p>Nothing in this chapter shall relieve any holder of a certificate, license, or permit issued by and under the authority of the Department from any liability resulting from his negligence, whether or not he has complied with the requirements of this chapter.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

@@ -1,0 +1,3 @@
+# § 8.01-275.1 When service of process is timely.
+
+<p>Service of process in an action or suit within twelve months of commencement of the action or suit against a defendant shall be timely as to that defendant. Service of process on a defendant more than twelve months after the suit or action was commenced shall be timely upon a finding by the court that the plaintiff exercised due diligence to have timely service made on the defendant.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0519'>519</a>.</p>

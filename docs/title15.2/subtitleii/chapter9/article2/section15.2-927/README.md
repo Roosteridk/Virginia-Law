@@ -1,0 +1,3 @@
+# § 15.2-927 Garbage and refuse disposal.
+
+<p>Any locality may collect and dispose of garbage and other refuse; may regulate and inspect incinerators, dumps and other places and facilities for the disposal of garbage and other refuse and the manner in which such incinerators, dumps, places and facilities are operated or maintained; and without liability to the owner thereof may prevent the use thereof for such purposes when they contribute or are likely to contribute to the contraction or spread of infectious, contagious or dangerous diseases.</p><p>Code 1950, § 15-77.21; 1958, c. 328; 1962, c. 623, § 15.1-857; 1997, c. 587.</p>

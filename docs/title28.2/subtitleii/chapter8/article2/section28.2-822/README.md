@@ -1,0 +1,3 @@
+# § 28.2-822 Suspension or revocation of licenses.
+
+<p>The Commissioner of Marine Resources may immediately suspend any licenses of any license holder who has committed more than one violation of this chapter. The suspension shall be effective until the day following the next meeting of the Commission to take place after ten days' notice to such person. The Commissioner, at the request of the person, shall, within forty-eight hours, provide an opportunity for him to show why the suspension is unjust, and for good cause shown the Commissioner shall vacate such suspension. No person whose license is suspended pursuant to this section shall engage in any fishery.</p><p>1989, c. 2, § 28.1-36.01; 1992, c. 836.</p>

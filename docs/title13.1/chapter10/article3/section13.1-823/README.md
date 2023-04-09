@@ -1,0 +1,3 @@
+# § 13.1-823 Bylaws.
+
+<p>A. The incorporators or board of directors of a corporation shall adopt initial bylaws for the corporation.</p><p>B. The bylaws of a corporation may contain any provision that is not inconsistent with law or the articles of incorporation.</p><p>Code 1950, §§ 13-234, 13.1-212; 1956, c. 428; 1985, c. 522; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0925'>925</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0171'>171</a>.</p>

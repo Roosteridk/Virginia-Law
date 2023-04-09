@@ -1,0 +1,3 @@
+# § 41.1-15 Recording decree of repeal.
+
+<p>Any decree for such repeal, in whole or in part, shall be certified to the Librarian of Virginia, and shall thereupon be recorded by the Librarian of Virginia in the manner prescribed in &sect; <a href="/vacode/55.1-2423/">55.1-2423</a>.</p><p>Code 1950, &sect; 41-77; 1970, c. 291; 1982, c. 565; 1998, c. <a href="http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0427">427</a>.</p>

@@ -1,0 +1,3 @@
+# § 51.5-40 Nondiscrimination under state grants and programs.
+
+<p>No person with a disability who is otherwise qualified shall on the basis of his disability be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving state financial assistance or under any program or activity conducted by or on behalf of any state agency.</p><p>1985, c. 421, § 51.01-40; 1990, c. 458; 1992, c. 627; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0572'>572</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0847'>847</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0616'>616</a>.</p>

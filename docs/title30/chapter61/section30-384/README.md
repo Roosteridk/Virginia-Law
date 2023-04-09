@@ -1,0 +1,3 @@
+# § 30-384 (Expires July 1, 2026) Commission on School Construction and Modernization; purpose.
+
+<p>The Commission on School Construction and Modernization (the Commission) is established in the legislative branch of state government. The purpose of the Commission is to develop and provide guidance and resources to local school divisions related to school construction and modernization and make funding recommendations to the Governor and the General Assembly.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1044'>1044</a>, § 30-376.</p>

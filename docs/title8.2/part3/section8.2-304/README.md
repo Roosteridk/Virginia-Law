@@ -1,0 +1,3 @@
+# § 8.2-304 Price payable in money, goods, realty, or otherwise.
+
+<p>(1) The price can be made payable in money or otherwise. If it is payable in whole or in part in goods each party is a seller of the goods which he is to transfer.</p><p>(2) Even though all or part of the price is payable in an interest in realty the transfer of the goods and the seller's obligations with reference to them are subject to this title, but not the transfer of the interest in realty or the transferor's obligations in connection therewith.</p><p>1964, c. 219.</p>

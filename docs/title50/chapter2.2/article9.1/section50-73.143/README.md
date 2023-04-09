@@ -1,0 +1,3 @@
+# § 50-73.143 Registration certificate required for registered limited liability partnership engaged in practice of law.
+
+<p>Before any registered limited liability partnership may engage in the practice of law in this Commonwealth, it shall first obtain and maintain a registration certificate required for that registered limited liability partnership by Chapter 39 (§ <a href='http://law.lis.virginia.gov/vacode/54.1-3900/'>54.1-3900</a> et seq.) of Title 54.1.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0292'>292</a>.</p>

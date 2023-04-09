@@ -1,0 +1,3 @@
+# § 64.2-791 Uniformity of application and construction.
+
+<p>This article shall be applied and construed to effectuate its general purpose to make uniform the law with respect to the subject of this article among the states enacting it.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0772'>772</a>, § 26-45.14; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

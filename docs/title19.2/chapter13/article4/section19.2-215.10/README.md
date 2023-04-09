@@ -1,0 +1,3 @@
+# § 19.2-215.10 Participation by Office of Attorney General; assistance of special counsel permitted in certain prosecutions.
+
+<p>Upon request by the applicants or upon motion to the presiding judge by special counsel, the Office of Attorney General may participate as special counsel in the multi-jurisdiction grand jury proceedings and any prosecutions arising therefrom. In any prosecution arising out of the multi-jurisdiction grand jury, the attorney for the Commonwealth may also obtain the assistance of the special counsel to the grand jury as a special assistant attorney for the Commonwealth.</p><p>1983, c. 543.</p>

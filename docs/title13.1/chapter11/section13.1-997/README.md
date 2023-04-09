@@ -1,0 +1,3 @@
+# § 13.1-997 Books and records.
+
+<p>A corporation shall keep, in addition to the books and records required by § <a href='http://law.lis.virginia.gov/vacode/13.1-770/'>13.1-770</a>, a record showing the names and addresses of all members of the corporation and the current status of loans made by each to the corporation. Members shall have the same rights with respect to such books and records as are given to shareholders by § <a href='http://law.lis.virginia.gov/vacode/13.1-770/'>13.1-770</a>.</p><p>Code 1950, § 13.1-154; 1960, c. 80; 1985, c. 522.</p>

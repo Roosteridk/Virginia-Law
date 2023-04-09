@@ -1,0 +1,3 @@
+# § 58.1-2258 Use of name and account number on return.
+
+<p>When a transaction with a person licensed under this article is required to be reported on a return, the return shall state the licensee's name and account number as stated on the lists compiled by the Commissioner under § <a href='http://law.lis.virginia.gov/vacode/58.1-2216/'>58.1-2216</a>.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0729'>729</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0758'>758</a>.</p>

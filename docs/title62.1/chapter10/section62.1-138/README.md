@@ -1,0 +1,3 @@
+# § 62.1-138 Powers of State Corporation Commission not affected.
+
+<p>Nothing contained in this chapter shall be construed as affecting the powers and duties now conferred by law upon the State Corporation Commission.</p><p>Code 1950, § 62-106.9; 1952, c. 61; 1968, c. 659.</p>

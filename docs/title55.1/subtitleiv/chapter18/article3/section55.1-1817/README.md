@@ -1,0 +1,3 @@
+# § 55.1-1817 Distribution of information by members.
+
+<p>The board of directors shall establish a reasonable, effective, and free method, appropriate to the size and nature of the association, for lot owners to communicate among themselves and with the board of directors regarding any matter concerning the association.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0715'>715</a>, § 55-510.2; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

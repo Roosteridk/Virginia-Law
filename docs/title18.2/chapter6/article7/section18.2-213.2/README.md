@@ -1,0 +1,3 @@
+# § 18.2-213.2 Filing false lien or encumbrance against another.
+
+<p>Any person who maliciously files a lien or encumbrance in a public record against the real or personal property of another knowing that such lien or encumbrance is false is guilty of a Class 5 felony. The court in its conviction order or in a separate order, shall direct the clerk of any jurisdiction in which a false lien or encumbrance has been filed to release from record such lien or encumbrance specifically described in the conviction order or separate order, including any notice or memorandum of lien. Such lien or encumbrance shall be deemed invalid and shall be treated as if it was never filed.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0454'>454</a>.</p>

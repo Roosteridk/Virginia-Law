@@ -1,0 +1,3 @@
+# § 3.2-2314 Falsification of records; misdemeanor.
+
+<p>It is a Class 1 misdemeanor:</p><p>1. For any handler knowingly to report falsely to the Tax Commissioner the quantity of soybeans handled by him during any period.</p><p>2. For any handler to falsify the records of the soybeans handled by him.</p><p>3. For any handler to fail to preserve the records of the soybeans handled by him for at least three years from the time such soybeans are handled.</p><p>1970, c. 431, § 3.1-684.19; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

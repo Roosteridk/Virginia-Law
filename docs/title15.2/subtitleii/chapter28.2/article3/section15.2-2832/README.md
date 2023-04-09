@@ -1,0 +1,3 @@
+# § 15.2-2832 Regulation of smoking; posting of signs.
+
+<p>Any person who owns, manages, or otherwise controls any building or area in which smoking is regulated by an ordinance shall post in an appropriate place, in a clear, conspicuous, and sufficient manner, "Smoking Permitted" signs, "No Smoking" signs, or "No-Smoking Section Available" signs.</p><p>2009, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0153'>153</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0154'>154</a>.</p>

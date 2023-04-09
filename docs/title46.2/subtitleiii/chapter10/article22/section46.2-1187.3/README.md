@@ -1,0 +1,3 @@
+# § 46.2-1187.3 Vehicles used for investigations.
+
+<p>Motor vehicles owned by the Commonwealth and used solely for investigations pursuant to this article may be issued the same license plates as those issued for vehicles owned by private citizens. The Executive Director shall certify under oath to the Commissioner of the Department of Motor Vehicles the vehicles to be used solely for such investigations.</p><p>1991, c. 531.</p>

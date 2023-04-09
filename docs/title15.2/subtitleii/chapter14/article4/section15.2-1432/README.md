@@ -1,0 +1,3 @@
+# § 15.2-1432 Injunctive relief against continuing violation of ordinance.
+
+<p>A court of competent jurisdiction, in addition to the penalty imposed for the violation of any ordinance, may enjoin the continuing violation thereof by proceedings for an injunction brought in any court for the county or municipal corporation having jurisdiction to grant injunctive relief.</p><p>Code 1950, § 15-77.68; 1958, c. 328; 1962, c. 623, § 15.1-905; 1997, c. 587.</p>

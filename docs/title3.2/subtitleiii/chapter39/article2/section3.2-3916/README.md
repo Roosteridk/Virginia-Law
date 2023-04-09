@@ -1,0 +1,3 @@
+# § 3.2-3916 Products registered as single pesticide.
+
+<p>Products that: (i) have the same formula; (ii) are manufactured by the same person; (iii) include labelings with the same claims; and (iv) bear designations identifying the products as the same pesticide may be registered as a single pesticide without an additional fee.</p><p>Code 1950, § 3-208.22; 1960, c. 535; 1966, c. 702, § 3.1-224; 1981, c. 260; 1989, c. 575, § 3.1-249.37; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

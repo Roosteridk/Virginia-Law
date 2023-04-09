@@ -1,0 +1,3 @@
+# § 2.2-1824 Petty cash, payroll and other funds.
+
+<p>A reasonable petty cash, payroll or other imprest fund may be allowed each state department, institution, board, commission or other agency. The amount of such fund shall be fixed by the Comptroller in each case, but these funds shall be reimbursed only upon vouchers audited by the Comptroller.</p><p>Code 1950, § 2-204; 1966, c. 677, § 2.1-229; 1972, c. 240; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

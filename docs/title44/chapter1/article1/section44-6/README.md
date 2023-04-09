@@ -1,0 +1,3 @@
+# § 44-6 Maintenance of other troops.
+
+<p>In time of peace the Commonwealth shall maintain only such troops as may be authorized by the President of the United States; but nothing in this chapter shall be construed as limiting the rights of the Commonwealth in the use of the Virginia National Guard or Virginia Defense Force within or without its borders in time of peace and nothing contained in this chapter shall prevent the organization and maintenance of State Police or constabulary.</p><p>1930, p. 949; Michie Code 1942, § 2673(6); 1958, c. 393; 1984, c. 765; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0572'>572</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0586'>586</a>.</p>

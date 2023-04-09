@@ -1,0 +1,3 @@
+# § 19.2-364 Petition for relief; in what court filed; notice to attorney for Commonwealth.
+
+<p>Such person or his personal representative, as the case may be, shall file a petition in the clerk's office of the circuit court of the county or city wherein such fine or penalty was imposed, or such liability established, at least fifteen days before the term of the court at which the same is to be heard, and shall set forth the grounds upon which relief is asked. Ten days' notice thereof in writing shall be given to the attorney for the Commonwealth of the county or city.</p><p>Code 1950, § 19.1-353; 1960, c. 366; 1975, c. 495.</p>

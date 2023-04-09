@@ -1,0 +1,3 @@
+# § 40.1-67 Injunctive relief against violation; recovery of damages.
+
+<p>Any employer, person, firm, association, corporation, labor union or organization injured as a result of any violation or threatened violation of any provision of this article or threatened with any such violation shall be entitled to injunctive relief against any and all violators or persons threatening violation, and also to recover from such violator or violators, or person or persons, any and all damages of any character cognizable at common law resulting from such violations or threatened violations. Such remedies shall be independent of and in addition to the penalties and remedies prescribed in other provisions of this article.</p><p>Code 1950, § 40-74.3; 1954, c. 431; 1970, c. 321.</p>

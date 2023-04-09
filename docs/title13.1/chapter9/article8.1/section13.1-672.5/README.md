@@ -1,0 +1,3 @@
+# § 13.1-672.5 Payment of and security for expenses.
+
+<p>On termination of a derivative proceeding, the court may:</p><p>1. Order the corporation to pay the plaintiff's expenses incurred in the proceeding if it finds that the proceeding has resulted in a substantial benefit to the corporation; or</p><p>2. Order the plaintiff or the plaintiff's attorney to pay the corporation's or any defendant's expenses incurred in defending the proceeding if it finds that the proceeding was commenced or maintained arbitrarily, vexatiously, or not in good faith.</p><p>1992, c. 802; 1993, c. 233; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0734'>734</a>.</p>

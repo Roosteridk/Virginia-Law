@@ -1,0 +1,3 @@
+# § 21-293 Drainage considered essential.
+
+<p>It is hereby declared that the drainage of the surface water from wet agricultural lands is essential for the successful cultivation of such lands and the prosperity of the community, and the reclamation of overflowed swamps and tidal marshes shall be considered a public benefit and conducive to the public health, convenience, utility and welfare.</p><p>Code 1919, § 1737; 1926, p. 604.</p>

@@ -1,0 +1,3 @@
+# § 15.2-728 Title insurance for county real estate.
+
+<p>Notwithstanding any other provision of law, whenever any county purchases real estate for which the consideration paid exceeds $1,000, the county, in lieu of having the title examined and approved by an attorney-at-law, may purchase an insurance policy which insures the county's interest in the title to the property from a company which is authorized to issue such policies in the Commonwealth. Evidence of such insurance shall be filed with the clerk for the circuit court of the county along with the recorded deed or other papers by which the title is conveyed.</p><p>1983, c. 364, § 15.1-687.6; 1997, c. 587.</p>

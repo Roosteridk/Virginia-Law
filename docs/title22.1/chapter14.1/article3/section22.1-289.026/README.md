@@ -1,0 +1,3 @@
+# § 22.1-289.026 Injunction against operation without license.
+
+<p>Any circuit court having jurisdiction in the county or city where the principal office of any child day program or family day system is located shall, at the suit of the Superintendent, have jurisdiction to enjoin its operation without a license required by this chapter.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0860'>860</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0861'>861</a>.</p>

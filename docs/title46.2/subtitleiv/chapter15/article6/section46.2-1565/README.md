@@ -1,0 +1,3 @@
+# § 46.2-1565 When plates to expire; refunds or credit.
+
+<p>Temporary license plates shall expire on the receipt of the permanent license plates from the Department, or on the rescission of a contract to purchase a motor vehicle, or on the expiration of thirty days from the date of issuance, whichever occurs first. No refund or credit of fees paid by dealers to the Department for temporary license plates shall be allowed, except that when the Department discontinues the right of a dealer to issue temporary license plates, the dealer, on returning temporary license plates to the Department, may receive a refund or a credit for them.</p><p>1988, c. 865, § 46.1-550.5:23; 1989, c. 727.</p>

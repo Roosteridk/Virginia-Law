@@ -1,0 +1,3 @@
+# § 10.1-614 Establishment within soil and water conservation district authorized.
+
+<p>Whenever it is found that soil and water conservation or water management within a soil and water conservation district or districts will be promoted by the construction of improvements to check erosion, provide drainage, collect sediment or stabilize the runoff of surface water, a small watershed improvement district may be established within such soil and water conservation district or districts in accordance with the provisions of this article.</p><p>1956, c. 668, § 21-112.1; 1964, c. 512; 1973, c. 35; 1977, c. 40; 1988, c. 891.</p>

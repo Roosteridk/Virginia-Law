@@ -1,0 +1,3 @@
+# § 23.1-813 Officers and members to comply with requirements of Department of Criminal Justice Services.
+
+<p>All individuals appointed and employed as campus police officers or members of an auxiliary police force pursuant to this article shall comply with the requirements for law-enforcement officers as established by the Department of Criminal Justice Services pursuant to Chapter 1 (§ <a href='http://law.lis.virginia.gov/vacode/9.1-100/'>9.1-100</a> et seq.) of Title 9.1.</p><p>1977, c. 79, § 23-235; 1984, c. 779; 1991, c. 711; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

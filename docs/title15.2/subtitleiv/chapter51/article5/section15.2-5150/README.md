@@ -1,0 +1,3 @@
+# § 15.2-5150 Creating or joining more than one authority.
+
+<p>No governing body that is a member of an authority, shall create or join with any other governing body in the creation of another authority or join another authority if the latter authority would duplicate the services being performed in any part of the areas being served by the authority of which the governing body is a member.</p><p>Code 1950, § 15-764.13; 1950, p. 1321; 1958, c. 402; 1962, c. 623, § 15.1-1251; 1968, c. 355; 1997, c. 587.</p>

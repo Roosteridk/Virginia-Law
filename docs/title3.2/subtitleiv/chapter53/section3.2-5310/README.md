@@ -1,0 +1,3 @@
+# § 3.2-5310 Right of entry.
+
+<p>The Commissioner may enter during normal business hours on or into any premises or any vehicle wherein eggs are bought, stored, sold, offered for sale, processed, or transported, or wherein the Commissioner has reason to believe that any such activity is carried on, in order to inspect and examine eggs, egg containers, any equipment, facilities or records pertinent to the conduct of activities subject to this chapter or regulations implementing the same, or to ascertain the state of compliance with any order issued by the Department pursuant to this chapter.</p><p>1968, c. 142, § 3.1-769.3; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

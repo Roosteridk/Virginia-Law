@@ -1,0 +1,3 @@
+# § 58.1-1709 Penalty.
+
+<p>A penalty of $100 plus an amount equal to the taxes due, including all delinquent taxes due under this article, and the amount that the Department of Taxation has expended in collecting these delinquent taxes, shall be added to the tax levied in § <a href='/vacode/58.1-1707/'>58.1-1707</a> for failure to pay the tax within the time limits established by regulations.</p><p>Code 1950, § 10-201.1; 1976, c. 757; 1977, c. 616; 1981, c. 173; 1984, c. 675; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0006'>6</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0468'>468</a>.</p>

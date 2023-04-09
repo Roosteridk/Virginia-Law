@@ -1,0 +1,3 @@
+# § 44-138 Maintenance funds.
+
+<p>In order that there shall be provided maintenance funds for armories and other buildings erected, and areas provided for drill and training and other military purposes under the provisions of this chapter, the Adjutant General is authorized to draw a voucher for such funds, to be paid from any appropriation provided.</p><p>1932, p. 761; Michie Code 1942, § 2673(120); R. P. 1948, § 44-138.</p>

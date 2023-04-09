@@ -1,0 +1,3 @@
+# § 16.1-278.12 When judicial consent in lieu of parental consent authorized.
+
+<p>In cases involving judicial consent to the matters set out in subsections C and D of § <a href='http://law.lis.virginia.gov/vacode/16.1-241/'>16.1-241</a>, the juvenile court or the circuit court providing consent may also make any appropriate order to protect the health and welfare of the child.</p><p>1991, c. 534.</p>

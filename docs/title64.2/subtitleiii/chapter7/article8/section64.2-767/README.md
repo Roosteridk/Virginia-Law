@@ -1,0 +1,3 @@
+# § 64.2-767 Costs of administration.
+
+<p>In administering a trust, the trustee may incur only costs that are reasonable in relation to the trust property, the purposes of the trust, and the skills of the trustee.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-548.05; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

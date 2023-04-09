@@ -1,0 +1,3 @@
+# § 8.4-404 Bank not obligated to pay check more than six months old.
+
+<p>A bank is under no obligation to a customer having a checking account to pay a check, other than a certified check, which is presented more than six months after its date, but it may charge its customer's account for a payment made thereafter in good faith.</p><p>Code 1950, § 6-72; 1964, c. 219.</p>

@@ -1,0 +1,3 @@
+# § 38.2-3320.1 Policies issued outside of the Commonwealth of Virginia.
+
+<p>A group life insurance policy issued outside of this Commonwealth, providing coverage to residents of this Commonwealth, that does not qualify under § <a href='http://law.lis.virginia.gov/vacode/38.2-3318.1/'>38.2-3318.1</a> or does not comply with § <a href='http://law.lis.virginia.gov/vacode/38.2-3319.1/'>38.2-3319.1</a> shall be subject to the statutory requirements of this title and may subject the insurer issuing such policy to the penalties available under this title for violation of such requirements.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0154'>154</a>.</p>

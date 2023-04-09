@@ -1,0 +1,3 @@
+# § 19.2-253 Procedure upon and after change of venue.
+
+<p>The clerk of the court which orders a change of venue shall certify copies of the recognizances aforesaid and of the record of the case to the clerk of the court to which the case is removed, who shall thereupon issue a venire facias, directed to the officer of such court; and such court shall proceed with the case as if the prosecution had been originally therein; and for that purpose the certified copies aforesaid shall be sufficient.</p><p>Code 1950, § 19.1-226; 1960, c. 366; 1975, c. 495.</p>

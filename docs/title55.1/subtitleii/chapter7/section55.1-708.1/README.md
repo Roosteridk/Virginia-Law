@@ -1,0 +1,3 @@
+# § 55.1-708.1 Required disclosures; stormwater management facilities.
+
+<p>An owner of residential real property who has actual knowledge of a privately owned stormwater management facility located on such property shall disclose to the purchaser the long-term maintenance and inspection requirements for the facility. Such disclosure shall be provided to the purchaser in accordance with this chapter and on a form provided by the Real Estate Board on its website.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0313'>313</a>.</p>

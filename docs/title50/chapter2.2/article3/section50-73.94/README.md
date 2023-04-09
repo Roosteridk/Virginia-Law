@@ -1,0 +1,3 @@
+# § 50-73.94 Statement of denial.
+
+<p>A partner or other person named as a partner in a filed statement of partnership authority or in a list maintained by an agent pursuant to subsection B of § <a href='http://law.lis.virginia.gov/vacode/50-73.93/'>50-73.93</a> may file a statement of denial stating the name of the partnership and the fact that is being denied, which may include denial of a person's authority or status as a partner. A statement of denial is a limitation on authority as provided in subsections D and E of § <a href='http://law.lis.virginia.gov/vacode/50-73.93/'>50-73.93</a>.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0292'>292</a>.</p>

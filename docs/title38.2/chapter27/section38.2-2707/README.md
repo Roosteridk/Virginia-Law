@@ -1,0 +1,3 @@
+# § 38.2-2707 When Commission may order implementation of §§ 38.2-2708 and 38.2-2709.
+
+<p>If the Commission finds, after a reasonable period of time, that the residual market facility established by § <a href='http://law.lis.virginia.gov/vacode/38.2-2702/'>38.2-2702</a> is not creating a market that meets the purposes of this chapter, the Commission may order the implementation of §§ <a href='http://law.lis.virginia.gov/vacode/38.2-2708/'>38.2-2708</a> and <a href='http://law.lis.virginia.gov/vacode/38.2-2709/'>38.2-2709</a>.</p><p>1968, c. 559, § 38.1-749; 1973, c. 451; 1986, c. 562.</p>

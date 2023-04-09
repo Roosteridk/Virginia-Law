@@ -1,0 +1,3 @@
+# § 38.2-3452 Waiting periods.
+
+<p>Notwithstanding any provision of § <a href='http://law.lis.virginia.gov/vacode/38.2-3436/'>38.2-3436</a>, <a href='http://law.lis.virginia.gov/vacode/38.2-4216.1/'>38.2-4216.1</a>, or any other section of this title to the contrary, a health carrier offering a health benefit plan providing group health insurance coverage shall not apply any waiting period that exceeds 90 days.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0751'>751</a>.</p>

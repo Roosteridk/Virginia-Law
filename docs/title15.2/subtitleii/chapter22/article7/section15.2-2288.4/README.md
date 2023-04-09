@@ -1,0 +1,3 @@
+# § 15.2-2288.4 Extension of expiration dates for special use permits.
+
+<p>Notwithstanding any other provision of law, any special use permit that was valid and outstanding as of January 1, 2009, is extended to July 1, 2011, regardless of whether such expiration or schedule exists by operation of statute, proffer, permit, local ordinance, or local custom. Nothing in this section shall impair the ability of any person to apply for additional extensions of time beyond the period specified in this section where permitted by other law.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0636'>636</a>.</p>

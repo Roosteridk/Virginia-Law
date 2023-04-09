@@ -1,0 +1,3 @@
+# § 63.2-1217 Provision of false information; penalty.
+
+<p>Any person who knowingly and intentionally provides false information in writing and under oath, which is material to an adoptive placement shall be guilty of a Class 6 felony. The Commissioner is authorized to investigate such cases and may refer the case to the attorney for the Commonwealth for prosecution.</p><p>1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0772'>772</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0826'>826</a>, § 63.1-220.6; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0830'>830</a>, § 63.1-219.24; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

@@ -1,0 +1,3 @@
+# § 58.1-926 Record of proceedings, agreement, etc., to be filed with taxing authorities.
+
+<p>The Tax Commissioner, the board or the executor or administrator of such decedent shall file the determination of the board as to domicile, the record of the board's proceedings, and the agreement or a duplicate, made pursuant to § <a href='http://law.lis.virginia.gov/vacode/58.1-923/'>58.1-923</a>, with the authority having jurisdiction to assess or determine the death taxes in the state determined by the board to be the domicile of the decedent and shall file copies of such documents with the authorities that would have been empowered to assess or determine the death taxes in each of the other states involved.</p><p>Code 1950, § 58-238.32; 1978, c. 838; 1984, c. 675.</p>

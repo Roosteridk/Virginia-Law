@@ -1,0 +1,3 @@
+# § 8.01-384.2 Waiver of discovery time limitations by parties.
+
+<p>Parties involved in any civil litigation may, without court order and upon agreement of all of them or their counsel, waive any time limitations established by the Rules of the Virginia Supreme Court relating to any response to a motion or request for discovery or the scheduling of any discovery proceedings. The court shall allow any such waiver unless an order establishing discovery or filing deadlines has been entered previously by the court in the action.</p><p>1991, c. 75.</p>

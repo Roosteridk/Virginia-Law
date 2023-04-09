@@ -1,0 +1,3 @@
+# § 3.2-5807 Expiration of licenses; applications for renewal.
+
+<p>Each license as licensed public weighmaster shall be issued to expire on December 31 of the calendar year for which it is issued. Any such license shall be valid through January 31 of the next ensuing calendar year or until issuance of the renewal license, whichever event first occurs, if the holder thereof shall have filed a renewal application with the Commissioner on or before December 15 of the year for which the current license was issued. Renewal applications shall be in such form as the Commissioner shall prescribe.</p><p>Code 1950, § 3-709.8; 1962, c. 126; 1966, c. 702, § 3.1-977; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

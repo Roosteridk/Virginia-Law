@@ -1,0 +1,3 @@
+# § 59.1-207.14 Action to enforce provisions of chapter.
+
+<p>Any consumer who suffers loss by reason of a violation of any provision of this chapter may bring a civil action to enforce such provision. Any consumer who is successful in such an action or any defendant in any frivolous action brought by a consumer shall recover reasonable attorney's fees, expert witness fees and court costs incurred by bringing such actions.</p><p>1984, c. 773; 1988, c. 603.</p>

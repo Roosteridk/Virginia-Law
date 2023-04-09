@@ -1,0 +1,3 @@
+# § 33.2-406 Selecting Virginia byways.
+
+<p>In selecting a Virginia byway, the Board and the Director of the Department of Conservation and Recreation shall give preference to corridors controlled by zoning or otherwise, so as to reasonably protect the aesthetic or cultural value of the highway.</p><p>Code 1950, § 33-43.2; 1966, c. 11; 1970, c. 322, § 33.1-63; 1984, c. 739; 1989, c. 656; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,0 +1,3 @@
+# § 49-16 Allowance of expense of procuring corporate surety.
+
+<p>Any court, judge or other officer whose duty it is to pass upon the account of any person or corporation required to execute a bond with surety or sureties, as hereinbefore provided, shall, whenever any such person or corporation has given any such surety company as surety upon such bond, allow in the settlement of such account a reasonable sum for the expense of securing such surety; but this allowance shall not be made to any state, county, or municipal officer.</p><p>Code 1919, § 283.</p>

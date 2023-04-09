@@ -1,0 +1,3 @@
+# § 46.2-1103 Greater size, weight, and load limits permitted by interstate commerce regulations.
+
+<p>If a federal regulation of interstate commerce permits the use in interstate commerce over the highways of Virginia or any of them, of a greater size, weight, or load limit than prescribed in this title, the Board shall prescribe a similar size, weight, and load limit for vehicles in intrastate commerce operated over the same highways.</p><p>1958, c. 541, § 46.1-344; 1989, c. 727.</p>

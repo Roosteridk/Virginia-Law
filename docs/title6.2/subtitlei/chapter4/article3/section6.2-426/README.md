@@ -1,0 +1,3 @@
+# § 6.2-426 When request, consent, or use not condition precedent to liability.
+
+<p>The request, consent, or use required in § <a href='http://law.lis.virginia.gov/vacode/6.2-425/'>6.2-425</a> as a condition precedent to liability shall not be necessary in any instance:</p><p>1. Of a credit card that is a renewal of a credit card previously held and used by the cardholder or his authorized agent within 12 months of the renewal date; or</p><p>2. Where the card is issued to a customer who has previously established credit with the issuer and has used such credit within 12 months prior to the issuance of the card.</p><p>1970, c. 324, § 11-32; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

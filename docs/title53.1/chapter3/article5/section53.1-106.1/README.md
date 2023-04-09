@@ -1,0 +1,3 @@
+# § 53.1-106.1 Location of jail facilities.
+
+<p>No regional jail or jail farm board or authority created by any combination of two or more counties or cities, whether pursuant to this article or Article 3.1 (§ <a href='http://law.lis.virginia.gov/vacode/53.1-95.2/'>53.1-95.2</a> et seq.) of this chapter, or an Act of Assembly, shall locate a jail or jail farm in a political subdivision which is not a participating political subdivision in the board or authority unless the governing body of the nonparticipating political subdivision grants express consent to such location.</p><p>1991, c. 593.</p>

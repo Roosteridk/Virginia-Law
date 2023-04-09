@@ -1,0 +1,3 @@
+# § 15.2-2252 Filing and recording of ordinance and amendments thereto.
+
+<p>When a subdivision ordinance has been adopted, or amended, a certified copy of the ordinance and any and all amendments thereto shall be filed in the office of an official of the locality, designated in the ordinance, and in the clerk's office of the circuit court for each locality in which the ordinance is applicable.</p><p>Code 1950, §§ 15-783, 15-967.6; 1962, c. 407, § 15.1-471; 1975, c. 641; 1997, c. 587.</p>

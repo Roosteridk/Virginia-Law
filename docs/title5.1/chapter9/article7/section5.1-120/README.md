@@ -1,0 +1,3 @@
+# § 5.1-120 Effect of failure to give security.
+
+<p>Failure of any holder of a certificate or permit issued by and under the authority of the Commission to comply with any of the requirements of §§ <a href='http://law.lis.virginia.gov/vacode/5.1-116/'>5.1-116</a>, <a href='http://law.lis.virginia.gov/vacode/5.1-117/'>5.1-117</a> or <a href='http://law.lis.virginia.gov/vacode/5.1-118/'>5.1-118</a> shall be cause without further proceedings for the revocation or suspension of the certificate or permit, and upon further proceedings for the imposition of a fine not exceeding $1,000.</p><p>Code 1950, § 56-174; 1970, c. 708.</p>

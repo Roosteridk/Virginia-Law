@@ -1,0 +1,3 @@
+# § 62.1-147.1:1 Exemption of Authority from certain technology procedures.
+
+<p>The provisions regulating the Virginia Information Technologies Agency (§ <a href='http://law.lis.virginia.gov/vacode/2.2-2005/'>2.2-2005</a> et seq.) shall not apply to the Authority in the exercise of any power conferred under this chapter.</p><p>2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0762'>762</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0794'>794</a>.</p>

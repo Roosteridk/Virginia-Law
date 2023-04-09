@@ -1,0 +1,3 @@
+# § 2.2-220.4 National Flood Insurance Program; annual report.
+
+<p>The Secretary shall report participation by affected localities in the Community Rating System (CRS) of the National Flood Insurance Program (42 U.S.C. § 4001 et seq.) to the Governor and the General Assembly no later than November 1, 2018. The report shall list any affected locality that does not participate in the CRS, determine the costs and benefits to localities of participation in the CRS, and recommend any legislation necessary to encourage participation.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0274'>274</a>.</p>

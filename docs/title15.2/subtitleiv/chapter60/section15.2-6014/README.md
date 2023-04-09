@@ -1,0 +1,3 @@
+# § 15.2-6014 Inconsistent laws inapplicable.
+
+<p>All other general or special laws inconsistent with any provision of this chapter are hereby declared to be inapplicable to the provisions of this chapter.</p><p>1988, c. 833, § 15.1-1649; 1997, c. 587.</p>

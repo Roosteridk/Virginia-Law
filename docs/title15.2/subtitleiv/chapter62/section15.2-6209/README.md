@@ -1,0 +1,3 @@
+# § 15.2-6209 Capitalization of Authority.
+
+<p>On or before January 1, 1994, and on or before the first day of each year thereafter, each county and town that is a member of the Authority may remit to the Authority an amount it deems appropriate for Authority purposes.</p><p>1993, c. 982, § 15.1-1670; 1997, c. 587; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0671'>671</a>; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0861'>861</a>.</p>

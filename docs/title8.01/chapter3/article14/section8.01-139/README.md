@@ -1,0 +1,3 @@
+# § 8.01-139 What proof by plaintiff is sufficient.
+
+<p>The consent rule, formerly used, remains abolished. The plaintiff need not prove an actual entry on, or possession of, the premises demanded, or receipt of any profits thereof, or any lease, entry, or ouster, except as hereinafter provided. But it shall be sufficient for him to show a right to the possession of the premises at the time of the commencement of the suit.</p><p>Code 1950, § 8-809; 1977, c. 617.</p>

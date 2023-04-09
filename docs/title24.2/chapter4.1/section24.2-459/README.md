@@ -1,0 +1,3 @@
+# § 24.2-459 Timeliness and scope of application for military-overseas ballot.
+
+<p>An application for a military-overseas ballot is timely if received by the seventh day before the election or the last day for other voters in this state to apply for an absentee ballot for that election. An application for a military-overseas ballot for a primary election, whether or not timely, is effective as an application for a military-overseas ballot for the general election.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0353'>353</a>.</p>

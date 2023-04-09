@@ -1,0 +1,3 @@
+# § 46.2-210 List of registrations and titles.
+
+<p>The Commissioner shall have prepared a list of registrations and titles and furnish it to the commissioner of the revenue of each county and city without cost. The Commissioner shall not make such list available to the public, nor shall any commissioner of the revenue make such list available to any third party.</p><p>Code 1950, § 46-33; 1958, c. 541, § 46.1-32; 1989, c. 727; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0959'>959</a>.</p>

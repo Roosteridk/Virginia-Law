@@ -1,0 +1,3 @@
+# § 38.2-4100 Fraternal benefit societies.
+
+<p>Any society, order or supreme lodge without capital stock, including one exempted under the provisions of subdivision 6 of subsection A of § <a href='http://law.lis.virginia.gov/vacode/38.2-4135/'>38.2-4135</a> of this chapter, conducted solely for the benefit of its members and their beneficiaries and not for profit, operated on a lodge system with ritualistic form of work, having a representative form of government, and providing benefits in accordance with this chapter, is hereby declared to be a fraternal benefit society.</p><p>Code 1950, §§ 38-254, 38.1-569; 1952, c. 317, § 38.1-638.1; 1968, c. 654; 1986, c. 562.</p>

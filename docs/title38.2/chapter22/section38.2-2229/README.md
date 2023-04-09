@@ -1,0 +1,3 @@
+# § 38.2-2229 Claims-made liability insurance.
+
+<p>Pursuant to the authority granted in § <a href='http://law.lis.virginia.gov/vacode/38.2-223/'>38.2-223</a>, the Commission may issue regulations regarding claims-made liability insurance policies. These regulations may include, but are not limited to, (i) the pricing of extended reporting period coverage, (ii) provisions for installment payment of premiums for such coverage, and (iii) the providing of such coverage in the event of the death, disability, or retirement of the insured.</p><p>1990, c. 241.</p>

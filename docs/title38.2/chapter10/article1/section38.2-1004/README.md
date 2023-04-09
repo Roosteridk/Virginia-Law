@@ -1,0 +1,3 @@
+# § 38.2-1004 Voting.
+
+<p>Each member of a domestic mutual insurer shall have one vote, or a number of votes based upon the insurance in force, the number of policies held, or the amount of premiums paid, as provided in the bylaws of the insurer.</p><p>Code 1950, § 38-507; 1952, c. 317, § 38.1-77; 1986, c. 562.</p>

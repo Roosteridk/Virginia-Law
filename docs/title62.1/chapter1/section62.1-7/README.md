@@ -1,0 +1,3 @@
+# § 62.1-7 Rights of improving navigation preserved; dams, etc.
+
+<p>Whatever power is reserved to the General Assembly by any act heretofore passed to abate or remove any dam or other works in a watercourse, or to improve its navigation, shall continue in full force. And in no case shall the right of the Commonwealth, or of any company incorporated for opening, improving, or extending the navigation of any watercourse, to preference in the use of the water flowing therein for the purposes of such navigation be affected by any order of court, which, since the first day of April, 1816, has been made, or hereafter may be made, granting leave to any person to erect a dam or other obstruction across or in such watercourse.</p><p>Code 1950, § 62-5; 1968, c. 659.</p>

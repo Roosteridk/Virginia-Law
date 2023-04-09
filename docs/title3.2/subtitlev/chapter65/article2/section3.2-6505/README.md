@@ -1,0 +1,3 @@
+# § 3.2-6505 Disposal of animals by means of decompression chamber and use of gas chamber for companion animals prohibited.
+
+<p>A. No animal shall be euthanized pursuant to the provisions of this chapter by means of a high altitude decompression chamber.</p><p>B. No companion animal shall be euthanized pursuant to the provisions of this chapter by means of a gas chamber.</p><p>1984, c. 492, § 29-213.47; 1987, c. 488, § 3.1-796.77; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0008'>8</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

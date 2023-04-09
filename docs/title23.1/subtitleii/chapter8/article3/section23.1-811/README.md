@@ -1,0 +1,3 @@
+# § 23.1-811 Establishment of auxiliary police forces.
+
+<p>The governing board of each public institution of higher education and private institution of higher education, for the further preservation of public peace, safety, and good order of the campus community, may establish, equip, and maintain an auxiliary police force. When called into service pursuant to procedures established by the governing board, members of such auxiliary police forces have all the powers, authority, and immunities of campus police officers at public institutions of higher education.</p><p>1991, c. 711, § 23-233.1; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

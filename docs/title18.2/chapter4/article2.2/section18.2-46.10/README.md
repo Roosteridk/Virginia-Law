@@ -1,0 +1,3 @@
+# § 18.2-46.10 Violation of sections within article separate and distinct offenses.
+
+<p>A violation of any section in this article shall constitute a separate and distinct offense. If the acts or activities violating any section within this article also violate another provision of law, a prosecution under any section in this article shall not prohibit or bar any prosecution or proceeding under such other provision or the imposition of any penalties provided for thereby.</p><p>2002, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0588'>588</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0623'>623</a>.</p>

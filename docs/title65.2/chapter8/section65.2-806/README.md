@@ -1,0 +1,3 @@
+# § 65.2-806 Criminal penalties.
+
+<p>In addition to the civil penalties assessed pursuant to § <a href='http://law.lis.virginia.gov/vacode/65.2-805/'>65.2-805</a>, any employer who knowingly and intentionally fails to comply with the provisions of § <a href='http://law.lis.virginia.gov/vacode/65.2-800/'>65.2-800</a> or <a href='http://law.lis.virginia.gov/vacode/65.2-804/'>65.2-804</a> is guilty of a Class 2 misdemeanor.</p><p>Venue for the prosecution hereof when there is an injury shall lie in the county or city wherein the injury occurred.</p><p>1977, c. 434, § 65.1-106.1; 1991, c. 355; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0069'>69</a>.</p>

@@ -1,0 +1,3 @@
+# § 58.1-215 Charge for sale of publications.
+
+<p>The Tax Commissioner is authorized to impose a charge for the sale of reprints of this title, or portions thereof, for copies of rules and regulations promulgated by the Tax Commissioner and for other publications of the Department. Receipts from such sales shall be credited to the Department for reimbursement of printing expenses. No charge shall be made for state tax forms or instructions.</p><p>Code 1950, §§ 58-31, 58-441.44; 1966, c. 151; 1972, c. 291; 1973, c. 281; 1984, c. 675.</p>

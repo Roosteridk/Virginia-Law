@@ -1,0 +1,3 @@
+# § 53.1-133.01 Medical treatment for prisoners.
+
+<p>Any sheriff or superintendent may establish a medical treatment program for prisoners in which prisoners participate and pay towards a portion of the costs thereof. The State Board of Local and Regional Jails shall develop a model plan and promulgate regulations for such program, and shall provide assistance, if requested, to the sheriff or superintendent in the implementation of a program.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0694'>694</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0759'>759</a>.</p>

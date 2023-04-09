@@ -1,0 +1,3 @@
+# § 38.2-4411 Subscriber to have free choice of participating providers available.
+
+<p>A legal services organization shall organize and operate a plan in a manner that assures that any subscriber to the plan shall have free choice of the participating providers available and participating in the plan.</p><p>1978, c. 658, § 38.1-800; 1986, c. 562; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0224'>224</a>.</p>

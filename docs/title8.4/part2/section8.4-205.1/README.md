@@ -1,0 +1,3 @@
+# § 8.4-205.1 Depositary bank holder of unendorsed item.
+
+<p>If a customer delivers an item to a depositary bank for collection:</p><p>(1) the depositary bank becomes a holder of the item at the time it receives the item for collection if the customer at the time of the delivery was a holder of the item, whether or not the customer endorses the item, and, if the bank satisfies the other requirements of § <a href='http://law.lis.virginia.gov/vacode/8.3A-302/'>8.3A-302</a>, it is a holder in due course; and</p><p>(2) the depositary bank warrants to collecting banks, the payor bank or other payor, and the drawer that the amount of the item was paid to the customer or deposited to the customer's account.</p><p>1992, c. 693.</p>

@@ -1,0 +1,3 @@
+# § 56-54.7 Service provided to the Commonwealth.
+
+<p>The Commission shall have no jurisdiction or authority over (i) schedules of rates for any telecommunications service provided to the public by virtue of any contract with, (ii) any service provided under or relating to a contract for telecommunications services with, or (iii) contracts for service rendered by any competitive telephone company to, the Commonwealth or any agency thereof.</p><p>2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0340'>340</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0376'>376</a>.</p>

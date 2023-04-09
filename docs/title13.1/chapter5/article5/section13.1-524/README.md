@@ -1,0 +1,3 @@
+# § 13.1-524 Certain records of Commission available to public; admissibility of copies; destruction.
+
+<p>The information contained in or filed with any registration statement, application or report shall be available to the public at the office of the Commission. Copies thereof certified by the clerk under the seal of the Commission shall be admissible in evidence in lieu of the originals, and the originals shall not be removed from the office of the Commission. But papers, documents and files may be destroyed by the Commission when, in its opinion, they no longer serve any useful purpose.</p><p>1956, c. 428.</p>

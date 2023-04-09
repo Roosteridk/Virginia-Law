@@ -1,0 +1,3 @@
+# § 9.1-189 Crisis intervention team protocol.
+
+<p>Each crisis intervention team shall develop a protocol that permits law-enforcement officers to release a person with mental illness, substance abuse problems, or both, whom they encounter in crisis situations from their custody when the crisis intervention team has determined the person is sufficiently stable and to refer him for emergency treatment services.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0715'>715</a>.</p>

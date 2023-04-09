@@ -1,0 +1,3 @@
+# § 54.1-2400.01 Certain definition.
+
+<p>As used in this subtitle, "laser surgery" means treatment through revision, destruction, incision or other structural alteration of human tissue using laser technology. Under this definition, the continued use of laser technology solely for nonsurgical purposes of examination and diagnosis shall be permitted for those professions whose licenses permit such use.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0569'>569</a>.</p>

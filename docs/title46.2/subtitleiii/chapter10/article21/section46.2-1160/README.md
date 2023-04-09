@@ -1,0 +1,3 @@
+# § 46.2-1160 Towed vehicle defined; exempt from inspection requirement.
+
+<p>For the purpose of this section a towed vehicle shall be any motor vehicle designed or altered and used exclusively for racing or other exhibition purposes at places other than the highways in the Commonwealth where such vehicle does not operate under its own power on the highways in the Commonwealth in going to or from such places. A towed vehicle as defined in this section shall be exempt from the requirements of § <a href='http://law.lis.virginia.gov/vacode/46.2-1157/'>46.2-1157</a>.</p><p>Code 1950, § 46-317.2; 1956, c. 128; 1958, c. 541, § 46.1-317; 1989, c. 727.</p>

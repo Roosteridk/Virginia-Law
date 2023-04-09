@@ -1,0 +1,3 @@
+# § 58.1-24 Fiduciary to be reimbursed out of estate.
+
+<p>When taxes or levies are paid by any fiduciary on any estate in his hands or for which he may be liable, such taxes and levies shall be refunded out of the estate.</p><p>Code 1950, § 58-873; 1984, c. 675.</p>

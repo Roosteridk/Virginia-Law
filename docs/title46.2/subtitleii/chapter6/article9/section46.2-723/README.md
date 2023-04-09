@@ -1,0 +1,3 @@
+# § 46.2-723 License plates for transporting mobile homes used as temporary offices at construction sites.
+
+<p>The Department shall issue to persons engaged in the business of transporting from one construction site to another mobile homes or house trailers used on those sites as temporary offices, license plates to be affixed to such mobile homes or house trailers while being transported. The plates shall not be issued or used to transport mobile homes or house trailers which exceed normally permissible load dimensions. The fee for each plate issued under this section shall be twenty-two dollars per year.</p><p>1986, c. 226, § 46.1-44.1; 1989, c. 727.</p>

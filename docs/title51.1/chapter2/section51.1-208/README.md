@@ -1,0 +1,3 @@
+# § 51.1-208 Post-retirement supplements.
+
+<p>In computing the amount of any post-retirement supplements, any additional allowances being paid under the provisions of subsection B of § <a href='http://law.lis.virginia.gov/vacode/51.1-206/'>51.1-206</a> shall be disregarded. Any recipient of an allowance which initially commenced on or prior to January 1, 1990, shall be entitled to post-retirement supplements effective July 1, 1991.</p><p>1970, c. 657, § 51-157.1; 1989, c. 484; 1990, c. 832; 1991, c. 719.</p>

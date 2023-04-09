@@ -1,0 +1,3 @@
+# § 2.2-224 Secretary of Public Safety and Homeland Security to publish certain list.
+
+<p>The Secretary shall publish annually a list of those localities that have acquired any aircraft through forfeiture procedures. The list shall include a description of each aircraft so acquired. The Secretary shall develop a program to encourage the use of such aircraft for travel associated with law-enforcement purposes, including but not limited to, extradition of prisoners and arrestees within and without the Commonwealth.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0464'>464</a>, § 2.1-51.17:01; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

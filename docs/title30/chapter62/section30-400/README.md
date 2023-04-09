@@ -1,0 +1,3 @@
+# § 30-400 Remedial redistricting plans.
+
+<p>If any congressional or state legislative district established pursuant to this chapter or the provisions of Article II, Sections 6 and 6-A of the Constitution of Virginia is declared unlawful or unconstitutional, in whole or in part, by order of any state or federal court, the Commission shall be convened to determine and propose a redistricting plan to remedy the unlawful or unconstitutional district.</p><p>2020, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?202+ful+CHAP0056'>56</a>.</p>

@@ -1,0 +1,3 @@
+# § 21-286 Additional powers conferred on counties, cities and towns.
+
+<p>The powers conferred by this chapter on counties, cities and towns are in addition and supplemental to the powers conferred by any other law, and may be exercised by resolution of the governing bodies thereof without regard to the terms, conditions, requirements, restrictions or other provisions contained in any other law, general or special, except the State Water Control Law passed at the 1946 regular session of the General Assembly, or in any charter, except that where fees, rents and charges are fixed by a city or town, that power shall be exercised by ordinance.</p><p>1946, p. 363; Michie Suppl. 1946, § 1560iii21.</p>

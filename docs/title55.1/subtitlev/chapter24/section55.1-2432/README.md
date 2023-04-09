@@ -1,0 +1,3 @@
+# § 55.1-2432 Provision in favor of tenant of escheated land.
+
+<p>If any person holds any escheated land under a lease or has right to any rent or other profit out of such land, he shall hold and enjoy his lease, rent, or other profit, whether such lease or right to rent or other profit is found in the inquest or not.</p><p>Code 1919, § 515; Code 1950, § 55-194; 1990, c. 938; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

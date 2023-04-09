@@ -1,0 +1,3 @@
+# § 2.2-1203 Certain information not to be made public.
+
+<p>Notwithstanding the provisions of the Freedom of Information Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-3700/'>2.2-3700</a> et seq.), the Department shall not disclose lists of home addresses of state employees except in accordance with regulations adopted by the Department pursuant to the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0892'>892</a>, § 2.1-114.5:01; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

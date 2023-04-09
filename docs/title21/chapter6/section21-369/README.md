@@ -1,0 +1,3 @@
+# § 21-369 Amount of tax levied.
+
+<p>In each year commencing with the maturity of the bonds, the tax levied shall be 110 per centum of the maturing principal and interest on the bonds, in this manner providing for the payment of maturing principal and interest on the bonds one year in advance.</p><p>Code 1919, § 1771; 1920, p. 611; 1924, p. 711; 1926, p. 620; 1936, p. 1034.</p>

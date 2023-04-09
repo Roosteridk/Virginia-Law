@@ -1,0 +1,3 @@
+# § 46.2-1560 Application for temporary license plate.
+
+<p>No dealer shall issue a temporary license plate except on written application by the person entitled to receive the license plate, which application shall be forwarded by the dealer to the Department as provided in § <a href='http://law.lis.virginia.gov/vacode/46.2-1542/'>46.2-1542</a>.</p><p>1988, c. 865, § 46.1-550.5:18; 1989, c. 727.</p>

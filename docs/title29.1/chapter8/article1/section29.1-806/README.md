@@ -1,0 +1,3 @@
+# § 29.1-806 Examination or audit of licensee; complaints; costs.
+
+<p>A. The Director may inspect the pertinent books, records, letters and contracts of a licensee relating to any written complaint for a violation of this chapter made to him against such licensee. If such licensee is found to have violated this chapter or any lawful order of the Director, the actual cost of such examination shall be paid by such licensee so examined within thirty days after demand therefor by the Director. The Director may maintain an action for the recovery of such costs in any court of competent jurisdiction.</p><p>B. No licensee shall be subject to examination or audit by the Director except as provided in this section.</p><p>1988, c. 592.</p>

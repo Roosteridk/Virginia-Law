@@ -1,0 +1,3 @@
+# § 12.1-41 Petitions for writs of supersedeas.
+
+<p>Upon petition of the Commonwealth, any party in interest, or any party aggrieved, the Supreme Court may award a writ of supersedeas to any final finding, order, or judgment of the Commission. Any such petition shall be presented within 120 days from the date of such final finding, order, or judgment.</p><p>Code 1950, § 12-63; 1971, Ex. Sess., c. 157; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0651'>651</a>.</p>

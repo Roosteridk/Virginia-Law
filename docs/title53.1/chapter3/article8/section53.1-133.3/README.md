@@ -1,0 +1,3 @@
+# § 53.1-133.3 Eligibility to participate.
+
+<p>Any person under the custody of a sheriff or jail superintendent shall be eligible to participate in the jail industry program on a voluntary basis without regard to whether that person is awaiting disposition of charges or serving a previously imposed sentence. The sheriff or jail superintendent may establish additional eligibility criteria for participation in the program.</p><p>1992, c. 859; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0756'>756</a>.</p>

@@ -1,0 +1,3 @@
+# § 8.01-507 Conveyance or delivery of property disclosed by interrogatories.
+
+<p>Any real estate out of this Commonwealth to which it may appear by such answer that the debtor is entitled shall, upon order of the court or commissioner, be forthwith conveyed by him to the officer to whom was delivered such fieri facias, and any money, bank notes, securities, evidences of debt, or other personal estate, tangible or intangible, which it may appear by such answers are in possession of or under the control of the debtor or his debtor or bailee, shall be delivered by him or them, as far as practicable, to such officer, or to some other, or in such manner as may be ordered by the commissioner or court.</p><p>Code 1950, § 8-436; 1977, c. 617.</p>

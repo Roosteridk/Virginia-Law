@@ -1,0 +1,3 @@
+# § 10.1-1425.7 Duty of the Department of Small Business and Supplier Diversity.
+
+<p>The Department of Small Business and Supplier Diversity shall assist the Department by encouraging and promoting the establishment of appropriate recycling industries in the Commonwealth.</p><p>1990, c. 616; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0589'>589</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0599'>599</a>; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0482'>482</a>.</p>

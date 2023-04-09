@@ -1,0 +1,3 @@
+# § 33.2-280.1 Charging electronic toll collection device fees.
+
+<p>The Department shall not, as a result of inactivity on the part of the holder of any electronic toll collection device for a time period of less than one year, (i) charge maintenance fees for electronic toll collection devices or (ii) require users to exchange their electronic toll collection device for a different type.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0629'>629</a>.</p>

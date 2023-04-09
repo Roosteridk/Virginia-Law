@@ -1,0 +1,3 @@
+# § 38.2-4137 Exemption of member representatives of certain societies.
+
+<p>The provisions of § <a href='http://law.lis.virginia.gov/vacode/38.2-4132/'>38.2-4132</a> shall not apply to the member representatives of any society organized or licensed under this chapter which insures its members against death, dismemberment and disability resulting from accident only, and which pays no commission or other compensation for the solicitation and procurement of such contracts.</p><p>1968, c. 654, § 38.1-638.38; 1986, c. 562.</p>

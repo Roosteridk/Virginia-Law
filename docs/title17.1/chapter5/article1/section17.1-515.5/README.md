@@ -1,0 +1,3 @@
+# § 17.1-515.5 Designation of certain courtrooms within twenty-fifth circuit for trial of certain cases.
+
+<p>When it appears to one or more of the judges of the twenty-fifth judicial circuit that such use is appropriate, the courthouse of the Circuit Court of Augusta County may be used for the trial of civil and criminal cases when venue is laid in the City of Staunton; or the courthouse of the Circuit Court of the City of Staunton may be used for the trial of civil or criminal cases when venue is laid in the County of Augusta. However, jurors summoned to appear in any such courtroom shall reside in the jurisdiction where the venue is laid.</p><p>1984, c. 86, § 17-126.5.</p>

@@ -1,0 +1,3 @@
+# § 27-37 Oath of fire marshal and assistants.
+
+<p>The fire marshal and his assistants, before entering upon their duties, shall respectively take an oath, before any officer authorized to administer oaths, faithfully to discharge the duties of such office; the certificate of the oath shall be returned to and preserved by such governing body.</p><p>Code 1919, § 3140.</p>

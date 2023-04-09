@@ -1,0 +1,3 @@
+# § 24.2-535 Vote required to nominate.
+
+<p>Any candidate for party nomination to any office who receives a plurality of the votes cast by his party shall be the nominee of his party for that office and his name shall be printed on the official ballots used in the election for which the primary was held.</p><p>Code 1950, § 24-359; 1952, c. 4; 1964, c. 616; 1970, c. 462, § 24.1-179; 1993, c. 641.</p>

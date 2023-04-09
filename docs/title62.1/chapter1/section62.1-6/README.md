@@ -1,0 +1,3 @@
+# § 62.1-6 Clearing watercourses between counties of obstructions.
+
+<p>The circuit court of any county which is divided by a watercourse from another county or through any part of which a watercourse passes may, by itself or in conjunction with the circuit court or circuit courts of any other county or counties, contract with any person or order laborers to be hired to clear such watercourse of obstructions in such manner and to such extent as may seem to it proper, and there shall be charged on any county whatever sum the court thereof may agree to pay for such purpose.</p><p>Code 1950, § 62-4; 1968, c. 659.</p>

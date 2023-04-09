@@ -1,0 +1,3 @@
+# § 8.01-332 Calling current docket.
+
+<p>The current docket may be called for the purpose of fixing cases for trial, on such days or at such intervals as may be directed by order of court.</p><p>Code 1950, §§ 8-162, 8-167; 1977, c. 617.</p>

@@ -1,0 +1,3 @@
+# § 2.2-1813 Deposits in banks and savings institutions designated as state depositories.
+
+<p>Moneys to be paid into the state treasury shall be deposited in the banks and savings institutions designated as state depositories by the State Treasurer.</p><p>Code 1950, § 2-177; 1966, c. 677, § 2.1-209; 1974, c. 517; 1979, c. 215; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0077'>77</a>; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

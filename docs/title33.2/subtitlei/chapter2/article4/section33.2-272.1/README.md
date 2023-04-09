@@ -1,0 +1,3 @@
+# § 33.2-272.1 Interstate pipelines; Department of Transportation oversight.
+
+<p>The Department may enter into agreements with any entity constructing interstate pipelines setting forth a reasonable procedure to identify and remedy damage caused by construction of such pipeline to public highways of the Commonwealth.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0532'>532</a>.</p>

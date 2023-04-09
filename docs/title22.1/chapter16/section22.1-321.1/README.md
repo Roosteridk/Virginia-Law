@@ -1,0 +1,3 @@
+# § 22.1-321.1 Possession and administration of epinephrine.
+
+<p>The Board shall promulgate regulations for the possession and administration of epinephrine in every school for students with disabilities, to be administered by any employee of the school who is authorized by a prescriber and trained in the administration of epinephrine to any student believed to be having an anaphylactic reaction.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0387'>387</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0355'>355</a>.</p>

@@ -1,0 +1,3 @@
+# § 33.2-299.5 Continuing responsibilities of the Transportation Board and the Department.
+
+<p>The Transportation Board and the Department shall cooperate and assist the Authority in the accomplishment of its purposes as set forth in § <a href='/vacode/33.2-288/'>33.2-288</a>.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1230'>1230</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1275'>1275</a>.</p>

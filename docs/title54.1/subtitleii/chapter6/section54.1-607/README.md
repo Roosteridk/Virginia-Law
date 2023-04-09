@@ -1,0 +1,3 @@
+# § 54.1-607 Advertising; absolute auctions involving real property.
+
+<p>A. No advertisements for any auction sale of personal or real property shall contain false, misleading, or deceptive statements, with respect to types or conditions of merchandise offered at auction, why merchandise is being sold, who has ownership, where the merchandise was obtained, or the terms and conditions of the auction and sale.</p><p>B. No auctioneer shall advertise an auction sale of real property as "absolute" unless all lots included in the sale meet that criteria.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0367'>367</a>.</p>

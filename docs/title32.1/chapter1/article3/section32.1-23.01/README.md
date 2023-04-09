@@ -1,0 +1,3 @@
+# § 32.1-23.01 Information about and resources on palliative care.
+
+<p>The Department shall make information about and resources on palliative care available to the public, health care providers, and health care facilities on its website. Such information shall include information about the delivery of palliative care in the home and in primary, secondary, and tertiary environments; best practices for the delivery of palliative care; consumer education materials and referral information for palliative care; and continuing education opportunities for health care providers.</p><p>2017, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0471'>471</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0746'>746</a>.</p>

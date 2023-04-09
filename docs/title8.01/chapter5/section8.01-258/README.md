@@ -1,0 +1,3 @@
+# § 8.01-258 Venue not jurisdictional.
+
+<p>The provisions of this chapter relate to venue -- the place of trial -- and are not jurisdictional. No order, judgment, or decree shall be voidable, avoided, or subject to collateral attack solely on the ground that there was improper venue; however, nothing herein shall affect the right to appeal an error of court concerning venue.</p><p>1977, c. 617.</p>

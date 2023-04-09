@@ -1,0 +1,3 @@
+# § 64.2-2713 Requisites for exercise of power of appointment.
+
+<p>A power of appointment is exercised only:</p><p>1. If the instrument exercising the power is valid under applicable law;</p><p>2. If the terms of the instrument exercising the power:</p><p>a. Manifest the powerholder's intent to exercise the power; and</p><p>b. Subject to § <a href='http://law.lis.virginia.gov/vacode/64.2-2716/'>64.2-2716</a>, satisfy the requirements of exercise, if any, imposed by the donor; and</p><p>3. To the extent that the appointment is a permissible exercise of the power.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

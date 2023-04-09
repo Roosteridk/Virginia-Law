@@ -1,0 +1,3 @@
+# § 29.1-557 Confiscation of wild birds and animals under certain circumstances; disposition.
+
+<p>Wild birds, wild animals and fish are the property of the Commonwealth and may be reduced to personal possession only in accordance with law. Any wild bird, wild animal or fish which is illegally taken, possessed, sold, purchased, transported or imported shall be forfeited to the Commonwealth.</p><p>Code 1950, § 29-173; 1987, c. 488.</p>

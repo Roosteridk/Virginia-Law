@@ -1,0 +1,3 @@
+# § 66-1 Creation of Department of Juvenile Justice.
+
+<p>There is hereby created within the executive branch, responsible to the Governor, a Department of Juvenile Justice. The Department shall be under the immediate supervision of a Director who shall be appointed by the Governor, subject to confirmation by the General Assembly. The Director shall serve at the pleasure of the Governor or until his successor shall be appointed and qualified. Vacancies shall be filled in the same manner as original appointments.</p><p>1989, c. 733; 1990, c. 350; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0503'>503</a>.</p>

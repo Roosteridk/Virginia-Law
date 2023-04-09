@@ -1,0 +1,3 @@
+# § 62.1-44.15:78 State agency consistency.
+
+<p>All agencies of the Commonwealth shall exercise their authorities under the Constitution and laws of Virginia in a manner consistent with the provisions of comprehensive plans, zoning ordinances, and subdivision ordinances that comply with §§ <a href='http://law.lis.virginia.gov/vacode/62.1-44.15:74/'>62.1-44.15:74</a> and <a href='http://law.lis.virginia.gov/vacode/62.1-44.15:75/'>62.1-44.15:75</a>.</p><p>1988, cc. 608, 891, § 10.1-2114; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0756'>756</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0793'>793</a>.</p>

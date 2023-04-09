@@ -1,0 +1,3 @@
+# § 10.1-1134.1 Definitions.
+
+<p>As used in this article, unless the context requires a different meaning:</p><p>"Orchard" means agricultural land located in the Commonwealth consisting of at least one-half acre of contiguous land dedicated to the growing of crops from trees, bushes, or vines, which crops are used or are intended to be used for commercial purposes.</p><p>"Vineyard" means agricultural land located in the Commonwealth consisting of at least one-half acre of contiguous land dedicated to the growing of grapes that are used or are intended to be used for commercial purposes.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0197'>197</a>.</p>

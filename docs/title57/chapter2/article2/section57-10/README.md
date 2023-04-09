@@ -1,0 +1,3 @@
+# § 57-10 How trustees to hold personal property.
+
+<p>When personal property shall be given or acquired for the benefit of an unincorporated church or religious body, to be used for its religious purposes, the same shall stand vested in the trustees having the legal title to the land, to be held by them as the land is held, and upon the same trusts or, if the church has created a corporation pursuant to § <a href='http://law.lis.virginia.gov/vacode/57-16.1/'>57-16.1</a>, to be held by it as its land is held, and for the same purposes.</p><p>Code 1919, § 41; 1962, c. 516; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0772'>772</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-5812 Additional duties.
+
+<p>In addition to the duties set forth elsewhere in this chapter, the Authority shall:</p><p>1. Keep records as are consistent with sound business practices and accounting records using generally accepted accounting practices;</p><p>2. Cause an audit by an independent certified public accountant to be made of accounts and transactions at the conclusion of each fiscal year;</p><p>3. Be subject to audit and examination at any reasonable time of its accounts and transactions by the Auditor of Public Accounts; and</p><p>4. Submit a detailed annual report of its activities and financial standing to the Governor and to the General Assembly.</p><p>1992, c. 823, § 15.1-227.82; 1997, c. 587.</p>

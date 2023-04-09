@@ -1,0 +1,3 @@
+# § 9.1-185.16 Department submission to the State Corporation Commission.
+
+<p>A. The Department shall provide to the State Corporation Commission a list of all newly licensed surety bondsmen each month.</p><p>B. When the Department terminates a surety bail bondsman's license, the Department shall immediately notify the State Corporation Commission of the surety bail bondsman's termination and the reason for such termination.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0460'>460</a>.</p>

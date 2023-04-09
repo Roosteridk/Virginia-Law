@@ -1,0 +1,3 @@
+# § 54.1-3102.1 Waiver of experiential requirements for licensure authorized.
+
+<p>The Board may waive the experiential or practicum requirements for an applicant for a nursing home administrator's license if the applicant demonstrates significant experience, such as, but not limited to, twenty years of executive experience as an officer in the home office of one or more multi-facility nursing home companies and a minimum of four years of executive responsibility for the operation of one or more nursing homes.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0762'>762</a>.</p>

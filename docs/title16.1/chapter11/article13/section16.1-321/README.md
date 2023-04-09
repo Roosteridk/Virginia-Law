@@ -1,0 +1,3 @@
+# § 16.1-321 Appropriations by political subdivisions; issuance of bonds.
+
+<p>The political subdivisions for which the commission is created are authorized to make appropriations to the commission from available funds for the construction, improvement, maintenance and operation of any juvenile detention facility operated or proposed to be operated by the commission; and subject to other applicable provisions of law may issue general obligation bonds and appropriate the proceeds thereof for capital costs of such facility.</p><p>Code 1950, § 16.1-202.8; 1977, c. 559.</p>

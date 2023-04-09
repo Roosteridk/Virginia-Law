@@ -1,0 +1,3 @@
+# § 23.1-617 Definitions.
+
+<p>As used in this article, unless the context requires a different meaning:</p><p>"Fund" means a student loan fund.</p><p>"Institution" means a public institution of higher education that has established a student loan fund from appropriations from the general fund of the state treasury for fellowships, scholarships, and loans.</p><p>"Student" means a medical student, dental student, intern, resident, or undergraduate student who is entitled to reduced rate tuition charges pursuant to Chapter 5 (§ <a href='http://law.lis.virginia.gov/vacode/23.1-500/'>23.1-500</a> et seq.).</p><p>1978, c. 745, § 23-38.10:2; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

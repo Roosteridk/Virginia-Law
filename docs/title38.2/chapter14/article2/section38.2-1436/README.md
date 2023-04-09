@@ -1,0 +1,3 @@
+# § 38.2-1436 Mortgage participations.
+
+<p>Notwithstanding the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/13.1-627/'>13.1-627</a> and <a href='http://law.lis.virginia.gov/vacode/13.1-826/'>13.1-826</a>, a domestic insurer may acquire or sell participation interests in any loans secured by a mortgage or deed of trust qualifying under § <a href='http://law.lis.virginia.gov/vacode/38.2-1434/'>38.2-1434</a> if the insurer has all or substantially all the rights of a first mortgagee.</p><p>1983, c. 457, § 38.1-217.39; 1986, c. 562.</p>

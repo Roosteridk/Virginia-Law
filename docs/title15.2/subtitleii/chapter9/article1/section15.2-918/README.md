@@ -1,0 +1,3 @@
+# § 15.2-918 Locality may prohibit or regulate use of air cannons.
+
+<p>Any locality may by ordinance prohibit or regulate the use within its jurisdiction of certain devices, including air cannons, carbide cannons, or other loud explosive devices which are designed to produce high intensity sound percussions for the purpose of repelling birds.</p><p>Such ordinance may prescribe the degree of sound or the decibel level produced by the cannon or device which is unacceptable in that jurisdiction.</p><p>In adopting an ordinance pursuant to the provisions of this section, the governing body may provide that any person who violates the provisions of such ordinance shall be guilty of a Class 3 misdemeanor.</p><p>1986, c. 106, § 15.1-29.13; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 58.1-451 Fraudulent returns, etc., of corporations; penalty.
+
+<p>Any officer of any corporation who makes a fraudulent return or statement with intent to evade the payment of the taxes prescribed by this chapter shall be liable to a penalty of not more than $1,000, to be assessed and collected in the manner prescribed in § <a href='http://law.lis.virginia.gov/vacode/58.1-450/'>58.1-450</a>.</p><p>Code 1950, § 58-151.088; 1971, Ex. Sess., c. 171; 1984, c. 675.</p>

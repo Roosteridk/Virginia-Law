@@ -1,0 +1,3 @@
+# § 46.2-216.4 Department to provide self-service options to customers.
+
+<p>The Department may provide, at its offices, self-service options that will provide customers with access to the Department's Internet transactions for persons who would prefer to transact their business with the Department accordingly. In determining the form and number of such options, and whether any option will be made available at a location, the Department shall consider the volume of business and the cost effectiveness of implementing any such option at the location.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0320'>320</a>.</p>

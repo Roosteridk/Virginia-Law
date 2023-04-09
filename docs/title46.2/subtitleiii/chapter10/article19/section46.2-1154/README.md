@@ -1,0 +1,3 @@
+# § 46.2-1154 Length of vehicles; exceptions in case of breakdown.
+
+<p>The provisions of § <a href='http://law.lis.virginia.gov/vacode/46.2-1118/'>46.2-1118</a> shall not apply to vehicles which, because of a mechanical breakdown or an accident, are towed to the nearest repair facility which can furnish the required service. In any such case such connection may consist solely of a chain, rope, or cable of no more than fifteen feet long. A licensed driver shall be at the controls of the towed vehicle to brake, steer and control its lights.</p><p>Code 1950, § 46-333; 1958, c. 541, § 46.1-337; 1989, c. 727.</p>

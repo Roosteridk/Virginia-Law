@@ -1,0 +1,3 @@
+# § 8.01-63 Liability for death or injury to guest in motor vehicle.
+
+<p>Any person transported by the owner or operator of any motor vehicle as a guest without payment for such transportation and any personal representative of any such guest so transported shall be entitled to recover damages against such owner or operator for death or injuries to the person or property of such guest resulting from the negligent operation of such motor vehicle. However, this statute does not limit any defense otherwise available to the owner or operator.</p><p>Code 1950, § 8-646.1; 1974, c. 551; 1977, c. 617.</p>

@@ -1,0 +1,3 @@
+# § 40.1-60 Employers not to require employees to become or remain members of union.
+
+<p>No person shall be required by an employer to become or remain a member of any labor union or labor organization as a condition of employment or continuation of employment by such employer.</p><p>Code 1950, § 40-70; 1970, c. 321.</p>

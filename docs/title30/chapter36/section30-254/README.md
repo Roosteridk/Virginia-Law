@@ -1,0 +1,3 @@
+# § 30-254 Dissolution.
+
+<p>In the event that this Agreement shall be terminated by operation of § <a href='http://law.lis.virginia.gov/vacode/30-253/'>30-253</a>, the Commission shall be dissolved, its assets and liabilities transferred, and its corporate affairs wound up in accordance with the unanimous agreement of its signatories, or failing unanimous agreement, in such manner that the assets and liabilities of the Commission shall be shared by the respective states.</p><p>1980, c. 662, § 62.1-69.19; 1981, c. 127; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1000'>1000</a>.</p>

@@ -1,0 +1,3 @@
+# § 38.2-3407.11:4 Disability arising out of childbirth; minimum benefit.
+
+<p>A. Each insurer proposing to issue individual or group accident and sickness insurance policies providing short-term disability income protection coverage whose policies provide coverage for short-term disability arising out of childbirth shall provide coverage for a payable benefit of at least 12 weeks immediately following childbirth for such a disability.</p><p>B. The provisions of this section shall apply to any policy delivered or issued for delivery in the Commonwealth on and after July 1, 2021.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0935'>935</a>.</p>

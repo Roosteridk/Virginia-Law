@@ -1,0 +1,3 @@
+# § 9.1-186.10 Uniforms and identification; standards and restrictions.
+
+<p>A. A bail enforcement agent shall not wear, carry, or display any uniform, badge, shield, or other insignia or emblem that implies he is an agent of state, local, or federal government.</p><p>B. A bail enforcement agent shall wear or display only identification issued by, or whose design has been approved by, the Department.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0397'>397</a>.</p>

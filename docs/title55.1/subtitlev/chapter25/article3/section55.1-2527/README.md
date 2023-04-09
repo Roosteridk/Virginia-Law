@@ -1,0 +1,3 @@
+# § 55.1-2527 Crediting of dividends, interest, or increments to owner's account.
+
+<p>Whenever property other than money is paid or delivered to the administrator under this chapter, the owner is entitled to receive from the administrator any dividends, interest, or other increments realized or accruing on the property at or before liquidation or conversion of such property into money.</p><p>1984, c. 121, § 55-210.16:1; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

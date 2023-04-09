@@ -1,0 +1,3 @@
+# § 33.2-2802 Counties and cities initially embraced by the Authority.
+
+<p>The Authority shall initially embrace the City of Charlottesville and all or such portions of the County of Albemarle as its governing body desires to have included. The City of Charlottesville and the County of Albemarle shall be the initial members of the Authority upon adoption of an approving ordinance or resolution by each of their respective governing bodies.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0645'>645</a>, § 15.2-7025; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

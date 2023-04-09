@@ -1,0 +1,3 @@
+# § 25.1-215 No notice required where owner is a person under a disability; appointment of guardian ad litem.
+
+<p>If any owner is a person under a disability and has no guardian, conservator or committee in this Commonwealth, (i) no notice need be issued for or served upon such owner and (ii) a guardian ad litem for such owner shall be appointed in the manner prescribed in § <a href='http://law.lis.virginia.gov/vacode/8.01-9/'>8.01-9</a>.</p><p>Code 1919, § 4365; Code 1950, § 25-11; 1962, c. 426, § 25-46.13; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0801'>801</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

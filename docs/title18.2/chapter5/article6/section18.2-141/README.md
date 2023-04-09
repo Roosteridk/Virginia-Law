@@ -1,0 +1,3 @@
+# § 18.2-141 Cutting or destroying trees; carrying axe, saw, etc., while hunting.
+
+<p>It shall be unlawful for any person while hunting for game or wildlife on the property of another to carry any axe other than a belt axe with a handle less than twenty inches, saw or other tool or instrument customarily used for the purpose of cutting, felling, mutilating or destroying trees without obtaining prior permission of the landowner. Any person violating the provisions of this section shall be guilty of a Class 3 misdemeanor.</p><p>Conservation police officers, sheriffs and all law-enforcement officers shall enforce the provisions of this section.</p><p>Code 1950, § 18.1-179; 1960, c. 358; 1975, cc. 14, 15.</p>

@@ -1,0 +1,3 @@
+# § 6.2-304 Plea of usury; judgment.
+
+<p>Any borrower may plead in general terms that the contract on which the action is brought was for the payment of interest greater than is allowed by statute. If the court determines that the contract is usurious, judgment shall be rendered only for the principal sum.</p><p>1987, c. 622, § 6.1-330.56; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

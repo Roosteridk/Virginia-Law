@@ -1,0 +1,3 @@
+# § 36-139.5:1 Eligibility for Industrial Site Development Program.
+
+<p>The Department, in determining eligibility for the Industrial Site Development Program, shall allow exceptions to the Department's minimum requirement of 200 net developable acres because of geographic topographic or land availability limitations.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0065'>65</a>.</p>

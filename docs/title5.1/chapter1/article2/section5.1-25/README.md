@@ -1,0 +1,3 @@
+# § 5.1-25 Operation of aircraft by nonresident.
+
+<p>A nonresident of this Commonwealth may operate aircraft engaged in operations other than for hire or reward in accordance with regulations promulgated by the Board, provided such nonresident and the aircraft to be so operated shall have been certified under federal law and shall have complied with the laws of the state in which such nonresident resides relative to aircraft and the operation thereof. A nonresident-owned aircraft engaged in intrastate operation for hire or reward must be licensed with the Department in accordance with this title and the Board's regulations.</p><p>Code 1950, § 5-12; 1966, c. 576; 1970, c. 717; 1979, c. 272; 1988, c. 45.</p>

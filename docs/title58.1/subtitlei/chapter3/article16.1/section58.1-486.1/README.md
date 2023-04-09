@@ -1,0 +1,3 @@
+# § 58.1-486.1 Definitions.
+
+<p>"Owner" means the same as that term is defined in § <a href='http://law.lis.virginia.gov/vacode/58.1-390.1/'>58.1-390.1</a>.</p><p>"Pass-through entity" means the same as that term is defined in § <a href='http://law.lis.virginia.gov/vacode/58.1-390.1/'>58.1-390.1</a>.</p><p>"Taxable year" when used in regard to pass-through entities means the taxable year of the pass-through entity for federal income tax purposes. If a pass-through entity does not have a taxable year for federal tax purposes, its tax year for purposes of this article shall be the calendar year.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0796'>796</a>.</p>

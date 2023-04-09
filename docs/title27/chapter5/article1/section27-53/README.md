@@ -1,0 +1,3 @@
+# § 27-53 Penalty for violating § 27-51; separate offenses.
+
+<p>Any owner or lessee of any such building, who shall violate any of the provisions of § <a href='http://law.lis.virginia.gov/vacode/27-51/'>27-51</a>, shall be punishable by a fine of not less than $100 nor more than $500, or by confinement in jail not less than 6 nor more than 12 months, or by both. The continuation of any failure to comply with the provisions of such section for each week after notice has been given the owner or lessee of the buildings that the exits are unsafe or insufficient shall be deemed a separate offense.</p><p>Code 1919, § 3144; R. P. 1948, § 27-38.</p>

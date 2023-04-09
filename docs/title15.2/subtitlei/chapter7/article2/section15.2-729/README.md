@@ -1,0 +1,3 @@
+# § 15.2-729 Relocation assistance programs.
+
+<p>The board shall provide by local ordinance for the application of Chapter 4 (§ <a href='http://law.lis.virginia.gov/vacode/25.1-400/'>25.1-400</a> et seq.) of Title 25.1 to displaced persons as defined in § <a href='http://law.lis.virginia.gov/vacode/25.1-400/'>25.1-400</a>, in cases of acquisition of real property for use in projects or programs in which only local funds are used.</p><p>1983, c. 364, § 15.1-687.7; 1997, c. 587; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0851'>851</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

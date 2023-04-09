@@ -1,0 +1,3 @@
+# § 2.2-1828 Creation of Revenue Stabilization Fund.
+
+<p>There is established a fund to be known as the Revenue Stabilization Fund (the "Fund") for the stabilization of the expected revenues of the Commonwealth. The Fund shall be available to offset, in part, anticipated shortfalls in revenues when appropriations based on previous forecasts exceed expected revenues in subsequent forecasts.</p><p>1992, c. 316, § 2.1-191.1; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

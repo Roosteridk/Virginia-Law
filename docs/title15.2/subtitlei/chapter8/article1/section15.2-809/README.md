@@ -1,0 +1,3 @@
+# § 15.2-809 Compensation of officers and employees.
+
+<p>The board shall, subject to the limitations of general law, fix the compensation of all county officers and employees, except as it may authorize the head of some department or office to fix the compensation of subordinates and employees in such department or office.</p><p>Code 1950, § 15-384.24; 1960, c. 382; 1962, c. 623, § 15.1-736; 1997, c. 587.</p>

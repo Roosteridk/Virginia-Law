@@ -1,0 +1,3 @@
+# § 6.2-427 Costs and attorney fee in suit on card; evidence of request or consent.
+
+<p>A. In any suit arising out of the use of a credit card, where the request, consent, or use as required by § <a href='http://law.lis.virginia.gov/vacode/6.2-425/'>6.2-425</a> is denied and is not proved, and judgment shall be for the defendant, the court shall assess against the issuer all court costs and shall award the defendant a reasonable attorney fee.</p><p>B. For purposes of subsection A, a certified copy of the request or consent shall be admissible as evidence that such request or consent was obtained.</p><p>1970, c. 324, § 11-33; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,0 +1,3 @@
+# § 32.1-56 Information to be provided patients.
+
+<p>It shall be the duty of every physician or other person who examines or treats a person having a venereal disease to provide such person with information about the disease, including, as a minimum, the nature of the disease, methods of treatment, measures used in preventing the spread of such disease, and the necessity of tests to ensure that a cure has been accomplished.</p><p>Code 1950, § 32-92; 1979, c. 711.</p>

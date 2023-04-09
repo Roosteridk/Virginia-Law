@@ -1,0 +1,3 @@
+# § 15.2-2708 Exemptions from disclosure.
+
+<p>Information regarding that portion of the funds or liability reserve of a pool established for purposes of satisfying a specific pending and unresolved claim or cause of action shall be exempt from disclosure under the Virginia Freedom of Information Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-3700/'>2.2-3700</a> et seq.).</p><p>In a claim or action against any group self-insurance pool, a person shall not be entitled to discover that portion of the funds or liability reserve established for purposes of satisfying a claim or cause of action, except that the reserve is discoverable in any supplemental or ancillary proceeding to enforce a judgment.</p><p>1986, cc. 520, 556, § 15.1-503.4:8; 1997, c. 587.</p>

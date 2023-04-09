@@ -1,0 +1,3 @@
+# § 63.2-1731 Retaliation against reports of child or adult abuse or neglect.
+
+<p>No assisted living facility, adult day care center or child welfare agency may retaliate in any manner against any person who in good faith reports adult or child abuse or neglect pursuant to Chapter 15 (§ <a href='http://law.lis.virginia.gov/vacode/63.2-1500/'>63.2-1500</a> et seq.) of this title or Article 2 (§ <a href='http://law.lis.virginia.gov/vacode/63.2-1603/'>63.2-1603</a> et seq.) of Chapter 16 of this title.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0487'>487</a>, § 63.1-198.03:1; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

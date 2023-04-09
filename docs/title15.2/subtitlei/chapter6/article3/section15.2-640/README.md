@@ -1,0 +1,3 @@
+# § 15.2-640 Establishing times and conditions of employment, personnel management, etc.
+
+<p>The county may establish and prescribe for all employees of the county the following provisions applicable to such employees:</p><p>1. Normal workdays and hours of employment therein;</p><p>2. Holidays;</p><p>3. Days of vacation allowed;</p><p>4. Days of sick leave allowed;</p><p>5. Other provisions concerning the hours and conditions of employment;</p><p>6. Plans of personnel management and control.</p><p>The county may establish, alter, amend or repeal at will any provision adopted under this section.</p><p>Code 1950, § 15-334.1; 1952, c. 246; 1962, c. 623, § 15.1-658; 1997, c. 587.</p>

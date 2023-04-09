@@ -1,0 +1,3 @@
+# § 2.2-1147.3 Baby changing facilities in restrooms located in public buildings.
+
+<p>The Department shall include in the standards established pursuant to subsection B of § <a href='/vacode/2.2-1132/'>2.2-1132</a> policies for the construction and installation of physically safe, sanitary, and appropriate baby changing facilities in restrooms. For purposes of this section, "baby changing facility" means a table or other device suitable for changing the diaper of a child age three or younger.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0049'>49</a>.</p>

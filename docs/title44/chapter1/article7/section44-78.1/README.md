@@ -1,0 +1,3 @@
+# § 44-78.1 Request for assistance by localities.
+
+<p>In the event of the circumstances described in subdivision A 2, 4 or 5 of § <a href='http://law.lis.virginia.gov/vacode/44-75.1/'>44-75.1</a> arise within a county, city or town of the Commonwealth, either the governing body or the chief law-enforcement officer of the county, city or town may call upon the Governor for assistance from the militia. The Governor may call forth the militia or any part thereof to provide such assistance as he may deem proper in responding to such circumstances, but in all instances the militia shall remain subject to military command and not to civilian authorities of the county, city or town receiving assistance.</p><p>1988, c. 352.</p>

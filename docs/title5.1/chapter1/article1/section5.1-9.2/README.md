@@ -1,0 +1,3 @@
+# § 5.1-9.2 Contract carriers; permit and registration required.
+
+<p>No person shall operate or engage in the business of a contract carrier by aircraft intrastate in the airspace of this Commonwealth unless such person has secured from the Department a permit authorizing him to conduct such operation or to engage in such business and has registered under § <a href='http://law.lis.virginia.gov/vacode/5.1-5/'>5.1-5</a> all aircraft used in this Commonwealth.</p><p>Code 1950, § 5.1-103; 1970, c. 708; 1979, c. 357; 1980, c. 721; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0793'>793</a>.</p>

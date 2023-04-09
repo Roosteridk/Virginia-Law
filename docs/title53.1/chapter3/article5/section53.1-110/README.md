@@ -1,0 +1,3 @@
+# § 53.1-110 Oath and bond of superintendent and jail officers.
+
+<p>Before entering upon the duties of their office the superintendent and jail officers shall take and subscribe the oath prescribed by § <a href='http://law.lis.virginia.gov/vacode/49-1/'>49-1</a>. The board shall require the superintendent and jail officers to participate in the blanket surety bond plan for state and local employees established in § <a href='http://law.lis.virginia.gov/vacode/2.2-1840/'>2.2-1840</a>.</p><p>Code 1950, § 53-206.7; 1956, c. 681; 1982, c. 636; 1991, c. 383; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0005'>5</a>.</p>

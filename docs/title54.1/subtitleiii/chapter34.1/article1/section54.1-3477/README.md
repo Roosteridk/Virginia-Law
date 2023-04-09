@@ -1,0 +1,3 @@
+# § 54.1-3477 Requirements for licensure as a physical therapist.
+
+<p>An applicant for licensure as a physical therapist shall submit evidence, verified by affidavit and satisfactory to the Board, that the applicant:</p><p>1. Is eighteen years of age or more;</p><p>2. Is a graduate of a school of physical therapy approved by the American Physical Therapy Association or is a graduate of a school outside of the United States or Canada which is acceptable to the Board; and</p><p>3. Has satisfactorily passed an examination approved by the Board.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0688'>688</a>.</p>

@@ -1,0 +1,3 @@
+# § 13.1-996 Corporation not authorized to receive money on deposit; deposit of funds of corporation.
+
+<p>No corporation organized under the provisions of this chapter shall at any time be authorized to receive money on deposit. The corporation shall not deposit any of its funds in any banking institution unless such institution has been designated as a depository by appropriate vote of the board of directors or executive committee.</p><p>Code 1950, § 13.1-153; 1960, c. 80; 1972, c. 693; 1985, c. 522.</p>

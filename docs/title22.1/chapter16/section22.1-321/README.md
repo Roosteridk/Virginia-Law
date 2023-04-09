@@ -1,0 +1,3 @@
+# § 22.1-321 Regulations.
+
+<p>The Board of Education shall make regulations not inconsistent with law for the management and conduct of schools. The regulations may include standards for programs offered by the schools.</p><p>The Board may authorize the Superintendent to issue licenses to operate schools.</p><p>Code 1950, §§ 22-330.19, 22-330.20; 1970, c. 665; 1972, c. 523; 1976, c. 16; 1980, c. 559; 1988, c. 574; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0991'>991</a>.</p>

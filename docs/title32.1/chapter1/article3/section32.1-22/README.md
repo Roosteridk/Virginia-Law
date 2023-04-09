@@ -1,0 +1,3 @@
+# § 32.1-22 Personnel; Deputy Commissioner.
+
+<p>A. The Commissioner may employ such personnel as are necessary for the proper performance of his duties as executive officer of the Board.</p><p>B. The Commissioner, subject to the approval of the Board, may appoint a Deputy Commissioner of Health who shall meet the qualifications for appointment as Commissioner and who may exercise the powers and perform the duties of the Commissioner in the case of the absence or inability to act of the Commissioner.</p><p>Code 1950, § 32-31; 1979, c. 711.</p>

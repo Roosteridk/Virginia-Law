@@ -1,0 +1,3 @@
+# § 46.2-1218 Reports by persons in charge of garages, parking places, etc.; unclaimed vehicles.
+
+<p>The person in charge of any garage, repair shop, or automotive service, storage, or parking place shall report on forms furnished by the Superintendent of State Police, to the nearest police station or to the State Police any motor vehicle left unclaimed in his place of business for more than two weeks when he does not know the name of the owner and the reason for the storage.</p><p>Code 1950, § 46-17.2; 1958, c. 541, § 46.1-11; 1989, c. 727.</p>

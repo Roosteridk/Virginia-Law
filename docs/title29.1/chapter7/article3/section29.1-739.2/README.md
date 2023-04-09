@@ -1,0 +1,3 @@
+# § 29.1-739.2 Conservation police officers to patrol lakes.
+
+<p>The Department shall have an enhanced enforcement effort that is commensurate with the level of boating activity from Memorial Day through Labor Day in the waters of those Virginia lakes that (i) are of a size comparable to or greater than Smith Mountain Lake and (ii) have a comparable number of reported boating accidents during the last five years as Smith Mountain Lake.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0233'>233</a>; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0087'>87</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0535'>535</a>.</p>

@@ -1,0 +1,3 @@
+# § 18.2-248.3 Professional use of imitation controlled substances.
+
+<p>No civil or criminal liability shall be imposed by virtue of this article on any person licensed under the Drug Control Act, Chapter 34 of Title 54.1, who manufactures, sells, gives or distributes an imitation controlled substance for use as a placebo by a licensed practitioner in the course of professional practice or research.</p><p>1982, c. 462.</p>

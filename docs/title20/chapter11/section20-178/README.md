@@ -1,0 +1,3 @@
+# § 20-178 Standards of professional responsibility and mandatory reporting not affected.
+
+<p>This chapter does not affect the professional responsibility obligations and standards applicable to a lawyer or other licensed professional or the obligation of a person to report abuse or neglect, abandonment, or exploitation of a child or adult under the laws of the Commonwealth.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0346'>346</a>.</p>

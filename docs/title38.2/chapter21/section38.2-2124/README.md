@@ -1,0 +1,3 @@
+# § 38.2-2124 Optional coverage to be offered with fire insurance policy.
+
+<p>Any insurer that issues or delivers in this Commonwealth a new or renewal contract or policy of fire insurance, or a new or renewal contract or policy of fire insurance in combination with other insurance coverages, shall offer in writing as an option a provision that property will be repaired or replaced in accordance with applicable ordinances or laws that regulate construction, repair or demolition.</p><p>1993, c. 156.</p>

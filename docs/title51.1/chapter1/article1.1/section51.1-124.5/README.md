@@ -1,0 +1,3 @@
+# § 51.1-124.5 Disclosure of social security account numbers.
+
+<p>The Retirement System may require the disclosure of the social security account number of any employee, judge, or other person covered under this title to be used for any purpose relating to the administration of the retirement systems or the implementation of this title.</p><p>1977, c. 620, § 51-111.22:2; 1990, c. 832, § 51.1-103; 1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0004'>4</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0085'>85</a>.</p>

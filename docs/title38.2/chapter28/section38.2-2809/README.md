@@ -1,0 +1,3 @@
+# § 38.2-2809 Review of actions or decisions of association.
+
+<p>Any insurer, applicant or other person aggrieved by any action or decision of the association or of any insurer as a result of its participation in the association, may appeal to the board of directors of the association. The decision of the board of directors may be appealed to the Commission within thirty days from the date the aggrieved person received notice of the board's action.</p><p>1976, c. 85, § 38.1-783; 1986, c. 562.</p>

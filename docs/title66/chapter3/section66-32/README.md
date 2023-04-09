@@ -1,0 +1,3 @@
+# § 66-32 Withdrawal from program.
+
+<p>Any participating county or city may, at the beginning of any calendar quarter, by ordinance or resolution of its governing authority, notify the Director of its intention to withdraw from the grant program. Such withdrawal shall be effective the last day of the quarter in which such notice is given.</p><p>Code 1950, § 53-340; 1979, c. 698; 1982, c. 636, § 53.1-257; 1989, c. 733.</p>

@@ -1,0 +1,3 @@
+# § 18.2-38 Mob defined.
+
+<p>Any collection of people, assembled for the purpose and with the intention of committing an assault or a battery upon any person or an act of violence as defined in § <a href='http://law.lis.virginia.gov/vacode/19.2-297.1/'>19.2-297.1</a>, without authority of law, shall be deemed a "mob."</p><p>Code 1950, § 18.1-27; 1960, c. 358; 1975, cc. 14, 15; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0623'>623</a>.</p>

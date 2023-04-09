@@ -1,0 +1,3 @@
+# § 13.1-1099.16 Merger authorized; parties restricted.
+
+<p>A series limited liability company may be party to a merger in accordance with Article 13 (§ <a href='/vacode/13.1-1069.1/'>13.1-1069.1</a> et seq.), this section, and §§ <a href='/vacode/13.1-1099.17/'>13.1-1099.17</a> through <a href='/vacode/13.1-1099.20/'>13.1-1099.20</a> only if:</p><p>1. Each party to the merger is a limited liability company; and</p><p>2. The surviving company is not created in the merger.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0636'>636</a>.</p>

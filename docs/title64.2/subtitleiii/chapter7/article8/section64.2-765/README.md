@@ -1,0 +1,3 @@
+# § 64.2-765 Impartiality.
+
+<p>If a trust has two or more beneficiaries, the trustee shall act impartially in investing, managing, and distributing the trust property, giving due regard to the beneficiaries' respective interests.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-548.03; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

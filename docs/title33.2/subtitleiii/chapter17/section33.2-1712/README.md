@@ -1,0 +1,3 @@
+# § 33.2-1712 Limitations and approvals for certain revenue bonds.
+
+<p>No bonds payable from the Transportation Trust Fund revenues under a payment agreement between the Board and the Treasury Board and payable first from revenues of that Fund received pursuant to contracts with a primary highway transportation improvement district or a transportation service district shall be issued unless specifically included in a bill or resolution passed by the General Assembly. The Treasury Board is designated the sales and paying agent of the Board with respect to such bonds.</p><p>1986, Sp. Sess., c. 13, § 33.1-279.1; 1988, cc. 844, 903; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

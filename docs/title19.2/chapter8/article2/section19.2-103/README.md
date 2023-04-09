@@ -1,0 +1,3 @@
+# § 19.2-103 Discharge, recommitment or renewal of bail.
+
+<p>If the accused is not arrested under warrant of the Governor by the expiration of the time specified in the warrant or bond, any judge in this Commonwealth may discharge him or may recommit him for a further period not to exceed sixty days, or such judge may again take bail for his appearance and surrender, as provided in the preceding section, but within a period not to exceed sixty days after the date of such new bond.</p><p>Code 1950, § 19.1-67; 1960, c. 366; 1975, c. 495.</p>

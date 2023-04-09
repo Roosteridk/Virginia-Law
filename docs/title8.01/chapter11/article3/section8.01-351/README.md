@@ -1,0 +1,3 @@
+# § 8.01-351 Preparation and disposition of list of jurors drawn.
+
+<p>The clerk shall make and sign a list of the names on the ballots in alphabetical order showing the name, age, address, occupation and employer of each juror, and shall deliver an attested copy of the list to the sheriff. The list shall be signed also by the judge or the commissioner in chancery appointed by the judge. The list shall be available in the clerk's office for inspection by counsel in any case to be tried by a jury during the term.</p><p>Code 1950, § 8-208.15; 1973, c. 439; 1977, c. 617; 1988, c. 818.</p>

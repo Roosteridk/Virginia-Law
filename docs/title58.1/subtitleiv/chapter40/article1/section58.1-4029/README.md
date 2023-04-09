@@ -1,0 +1,3 @@
+# § 58.1-4029 Disclosure of identity of winners by the Department.
+
+<p>Except as provided in subsection B of § <a href='/vacode/58.1-4019/'>58.1-4019</a>, the Department shall not disclose information about the identity of an individual lottery winner if the value of the prize won by the winner exceeds $10 million, unless the winner consents in writing to such disclosure.</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0163'>163</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0247'>247</a>.</p>

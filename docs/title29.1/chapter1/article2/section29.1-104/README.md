@@ -1,0 +1,3 @@
+# § 29.1-104 Acceptance of gifts, etc.
+
+<p>In addition to the authority granted the Board by § <a href='http://law.lis.virginia.gov/vacode/29.1-103/'>29.1-103</a>, the Board may receive gifts, grants, bequests, and devises of property, real or personal, and of money which, if accepted, shall be taken and held for any uses prescribed by the donor, grantor, or testator and in accord with the purposes of this title. The Board shall manage such properties or money in such a way as to maximize their value to the citizens of Virginia.</p><p>1973, c. 191, § 29-11.2; 1987, c. 488.</p>

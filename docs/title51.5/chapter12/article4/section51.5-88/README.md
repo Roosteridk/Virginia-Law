@@ -1,0 +1,3 @@
+# § 51.5-88 Selection of location and type of enterprise with approval of custodian.
+
+<p>The Department, with the approval of the custodian having charge of the property on which the vending stand and other business enterprise is to be located, shall select the location for such vending stand and other business enterprise and the type of vending stand and other business enterprise to be provided.</p><p>Code 1950, § 63-204.13; 1968, c. 578, § 63.1-154; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

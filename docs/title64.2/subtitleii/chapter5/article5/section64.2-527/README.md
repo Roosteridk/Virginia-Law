@@ -1,0 +1,3 @@
+# § 64.2-527 Estate held for another's life; inclusion in personal estate.
+
+<p>Any estate for the life of another shall go to the personal representative of the party entitled to the estate and shall be applied and distributed as the personal estate of such party.</p><p>Code 1950, § 64-146; 1968, c. 656, § 64.1-156; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

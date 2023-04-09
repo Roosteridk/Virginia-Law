@@ -1,0 +1,3 @@
+# § 15.2-1751 Exemption from taxation.
+
+<p>Any academy created under the provisions of this article shall not be required to pay taxes or assessments upon any project or upon any property acquired or used by it or upon the income therefrom and income derived from bonds shall be exempt at all times from every kind and nature of taxation by this Commonwealth or by any of its political subdivisions, municipal corporations, or public agencies of any kind.</p><p>1993, c. 935, § 15.1-159.7:5; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 63.2-1807 Certification in cardiopulmonary resuscitation; do not resuscitate orders.
+
+<p>The owners or operators of any assisted living facility may provide that their employees who are certified in cardiopulmonary resuscitation (CPR) shall not be required to resuscitate any resident for whom a valid written order not to resuscitate in the event of cardiac or respiratory arrest has been issued by the attending physician and has been included in the resident's individualized service plan.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0775'>775</a>, § 63.1-174.3; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

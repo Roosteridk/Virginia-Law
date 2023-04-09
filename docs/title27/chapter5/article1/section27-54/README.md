@@ -1,0 +1,3 @@
+# § 27-54 Governing body to make additional safety provisions.
+
+<p>The governing body of any city or town, or of any such county, shall make such further provisions insuring the safety of the public using such buildings as is mentioned in § <a href='http://law.lis.virginia.gov/vacode/27-51/'>27-51</a> as such governing body may see proper to make, not in conflict with such section.</p><p>Code 1919, § 3145; R. P. 1948, § 27-39.</p>

@@ -1,0 +1,3 @@
+# § 20-88.37 Initiating and responding tribunal of the Commonwealth.
+
+<p>Under this chapter, a tribunal of the Commonwealth may serve as an initiating tribunal to forward proceedings to a tribunal of another state and as a responding tribunal for proceedings initiated in another state or a foreign country.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0673'>673</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0727'>727</a>.</p>

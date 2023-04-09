@@ -1,0 +1,3 @@
+# § 16.1-360 Disclosure by juvenile during evaluation or restoration; use at guilt phase of trial adjudication or disposition hearing.
+
+<p>No statement or disclosure by the juvenile concerning the alleged offense made during a competency evaluation ordered pursuant to § <a href='http://law.lis.virginia.gov/vacode/16.1-356/'>16.1-356</a>, or services ordered pursuant to § <a href='http://law.lis.virginia.gov/vacode/16.1-357/'>16.1-357</a> may be used against the juvenile at the adjudication or disposition hearings as evidence or as a basis for such evidence.</p><p>1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0958'>958</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0997'>997</a>.</p>

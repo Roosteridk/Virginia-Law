@@ -1,0 +1,3 @@
+# § 32.1-176.2 Findings and policy.
+
+<p>The General Assembly finds that the improper construction of private wells can adversely affect aquifers as ground water resources in the Commonwealth. Consistent with the duty to protect these ground water resources and to safeguard the public welfare, safety and health it is declared to be the policy of this Commonwealth to require that the construction and location of private wells conform to reasonable requirements.</p><p>1986, c. 401.</p>

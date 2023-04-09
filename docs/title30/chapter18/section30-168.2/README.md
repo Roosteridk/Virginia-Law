@@ -1,0 +1,3 @@
+# § 30-168.2 Compensation; expenses.
+
+<p>Members of the Commission shall receive such compensation as provided in § <a href='/vacode/30-19.12/'>30-19.12</a>. All members shall be reimbursed for reasonable and necessary expenses incurred in the performance of their duties as provided in §§ <a href='/vacode/2.2-2813/'>2.2-2813</a> and <a href='/vacode/2.2-2825/'>2.2-2825</a>. Funding for the costs of compensation and expenses of the members shall be provided by the Joint Commission on Health Care.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0633'>633</a>.</p>

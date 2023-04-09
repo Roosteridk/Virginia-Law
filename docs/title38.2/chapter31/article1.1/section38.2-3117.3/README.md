@@ -1,0 +1,3 @@
+# § 38.2-3117.3 Supplemental contract.
+
+<p>If the insurer settles benefits through a retained asset account, the insurer shall provide the beneficiary with a supplemental contract that clearly discloses the rights of the beneficiary and the obligations of the insurer under the supplemental contract.</p><p>2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0194'>194</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0227'>227</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-946 Regulation of tour guides and tourist guides.
+
+<p>Any locality may, before issuing any license to do business as a tour guide or tourist guide, require that an applicant for such license take and pass an examination to determine the fitness of such person as to his knowledge of the history of the locality and of the historical and tourist attractions located therein.</p><p>1984, c. 675, § 15.1-28.7; 1997, c. 587.</p>

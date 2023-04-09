@@ -1,0 +1,3 @@
+# § 23.1-3005 Medical School; exercise of powers.
+
+<p>A. The exercise of the powers granted by this chapter are for the benefit of the residents of the Commonwealth and the promotion of their safety, health, welfare, knowledge, benefit, convenience, and prosperity.</p><p>B. The operation and maintenance of any project that the Medical School may undertake constitutes the performance of an essential governmental function.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

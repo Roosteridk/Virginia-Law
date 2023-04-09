@@ -1,0 +1,3 @@
+# § 46.2-746.22 Special license plates; members of the Sons of Confederate Veterans.
+
+<p>On receipt of an application therefor and written evidence that the applicant is a member of the Sons of Confederate Veterans, the Commissioner shall issue special license plates to members of the Sons of Confederate Veterans. No logo or emblem of any description shall be displayed or incorporated into the design of license plates issued under this section.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0902'>902</a>.</p>

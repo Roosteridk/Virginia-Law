@@ -1,0 +1,3 @@
+# § 23.1-2907.2 Registered apprenticeships; uniform instruction.
+
+<p>The System, in consultation with the Department of Labor and Industry, shall develop and deliver uniform, related instruction for registered apprenticeships in high-demand programs, as determined by the Virginia Board of Workforce Development and the Virginia Employment Commission, and for which coursework is not otherwise available. Such instruction shall be available statewide and shall be delivered in a face-to-face, online, or blended format.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0580'>580</a>.</p>

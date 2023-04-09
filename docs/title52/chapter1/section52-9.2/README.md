@@ -1,0 +1,3 @@
+# § 52-9.2 Wearing of same or similar uniforms by other persons.
+
+<p>When such official uniform has been adopted by the Superintendent, no police officer of any county, city or town, special policeman, guard or other person shall wear any uniform identical with such official uniform or so similar in appearance as to be likely to deceive the casual observer.</p><p>Violations of this section or § <a href='http://law.lis.virginia.gov/vacode/52-9.1/'>52-9.1</a> shall constitute a misdemeanor and be punished as provided by law.</p><p>1950, p. 154.</p>

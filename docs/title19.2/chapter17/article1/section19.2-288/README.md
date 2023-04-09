@@ -1,0 +1,3 @@
+# § 19.2-288 Verdict when accused found guilty of punishable homicide.
+
+<p>If a person indicted for murder be found by the jury guilty of any punishable homicide, they shall in their verdict fix the degree thereof. The court shall ascertain the extent of the punishment to be inflicted within the bounds prescribed by §§ <a href='/vacode/18.2-30/'>18.2-30</a> to <a href='/vacode/18.2-36/'>18.2-36</a>, unless the accused has requested that the jury ascertain punishment of the offense as provided in subsection A of § <a href='/vacode/19.2-295/'>19.2-295</a>.</p><p>Code 1950, § 19.1-250; 1960, c. 366; 1975, c. 495; 2020, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?202+ful+CHAP0043'>43</a>.</p>

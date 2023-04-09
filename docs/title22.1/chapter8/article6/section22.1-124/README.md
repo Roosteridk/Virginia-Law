@@ -1,0 +1,3 @@
+# § 22.1-124 Officers may not purchase warrants for less than face value.
+
+<p>It shall be unlawful for any county, municipal or state officer to acquire by purchase, directly or indirectly, at less than its face value any warrant or other evidence of indebtedness issued for any school purpose whatsoever by the governing body of any county, city or town or by any school board. Any violation of the provisions of this section shall be a Class 3 misdemeanor. Upon the conviction of any such officer of a violation of this section, his office shall be deemed vacant.</p><p>Code 1950, § 22-212; 1980, c. 559.</p>

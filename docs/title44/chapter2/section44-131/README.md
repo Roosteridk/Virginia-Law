@@ -1,0 +1,3 @@
+# § 44-131 Military property exempt from taxation.
+
+<p>All property actually used for armory and military training purposes, as hereinabove defined, shall be exempt from all taxation, impost or assessment.</p><p>1932, p. 760; Michie Code 1942, § 2673(114); R. P. 1948, § 44-131.</p>

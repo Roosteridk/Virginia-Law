@@ -1,0 +1,3 @@
+# § 38.2-3905 Incorporation of companies.
+
+<p>Any insurer that was licensed and transacting in this Commonwealth the business of mutual assessment life, accident and sickness insurance on July 1, 1985, may continue to transact that business in accordance with its license.</p><p>1985, c. 400, § 38.1-549.6; 1986, c. 562.</p>

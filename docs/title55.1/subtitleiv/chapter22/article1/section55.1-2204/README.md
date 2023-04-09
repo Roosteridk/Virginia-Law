@@ -1,0 +1,3 @@
+# § 55.1-2204 Applicability of local ordinances, regulations, and building codes.
+
+<p>A zoning, subdivision, or other ordinance or regulation shall not impose any requirement upon a time-share project that it would not otherwise impose upon a similar project under a different form of ownership.</p><p>1981, c. 462, § 55-364; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

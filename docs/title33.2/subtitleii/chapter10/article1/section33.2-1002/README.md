@@ -1,0 +1,3 @@
+# § 33.2-1002 Limitation on power of eminent domain.
+
+<p>No property that is within an agricultural and forestal district as provided by the Agricultural and Forestal Districts Act (§ <a href='http://law.lis.virginia.gov/vacode/15.2-4300/'>15.2-4300</a> et seq.) shall be condemned by the Commissioner of Highways except in accordance with § <a href='http://law.lis.virginia.gov/vacode/15.2-4313/'>15.2-4313</a>.</p><p>1977, c. 681, § 33.1-89.1; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

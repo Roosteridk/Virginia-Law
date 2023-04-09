@@ -1,0 +1,3 @@
+# § 61.1-47 Person making delivery must impart true name of owner; record of purchase or delivery.
+
+<p>Every person who shall deliver any leaf tobacco to a warehouseman or to a cooperative marketing association for sale, offer for sale or display for sale thereof, shall impart to such warehouseman or cooperative marketing association, the true name of the owner of such leaf tobacco; and it shall be the duty of such warehouseman or cooperative marketing association to keep a record of such purchase or delivery showing the quantity of leaf tobacco so delivered, and the name of the owner thereof, given as provided herein.</p><p>Code 1950, § 61-146; 1968, c. 69.</p>

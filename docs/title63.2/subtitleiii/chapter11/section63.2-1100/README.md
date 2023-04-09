@@ -1,0 +1,3 @@
+# § 63.2-1100 Definitions.
+
+<p>For the purposes of Chapter 10 (§ <a href='http://law.lis.virginia.gov/vacode/63.2-1000/'>63.2-1000</a> et seq.) of this title, the following words shall have the meaning ascribed to them by this section:</p><p>A. "Appropriate public authorities" as used in Article III of the compact means, with reference to this Commonwealth, the Department.</p><p>B. "Appropriate authority in the receiving state" as used in subdivision (a) of Article V of the compact means, with reference to this Commonwealth, the Commissioner.</p><p>1975, c. 406, § 63.1-219.1; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

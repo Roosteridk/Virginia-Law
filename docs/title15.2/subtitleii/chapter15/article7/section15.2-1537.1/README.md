@@ -1,0 +1,3 @@
+# § 15.2-1537.1 Disposition of state funds locally collected.
+
+<p>All state funds collected by the financial officer shall be paid into the state treasury without deductions on account of their compensation or on account of expenses. The Comptroller shall promptly forward to such officers his warrants on the State Treasurer for the compensation due them and the estimated amount allowed them out of such funds for expenses.</p><p>Code 1950, § 14-161; 1964, c. 386, § 14.1-161; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

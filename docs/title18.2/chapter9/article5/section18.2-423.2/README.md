@@ -1,0 +1,3 @@
+# § 18.2-423.2 Displaying noose on property of another or a highway or other public place with intent to intimidate; penalty.
+
+<p>A. Any person who, with the intent of intimidating any person or group of persons, displays a noose on the private property of another without permission is guilty of a Class 6 felony.</p><p>B. Any person who, with the intent of intimidating any person or group of persons, displays a noose on a highway or other public place in a manner having a direct tendency to place another person in reasonable fear or apprehension of death or bodily injury is guilty of a Class 6 felony.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0277'>277</a>.</p>

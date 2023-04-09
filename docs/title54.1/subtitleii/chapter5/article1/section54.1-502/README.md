@@ -1,0 +1,3 @@
+# § 54.1-502 Interdepartmental implementation plan.
+
+<p>The Board, in conjunction with the Departments of General Services, Health, Labor and Industry, Education, and Environmental Quality, shall develop a plan for the implementation of this chapter which specifies the duties of each agency.</p><p>1987, c. 579, § 54-145.6; 1988, cc. 765, 802; 1989, c. 397; 1990, cc. 73, 823; 1993, c. 660.</p>

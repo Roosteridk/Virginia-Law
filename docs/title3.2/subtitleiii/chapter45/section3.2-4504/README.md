@@ -1,0 +1,3 @@
+# § 3.2-4504 Prima facie evidence of being offered or transported for sale.
+
+<p>When containers of apples are placed in transit for sale or delivery or delivered for storage, such transit or delivery shall be prima facie evidence that the apples are offered or transported for sale.</p><p>Code 1950, § 3-512.4; 1954, c. 697; 1966, c. 702, § 3.1-614; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0793'>793</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

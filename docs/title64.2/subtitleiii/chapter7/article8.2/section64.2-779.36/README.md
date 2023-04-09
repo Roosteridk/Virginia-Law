@@ -1,0 +1,3 @@
+# § 64.2-779.36 Defenses in action against trust director.
+
+<p>In an action against a trust director for breach of trust, the trust director may assert the same defenses a trustee in a like position and under similar circumstances could assert in an action for breach of trust against the trustee.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0768'>768</a>.</p>

@@ -1,0 +1,3 @@
+# § 40.1-28.7:3 Earned income tax credit; employer notice to employee.
+
+<p>Every employer shall post in the same location where other employee notices required by state or federal law are posted any notice provided by the Virginia Department of Social Services that informs employees that they may be eligible for federal and state earned income tax credits and may apply for the credit on their tax returns or receive the credit in advance payments during the year.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0698'>698</a>.</p>

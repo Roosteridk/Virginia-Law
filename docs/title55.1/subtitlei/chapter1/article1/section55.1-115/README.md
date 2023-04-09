@@ -1,0 +1,3 @@
+# § 55.1-115 When remainders not defeated.
+
+<p>The alienation of a particular estate on which a remainder depends, or the union of such estate with the inheritance by purchase or descent, shall not operate, by merger or otherwise, to defeat, impair, or otherwise affect such remainder.</p><p>Code 1919, § 5154; Code 1950, § 55-16; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

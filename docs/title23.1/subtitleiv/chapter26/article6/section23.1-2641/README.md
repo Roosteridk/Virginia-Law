@@ -1,0 +1,3 @@
+# § 23.1-2641 Reversion of property on withdrawal of annuity.
+
+<p>If at any time such annuity should be withdrawn from the University, the property, real and personal, conveyed and appropriated to its use and benefit by the trustees of the Preston and Olin Institute and the County of Montgomery under the provisions of Chapter 234 of the Acts of Assembly of 1871-1872 shall revert to the trustees and the county, respectively, from which it was conveyed and appropriated.</p><p>Code 1919, § 855, § 23-140; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

@@ -1,0 +1,3 @@
+# § 32.1-122.8 Board's authority to receive and expend funds.
+
+<p>The Board of Health is hereby authorized to apply for, receive, and expend federal and any other available funds for the enhancement of the primary health care system including, but not limited to, any funds designated for any physician loan repayment program, medical scholarships, and area health education centers.</p><p>1990, cc. 874, 877.</p>

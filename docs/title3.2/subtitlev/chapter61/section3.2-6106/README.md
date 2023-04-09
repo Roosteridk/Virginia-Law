@@ -1,0 +1,3 @@
+# § 3.2-6106 Livestock market to keep copy of register and records on cattle sold.
+
+<p>Each operator of a livestock market where cattle are sold shall: (i) keep a copy of the register of brands in his place of business where it will be easily accessible for public inspection; and (ii) keep a record, for at least two years, of all cattle received and the name and address of the owner.</p><p>1974, c. 642, § 3.1-796.35; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

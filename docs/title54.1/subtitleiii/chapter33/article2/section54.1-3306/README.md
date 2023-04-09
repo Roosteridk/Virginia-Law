@@ -1,0 +1,3 @@
+# § 54.1-3306 Nominations.
+
+<p>Nominations may be made for each professional vacancy from a list of at least three names submitted to the Governor by the Virginia Pharmaceutical Association. The Governor may notify the Association of any professional vacancy other than by expiration. In no case shall the Governor be bound to make any appointment from among the nominees of the Association.</p><p>Code 1950, § 54-406; 1958, c. 551; 1970, c. 650, § 54-524.7; 1986, c. 464; 1988, c. 765.</p>

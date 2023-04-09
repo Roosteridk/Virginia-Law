@@ -1,0 +1,3 @@
+# § 58.1-2227 Sales of aviation jet fuel to licensed aviation consumers.
+
+<p>A licensed aviation consumer required to file a monthly return and remit taxes to the Department pursuant to § <a href='http://law.lis.virginia.gov/vacode/58.1-2230/'>58.1-2230</a> shall not be required to remit tax to a supplier or distributor for purchases of aviation jet fuel.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0729'>729</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0758'>758</a>.</p>

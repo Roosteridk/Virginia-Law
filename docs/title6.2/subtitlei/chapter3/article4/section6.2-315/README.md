@@ -1,0 +1,3 @@
+# § 6.2-315 Loans by certain financial institutions or brokers payable on demand or having a term up to one year.
+
+<p>Any bank, savings institution, broker duly licensed to transact business as a stockbroker, or broker-dealer registered with the Securities and Exchange Commission or the Commodity Futures Trading Commission, may loan money or discount bonds, bills, notes or other paper, whether payable on demand or for periods up to one year. Such a loan or discounting may be lawfully enforced as agreed in the contract of indebtedness. An interest rate charged in advance upon the entire amount of the loan or discount shall be lawful.</p><p>1987, c. 622, § 6.1-330.62; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

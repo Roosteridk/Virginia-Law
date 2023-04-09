@@ -1,0 +1,3 @@
+# § 62.1-68 Expenses of members.
+
+<p>The members of the Commission shall be paid their expenses incurred in the performance of their duties as such in such manner and amount as shall be provided in the compact hereinabove authorized to be executed.</p><p>Code 1950, § 62-66; 1968, c. 659.</p>

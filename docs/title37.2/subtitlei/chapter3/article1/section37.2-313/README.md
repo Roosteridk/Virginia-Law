@@ -1,0 +1,3 @@
+# § 37.2-313 Employment of unlicensed physician by Department.
+
+<p>Unless a physician is licensed by the Commonwealth or is in an internship or residency program approved by the Commissioner, he shall not be employed by the Department for the practice of any of the healing arts or to provide services under the supervision of the Commissioner.</p><p>1974, c. 661, § 37.1-20.1; 1976, c. 671; 1980, c. 582; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

@@ -1,0 +1,3 @@
+# § 55.1-338 Release to person dead inures to successors.
+
+<p>A release of a deed of trust or a conveyance of the property embraced in such deed of trust may in all cases be made to the original grantor, whether living or dead, and any release or reconveyance so made shall inure both in law and in equity to the successors in title of such grantor.</p><p>Code 1919, § 6456; 1926, p. 82; 1930, p. 71; 1932, p. 121; 1944, p. 199; Code 1950, § 55-66.2; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

@@ -1,0 +1,3 @@
+# § 23.1-1110 Bonds as legal investments.
+
+<p>Any bonds issued pursuant to this chapter are securities in which all public officers and bodies of the Commonwealth and its political subdivisions, insurance companies and associations, and savings banks and savings institutions, including savings and loan associations, in the Commonwealth may properly and legally invest funds in their control.</p><p>1933, p. 90, § 23-23; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

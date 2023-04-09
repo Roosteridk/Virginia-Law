@@ -1,0 +1,3 @@
+# § 6.2-867 Discount by officer, director, or employee of paper refused by bank.
+
+<p>No officer, director, or employee of a bank may purchase or discount any note or paper at a rate of interest in excess of what such bank might charge knowing that such bank has refused to purchase or discount such paper.</p><p>Code 1950, § 6-44; 1966, c. 584, § 6.1-53; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

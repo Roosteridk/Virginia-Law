@@ -1,0 +1,3 @@
+# § 9.1-136 Criminal penalty for violation.
+
+<p>Any person who willfully and intentionally requests, obtains, or seeks to obtain criminal history record information under false pretenses, or who willfully and intentionally disseminates or seeks to disseminate criminal history record information to any agency or person in violation of this article or Chapter 23 (§ <a href='http://law.lis.virginia.gov/vacode/19.2-387/'>19.2-387</a> et seq.) of Title 19.2, shall be guilty of a Class 2 misdemeanor.</p><p>1981, c. 632, § 9-195; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-1219 Prohibiting sale on highways of plants, shrubs or trees.
+
+<p>Any county may prohibit the sale or the offering for sale of any plants, shrubs or trees or any part or parts thereof upon any public highway or right-of-way of any public highway located within such county. However, nothing in this section shall apply to any business in which real property is owned, leased or occupied in any way adjacent to such highway or right-of-way by such business. No penalty for the violation of any ordinance enacted pursuant to this section shall impose a fine exceeding fifty dollars.</p><p>Code 1950, § 15-8.1; 1958, c. 620; 1962, c. 623, § 15.1-513; 1997, c. 587.</p>

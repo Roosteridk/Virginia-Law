@@ -1,0 +1,3 @@
+# § 64.2-2120 Relation to electronic signatures in global and national commerce act.
+
+<p>This chapter modifies, limits, and supersedes the federal Electronic Signatures in Global and National Commerce Act (15 U.S.C. § 7001 et seq.), but does not modify, limit, or supersede § 101(c) of that act (15 U.S.C. § 7001(c)) or authorize electronic delivery of any of the notices described in § 103(b) of that act (15 U.S.C. § 7003(b)).</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0518'>518</a>, § 37.2-1052; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,0 +1,3 @@
+# § 43-30 Lien of landlord and other recorded liens not affected by lien given under § 43-27; nor is right to claim exemption.
+
+<p>The lien provided for in § <a href='http://law.lis.virginia.gov/vacode/43-27/'>43-27</a> shall not affect in any manner the rights of the landlord to his proper share of rents, or his lien for rent or advances, or his right of distress or attachment for the same, nor any lien existing at the time of making the agreement mentioned in such section, which is required by law to be recorded and shall have been admitted to record. Nor shall it affect the right of the party to whom the advances have been made, to claim such part of his crops as is exempt from levy or distress for rent.</p><p>Code 1919, § 6455.</p>

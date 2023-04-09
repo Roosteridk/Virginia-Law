@@ -1,0 +1,3 @@
+# § 6.2-1324 Bylaws amended by Commission.
+
+<p>Any bylaw may be amended by the Commission by order entered on its order book and certified to the credit union. Before entering any such order the Commission shall notify the credit union of the proposed amendment and afford it an opportunity to be heard.</p><p>Code 1950, § 6-207; 1956, c. 90; 1966, c. 584, § 6.1-198; 1968, c. 560; 1980, c. 181; 1983, c. 300; 1990, c. 373, § 6.1-225.17; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

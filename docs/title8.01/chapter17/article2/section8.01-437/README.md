@@ -1,0 +1,3 @@
+# § 8.01-437 Endorsement of clerk thereon.
+
+<p>When a judgment is so confessed, the clerk shall endorse upon such confession, or attach thereto, his certificate in manner and form substantially as follows:</p><p>"Virginia: In the clerk's office of the __________ court of the __________ of __________.</p><p>The foregoing (or attached) judgment was duly confessed before me in my said office on the __________ day of __________, two thousand and __________, at __________ o'clock __________ a.m., p.m. and has been duly entered of record in common-law order book number __________, page __________.</p><p>Teste:</p><p>____________________ clerk."</p><p>Code 1950, § 8-361; 1977, c. 617.</p>

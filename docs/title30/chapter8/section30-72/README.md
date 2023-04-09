@@ -1,0 +1,3 @@
+# § 30-72 Operation and construction of chapter; subcommittees.
+
+<p>A. The operation of this chapter shall not restrict the power of the General Assembly to study or act on any matter at any time.</p><p>B. The operation of this chapter shall not imply or require the termination of any state agency or program.</p><p>C. Nothing in this chapter shall be construed to restrict the Joint Legislative Audit and Review Commission or the standing committees from holding hearings on any subject as may be required nor shall operation of this chapter limit the Commission or committees from such other activities as may be authorized by law or custom.</p><p>D. The standing committees may carry out the functions assigned by this chapter through subcommittees.</p><p>1978, c. 388.</p>

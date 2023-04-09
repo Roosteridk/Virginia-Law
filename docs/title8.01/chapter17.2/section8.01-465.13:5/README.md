@@ -1,0 +1,3 @@
+# § 8.01-465.13:5 Procedure for recognition of foreign-country judgment.
+
+<p>A. If recognition of a foreign-country judgment is sought as an original matter, the issue of recognition shall be raised by filing an action seeking recognition of the foreign-country judgment.</p><p>B. If recognition of a foreign-country judgment is sought in a pending action, the issue of recognition may be raised by counterclaim, cross-claim, or affirmative defense.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0462'>462</a>.</p>

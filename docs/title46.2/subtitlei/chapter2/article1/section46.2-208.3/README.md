@@ -1,0 +1,3 @@
+# § 46.2-208.3 Notice by Department.
+
+<p>The Department may send notice of a driver's license renewal pursuant to § <a href='/vacode/46.2-330/'>46.2-330</a> or a vehicle registration renewal in the form of a postcard to a customer at the address shown on the records of the Department. Notwithstanding the provisions of § <a href='/vacode/46.2-208/'>46.2-208</a>, the Department may put sufficient information on the face of the postcard to provide the recipient with adequate notice of renewal. Such information shall only be disclosed as permitted in this section.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0701'>701</a>.</p>

@@ -1,0 +1,3 @@
+# § 62.1-44.116 Assistance by Board in riparian disputes.
+
+<p>In the event non-Virginia claimants question or seek to abridge the riparian use of the waters of the Potomac River by Virginia riparian owners, the State Water Control Board shall advise and assist such riparian owners in the proper exercise and protection of their rights, giving due consideration to the rights of others and to the wise use of the water, and the Board shall assist in the resolution of conflicts concerning such rights.</p><p>1979, c. 307.</p>

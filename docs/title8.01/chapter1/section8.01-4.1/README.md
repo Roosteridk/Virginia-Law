@@ -1,0 +1,3 @@
+# § 8.01-4.1 How jurisdiction determined when proceeding is on penal bond.
+
+<p>When a proceeding before a court is on a penal bond, with condition for the payment of money, the jurisdiction shall be determined as if the undertaking to pay such money had been without a penalty. And when jurisdiction depends on the amount of a judgment, if it be on such a bond, the jurisdiction shall be determined by the sum, payment whereof will discharge the judgment.</p><p>Code 1950, § 8-3; 1977, c. 617.</p>

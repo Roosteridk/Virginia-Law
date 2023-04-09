@@ -1,0 +1,3 @@
+# § 51.1-211 Virginia Law Officers' Retirement System; application of provisions of Virginia Retirement System.
+
+<p>The Virginia Law Officers' Retirement System is created and shall be administered by the Board of Trustees of the Virginia Retirement System. Except as otherwise provided, the provisions of Chapter 1 (§ <a href='http://law.lis.virginia.gov/vacode/51.1-124.1/'>51.1-124.1</a> et seq.) of this title shall apply to and govern the operation of the Virginia Law Officers' Retirement System.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0585'>585</a>.</p>

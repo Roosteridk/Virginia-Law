@@ -1,0 +1,3 @@
+# § 60.2-603 Weekly benefit for unemployment.
+
+<p>A. Each eligible individual who is unemployed in any week shall be paid for such week a benefit equal to his weekly benefit amount less any part of the wages payable to him for such week which is in excess of $50. Where such excess is not a multiple of $1, it shall be computed to the next highest multiple of $1.</p><p>B. Wages earned on a shift commencing Saturday and ending Sunday shall be allocated to the week in which the claimant earns the majority of wages for such work.</p><p>Code 1950, § 60-43; 1964, c. 3; 1966, c. 30; 1968, c. 738, § 60.1-48; 1970, c. 104; 1984, cc. 458, 468; 1986, c. 480; 1992, c. 482; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0125'>125</a>.</p>

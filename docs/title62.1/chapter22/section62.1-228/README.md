@@ -1,0 +1,3 @@
+# § 62.1-228 Collection of money due Fund.
+
+<p>The Authority is empowered to collect, or to authorize others to collect on its behalf, amounts due to the Fund under any loan to a local government or other entity, including, if appropriate, taking the action required by § <a href='http://law.lis.virginia.gov/vacode/15.2-2659/'>15.2-2659</a> to obtain payment of any amounts in default. Proceedings to recover amounts due to the Fund may be instituted by the Authority in the name of the Fund in the appropriate circuit court.</p><p>1986, c. 415; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP1012'>1012</a>.</p>

@@ -1,0 +1,3 @@
+# § 24.2-456 Overseas voter's registration address.
+
+<p>In registering to vote, an overseas voter who is eligible to vote in this state shall use and must be assigned to the voting precinct of the address of the last place of residence of the voter in this state or, in the case of a voter described by subdivision 1 e of § <a href='http://law.lis.virginia.gov/vacode/24.2-452/'>24.2-452</a>, the address of the last place of residence in this state of the parent or legal guardian of the voter. If that address is no longer a recognized residential address, the voter must be assigned an address for voting purposes.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0353'>353</a>.</p>

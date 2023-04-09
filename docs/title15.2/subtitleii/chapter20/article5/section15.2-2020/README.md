@@ -1,0 +1,3 @@
+# § 15.2-2020 Lights on public rights-of-way in counties.
+
+<p>Notwithstanding the provisions of subsection A of § <a href='http://law.lis.virginia.gov/vacode/15.2-2000/'>15.2-2000</a>, counties may install and maintain suitable lights on public rights-of-way in such counties, and pay the costs of such installation and maintenance.</p><p>Code 1950, § 15-778; 1952, c. 125; 1962, c. 623, § 15.1-380; 1997, c. 587.</p>

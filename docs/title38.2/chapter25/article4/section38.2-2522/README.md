@@ -1,0 +1,3 @@
+# § 38.2-2522 Action to recover assessments; penalty.
+
+<p>Within twelve months after an assessment becomes due, a mutual assessment property and casualty insurer may institute suit against any member to recover any assessment that the member fails to pay. The insurer shall be entitled to recover (i) the amount shown to be due, (ii) lawful interest, and (iii) fifty percent of the principal amount as liquidated damages for neglect or refusal to pay within the time required.</p><p>Code 1950, § 38-536; 1952, c. 317, § 38.1-685; 1986, c. 562.</p>

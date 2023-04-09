@@ -1,0 +1,3 @@
+# § 30-1 Time and place of meeting of General Assembly.
+
+<p>The General Assembly shall meet in regular session on the second Wednesday in January of each year. It shall sit at the Capitol in the City of Richmond, but may adjourn to any other place.</p><p>The General Assembly may, by joint resolution, direct the holding of such session or sessions in the Restored Capitol at Williamsburg, Virginia, as to it may seem proper.</p><p>Code 1919, § 294; 1934, p. 99; 1971, Ex. Sess., c. 22.</p>

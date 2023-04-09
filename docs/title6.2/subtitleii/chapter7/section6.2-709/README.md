@@ -1,0 +1,3 @@
+# § 6.2-709 Conformity with federal forms.
+
+<p>To the maximum extent consistent with the effective discharge of the Commission's responsibilities, the forms prescribed by the Commission under this chapter for registration, reports, or any other forms shall conform with those established by regulation adopted pursuant to the Bank Holding Company Act of 1956 (12 U.S.C. § 1841 et seq.) or Section 10 of the Home Owners' Loan Act (12 U.S.C. § 1467a et seq.).</p><p>1978, c. 683, § 6.1-386; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

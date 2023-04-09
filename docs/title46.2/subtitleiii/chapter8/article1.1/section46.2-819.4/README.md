@@ -1,0 +1,3 @@
+# § 46.2-819.4 Smoking in proximity to gas pumps; penalty.
+
+<p>Any person who smokes or uses an open flame within 20 feet of a pump used to fuel motor vehicles or a fueling tanker being used to deliver gasoline to a gasoline station is guilty of a Class 3 misdemeanor if smoking or the use of an open flame is prohibited by a sign at the pump. Any person who causes a fire or explosion as a result of a violation of this section is guilty of a Class 1 misdemeanor.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0848'>848</a>.</p>

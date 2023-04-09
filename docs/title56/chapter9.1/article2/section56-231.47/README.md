@@ -1,0 +1,3 @@
+# § 56-231.47 Adoption of article.
+
+<p>Any cooperative of this Commonwealth engaged in the purchase, sale, generation or transmission of electric energy products or services for sale or resale may come under the provisions of this article by filing with the Commission a certificate of adoption in the manner provided by subsection (b) of § <a href='http://law.lis.virginia.gov/vacode/13.1-334/'>13.1-334</a> and relinquishing all rights and powers granted by its former charter.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0874'>874</a>.</p>

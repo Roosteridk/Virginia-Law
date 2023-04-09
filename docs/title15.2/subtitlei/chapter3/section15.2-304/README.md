@@ -1,0 +1,3 @@
+# § 15.2-304 Effect of change on other county officers.
+
+<p>All other officers of such county shall continue to hold office until their successors are appointed and have qualified. The term of office of any person who holds an office abolished by the form of government adopted shall terminate as soon as his powers and duties have been transferred to some other officer or employee, or are abolished.</p><p>1997, c. 587.</p>

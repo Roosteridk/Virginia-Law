@@ -1,0 +1,3 @@
+# § 36-161 Expansion of housing revitalization zones.
+
+<p>Upon designation of an area as a housing revitalization zone, the local governing body may make written application to the Department to expand the area of the housing revitalization zone. Such application for expansion shall be considered by the Department in accordance with the requirements of §§ <a href='http://law.lis.virginia.gov/vacode/36-160/'>36-160</a> and <a href='http://law.lis.virginia.gov/vacode/36-162/'>36-162</a> and such regulations of the Department as may be applicable.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0789'>789</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0795'>795</a>.</p>

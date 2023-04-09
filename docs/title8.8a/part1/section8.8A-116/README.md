@@ -1,0 +1,3 @@
+# § 8.8A-116 Securities intermediary as purchaser for value.
+
+<p>A securities intermediary that receives a financial asset and establishes a security entitlement to the financial asset in favor of an entitlement holder is a purchaser for value of the financial asset. A securities intermediary that acquires a security entitlement to a financial asset from another securities intermediary acquires the security entitlement for value if the securities intermediary acquiring the security entitlement establishes a security entitlement to the financial asset in favor of an entitlement holder.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0216'>216</a>.</p>

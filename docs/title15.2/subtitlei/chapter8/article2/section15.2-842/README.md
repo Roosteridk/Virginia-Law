@@ -1,0 +1,3 @@
+# § 15.2-842 Department of public safety.
+
+<p>The department of public safety, if and when established, shall be under the supervision of a director of public safety. Such department may consist of the following divisions:</p><p>1. Division of police, in the charge of a chief of police and consisting of such other police officers and personnel as may be appointed.</p><p>2. Division of fire protection, in the charge of a fire chief and consisting of such fire fighters and other personnel as may be appointed.</p><p>Code 1950, § 15-384.62; 1960, c. 382; 1962, c. 623, § 15.1-775; 1977, c. 326; 1997, c. 587.</p>

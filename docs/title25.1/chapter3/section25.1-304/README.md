@@ -1,0 +1,3 @@
+# § 25.1-304 Authority to take possession and title to property.
+
+<p>In addition to any authority it has to exercise the power of eminent domain prior to entering upon property being condemned, an authorized condemnor is authorized to acquire title to and to enter upon and take possession of such property for the purposes for which such condemnor is authorized to condemn such property, and proceed with the construction of improvements upon such property, in accordance with the procedures set forth in this chapter.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

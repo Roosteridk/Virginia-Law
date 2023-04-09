@@ -1,0 +1,3 @@
+# § 6.2-1197 False statements; penalty.
+
+<p>Any officer, director, or agent of a savings institution who knowingly makes a false statement of the condition of the institution to the Commission is guilty of a Class 6 felony.</p><p>Code 1950, § 6-201.62; 1960, c. 402; 1966, c. 584, § 6.1-192; 1972, c. 796, § 6.1-195.73; 1985, c. 425, § 6.1-194.81; 1991, c. 230, § 6.1-194.147; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

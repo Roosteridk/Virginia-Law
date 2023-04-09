@@ -1,0 +1,3 @@
+# § 19.2-407 Review by the Supreme Court.
+
+<p>Pursuant to § <a href='http://law.lis.virginia.gov/vacode/17.1-409/'>17.1-409</a>, the Supreme Court in its discretion may certify an appeal taken pursuant to § <a href='http://law.lis.virginia.gov/vacode/19.2-398/'>19.2-398</a>, or a cross appeal taken pursuant to § <a href='http://law.lis.virginia.gov/vacode/19.2-401/'>19.2-401</a>, for expedited review by the Supreme Court before it has been determined by the Court of Appeals. Such certification may be made only when the Supreme Court determines that at least one of the conditions set forth in subsection B of § <a href='http://law.lis.virginia.gov/vacode/17.1-409/'>17.1-409</a> exists.</p><p>1987, c. 710.</p>

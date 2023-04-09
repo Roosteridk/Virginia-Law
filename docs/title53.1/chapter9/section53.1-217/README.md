@@ -1,0 +1,3 @@
+# § 53.1-217 Authority of Director.
+
+<p>The Director is authorized and directed to do all things necessary and incidental to the carrying out of the compact in every particular. He may in his discretion delegate this authority to some other appropriate official.</p><p>Code 1950, § 53-304.10; 1977, c. 339; 1982, c. 636.</p>

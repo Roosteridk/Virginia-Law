@@ -1,0 +1,3 @@
+# § 22.1-212.8:1 Innovation Technical Advisory Group.
+
+<p>The Department of Education may establish an Innovation Technical Advisory Group, comprised of individuals with experience in the establishment and operation of charter schools, college partnership laboratory schools, and virtual school programs, or it may retain the services of individuals with such experience to provide technical assistance and advice to the Board in carrying out its duties relating to charter schools, college partnership laboratory schools, and virtual school programs.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0381'>381</a>.</p>

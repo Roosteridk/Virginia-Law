@@ -1,0 +1,3 @@
+# § 38.2-4313 Licensing of agents.
+
+<p>Enrollee contracts may be solicited only through life and health insurance agents as provided for in Chapter 18 of this title. Home office salaried officers whose principal duties and responsibilities do not include the negotiation or solicitation of enrollee contracts shall not be required to be licensed.</p><p>1980, c. 720, § 38.1-877; 1986, c. 562; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0086'>86</a>.</p>

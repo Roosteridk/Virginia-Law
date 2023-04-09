@@ -1,0 +1,3 @@
+# § 18.2-14 How unclassified offenses punished.
+
+<p>Offenses defined in Title 18.2 and in other titles in the Code, for which punishment is prescribed without specification as to the class of the offense, shall be punished according to the punishment prescribed in the section or sections thus defining the offense.</p><p>1975, cc. 14, 15.</p>

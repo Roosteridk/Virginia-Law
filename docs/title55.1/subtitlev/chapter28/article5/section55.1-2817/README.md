@@ -1,0 +1,3 @@
+# § 55.1-2817 No authority to adopt more stringent fence laws.
+
+<p>Nothing in § <a href='/vacode/55.1-2814/'>55.1-2814</a> shall authorize or require the boards of supervisors or other governing bodies of counties to declare a more stringent fence as a lawful fence for any county, magisterial district, or selected portion of any county than as prescribed by § <a href='/vacode/55.1-2804/'>55.1-2804</a>.</p><p>Code 1950, § 8-883; 1977, c. 624, § 55-313; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

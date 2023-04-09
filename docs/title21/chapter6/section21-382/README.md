@@ -1,0 +1,3 @@
+# § 21-382 Rights of board of viewers at sale.
+
+<p>The board of viewers shall be in like position and have the same rights and be subject to the same duties as the purchaser of lands at any tax sale under the general law.</p><p>Code 1919, § 1771; 1926, p. 621; 1936, p. 1036; 1954, c. 642.</p>

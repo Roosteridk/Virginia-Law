@@ -1,0 +1,3 @@
+# § 2.2-513 Counsel for Commonwealth in federal matters.
+
+<p>The Attorney General shall represent the interests of the Commonwealth, its departments, boards, institutions and commissions in matters before or controversies with the officers and several departments of the government of the United States.</p><p>Code 1950, § 2-91; 1966, c. 677, § 2.1-126; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

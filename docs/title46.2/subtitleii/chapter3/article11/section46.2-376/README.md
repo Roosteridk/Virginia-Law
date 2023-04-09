@@ -1,0 +1,3 @@
+# § 46.2-376 Report required of person in charge of garage or repair shop.
+
+<p>The person in charge of any garage or repair shop to which is brought any motor vehicle (i) that shows evidence of having been involved in a serious motor vehicle accident or (ii) with evidence of bloodstains shall report to the nearest police station or to the State Police, within twenty-four hours after the motor vehicle is received, giving the engine number, registration number and the name and address of the owner or operator of the vehicle if known. Reports required by this section shall be made upon forms furnished by the Superintendent of State Police.</p><p>Code 1950, §§ 46-405, 46-406; 1958, c. 541, § 46.1-406; 1989, c. 727.</p>

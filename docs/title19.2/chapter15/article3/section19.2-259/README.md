@@ -1,0 +1,3 @@
+# § 19.2-259 On trial for felony, accused to be present; when court may enter plea for him, and trial go on.
+
+<p>A person tried for felony shall be personally present during the trial. If when arraigned he will not plead or answer and does not confess his guilt the court shall have the plea of not guilty entered and the trial shall proceed as if the accused had put in that plea. But for the purposes of this section a motion for a continuance, whether made before or after arraignment, shall not be deemed to be part of the trial.</p><p>Code 1950, § 19.1-240; 1960, c. 366; 1975, c. 495.</p>

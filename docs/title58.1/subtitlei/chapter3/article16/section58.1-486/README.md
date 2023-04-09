@@ -1,0 +1,3 @@
+# § 58.1-486 Bad checks.
+
+<p>If any check tendered for any amount due under this chapter is not paid by the bank on which it is drawn and such person fails to pay the Commissioner the amount due the Commonwealth within five days after the Commissioner has given him written notice by registered or certified mail or in person by an agent that such check was returned unpaid, the person by whom such check was tendered shall be guilty of a violation of § <a href='http://law.lis.virginia.gov/vacode/18.2-182.1/'>18.2-182.1</a>.</p><p>1984, c. 675; 1992, c. 763.</p>

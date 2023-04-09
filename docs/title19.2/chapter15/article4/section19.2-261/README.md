@@ -1,0 +1,3 @@
+# § 19.2-261 Charging grand jury in presence of person selected as juror.
+
+<p>The court shall not charge the grand jury in the presence of any person selected as a juror to try any person indicted by the said grand jury. A violation of this provision shall constitute reversible error in any criminal case tried by a jury composed of one or more such veniremen.</p><p>Code 1950, § 8-208.20; 1973, c. 439; 1975, c. 495.</p>

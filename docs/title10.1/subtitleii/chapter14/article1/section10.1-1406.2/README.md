@@ -1,0 +1,3 @@
+# § 10.1-1406.2  Conditional exemption for coal and mineral mining overburden or solid waste.
+
+<p>The provisions of this chapter shall not apply to coal or mineral mining overburden returned to the mine site or solid wastes from the extraction, beneficiation, and processing of coal or minerals that are managed in accordance with requirements promulgated by the Department of Energy.</p><p>1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0584'>584</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0613'>613</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0947'>947</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0532'>532</a>.</p>

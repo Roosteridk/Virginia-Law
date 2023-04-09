@@ -1,0 +1,3 @@
+# § 8.01-392 When court order book or equivalent is lost or illegible, what matters may be reentered.
+
+<p>When any book, microfilm record, or record in other form containing judgments, decrees, orders or proceedings of a court is lost, destroyed, or illegible, and there can be again entered correctly, by means of any writing, any matters which were in such book, such court may cause its clerk to have such matters reentered, and such reentries shall have the same effect as the original entries.</p><p>Code 1950, § 8-280; 1977, c. 617.</p>

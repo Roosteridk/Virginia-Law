@@ -1,0 +1,3 @@
+# § 10.1-653 Application for assistance.
+
+<p>Landowners who wish to receive assistance under the Program shall apply to the Virginia Soil and Water Conservation Board. The Board shall provide copies of the applications to the chairmen of the soil and water districts, where applicable, and the local governing bodies having jurisdiction in the area where the damage has occurred.</p><p>1981, c. 450, § 21-11.25; 1988, c. 891.</p>

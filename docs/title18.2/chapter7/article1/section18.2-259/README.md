@@ -1,0 +1,3 @@
+# § 18.2-259 Penalties to be in addition to civil or administrative sanctions.
+
+<p>Any penalty imposed for violation of this article or of the Drug Control Act (§ <a href='http://law.lis.virginia.gov/vacode/54.1-3400/'>54.1-3400</a> et seq.) shall be in addition to, and not in lieu of, any civil or administrative penalty or sanction authorized by law.</p><p>Code 1950, § 54-524.105; 1970, c. 650; 1975, cc. 14, 15.</p>

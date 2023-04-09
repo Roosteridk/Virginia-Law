@@ -1,0 +1,3 @@
+# § 19.2-234 Procedure when person arrested under capias.
+
+<p>An officer who, under a capias from any court, arrests a person accused of an offense shall proceed in accordance with § <a href='http://law.lis.virginia.gov/vacode/19.2-80/'>19.2-80</a> and Article 1 (§ <a href='http://law.lis.virginia.gov/vacode/19.2-119/'>19.2-119</a> et seq.) of Chapter 9 of Title 19.2 regarding bail.</p><p>Code 1950, § 19.1-183; 1960, c. 366; 1975, c. 495; 1986, c. 327.</p>

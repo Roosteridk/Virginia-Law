@@ -1,0 +1,3 @@
+# § 51.5-44.1 Fraudulent representation of a service dog or hearing dog; penalty.
+
+<p>Any person who knowingly and willfully fits a dog with a harness, collar, vest, or sign, or uses an identification card commonly used by a person with a disability, in order to represent that the dog is a service dog or hearing dog to fraudulently gain public access for such dog pursuant to provisions in § <a href='http://law.lis.virginia.gov/vacode/51.5-44/'>51.5-44</a> is guilty of a Class 4 misdemeanor.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0575'>575</a>.</p>

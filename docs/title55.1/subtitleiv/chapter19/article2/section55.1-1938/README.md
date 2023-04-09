@@ -1,0 +1,3 @@
+# § 55.1-1938 Rights of mortgagees.
+
+<p>No provision of this chapter shall be construed in derogation of any requirement of the condominium instruments that all or a specified number of the beneficiaries of mortgages or deeds of trust encumbering the condominium units approve specified actions contemplated by the unit owners' association.</p><p>1993, c. 667, § 55-79.72:2; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

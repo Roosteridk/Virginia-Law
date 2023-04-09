@@ -1,0 +1,3 @@
+# § 8.01-198 Action, against whom instituted.
+
+<p>Any such action may be instituted against any person indebted or liable to the Commonwealth in any way whatever, and against his sureties, and against his and their personal representatives. And it may be made when the debt or liability is created or secured by a bond or other instrument, whether the same be payable to the Commonwealth or to any person acting in a public character on behalf of the Commonwealth, or be for the payment of money or the performance of other duties. Every judgment on any such motion shall be in the name of the Commonwealth.</p><p>Code 1950, § 8-761; 1954, c. 550; 1977, c. 617.</p>

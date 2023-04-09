@@ -1,0 +1,3 @@
+# § 21-370 Application of surplus to reduce assessment for following year.
+
+<p>When the sum actually collected on any such assessment shall be more than sufficient to pay the principal and interest for the next succeeding year, a proper allowance for such surplus shall be made in the following assessment, and the percentage may be reduced accordingly.</p><p>Code 1919, § 1771; 1924, p. 711; 1926, p. 620; 1936, p. 1034.</p>

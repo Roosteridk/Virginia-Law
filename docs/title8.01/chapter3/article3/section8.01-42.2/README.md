@@ -1,0 +1,3 @@
+# § 8.01-42.2 Liability of guest for hotel damage.
+
+<p>Any registered guest in a hotel, motel, inn or other place offering to the public transitory lodging or sleeping accommodations for compensation shall be civilly liable to the innkeeper for all property damage to such accommodation or its furnishings which occurs during the period of such person's occupancy when such damage results (i) from the negligence of the guest or of any person for whom he is legally responsible or (ii) from the failure of the guest to comply with reasonable rules and regulations of which he is given actual notice by the innkeeper.</p><p>1989, c. 426.</p>

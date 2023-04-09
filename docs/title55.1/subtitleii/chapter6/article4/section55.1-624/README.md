@@ -1,0 +1,3 @@
+# § 55.1-624 Deeds of corporations; how to be executed and acknowledged.
+
+<p>All deeds made by corporations shall be signed in the name of the corporation by the president or acting president, or any vice-president, or by such other person as may be authorized to do so by the board of directors of such corporation, and, if such deed is to be recorded, the person signing the name of the corporation shall acknowledge such authority in the manner provided by § <a href='/vacode/55.1-625/'>55.1-625</a>.</p><p>Code 1919, § 5208; 1920, p. 586; Code 1950, § 55-119; 1959, Ex. Sess., c. 41; 1975, c. 500; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

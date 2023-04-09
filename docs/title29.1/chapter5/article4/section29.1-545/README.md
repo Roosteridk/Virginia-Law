@@ -1,0 +1,3 @@
+# § 29.1-545 Possession, sale, offering for sale or liberation of live nutria.
+
+<p>It shall be unlawful for any person, firm, association or corporation to possess, sell, offer for sale, or liberate in the Commonwealth any live fur-bearing animal commonly referred to as nutria (Myocastor coypus). This section does not apply to employees of the Department of Wildlife Resources, U.S. Department of Agriculture, or U.S. Fish and Wildlife Service, or any persons involved in research or management activities with these agencies.</p><p>1962, c. 106, § 29-158.3; 1987, c. 488; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0146'>146</a>.</p>

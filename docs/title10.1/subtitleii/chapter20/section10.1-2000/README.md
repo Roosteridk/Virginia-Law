@@ -1,0 +1,3 @@
+# § 10.1-2000 Museum created; essential governmental function.
+
+<p>There is hereby created an institution of the Commonwealth of Virginia to be known as "The Virginia Museum of Natural History," hereinafter referred to as the "Museum." The Museum is hereby declared to be a public body and instrumentality for the purpose of preserving and protecting Virginia's natural history. The exercise by the Museum of the powers conferred by this chapter shall be deemed an essential governmental function.</p><p>1988, cc. 707, 891.</p>

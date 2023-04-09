@@ -1,0 +1,3 @@
+# § 8.01-549 Restraining order or receiver.
+
+<p>The court may interpose by a restraining order, or the appointment of a receiver, or otherwise, to secure the forthcoming of the specific property sued for, and so much other estate as will probably be required to satisfy any further order that may be made in the proceedings.</p><p>Code 1950, § 8-536; 1977, c. 617.</p>

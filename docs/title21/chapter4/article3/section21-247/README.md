@@ -1,0 +1,3 @@
+# § 21-247 County, city or town not liable for act of commission.
+
+<p>No pecuniary liability of any kind shall be imposed upon any county, city or town constituting any part of any district because of any act, agreement, contract, tort, malfeasance, misfeasance, or nonfeasance, by or on the part of the commission of such district, or any member of such commission, or its agents, servants and employees, except as otherwise provided in this chapter with reference to contracts and agreements between the commission and any such county, city or town.</p><p>1946, p. 352; Michie Suppl. 1946, § 1560iii4.</p>

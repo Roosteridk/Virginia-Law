@@ -1,0 +1,3 @@
+# § 62.1-9 Construction of two preceding sections.
+
+<p>Sections <a href='http://law.lis.virginia.gov/vacode/62.1-7/'>62.1-7</a> and <a href='http://law.lis.virginia.gov/vacode/62.1-8/'>62.1-8</a> shall not be construed to give any greater or other right to any person who has erected or may erect any dam or other obstruction across or in any watercourse, than such person would have had if such sections had not been enacted.</p><p>Code 1950, § 62-7; 1968, c. 659.</p>

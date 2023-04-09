@@ -1,0 +1,3 @@
+# § 38.2-4218 Subscriber to have free choice of medical practitioners available.
+
+<p>A plan shall be organized and operated to assure that any subscriber shall have free choice of the medical practitioners available and participating in the plan.</p><p>Code 1950, § 32-195.8:2; 1972, c. 429, § 38.1-820; 1979, c. 721; 1986, c. 562.</p>

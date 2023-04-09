@@ -1,0 +1,3 @@
+# § 45.2-757  Back-poling.
+
+<p>Back-poling shall be prohibited except (i) at a place where the trolley pole cannot be reversed or (ii) when going up an extremely steep grade. In such circumstances, back-poling shall occur only at very slow speed.</p><p>Code 1950, § 45-69.1; 1954, c. 191; 1966, c. 594, § 45.1-73; 1979, c. 315; 1983, c. 70; 1985, c. 302; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.146; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

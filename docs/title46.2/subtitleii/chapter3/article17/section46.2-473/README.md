@@ -1,0 +1,3 @@
+# § 46.2-473 Coverage of driver's policy.
+
+<p>Every driver's policy shall insure the person named therein as insured against loss from the liability imposed upon him by law for damages, including damages for care and loss of services, because of bodily injury to or death of any person, and injury to or destruction of property arising out of the use by him of any motor vehicle not owned by him, within the territorial limits and subject to the limits of liability set forth with respect to a motor vehicle owner's policy.</p><p>Code 1950, § 46-493; 1958, c. 541, § 46.1-505; 1989, c. 727.</p>

@@ -1,0 +1,3 @@
+# § 55.1-1970 Common Interest Community Board.
+
+<p>This chapter shall be administered by the Common Interest Community Board.</p><p>1974, c. 416, § 55-79.86; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0851'>851</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0871'>871</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

@@ -1,0 +1,3 @@
+# § 23.1-2217 Reservation of nomination by donor.
+
+<p>If a donor pursuant to § <a href='http://law.lis.virginia.gov/vacode/23.1-2214/'>23.1-2214</a> reserves in writing as set forth in § <a href='http://law.lis.virginia.gov/vacode/23.1-2215/'>23.1-2215</a> to himself or to any other person the power to (i) nominate to any professorship, scholarship, or other place or appointment in the University or (ii) do any other act connected with such nomination and he or such other person fails to make such nomination in writing or do such other act within six months, the board may proceed to make such appointment or do such act.</p><p>Code 1919, § 825, § 23-84; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

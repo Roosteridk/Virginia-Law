@@ -1,0 +1,3 @@
+# § 63.2-1303 Application for adoption assistance payments.
+
+<p>Eligibility for adoption assistance payments shall be determined by the local board in response to an application for adoption assistance submitted in accordance with regulations adopted by the Board.</p><p>1974, c. 507, § 63.1-238.4; 1976, c. 216; 1981, c. 359; 1987, cc. 650, 681; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0271'>271</a>; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0199'>199</a>.</p>

@@ -1,0 +1,3 @@
+# § 46.2-1201 Ordinances.
+
+<p>The governing body of any county, city, or town may provide by ordinance for taking abandoned vehicles into custody and disposing of them in accordance with this article.</p><p>Any county, city, or town may take any abandoned motor vehicle into custody. The locality may employ its own personnel, equipment, and facilities or hire persons, equipment, and facilities, or firms or corporations that may be independent contractors for removing, preserving, storing, and selling at public auction abandoned motor vehicles.</p><p>1968, c. 421, §§ 46.1-555.2, 46.1-555.3; 1989, c. 727; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0150'>150</a>.</p>

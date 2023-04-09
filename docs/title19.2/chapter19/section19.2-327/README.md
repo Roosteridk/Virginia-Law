@@ -1,0 +1,3 @@
+# § 19.2-327 How judgment of appellate court certified and entered.
+
+<p>The judgment of the Court of Appeals or of the Supreme Court shall be certified to the court to whose judgment the writ of error was allowed. The court or the clerk thereof shall cause the same to be entered on its order book as its own judgment.</p><p>Code 1950, § 19.1-290; 1960, c. 366; 1975, c. 495; 1984, c. 703.</p>

@@ -1,0 +1,3 @@
+# § 6.2-1512 Suspension of license.
+
+<p>If the Commission finds that probable cause for revocation of any license exists and that enforcement of the law requires immediate suspension of the license pending investigation, it may, upon three days' written notice and a hearing, by the Commission or by the Commissioner, enter an order suspending the license for a period not exceeding 30 days.</p><p>Code 1950, § 6-291; 1966, c. 584, § 6.1-261; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

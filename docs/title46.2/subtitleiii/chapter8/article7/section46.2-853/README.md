@@ -1,0 +1,3 @@
+# § 46.2-853 Driving vehicle which is not under control; faulty brakes.
+
+<p>A person shall be guilty of reckless driving who drives a vehicle which is not under proper control or which has inadequate or improperly adjusted brakes on any highway in the Commonwealth.</p><p>Code 1950, §§ 46-209, 46-209.1; 1950, p. 880; 1952, c. 671; 1954, cc. 225, 401, 458; 1958, c. 541, § 46.1-190; 1960, c. 510; 1964, c. 266; 1966, c. 694; 1968, c. 575; 1970, c. 521; 1974, cc. 222, 455; 1975, c. 633; 1978, c. 27; 1979, c. 86; 1981, cc. 333, 585; 1985, c. 148; 1989, c. 727; 1991, c. 119.</p>

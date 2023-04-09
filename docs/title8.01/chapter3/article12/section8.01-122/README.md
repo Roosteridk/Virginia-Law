@@ -1,0 +1,3 @@
+# § 8.01-122 Charges for keeping property.
+
+<p>The legal charges, if any, for keeping any such property, while in the possession of the officer, shall be paid by the plaintiff and certified by the officer to the court who, in case such order or process be not abated and final judgment be rendered for the plaintiff, shall tax the same along with the other costs of the suit.</p><p>Code 1950, § 8-594; 1977, c. 617.</p>

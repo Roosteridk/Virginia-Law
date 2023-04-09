@@ -1,0 +1,3 @@
+# § 19.2-255 Defendant allowed to plead several matters of law or fact.
+
+<p>The defendant in any criminal prosecution may plead as many several matters, whether of law or fact, as he shall think necessary, and he may file pleas in bar at the same time with pleas in abatement, or within a reasonable time thereafter; but the issues on the pleas in abatement shall be first tried.</p><p>Code 1950, § 19.1-242; 1960, c. 366; 1975, c. 495.</p>

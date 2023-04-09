@@ -1,0 +1,3 @@
+# § 58.1-2708 Inspection of books and records.
+
+<p>The Department and its authorized agents and representatives shall have the right at any reasonable time to inspect the books and records of any motor carrier subject to the tax imposed by this chapter.</p><p>Code 1950, § 58-634; 1984, c. 675; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0744'>744</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0803'>803</a>.</p>

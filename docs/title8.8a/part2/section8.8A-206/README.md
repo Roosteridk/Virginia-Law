@@ -1,0 +1,3 @@
+# § 8.8A-206 Completion or alteration of security certificate.
+
+<p>(a) If a security certificate contains the signatures necessary to its issue or transfer but is incomplete in any other respect:</p><p>(1) any person may complete it by filling in the blanks as authorized; and</p><p>(2) even if the blanks are incorrectly filled in, the security certificate as completed is enforceable by a purchaser who took it for value and without notice of the incorrectness.</p><p>(b) A complete security certificate that has been improperly altered, even if fraudulently, remains enforceable, but only according to its original terms.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0216'>216</a>.</p>

@@ -1,0 +1,3 @@
+# § 64.2-779.38 Office of trust director.
+
+<p>Unless the terms of a trust provide otherwise, the rules applicable to a trustee apply to a trust director regarding the following matters:</p><p>1. Acceptance under § <a href='/vacode/64.2-754/'>64.2-754</a>;</p><p>2. Giving of bond to secure performance under § <a href='/vacode/64.2-755/'>64.2-755</a>;</p><p>3. Reasonable compensation under § <a href='/vacode/64.2-761/'>64.2-761</a>;</p><p>4. Resignation under § <a href='/vacode/64.2-758/'>64.2-758</a>;</p><p>5. Removal under § <a href='/vacode/64.2-759/'>64.2-759</a>; and</p><p>6. Vacancy and appointment of successor under § <a href='/vacode/64.2-757/'>64.2-757</a>.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0768'>768</a>.</p>

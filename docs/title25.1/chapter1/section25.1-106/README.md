@@ -1,0 +1,3 @@
+# § 25.1-106 Condemnation of lands within agricultural and forestal districts.
+
+<p>No property that is within an agricultural and forestal district as provided by Chapter 43 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-4300/'>15.2-4300</a> et seq.) of Title 15.2 shall be condemned except in accordance with §§ <a href='http://law.lis.virginia.gov/vacode/15.2-4312/'>15.2-4312</a> and <a href='http://law.lis.virginia.gov/vacode/15.2-4313/'>15.2-4313</a>.</p><p>1977, c. 681, § 25-46.2:2; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

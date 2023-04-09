@@ -1,0 +1,3 @@
+# § 15.2-2316 Validation of zoning ordinances prior to 1971.
+
+<p>All proceedings had in the preparation, certification and adoption of zoning ordinances by every locality prior to January 1, 1971, which shall have been in substantial compliance with the provisions of this chapter are validated and confirmed, and all such zoning ordinances adopted or attempted to be adopted pursuant to the provisions of this chapter are declared to be validly adopted and enacted, notwithstanding any defects or irregularities in the adoption thereof.</p><p>Code 1950, § 15-854.2; 1962, c. 583, § 15.1-503; 1984, c. 380; 1997, c. 587.</p>

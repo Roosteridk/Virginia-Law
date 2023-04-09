@@ -1,0 +1,3 @@
+# § 18.2-467 Fraud in drawing jurors, etc.
+
+<p>If any person be guilty of any fraud, either by tampering with the jury box prior to a draft, or in drawing a juror, or in returning into the jury box the name of any person which has lawfully been drawn out and drawing and substituting another in his stead, or in any other way in drawing of jurors, he shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 18.1-298; 1960, c. 358; 1975, cc. 14, 15.</p>

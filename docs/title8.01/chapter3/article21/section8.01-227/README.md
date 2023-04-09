@@ -1,0 +1,3 @@
+# § 8.01-227 Remedy by motion on certain bonds given or taken by officers; notice.
+
+<p>The court in which any bond given or taken by an officer is required to be returned, filed or recorded, may, on motion of any person protected by such bond, give judgment in favor of such person for such amount as he would be entitled by virtue of the bond to recover in an action at law. Any such motion shall be made after reasonable notice, not less than ten days, to the obligors on the bond. Service may be in any manner sufficient to support a judgment in personam.</p><p>Code 1950, §§ 8-140.1, 8-140.2; 1954, c. 546; 1977, c. 617.</p>

@@ -1,0 +1,3 @@
+# § 63.2-106 Failure to obey subpoena or charging illegal fees; penalty.
+
+<p>If any person fails or refuses to obey any subpoena issued under the provisions of § <a href='http://law.lis.virginia.gov/vacode/63.2-220/'>63.2-220</a> or § <a href='http://law.lis.virginia.gov/vacode/63.2-322/'>63.2-322</a>, or charges or receives any fee contrary to the provisions of § <a href='http://law.lis.virginia.gov/vacode/63.2-508/'>63.2-508</a>, he shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, §§ 63-139, 63-160, 63-203, 63-219; 1968, c. 578, § 63.1-125; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

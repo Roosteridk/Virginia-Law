@@ -1,0 +1,3 @@
+# § 33.2-917 Petition for abandonment.
+
+<p>Any person desiring to have a road abandoned may petition the governing body to abandon such road by filing the petition and a reasonably accurate plat and description of the section proposed to be abandoned with the governing body and in the clerk's office of the county. The governing body may proceed to have such road abandoned as provided in this article, but the expenses shall be borne by the petitioner.</p><p>Code 1950, § 33-76.16; 1950, p. 735; 1970, c. 322, § 33.1-159; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

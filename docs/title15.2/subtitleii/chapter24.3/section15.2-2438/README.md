@@ -1,0 +1,3 @@
+# § 15.2-2438 Sale of loans.
+
+<p>The Authority is empowered at any time and from time to time to sell, upon such terms and conditions as the Authority shall deem appropriate, any loan, or interest therein, made pursuant to this chapter. The net proceeds of sale remaining after payment of the costs and expenses of the sale shall be designated for deposit to, and become part of, the Fund.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0724'>724</a>.</p>

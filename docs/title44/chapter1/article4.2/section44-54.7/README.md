@@ -1,0 +1,3 @@
+# § 44-54.7 Regulations.
+
+<p>Recruiting, enlistment, retention, organization, administration, equipment, facilities, training, discipline, discharge, dismissal, wearing of the uniform, appearance and standards of conduct shall be governed by regulations prescribed by the Adjutant General in conformity with this chapter and federal law and regulations pertaining to state defense forces. Such regulations shall, to the extent practicable, be consistent with regulations governing the Army National Guard.</p><p>1989, c. 414.</p>

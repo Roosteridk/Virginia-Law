@@ -1,0 +1,3 @@
+# § 8.01-120 No verdict as to some items; omission of price or value.
+
+<p>If in such detinue action, on an issue concerning several things, in one or more counts, no verdict be found for part of them, it shall not be error, but the plaintiff shall be barred of his title to the things omitted; and if the verdict omit the price or value, the court may at any time have a jury impaneled to ascertain the same.</p><p>Code 1950, § 8-592; 1977, c. 617.</p>

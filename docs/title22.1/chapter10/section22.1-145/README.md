@@ -1,0 +1,3 @@
+# § 22.1-145 Investment of Fund.
+
+<p>The Board of Education shall invest the Literary Fund in securities that are legal investments under the laws of the Commonwealth for public funds. The Board may call in any such investment and reinvest the same whenever it deems proper for the preservation, security or improvement of the Literary Fund. Whenever the Board shall invest in bonds of this Commonwealth, no premium shall be required or paid on such investment. All securities for money belonging to the Literary Fund shall be deposited with the State Treasurer for safekeeping, who shall return with his annual report a list thereof with a statement of their value.</p><p>Code 1950, § 22-102; 1956, c. 184; 1971, Ex. Sess., c. 128; 1980, c. 559; 1985, c. 139.</p>

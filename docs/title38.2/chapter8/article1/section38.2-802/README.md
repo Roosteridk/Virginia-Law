@@ -1,0 +1,3 @@
+# § 38.2-802 How process served.
+
+<p>Service of process or notice upon any unlicensed insurer in any suit, action or proceeding arising out of or in connection with the acts listed in § <a href='http://law.lis.virginia.gov/vacode/38.2-801/'>38.2-801</a> in this Commonwealth shall be made in the manner prescribed in § <a href='http://law.lis.virginia.gov/vacode/13.1-758/'>13.1-758</a>.</p><p>1952, c. 317, § 38.1-65; 1956, c. 431; 1958, c. 597; 1986, c. 562.</p>

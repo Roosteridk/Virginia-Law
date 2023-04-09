@@ -1,0 +1,3 @@
+# § 65.2-527 When employee's rights exercised by guardian or trustee.
+
+<p>If an injured employee is incapacitated or is under eighteen years of age at the time when any right or privilege accrues to him under this title, his guardian, trustee or conservator may in his behalf claim and exercise such right or privilege.</p><p>Code 1950, § 65-75; 1968, c. 660, § 65.1-78; 1991, c. 355; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0801'>801</a>.</p>

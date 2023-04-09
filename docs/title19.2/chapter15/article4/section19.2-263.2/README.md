@@ -1,0 +1,3 @@
+# § 19.2-263.2 Jury instructions.
+
+<p>A proposed jury instruction submitted by a party, which constitutes an accurate statement of the law applicable to the case, shall not be withheld from the jury solely for its nonconformance with model jury instructions.</p><p>1992, c. 522.</p>

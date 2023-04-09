@@ -1,0 +1,3 @@
+# § 58.1-3615 Home Demonstration Clubs, 4-H Clubs and Future Farmers of America, Inc.
+
+<p>The Home Demonstration Clubs, 4-H Clubs, and the Future Farmers of America, Incorporated, are hereby classified as patriotic and benevolent organizations.</p><p>Code 1950, § 58-12.21; 1974, c. 469; 1984, c. 675.</p>

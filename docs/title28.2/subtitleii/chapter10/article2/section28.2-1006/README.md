@@ -1,0 +1,3 @@
+# § 28.2-1006 Lawfully harvested finfish and shellfish; possession, storage, marketing and disposal.
+
+<p>Notwithstanding any provision of law to the contrary, finfish, crabs, oysters, clams, and other shellfish caught in the waters within the jurisdiction of the Potomac River Fisheries Commission, in compliance with the regulations prescribed by the Commission pursuant to the Potomac River Compact of 1958, may be possessed, stored, marketed, and otherwise disposed of elsewhere in the Commonwealth.</p><p> 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0233'>233</a>.</p>

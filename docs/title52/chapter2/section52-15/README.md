@@ -1,0 +1,3 @@
+# § 52-15 Control of system; orders, rules, or regulations.
+
+<p>The communication system shall remain at all times under the physical and operational control of the Superintendent of State Police, and such control may be exercised by him through such member of the Department of State Police as he shall designate for such purpose.</p><p>The Superintendent may make and issue such orders, rules, or regulations for the use of the system as are necessary for efficient operation.</p><p>1938, p. 675; Michie Code 1942, § 2154(236); 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0049'>49</a>.</p>

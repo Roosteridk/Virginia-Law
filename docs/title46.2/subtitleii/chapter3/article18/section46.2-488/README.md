@@ -1,0 +1,3 @@
+# § 46.2-488 Question to be included in application for driver's license; surrender of license issued by another party state.
+
+<p>For the purpose of enforcing subdivision (3) of Article V of this compact, the Department shall include as part of the form for application for a driver's license under § <a href='http://law.lis.virginia.gov/vacode/46.2-323/'>46.2-323</a> a question whether the applicant is currently licensed in another state and shall, if the applicant is so licensed, require the surrender of such license prior to the granting of such application in accordance with the provisions of this chapter.</p><p>1968, c. 166, § 46.1-167.13; 1984, c. 780; 1989, c. 727 .</p>

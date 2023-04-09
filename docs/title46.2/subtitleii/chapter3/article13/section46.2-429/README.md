@@ -1,0 +1,3 @@
+# § 46.2-429 Release of deposits only upon consent of Commissioner.
+
+<p>Bonds, cash, or securities deposited with the State Treasurer pursuant to this chapter shall only be released by the State Treasurer upon consent of the Commissioner given in conformity with this chapter.</p><p>Code 1950, § 46-449; 1958, c. 541, § 46.1-461; 1989, c. 727.</p>

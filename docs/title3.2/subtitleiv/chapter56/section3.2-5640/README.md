@@ -1,0 +1,3 @@
+# § 3.2-5640 Certain merchants to provide scales for use of customers.
+
+<p>Any person engaged, in the sale of items by weight from a self-service bulk display, shall make available a scale for use by his customers and shall upon request provide customer assistance in weighing of all commodities. The scale shall be accurate and maintained in good working order.</p><p>1972, c. 497; 1993, c. 604, § 3.1-962.1; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

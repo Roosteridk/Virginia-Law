@@ -1,0 +1,3 @@
+# § 24.2-667 Completion of statement of results.
+
+<p>At the conclusion of determining the votes cast on voting devices and paper ballots, the officers of election shall verify that all required data has been accurately entered, sign both copies of the statement of results, and affirm that the statement is complete and the information thereon is true and correct.</p><p>Code 1950, §§ 24-246, 24-265, 24-312; 1950, p. 165; 1966, c. 453; 1970, c. 462, §§ 24.1-142, 24.1-222; 1974, c. 428; 1979, c. 329; 1981, c. 425; 1983, c. 461; 1985, c. 458; 1993, c. 641.</p>

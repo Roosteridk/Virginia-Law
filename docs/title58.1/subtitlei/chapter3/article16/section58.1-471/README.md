@@ -1,0 +1,3 @@
+# § 58.1-471 Fraudulent withholding exemption certificate or failure to supply information.
+
+<p>Any individual required to supply information to his employer under this article who willfully supplies false or fraudulent information, or who willfully fails to supply information thereunder which would require an increase in the tax to be withheld under this article, shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 58-151.12; 1962, c. 612; 1984, c. 675.</p>

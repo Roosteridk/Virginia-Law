@@ -1,0 +1,3 @@
+# § 2.2-2216 Appropriations by any government.
+
+<p>Any government may make appropriations for the acquisition, construction, improvement, maintenance or operation of any project acquired, constructed, improved, maintained or operated by the Authority.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0758'>758</a>, § 9-266.13; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

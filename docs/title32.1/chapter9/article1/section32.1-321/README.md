@@ -1,0 +1,3 @@
+# § 32.1-321 Prosecution of cases.
+
+<p>The State Attorney General shall refer cases for prosecution in accordance with the provisions of this chapter to the attorney for the Commonwealth in the city or county where the offense occurred. The attorney for the Commonwealth shall obtain the assistance of the office of the Attorney General in the conduct of litigation arising under this chapter and shall be considered the authorized representative of the Attorney General for the purposes of this chapter.</p><p>1981, c. 255.</p>

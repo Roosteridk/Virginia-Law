@@ -1,0 +1,3 @@
+# § 8.01-605 How person entitled to money paid into state treasury may recover it.
+
+<p>Money paid into the state treasury under the provisions of this article shall be accounted for and disbursed under the procedures provided for in Article 3 (§ <a href='/vacode/55.1-2524/'>55.1-2524</a> et seq.) of Chapter 25 of Title 55.1.</p><p>Code 1950, § 8-749; 1962, c. 607; 1977, c. 617; 1981, c. 514; 1982, c. 155.</p>

@@ -1,0 +1,3 @@
+# § 59.1-310.10 Penalty for violation.
+
+<p>No person shall use the title "accredited septic system inspector" or perform a septic system inspection in connection with any real estate transaction unless he meets the requirements of this chapter. Any person who violates the provisions of this chapter is guilty of a Class 3 misdemeanor.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0052'>52</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0521'>521</a>.</p>

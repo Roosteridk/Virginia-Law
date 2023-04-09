@@ -1,0 +1,3 @@
+# § 58.1-3521 Manufactured homes; proration of tax.
+
+<p>Notwithstanding any other provision of this chapter, any city or county wherein a manufactured home, as defined in § <a href='http://law.lis.virginia.gov/vacode/36-85.3/'>36-85.3</a>, is delivered or moved after January 1, and used as a place of full-time residence by any person, may quarterly prorate any property taxes which would have been collectible had such manufactured home been situated within such city or county on January 1 of that year.</p><p>Code 1950, § 58-829.3; 1960, c. 418; 1970, c. 655; 1976, c. 567; 1984, c. 675; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0152'>152</a>.</p>

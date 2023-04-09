@@ -1,0 +1,3 @@
+# § 42.1-91.1 Availability of public records created prior to January 1, 1901.
+
+<p>Notwithstanding any provisions of a previously executed contract with any department, agency, or institution of the Commonwealth or political subdivision, any individual or private entity lawfully in possession of public records created prior to January 1, 1901, or images of such records may display or publish such records in any format, including in an electronic database or on the Internet, without paying a fee to or requesting permission from the original custodian of such records.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0773'>773</a>.</p>

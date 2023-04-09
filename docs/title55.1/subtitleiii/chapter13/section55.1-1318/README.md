@@ -1,0 +1,3 @@
+# § 55.1-1318 Penalties for violation of chapter.
+
+<p>If the landlord acts in willful violation of § <a href='/vacode/55.1-1303/'>55.1-1303</a>, <a href='/vacode/55.1-1306/'>55.1-1306</a>, <a href='/vacode/55.1-1310/'>55.1-1310</a>, or <a href='/vacode/55.1-1314/'>55.1-1314</a> or if the landlord fails to provide a written, dated rental agreement, the tenant is entitled to recover from the landlord an amount equal to the greater of either the tenant's monthly rental payment at the time of the violation or actual damages and reasonable attorney fees.</p><p>1986, c. 586, § 55-248.51; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

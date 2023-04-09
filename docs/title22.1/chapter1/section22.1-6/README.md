@@ -1,0 +1,3 @@
+# § 22.1-6 Permitted fees and charges.
+
+<p>Except as provided in this title or as permitted by regulation of the Board of Education, no fees or charges may be levied on any pupil by any school board. No pupil's scholastic report card or diploma shall be withheld because of nonpayment of any such fee or charge.</p><p>Code 1950, §§ 22-197, 22-198, 22-199; 1977, c. 204; 1980, c. 559.</p>

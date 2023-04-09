@@ -1,0 +1,3 @@
+# § 57-2 Rights asserted therein reaffirmed.
+
+<p>The General Assembly does hereby declare again that the rights asserted in § <a href='http://law.lis.virginia.gov/vacode/57-1/'>57-1</a> are the natural and unalienable rights of mankind and this declaration is the policy of the Commonwealth of Virginia.</p><p>Code 1919, § 35; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0284'>284</a>.</p>

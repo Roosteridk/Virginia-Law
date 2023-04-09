@@ -1,0 +1,3 @@
+# § 32.1-188 Consolidation of districts.
+
+<p>The governing body of any city which has established more than one mosquito control district pursuant to § <a href='http://law.lis.virginia.gov/vacode/32.1-187/'>32.1-187</a> may, by ordinance, consolidate such districts under a single commission which may function under the appropriate city department or other agency as determined by the local governing body.</p><p>Code 1950, § 32-379.1; 1973, c. 501; 1979, c. 711; 1981, c. 354; 2002, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0224'>224</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0233'>233</a>.</p>

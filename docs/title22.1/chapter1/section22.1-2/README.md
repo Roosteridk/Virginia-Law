@@ -1,0 +1,3 @@
+# § 22.1-2 System of free public elementary and secondary schools to be maintained; administration.
+
+<p>There shall be a system of free public elementary and secondary schools established and maintained as provided in this title and administered by the Board of Education, the Superintendent of Public Instruction, division superintendents and school boards.</p><p>Code 1950, §§ 22-1.1, 22-2; 1971, Ex. Sess., c. 100; 1976, cc. 681, 713; 1978, c. 518; 1980, c. 559.</p>

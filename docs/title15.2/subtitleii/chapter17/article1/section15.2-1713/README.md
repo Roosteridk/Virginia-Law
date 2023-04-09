@@ -1,0 +1,3 @@
+# § 15.2-1713 Localities authorized to offer and pay rewards in felony and misdemeanor cases.
+
+<p>When any felony or misdemeanor has been committed, or there has been any attempt to commit a felony in any locality, the governing body of the locality or its duly authorized agent may offer and pay a reward for the arrest and final conviction of the person or persons who committed the felony or misdemeanor or attempted to commit the felony. The reward may be paid out of the general fund of such locality.</p><p>1983, c. 525, § 15.1-137.2; 1984, c. 661; 1997, c. 587.</p>

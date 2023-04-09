@@ -1,0 +1,3 @@
+# § 18.2-194 Unauthorized possession of two or more signed credit cards or credit card numbers.
+
+<p>When a person, other than the cardholder or a person authorized by him, possesses two or more credit cards which are signed or two or more credit card numbers, such possession shall be prima facie evidence that said cards or credit card numbers were obtained in violation of § <a href='http://law.lis.virginia.gov/vacode/18.2-192/'>18.2-192</a>.</p><p>Code 1950, § 18.1-125.5; 1968, c. 480; 1975, cc. 14, 15; 1985, c. 266; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0157'>157</a>.</p>

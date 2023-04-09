@@ -1,0 +1,3 @@
+# § 11-2.2 Unsolicited goods deemed gift to recipient.
+
+<p>If any person, firm, partnership, association or corporation, or any agent or employee thereof, shall in any manner or by any means offer for sale goods, wares or merchandise when the offer includes the voluntary and unsolicited sending of any goods, wares or merchandise not actually ordered or requested by the recipient, either orally or in writing, then the sender of any such unsolicited goods, wares or merchandise shall for all purposes be deemed to have made an unconditional gift to the recipient thereof, who may use or dispose of such goods, wares or merchandise in any manner he deems proper without any obligation to return the same to the sender or to pay him therefor.</p><p>1970, c. 386.</p>

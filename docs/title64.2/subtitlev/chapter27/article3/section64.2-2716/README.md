@@ -1,0 +1,3 @@
+# § 64.2-2716 Substantial compliance with donor-imposed formal requirement.
+
+<p>A powerholder's substantial compliance with a formal requirement of appointment imposed by the donor, including a requirement that the instrument exercising the power of appointment make reference or specific reference to the power, is sufficient if:</p><p>1. The powerholder knows of and intends to exercise the power; and</p><p>2. The powerholder's manner of attempted exercise of the power does not impair a material purpose of the donor in imposing the requirement.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

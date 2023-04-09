@@ -1,0 +1,3 @@
+# § 8.01-681 Decision of appellate court.
+
+<p>The appellate court shall affirm the judgment if there is no error therein, and reverse the same, in whole or in part, if erroneous, and enter such judgment as to the court shall seem right and proper and shall render final judgment upon the merits whenever, in the opinion of the court, the facts before it are such as to enable the court to attain the ends of justice. A civil case shall not be remanded for a trial de novo except when the ends of justice require it, but the appellate court shall, in the order remanding the case, if it be remanded, designate upon what questions or points a new trial is to be had.</p><p>Code 1950, § 8-493; 1977, c. 617; 1984, c. 703.</p>

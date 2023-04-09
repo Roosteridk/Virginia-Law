@@ -1,0 +1,3 @@
+# § 46.2-480 Reimbursement of carrier and proration of insurance.
+
+<p>Any policy may provide:</p><p>1. That the insured, or any other person covered by the policy, shall reimburse the insurance carrier for payments made on account of any accident, claim, or suit involving a breach of the terms, provisions, or conditions of the policy; or</p><p>2. For proration of the insurance with other applicable valid and collectible insurance.</p><p>Code 1950, § 46-499; 1958, c. 541, § 46.1-512; 1989, c. 727.</p>

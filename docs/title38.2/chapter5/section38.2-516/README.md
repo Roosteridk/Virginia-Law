@@ -1,0 +1,3 @@
+# § 38.2-516 Prohibited compensation for intra-company replacement.
+
+<p>No insurer shall pay a commission or other compensation to an appointed agent who has replaced an existing individual accident and sickness policy with a policy issued by the same insurer when such new policy provides benefits substantially similar to the benefits under the replaced policy, except that an insurer may pay to such agent a commission or other compensation to the extent that the commission or other compensation does not exceed the renewal commission that would have been paid to the agent had the replaced policy continued in force.</p><p>1990, c. 265.</p>

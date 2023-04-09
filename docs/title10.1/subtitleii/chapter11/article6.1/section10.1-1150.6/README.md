@@ -1,0 +1,3 @@
+# § 10.1-1150.6 Revocation of certification.
+
+<p>If the actions of any certified prescribed burn manager or the prescriptions prepared by him violate any provision of this article, state air pollution control laws, or Virginia Department of Forestry rules or threaten public health and safety, his certification may be revoked by the State Forester.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0156'>156</a>.</p>

@@ -1,0 +1,3 @@
+# § 22.1-208 Emphasis on moral education.
+
+<p>The entire scheme of instruction in the public schools shall emphasize moral education through lessons given by teachers and imparted by appropriate reading selections.</p><p>Code 1950, § 22-238; 1980, c. 559.</p>

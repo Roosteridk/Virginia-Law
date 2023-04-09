@@ -1,0 +1,3 @@
+# § 46.2-1239 Parking in certain locations; penalty.
+
+<p>No person shall park a vehicle or permit it to stand, whether attended or unattended, on a highway in front of a private driveway, within 15 feet of a fire hydrant or the entrance to a fire station, within 15 feet of the entrance to a plainly designated emergency medical services agency, or within 20 feet from the intersection of curb lines or, if none, then within 15 feet of the intersection of property lines at any highway intersection.</p><p>Code 1950, § 46-263; 1958, c. 541, § 46.1-258; 1972, c. 528; 1984, c. 126; 1989, c. 727; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

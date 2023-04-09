@@ -1,0 +1,3 @@
+# § 54.1-2807.1 Confidentiality of information on infectious diseases.
+
+<p>All information received by any person practicing funeral services or his agent regarding the fact that any dead body which they have received harbors an infectious disease shall be confidential, and disclosure of such information shall be grounds for disciplinary action against the funeral service licensee pursuant to § <a href='http://law.lis.virginia.gov/vacode/54.1-2806/'>54.1-2806</a>.</p><p>Notification that a dead body harbors an infectious disease will not constitute grounds for any funeral director's refusal to accept the body.</p><p>1988, c. 836, § 54-260.74:2.</p>

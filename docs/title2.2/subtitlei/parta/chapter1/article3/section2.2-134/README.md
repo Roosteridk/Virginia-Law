@@ -1,0 +1,3 @@
+# § 2.2-134 Authority to create gubernatorial commissions.
+
+<p>A. The Governor may create gubernatorial commissions for purposes related to his authority and responsibility. These entities shall be referred to as "Commissions."</p><p>B. For the purpose of this chapter, "gubernatorial commission" includes any temporary study group, task force, blue ribbon panel or any similar collegial body created by the Governor.</p><p>1984, c. 615, §§ 2.1-51.35, 2.1-51.36; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,0 +1,3 @@
+# § 40.1-87 Vacation or part-time employment certificate.
+
+<p>A vacation or part-time employment certificate shall permit the employment of a child between fourteen and sixteen years of age only during school vacation periods or on days when school is not in session, or outside school hours on school days.</p><p>Code 1950, § 40-100.3; 1958, c. 164; 1970, c. 321; 1979, c. 219; 1982, c. 136; 1991, c. 511.</p>

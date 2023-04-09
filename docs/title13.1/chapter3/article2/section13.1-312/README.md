@@ -1,0 +1,3 @@
+# § 13.1-312 Declaration of policy.
+
+<p>It is the declared policy of the Commonwealth, as one means of improving the economic position of agriculture, to encourage the organization of producers of agricultural products into effective nonprofit cooperative associations under the control of such producers, and to that end this Act shall be liberally construed to accomplish its purposes.</p><p>1956, c. 428; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0234'>234</a>.</p>

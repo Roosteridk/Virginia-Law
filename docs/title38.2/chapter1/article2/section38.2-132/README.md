@@ -1,0 +1,3 @@
+# § 38.2-132 Commercial multi-peril insurance.
+
+<p>"Commercial multi-peril insurance" is a combination multi-peril policy written under the provisions of § <a href='http://law.lis.virginia.gov/vacode/38.2-1921/'>38.2-1921</a> insuring risks incident to a commercial enterprise containing any combination of the classes of insurance set forth in subsection A of § <a href='http://law.lis.virginia.gov/vacode/38.2-1902/'>38.2-1902</a>, except insurance on or with respect to operating properties of railroads.</p><p>1986, c. 562.</p>

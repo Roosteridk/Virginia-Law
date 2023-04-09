@@ -1,0 +1,3 @@
+# § 63.2-1519 Physician-patient and spousal privileges inapplicable.
+
+<p>In any legal proceeding resulting from the filing of any report or complaint pursuant to this chapter, the physician-patient and spousal privileges shall not apply.</p><p>1975, c. 341, § 63.1-248.11; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0900'>900</a>.</p>

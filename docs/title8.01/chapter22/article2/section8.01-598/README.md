@@ -1,0 +1,3 @@
+# § 8.01-598 Effect of judgment against receiver.
+
+<p>A judgment against a receiver under § <a href='http://law.lis.virginia.gov/vacode/8.01-597/'>8.01-597</a> shall not be a lien on the property or funds under the control of the court, nor shall any execution issue thereon, but upon filing a certified copy of such judgment in the cause in which the receiver was appointed, the court shall direct payment of such judgment in the same manner as if the claim upon which the judgment is based had been proved and allowed in such cause.</p><p>Code 1950, § 8-742; 1977, c. 617.</p>

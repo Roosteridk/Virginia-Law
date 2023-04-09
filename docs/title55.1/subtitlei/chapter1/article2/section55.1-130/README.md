@@ -1,0 +1,3 @@
+# § 55.1-130 Certain limitations construed.
+
+<p>Every limitation in any deed or will contingent upon the dying of any person without heirs, heirs of the body, issue, issue of the body, children, offspring or descendants, or other relatives shall be construed a limitation to take effect when such person dies not having such heir, issue, child, offspring, descendant, or other relative, as the case may be, living at the time of his death, or born to him within 10 months after his death, unless the intention of such limitation be otherwise plainly declared on the face of the deed or will creating it.</p><p>Code 1919, § 5151; Code 1950, § 55-13; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

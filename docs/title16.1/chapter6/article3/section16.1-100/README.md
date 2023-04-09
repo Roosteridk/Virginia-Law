@@ -1,0 +1,3 @@
+# § 16.1-100 Additional executions; by whom issued.
+
+<p>Subject to the limitations prescribed in Chapter 17 (§ <a href='http://law.lis.virginia.gov/vacode/8.01-426/'>8.01-426</a> et seq.) of Title 8.01, additional executions may be issued as provided in § <a href='http://law.lis.virginia.gov/vacode/8.01-475/'>8.01-475</a>. Such executions shall be issued by the judge or clerk of the general district court and shall be returned to the court in which such papers are held on the return day of the execution.</p><p>1956, c. 555; 1983, c. 499.</p>

@@ -1,0 +1,3 @@
+# § 62.1-214 Bondholder protection.
+
+<p>Subsequent amendments to this chapter shall not limit the rights vested in the Authority with respect to any agreements made with, or remedies available to, the holders of bonds or the beneficiaries of credit enhancements issued under this chapter before the enactment of the amendments until the bonds, together with all premium and interest thereon, and the credit enhancements, and all costs and expenses in connection with any proceeding by or on behalf of the holders or the beneficiaries, are fully met and discharged.</p><p>1984, c. 699; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0399'>399</a>.</p>

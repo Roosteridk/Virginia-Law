@@ -1,0 +1,3 @@
+# § 38.2-4305 Fiduciary responsibilities.
+
+<p>Any director, officer or partner of a health maintenance organization who receives, collects, disburses, or invests funds in connection with the activities of the organization shall be responsible for the funds in a fiduciary relationship with the subscribers and enrollees.</p><p>1980, c. 720, § 38.1-868; 1986, c. 562.</p>

@@ -1,0 +1,3 @@
+# § 18.2-54.1 Attempts to poison.
+
+<p>If any person administers or attempts to administer any poison or destructive substance in food, drink, prescription or over-the-counter medicine, or otherwise, or poisons any spring, well, waterworks as defined in § <a href='http://law.lis.virginia.gov/vacode/32.1-167/'>32.1-167</a>, or reservoir of water with intent to kill or injure another person, he shall be guilty of a Class 3 felony.</p><p>Code 1950, § 18.1-64; 1960, c. 358; 1975, cc. 14, 15; 1983, c. 129; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0300'>300</a>.</p>

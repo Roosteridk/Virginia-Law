@@ -1,0 +1,3 @@
+# § 19.2-216 Definition of indictment, presentment and information.
+
+<p>An indictment is a written accusation of crime, prepared by the attorney for the Commonwealth and returned "a true bill" upon the oath or affirmation of a legally impanelled grand jury.</p><p>A presentment is a written accusation of crime prepared and returned by a grand jury from their own knowledge or observation, without any bill of indictment laid before them.</p><p>An information is a written accusation of crime or a complaint for forfeiture of property or money or for imposition of a penalty, prepared and presented by a competent public official upon his oath of office.</p><p>1975, c. 495.</p>

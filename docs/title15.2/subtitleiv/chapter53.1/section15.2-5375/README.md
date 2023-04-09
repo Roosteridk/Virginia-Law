@@ -1,0 +1,3 @@
+# § 15.2-5375 Appropriations to Authority.
+
+<p>Any participating locality is authorized to make appropriations to the Authority from available funds or from funds provided for the purpose by bond issues for the acquisition of land or improvements to land or the construction, improvement, maintenance, and operation of any hospital or health center operated or controlled or proposed to be operated or controlled by the Authority. The participating locality may also transfer to the Authority, with or without consideration, real or personal property for any or all of such purposes.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0676'>676</a>.</p>

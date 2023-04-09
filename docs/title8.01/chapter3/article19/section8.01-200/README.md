@@ -1,0 +1,3 @@
+# § 8.01-200 Mistakes against State corrected.
+
+<p>After a debt to the Commonwealth shall have been paid, if it appear that an error or mistake has been committed to its prejudice, whether before or after the issuing of execution, a motion may be made on ten days' notice against any person liable for the debt, for the amount of such error or mistake, and judgment may be given therefor, without interest or damages thereon.</p><p>Code 1950, § 8-763; 1977, c. 617.</p>

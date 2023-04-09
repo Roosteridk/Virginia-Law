@@ -1,0 +1,3 @@
+# § 36-85.33 Revocation of license upon payment from fund.
+
+<p>Upon payment to a claimant from the fund, the Board shall immediately revoke the license of the regulant whose conduct resulted in this payment. Any regulant whose license is revoked shall not be eligible to apply for a license under this chapter until the regulant has repaid in full the amount paid from the fund on his account, plus interest.</p><p>1991, c. 555; 1992, c. 223.</p>

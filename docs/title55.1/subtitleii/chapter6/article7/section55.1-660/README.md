@@ -1,0 +1,3 @@
+# § 55.1-660 No action to be brought against the State Corporation Commission or its staff.
+
+<p>No action shall be brought against the State Corporation Commission or any member of the staff of the State Corporation Commission claiming damage for alleged errors or omissions in the performance of the duties imposed by this article on the State Corporation Commission.</p><p>1970, c. 76, § 55-142.9; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

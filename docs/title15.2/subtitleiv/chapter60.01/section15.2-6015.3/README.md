@@ -1,0 +1,3 @@
+# § 15.2-6015.3 Compensation; expenses.
+
+<p>Members shall receive such compensation for the performance of their duties as provided in § <a href='http://law.lis.virginia.gov/vacode/2.2-2813/'>2.2-2813</a>. All members shall be reimbursed for all reasonable and necessary expenses incurred in the performance of their duties as provided in §§ <a href='http://law.lis.virginia.gov/vacode/2.2-2813/'>2.2-2813</a> and <a href='http://law.lis.virginia.gov/vacode/2.2-2825/'>2.2-2825</a>. Funding for the costs of compensation and expenses of the members shall be provided by the Virginia Coalfields Economic Development Authority.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0543'>543</a>.</p>

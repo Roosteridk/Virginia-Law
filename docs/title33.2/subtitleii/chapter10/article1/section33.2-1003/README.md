@@ -1,0 +1,3 @@
+# § 33.2-1003 Additional power to acquire lands.
+
+<p>The Commissioner of Highways may use the powers granted in this title to acquire needed property interests for purposes set out in Article 5 (§ <a href='http://law.lis.virginia.gov/vacode/33.2-281/'>33.2-281</a> et seq.) of Chapter 2.</p><p>1992, c. 167, § 33.1-89.2; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

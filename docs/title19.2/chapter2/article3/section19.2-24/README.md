@@ -1,0 +1,3 @@
+# § 19.2-24 When appeal may be taken; witnesses recognized; bail.
+
+<p>Any person from whom a recognizance is required under the provisions of this chapter or who has been committed to jail for failure to give security therefor, may appeal to the circuit court of the county or city, and, in such case, the judge from whose judgment the appeal is taken shall recognize such of the witnesses as he thinks proper; provided, however, that the person taking the appeal may be required to give bail, with good security, for his appearance at the circuit court of the county or city.</p><p>Code 1950, § 19.1-23; 1960, c. 366; 1975, c. 495; 1978, c. 500.</p>

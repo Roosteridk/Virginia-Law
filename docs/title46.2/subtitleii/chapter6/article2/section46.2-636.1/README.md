@@ -1,0 +1,3 @@
+# § 46.2-636.1 Security interests in farm tractors and special construction and forestry equipment.
+
+<p>A financing statement, as defined in § <a href='http://law.lis.virginia.gov/vacode/8.9A-102/'>8.9A-102</a>, must be filed to perfect all security interests in farm tractors and special construction and forestry equipment, as defined in § <a href='http://law.lis.virginia.gov/vacode/46.2-100/'>46.2-100</a>. No other provisions of this chapter pertaining to security interests shall apply to these motor vehicles.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0135'>135</a>.</p>

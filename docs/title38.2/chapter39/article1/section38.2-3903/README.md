@@ -1,0 +1,3 @@
+# § 38.2-3903 What laws applicable.
+
+<p>Except as provided in this section, all mutual assessment life, accident and sickness insurers shall comply with all provisions of this title relating to insurers generally. Until July 1, 1990, those classes of insurance specified in Category A of § <a href='http://law.lis.virginia.gov/vacode/38.2-3902/'>38.2-3902</a> shall be exempt from this title, except this chapter and Chapters 5 and 6 of this title. In the event of conflict between the provisions of this chapter and other provisions of this title, the provisions of this chapter shall be controlling.</p><p>1985, c. 400, § 38.1-549.4; 1986, c. 562.</p>

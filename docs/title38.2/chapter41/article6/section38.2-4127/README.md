@@ -1,0 +1,3 @@
+# § 38.2-4127 Annual license.
+
+<p>Societies now authorized to do business in this Commonwealth may continue such business until June 30, 1987. The authority of such societies and all societies hereafter licensed may thereafter be renewed annually, but in all cases will terminate on June 30. However, a license so issued shall continue in effect until the new license is issued or specifically refused. For each such license or renewal the society shall pay the Commission twenty dollars. A duly certified copy or duplicate of such license shall be prima facie evidence that the licensee is a fraternal benefit society within the meaning of this chapter.</p><p>Code 1950, §§ 38-271, 38.1-588; 1952, c. 317, § 38.1-638.20; 1968, c. 654; 1978, c. 4; 1986, c. 562.</p>

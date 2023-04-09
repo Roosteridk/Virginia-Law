@@ -1,0 +1,3 @@
+# § 10.1-528 Expenses and publication of results.
+
+<p>The expenses of such elections shall be paid by the counties or cities concerned. The State Board of Elections shall publish, or have published within the district, the results of the election.</p><p>Code 1950, § 21-41; 1960, c. 208; 1964, c. 512; 1988, c. 891; 2002, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0143'>143</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0236'>236</a>.</p>

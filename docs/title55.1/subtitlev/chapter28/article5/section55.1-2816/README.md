@@ -1,0 +1,3 @@
+# § 55.1-2816 Application to railroad companies.
+
+<p>No action taken under the provisions of § <a href='/vacode/55.1-2814/'>55.1-2814</a> shall relieve any railroad company of any duty or obligation imposed on every such company by § <a href='/vacode/56-429/'>56-429</a>, or imposed by any other statute now in force, in reference to fencing their lines of railway and rights-of-way.</p><p>Code 1950, § 8-882; 1977, c. 624, § 55-312; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

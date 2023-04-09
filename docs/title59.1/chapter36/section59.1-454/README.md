@@ -1,0 +1,3 @@
+# § 59.1-454 Violations of chapter; penalty.
+
+<p>Any violation of the provisions of this chapter or any travel services agreement executed therewith shall constitute a prohibited practice pursuant to the provisions of § <a href='http://law.lis.virginia.gov/vacode/59.1-200/'>59.1-200</a> and shall be subject to any and all of the enforcement provisions of the Virginia Consumer Protection Act (§ <a href='http://law.lis.virginia.gov/vacode/59.1-196/'>59.1-196</a> et seq.).</p><p>1993, c. 760.</p>

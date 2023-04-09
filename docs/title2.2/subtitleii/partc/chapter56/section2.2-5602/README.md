@@ -1,0 +1,3 @@
+# § 2.2-5602 Supplementary agreements.
+
+<p>No supplementary agreement entered into pursuant to Article VI of the compact and requiring the expenditure of funds or the assumption of an obligation to expend funds in addition to those already appropriated shall become effective as to the Commonwealth unless funds therefor are or have been appropriated as provided by law.</p><p>1962, c. 364, § 2-308; 1966, c. 677, § 2.1-338; 1979, c. 295; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

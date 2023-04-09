@@ -1,0 +1,3 @@
+# § 2.2-412 Application for such registration, alteration or cancellation.
+
+<p>Application for registration, alteration, or cancellation under this article shall be made by the chief officer of the association, lodge, order, fraternal society, beneficial association, or fraternal and beneficial society or association, historical, military, or veterans' organization, labor union, foundation, federation, or other society, organization, or association, degree, branch, subordinate lodge, or auxiliary thereof, upon blanks to be provided by the Secretary of the Commonwealth.</p><p>Code 1950, § 38-309; 1952, c. 225, § 2-64.2; 1966, c. 677, § 2.1-75; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

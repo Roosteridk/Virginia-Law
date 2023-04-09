@@ -1,0 +1,3 @@
+# § 55.1-2020 Deposits to be held in escrow.
+
+<p>Any deposit made with a reservation to purchase or a contract to purchase shall be held in escrow in a separate fund for such deposits designated as such until the deed for which a deposit was made is delivered to the depositor.</p><p>1973, c. 375, § 55-79.21:1; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

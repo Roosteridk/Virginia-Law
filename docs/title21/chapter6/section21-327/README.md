@@ -1,0 +1,3 @@
+# § 21-327 Courses, distances and levels.
+
+<p>The line of each ditch, drain or levee shall be plainly and substantially marked upon the ground, by the cutting or marking of necessary trees, staking or otherwise. The course and distance of each ditch shall be carefully noted and sufficient notes made so that it may be accurately platted on the plan of the drainage district. A line of levels shall be run for the entire work, and sufficient data secured from which accurate profiles and plans shall be made.</p><p>Code 1919, § 1750; 1920, p. 609; 1926, p. 611.</p>

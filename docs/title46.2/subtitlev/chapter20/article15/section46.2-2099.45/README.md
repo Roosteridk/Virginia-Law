@@ -1,0 +1,3 @@
+# § 46.2-2099.45 Certificates required unless exempted.
+
+<p>Unless otherwise exempted, no person shall engage in the business of a transportation network company on any highway within the Commonwealth on an intrastate basis unless such person has secured from the Department a certificate of fitness authorizing such business.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0002'>2</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0003'>3</a>.</p>

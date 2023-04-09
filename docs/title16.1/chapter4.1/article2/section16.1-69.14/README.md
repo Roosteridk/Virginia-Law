@@ -1,0 +1,3 @@
+# § 16.1-69.14 Number of substitute judges.
+
+<p>The number of substitute judges shall be determined as follows:</p><p>(a) Substitute judges in office on June 30, 1975, shall be permitted to complete their terms;</p><p>(b) Subject to the expiration of such terms, the Committee on District Courts shall determine the number of substitute judges for each district which shall be necessary for the effective administration of justice. In determining the total number of substitute judges authorized for each district, the Committee shall consider, among other factors, the number of full-time and part-time judges serving the district.</p><p>1972, c. 708; 1973, c. 546; 1975, c. 334.</p>

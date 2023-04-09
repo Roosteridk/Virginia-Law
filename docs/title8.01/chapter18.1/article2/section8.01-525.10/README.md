@@ -1,0 +1,3 @@
+# § 8.01-525.10 Exemption from garnishment, levy, or distress.
+
+<p>When the assignment is executed and approved by the court and the trustee has been appointed and notice given to the creditors listed in the assignment, such assignment shall be deemed legal and binding upon all creditors and such salary, wages, or income shall be exempt from garnishment, levy, or distress during such time as the assignment is in existence. Such assignment shall have priority over all liens subsequently obtained.</p><p>1936, p. 524; Michie Code 1942, § 5278h; Code 1950, § 55-165; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

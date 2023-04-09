@@ -1,0 +1,3 @@
+# § 29.1-569 Keeping of reptiles generally; penalty.
+
+<p>It shall be unlawful for the owner or keeper of any exotic reptile or type of reptile not native to the Commonwealth of Virginia, including but not limited to the American alligator, to keep the reptile in any manner that will permit its escape or to knowingly permit the reptile to run at large. Any violation of this section shall constitute a Class 2 misdemeanor.</p><p>1980, c. 202, § 29-213.35; 1987, c. 488; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0085'>85</a>.</p>

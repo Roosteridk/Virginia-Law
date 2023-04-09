@@ -1,0 +1,3 @@
+# § 2.2-2539 (Expires July 1, 2026) Quorum; meetings; voting on recommendations.
+
+<p>A majority of the members shall constitute a quorum. The meetings of the Commission shall be held at the call of the chairman or whenever a majority of the members so request.</p><p>2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0477'>477</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0705'>705</a>.</p>

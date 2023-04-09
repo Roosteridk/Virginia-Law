@@ -1,0 +1,3 @@
+# § 54.1-922 Liability for pilotage and other allowances.
+
+<p>The master and the owner of every vessel shall each be liable to the pilot for his pilotage and other allowances, and also the consignee or supercargo of any vessel not owned by a resident of the Commonwealth. If the consignee or supercargo refuses to become responsible to the pilot for his fees, the master or owner of the vessel shall, before she leaves her port of departure, deposit with some responsible person, subject to the order of the pilot, the amount of the pilotage due him.</p><p>Code 1950, § 54-566; 1988, c. 765.</p>

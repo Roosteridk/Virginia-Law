@@ -1,0 +1,3 @@
+# § 8.1A-306 Waiver or renunciation of claim or right after breach.
+
+<p>A claim or right arising out of an alleged breach may be discharged in whole or in part without consideration by agreement of the aggrieved party in an authenticated record.</p><p>Code 1950, §§ 6-472, 6-473, 6-475; 1964, c. 219, § 8.1-107; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0353'>353</a>.</p>

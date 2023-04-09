@@ -1,0 +1,3 @@
+# §§ 36-55.53 through 36-55.62 Repealed.
+
+<p>Repealed by Acts 1987, c. 306.</p>

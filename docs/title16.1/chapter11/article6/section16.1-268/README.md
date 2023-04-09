@@ -1,0 +1,3 @@
+# § 16.1-268 Order of appointment.
+
+<p>The order of appointment of counsel pursuant to § <a href='http://law.lis.virginia.gov/vacode/16.1-266/'>16.1-266</a> shall be filed with and become a part of the record of such proceeding. The attorney so appointed shall represent the child or parent, guardian or other adult at any such hearing and at all other stages of the proceeding unless relieved or replaced in the manner provided by law.</p><p>1977, c. 559.</p>

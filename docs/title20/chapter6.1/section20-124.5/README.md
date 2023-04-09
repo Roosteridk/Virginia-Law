@@ -1,0 +1,3 @@
+# § 20-124.5 Notification of relocation.
+
+<p>In any proceeding involving custody or visitation, the court shall include as a condition of any custody or visitation order a requirement that thirty days' advance written notice be given to the court and the other party by any party intending to relocate and of any intended change of address, unless the court, for good cause shown, orders otherwise. The court may require that the notice be in such form and contain such information as it deems proper and necessary under the circumstances of the case.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0769'>769</a>.</p>

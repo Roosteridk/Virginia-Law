@@ -1,0 +1,3 @@
+# § 53.1-214 Authority and duty of official in charge of facility.
+
+<p>It shall be lawful and mandatory upon the superintendent, warden or other official in charge of a state or local correctional facility in this Commonwealth to give over the person of any prisoner thereof whenever so required by the operation of the Agreement on Detainers.</p><p>Code 1950, § 53-304.6; 1970, c. 407; 1982, c. 636.</p>

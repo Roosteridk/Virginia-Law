@@ -1,0 +1,3 @@
+# § 38.2-2414 Insurer estopped to deny power to assume liability.
+
+<p>Any fidelity and surety insurer that executes any bond as surety under the provisions of this chapter shall be estopped, in any proceedings to enforce the liability it has assumed, to deny its power to execute the bond or assume the liability.</p><p>Code 1950, § 38-348; 1952, c. 317, § 38.1-650; 1986, c. 562.</p>

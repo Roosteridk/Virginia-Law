@@ -1,0 +1,3 @@
+# § 16.1-111 Court to which appeal sent.
+
+<p>The party taking an appeal may, when there is more than one court having jurisdiction, direct to which of such courts the appeal shall be sent for trial, but in the absence of such directions the judge or clerk shall send the same to any court having jurisdiction.</p><p>1956, c. 555.</p>

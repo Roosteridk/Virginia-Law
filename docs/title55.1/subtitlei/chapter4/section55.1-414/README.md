@@ -1,0 +1,3 @@
+# § 55.1-414 When purchaser not affected by record of deed or contract.
+
+<p>A purchaser shall not, under this chapter, be affected by the record of a deed or contract made by a person under whom his title is not derived, nor by the record of a deed or contract made by any person under whom the title of such purchaser is derived, if it was made by such person before he acquired the legal title of record.</p><p>Code 1919, § 5201; Code 1950, § 55-105; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

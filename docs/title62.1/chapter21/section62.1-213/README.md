@@ -1,0 +1,3 @@
+# § 62.1-213 Validity of signatures of prior members or officers.
+
+<p>In the event that any of the members of the board of directors or any officers of the Authority cease to be members or officers before the delivery of any bonds or credit enhancements signed by them, their signatures or authorized substitute signatures shall nevertheless be valid and sufficient for all purposes as if the members or officers had remained in office until delivery.</p><p>1984, c. 699; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0399'>399</a>.</p>

@@ -1,0 +1,3 @@
+# § 55.1-2011 Merger not to bar subsequent condominium.
+
+<p>The merger provided for in § <a href='/vacode/55.1-2010/'>55.1-2010</a> shall not bar the subsequent constitution of the property into a condominium whenever so desired, provided that the requirements of the Virginia Condominium Act (§ <a href='/vacode/55.1-1900/'>55.1-1900</a> et seq.) are met.</p><p>1962, c. 627, § 10, § 55-79.10; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

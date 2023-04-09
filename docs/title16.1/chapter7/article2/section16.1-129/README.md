@@ -1,0 +1,3 @@
+# § 16.1-129 Offenses tried on warrants, or as provided in Chapter 7 of Title 19.2.
+
+<p>Every offense of which a court not of record is given jurisdiction under this title may be tried upon a warrant; or the judge of such court may, in his discretion, make an examination into the offense and proceed according to the provisions of Chapter 7 (§ <a href='http://law.lis.virginia.gov/vacode/19.2-71/'>19.2-71</a> et seq.) of Title 19.2. The word warrant as used in this chapter shall be construed to include a summons or notice requiring a person to appear and answer a charge of having violated any statute, ordinance, or any regulation having the force and effect of law.</p><p>1956, c. 555; 1960, c. 373.</p>

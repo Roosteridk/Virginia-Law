@@ -1,0 +1,3 @@
+# § 50-73.82 Supplemental principles of law.
+
+<p>A. Unless displaced by particular provisions of this chapter, the principles of law and equity supplement this chapter.</p><p>B. If an obligation to pay interest arises under this chapter and the rate is not specified, the rate is that specified in § <a href='http://law.lis.virginia.gov/vacode/6.2-302/'>6.2-302</a>.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0292'>292</a>.</p>

@@ -1,0 +1,3 @@
+# § 54.1-2929 Licenses required.
+
+<p>No person shall practice or hold himself out as qualified to practice medicine, osteopathy, chiropractic, or podiatry without obtaining a license from the Board of Medicine as provided in this chapter.</p><p>Code 1950, § 54-281; 1966, c. 657, § 54-281.3; 1970, c. 69; 1988, c. 765; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0937'>937</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0980'>980</a>.</p>

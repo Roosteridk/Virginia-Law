@@ -1,0 +1,3 @@
+# § 15.2-3818 Town sergeant to continue in office.
+
+<p>If a town becomes a city under this chapter, the sergeant of the town, if there is one, shall be the sheriff of the city and discharge all the duties imposed on him by the charter or by general law. The sheriff's duties and compensation shall be such as are provided by law for town sergeants. He shall serve until his successor is elected and qualified.</p><p>Code 1950, § 15-89; 1962, c. 623, § 15.1-989; 1971, Ex. Sess., c. 155; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 27-41 Relief provided for.
+
+<p>Financial relief shall be extended by the counties, cities and towns of Virginia to volunteer fire fighters who are killed or injured while engaged in fighting fire or while responding to an alarm or returning from the scene of a fire, such relief to be paid in amounts and manner as hereinafter set forth.</p><p>1928, p. 1002; Michie Code 1942, § 3144a; 1970, c. 187; 1977, c. 326.</p>

@@ -1,0 +1,3 @@
+# § 40.1-33 Certain assignments not affected.
+
+<p>The two preceding sections (§§ <a href='/vacode/40.1-31/'>40.1-31</a>, <a href='/vacode/40.1-32/'>40.1-32</a>) shall not be construed to apply to assignments of salaries, wages and income for the benefit of creditors as provided for in Article 2 (§ <a href='/vacode/8.01-525.6/'>8.01-525.6</a> et seq.) of Chapter 18.1 of Title 8.01.</p><p>Code 1950, § 40-32; 1970, c. 321.</p>

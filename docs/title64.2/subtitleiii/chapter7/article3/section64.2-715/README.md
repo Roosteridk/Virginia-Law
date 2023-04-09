@@ -1,0 +1,3 @@
+# § 64.2-715 Representation by holder of general testamentary power of appointment.
+
+<p>To the extent there is no conflict of interest between the holder of a general testamentary power of appointment and the persons represented with respect to the particular question or dispute, the holder may represent and bind persons whose interests, as permissible appointees, takers in default, or otherwise, are subject to the power.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-543.02; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

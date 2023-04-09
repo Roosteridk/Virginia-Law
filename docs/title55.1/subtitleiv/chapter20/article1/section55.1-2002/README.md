@@ -1,0 +1,3 @@
+# § 55.1-2002 Chapter additional and supplemental.
+
+<p>The provisions of this chapter shall be in addition and supplemental to all other provisions of law, provided that wherever the application of the provisions of this chapter conflict with the application of such other provisions, this chapter shall prevail.</p><p>1962, c. 627, § 32, § 55-79.32; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

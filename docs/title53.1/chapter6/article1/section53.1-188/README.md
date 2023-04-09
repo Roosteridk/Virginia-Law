@@ -1,0 +1,3 @@
+# § 53.1-188 Conduct records to be kept.
+
+<p>The Director shall keep a record of the conduct of each person confined in a state correctional facility. Each time any prisoner in a state correctional facility is punished, the name of the offender, the offense, the time when the offense was committed, and when and what disciplinary action was taken or sentence was imposed, shall be recorded in a register.</p><p>Code 1950, §§ 53-209, 53-215; 1982, c. 636.</p>

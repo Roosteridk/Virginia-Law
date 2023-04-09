@@ -1,0 +1,3 @@
+# § 24.2-630 Experimental use of approved systems.
+
+<p>With the approval of the State Board, the governing body of any county, city, or town may provide for the experimental use at an election in one or more election districts or precincts of a voting or counting system which it might legally adopt without a formal adoption thereof, and its use at such election shall be valid for all purposes.</p><p>Code 1950, § 24-295; 1970, c. 462, § 24.1-206; 1985, c. 458; 1993, c. 641.</p>

@@ -1,0 +1,3 @@
+# § 58.1-4135 Disposition of inactive, dormant accounts.
+
+<p>All amounts remaining in on-premises mobile casino gaming accounts inactive or dormant for such period and under such conditions as established by regulation by the Board shall be closed. Any funds remaining in the account at such time shall be paid 50 percent to the casino gaming operator and 50 percent to the general fund. Before closing an account pursuant to this section, the casino gaming operator shall attempt to contact the account holder by mail, phone, and electronic mail.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1197'>1197</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1248'>1248</a>.</p>

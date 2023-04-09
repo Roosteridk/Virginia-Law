@@ -1,0 +1,3 @@
+# § 56-451.1 Keeping unused tracks in place.
+
+<p>If a railroad company discontinues operations on all or any portion of its line of railroad (other than yard tracks, passing sidings, or tracks unneeded because of the diversion of traffic over parallel or other substitute tracks), it shall notify the governing body of any city, town or county directly served by the portion of line so discontinued. Retention of such track in place shall be in accordance with federal rules and regulations.</p><p>1960, c. 443; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0114'>114</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0157'>157</a>.</p>

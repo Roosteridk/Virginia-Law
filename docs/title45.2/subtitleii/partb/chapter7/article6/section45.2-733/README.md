@@ -1,0 +1,3 @@
+# § 45.2-733  Fire protection.
+
+<p>A. Every shaft, and every partition therein, shall be as nearly fireproof as is practicable.</p><p>B. Where there is danger of fire entering the mine, every opening shall have adequate protection against a surface fire or a hazardous volume of smoke entering the mine.</p><p>Code 1950, § 45-71.1; 1954, c. 191; 1966, c. 594, § 45.1-95; 1984, c. 228; 1985, c. 395; 1990, c. 372; 1992, c. 360; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.169; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0774'>774</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

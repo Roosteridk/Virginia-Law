@@ -1,0 +1,3 @@
+# § 40.1-51.32 Owners to furnish plans, specifications and information.
+
+<p>Every owner which the Commissioner has reason to believe is causing, or may be about to cause, an asbestos NESHAP problem shall on request of the Commissioner furnish such plans, specifications and information as may be required by the Commissioner in the discharge of his duties under this chapter. Any information, except emission data, as to secret processes, formulae or methods of manufacture or production shall not be disclosed in a public hearing and shall be kept confidential. If samples are taken for analysis, a duplicate of the analytical report shall be furnished promptly to the person from whom such sample is requested.</p><p>1992, c. 541.</p>

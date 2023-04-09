@@ -1,0 +1,3 @@
+# § 54.1-2119 Revocation of license of regulant upon payment from fund.
+
+<p>Upon payment by the Director to a claimant from the fund as provided in § <a href='http://law.lis.virginia.gov/vacode/54.1-2118/'>54.1-2118</a>, the Board shall immediately revoke the license of the regulant whose improper or dishonest conduct, as defined in the act, resulted in payment from the fund. The regulant whose license was so revoked shall not be eligible to apply for a license as a real estate broker or real estate salesperson until he has repaid in full the amount paid from the fund on his account, plus interest at the judgment rate of interest from the date of payment from the fund.</p><p>1977, c. 69, § 54-765.8; 1984, c. 266; 1987, c. 555; 1988, c. 765.</p>

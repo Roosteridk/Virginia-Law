@@ -1,0 +1,3 @@
+# § 22.1-212.1 Obligations of school boards.
+
+<p>Pursuant to § <a href='http://law.lis.virginia.gov/vacode/1-511/'>1-511</a>, school boards shall have no obligation to teach the standard curriculum, except courses in foreign languages, in a language other than English. School boards shall endeavor to provide instruction in the English language which shall be designed to promote the education of students for whom English is a second language.</p><p>1981, c. 185; 1986, c. 466; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0829'>829</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

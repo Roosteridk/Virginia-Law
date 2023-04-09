@@ -1,0 +1,3 @@
+# § 64.2-1105 Reviewing compliance.
+
+<p>Compliance with this chapter is determined in light of the facts and circumstances existing at the time a decision is made or action is taken, and not by hindsight.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0184'>184</a>, § 55-268.17; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

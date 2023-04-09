@@ -1,0 +1,3 @@
+# § 8.01-290 Plaintiffs required to furnish full name and last known address of defendants, etc.
+
+<p>Upon the commencement of every action, the plaintiff shall furnish in writing to the clerk or other issuing officer the full name and last known address of each defendant and if unable to furnish such name and address, he shall furnish such salient facts as are calculated to identify with reasonable certainty such defendant. The clerk or other official whose function it is to issue any such process shall note in the record or in the papers the address or other identifying facts furnished. Failure to comply with the requirements of this section shall not affect the validity of any judgment.</p><p>Code 1950, § 8-46.1; 1962, c. 10; 1977, c. 617.</p>

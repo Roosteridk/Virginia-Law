@@ -1,0 +1,3 @@
+# § 51.1-706 Source of contributions.
+
+<p>A. In the case of state employees, the employer contributions by the Commonwealth shall be wholly paid by the Commonwealth.</p><p>B. In the case of teachers, the Commonwealth shall reimburse the employing political subdivision for the cost of the employer contribution to the extent specified in the appropriations act.</p><p>C. In the case of special employees, the Commonwealth shall reimburse the employing political subdivision for the cost of the employer contribution to the extent the Commonwealth participates in paying the salary of the employee who is covered or to the extent it shares or would share in the excess receipts from such office.</p><p>1952, c. 2, § 51-111.6; 1984, c. 430; 1985, c. 129; 1990, c. 832.</p>

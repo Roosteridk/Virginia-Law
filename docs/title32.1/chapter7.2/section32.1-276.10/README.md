@@ -1,0 +1,3 @@
+# § 32.1-276.10 Chapter and actions thereunder not to be construed as approval of charges or costs.
+
+<p>Nothing in this chapter or the actions taken by the Board pursuant to any of its provisions shall be construed as constituting approval by the Commonwealth or any of its agencies or officers of the reasonableness of any charges made or costs incurred by any health care provider.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0902'>902</a>.</p>

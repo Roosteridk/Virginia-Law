@@ -1,0 +1,3 @@
+# § 18.2-290 Use of machine gun for aggressive purpose.
+
+<p>Unlawful possession or use of a machine gun for an offensive or aggressive purpose is hereby declared to be a Class 4 felony.</p><p>Code 1950, § 18.1-260; 1960, c. 358; 1968, c. 229; 1975, cc. 14, 15.</p>

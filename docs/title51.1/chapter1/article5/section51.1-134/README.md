@@ -1,0 +1,3 @@
+# § 51.1-134 Optional membership; creditable service.
+
+<p>Membership in the retirement system for eligible employees in service on the date of coverage shall be optional. Any employee who elects to join the retirement system within one calendar year after the date of coverage shall be entitled to credit for service rendered prior to the date of coverage as certified by his employer for service rendered to the employer, his predecessor, the Commonwealth, or in any other capacity approved by the employer and the Board.</p><p>1952, c. 157, § 51-111.32; 1960, c. 400; 1974, c. 353; 1990, c. 832.</p>

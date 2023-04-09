@@ -1,0 +1,3 @@
+# § 59.1-68.7 Combinations to rig bids.
+
+<p>A. Any combination, conspiracy or agreement to intentionally rig, alter or otherwise manipulate, or to cause to be rigged, altered or otherwise manipulated any bid submitted to the Commonwealth of Virginia or any governmental unit for the purpose of allocating purchases or sales to or among persons, raising or otherwise fixing the prices of the goods or services, or excluding other persons from dealing with the Commonwealth or any other governmental unit shall be unlawful.</p><p>B. Any person violating this section shall be guilty of a Class 6 felony.</p><p>1980, c. 471.</p>

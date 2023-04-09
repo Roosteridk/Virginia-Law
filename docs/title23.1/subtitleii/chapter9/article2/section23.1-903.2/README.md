@@ -1,0 +1,3 @@
+# § 23.1-903.2 Medical school; rotation requirement.
+
+<p>Any public institution of higher education that awards medical degrees shall create and support at least one clinical rotation in a hospital or clinic located in a medically underserved area of the state as determined by the Virginia Department of Health, in an area of the state that has an unemployment rate of one and one-half times the statewide average unemployment rate, or in a locality with a population of 50,000 or less in the Commonwealth.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0691'>691</a>.</p>

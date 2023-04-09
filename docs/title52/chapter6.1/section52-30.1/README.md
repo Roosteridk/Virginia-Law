@@ -1,0 +1,3 @@
+# § 52-30.1 Definition.
+
+<p>For purposes of this chapter, unless the context requires a different meaning, "bias-based profiling" means actions of a law-enforcement officer that are based solely on the real or perceived race, ethnicity, age, gender, or any combination thereof, or other noncriminal characteristics of an individual, except when such characteristics are used in combination with other identifying factors in seeking to apprehend a suspect who matches a specific description.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1165'>1165</a>.</p>

@@ -1,0 +1,3 @@
+# § 2.2-1809 Warrants on state treasury to be listed and numbered.
+
+<p>The State Treasurer shall keep a list of all warrants drawn upon the state treasury, numbered consecutively.</p><p>No information contained in the list of warrants shall be released for any purpose except as a means of establishing the status of a claim previously reported as having been paid when a person legally entitled to the funds presents evidence that a previously submitted claim has not been paid.</p><p>Code 1950, § 2-156; 1966, c. 677, § 2.1-188; 1993, c. 155; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

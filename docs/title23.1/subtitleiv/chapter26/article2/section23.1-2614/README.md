@@ -1,0 +1,3 @@
+# § 23.1-2614 The Division; appropriations by local governing bodies.
+
+<p>Any local governing body of the Commonwealth may appropriate funds, to be supplemented by funds appropriated by the General Assembly to the University for the Division and such other funds as the University may allocate, to support the activities of the Division in such manner as may be agreed upon by the University and the local governing body.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0433'>433</a>, § 23-132.8; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

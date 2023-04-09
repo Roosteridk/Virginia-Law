@@ -1,0 +1,3 @@
+# § 22.1-349.7 Decision of the Board final.
+
+<p>The decision of the Board to grant or deny a college partnership laboratory school application or to revoke or fail to renew an agreement is final and is not subject to appeal.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0816'>816</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0871'>871</a>, § 23-299.6; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

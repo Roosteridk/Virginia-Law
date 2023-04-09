@@ -1,0 +1,3 @@
+# § 67-501 (Repealed effective October 1, 2021) Use of biodiesel and other alternative fuels in vehicles providing public transportation.
+
+<p>The Commonwealth Transportation Board shall encourage the use of biodiesel fuel and other alternative fuels, to the extent practicable, in buses and other vehicles used to provide public transportation in the Commonwealth.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0939'>939</a>.</p>

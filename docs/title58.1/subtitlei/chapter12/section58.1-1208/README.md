@@ -1,0 +1,3 @@
+# § 58.1-1208 City tax.
+
+<p>Any city in this Commonwealth in which is located any bank may, by ordinance, impose a tax not to exceed 80 percent of the state rate of taxation on each $100 of the net capital of such bank located in such city. If such bank also has offices that are located outside the corporate limits of such city, the tax shall be apportioned as provided in § <a href='http://law.lis.virginia.gov/vacode/58.1-1211/'>58.1-1211</a>.</p><p>Code 1950, § 58-485.09; 1980, c. 578; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 21-352 Contract and bond of successful bidder.
+
+<p>A successful bidder shall be required to enter into a contract with the board of viewers of each drainage project and to execute a bond for the faithful performance of such contract, with sufficient sureties in favor of the board of viewers for the use and benefit of the levees, or drainage project in an amount equal to twenty-five per centum of the amount of the contract price of the work awarded to him.</p><p>Code 1919, § 1761; 1926, p. 616; 1954, c. 642.</p>

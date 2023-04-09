@@ -1,0 +1,3 @@
+# § 6.2-1802 Applicability.
+
+<p>The provisions of this chapter shall not apply to any depository institution that does not elect to become licensed under this chapter. Electing to become licensed under this chapter shall constitute a waiver of the benefit of any and all laws of the Commonwealth and other states and federal laws preemptive of, or inconsistent with, the provisions of this chapter.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0897'>897</a>, § 6.1-446; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

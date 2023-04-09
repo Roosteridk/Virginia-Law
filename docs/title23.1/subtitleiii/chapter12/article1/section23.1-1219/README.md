@@ -1,0 +1,3 @@
+# § 23.1-1219 Jurisdiction of suits against Authority; service of process.
+
+<p>The Circuit Court of the City of Richmond has exclusive jurisdiction over any suit brought in the Commonwealth against the Authority, and process in such suit shall be served either on the State Comptroller or on the chairman of the Authority.</p><p>1964, c. 607, § 23-30.38; 1966, c. 685; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

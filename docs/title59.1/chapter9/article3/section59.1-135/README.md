@@ -1,0 +1,3 @@
+# § 59.1-135 Penalty for violation.
+
+<p>Any person, firm, partnership, association or corporation, or any agent or servant thereof, who shall violate any of the provisions of this article shall be guilty of a misdemeanor and shall be punished by a fine not to exceed the sum of $500 or by imprisonment not to exceed ninety days, or both.</p><p>Code 1950, § 59-160; 1968, c. 439.</p>

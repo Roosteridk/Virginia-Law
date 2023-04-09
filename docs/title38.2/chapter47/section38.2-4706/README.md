@@ -1,0 +1,3 @@
+# § 38.2-4706 Default charge; bad check charge.
+
+<p>A. If any installment under a premium finance agreement is not paid in full within seven days after it is due, Sundays and holidays included, the insurance premium finance company may charge and collect a default charge not to exceed five percent of the installment. The default charge shall be collected only once on any installment.</p><p>B. An insurance premium finance company may charge and collect a fee, not in excess of twenty dollars, for each check returned to the insurance premium finance company because the drawer had no account or insufficient funds in the payor bank.</p><p>1981, c. 107, § 38.1-740.2; 1986, c. 562; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0123'>123</a>.</p>

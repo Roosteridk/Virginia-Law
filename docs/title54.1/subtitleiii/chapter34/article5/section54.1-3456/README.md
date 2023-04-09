@@ -1,0 +1,3 @@
+# § 54.1-3456 Controlled substance analog.
+
+<p>A controlled substance analog shall, to the extent intended for human consumption, be treated, for the purposes of any state law, as a controlled substance in Schedule I or II. A controlled substance analog shall be considered to be listed on the same schedule as the drug or class of drugs which it imitates.</p><p>1987, c. 447, § 54-524.84:14; 1988, c. 765; 2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0674'>674</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0719'>719</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-2313 Proceedings to prevent construction of building in violation of zoning ordinance.
+
+<p>Where a building permit has been issued and the construction of the building for which the permit was issued is subsequently sought to be prevented, restrained, corrected or abated as a violation of the zoning ordinance, by suit filed within fifteen days after the start of construction by a person who had no actual notice of the issuance of the permit, the court may hear and determine the issues raised in the litigation even though no appeal was taken from the decision of the administrative officer to the board of zoning appeals.</p><p>1975, c. 521, § 15.1-496.3; 1997, c. 587.</p>

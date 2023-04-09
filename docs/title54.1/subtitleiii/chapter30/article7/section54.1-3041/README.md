@@ -1,0 +1,3 @@
+# § 54.1-3041 Registration required.
+
+<p>A medication aide who administers drugs that would otherwise be self-administered to residents in an assisted living facility licensed by the Department of Social Services shall be registered by the Board.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0610'>610</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0924'>924</a>.</p>

@@ -1,0 +1,3 @@
+# § 8.9A-708 Persons entitled to file initial financing statement or continuation statement.
+
+<p>A person may file an initial financing statement or a continuation statement under this part if:</p><p>(1) the secured party of record authorizes the filing; and</p><p>(2) the filing is necessary under this part:</p><p>(A) to continue the effectiveness of a financing statement filed before this title takes effect; or</p><p>(B) to perfect or continue the perfection of a security interest.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1007'>1007</a>.</p>

@@ -1,0 +1,3 @@
+# § 43-35 How and when validity of lien, or claim of other person to property, is tried.
+
+<p>Any person may file his petition, at any time before the property is sold or the proceeds of sale are paid to the plaintiff under the judgment of the court, disputing the validity of the plaintiff's lien thereon, or stating a claim thereto, or an interest in or lien on the same, and its nature; and the court shall inquire into such claim, and if it be found that the petitioner has title to, or a lien on, or any interest in, such property or proceeds of sale, the court shall make such order as is necessary to protect his rights.</p><p>Code 1919, § 6450; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

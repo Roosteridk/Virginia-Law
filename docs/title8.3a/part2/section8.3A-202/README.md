@@ -1,0 +1,3 @@
+# § 8.3A-202 Negotiation subject to rescission.
+
+<p>(a) Negotiation is effective even if obtained (i) from an infant, a corporation exceeding its powers, or a person without capacity, (ii) by fraud, duress, or mistake, or (iii) in breach of duty or as part of an illegal transaction.</p><p>(b) To the extent permitted by other law, negotiation may be rescinded or may be subject to other remedies, but those remedies may not be asserted against a subsequent holder in due course or a person paying the instrument in good faith and without knowledge of facts that are a basis for rescission or other remedy.</p><p>Code 1950, § 6-374; 1964, c. 219, § 8.3-207; 1992, c. 693.</p>

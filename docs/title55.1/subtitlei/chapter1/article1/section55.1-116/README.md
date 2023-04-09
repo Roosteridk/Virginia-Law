@@ -1,0 +1,3 @@
+# § 55.1-116 In what conveyances possession transferred to the use.
+
+<p>By deed of bargain and sale, or by deeds of lease and release, or by covenant to stand seized to the use, or deed operating by way of covenant to stand seized to the use, the possession of the grantor shall be deemed transferred to the grantee or other person entitled to the use, for the estate or interest that such person has in the use, as perfectly as if the grantee or other person entitled to the use had been enfeoffed with livery of seisin of the land intended to be conveyed by such deed or covenant.</p><p>Code 1919, § 5155; Code 1950, § 55-17; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

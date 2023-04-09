@@ -1,0 +1,3 @@
+# § 16.1-69.32:1 Substitution of counsel.
+
+<p>Except in case of court-appointed counsel, no rule of court shall be made or construed so as to preclude substitution of counsel in civil and criminal cases in the district courts, nor shall any order or appearance in person, be required, to relieve original counsel of his duties in any such case. It shall be sufficient that new counsel represents to the court that the substitution is made pursuant to agreement by the parties represented and original counsel.</p><p>1980, c. 434.</p>

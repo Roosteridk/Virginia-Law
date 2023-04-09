@@ -1,0 +1,3 @@
+# § 18.2-134 Trespass on posted property.
+
+<p>Any person who goes on the lands, waters, ponds, boats or blinds of another, which have been posted in accordance with the provisions of § <a href='http://law.lis.virginia.gov/vacode/18.2-134.1/'>18.2-134.1</a>, to hunt, fish or trap except with the written consent of or in the presence of the owner or his agent shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 29-166; 1954, c. 155; 1962, c. 469; 1975, cc. 14, 15; 1987, c. 603.</p>

@@ -1,0 +1,3 @@
+# § 51.1-1136 Limitation on coverage.
+
+<p>No person shall have more than one coverage under a disability benefit program. Any person employed in more than one position which provides coverage under a disability benefit program shall elect one position on which his coverage shall be based by written notification to the Board. No person shall receive more than one disability benefit under this chapter at the same time.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0774'>774</a>; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0889'>889</a>.</p>

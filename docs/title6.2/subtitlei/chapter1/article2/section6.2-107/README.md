@@ -1,0 +1,3 @@
+# § 6.2-107 Effect of contract provision requiring amendment or waiver to be in writing.
+
+<p>If any written contract to which a financial institution is a party contains a provision to the effect that no amendment or waiver of any terms or provisions thereof shall be valid unless such amendment or waiver is in writing, then any amendment or waiver of any terms or provisions of that contract by conduct, course of practice or dealing, or otherwise shall not apply to future rights and obligations under that contract unless it is in writing.</p><p>2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0067'>67</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0142'>142</a>.</p>

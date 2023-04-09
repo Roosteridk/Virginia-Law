@@ -1,0 +1,3 @@
+# § 32.1-126.5 Consolidation of inspections.
+
+<p>The Commissioner shall identify any inspection of a medical care facility required by this title, Board regulations, the Commissioner, the Department, or any other state regulatory boards or agencies and shall, in collaboration with any such inspecting entity, work to consolidate, as much as practicable, all such inspections in order to minimize the interruption of the provision of care in such medical care facilities.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0095'>95</a>.</p>

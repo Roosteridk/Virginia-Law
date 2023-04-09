@@ -1,0 +1,3 @@
+# § 11-16.1 Exemption from the chapter.
+
+<p>This chapter shall not apply to any bet, wager, or casino gaming permitted by Chapter 41 (§ <a href='/vacode/58.1-4100/'>58.1-4100</a> et seq.) of Title 58.1 or to any contract, conduct, or transaction arising from conduct lawful thereunder.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1197'>1197</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1248'>1248</a>.</p>

@@ -1,0 +1,3 @@
+# § 8.01-564 Procedure when codefendant fails to appear.
+
+<p>If the attachment be served on a defendant who the petition alleges is indebted to, or has in his possession effects of, the principal defendant, and he fail to appear, the court may either compel him to appear, or hear proof of any debt owing by him, or of effects in his hands belonging to a principal defendant in such attachment, and make such orders in relation thereto as if what is so proved had appeared on his examination.</p><p>Code 1950, § 8-552; 1977, c. 617.</p>

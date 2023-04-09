@@ -1,0 +1,3 @@
+# § 63.2-519 Finality of decision of Commissioner.
+
+<p>The decision of the Commissioner shall be binding and considered a final agency action for purposes of judicial review of such action pursuant to the provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>Code 1950, §§ 63-134, 63-140.11, 63-156, 63-198; 1962, c. 621; 1968, c. 578, § 63.1-119; 1989, cc. 677, 734; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0412'>412</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

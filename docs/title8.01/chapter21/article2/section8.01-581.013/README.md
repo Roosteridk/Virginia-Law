@@ -1,0 +1,3 @@
+# § 8.01-581.013 Applications to court.
+
+<p>An application to the court under this article shall be by motion and shall be heard in the manner and upon the notice provided by law or rule of court for the making and hearing of motions. Unless the parties have agreed otherwise, notice of an initial application for an order shall be served in the manner provided by law for the service of a summons in an action.</p><p>1986, c. 614.</p>

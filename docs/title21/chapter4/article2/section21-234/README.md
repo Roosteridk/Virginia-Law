@@ -1,0 +1,3 @@
+# § 21-234 Exclusion from district of county, city or town voting against establishment.
+
+<p>If upon the certification of the results of the election provided for in § <a href='http://law.lis.virginia.gov/vacode/21-233/'>21-233</a> it shall appear that a majority of the qualified voters of the portion of any county, or of any city or of any town voting on the question at the election, shall have voted "no" against the creation of the proposed sanitation district, then the territory included within the limits of such county or of such city, or of such town, shall be excluded from, and shall not constitute a part of such district.</p><p>1946, p. 349; Michie Suppl. 1946, § 1560iii3.</p>

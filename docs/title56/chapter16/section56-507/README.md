@@ -1,0 +1,3 @@
+# § 56-507 Adoption of provisions by existing corporation.
+
+<p>Any Virginia corporation engaged in the furnishing of telephone service in the Commonwealth may come under the provisions of this chapter by filing with the Commission a certificate of adoption in the manner provided by paragraph (b) of § <a href='http://law.lis.virginia.gov/vacode/13.1-334/'>13.1-334</a>, and relinquishing all rights and powers granted by the former charter.</p><p>1950, p. 595; 1956, c. 434.</p>

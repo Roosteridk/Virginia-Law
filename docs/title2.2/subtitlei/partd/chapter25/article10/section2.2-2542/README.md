@@ -1,0 +1,3 @@
+# § 2.2-2542 (Expires July 1, 2026) Staffing; cooperation of agencies of state and local governments.
+
+<p>The Department of Health shall provide staff support to the Commission. Every department, division, board, bureau, commission, authority, or political subdivision of the Commonwealth shall cooperate with, and provide assistance to, the Commission, upon request.</p><p>2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0477'>477</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0705'>705</a>.</p>

@@ -1,0 +1,3 @@
+# § 55.1-1812 Properties subject to more than one declaration.
+
+<p>If the lot is subject to more than one declaration, the association or its common interest community manager may charge the fees authorized by § <a href='/vacode/55.1-1810/'>55.1-1810</a> or <a href='/vacode/55.1-1811/'>55.1-1811</a> for each of the applicable associations, provided, however, that no association shall charge inspection fees unless the association has architectural control over the lot.</p><p>2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0851'>851</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0871'>871</a>, § 55-509.8; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

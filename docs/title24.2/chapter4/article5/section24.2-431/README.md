@@ -1,0 +1,3 @@
+# § 24.2-431 Petition to court objecting to registration.
+
+<p>In addition to challenging a voter's registration before the general registrar, any three qualified voters may file with the circuit court of the county or city in which they are registered, a petition stating their objections to the registration of any person whose name is on the registration records for their county or city. However, no petition may be filed if the only objection raised is based on removal of residence from the precinct.</p><p>Code 1950, § 24-102; 1970, c. 462, § 24.1-63; 1993, c. 641; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0072'>72</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0073'>73</a>.</p>

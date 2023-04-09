@@ -1,0 +1,3 @@
+# § 3.2-4021 Certified Seed Board; purpose.
+
+<p>The Certified Seed Board is hereby established as a policy board that is a unit of and is within the Cooperative Extension of the Virginia Polytechnic Institute and State University. The purpose of the Certified Seed Board is to establish certification standards for agricultural and vegetable seed.</p><p>Code 1950, § 3-220; 1958, c. 30; 1966, c. 702, § 3.1-276; 1980, c. 413; 1985, c. 448; 1992, c. 121; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

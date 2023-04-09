@@ -1,0 +1,3 @@
+# § 32.1-138.12 Waiver of requirements of article.
+
+<p>The Department shall waive the requirements of this article for a private review agent that operates under contract with the federal government for utilization review of patients eligible for hospital services under Title XVIII of the Social Security Act or under contract with a plan otherwise exempt from operation of this chapter pursuant to the Employee Retirement Income Security Act of 1974.</p><p>1990, c. 826, § 38.2-5306; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0129'>129</a>.</p>

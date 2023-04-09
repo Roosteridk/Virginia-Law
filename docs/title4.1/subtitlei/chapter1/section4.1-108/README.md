@@ -1,0 +1,3 @@
+# § 4.1-108 Hearings; representation by counsel.
+
+<p>Any licensee or applicant for any license granted by the Board shall have the right to be represented by counsel at any Board hearing for which he has received notice. The licensee or applicant shall not be required to be represented by counsel during such hearing. Any officer or director of a corporation may examine, cross-examine and question witnesses; present evidence on behalf of the corporation; and draw conclusions and make arguments before the Board or hearing officers without being in violation of the provisions of § <a href='http://law.lis.virginia.gov/vacode/54.1-3904/'>54.1-3904</a>.</p><p>1989, c. 266, § 4-10.1; 1993, c. 866.</p>

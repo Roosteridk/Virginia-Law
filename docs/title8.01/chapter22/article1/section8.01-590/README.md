@@ -1,0 +1,3 @@
+# § 8.01-590 Penalty for failure of duty.
+
+<p>If a general receiver fail to keep the account, or to make out and return the statements required by § <a href='http://law.lis.virginia.gov/vacode/8.01-585/'>8.01-585</a>, he shall be subject to a fine of not less than $100 nor more than $1,000 to be imposed by the court at its discretion; and the condition of his official bond shall be taken to embrace the liability of himself and his sureties for any such fine.</p><p>Code 1950, § 8-733; 1977, c. 617.</p>

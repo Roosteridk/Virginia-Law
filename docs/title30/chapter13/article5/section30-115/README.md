@@ -1,0 +1,3 @@
+# § 30-115 Subpoenas.
+
+<p>The Panel may issue subpoenas to compel the attendance of witnesses or the production of documents, books or other records. The Panel may apply to the Circuit Court of the City of Richmond to compel obedience to the subpoenas of the Panel. Notwithstanding any other provisions of law, every state and local governmental agency, and units and subdivisions thereof shall make available to the Panel any documents, records, data, statements or other information, except tax returns or information relating thereto, which the Panel designates as being necessary for the exercise of its powers and duties.</p><p>1987, Sp. Sess., c. 1, § 2.1-639.47; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

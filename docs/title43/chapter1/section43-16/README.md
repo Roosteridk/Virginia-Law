@@ -1,0 +1,3 @@
+# § 43-16 What owner may do when contractor fails or refuses to complete building, etc.
+
+<p>If the owner is compelled to complete his building, structure, or railroad, or any part thereof undertaken by a general contractor in consequence of the failure or refusal of the general contractor to do so, the amount expended by the owner for such completion shall have priority over all mechanics' liens which have been or may be placed on such building, structure, or railroad by such general contractor, a subcontractor under him, or any person furnishing labor or materials to either of them.</p><p>Code 1919, § 6432.</p>

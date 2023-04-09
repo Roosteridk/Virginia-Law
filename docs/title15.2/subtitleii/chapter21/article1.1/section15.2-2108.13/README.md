@@ -1,0 +1,3 @@
+# § 15.2-2108.13 Quality of service standards.
+
+<p>A municipality that provides a cable television service shall adopt an ordinance governing the quality of service the municipality shall provide to its subscribers, which standard of quality shall be no more favorable or less burdensome to the municipality than the standard of quality applied to any other private providers within the municipality.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0677'>677</a>.</p>

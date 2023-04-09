@@ -1,0 +1,3 @@
+# § 38.2-2520 Right to limit assessment liability.
+
+<p>Any mutual assessment property and casualty insurer having a surplus to policyholders equal to at least 3 times the average annual losses and expenses of the insurer during the last 5-year period or a surplus to policyholders of at least $800,000 may limit the assessment liability of members. The liability of members for assessment may be limited during any one year to an amount not less than one additional current annual assessment.</p><p>1952, c. 317, § 38.1-683.1; 1986, c. 562.</p>

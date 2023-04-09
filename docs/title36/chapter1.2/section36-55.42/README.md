@@ -1,0 +1,3 @@
+# § 36-55.42 Refunding obligations; issuance.
+
+<p>HDA may provide for the issuance of refunding obligations for the purpose of refunding any obligations then outstanding which have been issued under the provisions of this chapter, including the payment of any redemption premium thereon and any interest accrued or to accrue to the date of redemption of such obligations and for any corporate purpose of HDA. The issuance of such obligations, the maturities and other details thereof, the rights of the holders thereof, and the rights, duties and obligations of the HDA in respect of the same shall be governed by the provisions of this chapter which relate to the issuance of obligations, insofar as such provisions may be appropriate therefor.</p><p>1972, c. 830.</p>

@@ -1,0 +1,3 @@
+# § 15.2-748 Annexation by city.
+
+<p>No part of a county's territory may be annexed by any city unless the whole county be annexed. In such latter case the county shall not be annexed until the question of annexation has been first submitted to a referendum of the voters of such county and approved by a majority of those voting thereon.</p><p>Code 1950, §§ 15-358, 15-359; 1962, c. 623, § 15.1-692; 1997, c. 587.</p>

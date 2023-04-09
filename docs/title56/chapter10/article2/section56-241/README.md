@@ -1,0 +1,3 @@
+# § 56-241 Rates of telephone companies.
+
+<p>The power of the Commission over the rates of telephone companies shall be as defined (i) by this chapter or (ii) by § <a href='http://law.lis.virginia.gov/vacode/56-481.1/'>56-481.1</a>.</p><p>Code 1919, § 4066; 1918, p. 676; 1924, p. 540; 1927, p. 125; 1964, c. 195; 1973, c. 262; 1984, c. 721; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0738'>738</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0740'>740</a>.</p>

@@ -1,0 +1,3 @@
+# § 10.1-1617 Moneys of Authority.
+
+<p>All moneys of the Authority, from whatever source derived, shall be paid to the treasurer of the Authority. Such moneys shall be deposited by the treasurer in one or more banks or trust companies, in one or more special accounts. All banks and trust companies are authorized to give security for such deposits, if required by the Authority. The moneys in the accounts shall be paid out on the warrant or other order of the treasurer of the Authority or any person authorized by the Authority to execute such warrants or orders. The Auditor of Public Accounts of the Commonwealth, and his legally authorized representatives, shall examine the accounts and books of the Authority.</p><p>1986, c. 360, § 10-158.15; 1988, c. 891.</p>

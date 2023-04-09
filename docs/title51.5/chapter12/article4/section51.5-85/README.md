@@ -1,0 +1,3 @@
+# § 51.5-85 Selection of location and operator of enterprise; supervision.
+
+<p>The Department shall be the agency to select the location of the vending stand and other business enterprise, to select the operator, and to provide all necessary supervision of the operator and the vending stand and other business enterprise.</p><p>Code 1950, § 63-204.9; 1968, c. 578, § 63.1-150; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

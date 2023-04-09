@@ -1,0 +1,3 @@
+# § 33.2-1214 Transfer of licenses and permits to successor concerns.
+
+<p>Any license or permit issued pursuant to this article may be transferred to any person that acquires as a successor the business of the person for whom such license or permit was issued.</p><p>Code 1950, § 33-314; 1954, c. 588; 1970, c. 322, § 33.1-367; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

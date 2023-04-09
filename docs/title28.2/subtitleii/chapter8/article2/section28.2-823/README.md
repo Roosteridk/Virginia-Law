@@ -1,0 +1,3 @@
+# § 28.2-823 Certification of shellfish from outside the Commonwealth.
+
+<p>All shellfish in the shell imported or transported into Virginia for processing or consumption within the Commonwealth shall have a certificate from the appropriate agency of the state of origin that the shellfish came from clean, approved areas of water of that state. Shellfish which are not accompanied by such certificate are deemed to have come from polluted waters; shall not be sold or processed for consumption within Virginia; and shall be replanted in compliance with the provisions of this chapter, destroyed or returned to the state of origin.</p><p>1962, c. 406, § 28.1-182; 1992, c. 836.</p>

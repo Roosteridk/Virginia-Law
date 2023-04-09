@@ -1,0 +1,3 @@
+# § 33.2-212 Sections not applicable to certain engines and tractors.
+
+<p>The provisions of §§ <a href='http://law.lis.virginia.gov/vacode/33.2-210/'>33.2-210</a> and <a href='http://law.lis.virginia.gov/vacode/33.2-211/'>33.2-211</a> shall not apply to traction engines and tractors weighing not less than five tons when drawing threshing machines, hay balers, or other farm machinery for local farm use.</p><p>Code 1950, § 33-22; 1970, c. 322, § 33.1-23; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0104'>104</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0164'>164</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

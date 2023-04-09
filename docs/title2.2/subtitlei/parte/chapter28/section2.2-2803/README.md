@@ -1,0 +1,3 @@
+# § 2.2-2803 Exception as to public officer or employee serving in the Selective Service System of the United States.
+
+<p>No state, county or municipal officer or employee shall forfeit or vacate his office or position, by reason of serving or of having served as an officer, member, agent or employee, or in any other position or capacity, in the Selective Service System of the United States.</p><p>No person shall be ineligible to hold any state, county or municipal office or position by reason of being engaged in service in Virginia in the Selective Service System of the United States.</p><p>1952, Ex. Sess., c. 21, § 2-27.2; 1966, c. 677, § 2.1-32; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,0 +1,3 @@
+# § 59.1-508.14 Discontinuing access.
+
+<p>On material breach of an access contract or if the agreement so provides, a party may discontinue all contractual rights of access of the party in breach and direct any person that is assisting the performance of the contract to discontinue its performance.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0101'>101</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0996'>996</a>.</p>

@@ -1,0 +1,3 @@
+# § 44-120.1 Manufacture of Virginia military medals and decorations in United States.
+
+<p>Virginia military medals and decorations shall be made in the United States. Existing stocks of Virginia military medals and decorations which are of foreign origin may be consumed without violating the provisions of this act. All Virginia military medals and decorations shall have the words "Made in the USA" stamped on the reverse side. This act shall not limit the country of origin of United States military medals and decorations that are presented to members of the Virginia National Guard.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0022'>22</a>.</p>

@@ -1,0 +1,3 @@
+# § 45.2-1110  Qualifications of mine inspectors.
+
+<p>Each mine inspector conducting inspections of mineral mines shall have a thorough knowledge of the various systems of working and ventilating underground mineral mines and working surface mineral mines, the control of mine roof and ground control, methods of rescue and recovery in mining operations, the application of electricity and mechanical loading in mining operations, equipment and explosives used in mining, and mine haulage.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0390'>390</a>, § 45.1-161.292:12; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

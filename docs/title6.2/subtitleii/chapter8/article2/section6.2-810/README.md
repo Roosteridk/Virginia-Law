@@ -1,0 +1,3 @@
+# § 6.2-810 Effect of chapter on charter powers.
+
+<p>The powers, privileges, duties and restrictions conferred and imposed upon any bank existing and doing business under the laws of the Commonwealth are abridged, enlarged or modified, as each particular case may require, to conform to the provisions of this chapter.</p><p>Code 1950, § 6-8; 1966, c. 584, § 6.1-7; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,0 +1,3 @@
+# § 8.01-235 Bar of expiration of limitation period raised only as affirmative defense in responsive pleading.
+
+<p>The objection that an action is not commenced within the limitation period prescribed by law can only be raised as an affirmative defense specifically set forth in a responsive pleading. No statutory limitation period shall have jurisdictional effects and the defense that the statutory limitation period has expired cannot be set up by demurrer. This section shall apply to all limitation periods, without regard to whether or not the statute prescribing such limitation period shall create a new right.</p><p>1977, c. 617.</p>

@@ -1,0 +1,3 @@
+# § 10.1-708 Relationship of Board and Director; guidelines.
+
+<p>The Board shall be responsible for the allocation of the grant fund established in § <a href='http://law.lis.virginia.gov/vacode/10.1-709/'>10.1-709</a>. The Board shall submit the names of recipient localities to the Director and the Director shall disburse funds to designated localities. The Board may establish guidelines governing application procedures, allocations or implementation standards.</p><p>1980, c. 428, § 10-219; 1984, c. 750; 1988, c. 891.</p>

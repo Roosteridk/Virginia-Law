@@ -1,0 +1,3 @@
+# § 16.1-69.31 The duties of the Judicial Council.
+
+<p>The duties of the Judicial Council with respect to the district court system shall include those set forth in §§ <a href='/vacode/16.1-69.6/'>16.1-69.6</a> through <a href='/vacode/16.1-69.12/'>16.1-69.12</a>, and such other duties as may be assigned to the Council by law.</p><p>1972, c. 708; 1973, c. 546; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0164'>164</a>.</p>

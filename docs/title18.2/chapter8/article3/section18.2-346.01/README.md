@@ -1,0 +1,3 @@
+# § 18.2-346.01 Prostitution; solicitation; commercial exploitation of a minor; penalties.
+
+<p>Any person who offers money or its equivalent to another for the purpose of engaging in sexual acts enumerated in § <a href='/vacode/18.2-346/'>18.2-346</a> and thereafter does any substantial act in furtherance thereof is guilty of solicitation of prostitution, which is punishable as a Class 1 misdemeanor. However, any person who solicits prostitution from a minor (i) 16 years of age or older is guilty of a Class 6 felony or (ii) younger than 16 years of age is guilty of a Class 5 felony.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0188'>188</a>.</p>

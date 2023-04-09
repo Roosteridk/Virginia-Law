@@ -1,0 +1,3 @@
+# § 55.1-2018 Liability of owner.
+
+<p>A. The liability of the owner of an apartment for pro rata expenses shall be limited to the amounts assessed from time to time in accordance with this chapter, the master deed or lease, or the bylaws.</p><p>B. The owner of an apartment shall not be personally liable with respect to the negligence of any other co-owner except insofar as the negligent co-owner is acting for the council of co-owners.</p><p>1966, c. 683, § 55-79.37; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-537 Officers not affected by adoption of plan.
+
+<p>The following officers shall not, except as herein otherwise provided, be affected by the adoption of the county executive form:</p><p>1. Jury commissioners;</p><p>2. County electoral boards;</p><p>3. Registrars;</p><p>4. Judges and clerks of elections; and</p><p>5. Magistrates.</p><p>Code 1950, § 15-338; 1950, p. 974; 1952, c. 37; 1962, cc. 596, 623, § 15.1-662; 1973, c. 545; 1997, c. 587.</p>

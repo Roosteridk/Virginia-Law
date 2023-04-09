@@ -1,0 +1,3 @@
+# § 22.1-273.2 Parent educational information regarding eating disorders.
+
+<p>Each school board shall annually provide parent educational information regarding eating disorders for pupils in grades five through 12. Such information shall be consistent with guidelines set forth by the Department of Education.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0715'>715</a>.</p>

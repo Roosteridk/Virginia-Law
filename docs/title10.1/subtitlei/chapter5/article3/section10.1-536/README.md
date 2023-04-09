@@ -1,0 +1,3 @@
+# § 10.1-536 Removal from office.
+
+<p>Any district director may be removed by the Board for neglect of duty or malfeasance in office, or may be removed in accordance with the provisions of general law. Upon receipt of a sworn complaint against a director filed by a majority of the directors of that same district, the Board shall (i) notify the district director that a complaint has been filed against him and (ii) hold a hearing to determine whether the district director's conduct constitutes neglect of duty or malfeasance in office.</p><p>Code 1950, § 21-51; 1964, c. 512; 1970, c. 480; 1988, c. 891; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0493'>493</a>.</p>

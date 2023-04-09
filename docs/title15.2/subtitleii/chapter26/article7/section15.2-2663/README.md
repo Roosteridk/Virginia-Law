@@ -1,0 +1,3 @@
+# § 15.2-2663 Transition.
+
+<p>If any proceedings with respect to the authorization, issuance, sale, execution or delivery of bonds have been commenced before July 1, 1991, the bonds may, at the election of the governing body of the locality issuing the bonds, be issued under the provisions of this chapter or under the provisions of law in effect immediately before July 1, 1991.</p><p>1991, c. 668, § 15.1-227.65; 1997, c. 587.</p>

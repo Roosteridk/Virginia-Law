@@ -1,0 +1,3 @@
+# § 42.1-43 Appropriation for free library or library service conducted by company, society, or organization.
+
+<p>The governing body of any county, city, or town in which no free public library system as provided in this chapter has been established may appropriate such sums of money as it determines is appropriate for the support and maintenance of any free library or library service operated and conducted in such county, city, or town by a company, society, or association organized under the provisions of Chapter 10 (§ <a href='/vacode/13.1-801/'>13.1-801</a> et seq.) of Title 13.1.</p><p>1970, c. 606; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0355'>355</a>.</p>

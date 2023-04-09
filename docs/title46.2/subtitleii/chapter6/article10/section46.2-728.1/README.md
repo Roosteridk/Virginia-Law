@@ -1,0 +1,3 @@
+# § 46.2-728.1 Special license plates incorporating the official bird and the floral emblem of the Commonwealth; fee.
+
+<p>On receipt of an application, the Commissioner shall issue license plates incorporating the official bird and the floral emblem of the Commonwealth. These license plates shall be valid for whatever period the Commissioner determines.</p><p>For each set of license plates issued under this section the Commissioner shall charge, in addition to the prescribed cost of state license plates, a one-time fee of ten dollars at the time the plates are issued.</p><p>1992, cc. 142, 631.</p>

@@ -1,0 +1,3 @@
+# § 64.2-1063 Other financial instrument or arrangement.
+
+<p>A fiduciary shall allocate receipts from or related to a financial instrument or arrangement not otherwise addressed by this chapter. The allocation must be consistent with §§ <a href='https://law.lis.virginia.gov/vacode/title64.2/chapter10.1/section64.2-1061/'>64.2-1061</a> and <a href='https://law.lis.virginia.gov/vacode/title64.2/chapter10.1/section64.2-1062/'>64.2-1062</a>.</p><p>2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0354'>354</a>.</p>

@@ -1,0 +1,3 @@
+# § 45.2-816  Underground illumination.
+
+<p>A. Electric-light wires shall be supported by suitable insulators or installed in conduit, shall be fastened securely to the power conductors, and shall not contact any combustible material.</p><p>B. Every electric light shall be guarded and installed so that it does not contact any combustible material.</p><p>Code 1950, § 45-82.6; 1954, c. 191; 1966, c. 594, § 45.1-86; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.172; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0003'>3</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

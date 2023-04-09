@@ -1,0 +1,3 @@
+# § 18.2-149 Injury to hired animal, aircraft, vehicle or boat.
+
+<p>If any person after having rented or leased from any other person an animal, aircraft, vehicle, boat or vessel shall willfully injure or damage the same, by hard or reckless driving or using, or by using the same in violation of any statute of this Commonwealth, or allow or permit any other person so to do, or hire the same to any other person without the consent of the bailor, such person shall be guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 18.1-161; 1960, c. 358; 1975, cc. 14, 15.</p>

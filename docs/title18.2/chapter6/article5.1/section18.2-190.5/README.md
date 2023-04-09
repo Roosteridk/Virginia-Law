@@ -1,0 +1,3 @@
+# § 18.2-190.5 Separate offenses; penalty.
+
+<p>For purposes of imposing criminal penalties for violations of §§ <a href='http://law.lis.virginia.gov/vacode/18.2-190.3/'>18.2-190.3</a> and <a href='http://law.lis.virginia.gov/vacode/18.2-190.4/'>18.2-190.4</a>, the commission of the prohibited activity regarding each unlawful electronic communication device shall be deemed a separate offense.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0671'>671</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0354'>354</a>.</p>

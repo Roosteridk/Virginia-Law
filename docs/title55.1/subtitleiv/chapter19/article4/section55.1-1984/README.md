@@ -1,0 +1,3 @@
+# § 55.1-1984 Declarant to deliver declaration to purchaser.
+
+<p>The declarant shall within 10 days of recordation of the condominium instruments as provided for in §§ <a href='/vacode/55.1-1907/'>55.1-1907</a> and <a href='/vacode/55.1-1911/'>55.1-1911</a> forward to each purchaser at his last known address by first-class mail, return receipt requested, an exact copy of the recorded declaration and bylaws.</p><p>1974, c. 416, § 55-79.96; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

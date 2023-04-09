@@ -1,0 +1,3 @@
+# § 40.1-28.12 Employee's remedies.
+
+<p>Any employer who violates the minimum wage requirements of this law shall be liable to the employee or employees affected in the amount of the unpaid minimum wages, plus interest at eight per centum per annum upon such unpaid wages as may be due the plaintiff, said interest to be awarded from the date or dates said wages were due the employee or employees. The court may, in addition to any judgment awarded to the employee or employees, require defendant to pay reasonable attorney's fees incurred by the employee or employees.</p><p>1975, c. 530.</p>

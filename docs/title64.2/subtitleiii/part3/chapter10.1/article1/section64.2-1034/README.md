@@ -1,0 +1,3 @@
+# § 64.2-1034 Scope.
+
+<p>Except as otherwise provided in the terms of the trust or this chapter, this chapter applies to:</p><p>1. A trust or estate; and</p><p>2. A life estate or other term interest in which the interest of one or more persons will be succeeded by the interest of one or more other persons.</p><p>2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0354'>354</a>.</p>

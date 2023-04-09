@@ -1,0 +1,3 @@
+# § 19.2-275 Arrest of witness.
+
+<p>If the certificate recommends that the witness be taken into immediate custody and delivered to an officer of the requesting state to assure his attendance in the requesting state, such judge may, in lieu of notification of the hearing, direct that such witness be forthwith brought before him for the hearing; and the judge at the hearing being satisfied of the desirability of such custody and delivery, for which determination the certificate shall be prima facie proof of such desirability, may, in lieu of issuing subpoena or summons, order that the witness be forthwith taken into custody and delivered to an officer of the requesting state.</p><p>Code 1950, § 19.1-272; 1960, c. 366; 1975, c. 495.</p>

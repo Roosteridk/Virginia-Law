@@ -1,0 +1,3 @@
+# § 8.01-193 Defense and hearing.
+
+<p>In every such case, the Comptroller shall be a defendant. He shall file an answer stating the objections to the claim. The cause shall be heard upon the petition, answer, and the evidence.</p><p>Code 1950, § 8-753; 1977, c. 617.</p>

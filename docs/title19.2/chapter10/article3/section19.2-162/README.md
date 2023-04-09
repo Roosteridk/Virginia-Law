@@ -1,0 +1,3 @@
+# § 19.2-162 Continuances to be granted if necessary.
+
+<p>Courts before which criminal proceedings are pending shall afford such continuances and take such other action as is necessary to comply with the provisions of this chapter.</p><p>Code 1950, §§ 19.1-241.4, 19.1-241.10; 1964, c. 657; 1973, c. 316; 1975, c. 495.</p>

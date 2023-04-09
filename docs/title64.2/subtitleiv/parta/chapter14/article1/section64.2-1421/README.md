@@ -1,0 +1,3 @@
+# § 64.2-1421 What judgment or decree based upon service upon clerk shall specifically adjudicate.
+
+<p>Any judgment or decree based upon service of notice, process, or rule upon the clerk of the circuit court shall specifically adjudicate that due diligence has been used and that the person thus served cannot be found and served within the Commonwealth, that the requirements of § <a href='http://law.lis.virginia.gov/vacode/64.2-1420/'>64.2-1420</a> have been complied with, and that the fiduciary's final account does not stand confirmed as provided in § <a href='http://law.lis.virginia.gov/vacode/64.2-1212/'>64.2-1212</a> or by order of court.</p><p>1954, c. 601, § 26-7.3; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

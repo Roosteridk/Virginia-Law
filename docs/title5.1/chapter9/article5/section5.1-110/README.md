@@ -1,0 +1,3 @@
+# § 5.1-110 Hearing on such application and action thereon.
+
+<p>Upon the filing of an application for a broker's license the Commission may fix a time and place for the hearing of the application and require such notices, publication, or other service as may, in its judgment, be necessary. If the Commission finds the application proper and in the public interest it shall issue a license, subject to such terms, limitations and restrictions as the Commission may deem proper.</p><p>Code 1950, § 56-164; 1970, c. 708.</p>

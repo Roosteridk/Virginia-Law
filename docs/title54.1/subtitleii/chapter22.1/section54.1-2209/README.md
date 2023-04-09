@@ -1,0 +1,3 @@
+# § 54.1-2209 Definitions.
+
+<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Board" means the Board for Waste Management Facility Operators.</p><p>"Person" means an individual, corporation, partnership, association, governmental body, municipal corporation or any other legal entity.</p><p>"Waste management facility" means a site used for planned treatment, storage or disposal of nonhazardous solid waste.</p><p>"Waste management facility operator" means any person, including an owner, who is in charge of the actual, on-site operation of a waste management facility during any period of operation.</p><p>1991, c. 551.</p>

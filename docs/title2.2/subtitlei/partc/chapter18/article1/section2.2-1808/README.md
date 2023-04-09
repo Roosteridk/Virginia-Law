@@ -1,0 +1,3 @@
+# § 2.2-1808 State Treasurer may sell securities in general fund; exceptions; disposition of proceeds.
+
+<p>The Treasurer may sell, transfer, and convey any notes, bonds, obligations or certificates of stock held in the general fund of the state treasury. The proceeds from any such sale or disposition shall immediately be paid into the general fund. This section shall apply to any present or future holdings.</p><p>Code 1950, p. 632, § 2-155.1; 1966, c. 677, § 2.1-187; 1970, c. 687; 1989, c. 28; 1991, cc. 349, 366; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

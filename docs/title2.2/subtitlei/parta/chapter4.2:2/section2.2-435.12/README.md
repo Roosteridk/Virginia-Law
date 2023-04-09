@@ -1,0 +1,3 @@
+# § 2.2-435.12 Director of Diversity, Equity, and Inclusion; duties.
+
+<p>The position of Director of Diversity, Equity, and Inclusion (the Director) is created. The Director shall be appointed by the Governor. The Director shall (i) develop a sustainable framework to promote inclusive practices across state government; (ii) implement a measurable, strategic plan to address systemic inequities in state government practices; and (iii) facilitate methods to turn feedback and suggestions from state employees, external stakeholders, and community leaders into concrete equity policy.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0712'>712</a>.</p>

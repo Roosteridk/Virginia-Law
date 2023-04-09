@@ -1,0 +1,3 @@
+# § 65.2-1008 When fund in excess of requirement.
+
+<p>If it be ascertained that the tax collected exceeds the total chargeable against the maintenance fund under the provisions of this title, the Workers' Compensation Commission shall authorize a corresponding credit upon the collection for any year or make refunds of taxes collected in such amounts as are necessary to maintain a fund balance not exceeding one year's budgeted expenditures.</p><p>Code 1950, § 65-128; 1968, c. 660, § 65.1-137; 1976, c. 603; 1991, c. 355.</p>

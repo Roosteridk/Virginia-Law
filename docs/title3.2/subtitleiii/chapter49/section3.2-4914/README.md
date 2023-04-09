@@ -1,0 +1,3 @@
+# § 3.2-4914 Violation of chapter or regulations a misdemeanor.
+
+<p>Any person convicted of violating any provisions of this chapter and the regulations issued hereunder is guilty of a Class 1 misdemeanor, except as otherwise provided.</p><p>Code 1950, § 3-646.15; 1956, c. 517; 1966, c. 702, § 3.1-845; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0910'>910</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

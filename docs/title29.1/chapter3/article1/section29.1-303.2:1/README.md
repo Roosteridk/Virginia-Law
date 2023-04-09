@@ -1,0 +1,3 @@
+# § 29.1-303.2:1 State junior resident bear hunting license; fee.
+
+<p>The Board may create a separate state youth resident license for hunting bear that may be obtained by any resident under the age of 16. The fee for the state youth resident license for hunting bear shall be $5.50. The license fees established by this section may be revised by the Board pursuant to § <a href='http://law.lis.virginia.gov/vacode/29.1-103/'>29.1-103</a>.</p><p>The state youth resident license to hunt bear may be obtained from the clerk or agent of any county or city whose duty it is to sell licenses.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0353'>353</a>.</p>

@@ -1,0 +1,3 @@
+# § 22.1-274.5 Topical sunscreen.
+
+<p>Any public elementary or secondary school student may possess and use unscented topical sunscreen in its original packaging on a school bus, on school property, or at a school-sponsored event without a note or prescription from a licensed health care professional if the topical sunscreen is approved by the U.S. Food and Drug Administration for nonprescription use for the purpose of limiting damage to skin caused by exposure to ultraviolet light.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0579'>579</a>.</p>

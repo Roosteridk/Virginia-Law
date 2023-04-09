@@ -1,0 +1,3 @@
+# § 3.2-4606 Disposition of funds.
+
+<p>All moneys collected under the provisions of this chapter for the inspection and certification of any fruits subject to the provisions of this chapter shall be handled and deposited in the manner provided for in subsection B of § <a href='http://law.lis.virginia.gov/vacode/3.2-3400/'>3.2-3400</a>, for the handling of inspection and certification fees derived from the inspection of any agricultural products.</p><p>Code 1950, § 3-722; 1964, c. 214; 1966, c. 702, § 3.1-1003; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

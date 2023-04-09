@@ -1,0 +1,3 @@
+# § 30-19.11 Salaries of Speaker of House of Delegates and members of General Assembly.
+
+<p>The Speaker of the House of Delegates and other members of the General Assembly shall each receive an annual salary as shall be set forth in the general appropriations act. Such salaries shall be payable not more often than biweekly.</p><p>1971, Ex. Sess., c. 194, § 14.1-17.1; 1976, c. 604; 1984, c. 161; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

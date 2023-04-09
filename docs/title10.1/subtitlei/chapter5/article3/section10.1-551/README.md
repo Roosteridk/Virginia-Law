@@ -1,0 +1,3 @@
+# § 10.1-551 Conditions for extension of benefits.
+
+<p>As a condition to the extending of any benefits under this chapter to, or the performance of work upon, any lands not owned or controlled by the Commonwealth or any of its agencies, the district directors may require contributions in money, services, materials, or otherwise to any operations conferring such benefits, and may require land occupiers to enter into and perform such agreements or covenants as to the permanent use of such lands that will tend to prevent or control erosion and prevent floodwaters and sediment damages thereon.</p><p>Code 1950, § 21-64; 1956, c. 654; 1970, c. 480; 1988, c. 891.</p>

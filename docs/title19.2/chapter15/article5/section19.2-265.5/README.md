@@ -1,0 +1,3 @@
+# § 19.2-265.5 Prosecuting misdemeanor cases without attorney.
+
+<p>Notwithstanding any of the provisions of § <a href='http://law.lis.virginia.gov/vacode/19.2-265.1/'>19.2-265.1</a>, whenever in a misdemeanor case neither an attorney for the Commonwealth nor any other attorney for the prosecution is present, the complaining witness may be allowed to remain in court throughout the entire trial if necessary for the orderly presentation of witnesses for the prosecution.</p><p>1987, c. 659.</p>

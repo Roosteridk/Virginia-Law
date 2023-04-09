@@ -1,0 +1,3 @@
+# § 54.1-2934 Evidence of right to practice required of certain foreign graduates.
+
+<p>Every candidate who is a graduate of a school of a country other than the United States and Canada must, in addition to meeting the other requirements of this article, exhibit to the Board a diploma, license or certificate conferring the full right to practice in that country, or satisfactory evidence showing that the candidate has completed the course of study and passed examinations equivalent to those required for a diploma or license conferring such full right to practice.</p><p>1954, c. 626, § 54-306.2; 1988, c. 765.</p>

@@ -1,0 +1,3 @@
+# § 3.2-3926 Records.
+
+<p>A. As a condition of obtaining or renewing a license, each pesticide business required to be licensed shall maintain records as required by the Board.</p><p>B. The Board may require the submission of records from a licensed pesticide business. Failure to submit a record requested by the Board is a ground for license revocation.</p><p>1975, c. 377, § 3.1-249.11; 1989, c. 575, § 3.1-249.48; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

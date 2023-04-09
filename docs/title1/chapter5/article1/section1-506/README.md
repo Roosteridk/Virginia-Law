@@ -1,0 +1,3 @@
+# § 1-506 Flag of the Commonwealth.
+
+<p>The flag of the Commonwealth shall be a deep blue field, with a circular white centre of the same material. Upon this circle shall be painted or embroidered, to show on both sides alike, the coat of arms of the Commonwealth, as described in § <a href='http://law.lis.virginia.gov/vacode/1-500/'>1-500</a> for the obverse of the great seal of the Commonwealth; and there may be a white fringe on the outer edge, furthest from the flagstaff. This shall be known and respected as the flag of the Commonwealth.</p><p>Code 1950, § 7-32; 1966, c. 102, § 7.1-32; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

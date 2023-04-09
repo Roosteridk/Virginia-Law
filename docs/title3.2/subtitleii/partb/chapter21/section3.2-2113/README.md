@@ -1,0 +1,3 @@
+# § 3.2-2113 Records to be kept by handler.
+
+<p>Every handler shall keep a complete record of the number of sheep subject to payment bought by him for a period of not less than three years. Such records shall be open for inspection by the Tax Commissioner, and shall be established and maintained as required by the Tax Commissioner.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0691'>691</a>, § 3.1-1078; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

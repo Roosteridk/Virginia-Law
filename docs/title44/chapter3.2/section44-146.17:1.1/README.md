@@ -1,0 +1,3 @@
+# § 44-146.17:1.1 Certain emergency orders; additional requirements.
+
+<p>In any case in which an order declaring a state of emergency relating to a communicable disease of public health threat, or successive related orders, issued by the Governor pursuant to subdivision (1) of § <a href='/vacode/44-146.17/'>44-146.17</a> includes any measure that closes schools or businesses or restricts the movement of healthy persons within the area to which the order applies for more than seven days, all of the rights, protections, and procedures of Article 3.02 (§ <a href='/vacode/32.1-48.05/'>32.1-48.05</a> et seq.) of Chapter 2 of Title 32.1 shall apply.</p><p>2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0785'>785</a>.</p>

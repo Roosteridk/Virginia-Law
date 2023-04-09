@@ -1,0 +1,3 @@
+# § 22.1-298.7 Teachers and other licensed school board employees; cultural competency training.
+
+<p>Each school board shall adopt and implement policies that require each teacher and any other school board employee holding a license issued by the Board to complete cultural competency training, in accordance with guidance issued by the Board, at least every two years.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0023'>23</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0024'>24</a>.</p>

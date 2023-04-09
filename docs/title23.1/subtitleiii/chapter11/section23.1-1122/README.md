@@ -1,0 +1,3 @@
+# § 23.1-1122 Provisions of chapter to control.
+
+<p>Insofar as the provisions of this chapter are inconsistent with the provisions of any other general or special law or the charter or other organic law of any institution, the provisions of this chapter control.</p><p>1933, p. 92, § 23-29; 1962, c. 577; 1964, c. 90; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0310'>310</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

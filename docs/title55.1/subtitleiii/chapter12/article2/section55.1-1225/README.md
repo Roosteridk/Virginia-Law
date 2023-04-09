@@ -1,0 +1,3 @@
+# § 55.1-1225 Tenancy at will; effect of notice of change of terms or provisions of tenancy.
+
+<p>A notice of any change by a landlord or tenant in any terms or provisions of a tenancy at will shall constitute a notice to vacate the premises, and such notice of change shall be given in accordance with the terms of the rental agreement, if any, or as otherwise required by law.</p><p>1974, c. 680, § 55-248.15; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0760'>760</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

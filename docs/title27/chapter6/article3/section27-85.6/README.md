@@ -1,0 +1,3 @@
+# § 27-85.6 Evidence.
+
+<p>Any authorized agency and insurance company described in § <a href='http://law.lis.virginia.gov/vacode/27-85.4/'>27-85.4</a> or § <a href='http://law.lis.virginia.gov/vacode/27-85.5/'>27-85.5</a> who receives any information furnished pursuant to this article, shall hold the information in confidence until such time as its release is required pursuant to a criminal or civil proceeding, except release in accordance with subsection C of § <a href='http://law.lis.virginia.gov/vacode/27-85.5/'>27-85.5</a>.</p><p>1979, c. 279.</p>

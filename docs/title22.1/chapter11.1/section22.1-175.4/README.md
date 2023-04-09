@@ -1,0 +1,3 @@
+# § 22.1-175.4 Application for grants.
+
+<p>All funds appropriated for financial assistance for the purposes of this chapter shall be apportioned and distributed among the school divisions of the Commonwealth in accordance with eligibility and needs criteria established by the 2000 Session of the General Assembly.</p><p>1998, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0002'>2</a>; 1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0354'>354</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0391'>391</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0355'>355</a>.</p>

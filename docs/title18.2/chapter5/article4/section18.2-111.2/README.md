@@ -1,0 +1,3 @@
+# § 18.2-111.2 Failure to pay withheld child support; embezzlement.
+
+<p>If any employer withholds money from the pay of his employee for the purpose of paying administrative or court-ordered child support on behalf of the employee and then wrongfully and fraudulently fails to make payment of the money withheld, the employer shall be guilty of embezzlement.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0056'>56</a>.</p>

@@ -1,0 +1,3 @@
+# § 54.1-3616 Use of title "Doctor.".
+
+<p>No person regulated under this chapter shall use the title "Doctor" or the abbreviation "Dr." in writing or in advertising in connection with his practice unless he simultaneously uses a clarifying title, initials, abbreviation or designation or language that identifies the type of practice for which he is licensed.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0937'>937</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0980'>980</a>.</p>

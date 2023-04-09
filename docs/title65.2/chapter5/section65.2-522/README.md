@@ -1,0 +1,3 @@
+# § 65.2-522 Lump sum payments, generally.
+
+<p>When the parties agree and the Commission deems it to be to the best interests of the employee or his dependents, or when it will prevent undue hardships on the employer, or his insurance carrier, without prejudicing the interests of the employee or his dependents, liability for compensation may be redeemed, in whole or in part, through payment by the employer of a lump sum which shall be fixed by the Commission, but in no case shall the sum awarded be less than a sum equal to the present value of future compensation payments commuted, computed at four percent true discount compounded annually.</p><p>Code 1950, § 65-71; 1968, c. 660, § 65.1-74; 1972, c. 619; 1973, c. 401; 1991, c. 355.</p>

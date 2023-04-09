@@ -1,0 +1,3 @@
+# § 10.1-411.4 Cranesnest State Scenic River.
+
+<p>The Cranesnest River from Route 637 to the Flanagan Reservoir Cranesnest Launch Ramp in Dickenson County, a distance of approximately 10.7 miles, is hereby designated as the Cranesnest State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0823'>823</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>.</p>

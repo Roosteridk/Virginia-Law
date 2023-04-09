@@ -1,0 +1,3 @@
+# § 15.2-6414 Tort liability.
+
+<p>No pecuniary liability of any kind shall be imposed on the Commonwealth or on any other political subdivision of the Commonwealth because of any act, agreement, contract, tort, malfeasance or nonfeasance by or on the part of an authority, its agents, servants or employees.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0276'>276</a>, 587, § 15.1-1724.</p>

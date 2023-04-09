@@ -1,0 +1,3 @@
+# § 18.2-206 Procuring an animal, aircraft, vehicle or boat with intent to defraud.
+
+<p>If any person procure any such animal, aircraft, vehicle, boat or vessel mentioned in § <a href='http://law.lis.virginia.gov/vacode/18.2-149/'>18.2-149</a> by fraud or by misrepresenting himself as some other person or with the intent to cheat or defraud such other person, he shall be guilty of a Class 1 misdemeanor. The failure to pay the rental for or damage to such animal, aircraft, vehicle, boat or vessel, or absconding without paying such rental or damage, shall be prima facie evidence of the intent to defraud at the time of renting or leasing such animal, aircraft, vehicle, boat or vessel.</p><p>Code 1950, § 18.1-162; 1960, c. 358; 1975, cc. 14, 15.</p>

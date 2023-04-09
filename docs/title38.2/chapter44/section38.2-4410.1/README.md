@@ -1,0 +1,3 @@
+# § 38.2-4410.1 Examinations.
+
+<p>The Commission may investigate or examine the affairs, transactions, accounts, records, and assets of a legal services organization as it deems necessary. Examinations shall be conducted pursuant to Article 4 (§ <a href='/vacode/38.2-1317/'>38.2-1317</a> et seq.) of Chapter 13.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0408'>408</a>.</p>

@@ -1,0 +1,3 @@
+# § 38.2-1050 Voluntary deposit in excess of amount required.
+
+<p>Any domestic insurer, in order to comply with the laws of any other state or of the United States, may make a voluntary deposit with the State Treasurer in excess of the amount required by § <a href='http://law.lis.virginia.gov/vacode/38.2-1045/'>38.2-1045</a>. This excess deposit shall be subject to all other applicable provisions of the laws of this Commonwealth relating to the deposits of insurers. However, this excess deposit shall be for the protection of all the insurer's policyholders and general creditors, notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/38.2-1046/'>38.2-1046</a>.</p><p>Code 1950, § 38-41; 1952, c. 317, § 38.1-114; 1966, c. 263; 1986, c. 562.</p>

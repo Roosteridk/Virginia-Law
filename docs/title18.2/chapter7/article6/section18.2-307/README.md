@@ -1,0 +1,3 @@
+# § 18.2-307 Short title of article.
+
+<p>This article may be cited as the "Sawed-Off Shotgun and Sawed-Off Rifle Act."</p><p>Code 1950, § 18.1-268.9; 1968, c. 661; 1975, cc. 14, 15; 1992, c. 580.</p>

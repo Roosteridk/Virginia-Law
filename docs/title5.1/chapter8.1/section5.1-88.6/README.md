@@ -1,0 +1,3 @@
+# § 5.1-88.6 Parachute jump training schools; disclosure of liability insurance coverage; penalty.
+
+<p>A. Every person operating a parachute jump training school in the Commonwealth shall disclose to his students whether he has obtained, and is maintaining, personal injury liability insurance, as defined in § <a href='http://law.lis.virginia.gov/vacode/38.2-117/'>38.2-117</a>, for the benefit and protection of such students during their training.</p><p>B. The disclosure required by this section shall be in writing and provided to every student prior to the commencement of any training.</p><p>C. Any person failing to provide the disclosure required by this section shall be guilty of a Class 3 misdemeanor.</p><p>1993, c. 46.</p>

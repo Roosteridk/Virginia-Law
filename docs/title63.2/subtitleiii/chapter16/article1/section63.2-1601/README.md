@@ -1,0 +1,3 @@
+# § 63.2-1601 Authority to provide adult foster care services.
+
+<p>Each local board is authorized to provide adult foster care services that may include recruitment, approval, and supervision subject to the supervision and in accordance with regulations of the Commissioner for Aging and Rehabilitative Services as provided in Article 4 (§ <a href='http://law.lis.virginia.gov/vacode/51.5-144/'>51.5-144</a> et seq.) of Chapter 14 of Title 51.5.</p><p>1978, c. 180, § 63.1-55.1:1; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

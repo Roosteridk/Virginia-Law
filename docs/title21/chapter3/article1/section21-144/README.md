@@ -1,0 +1,3 @@
+# § 21-144 Court proceedings.
+
+<p>Whenever in this chapter the circuit court of any county, or the corporation court of any city, is authorized to accept any petitions or papers, make any order, hold any hearing, hear, consider and determine any question or do any other act or thing, such court, or a judge thereof in vacation, may do and perform the same.</p><p>1938, p. 529; Michie Code 1942, § 1560ggg.</p>

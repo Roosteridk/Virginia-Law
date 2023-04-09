@@ -1,0 +1,3 @@
+# § 53.1-22 Misdemeanant suspected of having contagious disease.
+
+<p>Whenever any court shall have reason to believe that a person convicted by it of a misdemeanor who is sentenced to serve time in a local correctional facility is afflicted with any contagious or infectious disease dangerous to the public health, the court shall have such person examined by a licensed physician or licensed nurse practitioner. If the examination reveals the person is afflicted with such disease, the court may commit the person directly to the Department.</p><p>Code 1950, § 53-89; 1970, c. 648; 1974, cc. 44, 45; 1982, c. 636; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0855'>855</a>.</p>

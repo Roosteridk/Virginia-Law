@@ -1,0 +1,3 @@
+# § 56-262 Proceeding upon failure of public service corporation to perform duties.
+
+<p>If any such public service corporation shall fail or refuse to perform any of the duties imposed by § <a href='http://law.lis.virginia.gov/vacode/56-261/'>56-261</a> or by this chapter, any city or incorporated town, or any such county served or whose inhabitants are served by such corporation may file with the State Corporation Commission a petition setting forth the failure or refusal of such corporation to carry out and perform one or more of such duties, at a reasonable charge, or to the detriment or threatened detriment of the public health or safety from fire of such community.</p><p>1924, p. 690; 1928, p. 632; Michie Code 1942, § 4073b.</p>

@@ -1,0 +1,3 @@
+# § 64.2-2705 Governing law.
+
+<p>Unless the terms of the instrument creating a power of appointment manifest a contrary intent:</p><p>1. The creating, revocation, or amendment of the power is governed by the law of the donor's domicile at the relevant time; and</p><p>2. The exercise, release, or disclaimer of the power, or the revocation or amendment of the exercise, release, or disclaimer of the power is governed by the law of the powerholder's domicile at the relevant time.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

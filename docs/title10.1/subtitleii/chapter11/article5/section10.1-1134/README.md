@@ -1,0 +1,3 @@
+# § 10.1-1134 Disposition of fees.
+
+<p>All moneys paid to the State Forester for services described in this article shall be deposited in the state treasury to the credit of the Forestry Operations Fund, to be used to provide additional similar scientific forestry services to the landowners of this Commonwealth. The State Forester is hereby authorized to utilize any unobligated balances in the fire suppression fund for the purpose of acquiring replacement equipment for forestry management and protection operations.</p><p>Code 1950, § 10-54; 1984, c. 715; 1986, c. 567; 1988, c. 891.</p>

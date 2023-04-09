@@ -1,0 +1,3 @@
+# § 8.01-465.16 Variation by agreement.
+
+<p>The effect of this chapter may be varied by agreement of the parties made before or after commencement of an action or distribution proceeding or the entry of judgment.</p><p>Parties to a transaction may agree upon the money to be used in a transaction giving rise to a foreign-money claim and may agree to use different moneys for different aspects of the transaction. Stating the price in a foreign money for one aspect of a transaction does not alone require the use of that money for other aspects of the transaction.</p><p>1991, c. 24.</p>

@@ -1,0 +1,3 @@
+# § 19.2-199 Judge to charge grand jury.
+
+<p>The grand jury, after being sworn, shall be charged by the judge of the court and shall then be sent to their room. In the charge given by the court to a regular grand jury, the court shall instruct it to advise the court after their considerations of the bills of indictment whether it desires to be impanelled as a special grand jury to consider any matters provided for in subdivision (2) of § <a href='http://law.lis.virginia.gov/vacode/19.2-191/'>19.2-191</a>.</p><p>Code 1950, § 19.1-154; 1960, cc. 366, 467; 1975, c. 495.</p>

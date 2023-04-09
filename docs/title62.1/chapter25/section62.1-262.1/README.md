@@ -1,0 +1,3 @@
+# § 62.1-262.1 Permits for withdrawals from Eastern Shore Groundwater Management Area.
+
+<p>The Board shall adopt regulations to provide incentives for the withdrawal of ground water from the surficial aquifer in the Eastern Shore Groundwater Management Area rather than from the deep aquifer in such management area. Notwithstanding the provisions of subsection C of § <a href='/vacode/62.1-266/'>62.1-266</a>, such incentives may include extended permit terms of as long as 20 years, an accelerated permit process, discounted permit fees, other subsidies, or other incentives.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0755'>755</a>.</p>

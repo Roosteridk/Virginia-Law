@@ -1,0 +1,3 @@
+# § 38.2-4124 Taxation.
+
+<p>Every society organized or licensed under this chapter is hereby declared to be a charitable and benevolent institution, and all of its funds shall be exempt from every state, county, district, municipal and school tax other than taxes on real estate and office equipment.</p><p>Code 1950, §§ 38-262, 38.1-577; 1952, c. 317, § 38.1-638.9; 1968, c. 654; 1986, c. 562.</p>

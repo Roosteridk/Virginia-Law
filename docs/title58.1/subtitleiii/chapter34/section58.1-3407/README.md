@@ -1,0 +1,3 @@
+# § 58.1-3407 Erroneous assessments; appeal.
+
+<p>Any person aggrieved by the assessment or the valuation of real estate for purposes of this chapter may apply to the commissioner of the revenue or other assessing officer for correction thereof pursuant to § <a href='http://law.lis.virginia.gov/vacode/58.1-3981/'>58.1-3981</a>. Any person aggrieved by the decision of such officer may appeal to the appropriate circuit court of the county or city, as provided in § <a href='http://law.lis.virginia.gov/vacode/58.1-3984/'>58.1-3984</a>.</p><p>Code 1950, § 58-16.2; 1971, Ex. Sess., c. 133; 1972, c. 770; 1973, c. 444; 1982, c. 641; 1984, c. 675.</p>

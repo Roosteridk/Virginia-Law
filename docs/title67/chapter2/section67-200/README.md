@@ -1,0 +1,3 @@
+# § 67-200 (Repealed effective October 1, 2021) Definitions.
+
+<p>As used in this title, unless the context requires a different meaning:</p><p>"Department" means the Department of Mines, Minerals and Energy.</p><p>"Division" means the Division of Energy of the Department of Mines, Minerals and Energy.</p><p>"Plan" means the Virginia Energy Plan prepared pursuant to this chapter, including any updates thereto.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0939'>939</a>; 2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0657'>657</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0658'>658</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0960'>960</a>.</p>

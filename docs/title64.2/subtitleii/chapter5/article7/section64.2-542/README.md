@@ -1,0 +1,3 @@
+# § 64.2-542 Transfers not required until tax ascertained or security given.
+
+<p>An executor, administrator, or other fiduciary is not required to transfer, pay over, or distribute any fund or property subject to an estate tax imposed by the Commonwealth, any other state, or the United States until the devisee, legatee, distributee, or other person to whom such property is transferred pays such fiduciary the amount of such tax due, or, if the apportionment of tax has not been determined, furnishes adequate security for such payment.</p><p>Code 1950, § 64-153; 1968, c. 656, § 64.1-163; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0917'>917</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,0 +1,3 @@
+# § 44-9 Commander in Chief to prescribe regulations.
+
+<p>The Commander in Chief shall have the power, and it shall be his duty, from time to time, to issue such orders and to prescribe such regulations relating to the organization of the armed forces of the Commonwealth as will cause the same at all times to conform to the federal requirements of the United States government relating thereto.</p><p>1930, p. 950; Michie Code 1942, § 2673(9); R. P. 1948, § 44-9; 1958, c. 393.</p>

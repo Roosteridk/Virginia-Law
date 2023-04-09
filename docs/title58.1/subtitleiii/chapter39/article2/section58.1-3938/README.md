@@ -1,0 +1,3 @@
+# § 58.1-3938 List of delinquent town real estate taxes filed with county treasurer in certain towns.
+
+<p>In any town where the treasurer or other collector of town taxes does not maintain an office open during normal office hours Monday through Friday, a list of delinquent town taxes upon real estate for the preceding tax year as of December 31 of such year shall be filed by the treasurer or other collector of town taxes in the office of the treasurer of the county wherein the town is located on or before January 31 of each year.</p><p>Code 1950, § 58-1000.2; 1975, c. 259; 1984, c. 675; 1985, c. 131; 2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0851'>851</a>.</p>

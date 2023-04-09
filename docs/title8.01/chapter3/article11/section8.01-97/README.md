@@ -1,0 +1,3 @@
+# § 8.01-97 Delinquent taxes to be ascertained.
+
+<p>In every suit brought in this Commonwealth for the sale of lands for the payment of debts or to subject lands to the payment of liens binding thereon, it shall be the duty of the court, or any commissioner to whom the cause is referred, to ascertain all delinquent taxes on such land together with interest and penalties if any.</p><p>Code 1950, § 8-656; 1977, c. 617.</p>

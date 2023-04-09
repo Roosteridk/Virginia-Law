@@ -1,0 +1,3 @@
+# § 51.1-1210 Administrative fee for rejoining the Fund.
+
+<p>Any individual who had been a member of the Fund and who applies to rejoin the Fund shall not be entitled to membership until he has paid an administrative fee of twenty-five dollars. The Board shall elect to waive the twenty-five dollar fee for members reinstated pursuant to subsection B in § <a href='http://law.lis.virginia.gov/vacode/51.1-1209/'>51.1-1209</a>.</p><p>1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0664'>664</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0860'>860</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0349'>349</a>.</p>

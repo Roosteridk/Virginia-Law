@@ -1,0 +1,3 @@
+# § 23.1-1501 Membership.
+
+<p>A. The board shall consist of 16 members appointed by the Governor. At least one member appointed each year shall be an alumnus of the University.</p><p>B. The alumni association of the University and the board may submit to the Governor a list of at least three nominees for each vacancy on the board, whether the vacancy occurs by expiration of a term or otherwise. The Governor may appoint a member from the list of nominees.</p><p>1972, c. 550, §§ 23-91.26, 3-91.27; 1977, c. 670; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

@@ -1,0 +1,3 @@
+# § 59.1-119.1 Dealer required to show permit and identification.
+
+<p>Every dealer making a sale or purchase of a secondhand fixture pursuant to the provisions of this article shall first display the permit required by § <a href='http://law.lis.virginia.gov/vacode/59.1-117/'>59.1-117</a> and also display positive photo identification to the purchaser or seller of such fixture.</p><p>1992, c. 25.</p>

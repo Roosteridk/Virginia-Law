@@ -1,0 +1,3 @@
+# § 8.01-64 Liability for negligence of minor.
+
+<p>Every owner of a motor vehicle causing or knowingly permitting a minor under the age of sixteen years who is not permitted under the provisions of § <a href='http://law.lis.virginia.gov/vacode/46.2-335/'>46.2-335</a> to drive such a vehicle upon a highway, and any person who gives or furnishes a motor vehicle to such minor, shall be jointly or severally liable with such minor for any damages caused by the negligence of such minor in driving such vehicle.</p><p>Code 1950, § 8-646.2; 1977, c. 617.</p>

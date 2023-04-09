@@ -1,0 +1,3 @@
+# § 3.2-4408 Rearing package bees and queens for sale.
+
+<p>A. No person shall rear package bees or queens for sale without first applying to the State Apiarist for inspection at least once during each summer season.</p><p>B. Upon the discovery of any bee diseases, the rearer or seller shall at once cease to ship bees from affected apiaries until the State Apiarist issues a certificate of health for such apiaries.</p><p>C. No person engaged in rearing queen bees for sale shall use honey in the making of bee food for use in mailing cages.</p><p>Code 1950, § 3-496; 1966, c. 702, § 3.1-601; 1972, c. 499, §§ 3.1-610.12, 3.1-610.13; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

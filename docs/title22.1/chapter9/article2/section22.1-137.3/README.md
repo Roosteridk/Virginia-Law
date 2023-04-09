@@ -1,0 +1,3 @@
+# § 22.1-137.3 School safety procedures; emergency situations; annual training.
+
+<p>In addition to complying with the requirements for drills set forth in §§ <a href='/vacode/22.1-137/'>22.1-137</a>, <a href='/vacode/22.1-137.1/'>22.1-137.1</a>, and <a href='/vacode/22.1-137.2/'>22.1-137.2</a>, each school board shall develop training on safety procedures in the event of an emergency situation on school property. Such training shall be delivered to each student and employee in each school at least once each school year.</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0061'>61</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0140'>140</a>.</p>

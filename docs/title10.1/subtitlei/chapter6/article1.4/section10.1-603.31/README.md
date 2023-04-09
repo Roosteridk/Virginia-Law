@@ -1,0 +1,3 @@
+# § 10.1-603.31 Annual audit.
+
+<p>The Auditor of Public Accounts, or his legally authorized representatives, shall annually audit the accounts of the Authority, and the cost of such audit services as shall be required shall be borne by the Authority. The audit shall be performed at least each fiscal year, in accordance with generally accepted auditing standards and, accordingly, include such tests of the accounting records and such auditing procedures as considered necessary under the circumstances. The Authority shall furnish copies of such audit to the Governor and to the Department.</p><p>2022, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0739'>739</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0782'>782</a>.</p>

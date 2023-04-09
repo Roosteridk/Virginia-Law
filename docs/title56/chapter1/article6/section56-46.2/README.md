@@ -1,0 +1,3 @@
+# § 56-46.2 Construction of electrical transmission lines.
+
+<p>The construction of all overhead electrical transmission lines shall adhere to the standards set forth in the National Electrical Safety Code. The Commission shall, upon receipt of a written complaint concerning the lack of compliance with these standards in the construction of a particular transmission line, investigate the situation and, if appropriate, exercise its powers granted under § <a href='http://law.lis.virginia.gov/vacode/12.1-12/'>12.1-12</a> to enforce adherence to the standards.</p><p>1985, c. 187.</p>

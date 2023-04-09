@@ -1,0 +1,3 @@
+# § 15.2-1125 Licenses and permits; fees; bonds or insurance.
+
+<p>Whenever in the judgment of the municipal corporation it is advisable in the exercise of any of its powers or in the enforcement of any ordinance or regulation, it may provide for the issuance of licenses or permits in connection therewith; fix a fee to be charged the licensee or permittee and require from the licensee or permittee a bond or insurance contract of such character and in such amount and upon such terms and conditions as the municipal corporation may determine.</p><p>Code 1950, § 15-77.69; 1958, c. 328; 1962, c. 623, § 15.1-906; 1997, c. 587.</p>

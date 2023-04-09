@@ -1,0 +1,3 @@
+# § 2.2-4348 Exemptions.
+
+<p>The provisions of this article shall not apply to (i) the late payment provisions contained in any public utility tariffs prescribed by the State Corporation Commission or (ii) payments for services provided under the state plan for medical assistance identified as potentially fraudulent, abusive, or erroneous in accordance with the program established pursuant to § <a href='http://law.lis.virginia.gov/vacode/32.1-319.1/'>32.1-319.1</a> and delayed until such time as the claim can be validated.</p><p>1984, c. 736, § 11-62.9; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0750'>750</a>.</p>

@@ -1,0 +1,3 @@
+# § 64.2-1621 Remedies under other law.
+
+<p>The remedies under this chapter are not exclusive and do not abrogate any right, remedy, or penalty, including a court-supervised accounting or criminal prosecution, under the laws of the Commonwealth other than this chapter.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0455'>455</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0632'>632</a>, § 26-94; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>; 2022, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0397'>397</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0654'>654</a>.</p>

@@ -1,0 +1,3 @@
+# § 54.1-2968 Information about certain handicapped persons.
+
+<p>This chapter shall not be construed to prohibit any duly licensed physician from communicating the identity of any person under age twenty-two who has a physical or mental handicapping condition to appropriate agencies of the Commonwealth or any of its political subdivisions and other information regarding such person or condition which may be helpful to the agency in the planning or conduct of services for handicapped persons.</p><p>1972, c. 431, § 54-276.11; 1988, c. 765.</p>

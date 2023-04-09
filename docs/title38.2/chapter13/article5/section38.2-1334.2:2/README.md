@@ -1,0 +1,3 @@
+# § 38.2-1334.2:2 Sanctions.
+
+<p>Whenever it appears to the Commission that any person has committed a violation of §§ <a href='http://law.lis.virginia.gov/vacode/38.2-1323/'>38.2-1323</a> through <a href='http://law.lis.virginia.gov/vacode/38.2-1328/'>38.2-1328</a> and the violation prevents the full understanding of the enterprise risk to the insurer by affiliates or by the insurance holding company system, the violation may serve as an independent basis for disapproving dividends or distributions and for instituting delinquency proceedings pursuant to § <a href='http://law.lis.virginia.gov/vacode/38.2-1503/'>38.2-1503</a>.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0309'>309</a>.</p>

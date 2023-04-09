@@ -1,0 +1,3 @@
+# § 3.2-4506 Penalty for violation.
+
+<p>A. Any person, except a contract or common carrier, who moves or causes to be moved any apples, the movement of which has been prohibited in writing as provided in § <a href='http://law.lis.virginia.gov/vacode/3.2-4505/'>3.2-4505</a>, is guilty of a Class 1 misdemeanor.</p><p>B. Any person who violates any provision of this chapter is guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 3-512.7; 1954, c. 697; 1966, c. 702, § 3.1-617; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0793'>793</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

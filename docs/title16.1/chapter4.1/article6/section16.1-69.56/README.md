@@ -1,0 +1,3 @@
+# § 16.1-69.56 Retention of financial and administrative records.
+
+<p>Appropriate retention periods for the financial and administrative records of the district courts and magistrates shall be prescribed by the Supreme Court of Virginia. In the case of financial records only, the retention period prescribed by the court shall be subject to approval by the Auditor of Public Accounts.</p><p>1983, c. 499; 1987, c. 160.</p>

@@ -1,0 +1,3 @@
+# § 16.1-288 Protection of religious affiliations.
+
+<p>In placing a child under the guardianship or custody of an individual or of a private agency or institution, the court shall whenever practicable select a person, or an agency or institution governed by persons, of the same religious faith as that of the parents of the child, or in case of a difference in the religious faith of the parents and religious faith of the child, or, if the religious faith of the child is not ascertainable, then of the faith of either of the parents or of the child, unless the parent or parents of the child waive such selection.</p><p>Code 1950, § 16.1-182; 1956, c. 555; 1977, c. 559.</p>

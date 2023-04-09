@@ -1,0 +1,3 @@
+# § 23.1-1121 Certificates of indebtedness.
+
+<p>Chapter 489 of the Acts of Assembly of 1926, approved March 25, 1926, and codified as §§ 992(1)-992(13) of Michie Code 1942, authorizing the governing boards of certain public institutions of higher education to issue certificates of indebtedness to raise funds for dormitory construction purposes, and Chapter 61 of the Acts of Assembly of 1928, approved February 28, 1928, relating to similar certificates, are continued in effect.</p><p>§ 23-30; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

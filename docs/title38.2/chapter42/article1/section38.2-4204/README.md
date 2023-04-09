@@ -1,0 +1,3 @@
+# § 38.2-4204 Merger of nonstock corporations.
+
+<p>A nonstock corporation operating a hospital services plan pursuant to § <a href='http://law.lis.virginia.gov/vacode/38.2-4202/'>38.2-4202</a> may be combined with a nonstock corporation operating a medical or surgical services plan pursuant to § <a href='http://law.lis.virginia.gov/vacode/38.2-4203/'>38.2-4203</a>. The nonstock corporation created by such combination may be licensed to conduct a combination plan furnishing both hospital services and similar or related services and medical or surgical services, or both, and similar or related services.</p><p>1979, c. 721, § 38.1-812; 1980, c. 682; 1986, c. 562.</p>

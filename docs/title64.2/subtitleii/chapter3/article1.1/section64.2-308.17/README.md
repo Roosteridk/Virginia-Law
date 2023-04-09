@@ -1,0 +1,3 @@
+# § 64.2-308.17 Statutory rights barred by desertion or abandonment.
+
+<p>If a parent willfully deserts or abandons his minor or incapacitated child and such desertion or abandonment continues until the death of the child, the parent shall be barred of all interest in the child's estate by intestate succession.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0187'>187</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0269'>269</a>.</p>

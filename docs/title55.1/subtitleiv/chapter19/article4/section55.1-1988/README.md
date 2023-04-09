@@ -1,0 +1,3 @@
+# § 55.1-1988 Judicial review.
+
+<p>Proceedings for judicial review shall be in accordance with the provisions of the Administrative Process Act (§ <a href='/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>1974, c. 416, § 55-79.102; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0573'>573</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

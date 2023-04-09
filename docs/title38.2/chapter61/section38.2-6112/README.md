@@ -1,0 +1,3 @@
+# § 38.2-6112 Licensing of agents.
+
+<p>Dental benefit contracts may be solicited only through health insurance agents and limited lines life and health agents licensed in accordance with Chapter 18 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-1800/'>38.2-1800</a> et seq.) of this title. Home office salaried officers whose principal duties and responsibilities do not include the negotiation or solicitation of dental benefit contracts shall not be required to be licensed.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0668'>668</a>.</p>

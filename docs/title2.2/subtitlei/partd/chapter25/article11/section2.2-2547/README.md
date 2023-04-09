@@ -1,0 +1,3 @@
+# § 2.2-2547 (Expires July 1, 2027) Compensation; expenses.
+
+<p>Legislative members of the Commission shall receive such compensation as provided in § <a href='/vacode/30-19.12/'>30-19.12</a>. Nonlegislative citizen members of the Commission shall not receive compensation or reimbursement for travel and other expenses incurred in the performance of their duties.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0914'>914</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0915'>915</a>; 2022, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0685'>685</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0687'>687</a>.</p>

@@ -1,0 +1,3 @@
+# § 58.1-3517 Department of Taxation to prescribe and furnish forms of returns; use of local forms.
+
+<p>Blank forms of returns for reporting the classes of property mentioned in this chapter shall be prescribed by the Department of Taxation and furnished to the commissioners of the revenue in ample time for their use. The commissioner of the revenue of any county or city may use a local form in lieu of that prescribed by the Department.</p><p>Code 1950, § 58-836; 1979, c. 576; 1984, c. 675.</p>

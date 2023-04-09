@@ -1,0 +1,3 @@
+# § 21-124 Conduct of election; canvass of returns, etc.
+
+<p>The election shall be conducted in the manner prescribed by law for the conduct of regular elections, and the ballots shall be printed and voted, and the returns made and canvassed and the results certified, in accordance with the provisions of § <a href='http://law.lis.virginia.gov/vacode/24.2-684/'>24.2-684</a>.</p><p>1946, p. 181; Michie Suppl. 1946, § 1560z3.</p>

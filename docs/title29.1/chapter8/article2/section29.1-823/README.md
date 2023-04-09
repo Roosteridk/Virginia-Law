@@ -1,0 +1,3 @@
+# § 29.1-823 Appeals from actions of the Director; generally.
+
+<p>Any person aggrieved by the action of the Director in refusing to grant or renew a license or in suspending or revoking a license, or by any other action of the Director which is alleged to be improper, unreasonable or unlawful under the provisions of this chapter is entitled to judicial review in accordance with the provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>1988, c. 592.</p>

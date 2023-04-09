@@ -1,0 +1,3 @@
+# § 4.1-602 Virginia Cannabis Control Authority; composition.
+
+<p>A. The Virginia Cannabis Control Authority shall consist of the Board of Directors, the Cannabis Public Health Advisory Council, the Chief Executive Officer, and the agents and employees of the Authority.</p><p>B. Nothing contained in this subtitle shall be construed as a restriction or limitation upon any powers that the Board might otherwise have under any other law of the Commonwealth.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0550'>550</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0551'>551</a>.</p>

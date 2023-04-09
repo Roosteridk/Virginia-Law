@@ -1,0 +1,3 @@
+# § 2.2-802 General accounting and clearance through Comptroller.
+
+<p>In the Department the Comptroller shall maintain a complete system of general accounting to comprehend the financial transactions of every state department, division, officer, board, commission, institution or other agency owned or controlled by the Commonwealth, whether at the seat of government or not. All transactions in public funds shall clear through the Comptroller's office.</p><p>Code 1950, § 2-162; 1958, c. 124; 1966, c. 677, § 2.1-195; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

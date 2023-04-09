@@ -1,0 +1,3 @@
+# § 10.1-1150.3 Voluntary certification.
+
+<p>To be certified as a prescribed burn manager, a person shall:</p><p>1. Successfully complete all components of the prescribed burn course developed by the State Forester and pass the examination developed for the course;</p><p>2. Successfully complete a training course comparable to that developed by the State Forester and pass the examination developed for Virginia's course; or</p><p>3. Demonstrate relevant past experience, complete a review course and pass the examination developed for Virginia's course.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0156'>156</a>.</p>

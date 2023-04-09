@@ -1,0 +1,3 @@
+# § 30-7 Members, clerks, assistants, etc., subject to arrest for criminal offenses.
+
+<p>Any member of the General Assembly, any clerk thereof or his assistants, the Lieutenant Governor or the sergeant-at-arms of the Senate or the House who is alleged to have committed a criminal offense as defined in § <a href='http://law.lis.virginia.gov/vacode/18.2-8/'>18.2-8</a>, shall be subject at any time to be charged, arrested, prosecuted and imprisoned for such offense.</p><p>Code 1919, § 300; 1975, c. 427; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0471'>471</a>.</p>

@@ -1,0 +1,3 @@
+# § 28.2-1316 Investigations and prosecutions.
+
+<p>The Commission may investigate all projects, whether proposed or ongoing, which alter wetlands. The Commission may prosecute all violations of any order, rule, or regulation of the Commission or of a wetlands board, or violation of any provision of this chapter. Wetlands boards may investigate all projects, whether proposed or ongoing, which alter wetlands located within their jurisdiction. Wetlands boards may prosecute all violations of their orders and any violation of the wetlands zoning ordinance under which they were established.</p><p>1972, c. 711, § 62.1-13.16; 1975, c. 467; 1992, c. 836.</p>

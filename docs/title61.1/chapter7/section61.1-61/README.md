@@ -1,0 +1,3 @@
+# § 61.1-61 Penalty for violation.
+
+<p>The violation of any provision of this law or valid rules and regulations promulgated hereunder shall constitute a misdemeanor and shall be punishable by fine of not less than $50 for the first offense and for each subsequent offense shall be punished by a fine of not less than $500 or imprisonment in jail not less than thirty days, or both such fine and imprisonment in the discretion of the court or jury.</p><p>Code 1950, § 61-160; 1950, p. 67; 1968, c. 69.</p>

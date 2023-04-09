@@ -1,0 +1,3 @@
+# § 43-36 Appeals, how taken and tried.
+
+<p>Any party may appeal from the judgment of the general district court, as in case of warrants for small claims under Chapter 6 (§ <a href='http://law.lis.virginia.gov/vacode/16.1-76/'>16.1-76</a> et seq.) of Title 16.1, and such appeal shall be heard and determined in like manner, as appeals under such chapter.</p><p>Code 1919, § 6451; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

@@ -1,0 +1,3 @@
+# § 46.2-2120 Filing and application fees.
+
+<p>Every applicant for an original certificate of fitness issued under this chapter shall, upon the filing of an application, deposit with the Department, as a filing fee, a sum in the amount of $50. The Department shall collect a fee of $3 for the issuance of a duplicate certificate of fitness.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0881'>881</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0889'>889</a>; 2017, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0790'>790</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0815'>815</a>.</p>

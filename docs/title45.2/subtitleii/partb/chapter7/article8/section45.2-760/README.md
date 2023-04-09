@@ -1,0 +1,3 @@
+# § 45.2-760  Availability of mantrips.
+
+<p>The operator or his agent shall maintain a mantrip or other equipment suitable for providing reasonable access within a reasonable time to any area of the mine where miners are working and where transportation is ordinarily provided. The suitability of the equipment and the reasonableness of the time required to reach such an area of the mine shall be determined by the Chief.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.149; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

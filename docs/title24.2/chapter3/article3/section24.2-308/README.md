@@ -1,0 +1,3 @@
+# § 24.2-308 Requirements for town precincts.
+
+<p>There shall be one precinct for each town unless the council by ordinance establishes more than one precinct.</p><p>Each town precinct shall be wholly contained within any election district used for the election of one or more council or school board members.</p><p>The council shall establish by ordinance one polling place for each precinct.</p><p>Code 1950, § 24-171; 1970, c. 462, § 24.1-92; 1978, c. 778; 1980, c. 639; 1981, c. 425; 1992, c. 445; 1993, c. 641.</p>

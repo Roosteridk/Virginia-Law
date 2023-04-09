@@ -1,0 +1,3 @@
+# § 8.01-75 Who not to be purchaser.
+
+<p>At any sale under this article neither a fiduciary for a person under a disability, as defined under this article, nor the guardian ad litem shall be a purchaser directly or indirectly; provided, however, such fiduciary may be a purchaser if the court finds that such a purchase by the fiduciary is in the best interests of the person under a disability.</p><p>Code 1950, § 8-684; 1977, c. 617; 1980, c. 346.</p>

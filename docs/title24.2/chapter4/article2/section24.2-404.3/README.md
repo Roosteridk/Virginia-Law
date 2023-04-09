@@ -1,0 +1,3 @@
+# § 24.2-404.3 Duty of Department of Elections; verification of registered voter lists.
+
+<p>On or before October 1 of each year, the Department shall conduct a match of the Virginia registered voter lists with the list of deceased persons maintained by the Social Security Administration.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0492'>492</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0740'>740</a>.</p>

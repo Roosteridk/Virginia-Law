@@ -1,0 +1,3 @@
+# § 29.1-575 Permits.
+
+<p>The Director shall permit the importation, possession, purchase, receipt, or transportation of a nonindigenous aquatic nuisance species for purposes of research by recognized academic institutions or government agencies upon receiving satisfactory assurance that adequate safeguards will be maintained to prevent the escape or introduction of any such species into the Commonwealth.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0446'>446</a>.</p>

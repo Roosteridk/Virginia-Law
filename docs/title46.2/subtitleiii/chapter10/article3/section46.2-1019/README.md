@@ -1,0 +1,3 @@
+# § 46.2-1019 Spotlights.
+
+<p>Any motor vehicle or motorcycle may be equipped with one or two spotlights which, when lighted, shall be aimed and used so that no portion of the beam will be directed to the left of the center of the highway at any time or more than 100 feet ahead of the vehicle. Any such lights shall be of a type approved by the Superintendent. No such spotlights shall be used in conjunction with or as a substitute for required head lights, except in case of emergency.</p><p>Code 1950, § 46-272; 1954, c. 58; 1958, c. 541, § 46.1-266; 1989, c. 727.</p>

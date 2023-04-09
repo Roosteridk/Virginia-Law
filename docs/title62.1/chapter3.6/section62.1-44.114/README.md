@@ -1,0 +1,3 @@
+# § 62.1-44.114 Use of Potomac River; riparian rights.
+
+<p>The Commonwealth and its citizens shall have the right to such use of the Potomac River as may be necessary to the full enjoyment of their riparian ownership as provided at common law and in the Compact of 1785 with Maryland, and confirmed by the Black-Jenkins Determination of 1877 and Article VII, § 1 of § <a href='http://law.lis.virginia.gov/vacode/title62.1/chapter3.6/section62.1-44.114/'>28.2-1001</a>, cited as the Potomac River Compact of 1958.</p><p>1979, c. 307; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

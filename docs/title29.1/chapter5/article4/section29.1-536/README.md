@@ -1,0 +1,3 @@
+# § 29.1-536 Sale.
+
+<p>When taken in accordance with the provisions of law or regulation, muskrat, opossum, rabbits, raccoon and squirrels may be bought and sold during the open hunting season only, but the hides, furs or pelts of fur-bearing animals legally taken and possessed, and the carcass of any fur-bearing animal may be sold at any time in accordance with §§ <a href='http://law.lis.virginia.gov/vacode/29.1-400/'>29.1-400</a> through <a href='http://law.lis.virginia.gov/vacode/29.1-407/'>29.1-407</a>.</p><p>Code 1950, § 29-154; 1977, c. 377; 1980, c. 494; 1987, c. 488; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0436'>436</a>; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0204'>204</a>.</p>

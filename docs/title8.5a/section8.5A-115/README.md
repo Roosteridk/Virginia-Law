@@ -1,0 +1,3 @@
+# § 8.5A-115 Statute of limitations.
+
+<p>An action to enforce a right or obligation arising under this title must be commenced within one year after the expiration date of the relevant letter of credit or one year after the cause of action accrues, whichever occurs later. A cause of action accrues when the breach occurs, regardless of the aggrieved party's lack of knowledge of the breach.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0343'>343</a>.</p>

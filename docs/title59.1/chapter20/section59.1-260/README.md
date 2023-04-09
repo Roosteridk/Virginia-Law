@@ -1,0 +1,3 @@
+# § 59.1-260 Civil enforcement; injunction.
+
+<p>Any person who suffers loss or pecuniary damage resulting from a violation of the provisions of this chapter shall be entitled to bring an individual action to recover damages and reasonable attorney's fees. The provisions of this chapter may be enforced by injunction or any other available equitable or legal remedy.</p><p>1978, c. 764.</p>

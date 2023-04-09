@@ -1,0 +1,3 @@
+# § 55.1-2517 Intangible property held for owner by public agency.
+
+<p>All intangible property held for the owner by any government or governmental subdivision or agency, public corporation, or public authority that has remained unclaimed by the owner for more than one year after it became payable is presumed abandoned.</p><p>1960, c. 330, § 55-210.9; 1980, c. 293; 1982, c. 331; 1983, c. 190; 2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0733'>733</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0745'>745</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

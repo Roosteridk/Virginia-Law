@@ -1,0 +1,3 @@
+# § 3.2-4611 Evidence that fruits are offered or transported for sale.
+
+<p>When packages of fruits are placed in transit for sale or delivery or delivered for storage, such transit or delivery shall be prima facie evidence that the fruits are offered or transported for sale.</p><p>Code 1950, § 3-723; 1964, c. 214; 1966, c. 702, § 3.1-1004; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

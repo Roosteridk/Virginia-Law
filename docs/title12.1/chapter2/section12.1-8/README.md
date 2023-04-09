@@ -1,0 +1,3 @@
+# § 12.1-8 Quorum of members.
+
+<p>A majority of the commissioners shall constitute a quorum for the exercise of judicial, legislative, and discretionary functions of the Commission, whether there be a vacancy in the Commission or not, but a quorum shall not be necessary for the exercise of its administrative functions.</p><p>1971, Ex. Sess., c. 157.</p>

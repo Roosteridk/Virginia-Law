@@ -1,0 +1,3 @@
+# § 64.2-1214 Recordation of report.
+
+<p>The clerk shall record every report so confirmed, whether by order of the circuit court upon exceptions filed or by the lapse of the time without exceptions filed, and note at the foot of it the order of confirmation or the clerk's certificate that no exceptions were filed, as the case may be, in the will book or the book in which the fiduciary accounts in the clerk's office are recorded and index it according to the provisions of § <a href='http://law.lis.virginia.gov/vacode/17.1-249/'>17.1-249</a>.</p><p>Code 1919, § 5428; 1922, p. 873; 1928, p. 23; 1940, p. 614; 1944, p. 107; Code 1950, § 26-35; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

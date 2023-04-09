@@ -1,0 +1,3 @@
+# § 65.2-707 Interest on appealed award.
+
+<p>An award entered by the Commission shall take effect on the date of entry. To the extent that any payment due under an award is delayed beyond its due date by reason of an appeal to the full Commission or an appellate court, payments so delayed shall bear interest at the judgment rate as provided in § <a href='http://law.lis.virginia.gov/vacode/6.2-302/'>6.2-302</a>.</p><p>1982, c. 410, § 65.1-98.1; 1991, c. 355.</p>

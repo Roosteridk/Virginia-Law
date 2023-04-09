@@ -1,0 +1,3 @@
+# § 21-121.1 Further validation of proceedings.
+
+<p>All proceedings had in the creation of sanitary districts in the Commonwealth prior to June 30, 1954, whether under general law or by special act, are validated and confirmed, and all such districts so created or attempted to be created, under existing general law or by special act, are declared to be validly created and established, notwithstanding any defects or irregularities in the creation thereof, including any curable unconstitutionality of a procedural character, such as failure of the act to correspond with title and such constitutional questions.</p><p>1950, p. 4; 1954, c. 68.</p>

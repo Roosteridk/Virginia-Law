@@ -1,0 +1,3 @@
+# § 3.2-1814 Falsification of records; misdemeanor.
+
+<p>It is a Class 1 misdemeanor:</p><p>1. For any handler knowingly to report falsely to the Commissioner the quantity of potatoes processed or handled by him.</p><p>2. For any handler to fail to keep a complete record of the potatoes processed or handled by him.</p><p>3. For any handler to preserve the records for a period of time less than three years from the time such potatoes are processed or handled.</p><p>1982, c. 126, § 3.1-684.38; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

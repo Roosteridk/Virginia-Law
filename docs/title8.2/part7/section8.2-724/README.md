@@ -1,0 +1,3 @@
+# § 8.2-724 Admissibility of market quotations (subdivision (17) of Supreme Court Rule 2:803 derived from this section).
+
+<p>Whenever the prevailing price or value of any goods regularly bought and sold in any established commodity market is in issue, reports in official publications or trade journals or in newspapers or periodicals of general circulation published as the reports of such market shall be admissible in evidence. The circumstances of the preparation of such a report may be shown to affect its weight but not its admissibility.</p><p>1964, c. 219.</p>

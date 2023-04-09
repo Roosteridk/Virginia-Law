@@ -1,0 +1,3 @@
+# § 55.1-2512 Refunds held by business associations.
+
+<p>Except to the extent otherwise ordered by a court or administrative agency of competent jurisdiction, any sum that a business association has been ordered to refund by a court or administrative agency that has remained unclaimed by the owner for more than one year after it became payable in accordance with the final determination or order providing for the refund, regardless of whether the final determination or order requires any person entitled to a refund to make a claim for it, is presumed abandoned.</p><p>1984, c. 121, § 55-210.6:2; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

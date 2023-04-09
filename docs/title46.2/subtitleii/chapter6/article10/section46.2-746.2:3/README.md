@@ -1,0 +1,3 @@
+# § 46.2-746.2:3 Members and former members of the 3rd Infantry Regiment (Old Guard).
+
+<p>On receipt of an application therefor and presentation of written evidence that the applicant is a member or former member of the 3rd Infantry Regiment (Old Guard), the Commissioner shall issue special license plates to members and former members of the 3rd Infantry Regiment (Old Guard).</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0921'>921</a>.</p>

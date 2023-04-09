@@ -1,0 +1,3 @@
+# § 44-146.18:9 Nonstock corporation to assist in the development of GIS data.
+
+<p>The Department of Emergency Management is hereby authorized to establish a nonstock corporation under Chapter 10 (§ <a href='/vacode/13.1-801/'>13.1-801</a> et seq.) of Title 13.1 as an instrumentality to assist the Department of Emergency Management and the Division in the development and acquisition of geographic data and statewide base map data. On or before December 1 of each year, the Department of Emergency Management shall report on the activities of the nonstock corporation to the Governor and the General Assembly.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0423'>423</a>.</p>

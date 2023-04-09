@@ -1,0 +1,3 @@
+# § 22.1-161.1 Borrowing for capital projects for school purposes authorized.
+
+<p>In conformity with Article VII, Section 10 of the Constitution of Virginia, any school board is hereby authorized to contract to borrow money from the Virginia Retirement System for capital projects for school purposes, with the approval of the governing body of each county and city or part thereof constituting the school division, or of the town if the town constitutes the school division; and the Board of Trustees of the Virginia Retirement System is hereby authorized to lend the money if it is available for investment, subject to and in conformity with the provisions of this chapter.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0250'>250</a>.</p>

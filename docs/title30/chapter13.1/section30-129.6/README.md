@@ -1,0 +1,3 @@
+# § 30-129.6 Responsibility of agency heads for sexual harassment training.
+
+<p>The head of each agency in the legislative branch shall be responsible for ensuring that the agency's legislative branch employees comply with the training requirements established under this chapter.</p><p>2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0777'>777</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0781'>781</a>.</p>

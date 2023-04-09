@@ -1,0 +1,3 @@
+# § 55.1-2434 Escheators to defend on behalf of Commonwealth.
+
+<p>The escheator shall answer and defend on the part of the Commonwealth any action against him or any petition filed under § <a href='/vacode/55.1-2409/'>55.1-2409</a> and shall be allowed the costs incurred by him in such defense.</p><p>Code 1919, § 517; Code 1950, § 55-196; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

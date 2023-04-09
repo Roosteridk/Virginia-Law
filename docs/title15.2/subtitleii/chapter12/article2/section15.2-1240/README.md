@@ -1,0 +1,3 @@
+# § 15.2-1240 Violation of § 15.2-1238 or § 15.2-1239 a misdemeanor.
+
+<p>Any violation of § <a href='http://law.lis.virginia.gov/vacode/15.2-1238/'>15.2-1238</a> or § <a href='http://law.lis.virginia.gov/vacode/15.2-1239/'>15.2-1239</a> shall be a misdemeanor and shall be punishable as provided by § <a href='http://law.lis.virginia.gov/vacode/18.2-12/'>18.2-12</a>.</p><p>Code 1950, § 15-548; 1960, c. 360; 1962, c. 623, § 15.1-112; 1997, c. 587.</p>

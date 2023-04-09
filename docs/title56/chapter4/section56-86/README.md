@@ -1,0 +1,3 @@
+# § 56-86 Appeal from decisions of Commission under chapter.
+
+<p>Any public service company or affiliated interest or any other interested corporation, partnership, association or person, or the Commonwealth, deeming any decision or order of the Commission, rendered or entered under the provisions of this chapter, and being final in its general character with respect to any such company, interest, corporation, partnership, association, person, or the Commonwealth, to be in any respect or manner improper, unjust or unreasonable, may appeal the same to the Supreme Court in the same manner and by the same procedure as provided by law for review of any other decision or order of the Commission.</p><p>1934, p. 746; 1938, p. 23; Michie Code 1942, § 3774j.</p>

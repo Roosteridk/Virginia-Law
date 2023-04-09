@@ -1,0 +1,3 @@
+# § 15.2-5337 Purchase or lease of property; sale of property.
+
+<p>An authority shall have power to purchase, lease, obtain options upon, acquire by gift, grant, bequest, devise, or otherwise any property real or personal or any interest therein from any person, locality or government.</p><p>An authority shall have power to sell, exchange, transfer, or assign any of its property real or personal or any interest therein to any person, locality or government.</p><p>Code 1950, §§ 32-250, 32-251; 1979, c. 719, §§ 15.1-1571, 15.1-1572; 1997, c. 587.</p>

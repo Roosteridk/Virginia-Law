@@ -1,0 +1,3 @@
+# § 15.2-2648 Purchase in open market.
+
+<p>Provision may be made in the proceedings authorizing refunding bonds for the purchase of the refunded bonds in the open market or pursuant to tenders made from time to time when there is available in the escrow or sinking fund for the payment of the refunded bonds a surplus in an amount or amounts to be fixed in such proceedings.</p><p>Code 1950, § 15-666.38; 1958, c. 640; 1962, c. 623, § 15.1-197; 1991, c. 668, § 15.1-227.50; 1997, c. 587.</p>

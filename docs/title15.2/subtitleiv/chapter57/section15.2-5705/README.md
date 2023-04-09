@@ -1,0 +1,3 @@
+# § 15.2-5705 Violation of rules and regulations.
+
+<p>Any violation of any such rule and regulation adopted pursuant to subdivision 18 of § <a href='/vacode/15.2-5704/'>15.2-5704</a> shall constitute a Class 4 misdemeanor.</p><p>1977, c. 381, § 15.1-1232.1; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0587'>587</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0255'>255</a>.</p>

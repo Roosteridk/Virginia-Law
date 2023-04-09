@@ -1,0 +1,3 @@
+# § 60.2-624 Witness expenses.
+
+<p>Witnesses subpoenaed pursuant to this chapter shall be allowed expenses at a rate fixed by the Commission. Such expenses shall be deemed a part of the expense of administering this title.</p><p>Code 1950, § 60-54; 1968, c. 738, § 60.1-66; 1986, c. 480.</p>

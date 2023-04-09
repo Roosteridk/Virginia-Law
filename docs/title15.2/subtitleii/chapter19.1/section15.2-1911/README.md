@@ -1,0 +1,3 @@
+# § 15.2-1911 Statement by defendant precludes appeal.
+
+<p>If a statement, as provided for in § <a href='http://law.lis.virginia.gov/vacode/15.2-1910/'>15.2-1910</a>, is filed by each defendant, no appeal or writ of error shall thereafter be allowed such defendant.</p><p>1938, p. 49; Michie Code 1942, § 4387a; Code 1950, § 25-50; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

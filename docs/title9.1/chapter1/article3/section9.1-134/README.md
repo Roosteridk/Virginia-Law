@@ -1,0 +1,3 @@
+# § 9.1-134 (For contingent expiration see Acts 2021, Sp. Sess. I, cc. 524 and 542) Sealing of criminal history record information.
+
+<p>The Board shall adopt procedures reasonably designed to (i) ensure prompt sealing or purging of criminal history record information when required by state or federal law, regulation or court order, and (ii) permit opening of sealed information under conditions authorized by law.</p><p>1981, c. 632, § 9-190; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

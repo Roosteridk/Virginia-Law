@@ -1,0 +1,3 @@
+# § 3.2-807 Inspection of premises and conveyances.
+
+<p>To effectuate the purpose of this chapter, the Commissioner may make reasonable inspections of any premises in the Commonwealth and any property therein or thereon and may stop and inspect in a reasonable manner any means of conveyance moving within the Commonwealth when there is probable cause to believe it maintains or carries any noxious weed subject to the provisions of this chapter.</p><p>1970, c. 175, § 3.1-296.20; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

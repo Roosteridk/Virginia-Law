@@ -1,0 +1,3 @@
+# § 63.2-1512 Immunity of person making report, etc., from liability.
+
+<p>Any person making a report pursuant to § <a href='http://law.lis.virginia.gov/vacode/63.2-1509/'>63.2-1509</a>, a complaint pursuant to § <a href='http://law.lis.virginia.gov/vacode/63.2-1510/'>63.2-1510</a>, or who takes a child into custody pursuant to § <a href='http://law.lis.virginia.gov/vacode/63.2-1517/'>63.2-1517</a>, or who participates in a judicial proceeding resulting therefrom shall be immune from any civil or criminal liability in connection therewith, unless it is proven that such person acted in bad faith or with malicious intent.</p><p>1975, c. 341, § 63.1-248.5; 1988, c. 686; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

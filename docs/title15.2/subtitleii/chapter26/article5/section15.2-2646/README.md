@@ -1,0 +1,3 @@
+# § 15.2-2646 Participation in funds donated by the Commonwealth.
+
+<p>The issuance of refunding bonds for the retirement of bonds which are now or may hereafter be entitled to participate in funds donated by the Commonwealth, or funds receivable from any source other than local taxes levied for such purposes, shall not be construed to deprive the bonds of the right to continue to participate in the distribution of those funds, and the refunding bonds after their issuance shall enjoy all rights as would have been enjoyed by the bonds refunded.</p><p>Code 1950, § 15-666.36; 1958, c. 640; 1962, c. 623, § 15.1-195; 1991, c. 668, § 15.1-227.48; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 61.1-41 Monthly reports to Commissioner; results classified.
+
+<p>On or before the tenth day of each succeeding month the warehouse proprietors shall make a statement, under oath, of all the tobacco so sold upon the floor of his warehouse during the past month and shall transmit the statement, at once, to the Commissioner of Agriculture and Consumer Services. The reports so made shall be so arranged and classified as to show the number of pounds of tobacco sold for the producers of tobacco from first hand; the number of pounds sold for dealers and the number of pounds resold by the proprietor of the warehouse for his own account or for the account of some other warehouse.</p><p>Code 1950, § 61-110; 1968, c. 69.</p>

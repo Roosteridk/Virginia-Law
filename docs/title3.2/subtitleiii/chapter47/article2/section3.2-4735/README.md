@@ -1,0 +1,3 @@
+# § 3.2-4735 Venue.
+
+<p>Civil suits and criminal prosecutions arising by virtue of any provision of this article may be commenced and tried in: (i) the city or county where the products were received by the commission merchant; (ii) the city or county where the principal place of business of the commission merchant is located within the Commonwealth; or (iii) the city or county where the violation occurred.</p><p>Code 1950, § 3-562; 1966, c. 702, § 3.1-720; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,0 +1,3 @@
+# § 59.1-513.1 Abandoned telephone solicitation calls.
+
+<p>Whenever a live sales representative is not available to speak with the person answering a telephone solicitation call within two seconds of the person's completed greeting, the telephone solicitor shall play a prerecorded identification message that states the name and telephone number of the person on whose behalf the telephone solicitation call was being made. The number so provided shall permit, during regular business hours, any individual to make a request not to receive telephone solicitation calls.</p><p>2004, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0202'>202</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0224'>224</a>.</p>

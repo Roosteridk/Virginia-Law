@@ -1,0 +1,3 @@
+# § 2.2-429 Retention of records by a lobbyist or lobbyist's principal.
+
+<p>A lobbyist and a lobbyist's principal shall preserve for a period of two years all accounts, bills, books, papers, receipts, and other documents and records necessary to substantiate the expenditure reports submitted under this article.</p><p>1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0857'>857</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0937'>937</a>, § 2.1-788; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

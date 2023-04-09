@@ -1,0 +1,3 @@
+# § 59.1-394.4 Racing Commission powers preserved.
+
+<p>Nothing in this article shall be construed to diminish or limit the powers and responsibilities of the Racing Commission established by Article 1 of this chapter or to invalidate any action of the Racing Commission previously taken, including without limitation any regulation promulgated thereby.</p><p> 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0992'>992</a>.</p>

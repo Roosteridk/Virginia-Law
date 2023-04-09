@@ -1,0 +1,3 @@
+# § 15.2-5144 Investment in bonds.
+
+<p>Any bonds issued pursuant to this chapter are hereby made securities in which all public officers, bodies and political subdivisions of the Commonwealth; all insurance companies and associations; and all savings banks and savings institutions, including savings and loan associations, trust companies, beneficial and benevolent associations, administrators, guardians, executors, trustees and other fiduciaries in the Commonwealth, may properly and legally invest funds in their control.</p><p>Code 1950, § 15-764.29; 1950, p. 1329; 1962, c. 623, § 15.1-1267; 1997, c. 587.</p>

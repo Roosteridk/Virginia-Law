@@ -1,0 +1,3 @@
+# § 15.2-542 Employee benefits; residence in county.
+
+<p>Notwithstanding any other provision of law, the county board, in order to ensure its competitiveness as an employer, may by ordinance provide for the use of funds, other than state funds, to provide grants, loans, and other assistance for county and school board employees, as well as employees of local constitutional officers, to purchase or rent residences, for use as the employee's principal residence, within the county.</p><p>2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0288'>288</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0582'>582</a>.</p>

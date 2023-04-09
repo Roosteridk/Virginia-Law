@@ -1,0 +1,3 @@
+# § 8.3A-401 Signature.
+
+<p>(a) A person is not liable on an instrument unless (i) the person signed the instrument, or (ii) the person is represented by an agent or representative who signed the instrument and the signature is binding on the represented person under § <a href='http://law.lis.virginia.gov/vacode/8.3A-402/'>8.3A-402</a>.</p><p>(b) A signature may be made (i) manually or by means of a device or machine, and (ii) by the use of any name, including a trade or assumed name, or by a word, mark, or symbol executed or adopted by a person with present intention to authenticate a writing.</p><p>Code 1950, § 6-370; 1964, c. 219, § 8.3-401; 1992, c. 693.</p>

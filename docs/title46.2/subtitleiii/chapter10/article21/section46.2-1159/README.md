@@ -1,0 +1,3 @@
+# § 46.2-1159 Logtrailers defined; exempt from inspection under certain conditions.
+
+<p>For the purpose of this section, a "logtrailer" shall be any vehicle designed and used solely as an implement for hauling logs, lumber, or other forest products from the forest to the mill or loading platform. Log trailers shall be exempt from the requirements of § <a href='http://law.lis.virginia.gov/vacode/46.2-1157/'>46.2-1157</a> if operation on the highways in the Commonwealth does not exceed two miles and is made during daylight hours.</p><p>Code 1950, § 46-317.1; 1954, c. 436; 1958, c. 541, § 46.1-316; 1989, c. 727.</p>

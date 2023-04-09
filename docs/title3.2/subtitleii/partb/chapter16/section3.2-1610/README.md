@@ -1,0 +1,3 @@
+# § 3.2-1610 Falsification of records; misdemeanor.
+
+<p>It is a Class 1 misdemeanor:</p><p>1. For any handler knowingly to report falsely to the Tax Commissioner the quantity of shell or processed eggs handled by him during any period.</p><p>2. For any handler to falsify the records of the eggs processed, packed, or handled by him.</p><p>3. For any handler to fail to maintain a complete record of the eggs processed, packed, or handled by him for at least three years from the time such eggs are processed, packed, or handled.</p><p>1980, c. 316, § 3.1-796.11:10; 1993, c. 809; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

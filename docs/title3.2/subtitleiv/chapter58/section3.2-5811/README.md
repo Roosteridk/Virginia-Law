@@ -1,0 +1,3 @@
+# § 3.2-5811 Only suitable, tested and approved weighing devices to be used.
+
+<p>When making a weight determination as provided for by this chapter a licensed public weighmaster shall use a weighing device that is of a type suitable for the weighing of the amount and kind of material to be weighed, and that has been tested and approved for use by a weights and measures officer of the Commonwealth within a period of 12 months immediately preceding the date of the weighing.</p><p>Code 1950, § 3-709.12; 1962, c. 126; 1966, c. 702, § 3.1-981; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,0 +1,3 @@
+# § 8.10-104 Laws not repealed.
+
+<p>(1) The title on documents of title (Title 8.7) does not repeal or modify any laws prescribing the form or contents of documents of title or the services or facilities to be afforded by bailees, or otherwise regulating bailees' businesses in respects not specifically dealt with herein; but the fact that such laws are violated does not affect the status of a document of title which otherwise complies with the definition of a document of title (§ <a href='http://law.lis.virginia.gov/vacode/8.1A-201/'>8.1A-201</a>).</p><p>1964, c. 219; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0353'>353</a>.</p>

@@ -1,0 +1,3 @@
+# § 18.2-13 Same; by reference.
+
+<p>Where a statute in this Code prescribes punishment by stating that the offense is a misdemeanor, or that it is punishable as provided for in § <a href='http://law.lis.virginia.gov/vacode/18.2-12/'>18.2-12</a>, the offense shall be deemed to be a Class 1 misdemeanor.</p><p>1975, cc. 14, 15.</p>

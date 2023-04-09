@@ -1,0 +1,3 @@
+# § 20-183 Waiver and preclusion of privilege.
+
+<p>A. A privilege under § <a href='/vacode/20-182/'>20-182</a> may be waived in a record or orally during a proceeding if it is expressly waived by all parties and, in the case of the privilege of a nonparty participant, it is also expressly waived by such participant.</p><p>B. A person who makes a disclosure or representation about a collaborative law communication that prejudices another person in a proceeding shall not assert a privilege under § <a href='/vacode/20-182/'>20-182</a>; such preclusion applies only to the extent necessary for the person prejudiced to respond to the disclosure or representation.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0346'>346</a>.</p>

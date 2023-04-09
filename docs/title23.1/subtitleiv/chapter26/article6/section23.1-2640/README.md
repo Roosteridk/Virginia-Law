@@ -1,0 +1,3 @@
+# § 23.1-2640 Experimental farms.
+
+<p>A. A portion of the fund, not exceeding 10 percent of each sum assigned to Virginia State University and the University, may be expended, in the discretion of the board of visitors of each institution, in the purchase of lands for experimental farms.</p><p>B. The respective boards of visitors may use a portion of the accruing interest from such fund to purchase suitable and appropriate laboratories.</p><p>Code 1919, § 868, §§ 23-138, 23-139; 1979, c. 147; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

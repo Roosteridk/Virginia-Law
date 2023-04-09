@@ -1,0 +1,3 @@
+# § 8.01-581.21 Definitions.
+
+<p>As used in this chapter:</p><p>"Mediation" means a process in which a mediator facilitates communication between the parties and, without deciding the issues or imposing a solution on the parties, enables them to understand and to reach a mutually agreeable resolution to their dispute.</p><p>"Mediation program" means a program through which mediators or mediation is made available and includes the director, agents and employees of the program.</p><p>"Mediator" means an impartial third party selected by agreement of the parties to a controversy to assist them in mediation.</p><p>1988, cc. 623, 857; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0718'>718</a>.</p>

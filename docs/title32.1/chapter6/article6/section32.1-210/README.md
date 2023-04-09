@@ -1,0 +1,3 @@
+# § 32.1-210 Camp operator's responsibilities.
+
+<p>The camp operator shall be responsible for ensuring that the camp complies with the provisions of this article, any applicable regulations and all conditions stated in the permit issued for the camp.</p><p>Code 1950, § 32-416; 1962, c. 251; 1979, c. 711.</p>

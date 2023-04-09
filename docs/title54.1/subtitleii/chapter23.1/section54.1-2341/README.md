@@ -1,0 +1,3 @@
+# § 54.1-2341 Exemption from levy, garnishment and distress.
+
+<p>Any money, personal property or real property paid, delivered or conveyed subject to § <a href='http://law.lis.virginia.gov/vacode/54.1-2325/'>54.1-2325</a> shall be exempt from levy, garnishment or distress.</p><p>1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0708'>708</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0721'>721</a>.</p>

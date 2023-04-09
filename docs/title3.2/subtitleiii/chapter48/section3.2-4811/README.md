@@ -1,0 +1,3 @@
+# § 3.2-4811 Fee for late payment of assessments.
+
+<p>Any manufacturer or guarantor who does not pay an assessment for variance from label guarantee within 60 days shall pay to the Commissioner a late payment fee of 10 percent of the assessment or $50, whichever is greater, in addition to the assessment for variance from label guarantee.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0743'>743</a>, § 3.1-828.13; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

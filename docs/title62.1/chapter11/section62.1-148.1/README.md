@@ -1,0 +1,3 @@
+# § 62.1-148.1 Power of cities and towns to bind themselves to perform or execute assurances regarding construction of flood walls or other flood control measures.
+
+<p>The cities and towns authorized to adopt resolutions and ordinances pursuant to § <a href='http://law.lis.virginia.gov/vacode/62.1-148/'>62.1-148</a> shall have the power to irrevocably bind themselves to do any and all things necessary to perform or execute the assurances authorized to be given pursuant to § <a href='http://law.lis.virginia.gov/vacode/62.1-148/'>62.1-148</a> regarding construction of flood walls or other flood control measures, anything in the charters of such cities or towns to the contrary notwithstanding.</p><p>1980, c. 48.</p>

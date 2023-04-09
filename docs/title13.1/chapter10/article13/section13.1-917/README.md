@@ -1,0 +1,3 @@
+# § 13.1-917 Survival of remedy after termination of corporate existence.
+
+<p>The termination of corporate existence shall not take away or impair any remedy available to or against the corporation, its directors, officers or members, for any right or claim existing, or any liability incurred, prior to such termination. Any such action or proceeding by or against the corporation may be prosecuted or defended by the corporation in its corporate name. The members, directors and officers shall have power to take such corporate or other action as shall be appropriate to protect such remedy, right or claim.</p><p>Code 1950, § 13.1-264; 1956, c. 428; 1985, c. 522; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0925'>925</a>.</p>

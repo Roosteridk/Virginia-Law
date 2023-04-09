@@ -1,0 +1,3 @@
+# § 64.2-1920 Applicability.
+
+<p>This chapter applies to a transfer within the scope of § <a href='http://law.lis.virginia.gov/vacode/64.2-1901/'>64.2-1901</a> made after July 1, 1988, if:</p><p>1. The transfer purports to have been made under the provisions of the Virginia Uniform Gifts to Minors Act (former §§ 31-26 through 31-36); or</p><p>2. The instrument by which the transfer purports to have been made uses in substance the designation "as custodian under the Uniform Gifts to Minors Act" or "as custodian under the Uniform Transfers to Minors Act" of any other state, and the application of this chapter is necessary to validate the transfer.</p><p>1988, c. 516, § 31-57; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,0 +1,3 @@
+# § 51.5-87 Revocation of privilege to operate enterprise.
+
+<p>All such privileges to operate vending stands and other business enterprises shall be revocable by the Department in accordance with departmental regulations.</p><p>Code 1950, § 63-204.12; 1968, c. 578, § 63.1-153; 1992, c. 755; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

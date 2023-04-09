@@ -1,0 +1,3 @@
+# § 59.1-367 Legal representation.
+
+<p>The Commission shall be represented in all legal matters by general counsel hired by the Commission; however, the employment of such counsel shall be subject to the approval of the Attorney General. The compensation for such general counsel shall be paid out of the funds appropriated for the administration of the Commission. No member of the General Assembly while serving as a member nor any person associated with such member's law practice shall be employed as general counsel.</p><p>1988, c. 855.</p>

@@ -1,0 +1,3 @@
+# § 18.2-317 Covers to be kept on certain wells.
+
+<p>Every person owning or occupying any land on which there is a well having a diameter greater than six inches and which is more than ten feet deep shall at all times keep the same covered in such a manner as not to be dangerous to human beings, animals or fowls.</p><p>Any person violating the provisions of this section shall be guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 18.1-74; 1960, c. 358; 1975, cc. 14, 15.</p>

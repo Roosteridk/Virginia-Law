@@ -1,0 +1,3 @@
+# § 33.2-1504 Grants from the Commonwealth Transportation Board.
+
+<p>The Board may make grants of money or property to the Bank for the purpose of enabling it to carry out its corporate purposes and for the exercise of its powers. This section shall not be construed to limit any other power the Board may have to make grants to the Bank.</p><p>2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0830'>830</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0868'>868</a>, § 33.1-23.10; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

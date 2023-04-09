@@ -1,0 +1,3 @@
+# § 15.2-1636.3 Real estate transfer and license fees in counties.
+
+<p>The treasurers of the several counties shall hereafter collect the license fees and any other fees of the county commissioners of the revenue and shall pay the county fees into the county treasury and the state fees into the state treasury.</p><p>Code 1950, § 14-72; 1964, c. 386, § 14.1-59; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

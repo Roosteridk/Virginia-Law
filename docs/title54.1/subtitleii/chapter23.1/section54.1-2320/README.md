@@ -1,0 +1,3 @@
+# § 54.1-2320 Additional deposit not required upon subsequent sale of same grave, crypt or niche.
+
+<p>If ten percent of the sales price of a grave or above-ground crypt or niche has been deposited in a perpetual care trust fund, no deposit shall be required on subsequent sales of the same grave, crypt or niche.</p><p>1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0708'>708</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0721'>721</a>.</p>

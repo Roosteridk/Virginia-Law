@@ -1,0 +1,3 @@
+# § 17.1-600 Laws of costs not penal; discretion of courts of equity.
+
+<p>The laws of costs shall not be interpreted as penal laws; nor shall anything in this chapter take away or abridge the discretion of a court of equity over the subject of costs, except as provided in § <a href='http://law.lis.virginia.gov/vacode/17.1-604/'>17.1-604</a>.</p><p>Code 1950, § 14-174; 1964, c. 386, § 14.1-177; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

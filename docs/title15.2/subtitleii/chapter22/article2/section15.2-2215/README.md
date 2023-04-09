@@ -1,0 +1,3 @@
+# § 15.2-2215 Quorum majority vote.
+
+<p>A majority of the members shall constitute a quorum and no action of the local planning commission shall be valid unless authorized by a majority vote of those present and voting.</p><p>Code 1950, § 15-963.3; 1962, c. 407, § 15.1-440; 1974, c. 99; 1975, c. 641; 1997, c. 587.</p>

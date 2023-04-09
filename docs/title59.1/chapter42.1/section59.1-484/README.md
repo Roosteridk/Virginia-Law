@@ -1,0 +1,3 @@
+# § 59.1-484 Construction and application.
+
+<p>This chapter shall be construed and applied to:</p><p>(1) Facilitate electronic transactions consistent with other applicable law;</p><p>(2) Be consistent with reasonable practices concerning electronic transactions and with the continued expansion of those practices; and</p><p>(3) Effectuate its general purpose to make uniform the law with respect to the subject of this chapter among states enacting it.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0995'>995</a>.</p>

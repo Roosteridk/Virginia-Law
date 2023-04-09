@@ -1,0 +1,3 @@
+# § 8.01-559 Return by officer.
+
+<p>The officer levying the attachment shall show in his return the time, date and manner of the service, or execution thereof, on each person and parcel of property, and also give a list and description of the property, if any, levied on under the attachment.</p><p>Code 1950, § 8-547; 1954, c. 333; 1977, c. 617.</p>

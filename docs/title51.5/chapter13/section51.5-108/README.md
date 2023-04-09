@@ -1,0 +1,3 @@
+# § 51.5-108 Department for the Deaf and Hard-of-Hearing continued.
+
+<p>The Department for the Deaf and Hard-of-Hearing is continued. The Department shall be in the executive branch of the state government and shall be assigned to the Secretary of Health and Human Resources.</p><p>1984, c. 670, § 63.1-85.1:2; 1985, c. 447; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

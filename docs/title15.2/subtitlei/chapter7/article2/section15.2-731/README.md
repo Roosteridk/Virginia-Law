@@ -1,0 +1,3 @@
+# § 15.2-731 Retirement benefits for part-time employees.
+
+<p>The board may by resolution elect to have those of its officers and employees who are regularly employed part-time on a salary basis, whose tenure is not restricted as to temporary or provisional appointment, become eligible to participate in the county retirement systems as provided by local ordinance.</p><p>1985, c. 415, § 15.1-687.9; 1997, c. 587.</p>

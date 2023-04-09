@@ -1,0 +1,3 @@
+# § 62.1-44.115 Review of uses by Water Control Board; report.
+
+<p>The State Water Control Board shall annually review the uses and development of the waters of the Potomac River, and make such report thereon as it deems advisable to the Governor and to the General Assembly, together with such recommendations as the Board feels are necessary for the protection and full enjoyment of Virginia's riparian rights in such river.</p><p>1979, c. 307.</p>

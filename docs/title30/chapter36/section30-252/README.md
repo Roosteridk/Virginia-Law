@@ -1,0 +1,3 @@
+# § 30-252 Modification.
+
+<p>This Agreement shall not be amended or modified except with the concurrence of the legislatures of the Commonwealth of Virginia, the state of Maryland, and the Commonwealth of Pennsylvania. Amendments shall not become effective until adopted in the same manner as the original Agreement.</p><p>1980, c. 662, § 62.1-69.17; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1000'>1000</a>.</p>

@@ -1,0 +1,3 @@
+# § 20-88.43 Credit for payments.
+
+<p>A tribunal of the Commonwealth shall credit amounts collected for a particular period pursuant to any child support order against the amounts owed for the same period under any other child support order for support of the same child issued by a tribunal of this or another state or a foreign country.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0673'>673</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0754'>754</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0727'>727</a>.</p>

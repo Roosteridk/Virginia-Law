@@ -1,0 +1,3 @@
+# § 53.1-12 Divisions of Department; division heads.
+
+<p>The Director shall establish in the Department such divisions and regional offices as may be necessary and shall appoint heads of these divisions and offices in accordance with the provisions of Chapter 29 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-2900/'>2.2-2900</a> et seq.) of Title 2.2.</p><p>Code 1950, §§ 53-19.11, 53-19.12; 1974, cc. 44, 45; 1978, c. 555; 1982, c. 636.</p>

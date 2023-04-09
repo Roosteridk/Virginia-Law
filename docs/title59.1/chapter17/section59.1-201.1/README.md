@@ -1,0 +1,3 @@
+# § 59.1-201.1 Attorney General empowered to issue civil investigative demands.
+
+<p>Whenever the Attorney General has reasonable cause to believe that any person has engaged in, or is engaging in, or is about to engage in, any violation of this chapter, the Attorney General is empowered to issue a civil investigative demand. The provisions of § <a href='http://law.lis.virginia.gov/vacode/59.1-9.10/'>59.1-9.10</a> shall apply mutatis mutandis to civil investigative demands issued pursuant to this section.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0703'>703</a>.</p>

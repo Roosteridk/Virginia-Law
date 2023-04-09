@@ -1,0 +1,3 @@
+# § 17.1-324 Justices of Supreme Court.
+
+<p>The justices of the Supreme Court shall receive such salaries as shall be fixed from time to time in the general appropriation act.</p><p>Code 1950, § 14-38; 1964, c. 386, § 14.1-29; 1971, Ex. Sess., c. 156; 1972, c. 856; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

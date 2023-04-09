@@ -1,0 +1,3 @@
+# § 18.2-489 To what article applies.
+
+<p>This article shall not apply to any act permitted by the statutes of the United States or by the laws of this Commonwealth, or by the United States armed forces regulations, nor shall it apply to any printed or written document or production, stationery, ornament, picture or jewelry whereon shall be depicted such flag, standard, color, ensign or shield, with no design or words thereon and disconnected with any advertisement.</p><p>Code 1950, § 18.1-426; 1960, c. 358; 1975, cc. 14, 15.</p>

@@ -1,0 +1,3 @@
+# § 28.2-706 Restrictions on crab scraping; penalty.
+
+<p>It is unlawful for any person to:</p><p>1. Use a crab scrape having a mouth longer than four feet and a toothed bar;</p><p>2. Haul a scrape, except by hand; or</p><p>3. Have more than two scrapes overboard.</p><p>A violation of any provision of this section is a Class 3 misdemeanor.</p><p>1983, c. 603, § 28.1-165.1; 1987, cc. 90, 159; 1992, c. 836; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0115'>115</a>.</p>

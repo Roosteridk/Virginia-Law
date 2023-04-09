@@ -1,0 +1,3 @@
+# § 19.2-129 Power of court to punish for contempt.
+
+<p>Nothing in this chapter shall interfere with or prevent the exercise by any court of the Commonwealth of its power to punish for contempt, except that a person shall not be sentenced for contempt and under the provisions of § <a href='http://law.lis.virginia.gov/vacode/19.2-128/'>19.2-128</a> for the same absence.</p><p>Code 1950, § 19.1-109.8; 1973, c. 485; 1975, c. 495.</p>

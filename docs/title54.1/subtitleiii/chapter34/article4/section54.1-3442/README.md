@@ -1,0 +1,3 @@
+# § 54.1-3442 When permit not to be granted; regulations.
+
+<p>No person shall be granted a restricted manufacturing permit as a manufacturer unless such person is properly equipped as to buildings and equipment to carry out the functions of a manufacturer with due regard to the protection of the public health. The Board shall promulgate regulations in order to carry out the provisions of this section.</p><p>1976, c. 614, § 54-524.41:2; 1988, c. 765.</p>

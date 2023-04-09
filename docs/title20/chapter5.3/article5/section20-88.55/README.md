@@ -1,0 +1,3 @@
+# § 20-88.55 Nondisclosure of information in exceptional circumstances.
+
+<p>Upon a finding, which may be made ex parte, that the health, safety, or liberty of a party or child would be unreasonably put at risk by the disclosure of identifying information, or if an existing order so provides, a tribunal shall order that the address of the child or party or other identifying information not be disclosed in a pleading or other document filed in a proceeding under this chapter.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0673'>673</a>.</p>

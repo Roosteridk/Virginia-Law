@@ -1,0 +1,3 @@
+# § 60.2-525 Statement of employer's benefit charges and taxes.
+
+<p>The Commission, by December 31 every year, shall provide every covered employer with a statement of the employer's benefit charges and taxes for the preceding fiscal year. For any period in which benefit charges are not available, benefit charges shall be calculated as provided in § <a href='http://law.lis.virginia.gov/vacode/60.2-530/'>60.2-530</a>.</p><p>1981, c. 606, § 60.1-40.1; 1986, c. 480; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0382'>382</a>.</p>

@@ -1,0 +1,3 @@
+# § 53.1-225 Accounting and motion for discharge when prisoner released; delivery of estate to prisoner.
+
+<p>Within ten days from the date of a prisoner's release from confinement, his committee shall file with the circuit court a statement of accounts of all real or personal property or both which the committee received, disbursed or was chargeable with on behalf of the prisoner. Such accounting shall be accompanied by a motion requesting the court to discharge the committee from his duties. Thereafter, the committee shall deliver the estate of the prisoner to the prisoner or his personal representatives on his death.</p><p>Code 1950, §§ 53-309, 53-310; 1982, c. 636.</p>

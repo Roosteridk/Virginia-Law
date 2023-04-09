@@ -1,0 +1,3 @@
+# § 65.2-1205 Notification of change in earnings; change in award.
+
+<p>The burden shall be upon the claimant to immediately notify the Commission in writing of any increase or decrease in his earnings. After ten days' notice to the claimant and the Attorney General, the Commission may, upon its own motion or upon the motion of any party in interest, modify or terminate an award as conditions may require.</p><p>1977, c. 345, § 65.1-151; 1991, c. 355.</p>

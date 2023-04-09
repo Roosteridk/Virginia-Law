@@ -1,0 +1,3 @@
+# § 58.1-1704 Tax segregated for state taxation.
+
+<p>The excise tax levied by this article is hereby segregated for state taxation only and no county, city, town or political subdivision of this Commonwealth shall impose a tax on such wholesalers or distributors measured by gross receipts, except as provided in Chapter 37 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-3700/'>58.1-3700</a> et seq.) of this title.</p><p>Code 1950, § 58-404.02; 1977, c. 616; 1979, c. 134; 1984, c. 675.</p>

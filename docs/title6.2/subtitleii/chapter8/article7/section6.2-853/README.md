@@ -1,0 +1,3 @@
+# § 6.2-853 Conditions for interstate merger.
+
+<p>An interstate merger transaction involving a Virginia bank shall not be consummated, and any out-of-state bank resulting from such a merger shall not operate any branch in the Commonwealth, if the Commission finds that the laws of the home state of any out-of-state bank involved in the interstate merger transaction do not permit interstate merger transactions or finds that the resulting out-of-state bank has not complied with all applicable requirements of any law of the Commonwealth.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0301'>301</a>, § 6.1-44.20; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

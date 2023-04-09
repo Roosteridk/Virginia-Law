@@ -1,0 +1,3 @@
+# § 6.2-1913 Regulations.
+
+<p>The Commission may adopt such regulations as it deems appropriate to effect the purposes of this chapter. Before adopting any such regulation, the Commission shall give reasonable notice of its content and shall afford interested parties an opportunity to be heard, in accordance with the Commission's Rules.</p><p>1990, c. 259, § 6.1-378.1; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0889'>889</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

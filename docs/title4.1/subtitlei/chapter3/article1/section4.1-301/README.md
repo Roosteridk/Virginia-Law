@@ -1,0 +1,3 @@
+# § 4.1-301 Conspiracy to violate § 4.1-300; penalty.
+
+<p>If two or more persons conspire together to do any act which is in violation of § <a href='http://law.lis.virginia.gov/vacode/4.1-300/'>4.1-300</a>, and one or more of these persons does any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be guilty of a Class 6 felony.</p><p>1956, c. 70, § 4-57.1; 1993, c. 866.</p>

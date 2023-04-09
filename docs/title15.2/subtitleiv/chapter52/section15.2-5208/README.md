@@ -1,0 +1,3 @@
+# § 15.2-5208 Issuance and sale of bonds.
+
+<p>Any bonds issued by a hospital or health center commission may be issued in one or more series, shall bear such date or dates, mature at such time or times, bear interest at such rate or rates payable at such time or times, be in such denominations, be in such form, either coupon or registered, carry such registration privileges, be executed in such manner, be payable in such medium of payment, at such place or places, be subject to such terms of redemption, with or without premium, as the commission by resolution may prescribe. Such bonds may be sold at public or private sale for such price or prices as the commission determines.</p><p>Code 1950, § 32-282; 1979, c. 719, § 15.1-1522; 1997, c. 587.</p>

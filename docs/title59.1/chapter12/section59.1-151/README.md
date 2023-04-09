@@ -1,0 +1,3 @@
+# § 59.1-151 Statements to be filed by manufacturers, wholesalers and jobbers.
+
+<p>All manufacturers, wholesalers, and jobbers, before selling or offering for sale in this Commonwealth any motor fuel for the purposes above defined, shall file with the Commissioner a statement that they desire to do business in this Commonwealth, and furnish the brand name, trade name, or trademark of the motor fuel which they desire to sell.</p><p>Code 1950, § 59-43; 1968, c. 439; 1992, c. 885; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0650'>650</a>.</p>

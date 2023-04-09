@@ -1,0 +1,3 @@
+# § 38.2-1334.5 ORSA requirement.
+
+<p>Subject to § <a href='http://law.lis.virginia.gov/vacode/38.2-1334.7/'>38.2-1334.7</a>, an insurer, or the insurance group of which the insurer is a member, shall regularly conduct an ORSA consistent with a process comparable to the ORSA Guidance Manual. The ORSA shall be conducted no less than annually, but also at any time when there are significant changes to the risk profile of the insurer or the insurance group of which the insurer is a member.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0248'>248</a>.</p>

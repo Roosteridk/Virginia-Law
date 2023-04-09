@@ -1,0 +1,3 @@
+# § 58.1-4025 Exemption of lottery prizes and sales of tickets from state and local taxation.
+
+<p>Except as provided in Chapter 3 of Title 58.1 and § <a href='http://law.lis.virginia.gov/vacode/58.1-4011/'>58.1-4011</a>, no state or local taxes of any type whatsoever shall be imposed upon any prize awarded or upon the sale of any lottery ticket sold pursuant to the Virginia Lottery Law.</p><p>1987, c. 531; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0225'>225</a>.</p>

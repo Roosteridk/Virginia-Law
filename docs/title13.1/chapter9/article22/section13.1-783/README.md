@@ -1,0 +1,3 @@
+# § 13.1-783 Application and effect of article.
+
+<p>A. This article shall apply to all benefit corporations.</p><p>B. The existence of a provision of this article shall not of itself create an implication that a contrary or different rule of law applies to a corporation organized pursuant to the provisions of this chapter that is not a benefit corporation. This article shall not affect a statute or rule of law that applies to a corporation that is not a benefit corporation.</p><p>C. The specific provisions of this article shall control over the general provisions of other articles of this chapter.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0698'>698</a>.</p>

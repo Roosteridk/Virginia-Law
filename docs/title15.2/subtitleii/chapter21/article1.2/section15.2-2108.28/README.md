@@ -1,0 +1,3 @@
+# § 15.2-2108.28 Transfer.
+
+<p>No transfer of any franchise granted under this article shall occur without the prior consent of the locality, provided that such locality shall not unreasonably withhold, delay, or condition such consent. No transfer shall be made to a person, group of persons or affiliate that is not legally, technically, and financially qualified to operate the cable system and satisfy the franchise obligations.</p><p>2006, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0073'>73</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0076'>76</a>.</p>

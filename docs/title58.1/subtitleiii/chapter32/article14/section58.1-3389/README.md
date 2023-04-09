@@ -1,0 +1,3 @@
+# § 58.1-3389 Article not applicable to real estate assessable by Corporation Commission or Department.
+
+<p>This article shall not apply to any real estate which is assessable under the law by the State Corporation Commission or the Department of Taxation.</p><p>Code 1950, § 58-915; 1983, cc. 304, 570; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 8.01-338 Who disqualified.
+
+<p>The following persons shall be disqualified from serving as jurors:</p><p>1. Persons adjudicated incapacitated;</p><p>2. Persons convicted of treason or a felony; or</p><p>3. Any other person under a disability as defined in § <a href='http://law.lis.virginia.gov/vacode/8.01-2/'>8.01-2</a> and not included in subdivisions 1 or 2 above.</p><p>Code 1950, § 8-208.3; 1973, c. 439; 1977, c. 617; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0801'>801</a>.</p>

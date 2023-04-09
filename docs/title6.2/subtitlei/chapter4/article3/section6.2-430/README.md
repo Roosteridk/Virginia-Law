@@ -1,0 +1,3 @@
+# § 6.2-430 Place where transaction occurred; federal Fair Credit Billing Act.
+
+<p>Solely for the purpose of a buyer asserting claims and defenses pursuant to 15 U.S.C. § 1666i, a transaction shall be presumed to have occurred at the mailing address most recently provided by the cardholder to the card issuer, without regard to the location where the last act necessary for the formation of the contract between the cardholder and the party honoring the card took place.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0373'>373</a>, § 11-33.3; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

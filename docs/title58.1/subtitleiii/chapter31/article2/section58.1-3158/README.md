@@ -1,0 +1,3 @@
+# § 58.1-3158 Duties of treasurers.
+
+<p>No treasurer shall permit any public deposit to be deposited with any depository unless it is a "qualified public depository" as defined in § <a href='http://law.lis.virginia.gov/vacode/2.2-4401/'>2.2-4401</a>. All such deposits shall be secured pursuant to the Virginia Security for Public Deposits Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4400/'>2.2-4400</a> et seq.).</p><p>Code 1950, § 58-944; 1956, c. 84; 1958, c. 442; 1966, c. 498; 1984, c. 675; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0364'>364</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0390'>390</a>.</p>

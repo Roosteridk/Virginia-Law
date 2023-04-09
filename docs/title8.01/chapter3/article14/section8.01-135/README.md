@@ -1,0 +1,3 @@
+# § 8.01-135 What is to be stated in motion for judgment.
+
+<p>It shall be sufficient for the plaintiff to aver in his motion for judgment that on some day specified therein, which shall be after his title accrued, he was possessed of the premises claimed, and, being so possessed thereof, the defendant afterwards, on some day likewise specified, entered into such premises or exercised acts of ownership thereon or claimed title thereto or some interest therein, to the damage of the plaintiff in such sum as he shall state in his motion for judgment.</p><p>Code 1950, § 8-802; 1954, c. 333; 1977, c. 617.</p>

@@ -1,0 +1,3 @@
+# § 58.1-1734 Title.
+
+<p>This article shall be known and may be cited as the "Virginia Motor Vehicle Rental and Peer-to-Peer Vehicle Sharing Tax Act."</p><p>2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0405'>405</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0639'>639</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1266'>1266</a>.</p>

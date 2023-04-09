@@ -1,0 +1,3 @@
+# § 3.2-6578 Exemptions.
+
+<p>This article shall not apply to:</p><p>1. An owner reclaiming his dog or cat from a releasing agency;</p><p>2. A releasing agency within a locality that has adopted a more stringent mandatory sterilization ordinance; and</p><p>3. A local governing body that has disposed of an animal by sale or gift to a federal agency, state-supported institution, agency of the Commonwealth, agency of another state, or licensed federal dealer having its principal place of business located within the Commonwealth.</p><p>1993, c. 959, § 3.1-796.126:5; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

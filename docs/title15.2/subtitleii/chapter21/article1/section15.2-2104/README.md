@@ -1,0 +1,3 @@
+# § 15.2-2104 Bond of person awarded franchise, etc.
+
+<p>The person to whom a franchise, right, lease or privilege is awarded, whether by competing bids or otherwise, shall first execute a bond, with good and sufficient security, in favor of the city or town. The bond shall be in such sum as the city or town shall determine, conditioned upon the construction, operation and maintenance of the plant or plants provided for in the granted franchise, right, lease or privilege.</p><p>Code 1950, § 15-732; 1962, c. 623, § 15.1-312; 1997, c. 587.</p>

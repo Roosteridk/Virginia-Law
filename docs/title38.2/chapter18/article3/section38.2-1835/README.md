@@ -1,0 +1,3 @@
+# § 38.2-1835 Failure to appoint.
+
+<p>Any insurer that accepts applications from an unlicensed agent or does not appoint a licensed agent pursuant to the provisions of § <a href='http://law.lis.virginia.gov/vacode/38.2-1833/'>38.2-1833</a> shall be penalized as provided in §§ <a href='http://law.lis.virginia.gov/vacode/38.2-218/'>38.2-218</a> and <a href='http://law.lis.virginia.gov/vacode/38.2-1040/'>38.2-1040</a>.</p><p>1985, c. 616, § 38.1-327.44:3; 1986, c. 562; 1987, c. 521.</p>

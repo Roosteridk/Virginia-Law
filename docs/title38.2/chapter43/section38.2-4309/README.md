@@ -1,0 +1,3 @@
+# § 38.2-4309 Investments.
+
+<p>A health maintenance organization may invest in any Category 1 investment as defined in Chapter 14 of this title or any other investment the Commission may permit pursuant to provisions in Chapter 14 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-1400/'>38.2-1400</a> et seq.) of this title. For investments made prior to July 1, 1998, by a health maintenance organization which is licensed on and after June 30, 1998, July 1, 1998 may be deemed the date of investment.</p><p>1980, c. 720, § 38.1-873; 1986, c. 562; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0042'>42</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-415 Schedule of compensation for officers and employees.
+
+<p>The board shall, except as otherwise provided in this chapter, establish a schedule of compensation for officers and employees which shall, so far as practical, provide uniform compensation for like service. The compensation prescribed shall be subject to such limitations as may be made by general law.</p><p>Code 1950, § 15-378; 1962, c. 623, § 15.1-714; 1997, c. 587.</p>

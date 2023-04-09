@@ -1,0 +1,3 @@
+# § 27-23.7 Special levy for fire protection in certain counties.
+
+<p>Chapter 207 of the Acts of 1930, approved March 22, 1930 (codified as § 3144k of Michie Code of 1942), as amended, by Chapter 297 of the Acts of 1938, approved March 28, 1938, Chapter 392 of the Acts of 1940, approved April 1, 1940, Chapter 40 of the Acts of 1945, approved April 5, 1945, and Chapter 41 of the Acts of 1956, approved February 16, 1956, relating to special levy for fire protection in counties adjacent to a county containing more than 500 inhabitants a square mile, is continued in effect.</p><p>1970, c. 187.</p>

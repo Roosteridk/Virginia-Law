@@ -1,0 +1,3 @@
+# § 44-54.3 Members of National Guard deemed to be in state service when engaged pursuant to compact.
+
+<p>In accordance with Article III (h) of the compact, members of the National Guard forces of this Commonwealth shall be deemed to be in state service at all times when engaged pursuant to this compact, and shall be entitled to all rights and benefits provided pursuant to this title as amended.</p><p>1968, c. 36.</p>

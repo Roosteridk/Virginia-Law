@@ -1,0 +1,3 @@
+# § 54.1-3489 Active duty military personnel or their spouses.
+
+<p>A licensee who is active duty military or is the spouse of an individual who is active duty military may designate one of the following as the home state:</p><p>1. Home of record;</p><p>2. Permanent Change of Station (PCS); or</p><p>3. State of current residence if it is different from the PCS state or home of record.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0300'>300</a>.</p>

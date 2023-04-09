@@ -1,0 +1,3 @@
+# § 54.1-926 Pilot receiving unlawful fees.
+
+<p>No pilot shall demand or receive other than the lawful fee for any service. Any pilot who violates this section may be suspended by the Board for up to six months.</p><p>Code 1950, § 54-573; 1988, c. 765.</p>

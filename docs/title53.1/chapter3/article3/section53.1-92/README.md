@@ -1,0 +1,3 @@
+# § 53.1-92 Disposition of money collected from United States or other counties, cities or towns.
+
+<p>All moneys so collected by such sheriff from the United States or from any such county, city, town, state or country shall be promptly paid into the treasury of his county or city. The total amount so collected shall be retained by such county or city. All moneys so collected by jail superintendents shall be promptly paid into the treasury of the regional jail authority or, if none, the body responsible for the fiscal management of the regional jail.</p><p>Code 1950, § 53-183; 1982, c. 636; 1991, c. 383.</p>

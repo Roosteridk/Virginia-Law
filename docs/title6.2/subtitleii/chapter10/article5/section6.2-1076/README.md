@@ -1,0 +1,3 @@
+# § 6.2-1076 Operation and powers.
+
+<p>Every private trust company shall have and shall conduct its business in accordance with an operating plan and in accordance with generally accepted fiduciary standards. A private trust company when engaging in a private trust business shall have the same rights, powers, and privileges as a trust institution pursuant to § <a href='http://law.lis.virginia.gov/vacode/6.2-1002/'>6.2-1002</a>, including the power to act as executor under the last will and testament or administrator of the estate of any deceased family member.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0910'>910</a>, § 6.1-32.30:3; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

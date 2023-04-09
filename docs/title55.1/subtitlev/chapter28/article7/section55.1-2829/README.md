@@ -1,0 +1,3 @@
+# § 55.1-2829 Entry of order if petition not contested.
+
+<p>A petition filed pursuant to § <a href='/vacode/55.1-2828/'>55.1-2828</a>, if verified by the oath of one or more of the petitioners, shall be prima facie evidence of the facts stated therein, and the court without further evidence shall proceed to enter the order fixing the boundaries of the village or unincorporated community unless such petition is contested.</p><p>Code 1950, § 8-895; 1977, c. 624, § 55-325; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

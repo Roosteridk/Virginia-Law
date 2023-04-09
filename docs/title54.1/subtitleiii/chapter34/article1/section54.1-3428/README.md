@@ -1,0 +1,3 @@
+# § 54.1-3428 Dissemination of information.
+
+<p>The Board may disseminate such information regarding drugs, devices, and cosmetics as the Board deems necessary in the interest of public health and the protection of the consumer against fraud. This section shall not be construed to prohibit the Board from collecting, reporting, and illustrating the results of its investigations.</p><p>1970, c. 650, § 54-524.100; 1988, c. 765.</p>

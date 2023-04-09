@@ -1,0 +1,3 @@
+# § 15.2-1117 Light, ventilation, sanitation and use and occupancy of buildings.
+
+<p>A municipal corporation may regulate the light, ventilation, sanitation and use and occupancy of buildings heretofore or hereafter constructed, altered, remodeled or improved, and the sanitation of premises surrounding the building.</p><p>Code 1950, § 15-77.33; 1958, c. 328; 1962, c. 623, § 15.1-869; 1997, c. 587.</p>

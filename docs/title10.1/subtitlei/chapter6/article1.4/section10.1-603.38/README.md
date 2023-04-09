@@ -1,0 +1,3 @@
+# § 10.1-603.38 Sale of loans.
+
+<p>The Authority is empowered at any time and from time to time to sell, upon such terms and conditions as the Authority shall deem appropriate, any loan, or interest therein, made pursuant to this article. The net proceeds of sale remaining after the payment of the costs and expenses of the sale shall be designated for deposit to, and become part of, the Fund.</p><p>2022, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0739'>739</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0782'>782</a>.</p>

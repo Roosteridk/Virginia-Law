@@ -1,0 +1,3 @@
+# § 56-67.1 Validity of authorized securities.
+
+<p>Securities of a public service company, and assumptions by a public service company of obligations or liabilities in respect of the securities of another person, firm, association or corporation, issued or assumed pursuant to an authorizing order of the Commission and valid at the time of their issuance or assumption, shall not cease to be valid because such order is subsequently suspended, vacated, superseded or reversed.</p><p>1977, c. 631.</p>

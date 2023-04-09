@@ -1,0 +1,3 @@
+# § 59.1-495 Creation and retention of electronic records and conversion of written records by public bodies of the Commonwealth.
+
+<p>Upon providing protection to preserve security and confidentiality, every public body of the Commonwealth may create and retain electronic records and convert written records to electronic records.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0995'>995</a>.</p>

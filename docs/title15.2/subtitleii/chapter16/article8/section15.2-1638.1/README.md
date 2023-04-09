@@ -1,0 +1,3 @@
+# § 15.2-1638.1 Administrative assistants in offices of circuit court judges who are employees of a locality.
+
+<p>An employee, not employed by a constitutional officer, hired and paid by a county or city to assist with the administration of a circuit court judge's office shall serve at the sole direction and under the sole supervision of such judge. Nothing herein shall be construed to affect the authority of the circuit court clerk to (i) perform statutory duties with respect to court administration or (ii) assign deputy clerks to provide judicial assistance to the court, at the sole discretion of the clerk.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1061'>1061</a>.</p>

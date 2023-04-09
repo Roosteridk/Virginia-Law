@@ -1,0 +1,3 @@
+# § 5.1-2.15 Resolutions, rules and regulations, etc.
+
+<p>The Board is authorized to adopt, amend, and repeal such reasonable resolutions, rules, regulations, and orders as it shall deem necessary for the management, government, and use of any airport or air navigation facility owned by it or under its control. No rule, regulation, order, or standard prescribed by the Board shall be inconsistent with, or contrary to, any law of this Commonwealth or act of the Congress of the United States or any regulation promulgated or standard established pursuant thereto concerning such airport or the operation of aircraft. The Board shall keep on file at the principal office of the Board for public inspection a copy of all its rules and regulations.</p><p>1980, c. 750.</p>

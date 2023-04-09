@@ -1,0 +1,3 @@
+# § 15.2-1111 Regulation of cemeteries and burials.
+
+<p>A municipal corporation may regulate and inspect cemeteries and burials therein, prescribe records to be kept by the owners thereof, and prohibit burials except in public cemeteries.</p><p>Code 1950, § 15-77.24; 1958, c. 328; 1962, c. 623, § 15.1-860; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 18.2-281 Setting spring gun or other deadly weapon.
+
+<p>It shall be unlawful for any person to set or fix in any manner any firearm or other deadly weapon so that it may be discharged or activated by a person coming in contact therewith or with any string, wire, spring, or any other contrivance attached thereto or designed to activate such weapon remotely. Any person violating this section shall be guilty of a Class 6 felony.</p><p>Code 1950, § 18.1-69.1; 1966, c. 422; 1975, cc. 14, 15.</p>

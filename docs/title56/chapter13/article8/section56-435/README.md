@@ -1,0 +1,3 @@
+# § 56-435 Appeal from general district court to circuit court in cattle-guard cases.
+
+<p>In all suits brought before the general district court against railroad companies to recover penalties for failure to construct cattle guards as required by law, either party shall have the right of appeal to the circuit court of the county where such suit is brought, from the judgment of the general district court, without regard to the amount in controversy.</p><p>Code 1919, § 3954; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

@@ -1,0 +1,3 @@
+# § 53.1-226 When estate committed to sheriff.
+
+<p>If any person appointed committee refuse the trust or fail to give bond as required, the court, on motion of an interested party, shall commit the estate to the sheriff of the county or city who shall be the committee. The sheriff and the sureties on his official bond shall be bound for the faithful performance of the trust.</p><p>Code 1950, § 53-311; 1982, c. 636.</p>

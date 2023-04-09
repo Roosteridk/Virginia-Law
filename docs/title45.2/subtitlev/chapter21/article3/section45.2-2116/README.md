@@ -1,0 +1,3 @@
+# § 45.2-2116  Uranium mining permit applications; uranium mining deemed to have significant effect on surface.
+
+<p>Notwithstanding any other provision of law, no application for a uranium mining permit shall be accepted by any agency of the Commonwealth until a program for permitting uranium mining is established by statute. For the purpose of construing the definition of "mining" in § <a href='/vacode/45.2-1200/'>45.2-1200</a>, uranium mining is deemed to have a significant effect on the surface.</p><p>1982, c. 269, § 45.1-283; 1983, c. 3; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

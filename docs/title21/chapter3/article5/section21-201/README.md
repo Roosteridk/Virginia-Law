@@ -1,0 +1,3 @@
+# § 21-201 Interim certificates.
+
+<p>Pending the preparation, execution and delivery of definitive bonds of the commission to the purchaser of such bonds, interim certificates or other obligations may be issued by the commission to the purchaser. Such interim certificates or obligations shall be in such form and contain such terms, conditions and provisions as the commission issuing the same may determine.</p><p>1938, p. 522; Michie Code 1942, § 1560qq.</p>

@@ -1,0 +1,3 @@
+# § 2.2-2475 Trade secrets.
+
+<p>Trade secrets that a nonpublic body submits as an offeror in connection with a proposed workforce training program shall not be subject to disclosure under the Virginia Freedom of Information Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-3700/'>2.2-3700</a> et seq.). However, such offeror shall (i) invoke the protections of this section prior to or upon submission of the data or other materials, (ii) identify the data or other materials to be protected, and (iii) state the reasons why protection is necessary.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0815'>815</a>.</p>

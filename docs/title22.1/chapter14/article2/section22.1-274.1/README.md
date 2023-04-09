@@ -1,0 +1,3 @@
+# § 22.1-274.1 Criteria to identify toxic art materials; labeling; use in certain grades prohibited.
+
+<p>The State Department of Education, in cooperation with the State Department of Health, shall develop criteria to identify toxic art materials.</p><p>After these criteria have been developed, the Department of Education shall require school divisions to evaluate all art materials used in schools and identify those which are toxic. All materials used in the public schools which meet the criteria as toxic shall be so labeled and the use of such art materials shall be prohibited in kindergarten through grade five.</p><p>1987, c. 225; 1988, c. 103.</p>

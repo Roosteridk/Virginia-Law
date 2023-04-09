@@ -1,0 +1,3 @@
+# § 32.1-102.10 Commencing project without certificate or registration grounds for refusing to issue license.
+
+<p>Commencing any project without a certificate or registration required by this article shall constitute grounds for refusing to issue a license for such project. Persons commencing any project without a certificate or registration as required by this article shall be subject to the penalties set forth in §§ <a href='/vacode/32.1-27/'>32.1-27</a> and <a href='/vacode/32.1-27.1/'>32.1-27.1</a>.</p><p>1982, c. 388; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0175'>175</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1271'>1271</a>.</p>

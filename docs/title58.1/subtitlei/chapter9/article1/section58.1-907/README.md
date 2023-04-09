@@ -1,0 +1,3 @@
+# § 58.1-907 Certification of payment by Department.
+
+<p>Upon the payment of the estate tax, or if no tax is due pursuant to a filing under § <a href='http://law.lis.virginia.gov/vacode/58.1-905/'>58.1-905</a> or § <a href='http://law.lis.virginia.gov/vacode/58.1-906/'>58.1-906</a>, upon the ascertainment of that fact, the Department shall certify such fact to the personal representative.</p><p>Code 1950, § 58-238.8; 1978, c. 838; 1984, c. 675.</p>

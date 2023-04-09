@@ -1,0 +1,3 @@
+# § 30-128 Limitation of actions.
+
+<p>The statute of limitations for the criminal prosecution of a legislator for violation of any provision of this chapter shall be one year from the time the Attorney General has actual knowledge of the violation or five years from the date of the violation, whichever event first occurs.</p><p>1987, Sp. Sess., c. 1, § 2.1-639.58; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

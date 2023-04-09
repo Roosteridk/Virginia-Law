@@ -1,0 +1,3 @@
+# § 8.01-263 Multiple parties.
+
+<p>In actions involving multiple parties, venue shall not be subject to objection:</p><p>1. If one or more of the parties is entitled to preferred venue, and such action is commenced in any such forum; provided that in any action where there are one or more residents and one or more nonresidents or parties unknown, venue shall be proper (preferred or permissible, as the case may be) as to at least one resident defendant;</p><p>2. In all other cases, if the venue is proper as to any party.</p><p>1977, c. 617.</p>

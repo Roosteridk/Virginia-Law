@@ -1,0 +1,3 @@
+# § 45.2-2100  Definitions.
+
+<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Authority" means the Virginia Nuclear Energy Consortium Authority established pursuant to this chapter.</p><p>"Board" means the board of directors of the Authority.</p><p>"Consortium" means the Virginia Nuclear Energy Consortium established by the Authority pursuant to § <a href='/vacode/45.2-2105/'>45.2-2105</a>.</p><p>"Member" means a member of the Consortium.</p><p>2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0057'>57</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0394'>394</a>, § 67-1400; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

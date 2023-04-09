@@ -1,0 +1,3 @@
+# § 58.1-14 Out-of-state tax collections.
+
+<p>Any state of the United States, or any political subdivision thereof, shall have the right to sue in the courts of Virginia to recover any tax which may be owing to it when the like right is accorded to the Commonwealth of Virginia and its political subdivisions by such state, whether such right is granted by statutory authority or as a matter of comity.</p><p>Code 1950, § 58-1021.1; 1952, c. 323; 1984, c. 675.</p>

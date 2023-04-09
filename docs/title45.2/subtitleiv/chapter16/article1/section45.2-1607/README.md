@@ -1,0 +1,3 @@
+# § 45.2-1607  Expenditure of funds.
+
+<p>All funds, except civil penalties collected pursuant to § <a href='/vacode/45.2-1608/'>45.2-1608</a>, collected by or appropriated to the Department pursuant to the provisions of this chapter shall be expended only for the purpose of carrying out the provisions of this chapter.</p><p>1990, c. 92, § 45.1-361.7; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

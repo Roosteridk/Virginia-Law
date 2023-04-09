@@ -1,0 +1,3 @@
+# §§ 40.1-23 through 40.1-25.1 Repealed.
+
+<p>Repealed by Acts 1988, c. 340, effective January 1, 1989.</p>

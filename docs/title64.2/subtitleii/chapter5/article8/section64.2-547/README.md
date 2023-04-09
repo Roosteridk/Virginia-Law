@@ -1,0 +1,3 @@
+# § 64.2-547 Revival of judgment by administrator de bonis non.
+
+<p>If an action is pending or a judgment has been rendered in the Commonwealth in favor of a personal representative upon a contract made during or for a cause of action that accrued in the lifetime of the decedent, the administrator de bonis non of the decedent may petition for execution upon such judgment, or to revive the pending action if the personal representative who brought the action could have maintained the same.</p><p>Code 1950, § 64-158; 1968, c. 656, § 64.1-168; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

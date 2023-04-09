@@ -1,0 +1,3 @@
+# § 6.2-1305 Making or circulating derogatory statements affecting credit unions; penalty.
+
+<p>Any person who willfully and maliciously makes, circulates, or transmits to another any statement or rumor that is untrue in facts and is directly or by inference derogatory to the financial condition or affects the solvency or financial standing of any credit union doing business in the Commonwealth, or who knowingly counsels, aids, procures, or induces another to start, transmit, or circulate any such statement or rumor, is guilty of a Class 3 misdemeanor.</p><p>1991, c. 170, § 6.1-225.64; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,0 +1,3 @@
+# § 37.2-824 Periodic review of all persons for purposes of retention.
+
+<p>The director of a state facility shall conduct a review of the progress of each person admitted to the facility at intervals of 30, 60, and 90 days after admission of the person, and every six months thereafter to determine whether the person should be retained at the state facility. A record shall be kept of the findings of each review in the state facility's file on the person.</p><p>1974, c. 66, § 37.1-84.2; 1976, c. 671; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

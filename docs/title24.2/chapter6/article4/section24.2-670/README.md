@@ -1,0 +1,3 @@
+# § 24.2-670 Clerk to send for books and ballots if not delivered by officers.
+
+<p>If the officers of election fail to deliver the materials to the clerk of the circuit court, or to the principal office of the general registrar, as required by § <a href='http://law.lis.virginia.gov/vacode/24.2-668/'>24.2-668</a> before the time for the electoral board to meet and open the returns, the clerk of the circuit court shall dispatch, to obtain such returns, a law-enforcement officer, who shall be subject to the same penalties and entitled to the same compensation as an officer of election for such service.</p><p>Code 1950, § 24-269; 1970, c. 462, § 24.1-145; 1993, c. 641; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0197'>197</a>.</p>

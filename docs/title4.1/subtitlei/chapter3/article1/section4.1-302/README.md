@@ -1,0 +1,3 @@
+# § 4.1-302 Illegal sale of alcoholic beverages in general; penalty.
+
+<p>If any person who is not licensed sells any alcoholic beverages except as permitted by this subtitle, he shall be guilty of a Class 1 misdemeanor.</p><p>In the event of a second or subsequent conviction under this section, a jail sentence of no less than thirty days shall be imposed and in no case be suspended.</p><p>Code 1950, § 4-58; 1952, c. 491; 1984, c. 603; 1993, c. 866.</p>

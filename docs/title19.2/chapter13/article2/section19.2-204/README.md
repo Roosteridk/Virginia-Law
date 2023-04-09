@@ -1,0 +1,3 @@
+# § 19.2-204 Penalties on officers and jurors for failure of duty.
+
+<p>A court whose officer fails without good cause, when it is his duty, to summon a grand jury and return a list of its names shall fine him twenty dollars. A person summoned and failing to attend a court as a grand juror shall be fined by the court not less than five dollars nor more than twenty dollars, unless, after being summoned to show cause against the fine, he gives a reasonable excuse for his failure.</p><p>Code 1950, § 19.1-159; 1960, c. 366; 1975, c. 495.</p>

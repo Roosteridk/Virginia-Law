@@ -1,0 +1,3 @@
+# § 15.2-1533 Bond plan to be forwarded to clerk and Comptroller.
+
+<p>The state Department of the Treasury, Division of Risk Management shall forward to the clerk of the circuit court for each county and city and the Comptroller of the Commonwealth a copy of the plan promulgated pursuant to subsection B of § <a href='http://law.lis.virginia.gov/vacode/2.2-1840/'>2.2-1840</a>.</p><p>Code 1950, § 15-484; 1962, c. 623, § 15.1-47; 1979, c. 643; 1997, c. 587; 2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0618'>618</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0632'>632</a>.</p>

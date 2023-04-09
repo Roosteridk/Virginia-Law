@@ -1,0 +1,3 @@
+# § 38.2-3567 Independent review organizations to be held harmless.
+
+<p>No independent review organization or clinical reviewer working on behalf of an independent review organization or an employee, agent, or contractor of an independent review organization shall be liable in damages to any person for any opinions rendered or acts or omissions performed within the scope of the organization's or person's duties under the law during or upon completion of an external review, unless the opinion was rendered or act or omission performed in bad faith or involved gross negligence.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0788'>788</a>.</p>

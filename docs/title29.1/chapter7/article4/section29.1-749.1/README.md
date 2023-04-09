@@ -1,0 +1,3 @@
+# § 29.1-749.1 Identification of personal watercraft rentals.
+
+<p>Every business located in a city with a population greater than 390,000 that provides personal watercraft for rent shall place the letter "R," at least eleven inches in height and eight and one-half inches in width, on both sides of each personal watercraft rental, in either red or black, whichever color represents the clearest contrast from the basic color of the rental unit.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0084'>84</a>.</p>

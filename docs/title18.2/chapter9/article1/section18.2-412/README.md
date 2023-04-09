@@ -1,0 +1,3 @@
+# § 18.2-412 Immunity of officers and others in quelling a riot or unlawful assembly.
+
+<p>No liability, criminal or civil, shall be imposed upon any person authorized to disperse or assist in dispersing a riot or unlawful assembly for any action of such person which was taken after those rioting or unlawfully assembled had been commanded to disperse, and which action was reasonably necessary under all the circumstances to disperse such riot or unlawful assembly or to arrest those who failed or refused to disperse.</p><p>Code 1950, §§ 18.1-254.8, 18.1-254.9; 1968, c. 460; 1975, cc. 14, 15.</p>

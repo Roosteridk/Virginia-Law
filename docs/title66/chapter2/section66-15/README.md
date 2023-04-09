@@ -1,0 +1,3 @@
+# § 66-15 Schedules of per diem cost of maintenance in detention homes; reimbursements of cities and counties.
+
+<p>The Department shall establish schedules setting forth the per diem cost to each locality for maintaining a child in a detention home. In accordance with the schedule, the Department, in addition to all other reimbursements on account of such detention homes, shall reimburse each city or county for the cost of maintaining in such homes any children committed to the Department. The Department shall review annually and adjust, if justified, the per diem it pays to localities for the care of state wards.</p><p>Code 1950, §§ 53-326, 63.1-241, 63-293.1; 1954, c. 582; 1968, c. 578; 1974, cc. 44, 45; 1981, c. 487; 1982, c. 636, § 53.1-240; 1989, cc. 683, 733.</p>

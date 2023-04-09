@@ -1,0 +1,3 @@
+# § 62.1-157 Power of cities to bind themselves to perform or execute assurances.
+
+<p>The cities defined in § <a href='http://law.lis.virginia.gov/vacode/62.1-155/'>62.1-155</a> shall have the power to irrevocably bind themselves to do any and all things necessary to perform or execute the assurances authorized to be given pursuant to § <a href='http://law.lis.virginia.gov/vacode/62.1-156/'>62.1-156</a> anything in the charters of such cities to the contrary notwithstanding.</p><p>Code 1950, § 62-117.10; 1958, c. 467; 1968, c. 659.</p>

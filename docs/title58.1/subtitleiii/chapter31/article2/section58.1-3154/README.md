@@ -1,0 +1,3 @@
+# § 58.1-3154 Selection and approval of depositories.
+
+<p>The depository or depositories for the money received by a county treasurer shall be selected pursuant to the provisions of the Virginia Security for Public Deposits Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4400/'>2.2-4400</a> et seq.).</p><p>Code 1950, § 58-943; 1984, c. 675.</p>

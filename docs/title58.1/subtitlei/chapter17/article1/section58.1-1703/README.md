@@ -1,0 +1,3 @@
+# § 58.1-1703 Collection.
+
+<p>The excise tax levied by this article shall be collected annually by the Department of Taxation in the same manner as the income tax imposed under Chapter 3 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-300/'>58.1-300</a> et seq.) of this title, as provided by rules and regulations promulgated by the Tax Commissioner.</p><p>Code 1950, § 58-404.02; 1977, c. 616; 1979, c. 134; 1984, c. 675.</p>

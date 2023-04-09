@@ -1,0 +1,3 @@
+# § 15.2-529 Appointment of county attorney.
+
+<p>The board may appoint a county attorney pursuant to § <a href='http://law.lis.virginia.gov/vacode/15.2-1542/'>15.2-1542</a>, who shall serve at a salary as fixed by the board and who shall be accountable to the board.</p><p>Code 1950, § 15-291; 1952, c. 413; 1958, c. 112; 1962, c. 623, § 15.1-608; 1972, c. 360; 1977, c. 584; 1984, c. 722; 1997, c. 587.</p>

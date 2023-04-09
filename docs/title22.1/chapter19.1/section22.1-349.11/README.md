@@ -1,0 +1,3 @@
+# § 22.1-349.11 Immunity.
+
+<p>A college partnership laboratory school is immune from liability to the same extent as is the public institution of higher education that establishes the school, and the employees and volunteers in a college partnership laboratory school are immune from liability to the same extent as are the employees of the institution of higher education that establishes the school.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0816'>816</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0871'>871</a>, § 23-299.10; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

@@ -1,0 +1,3 @@
+# § 20-69 Fees of officers.
+
+<p>The officers acting under this chapter shall be entitled to the same fees as are now or hereafter allowed in misdemeanor cases.</p><p>1944, p. 212; Michie Suppl. 1946, § 1937c; 1974, c. 464.</p>

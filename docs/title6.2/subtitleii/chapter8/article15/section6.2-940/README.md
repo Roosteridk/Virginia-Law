@@ -1,0 +1,3 @@
+# § 6.2-940 Making derogatory statements affecting banks; penalty.
+
+<p>Any person who willfully and maliciously makes, circulates, or transmits to another any statement, rumor, or suggestion that is directly or by reference derogatory to the financial condition, or affects the solvency or financial standing of, any bank doing business in the Commonwealth, or who counsels, aids, procures, or induces another to start, transmit, or circulate any such statement or rumor, is guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 6-132; 1966, c. 584, § 6.1-119; 1991, c. 710; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

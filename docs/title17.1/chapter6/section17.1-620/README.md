@@ -1,0 +1,3 @@
+# § 17.1-620 When juror not entitled to compensation.
+
+<p>No person shall be entitled to receive any compensation for service as a juror if he departs without the leave of the court, or, being summoned as a witness for the Commonwealth, charges for his attendance as such.</p><p>Code 1950, § 8-208.35; 1973, c. 439, § 14.1-195.3; 1977, c. 624; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

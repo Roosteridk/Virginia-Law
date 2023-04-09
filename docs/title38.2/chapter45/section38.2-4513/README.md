@@ -1,0 +1,3 @@
+# § 38.2-4513 Subscriber to have free choice of practitioners available.
+
+<p>A plan shall be organized and operated to assure that any subscriber shall have free choice of any participating dentist or optometrist who agrees to accept the subscriber as a patient for services provided by the plan.</p><p>1980, c. 682, § 38.1-903; 1986, c. 562.</p>

@@ -1,0 +1,3 @@
+# § 28.2-1503 Management of lands.
+
+<p>The Commission shall manage all ungranted shores of the sea, marsh and meadowlands, and all other lands of the Commonwealth for which management duties have been given to the Commission, as steward for the property interests of the Commonwealth. All agencies of the Commonwealth shall cooperate with the Commission and, upon request, shall assist the Commission in the performance of its duties and responsibilities under this chapter.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0850'>850</a>.</p>

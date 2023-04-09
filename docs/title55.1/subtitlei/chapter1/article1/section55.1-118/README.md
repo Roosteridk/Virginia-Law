@@ -1,0 +1,3 @@
+# § 55.1-118 Deed of release effectual.
+
+<p>Every deed of release of any estate or interest capable of passing by deed of lease or release shall be as effectual for the purposes expressed in such deed of release, without the execution of a lease, as if the same had been executed.</p><p>Code 1919, § 5156; Code 1950, § 55-18; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

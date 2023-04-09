@@ -1,0 +1,3 @@
+# § 8.01-192 How claims to be prosecuted.
+
+<p>When the Comptroller or other authorized person shall disallow, either in whole or in part, any such claim against the Commonwealth as is provided for by §§ <a href='http://law.lis.virginia.gov/vacode/2.2-814/'>2.2-814</a>, <a href='http://law.lis.virginia.gov/vacode/2.2-815/'>2.2-815</a> or <a href='http://law.lis.virginia.gov/vacode/8.01-605/'>8.01-605</a> at which time a right of action under this section shall be deemed to accrue, the person presenting such claim may petition an appropriate circuit court for redress.</p><p>Code 1950, § 8-752; 1966, c. 452; 1977, c. 617.</p>

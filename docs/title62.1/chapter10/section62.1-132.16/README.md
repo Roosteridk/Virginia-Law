@@ -1,0 +1,3 @@
+# § 62.1-132.16 Fees and charges.
+
+<p>Under such terms and conditions as may be prescribed by law, the Authority may fix, alter, charge, and collect tolls, fees, rentals, and any other charges for the use of, or for services rendered by, any Authority facility. The Authority may impose, levy, and collect such other fees and charges as may assist in defraying the expenses of administration, maintenance, development, or improvement of the ports of the Commonwealth, their cargo handling facilities, and harbors.</p><p>1981, c. 589.</p>

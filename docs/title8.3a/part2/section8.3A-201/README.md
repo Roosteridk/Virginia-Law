@@ -1,0 +1,3 @@
+# § 8.3A-201 Negotiation.
+
+<p>(a) "Negotiation" means a transfer of possession, whether voluntary or involuntary, of an instrument by a person other than the issuer to a person who thereby becomes its holder.</p><p>(b) Except for negotiation by a remitter, if an instrument is payable to an identified person, negotiation requires transfer of possession of the instrument and its endorsement by the holder. If an instrument is payable to bearer, it may be negotiated by transfer of possession alone.</p><p>Code 1950, §§ 6-382 through 6-384; 1964, c. 219, § 8.3-202; 1992, c. 693.</p>

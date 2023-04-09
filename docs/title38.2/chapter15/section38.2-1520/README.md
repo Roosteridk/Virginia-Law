@@ -1,0 +1,3 @@
+# § 38.2-1520 Liquidation of alien insurers.
+
+<p>Proceedings in liquidation of the business of the United States branch of an alien insurer having trusteed assets in this Commonwealth may be instituted and conducted in the manner prescribed in this chapter for domestic insurers. However, only the assets of the business of the United States branch shall be included in the proceedings.</p><p>1952, c. 317, § 38.1-144; 1986, c. 562.</p>

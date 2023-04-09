@@ -1,0 +1,3 @@
+# § 63.2-322 Conducting hearings, issuing subpoenas, etc.
+
+<p>Local boards in the exercise and performance of their functions, duties and powers under the provisions of this title are authorized to hold and conduct hearings, issue subpoenas requiring the attendance of witnesses and the production of records, memoranda, papers and other documents, to administer oaths and to take testimony thereunder.</p><p>Code 1950, § 63-74; 1968, c. 578, § 63.1-58; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

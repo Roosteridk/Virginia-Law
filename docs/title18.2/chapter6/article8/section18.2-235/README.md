@@ -1,0 +1,3 @@
+# § 18.2-235 Regulating sale of merchandise made of gold.
+
+<p>Any person who marks or sells or offers to sell or dispose of or has in his possession with intent to sell or dispose of any article of merchandise made of gold of a less carat of fineness than is stamped or marked on it or of a less carat of fineness than is engraved, stamped or imprinted on the tag, card, box, label, package, wrapper, cover or other thing in or by which such article is packed, enclosed or otherwise prepared for sale or disposition shall be guilty of a Class 2 misdemeanor.</p><p>Code 1950, § 59.1-64; 1968, c. 439; 1975, cc. 14, 15.</p>

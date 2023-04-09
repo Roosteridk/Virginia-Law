@@ -1,0 +1,3 @@
+# § 8.01-248 Personal actions for which no other limitation is specified.
+
+<p>Every personal action accruing on or after July 1, 1995, for which no limitation is otherwise prescribed, shall be brought within two years after the right to bring such action has accrued.</p><p>Code 1950, § 8-24; 1954, c. 589; 1973, c. 385; 1977, c. 617; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0009'>9</a>.</p>

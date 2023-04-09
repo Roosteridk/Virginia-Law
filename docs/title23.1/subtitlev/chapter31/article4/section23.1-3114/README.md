@@ -1,0 +1,3 @@
+# § 23.1-3114 Executive director.
+
+<p>The board shall appoint an executive director of New College who shall supervise and manage New College. The executive director may, with the oversight of the board, employ such staff and faculty as are necessary to enable New College to perform its duties as set forth in this article and the bylaws established by the board.</p><p>2006, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0808'>808</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0842'>842</a>, § 23-231.35; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

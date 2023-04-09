@@ -1,0 +1,3 @@
+# § 18.2-405 What constitutes a riot; punishment.
+
+<p>Any unlawful use, by three or more persons acting together, of force or violence which seriously jeopardizes the public safety, peace or order is riot.</p><p>Every person convicted of participating in any riot shall be guilty of a Class 1 misdemeanor.</p><p>If such person carried, at the time of such riot, any firearm or other deadly or dangerous weapon, he shall be guilty of a Class 5 felony.</p><p>Code 1950, §§ 18.1-254.1, 18.1-254.2; 1968, c. 460; 1971, Ex. Sess., c. 251; 1975, cc. 14, 15.</p>

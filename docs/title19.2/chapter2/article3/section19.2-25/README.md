@@ -1,0 +1,3 @@
+# § 19.2-25 Power of court on appeal.
+
+<p>The court may dismiss the complaint or affirm the judgment, and make what order it sees fit as to the costs. If it award costs against the appellant, the recognizance which he may have given shall stand as security therefor. When there is a failure to prosecute the appeal, such recognizance shall remain in force, although there be no order of affirmance. On any appeal the court may require of the appellant a new recognizance if it see fit.</p><p>Any person committed to jail under this chapter may be discharged by the circuit court of the county or city on such terms as it may deem reasonable.</p><p>Code 1950, §§ 19.1-24, 19.1-25; 1960, c. 366; 1975, c. 495.</p>

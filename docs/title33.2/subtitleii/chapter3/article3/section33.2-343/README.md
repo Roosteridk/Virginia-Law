@@ -1,0 +1,3 @@
+# § 33.2-343 Return after withdrawal from secondary state highway system.
+
+<p>Any county that has withdrawn its roads from the secondary state highway system under the provisions of § 11 of Chapter 415 of the Acts of Assembly of 1932 shall have the right at any time to bring itself back within such secondary state highway system, provided the decision is approved by a majority of the qualified voters of such county voting in an election called for that purpose as provided in this article.</p><p>Code 1950, § 33-53; 1970, c. 322, § 33.1-85; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

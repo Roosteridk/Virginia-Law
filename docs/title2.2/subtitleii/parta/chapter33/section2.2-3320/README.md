@@ -1,0 +1,3 @@
+# § 2.2-3320 Month for Children in Virginia.
+
+<p>The month of May shall be designated as the "Month for Children" in Virginia to focus on children's special contributions to family, school, and community; to counter the manifold ills that afflict children in the Commonwealth, the nation, and the world; and to encourage the citizens of Virginia to rededicate themselves and to redouble their efforts to improve the lives and ensure the futures of children everywhere.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0432'>432</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0442'>442</a>, § 2.1-27.9; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

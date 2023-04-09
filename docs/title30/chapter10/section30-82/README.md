@@ -1,0 +1,3 @@
+# § 30-82 Use of consultants.
+
+<p>The Commission may employ on a consulting basis such investment, actuarial, and other professional or technical experts as may be reasonably necessary for the Commission to fulfill its responsibilities under this chapter. Such consultants shall provide, upon request, assistance to the House Committee on Appropriations and the Senate Committee on Finance and Appropriations on matters related to the Retirement System.</p><p>1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0003'>3</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0732'>732</a>.</p>

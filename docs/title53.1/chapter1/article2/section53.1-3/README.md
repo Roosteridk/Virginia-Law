@@ -1,0 +1,3 @@
+# § 53.1-3 Persons ineligible for appointment.
+
+<p>No director, officer or employee of an institution subject to the provisions of this title shall be appointed a member of the Board.</p><p>Code 1950, § 53-19.32; 1974, cc. 44, 45; 1982, c. 636.</p>

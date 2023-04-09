@@ -1,0 +1,3 @@
+# § 32.1-166 Agreements with federal agencies.
+
+<p>The Board may enter into an agreement with any appropriate federal agency to regulate and monitor the collection, transportation, conveyance, treatment and disposal of sewage from common carriers or at federal facilities pursuant to the Public Health Service Act, United States Public Law 78-410, and any other applicable federal law.</p><p>Code 1950, § 32-9; 1954, c. 646; 1964, c. 436; 1970, c. 645; 1972, c. 775; 1979, c. 711.</p>

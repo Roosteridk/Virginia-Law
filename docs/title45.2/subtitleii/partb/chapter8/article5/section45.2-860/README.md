@@ -1,0 +1,3 @@
+# § 45.2-860  Portable illumination.
+
+<p>A. For portable illumination underground, every miner shall use a permissible electric cap lamp that is worn on the person. Such requirement shall not preclude the use of any other type of permissible electric lamp, permissible flashlight, permissible safety lamp, or other permissible portable illumination device.</p><p>B. Any light bulb on an extension cable shall be guarded adequately.</p><p>Code 1950, § 45-33; 1954, c. 191; 1966, c. 594, §§ 45.1-20, 45.1-96; 1978, c. 120; 1982, c. 385; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.171; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

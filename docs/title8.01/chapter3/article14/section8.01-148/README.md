@@ -1,0 +1,3 @@
+# § 8.01-148 Right of defendant to resort to equity not affected.
+
+<p>Whether the defendant shall or shall not make or attempt a defense under §§ <a href='http://law.lis.virginia.gov/vacode/8.01-146/'>8.01-146</a> and <a href='http://law.lis.virginia.gov/vacode/8.01-147/'>8.01-147</a>, he shall not be precluded from resorting to equity for any relief to which he would have been entitled if such sections had not been enacted.</p><p>Code 1950, § 8-818; 1954, c. 333; 1977, c. 617.</p>

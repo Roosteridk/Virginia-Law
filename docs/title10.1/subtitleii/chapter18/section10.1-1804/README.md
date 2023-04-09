@@ -1,0 +1,3 @@
+# § 10.1-1804 Cooperation of state agencies, etc.
+
+<p>All state officers, agencies, commissions, departments, and institutions are directed to cooperate with and assist the Virginia Outdoors Foundation in carrying out its purpose, and to that end may accept any gift or conveyance of land or other property in the name of the Commonwealth from the Foundation. Such property shall be held in possession or used as provided in the terms of the trust, contract, or instrument by which it is conveyed.</p><p>1966, c. 525, § 10-166; 1988, c. 891.</p>

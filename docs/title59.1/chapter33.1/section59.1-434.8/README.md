@@ -1,0 +1,3 @@
+# § 59.1-434.8 Violations of chapter; penalty.
+
+<p>A. Any provider that knowingly and willfully violates any provision of this chapter is guilty of a Class 3 misdemeanor.</p><p>B. Any violation of the provisions of this chapter shall constitute a prohibited practice pursuant to the provisions of § <a href='/vacode/59.1-200/'>59.1-200</a> and shall be subject to any and all of the enforcement provisions of the Virginia Consumer Protection Act (§ <a href='/vacode/59.1-196/'>59.1-196</a> et seq.).</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0727'>727</a>.</p>

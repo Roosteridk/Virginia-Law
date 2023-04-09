@@ -1,0 +1,3 @@
+# § 58.1-349 Information returns prima facie evidence.
+
+<p>In any prosecution under § <a href='http://law.lis.virginia.gov/vacode/58.1-348/'>58.1-348</a>, any information return filed with the Department of Taxation or with the local commissioners of the revenue, as required by this chapter, may be admitted in evidence in any court in the Commonwealth as prima facie evidence of what is stated in said return.</p><p>Code 1950, § 58-151.075; 1971, Ex. Sess., c. 171; 1984, c. 675.</p>

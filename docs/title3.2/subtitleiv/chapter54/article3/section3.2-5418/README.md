@@ -1,0 +1,3 @@
+# § 3.2-5418 Limitation on applicability of chapter to matters regulated under federal acts.
+
+<p>The requirements of this chapter shall apply to persons, establishments, animals, and articles regulated under the Federal Meat Inspection Act or the Federal Poultry Products Inspection Act only to the extent provided for in said federal acts.</p><p>1970, c. 290, § 3.1-884.34; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

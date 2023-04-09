@@ -1,0 +1,3 @@
+# § 17.1-270 Officer to state fees, etc., on affidavit, deposition or report.
+
+<p>A notary or other officer returning affidavits or depositions of witnesses and a commissioner returning a report shall state at the foot thereof the fees therefor, to whom charged and, if paid, by whom.</p><p>Code 1950, § 14-109; 1964, c. 386, § 14.1-98; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

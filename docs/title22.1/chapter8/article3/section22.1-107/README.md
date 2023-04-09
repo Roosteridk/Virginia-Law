@@ -1,0 +1,3 @@
+# § 22.1-107 Glebe lands and church property; revenue and income therefrom.
+
+<p>All glebe lands and church property, or the proceeds thereof, which may be appropriated under § <a href='http://law.lis.virginia.gov/vacode/57-3/'>57-3</a> for education shall be vested in the school board of the school division within whose boundaries the property lies and shall be managed and applied by the school board according to the wishes of the donor. The revenue or income therefrom shall be applied as that portion of the Literary Fund which is allotted to such school division, subject to the same laws and penalties.</p><p>Code 1950, § 22-118; 1980, c. 559.</p>

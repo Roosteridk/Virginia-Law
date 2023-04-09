@@ -1,0 +1,3 @@
+# § 33.2-1516 Authority to obtain GARVEE approval.
+
+<p>The Board is authorized to seek any necessary approvals for the issuance of Notes as GARVEEs from the Federal Highway Administration and any successor or additional federal agencies.</p><p>2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0830'>830</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0868'>868</a>, § 33.1-23.19; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

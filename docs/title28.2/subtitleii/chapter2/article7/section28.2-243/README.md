@@ -1,0 +1,3 @@
+# § 28.2-243 Commission to promulgate regulations.
+
+<p>The Commission shall promulgate regulations governing the registration of commercial fishermen. The regulations shall include (i) the procedure and manner for application for registration as a commercial fisherman, (ii) the manner and form of mandatory harvest reports by commercial fishermen, and (iii) exceptions to the delay requirements pursuant to subsection C of § <a href='http://law.lis.virginia.gov/vacode/28.2-241/'>28.2-241</a> based on scientific, economic, biological, sociological and hardship factors.</p><p>1992, cc. 493, 503.</p>

@@ -1,0 +1,3 @@
+# § 6.2-2235 Applicability of chapter to internet transactions.
+
+<p>The provisions of this chapter shall apply to providers or brokers offering, obtaining, or making sales-based financing over the internet to or for a recipient, whether or not the provider or broker maintains a physical presence in the Commonwealth.</p><p>2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0516'>516</a>.</p>

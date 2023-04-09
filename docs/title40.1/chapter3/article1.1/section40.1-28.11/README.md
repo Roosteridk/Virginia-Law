@@ -1,0 +1,3 @@
+# § 40.1-28.11 Penalties.
+
+<p>Whoever knowingly and intentionally violates any provisions of this article shall be punished by a fine of not less than $10 nor more than $200.</p><p>1975, c. 530.</p>

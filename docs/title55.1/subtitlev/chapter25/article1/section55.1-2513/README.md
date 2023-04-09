@@ -1,0 +1,3 @@
+# § 55.1-2513 Property of business associations held in course of dissolution.
+
+<p>All intangible property distributable in the course of a voluntary or involuntary dissolution of a business association that remains unclaimed by the owner for more than one year after the date for specified final distribution is presumed abandoned.</p><p>1960, c. 330, § 55-210.7; 1981, c. 47; 1983, c. 190; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

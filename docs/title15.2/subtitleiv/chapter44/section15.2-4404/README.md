@@ -1,0 +1,3 @@
+# § 15.2-4404 Agricultural and forestal districts advisory committee.
+
+<p>Upon receipt of the first agricultural and forestal district application submitted as permitted under an ordinance adopted pursuant to this chapter, the local governing body shall establish an advisory committee as prescribed in § <a href='http://law.lis.virginia.gov/vacode/15.2-4304/'>15.2-4304</a>, which section shall apply mutatis mutandis. If an advisory committee has already been established pursuant to § <a href='http://law.lis.virginia.gov/vacode/15.2-4304/'>15.2-4304</a>, it shall carry out the duties prescribed in Chapter 43 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-4300/'>15.2-4300</a> et seq.) as well as in this chapter.</p><p>1982, c. 374, § 15.1-1513.5; 1997, c. 587.</p>

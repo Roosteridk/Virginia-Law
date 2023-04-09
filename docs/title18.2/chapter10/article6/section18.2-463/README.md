@@ -1,0 +1,3 @@
+# § 18.2-463 Refusal to aid officer in execution of his office.
+
+<p>If any person on being required by any sheriff or other officer refuse or neglect to assist him: (1) in the execution of his office in a criminal case, (2) in the preservation of the peace, (3) in the apprehending or securing of any person for a breach of the peace, or (4) in any case of escape or rescue, he shall be guilty of a Class 2 misdemeanor.</p><p>Code 1950, § 18.301; 1960, c. 358; 1975, cc. 14, 15.</p>

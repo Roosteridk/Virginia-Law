@@ -1,0 +1,3 @@
+# § 8.01-354 Writ of venire facias defined.
+
+<p>The term "writ of venire facias" for the purpose of this chapter shall be construed as referring to the list or lists of jurors made by the clerk from names drawn from the jury box and notice to appear in court served or mailed as provided herein shall be equivalent to summoning such juror in execution of a writ of venire facias.</p><p>Code 1950, § 8-208.24; 1973, c. 439; 1976, c. 617.</p>

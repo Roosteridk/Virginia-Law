@@ -1,0 +1,3 @@
+# § 10.1-404 Recommendation that a river be designated a scenic river.
+
+<p>A recommendation to the Governor and General Assembly that a river or section thereof be designated a scenic river shall be submitted with:</p><p>1. The views and recommendations of the State Water Control Board and other affected agencies; and</p><p>2. A report showing the proposed area and classification, the characteristics which qualify the river or section of river for designation, the general ownership and land use in the area, and the estimated costs of acquisition and administration in the Scenic Rivers System.</p><p>1970, c. 468, § 10-171; 1984, cc. 739, 750; 1988, c. 891.</p>

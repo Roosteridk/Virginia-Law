@@ -1,0 +1,3 @@
+# § 32.1-73 Failure to comply with provisions; grounds for revocation of license or permit.
+
+<p>The failure of any physician, nurse or midwife to comply with the provisions of § <a href='http://law.lis.virginia.gov/vacode/32.1-60/'>32.1-60</a>, § <a href='http://law.lis.virginia.gov/vacode/32.1-62/'>32.1-62</a> or § <a href='http://law.lis.virginia.gov/vacode/32.1-65/'>32.1-65</a> shall, in addition to any other penalty prescribed by law, constitute grounds for revocation of the license or permit of such physician, nurse or midwife by the board issuing such license or permit.</p><p>1979, c. 711.</p>

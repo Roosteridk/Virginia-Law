@@ -1,0 +1,3 @@
+# § 3.2-1701 Horse Industry Board membership terms.
+
+<p>The terms for appointments to the Horse Industry Board shall be for four years, with no at-large member serving more than two consecutive terms.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0497'>497</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0588'>588</a>, § <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0003'>3</a>.1-22.55; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2022, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0576'>576</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0577'>577</a>.</p>

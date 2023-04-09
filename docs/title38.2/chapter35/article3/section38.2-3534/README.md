@@ -1,0 +1,3 @@
+# § 38.2-3534 Notice of claim.
+
+<p>Each group accident and sickness insurance policy shall contain a provision that written notice of a claim shall be given to the insurer within twenty days after the occurrence or commencement of any loss covered by the policy. Failure to give notice within that time shall not invalidate or reduce any claim if it can be shown that notice was given as soon as reasonably possible.</p><p>1986, c. 562.</p>

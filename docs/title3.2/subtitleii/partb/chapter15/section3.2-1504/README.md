@@ -1,0 +1,3 @@
+# § 3.2-1504 Powers and duties of Cotton Board.
+
+<p>A. The Cotton Board shall have charge of the Virginia Cotton Fund established in the Virginia state treasury.</p><p>B. The Cotton Board may expend funds and enter into contracts in order to effectuate the purposes of this chapter.</p><p>C. The Cotton Board may cooperate with other state, regional, national, and international organizations in research concerning, education on, and promotion of cotton and may expend moneys from the Virginia Cotton Fund for such purpose.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0873'>873</a>, §§ 3.1-1095 to 3.1-1097; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,0 +1,3 @@
+# § 10.1-1123 Use of Fund; management, receipt and expenditure of moneys.
+
+<p>The Fund shall be used to defray the costs of timber sales, to develop forest management plans for state-owned lands pursuant to § <a href='http://law.lis.virginia.gov/vacode/10.1-1124/'>10.1-1124</a>, and to implement those plans. The Department shall have the authority to manage, receive and expend moneys for and from the Fund for these purposes.</p><p>1980, c. 525, § 10-45.4; 1981, c. 219; 1986, c. 567; 1988, c. 891.</p>

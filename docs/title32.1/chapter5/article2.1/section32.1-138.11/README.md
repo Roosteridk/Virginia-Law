@@ -1,0 +1,3 @@
+# § 32.1-138.11 Denial; revocation.
+
+<p>A. The Department may deny a certificate of registration to any applicant if, upon review of the application, it finds that the applicant proposing to conduct utilization review does not meet the standards required by this article or by any regulations promulgated pursuant to this article.</p><p>B. The Department may revoke a certificate of registration, or place the holder on probation with terms and conditions, if the holder demonstrates that it is unable or unwilling to meet the requirements of this chapter or of regulations adopted pursuant to this article.</p><p>1990, c. 826, § 38.2-5304; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0129'>129</a>.</p>

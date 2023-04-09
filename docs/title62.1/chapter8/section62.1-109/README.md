@@ -1,0 +1,3 @@
+# § 62.1-109 Board to examine petition and report to court.
+
+<p>Upon receipt of a copy of any such petition the Board shall examine the same and report thereon to the court upon the following matters:</p><p>(1) The average flow of the stream at the point from which water for storage will be taken.</p><p>(2) Whether the proposed project conflicts with any other proposed or likely developments on the watershed.</p><p>(3) The effect of the proposed impoundment on pollution abatement to be evidenced by a certified statement together with such other relevant comments as the Board desires to make.</p><p>(4) Any other relevant matters which the Board desires to place before the court.</p><p>Code 1950, § 62-94.6; 1956, c. 632; 1968, c. 659; 1977, c. 26.</p>

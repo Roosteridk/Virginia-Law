@@ -1,0 +1,3 @@
+# § 38.2-2002.1 Residual market mechanism; reinsurance pool.
+
+<p>Notwithstanding any other provision of law, insurers and rate service organizations participating in joint reinsurance pools organized for the purpose of establishing a residual market mechanism may, in connection with such purpose, act in cooperation with each other in the making of rates, rating systems, policy forms, underwriting rules, surveys, inspections, investigations, the furnishing of statistical or other information on losses and expenses, or the conduct of research.</p><p>1993, c. 985.</p>

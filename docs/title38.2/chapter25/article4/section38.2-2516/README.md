@@ -1,0 +1,3 @@
+# § 38.2-2516 Issuance of policies; bylaws as part of contract.
+
+<p>The directors of every mutual assessment property and casualty insurer shall issue insurance policies requiring the insurer to pay all losses or damages caused by the risk insured against during the time the policy is in force. Payment shall not exceed the amount insured. There shall be attached to or included in each of those policies the portion of the bylaws that constitute a part of the policy contract. Bylaws or their amendments that are not a part of the policy contract shall not affect the policy contract unless they are included as a suitable endorsement mailed or delivered to the policyholder.</p><p>Code 1950, § 38-529; 1952, c. 317, § 38.1-673; 1954, c. 161; 1986, c. 562.</p>

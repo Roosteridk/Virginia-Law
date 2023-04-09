@@ -1,0 +1,3 @@
+# § 6.2-1122 Meetings of board of directors.
+
+<p>The board of directors of every state savings institution shall hold meetings at least once in every calendar month. At any meeting a majority of the whole board shall be necessary for the lawful transaction of business, unless the stockholders or members, by bylaw, have fixed another number, which in the case of a state savings bank shall be not less than five, as a quorum. The Commission may allow less frequent meetings, but not less often than quarterly.</p><p>Code 1950, § 6-201.35; 1960, c. 402; 1966, c. 584, § 6.1-165; 1972, c. 796, § 6.1-195.42; 1985, c. 425, § 6.1-194.15; 1991, c. 230, § 6.1-194.118; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

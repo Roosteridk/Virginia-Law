@@ -1,0 +1,3 @@
+# § 3.2-4710 Certain activities exempt from article.
+
+<p>The provisions of this article shall not apply to: (i) the premises of any butcher, packer, or processor who receives livestock exclusively for immediate slaughter; (ii) farm sales; (iii) sales by 4-H clubs; or (iv) sales by livestock breeders' associations or by exposition societies.</p><p>Code 1950, § 3-534; 1966, c. 702, § 3.1-692; 1975, c. 505; 1977, c. 21; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

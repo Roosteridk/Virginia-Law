@@ -1,0 +1,3 @@
+# § 58.1-213 Assistants and clerks.
+
+<p>The Tax Commissioner may, subject to the provisions of the Virginia Personnel Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-2900/'>2.2-2900</a> et seq.), employ and remove such assistants and clerks as may from time to time be necessary, prescribe their duties and fix their compensation.</p><p>Code 1950, §§ 58-30, 58-441.42; 1966, c. 151; 1984, c. 675.</p>

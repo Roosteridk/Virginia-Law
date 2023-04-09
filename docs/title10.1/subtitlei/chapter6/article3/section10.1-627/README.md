@@ -1,0 +1,3 @@
+# § 10.1-627 Collection of tax or service charge; proceeds kept in special account; expenditures from such account.
+
+<p>The special tax or service charge levied shall be collected at the same time and in the same manner as county or city taxes with the proceeds therefrom to be kept in a separate account by the county or city treasurer identified by the official name of the watershed improvement district. Expenditures from such account may be made with the approval of the directors of the soil and water conservation district or districts on requisition from the chairman and the treasurer of the board of trustees of the watershed improvement district.</p><p>1956, c. 668, § 21-112.13; 1964, c. 512; 1970, c. 480; 1981, c. 156; 1988, c. 891.</p>

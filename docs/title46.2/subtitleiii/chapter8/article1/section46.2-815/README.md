@@ -1,0 +1,3 @@
+# § 46.2-815 Hauling certain cargoes through tunnels in violation of posted signs; penalty.
+
+<p>The hauling of any explosive, flammable, or other hazardous cargo, as prohibited by the Department of Transportation under the authority of §§ <a href='http://law.lis.virginia.gov/vacode/33.2-210/'>33.2-210</a> and <a href='http://law.lis.virginia.gov/vacode/33.2-300/'>33.2-300</a>, through any tunnel on any highway in the Commonwealth in violation of any lawfully posted sign shall constitute a Class 1 misdemeanor.</p><p>1984, c. 488, § 46.1-228.1; 1989, c. 727.</p>

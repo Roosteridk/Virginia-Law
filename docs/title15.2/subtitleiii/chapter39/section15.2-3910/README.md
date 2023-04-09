@@ -1,0 +1,3 @@
+# § 15.2-3910 Charter commission; appointment; compensation.
+
+<p>Upon entry of the order provided in subsection A of § <a href='http://law.lis.virginia.gov/vacode/15.2-3907/'>15.2-3907</a>, the governing body of the county shall appoint a charter commission, composed of not less than seven persons, to assist it in the preparation of a charter and form of government for the new city. The governing body shall fix the compensation of members of the charter commission, the amount of which shall be subject to approval by the circuit court for the county.</p><p>1979, c. 85, § 15.1-977.12; 1997, c. 587.</p>

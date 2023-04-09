@@ -1,0 +1,3 @@
+# § 24.2-403.1 (Effective October 1, 2022) Preregistration of persons 16 years of age or older.
+
+<p>Any person who is otherwise qualified and is 16 years of age or older, but who will not be 18 years of age on or before the day of the next general election, may preregister to vote. This preregistration shall not entitle a person 16 years of age or older to vote in any election except as provided in § <a href='/vacode/24.2-403/'>24.2-403</a>.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0217'>217</a>.</p>

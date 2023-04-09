@@ -1,0 +1,3 @@
+# § 58.1-3506.6 Notice of local tangible personal property tax relief program for the elderly and handicapped.
+
+<p>The treasurer of any county, city or town shall enclose written notice, in each tangible personal property tax bill, of the terms and conditions of any local tangible personal property tax relief program established in the jurisdiction pursuant to § <a href='http://law.lis.virginia.gov/vacode/58.1-3506.1/'>58.1-3506.1</a>. The treasurer shall also employ any other reasonable means necessary to notify residents of the county, city or town about the terms and conditions of the tangible personal property tax relief program for elderly and handicapped residents of the county, city or town.</p><p>1991, c. 646.</p>

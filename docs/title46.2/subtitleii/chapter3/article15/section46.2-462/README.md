@@ -1,0 +1,3 @@
+# § 46.2-462 New license or registration to person to whom proof surrendered.
+
+<p>Whenever any person to whom proof has been surrendered as provided in § <a href='http://law.lis.virginia.gov/vacode/46.2-460/'>46.2-460</a> applies for a driver's license or the registration of a motor vehicle, the application shall be refused unless the applicant reestablishes proof as required by this chapter.</p><p>Code 1950, § 46-482; 1958, c. 541, § 46.1-493; 1984, c. 780; 1989, c. 727.</p>

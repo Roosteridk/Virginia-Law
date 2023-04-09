@@ -1,0 +1,3 @@
+# § 27-36 Appointment, powers and duties of assistant fire marshals.
+
+<p>The governing body of any county, city or town, or its designee may appoint one or more assistants, who, in the absence of the fire marshal, shall have the powers and perform the duties of the fire marshal.</p><p>Code 1919, § 3140; 1970, c. 187; 1984, c. 644; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0236'>236</a>.</p>

@@ -1,0 +1,3 @@
+# § 38.2-230 Distributions by nonstock corporation.
+
+<p>No dividend or distribution of income, as used in § <a href='http://law.lis.virginia.gov/vacode/13.1-814/'>13.1-814</a>, shall be made to a member corporation of a corporation licensed under the provisions of this title unless the corporation has received approval by the Commission prior to the distribution. In approving the distribution, the Commission shall give consideration to the subscribers' or policyholders' best interest.</p><p>1985, c. 380, § 38.1-39.1; 1986, c. 562.</p>

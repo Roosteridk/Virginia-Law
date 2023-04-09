@@ -1,0 +1,3 @@
+# § 46.2-2099.4 Required certificate of fitness.
+
+<p>No sight-seeing carrier, unless otherwise exempted, shall transport passengers on any highway within the Commonwealth on an intrastate basis without first having obtained from the Department a certificate of fitness authorizing such operation.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0881'>881</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0889'>889</a>.</p>

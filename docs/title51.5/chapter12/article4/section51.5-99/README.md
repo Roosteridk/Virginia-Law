@@ -1,0 +1,3 @@
+# § 51.5-99 Appeal.
+
+<p>Any person aggrieved by any act of the Department or of its agents or employees or of its nominee in the administration of this article may appeal such act in accordance with Article 5 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4025/'>2.2-4025</a> et seq.) of the Administrative Process Act.</p><p>Code 1950, § 63-204.24; 1968, c. 578, § 63.1-165; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0573'>573</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

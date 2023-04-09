@@ -1,0 +1,3 @@
+# § 15.2-517 Executive may also be department head.
+
+<p>The county executive may, if the board requires, act as the director or head of any department or departments, the directors or heads of which are appointed by the board, providing he is otherwise eligible to head such department or departments.</p><p>Code 1950, § 15-286; 1962, c. 623, § 15.1-603; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 65.2-1002 Payment of tax.
+
+<p>Every insurance carrier required to make such return shall file the same with the Workers' Compensation Commission within thirty days after the close of the period covered thereby and shall at the same time pay into the state treasury a tax of $2.50 on each $100 of such premiums ascertained as provided in § <a href='http://law.lis.virginia.gov/vacode/65.2-1000/'>65.2-1000</a>, less returned premiums and reinsurance assumed.</p><p>Code 1950, § 65-122; 1968, c. 660, § 65.1-131; 1991, c. 355.</p>

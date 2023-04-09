@@ -1,0 +1,3 @@
+# § 10.1-108 Definitions.
+
+<p>As used in this article, unless the context requires a different meaning:</p><p>"Environment" means the natural, scenic, scientific and historic attributes of the Commonwealth.</p><p>"Exploration" means the examination and investigation of land for the purpose of locating and determining the extent of minerals, by excavating, drilling, boring, sinking shafts, sinking wells, driving tunnels, or other means.</p><p>"Mineral" means petroleum, natural gas, coal, ore, rock and any other solid chemical element or compound which results from the inorganic process of nature. For the purposes of this article, the word mineral shall not include timber.</p><p>1978, c. 835, § 10-17.113; 1988, c. 891.</p>

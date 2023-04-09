@@ -1,0 +1,3 @@
+# § 22.1-52 Application of article; single school board required.
+
+<p>The provisions of this article shall be applicable to each school division which is composed of less than one county or city or part or all of more than one county or city. The supervision of schools in each such school division shall be vested in a single school board.</p><p>Code 1950, § 22-100.1; 1954, c. 391; 1971, Ex. Sess., c. 161; 1980, c. 559.</p>

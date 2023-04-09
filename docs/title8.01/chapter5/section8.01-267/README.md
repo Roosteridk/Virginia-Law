@@ -1,0 +1,3 @@
+# § 8.01-267 Discretion of judge.
+
+<p>Both the decision of the court transferring or refusing to transfer an action under § <a href='http://law.lis.virginia.gov/vacode/8.01-265/'>8.01-265</a> and the decision of the court as to amount of costs awarded under § <a href='http://law.lis.virginia.gov/vacode/8.01-266/'>8.01-266</a> shall be within the sound discretion of the trial judge. However, nothing herein shall affect the right to assign as error a court's decision concerning venue.</p><p>1977, c. 617.</p>

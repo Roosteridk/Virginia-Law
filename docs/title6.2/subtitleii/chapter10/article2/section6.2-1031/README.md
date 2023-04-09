@@ -1,0 +1,3 @@
+# § 6.2-1031 Reports.
+
+<p>Each trust company and trust company holding company shall file statements of condition and other reports with the Commission in accordance with requirements established by regulation.</p><p>1993, c. 432, § 6.1-32.23; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0140'>140</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,0 +1,3 @@
+# § 51.1-811 Eligibility for retirement; retirement allowance.
+
+<p>Any member of a police department who has completed twenty years of service in the department and attained the age of fifty years may retire and receive the pension and benefits provided in this section. Upon retirement, a member shall receive a retirement allowance, payable to the member for life, equal to fifty percent of the member's annual salary, computed on the basis of the last three years of service and an additional amount equal to two percent of the member's salary for each year of service after the age of fifty and after twenty years of service in the department.</p><p>1940, p. 738; Michie Code 1942, § 3035i; Code 1950, § 51-120; 1990, c. 832.</p>

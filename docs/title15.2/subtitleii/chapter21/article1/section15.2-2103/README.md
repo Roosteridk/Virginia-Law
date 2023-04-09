@@ -1,0 +1,3 @@
+# § 15.2-2103 Award when no satisfactory bid received.
+
+<p>If, after such advertisements, no bid, or no satisfactory bid, is made, the council may advertise for further bids, and in case no bid at all is made, the council, if it sees fit to do so, may adopt an ordinance in the manner required by law granting such franchises, rights, leases or privileges to any person making application therefor.</p><p>Code 1950, § 15-731; 1962, c. 623, § 15.1-311; 1997, c. 587.</p>

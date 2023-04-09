@@ -1,0 +1,3 @@
+# § 38.2-2813 Commissions for placing and servicing risk with association.
+
+<p>For any medical malpractice insurance or incidental coverage policy issued by the association, the commission payable to the person that places the risk with the joint underwriting association or services the risk shall be limited to 5 percent of the annual premium for the policy or $1,000, whichever is less.</p><p>1976, c. 85, § 38.1-787; 1986, c. 562.</p>

@@ -1,0 +1,3 @@
+# § 18.2-220 Use of word "wholesale" or "wholesaler.".
+
+<p>Any person, firm, corporation or association who in any manner in any advertisement or offer for sale to the public of any merchandise, goods, commodity or thing uses the words "wholesale" or "wholesaler" to represent or describe the nature of its business shall be guilty of a Class 1 misdemeanor, unless such person, firm, corporation or association is actually engaged in selling at wholesale the merchandise, goods, commodity or thing advertised or offered for sale.</p><p>Code 1950, § 59.1-48; 1968, c. 439; 1975, cc. 14, 15.</p>

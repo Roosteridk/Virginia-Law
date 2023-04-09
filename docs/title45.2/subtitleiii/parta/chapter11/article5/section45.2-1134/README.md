@@ -1,0 +1,3 @@
+# § 45.2-1134  Mine rescue and first aid stations.
+
+<p>The Director is hereby authorized to purchase, equip, and operate for the use of the Department any mine rescue and first aid stations he determines necessary for the adequate provision of mine rescue and recovery services at all mines in the Commonwealth.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0390'>390</a>, § 45.1-161.292:40; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

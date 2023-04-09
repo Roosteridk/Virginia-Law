@@ -1,0 +1,3 @@
+# § 38.2-5115 Binding effect of orders issued in U.S. District Court.
+
+<p>An order issued by any district court of the United States enjoining a risk retention group from soliciting or selling insurance, or operating, in any state, or in all states or in any territory or possession of the United States upon a finding that such a group is in a hazardous financial condition shall be enforceable in the courts of the state.</p><p>1987, c. 585.</p>

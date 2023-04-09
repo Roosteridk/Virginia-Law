@@ -1,0 +1,3 @@
+# § 18.2-485 Conspiring to incite one race to insurrection against another race.
+
+<p>If any person conspire with another to incite the population of one race to acts of violence and war against the population of another race, he shall, whether such acts of violence and war be made or not, be guilty of a Class 4 felony.</p><p>Code 1950, § 18.1-422; 1960, c. 358; 1975, cc. 14, 15.</p>

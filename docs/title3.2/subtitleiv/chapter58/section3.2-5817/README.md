@@ -1,0 +1,3 @@
+# § 3.2-5817 Suspension or revocation of license.
+
+<p>The Commissioner is authorized to suspend or revoke the license of any licensed public weighmaster: (i) when he is satisfied, after a hearing upon 10 days' notice to the licensee, that the said licensee has violated any provision of this chapter or of any regulation of the Commissioner affecting licensed public weighmasters; or (ii) when a licensed public weighmaster has been convicted in any appropriate court of violating any provision of this chapter or of any regulation issued under authority of this chapter.</p><p>Code 1950, § 3-709.18; 1962, c. 126; 1966, c. 702, § 3.1-987; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

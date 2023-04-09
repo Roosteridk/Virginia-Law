@@ -1,0 +1,3 @@
+# § 30-19.03:2 Legislative summaries.
+
+<p>Any legislative summary associated with a bill, joint resolution or resolution, including any summary appearing on the face of such legislation, shall not constitute a part of the legislation considered, agreed to, or enacted and shall not be used to indicate or infer legislative intent.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0375'>375</a>.</p>

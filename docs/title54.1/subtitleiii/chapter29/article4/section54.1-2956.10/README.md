@@ -1,0 +1,3 @@
+# § 54.1-2956.10 Requisite training and educational achievements of acupuncturists.
+
+<p>The Board shall establish a testing program to determine the training and educational achievements of acupuncturists, or the Board may accept other evidence such as successful completion of a national certification examination, experience, or completion of an approved training program in lieu of testing and shall establish this as a prerequisite for approval of the licensee's application.</p><p>1991, c. 643; 1993, c. 753.</p>

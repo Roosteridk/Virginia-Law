@@ -1,0 +1,3 @@
+# § 32.1-138.8 Consultation with health regulatory boards.
+
+<p>If in the administration of this article a question concerning compliance with standards of practice governing any health care profession arises pursuant to Subtitle III (§ <a href='http://law.lis.virginia.gov/vacode/54.1-2400/'>54.1-2400</a> et seq.) of Title 54.1, the Commissioner or his designee shall consult with the appropriate health regulatory board within the Department of Health Professions.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0129'>129</a>.</p>

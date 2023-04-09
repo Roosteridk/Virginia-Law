@@ -1,0 +1,3 @@
+# § 38.2-1845.21 Authority of Commission to delegate certain functions.
+
+<p>In order to assist in the performance of its duties, the Commission may contract with nongovernmental entities, including the NAIC, any affiliates, or subsidiaries that the NAIC oversees, to perform any ministerial functions, including licensing examination administration, the collection of fees related to public adjuster licensing, and such other functions as the Commission may deem appropriate.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0734'>734</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0735'>735</a>.</p>

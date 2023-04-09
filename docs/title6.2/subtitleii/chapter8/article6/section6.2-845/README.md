@@ -1,0 +1,3 @@
+# § 6.2-845 Additional branches.
+
+<p>An out-of-state bank that has established or acquired a branch in the Commonwealth under this article may establish or acquire additional branches in the Commonwealth to the same extent that any bank, whose home state is the Commonwealth, may establish or acquire a branch in the Commonwealth under applicable federal and state law.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0301'>301</a>, § 6.1-44.11; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

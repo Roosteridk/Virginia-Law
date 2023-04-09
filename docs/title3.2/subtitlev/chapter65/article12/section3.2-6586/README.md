@@ -1,0 +1,3 @@
+# § 3.2-6586 Dog injuring or killing other companion animals.
+
+<p>The owner of any companion animal that is injured or killed by a dog shall be entitled to recover damages consistent with the provisions of § <a href='http://law.lis.virginia.gov/vacode/3.2-6585/'>3.2-6585</a> from the owner of such dog in an appropriate action at law if: (i) the injury occurred on the premises of the companion animal's owner; and (ii) the owner of the offending dog did not have the permission of the companion animal's owner for the dog to be on the premises at the time of the attack.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0841'>841</a>, § 3.1-796.127:1; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

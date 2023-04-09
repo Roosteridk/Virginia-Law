@@ -1,0 +1,3 @@
+# § 66-25.1:1 Juvenile academic and career training.
+
+<p>The Director or his designee shall assess, in accordance with criteria established pursuant to § <a href='http://law.lis.virginia.gov/vacode/66-25.1:3/'>66-25.1:3</a>, whether a juvenile committed to the Department is an appropriate candidate for participation in a work release program, apprenticeship program, job enterprise program, or any other work experience opportunity located at or through the juvenile correctional center where the juvenile is placed.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0648'>648</a>.</p>

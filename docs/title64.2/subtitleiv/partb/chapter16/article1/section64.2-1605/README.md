@@ -1,0 +1,3 @@
+# § 64.2-1605 Meaning and effect of power of attorney.
+
+<p>The meaning and effect of a power of attorney is determined by the law of the jurisdiction indicated in the power of attorney and, in the absence of an indication of jurisdiction, by the law of the jurisdiction in which the power of attorney was executed.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0455'>455</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0632'>632</a>, § 26-78; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

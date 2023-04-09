@@ -1,0 +1,3 @@
+# § 10.1-1423 Notice to public required.
+
+<p>Pertinent portions of this article shall be posted along the public highways of the Commonwealth, at public highway entrances to the Commonwealth, in all campgrounds and trailer parks, at all entrances to state parks, forest lands and recreational areas, at all public beaches, and at other public places in the Commonwealth where persons are likely to be informed of the existence and content of this article and the penalties for violating its provisions.</p><p>1987, c. 234, § 10-277.11; 1988, c. 891.</p>

@@ -1,0 +1,3 @@
+# § 2.2-4302 Implementation.
+
+<p>This chapter may be implemented by ordinances, resolutions or regulations consistent with this chapter and with the provisions of other applicable law promulgated by any public body empowered by law to undertake the activities described in this chapter. Any such public body may act by and through its duly designated or authorized officers or employees.</p><p>1982, c. 647, § 11-36; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,0 +1,3 @@
+# § 55.1-1261 (Expires July 1, 2024) Eviction Diversion Pilot Program; administration.
+
+<p>Administrative oversight of the implementation of the Program and training for judges who preside over general district courts participating in the Program shall be conducted by the Executive Secretary of the Supreme Court of Virginia (Executive Secretary).</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0355'>355</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0356'>356</a>, § 55-248.40:2; 2022 c. <a href='https://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0797'>797</a>.</p>

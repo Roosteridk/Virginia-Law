@@ -1,0 +1,3 @@
+# § 64.2-513 Effect of death, resignation, or removal of sole executor.
+
+<p>Upon the death, resignation, or removal of the sole surviving executor under any last will, administration of the estate of the testator not already administered may be granted, with the will annexed, to any person the court deems appropriate.</p><p>Code 1950, § 64-129; 1968, c. 656, § 64.1-137; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

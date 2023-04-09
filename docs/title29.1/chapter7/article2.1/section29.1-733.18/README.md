@@ -1,0 +1,3 @@
+# § 29.1-733.18 Effect of missing or incorrect information.
+
+<p>Except as otherwise provided in § <a href='http://law.lis.virginia.gov/vacode/8.9A-337/'>8.9A-337</a>, a certificate of title or other record required or authorized by this article is effective even if it contains incorrect information or does not contain required information.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0787'>787</a>.</p>

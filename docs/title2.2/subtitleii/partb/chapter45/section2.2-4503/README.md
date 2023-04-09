@@ -1,0 +1,3 @@
+# § 2.2-4503 Investments by Fairfax County finance director.
+
+<p>Notwithstanding any provisions of law to the contrary or any limitation or restriction contained in any such law, the director of finance of Fairfax County may invest, redeem, sell, exchange, and reinvest unexpended or surplus moneys, in any fund or account of which he has custody or control in bankers' acceptances.</p><p>1980, c. 50, § 2.1-328.2; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

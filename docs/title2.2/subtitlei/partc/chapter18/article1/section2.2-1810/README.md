@@ -1,0 +1,3 @@
+# § 2.2-1810 State Treasurer to keep accounts with depositories.
+
+<p>The State Treasurer shall keep accounts on the books of his office with the different depositories, on which accounts balances shall be struck monthly, showing the amount in bank to the credit of the State Treasurer at the end of each month.</p><p>Code 1950, § 2-157; 1966, c. 677, § 2.1-189; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

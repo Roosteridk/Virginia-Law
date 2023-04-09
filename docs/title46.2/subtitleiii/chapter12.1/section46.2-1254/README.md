@@ -1,0 +1,3 @@
+# § 46.2-1254 Photo identification.
+
+<p>Any law-enforcement officer or private security guard acting pursuant to § <a href='http://law.lis.virginia.gov/vacode/46.2-1243/'>46.2-1243</a> may request to examine the driver's license, state identification card, or other form of photo identification of any person using disabled parking privileges afforded by this chapter.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0783'>783</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0904'>904</a>.</p>

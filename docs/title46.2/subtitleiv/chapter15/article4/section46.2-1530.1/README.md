@@ -1,0 +1,3 @@
+# § 46.2-1530.1 Purchaser's on-line systems filing fee; collection and remittance.
+
+<p>Any dealer licensed under this chapter who uses a Department-approved system of remote electronic filing of documentation necessary to obtain a certificate of title or registration for the purchaser of a vehicle shall collect from the purchaser and remit to the Department-approved electronic systems provider any fees charged for the transaction by the systems provider. Any such fee shall be listed separately on the buyer's order and identified as "on-line systems filing fee."</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0997'>997</a>.</p>

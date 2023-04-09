@@ -1,0 +1,3 @@
+# § 3.2-3203 Meetings; quorum.
+
+<p>The Commission shall meet on the call of the chairman or three of its members whenever he or they may deem necessary, and at such place as he or they may designate. Three members of the Commission shall constitute a quorum.</p><p>Code 1950, §§ 3-347.2, 3-351; 1966, cc. 526, 702, §§ 3.1-426.2, 3.1-429; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,0 +1,3 @@
+# § 32.1-50.2 Administration of tuberculin purified protein derivative by nurses; policies and guidelines.
+
+<p>The Department shall issue policies and guidelines governing the possession and administration of tuberculin purified protein derivative (PPD) by registered nurses and licensed practical nurses pursuant to § <a href='http://law.lis.virginia.gov/vacode/54.1-3408/'>54.1-3408</a>.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0515'>515</a>.</p>

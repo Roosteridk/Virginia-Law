@@ -1,0 +1,3 @@
+# § 8.9A-202 Title to collateral immaterial.
+
+<p>Except as otherwise provided with respect to consignments or sales of accounts, chattel paper, payment intangibles, or promissory notes, the provisions of this title with regard to rights and obligations apply whether title to collateral is in the secured party or the debtor.</p><p>1964, c. 219, § 8.9-202; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1007'>1007</a>.</p>

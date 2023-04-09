@@ -1,0 +1,3 @@
+# § 37.2-847 Duty of attorney for Commonwealth.
+
+<p>In any case to test the legality of the detention of a person pursuant to this article, whether by habeas corpus or otherwise, the attorney for the Commonwealth of the county or city in which the hearing is held shall, on request of the director of the facility or other institution having or claiming custody of the person, represent the Commonwealth in opposition to any such petition, appeal, or procedure for the discharge of the person from custody.</p><p>Code 1950, § 37-125; 1950, p. 916; 1968, c. 477, § 37.1-104.2; 1972, c. 639; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

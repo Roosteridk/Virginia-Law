@@ -1,0 +1,3 @@
+# § 10.1-1449 Siting Dedicated Revenue Fund.
+
+<p>There is hereby established in the state treasury a special dedicated revenue fund to be designated as the "Siting Dedicated Revenue Fund," which shall consist of fees and other payments made by applicants to process applications for site certification as provided in § <a href='http://law.lis.virginia.gov/vacode/10.1-1434/'>10.1-1434</a>, and other moneys appropriated thereto, gifts, grants, and the interest accruing thereon.</p><p>1986, c. 602, § 10-304.1; 1988, c. 891.</p>

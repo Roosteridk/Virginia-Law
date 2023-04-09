@@ -1,0 +1,3 @@
+# § 45.2-765  Lighting.
+
+<p>A. Lights shall be provided as needed in or on a surface mine structure, enclosure, or other facility.</p><p>B. Each road, path, or walk outside of a structure, enclosure, or other facility shall be kept free from obstructions and shall be well-illuminated if it is used at night.</p><p>1966, c. 594, § 45.1-38; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.237; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

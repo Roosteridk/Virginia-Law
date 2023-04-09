@@ -1,0 +1,3 @@
+# § 15.2-709 Investigation of county officers or employees.
+
+<p>The board may inquire into the official conduct of any office, officer or employee under its control, and investigate the accounts, receipts, disbursements and expenses of any such office, officer or employee. For these purposes it may subpoena county employees as witnesses, administer oaths and require the production of books, papers and other evidence in their control. If any such witness fails or refuses to obey any such lawful board order, he shall be deemed guilty of a misdemeanor.</p><p>Code 1950, § 15-352.4; 1952, c. 162; 1962, c. 623, § 15.1-681; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 25.1-303 Effort to acquire property by purchase.
+
+<p>An authorized condemnor shall comply with the applicable provisions of § <a href='http://law.lis.virginia.gov/vacode/25.1-204/'>25.1-204</a> and subdivision A 1 of § <a href='http://law.lis.virginia.gov/vacode/25.1-417/'>25.1-417</a> before exercising its authority to acquire property by condemnation under the procedure set forth in this chapter.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

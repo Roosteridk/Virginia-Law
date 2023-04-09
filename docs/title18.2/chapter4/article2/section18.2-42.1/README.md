@@ -1,0 +1,3 @@
+# § 18.2-42.1 Acts of violence by mob.
+
+<p>Any and every person composing a mob which commits an act of violence as defined in § <a href='http://law.lis.virginia.gov/vacode/19.2-297.1/'>19.2-297.1</a> shall be guilty of that act of violence and, upon conviction, shall be punished as provided in the section of this title which makes that act of violence unlawful.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0623'>623</a>.</p>

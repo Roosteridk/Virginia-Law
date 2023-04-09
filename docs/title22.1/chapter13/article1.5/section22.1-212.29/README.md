@@ -1,0 +1,3 @@
+# § 22.1-212.29 Purpose.
+
+<p>The Board shall promulgate regulations for the designation of School Divisions of Innovation in which the local school board in the local school division so designated shall, pursuant to a plan of innovation, be exempted from selected regulatory provisions and be permitted to adopt alternative policies for school administrators, teachers, and staff to meet the diverse needs of students.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0760'>760</a>.</p>

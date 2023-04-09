@@ -1,0 +1,3 @@
+# § 6.2-1921 Criminal penalty.
+
+<p>Any person required by this chapter to have a license who sells money orders or engages in the business of money transmission without first being licensed as required by § <a href='http://law.lis.virginia.gov/vacode/6.2-1901/'>6.2-1901</a> is guilty of a Class 1 misdemeanor.</p><p>1974, c. 578, § 6.1-375; 1976, c. 531; 1990, c. 259; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0889'>889</a>; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0372'>372</a>; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0346'>346</a>, 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0794'>794</a>.</p>

@@ -1,0 +1,3 @@
+# § 3.2-1820 Commissioner may permit sale of substandard potatoes and experimental varieties.
+
+<p>The Commissioner may permit the sale of seed potatoes that do not meet the standards of approved seed potatoes when he deems necessary. The Commissioner may permit the sale of experimental varieties of potatoes for propagation purposes. He may delegate the authority granted in this section to the Board.</p><p>Code 1950, § 3-228.9; 1950, p. 1030; 1966, cc. 686, 702, § 3.1-293; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>, § 3.2-4109; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

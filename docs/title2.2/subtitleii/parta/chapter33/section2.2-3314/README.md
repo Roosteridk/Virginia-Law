@@ -1,0 +1,3 @@
+# § 2.2-3314 Bill of Rights Day.
+
+<p>The fifteenth day of December of each year shall be designated and known as the "Bill of Rights Day" in recognition of the ratification of the first ten amendments to the United States Constitution.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0383'>383</a>, § 2.1-27.10; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

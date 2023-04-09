@@ -1,0 +1,3 @@
+# § 29.1-505 Penalty for violation of regulations.
+
+<p>It shall be a misdemeanor to violate any regulation promulgated pursuant to this title. Any person violating such a regulation shall be guilty of a Class 3 misdemeanor unless another penalty is specified.</p><p>Code 1950, § 29-129; 1987, c. 488; 1988, c. 19.</p>

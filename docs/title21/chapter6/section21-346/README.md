@@ -1,0 +1,3 @@
+# § 21-346 Drainage record.
+
+<p>The clerk of the circuit court in which the petition is filed shall provide a suitable book to be known as the drainage record, in which he shall record every petition, motion, order, report, judgment or finding of the court in every drainage transaction that may come before it in such manner as to make a complete and continuous record of the case. Copies of all maps, profiles, minutes of meeting, receipts and other pertinent information are to be furnished by the board of viewers to the clerk of the circuit court and marked by the clerk "official copies," which shall be kept on file by him in his office, and one other copy shall be pasted or otherwise attached to his record book.</p><p>Code 1919, § 1758; 1954, c. 642.</p>

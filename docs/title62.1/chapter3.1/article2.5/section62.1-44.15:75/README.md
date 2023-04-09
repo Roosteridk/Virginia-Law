@@ -1,0 +1,3 @@
+# § 62.1-44.15:75 Local governments outside of Tidewater Virginia may adopt provisions.
+
+<p>Any local government, although not a part of Tidewater Virginia, may employ the criteria developed pursuant to § <a href='http://law.lis.virginia.gov/vacode/62.1-44.15:72/'>62.1-44.15:72</a> and may incorporate protection of the quality of state waters into their comprehensive plans, zoning ordinances, and subdivision ordinances consistent with the provisions of this article.</p><p>1988, cc. 608, 891, § 10.1-2110; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0756'>756</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0793'>793</a>.</p>

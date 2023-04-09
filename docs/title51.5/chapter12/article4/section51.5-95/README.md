@@ -1,0 +1,3 @@
+# § 51.5-95 Regulations for administration of article.
+
+<p>The Commissioner is authorized to adopt regulations for the administration of this article which shall, among other things, provide for the acquisition and disposition of the vending stand and other business enterprise equipment and other assets used in the operations pursuant to this article.</p><p>Code 1950, § 63-204.20; 1968, c. 578, § 63.1-161; 1992, c. 755; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

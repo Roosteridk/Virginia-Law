@@ -1,0 +1,3 @@
+# § 22.1-89.2 Financial records retention and disposition schedule.
+
+<p>School boards shall retain and dispose of financial records in accordance with the regulations concerning financial records retention and disposition promulgated pursuant to the Virginia Public Records Act (§ <a href='http://law.lis.virginia.gov/vacode/42.1-76/'>42.1-76</a> et seq.) by the State Library Board. However, school boards shall not be required to retain any such records pertaining to nonappropriated school activity funds for longer than five years.</p><p>1990, c. 451.</p>

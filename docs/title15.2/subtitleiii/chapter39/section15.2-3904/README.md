@@ -1,0 +1,3 @@
+# § 15.2-3904 Parties.
+
+<p>In any proceedings instituted under the provisions of this chapter, any voter or property owner or person having an interest in the county may by petition become a party to the proceedings. Any locality having a common boundary or other person affected by the proceedings may appear and shall be made a party to the case.</p><p>1979, c. 85, § 15.1-977.5; 1997, c. 587.</p>

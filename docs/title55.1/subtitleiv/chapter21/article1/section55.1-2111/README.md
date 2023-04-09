@@ -1,0 +1,3 @@
+# § 55.1-2111 Remedies to be liberally administered.
+
+<p>A. The remedies provided by this chapter shall be liberally administered to the end that the aggrieved party is put in a position as good as its position had the other party fully performed. However, consequential, special, or punitive damages may not be awarded except as specifically provided in this chapter or by other rule of law.</p><p>B. Any right or obligation declared by this chapter is enforceable by judicial proceeding.</p><p>1982, c. 277, § 55-436; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

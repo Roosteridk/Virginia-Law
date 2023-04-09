@@ -1,0 +1,3 @@
+# § 8.01-463 Enforcement of lien when judgment does not exceed $25,000.
+
+<p>If the amount of the judgment does not exceed $25,000, exclusive of interest and costs, no bill to enforce the lien, pursuant to § <a href='/vacode/8.01-462/'>8.01-462</a>, thereof shall be entertained if the real estate is the judgment debtor's primary residence.</p><p>Code 1950, § 8-392; 1977, c. 617; 2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0091'>91</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0092'>92</a>.</p>

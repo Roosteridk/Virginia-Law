@@ -1,0 +1,3 @@
+# § 15.2-2004 Streets, highways, etc., outside a city or town.
+
+<p>A city or town may construct, improve and maintain, or aid in the construction, improvement and maintenance of streets, roads, highways, bridges and underpasses outside the city or town in order to facilitate public travel and traffic into and out of the city or town or any property owned by it outside its boundaries.</p><p>Code 1950, § 15-77.54; 1958, c. 328; 1962, c. 623, § 15.1-890; 1997, c. 587.</p>

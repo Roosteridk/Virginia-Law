@@ -1,0 +1,3 @@
+# § 2.2-2104 Compensation and expenses.
+
+<p>Compensation and expenses to members of state boards, commissions, councils and other similar bodies shall be paid in accordance with Chapter 28 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-2800/'>2.2-2800</a> et seq.) of this title.</p><p>1980, c. 728, § 2.1-20.3; 1981, c. 181; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0790'>790</a>; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

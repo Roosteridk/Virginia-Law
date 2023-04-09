@@ -1,0 +1,3 @@
+# § 62.1-44.23:1 Intervention of Commonwealth in actions involving surface water withdrawals.
+
+<p>The Board, in representing the public's interest, shall have the authority and standing to intervene as an interested party in any civil action, including actions both within and without the Commonwealth, pertaining to the withdrawal of any of the surface waters of the Commonwealth.</p><p>1989, c. 218.</p>

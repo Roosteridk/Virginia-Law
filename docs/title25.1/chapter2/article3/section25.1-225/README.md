@@ -1,0 +1,3 @@
+# § 25.1-225 Abandonment of proceedings after entry upon property.
+
+<p>If the petitioner enters upon the property under this section and does any work thereon, or causes any injury or damage to such property, it shall not thereafter be entitled, without the consent of the owner, to abandon the proceedings for the condemnation thereof, but shall conduct the condemnation proceedings with reasonable dispatch to final judgment.</p><p>Code 1919, § 4362; 1924, p. 60; Code 1950, §§ 25-3, 25-4; 1962, c. 426, § 25-46.8; 1977, c. 394; 1979, c. 494; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

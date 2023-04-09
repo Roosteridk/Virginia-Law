@@ -1,0 +1,3 @@
+# § 23.1-2617 Hampton Roads and Eastern Shore Agricultural Research and Extension Centers established.
+
+<p>The Hampton Roads and Eastern Shore Agricultural Research and Extension Centers (Centers) are established as a component of the Station and shall be retained as active research and extension centers.</p><p>1985, c. 505, § 23-155.01; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

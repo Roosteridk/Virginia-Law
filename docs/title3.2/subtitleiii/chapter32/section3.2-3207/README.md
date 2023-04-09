@@ -1,0 +1,3 @@
+# § 3.2-3207 Defining market areas.
+
+<p>The Commission may define a market area and define and fix the limits of the territorial area where milk shall be produced to supply a market area. Any producers, producer-distributors, or their successors currently shipping milk to any market may continue to do so until they voluntarily discontinue shipping to the designated milk market.</p><p>Code 1950, § 3-362; 1966, c. 702, § 3.1-441; 1974, c. 467; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

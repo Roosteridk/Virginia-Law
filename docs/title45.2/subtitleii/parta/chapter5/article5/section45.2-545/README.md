@@ -1,0 +1,3 @@
+# § 45.2-545  Mine rescue and first aid stations.
+
+<p>The Director may purchase, equip, and operate for the use of the Department mine rescue and first aid stations as he determines necessary for the adequate provision of mine rescue and recovery services at all mines in the Commonwealth.</p><p>1975, c. 432, § 45.1-33.1; 1984, c. 590; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.67; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

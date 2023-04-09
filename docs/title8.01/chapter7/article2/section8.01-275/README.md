@@ -1,0 +1,3 @@
+# § 8.01-275 When action or suit not to abate for want of form; what defects not to be regarded.
+
+<p>No action or suit shall abate for want of form where the motion for judgment or bill of complaint sets forth sufficient matter of substance for the court to proceed upon the merits of the cause. The court shall not regard any defect or imperfection in the pleading, whether it has been heretofore deemed mispleading or insufficient pleading or not, unless there be omitted something so essential to the action or defense that judgment, according to law and the very right of the cause, cannot be given.</p><p>Code 1950, §§ 8-102, 8-109; 1954, c. 333; 1977, c. 617.</p>

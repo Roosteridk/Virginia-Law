@@ -1,0 +1,3 @@
+# § 8.01-488 When several writs of fieri facias, how satisfied.
+
+<p>Of writs of fieri facias, that which was first delivered to the officer, though two or more be delivered on the same day, shall be first levied and satisfied, and when several such executions are delivered to the officer at the same time they shall be satisfied ratably. But if an indemnifying bond be required by the officer as a prerequisite to a sale, and the same to be given by some of the creditors and not by others, and the officer sells under the protection of such bond, the proceeds of the sale shall be paid to the creditors giving the bond in the order in which their liens attached.</p><p>Code 1950, § 8-421; 1977, c. 617.</p>

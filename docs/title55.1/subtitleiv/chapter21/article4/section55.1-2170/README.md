@@ -1,0 +1,3 @@
+# § 55.1-2170 Labeling of promotional material.
+
+<p>No promotional material may be displayed or delivered to prospective purchasers that describes or portrays improvements that are not in existence, unless the description or portrayal of the improvement in the promotional material is conspicuously labeled or identified either as "MUST BE BUILT" or "NEED NOT BE BUILT."</p><p>1982, c. 277, § 55-493; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

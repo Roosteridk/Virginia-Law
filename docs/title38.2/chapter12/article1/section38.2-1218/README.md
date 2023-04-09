@@ -1,0 +1,3 @@
+# § 38.2-1218 Effect of judgment against reciprocal.
+
+<p>Any judgment against a reciprocal based upon legal process duly served as provided in this chapter shall be binding upon the reciprocal and upon each of the reciprocal's subscribers as their respective interests may appear, in an amount not exceeding their respective contingent assessment liabilities.</p><p>1952, c. 317, § 38.1-708; 1986, c. 562.</p>

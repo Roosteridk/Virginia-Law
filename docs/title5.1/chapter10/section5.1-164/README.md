@@ -1,0 +1,3 @@
+# § 5.1-164 Marketability of bonds.
+
+<p>The Authority is authorized and empowered to exercise all or any part or combination of the powers herein granted; to make covenants other than and in addition to the covenants herein expressly authorized, of like or different character; and to make such covenants and to do any and all such acts and things as may be necessary or convenient or desirable in order to secure its bonds or, in the absolute discretion of the Authority, as will tend to make the bonds more marketable, notwithstanding that such covenants, acts or things may not be enumerated herein.</p><p> 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0342'>342</a>.</p>

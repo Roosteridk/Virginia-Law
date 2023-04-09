@@ -1,0 +1,3 @@
+# § 15.2-1635.1 Maximum total compensation for clerk of the court in certain counties.
+
+<p>In Arlington, Fairfax, Fauquier, Loudoun, and Rappahannock Counties, wherein the clerk of the circuit court serves also as the clerk of the general district court and juvenile and domestic relations district court under the provisions of § <a href='/vacode/16.1-69.38/'>16.1-69.38</a>, such clerk may be paid a sum not to exceed $5,000, by local supplement, for each of the two district courts served.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

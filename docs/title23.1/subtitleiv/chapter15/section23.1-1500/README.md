@@ -1,0 +1,3 @@
+# § 23.1-1500 Corporate name; name of the University.
+
+<p>A. The board of visitors of George Mason University (the board) is a corporation under the name and style of "The Rector and Visitors of George Mason University" and has, in addition to its other powers, all the corporate powers given to corporations by the provisions of Title 13.1 except those powers that are confined to corporations created pursuant to Title 13.1. The board shall at all times be under the control of the General Assembly.</p><p>B. The institution shall be known as George Mason University (the University).</p><p>1972, c. 550, § 23-91.24; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

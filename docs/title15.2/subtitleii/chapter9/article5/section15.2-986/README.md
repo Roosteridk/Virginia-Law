@@ -1,0 +1,3 @@
+# § 15.2-986 Broadband services; education.
+
+<p>Any locality or other public body of the Commonwealth may appropriate public funds, personal property, real estate, or donations to any local school board, school division, public school, charitable institution or association, or private provider of broadband services for the purposes of promoting, facilitating, and encouraging the development, expansion, provision, and operation of broadband services for educational purposes, as described in § <a href='/vacode/22.1-79.9/'>22.1-79.9</a>, and may promote, encourage, support, and take any action that a local school board is authorized to take under that section.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0496'>496</a>.</p>

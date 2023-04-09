@@ -1,0 +1,3 @@
+# § 8.2-102 Scope; certain security and other transactions excluded from this title.
+
+<p>Unless the context otherwise requires, this title applies to transactions in goods; it does not apply to any transaction which although in the form of an unconditional contract to sell or present sale is intended to operate only as a security transaction nor does this title impair or repeal any statute regulating sales to consumers, farmers or other specified classes of buyers.</p><p>1964, c. 219.</p>

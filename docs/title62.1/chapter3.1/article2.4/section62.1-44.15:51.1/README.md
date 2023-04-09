@@ -1,0 +1,3 @@
+# § 62.1-44.15:51.1 (For contingent effective date, see Acts 2016, cc. 68 and 758, as amended by Acts 2017, c. 345) Applicability.
+
+<p>The requirements of this article shall apply in any locality that has chosen not to establish a Virginia Erosion and Stormwater Management Program (VESMP) pursuant to subdivision B 3 of § <a href='http://law.lis.virginia.gov/vacode/62.1-44.15:27/'>62.1-44.15:27</a>. Each such locality shall be required to adopt and administer a Board-approved VESCP.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0068'>68</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0758'>758</a>.</p>

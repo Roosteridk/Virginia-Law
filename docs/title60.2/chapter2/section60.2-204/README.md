@@ -1,0 +1,3 @@
+# § 60.2-204 Base period.
+
+<p>"Base period" means the first four of the last five completed calendar quarters immediately preceding the first day of the claimant's benefit year; however, if the claimant has earned insufficient wages in the first four of the last five completed calendar quarters to become eligible for benefits, then such claimant's "base period" shall be the four most recent completed calendar quarters immediately preceding the first day of the claimant's benefit year.</p><p>Code 1950, § 60-6.1; 1956, c. 440; 1968, c. 738, § 60.1-6; 1974, c. 466; 1986, c. 480; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0383'>383</a>.</p>

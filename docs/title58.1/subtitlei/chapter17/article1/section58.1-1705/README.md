@@ -1,0 +1,3 @@
+# § 58.1-1705 Disposition of proceeds.
+
+<p>All moneys collected pursuant to this article, minus the necessary expenses of the Department of Taxation for the administration of this tax, as certified by the Commissioner, shall be deposited into the Litter Control and Recycling Fund established pursuant to § <a href='http://law.lis.virginia.gov/vacode/10.1-1422.01/'>10.1-1422.01</a>.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0417'>417</a>.</p>

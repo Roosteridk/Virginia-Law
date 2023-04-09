@@ -1,0 +1,3 @@
+# § 32.1-191 Secretary of commission.
+
+<p>A mosquito control commission shall appoint its secretary either from the membership of such commission or otherwise and shall fix his compensation. The commission may require bond of its secretary in excess of the funds which may come into his hands and conditioned upon the faithful application of such funds.</p><p>Code 1950, § 32-382; 1979, c. 711.</p>

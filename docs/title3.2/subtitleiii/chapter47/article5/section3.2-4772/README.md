@@ -1,0 +1,3 @@
+# § 3.2-4772 Certificate establishing condition, quality, grade to be furnished.
+
+<p>Every cotton gin shall, at the time of ginning, obtain a sample of each bale of ginned cotton for the purpose of determining condition, quality, and grade. Unless such sample is graded by the U.S. Department of Agriculture, the burden of proof shall be on the cotton gin to prove the accuracy of its accounting as to any transaction that may be questioned by the consignor or the Commissioner, relating to condition, quality or grade of ginned cotton.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0584'>584</a>, § 3.1-722.40; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

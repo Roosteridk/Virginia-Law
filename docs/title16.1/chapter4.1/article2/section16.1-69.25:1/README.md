@@ -1,0 +1,3 @@
+# § 16.1-69.25:1 Judge shall order bill of particulars; time for motion.
+
+<p>Upon request of either party, a judge of a district court may direct the filing of a written bill of particulars at any time before trial and within a period of time specified in the order so requiring. Motions for bills of particulars in criminal cases before general district courts shall be made before a plea is entered and at least seven days before the day fixed for trial.</p><p>1980, c. 338; 1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0482'>482</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0495'>495</a>.</p>

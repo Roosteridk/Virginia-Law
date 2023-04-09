@@ -1,0 +1,3 @@
+# § 15.2-5117 Same; insurance for employees.
+
+<p>An authority may establish retirement, group life insurance, and group accident and sickness insurance plans or systems for its employees in the same manner as localities are permitted under §§ <a href='http://law.lis.virginia.gov/vacode/51.1-801/'>51.1-801</a> and <a href='http://law.lis.virginia.gov/vacode/51.1-802/'>51.1-802</a>.</p><p>Code 1950, § 15-764.12; 1950, p. 1318; 1954, c. 554; 1958, cc. 400, 402; 1960, c. 430; 1962, cc. 130, 623, § 15.1-1250; 1968, cc. 355, 556; 1970, cc. 444, 617; 1972, c. 161; 1979, c. 280; 1980, c. 159; 1981, c. 610; 1983, c. 422; 1984, c. 554; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0477'>477</a>; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 62.1-161 Application by private corporation.
+
+<p>Any private corporation hereafter organized under the laws of this Commonwealth for the purpose of establishing, operating and maintaining a foreign-trade zone in accordance with the act of Congress referred to in § <a href='http://law.lis.virginia.gov/vacode/62.1-160/'>62.1-160</a> is likewise authorized to make application for the privilege of establishing, operating and maintaining a foreign-trade zone in accordance with the act of Congress.</p><p>Code 1950, § 62-120; 1968, c. 659.</p>

@@ -1,0 +1,3 @@
+# § 46.2-728.3 Special license plates displaying the official insect of the Commonwealth; fees.
+
+<p>On receipt of an application, the Commissioner shall issue license plates displaying the official insect of the Commonwealth as designated by § <a href='http://law.lis.virginia.gov/vacode/1-510/'>1-510</a>.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0183'>183</a>; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0747'>747</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

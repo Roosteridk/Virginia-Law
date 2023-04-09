@@ -1,0 +1,3 @@
+# § 67-104 (Repealed effective October 1, 2021) Nuclear energy; considered a clean energy source.
+
+<p>For the purposes of the Commonwealth Clean Energy Policy as set out in § <a href='/vacode/67-101.1/'>67-101.1</a>, in any clean energy initiative or carbon-free energy initiative undertaken, overseen, regulated, or permitted by the Department, nuclear energy shall be considered to be a clean energy source.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0960'>960</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0327'>327</a>.</p>

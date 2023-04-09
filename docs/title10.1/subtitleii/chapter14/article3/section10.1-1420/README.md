@@ -1,0 +1,3 @@
+# § 10.1-1420 Litter bag.
+
+<p>The Department may design and produce a litter bag bearing the state anti-litter symbol and a statement of the penalties prescribed for littering. Such litter bags may be distributed by the Department of Motor Vehicles at no charge to the owner of every licensed vehicle in the Commonwealth at the time and place of the issuance of a license or renewal thereof. The Department may make the litter bags available to the owners of watercraft in the Commonwealth and may also provide the litter bags at no charge to tourists and visitors at points of entry into the Commonwealth and at visitor centers to the operators of incoming vehicles and watercraft.</p><p>1987, c. 234, § 10-277.7; 1988, c. 891.</p>

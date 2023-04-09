@@ -1,0 +1,3 @@
+# § 55.1-1313 Notice of uncorrected violations.
+
+<p>If a landlord does not remedy a violation of an ordinance that pertains to the health and safety of tenants in a manufactured home park within seven days of receiving notice from the locality of such violation, the locality shall notify tenants of the manufactured home park who are affected by the violation. Such notification may consist of posting the notice of violation in a conspicuous place in the manufactured home park or mailing copies of the notice to affected tenants.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0734'>734</a>, § 55-248.49:1; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

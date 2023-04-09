@@ -1,0 +1,3 @@
+# § 58.1-3985 Section 58.1-3984 not applicable to applications for correction of assessments for local improvements.
+
+<p>Section <a href='http://law.lis.virginia.gov/vacode/58.1-3984/'>58.1-3984</a> shall not apply to applications for correction of assessments for local improvements provided for in Article 2 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-2404/'>15.2-2404</a> et seq.) of Chapter 24 of Title 15.2 of this Code or the charter of any city or town.</p><p>Code 1950, § 58-1145.1; 1964, c. 469; 1984, c. 675.</p>

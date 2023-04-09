@@ -1,0 +1,3 @@
+# § 2.2-3206 Review of program.
+
+<p>The Senate Committee on Finance and Appropriations and the House Committee on Appropriations shall periodically review the transitional severance program established by this chapter and report their findings to the Governor and the members of the General Assembly every three years beginning on July 1, 1998.</p><p>1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0152'>152</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0811'>811</a>, § 2.1-116.26; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

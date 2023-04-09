@@ -1,0 +1,3 @@
+# § 15.2-3233 Adoption of agreement.
+
+<p>After the Commission has advised the governing bodies of the two jurisdictions of its determination, and regardless of whether its determination is favorable, such bodies may adopt the agreement. If the Commission's determination is unfavorable, however, the governing bodies shall first conduct an additional joint public hearing advertised as provided in § <a href='http://law.lis.virginia.gov/vacode/15.2-3232/'>15.2-3232</a>. Adoption of the agreement by both governing bodies will operate permanently to divest the town of its right to become a city.</p><p>1979, c. 85, § 15.1-1058.3; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 57-22 Conveyance of land to trustees or local governing body for cemetery use.
+
+<p>A. Land may be conveyed to trustees, not less than five nor more than nine in number, for the use of any city, town, county, magisterial district, cemetery association, ecclesiastical or other society, as a cemetery. It shall be held by such trustees and their successors for such use and no other.</p><p>B. Land may also be conveyed to a county, city or town, in the name of the county, city or town, for use as a cemetery. Any perpetual care fund associated with the land or cemetery shall also be transferred upon such conveyance.</p><p>Code 1919, § 50; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0132'>132</a>.</p>

@@ -1,0 +1,3 @@
+# § 54.1-1804 Submission of fingerprints.
+
+<p>Each applicant for licensure as a polygraph examiner, each polygraph examiner intern, and each applicant for licensure to operate any other detection device shall submit his fingerprints to the Department on a form provided by the Department.</p><p>1975, c. 522, § 54-921; 1988, c. 765; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0625'>625</a>.</p>

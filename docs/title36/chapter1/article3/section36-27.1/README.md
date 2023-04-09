@@ -1,0 +1,3 @@
+# § 36-27.1 Damages to leasehold interests in the City of Waynesboro.
+
+<p>In considering the damages to be allowed under § <a href='/vacode/36-27/'>36-27</a> for property located in the City of Waynesboro, the court shall instruct the commissioners that damages shall be allowable for injury to leasehold interests in property adjoining, and operated jointly with, the land being condemned.</p><p>1966, c. 383; 1975, c. 575.</p>

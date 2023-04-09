@@ -1,0 +1,3 @@
+# § 32.1-309.4 Determination of hazardous human remains.
+
+<p>The Commissioner, in consultation with the Governor, shall have the authority to determine if human remains are hazardous to the public health. If the Commissioner determines that such remains are hazardous, the Commonwealth, with direction from the Commissioner, shall be charged with the safe handling, identification, and disposition of the remains and shall erect a memorial, as appropriate, at any disposition site.</p><p>For the purposes of this section, "hazardous," with regard to human remains, means those remains contaminated with an infectious, radiologic, chemical, or other dangerous agent.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0228'>228</a>.</p>

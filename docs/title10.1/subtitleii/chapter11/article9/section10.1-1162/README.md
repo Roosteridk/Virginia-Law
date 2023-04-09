@@ -1,0 +1,3 @@
+# § 10.1-1162 Definitions.
+
+<p>As used in this article unless the context requires a different meaning:</p><p>"Diameter" means the distance through a tree at the point of average thickness as measured from outside of bark to outside of bark at a point on a trunk ten inches above the general ground level.</p><p>"Person" means any landowner, owner of timber, owner of timber rights, sawmill operator, sawmill owner, veneer wood operator, pulpwood contractor, or any person engaged in the business of severing timber from the stump.</p><p>"Tree" means any tree of a currently commercially valuable species which is six inches or more in diameter.</p><p>Code 1950, § 10-75; 1952, c. 417; 1956, c. 75; 1988, c. 891.</p>

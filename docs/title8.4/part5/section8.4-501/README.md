@@ -1,0 +1,3 @@
+# § 8.4-501 Handling of documentary drafts; duty to send for presentment and to notify customer of dishonor.
+
+<p>A bank that takes a documentary draft for collection shall present or send the draft and accompanying documents for presentment and upon learning that the draft has not been paid or accepted in due course shall seasonably notify its customer of the fact even though it may have discounted or bought the draft or extended credit available for withdrawal as of right.</p><p>1964, c. 219; 1992, c. 693.</p>

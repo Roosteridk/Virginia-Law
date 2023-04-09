@@ -1,0 +1,3 @@
+# § 62.1-132.13 Cooperation with federal agencies.
+
+<p>The Authority is empowered to cooperate with, and to act as an agent for, the United States of America or any agency, department, corporation or instrumentality thereof in the maintenance, development, improvement, and use of harbors and seaports of the Commonwealth, and in any other matter within the purposes, duties, and powers of the Authority.</p><p>1981, c. 589.</p>

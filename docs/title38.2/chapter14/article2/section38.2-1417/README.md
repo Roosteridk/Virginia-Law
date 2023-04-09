@@ -1,0 +1,3 @@
+# § 38.2-1417 Canadian corporate obligations.
+
+<p>A domestic insurer may invest in obligations issued, assumed or guaranteed by any solvent corporation created or existing under the laws of Canada, or any province of Canada. However, those obligations shall meet the standards specified in § <a href='http://law.lis.virginia.gov/vacode/38.2-1421/'>38.2-1421</a> for obligations of any business entity created or existing under the laws of the United States or any state.</p><p>1983, c. 457, § 38.1-217.20; 1986, c. 562; 1992, c. 588.</p>

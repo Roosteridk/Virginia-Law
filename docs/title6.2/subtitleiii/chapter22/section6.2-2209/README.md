@@ -1,0 +1,3 @@
+# § 6.2-2209 Retention of books, accounts, and records.
+
+<p>Every licensee shall maintain in its licensed offices such books, accounts, and records as the Commission may reasonably require in order to determine whether such licensee is complying with the provisions of this chapter and rules and regulations adopted in furtherance thereof. Such books, accounts, and records shall be maintained apart and separate from any other business in which the licensee is involved. Such records relating to title loans shall be retained for at least three years after final payment is made on any title loan.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0477'>477</a>, § 6.1-489.</p>

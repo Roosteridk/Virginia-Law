@@ -1,0 +1,3 @@
+# § 18.2-362 Person marrying when spouse is living; penalty; venue.
+
+<p>If any married person, during the life of such person's spouse, marries another person in the Commonwealth, or, if the marriage with such other person takes place outside of the Commonwealth and the persons cohabitate in the Commonwealth, he is guilty of a Class 4 felony. Venue for a violation of this section may be in the county or city where the subsequent marriage occurred or where the parties to the subsequent marriage cohabited.</p><p>Code 1950, § 20-41; 1975, cc. 14, 15; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0099'>99</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0900'>900</a>.</p>

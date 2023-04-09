@@ -1,0 +1,3 @@
+# § 53.1-107 Organization of board; annual report.
+
+<p>The regional jail or jail farm board shall elect a chairman and secretary.</p><p>The board shall submit annually to the participating political subdivisions a report showing its activities; a budget, which shall include all revenues, expenditures and employee compensation schedules; and other similar data.</p><p>Code 1950, § 53-206.4; 1956, c. 681; 1982, c. 636.</p>

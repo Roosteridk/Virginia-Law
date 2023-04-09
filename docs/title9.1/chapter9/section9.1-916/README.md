@@ -1,0 +1,3 @@
+# § 9.1-916 Requests for Registry data by Virginia Criminal Sentencing Commission; confidentiality.
+
+<p>Upon request of the Virginia Criminal Sentencing Commission, the Department of State Police shall provide the Commission with Registry data in an electronic format. The Commission may use the data for research, evaluative or statistical purposes only and shall ensure the confidentiality and security of the data.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0391'>391</a>.</p>

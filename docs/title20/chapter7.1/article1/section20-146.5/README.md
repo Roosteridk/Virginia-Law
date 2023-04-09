@@ -1,0 +1,3 @@
+# § 20-146.5 Effect of child custody determination.
+
+<p>A child custody determination made by a court of this Commonwealth that had jurisdiction under this act binds all persons who have been served in accordance with the laws of this Commonwealth or notified in accordance with § <a href='http://law.lis.virginia.gov/vacode/20-146.7/'>20-146.7</a> or who have submitted to the jurisdiction of the court, and who have been given an opportunity to be heard. As to those persons, the determination is conclusive as to all decided issues of law and fact except to the extent the determination is modified by a court properly having jurisdiction.</p><p>1979, c. 229, § 20-135; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0305'>305</a>.</p>

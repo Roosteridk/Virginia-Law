@@ -1,0 +1,3 @@
+# § 59.1-215 Enforcement; civil penalty; restraint of violations.
+
+<p>A. For the purpose of enforcing this chapter, the Attorney General is hereby authorized to conduct investigations and hold hearings and compel the attendance of witnesses and the production of accounts, books and documents by the issuance of subpoenas.</p><p>B. The Attorney General shall enforce the provisions of this chapter, and shall have the right to recover a civil penalty not to exceed $10,000 for each and every violation of any provisions of this chapter, and to seek equitable relief to restrain any such violation.</p><p>1977, c. 649; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0759'>759</a>.</p>

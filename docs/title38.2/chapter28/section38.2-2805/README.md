@@ -1,0 +1,3 @@
+# § 38.2-2805 Medical and hospital advisory committees.
+
+<p>The Commission shall appoint a medical advisory committee to the association composed of five physicians licensed to practice medicine in this Commonwealth and a hospital advisory committee composed of five representatives of hospitals licensed in this Commonwealth.</p><p>1976, c. 85, § 38.1-779; 1986, c. 562.</p>

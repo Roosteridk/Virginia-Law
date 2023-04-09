@@ -1,0 +1,3 @@
+# § 53.1-40.6 Periodic review of prisoner for purposes of retention.
+
+<p>The director of a hospital or facility shall require a review of the progress of each prisoner admitted to such hospital or facility to be conducted at intervals of thirty days, sixty days, and ninety days after admission of such prisoner and every six months thereafter to determine whether such prisoner should be retained at such hospital or facility. A record shall be kept of the findings of each review in the hospital's or facility's file on such prisoner.</p><p>1988, c. 873.</p>

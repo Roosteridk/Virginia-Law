@@ -1,0 +1,3 @@
+# § 46.2-409 Certain abstracts of conviction to be prima facie evidence of conviction.
+
+<p>In any administrative hearing conducted by the Commissioner or his designee pursuant to this article, an abstract showing a conviction of the violation of any of the provisions of this title, submitted as provided by § <a href='http://law.lis.virginia.gov/vacode/46.2-383/'>46.2-383</a> by the court in which the conviction was had, shall be prima facie evidence that the person named in the abstract was duly convicted of the violation, and the burden shall be on any person challenging the propriety of the conviction to show that the conviction was improper.</p><p>1966, c. 183, § 46.1-436.1; 1989, c. 727.</p>

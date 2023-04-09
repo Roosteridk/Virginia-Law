@@ -1,0 +1,3 @@
+# § 38.2-3512 Notice; waiver.
+
+<p>The acknowledgment by any insurer of the receipt of notice given under any individual accident and sickness insurance policy, the furnishing of forms for filing proofs of loss, the acceptance of such proofs, or the investigation of any claim thereunder shall not operate as a waiver of any of the rights of the insurer in defense of any claim arising under the policy.</p><p>1952, c. 317, § 38.1-358; 1986, c. 562.</p>

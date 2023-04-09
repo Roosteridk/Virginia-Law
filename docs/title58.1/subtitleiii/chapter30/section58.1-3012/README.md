@@ -1,0 +1,3 @@
+# § 58.1-3012 Counties, cities and towns may change rate of tax during calendar year.
+
+<p>The governing body of any county, city or town which levies taxes on real estate, tangible personal property and machinery and tools on a calendar-year basis is authorized and empowered to change the rate of its tax on real estate, tangible personal property and machinery and tools during any calendar year, provided such change is made prior to the date on which the personal property and land books are delivered to the treasurer of the applicable county, city or town.</p><p>Code 1950, § 58-851.8; 1974, c. 293; 1984, c. 675; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0354'>354</a>.</p>

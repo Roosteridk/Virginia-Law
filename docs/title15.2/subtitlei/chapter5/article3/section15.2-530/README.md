@@ -1,0 +1,3 @@
+# § 15.2-530 Powers and duties of sheriff.
+
+<p>The sheriff shall exercise the powers conferred and perform the duties imposed upon sheriffs by general law. He shall have the custody of, and be charged with the duty of feeding and caring for, all prisoners confined in the county jail. He shall perform such other duties the board imposes upon him.</p><p>Code 1950, § 15-291; 1952, c. 413; 1958, c. 112; 1962, c. 623, § 15.1-608; 1972, c. 360; 1977, c. 584; 1984, c. 722; 1997, c. 587.</p>

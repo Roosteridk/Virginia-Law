@@ -1,0 +1,3 @@
+# § 3.2-4219 Materially false statements.
+
+<p>Any tobacco product manufacturer, stamping agent, or importer of cigarettes, or any officer, employee, or agent of any such entity, who knowingly and with the intent to defraud, mislead, or deceive makes any materially false statement in any record required by this chapter to be kept, or in any document required by this chapter to be filed with the Attorney General is guilty of a violation of § <a href='http://law.lis.virginia.gov/vacode/18.2-498.3/'>18.2-498.3</a>. Each document filed containing one or more false statements shall constitute a separate offense.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0847'>847</a>.</p>

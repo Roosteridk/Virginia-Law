@@ -1,0 +1,3 @@
+# § 38.2-1517 What included in annual report of Commission.
+
+<p>The Commission shall include in its annual report the names of all insurers against which delinquency proceedings are pending under this chapter, and the names and addresses of any receivers of the insurers. The report shall show whether or not the insurers have resumed business or have been liquidated, and shall contain any other matter that will inform the policyholders, creditors, stockholders, members and the public of the current status of the proceeding regarding each insurer.</p><p>Code 1950, § 38-142; 1952, c. 317, § 38.1-141; 1986, c. 562.</p>

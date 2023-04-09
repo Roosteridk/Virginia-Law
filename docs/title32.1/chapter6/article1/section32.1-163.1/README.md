@@ -1,0 +1,3 @@
+# § 32.1-163.1 Personal liability of sanitarians defined.
+
+<p>A sanitarian while acting within the scope of his employment in approving or denying applications for permits for onsite sewage disposal systems or while performing checks of or reviewing and approving field evaluations completed by licensed onsite soil evaluators shall be subject to personal liability only for his gross negligence or intentional misconduct.</p><p>1986, c. 331; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0747'>747</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0090'>90</a>.</p>

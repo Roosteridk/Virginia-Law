@@ -1,0 +1,3 @@
+# § 15.2-5431.21 Exemption from taxation.
+
+<p>No authority shall be required to pay any taxes or assessments upon any project acquired or constructed by it under the provisions of this chapter or upon the income therefrom. The bonds issued under the provisions of this chapter, their transfer and the income therefor, including any profit made on their sale, shall be free from taxation within the Commonwealth.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0643'>643</a>.</p>

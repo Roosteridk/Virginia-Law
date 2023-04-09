@@ -1,0 +1,3 @@
+# § 10.1-603.35 Loans and grants for regional projects, etc.
+
+<p>In approving loans and grants, the Department shall give preference to loans and grants for projects that will utilize private industry in the operation and maintenance of such projects where a material savings in cost can be shown over public operation and maintenance; will serve two or more local governments to encourage regional cooperation; or both.</p><p>2022, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0739'>739</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0782'>782</a>.</p>

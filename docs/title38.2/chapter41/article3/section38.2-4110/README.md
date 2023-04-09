@@ -1,0 +1,3 @@
+# § 38.2-4110 Incorporation of fraternal benefit societies.
+
+<p>Domestic fraternal benefit societies may be incorporated under the provisions of Article 3 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-818/'>13.1-818</a> et seq.) of Chapter 10 of Title 13.1, as modified by the provisions of this title, and, except as otherwise provided in this title, shall be subject to all the general restrictions and shall have all the general powers imposed and conferred by law upon companies so incorporated.</p><p>Code 1950, §§ 38-264, 38.1-579; 1952, c. 317, § 38.1-638.11; 1956, c. 431; 1968, c. 654; 1986, c. 562.</p>

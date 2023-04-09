@@ -1,0 +1,3 @@
+# § 55.1-2824 Recovery of amount due in connection with division fence.
+
+<p>Any sum that may be due and payable by one adjoining landowner to another in pursuance of any of the provisions of §§ <a href='/vacode/55.1-2822/'>55.1-2822</a> and <a href='/vacode/55.1-2823/'>55.1-2823</a> may be recovered by action or warrant in debt, according to the jurisdictional amount.</p><p>Code 1950, § 8-890; 1977, c. 624, § 55-320; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

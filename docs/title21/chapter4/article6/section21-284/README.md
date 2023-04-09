@@ -1,0 +1,3 @@
+# § 21-284 Payments by county, city or town.
+
+<p>Each county, city, town or other public body shall promptly pay to any commission all fees, rents and charges which the commission may charge to it as owner or lessee or tenant of real estate in accordance with § <a href='http://law.lis.virginia.gov/vacode/21-260/'>21-260</a> and shall provide for the payment thereof in the same manner as other obligations of such county, city, town or public body.</p><p>1946, p. 362; Michie Suppl. 1946, § 1560iii21.</p>

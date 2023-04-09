@@ -1,0 +1,3 @@
+# § 56-234.2 Review of rates.
+
+<p>The Commission shall review the rates of any public utility on an annual basis when, in the opinion of the Commission, such annual review is in the public interest, provided that the rates of a public utility subject to § <a href='http://law.lis.virginia.gov/vacode/56-585.1/'>56-585.1</a> shall be reviewed in accordance with subsection A of that section.</p><p>1972, c. 537; 2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0888'>888</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0933'>933</a>.</p>

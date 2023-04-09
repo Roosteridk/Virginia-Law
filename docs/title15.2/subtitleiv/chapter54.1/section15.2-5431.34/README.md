@@ -1,0 +1,3 @@
+# § 15.2-5431.34 Use of state land.
+
+<p>The Commonwealth hereby consents to the use of all lands above or under water and owned or controlled by it which are necessary for the construction, improvement, operation or maintenance of any project; except that the use of any portion between the right-of-way limits of any primary or secondary highway in this Commonwealth shall be subject to the approval of the Commissioner of Highways.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0643'>643</a>.</p>

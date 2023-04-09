@@ -1,0 +1,3 @@
+# § 46.2-648 Registration of logging vehicles.
+
+<p>On receipt of an application on a form prescribed by him, the Commissioner shall register in a separate category trucks, tractor trucks, trailers, and semitrailers used exclusively in connection with logging operations. For the purposes of this section, the term "logging" shall mean the harvesting of timber and transportation from forested sites to places of sale.</p><p>Fees for the registration of vehicles under this section shall be the same as those ordinarily charged for the type of vehicle being registered.</p><p>1985, c. 185, § 46.1-105.12; 1989, c. 727.</p>

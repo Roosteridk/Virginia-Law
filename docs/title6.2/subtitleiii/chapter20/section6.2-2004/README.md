@@ -1,0 +1,3 @@
+# § 6.2-2004 Investigation of applications.
+
+<p>The Commissioner may make such investigations as he deems necessary to determine if the applicant has complied with all applicable provisions of law and regulations adopted thereunder.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0790'>790</a>, § 6.1-363.6; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

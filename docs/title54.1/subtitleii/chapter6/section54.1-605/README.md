@@ -1,0 +1,3 @@
+# § 54.1-605 Taxation of auctioneer.
+
+<p>An auctioneer may not have a local license tax imposed by any county, city, or town except that in which his office is maintained. If a branch office is maintained elsewhere in Virginia, a local license tax may be imposed by the county, city or town in which the branch office is located, pursuant to §§ <a href='http://law.lis.virginia.gov/vacode/58.1-3707/'>58.1-3707</a> and <a href='http://law.lis.virginia.gov/vacode/58.1-3709/'>58.1-3709</a>.</p><p>1982, c. 538, § 54-824.15; 1988, c. 765.</p>

@@ -1,0 +1,3 @@
+# § 32.1-13.1 Health policy responsibilities.
+
+<p>The Board of Health may direct the Department to inform it regarding health care policy and financing concerns through such studies as the Board may deem necessary and appropriate to be conducted. The Board may make recommendations concerning health care policy to the Governor, the General Assembly, and the Secretary of Health and Human Resources.</p><p>1989, c. 73; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0083'>83</a>.</p>

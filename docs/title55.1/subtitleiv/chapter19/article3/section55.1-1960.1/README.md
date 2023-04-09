@@ -1,0 +1,3 @@
+# § 55.1-1960.1 Limitation of smoking in condominium.
+
+<p>Except to the extent that the condominium instruments provide otherwise, the executive board may establish reasonable rules that restrict smoking in the condominium, including rules that prohibit smoking in the common elements and within units. Rules adopted pursuant to this section may be enforced in accordance with § <a href='/vacode/55.1-1959/'>55.1-1959</a>.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0131'>131</a>.</p>

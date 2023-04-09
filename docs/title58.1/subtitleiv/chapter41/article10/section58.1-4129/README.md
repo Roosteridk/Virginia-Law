@@ -1,0 +1,3 @@
+# § 58.1-4129 Conspiracies and attempts to commit violations; penalty.
+
+<p>A. Any person who conspires, confederates, or combines with another, either within or outside the Commonwealth, to commit a felony prohibited by this chapter is guilty of a Class 6 felony.</p><p>B. Any person who attempts to commit any act prohibited by this article is guilty of a criminal offense and shall be punished as provided in § <a href='/vacode/18.2-26/'>18.2-26</a>, <a href='/vacode/18.2-27/'>18.2-27</a>, or <a href='/vacode/18.2-28/'>18.2-28</a>, as appropriate.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1197'>1197</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1248'>1248</a>.</p>

@@ -1,0 +1,3 @@
+# § 9.1-140.01 Exemption from training requirements; central station dispatchers employed by central stations certified by a Nationally Recognized Testing Laboratory.
+
+<p>Central station dispatchers employed by a central station that is certified by a Nationally Recognized Testing Laboratory (NRTL) shall be exempt from the training requirements of this article. For the purposes of this section, "Nationally Recognized Testing Laboratory" means the designation given by the federal Occupational Safety and Health Administration (OSHA) to a private sector testing facility that provides product safety testing and certification services.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0610'>610</a>.</p>

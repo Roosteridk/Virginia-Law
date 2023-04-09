@@ -1,0 +1,3 @@
+# § 62.1-44.15:70 Exclusive authority of Board to institute legal actions.
+
+<p>The Board shall have the exclusive authority to institute or intervene in legal and administrative actions to ensure compliance by local governing bodies with this article and with any criteria or regulations adopted hereunder.</p><p>1988, cc. 608, 891, § 10.1-2104; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0266'>266</a>; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0756'>756</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0793'>793</a>.</p>

@@ -1,0 +1,3 @@
+# § 56-506 Construction of chapter; conflicting laws.
+
+<p>This chapter is to be liberally construed and the enumeration of any object, purpose, power, method or thing shall not be deemed to exclude like or similar objects, purposes, powers, manners, methods or things, and any provisions of other laws in conflict with the provisions of this chapter shall not apply to cooperatives operating hereunder.</p><p>1950, p. 595; 1956, c. 434.</p>

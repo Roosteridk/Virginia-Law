@@ -1,0 +1,3 @@
+# § 15.2-965.2 Enhancement of micro-business participation in local procurement.
+
+<p>A. Any locality may enact an ordinance to enhance micro-business participation in local government procurement practices. Such measures may include special designation of local micro-businesses, providing technical support to micro-businesses, setting target goals for micro-business participation in the local procurement process, and other reasonable measures intended to promote micro-business participation in the locality.</p><p>B. For purposes of this section, "micro-business" means a small, women-owned, or minority-owned business with no more than 25 employees.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1123'>1123</a>.</p>

@@ -1,0 +1,3 @@
+# § 54.1-3925.2 Access to criminal history records.
+
+<p>The Board is authorized to obtain criminal history record information relating to an applicant from any state or federal law-enforcement agency. Any information so obtained is for the exclusive use of the Board and the character and fitness committee and shall not be released to any other person or agency except in furtherance of the investigation of the applicant or with the authorization of the applicant or upon court order.</p><p>1992, c. 734.</p>

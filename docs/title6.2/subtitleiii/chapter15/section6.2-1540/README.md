@@ -1,0 +1,3 @@
+# § 6.2-1540 Criminal penalties.
+
+<p>Any person, including the members, officers, directors, agents, and employees of an entity, who violates or participates in the violation of any provision of § <a href='http://law.lis.virginia.gov/vacode/6.2-1501/'>6.2-1501</a> is guilty of a Class 2 misdemeanor.</p><p>Code 1950, § 6-337; 1966, c. 584, § 6.1-308; 1986, c. 502; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

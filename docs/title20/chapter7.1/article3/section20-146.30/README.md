@@ -1,0 +1,3 @@
+# § 20-146.30 Service of petition and order.
+
+<p>Except as otherwise provided in § <a href='http://law.lis.virginia.gov/vacode/20-146.32/'>20-146.32</a>, the petition and order shall be served, by any method authorized by the law of this Commonwealth, upon the respondent and any person who has physical custody of the child.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0305'>305</a>.</p>

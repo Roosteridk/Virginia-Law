@@ -1,0 +1,3 @@
+# § 3.2-4320 Restrictions as to use of Label.
+
+<p>It is unlawful to use the Virginia Quality Label or a label with the shield of the United States, except in accordance with regulations prescribed by the Commissioner, and in no case shall it be used upon the label, tag, seal, or container of the product of any farm, factory, mill or of any other producing, processing, packing, preparing, or dressing establishment unless such product is processed, packed, prepared, or dressed under continuous official state or federal-state inspection.</p><p>Code 1950, § 3-273; 1966, c. 702, § 3.1-352; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0317'>317</a>.</p>

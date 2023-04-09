@@ -1,0 +1,3 @@
+# § 19.2-360 Forms of receipts; distribution; record of disposition.
+
+<p>The Executive Secretary of the Supreme Court shall prescribe and prepare forms of official receipts for fines and distribute them to the clerks of the circuit courts and to the clerks of the district courts for their use. A record of the disposition of each receipt form shall be maintained as prescribed by the Executive Secretary.</p><p>Code 1950, § 19.1-349; 1960, c. 366; 1972, c. 97; 1975, c. 495; 1977, c. 465.</p>

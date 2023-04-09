@@ -1,0 +1,3 @@
+# § 55.1-665 Uniformity of application and construction.
+
+<p>In applying and construing this article, consideration shall be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0745'>745</a>, § 55-142.14; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

@@ -1,0 +1,3 @@
+# § 1-610 Old Dominion University designated as administrative agency.
+
+<p>Old Dominion University is designated as the authorized state agency to collect and distribute information, to authorize such modifications as are referred to in § <a href='/vacode/1-607/'>1-607</a>, and generally to advise with and assist appropriate state and federal agencies and individuals interested in the development of the provisions of this chapter.</p><p>1946, p. 168; Michie Suppl. 1946, § 2849(10); Code 1950, § 55-297; 1966, c. 55; 1968, c. 223; 1977, c. 114; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

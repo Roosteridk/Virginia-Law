@@ -1,0 +1,3 @@
+# § 15.2-305 Changing from one form to another.
+
+<p>A county may change from one optional form to another optional form, or to any other form of county government prescribed by Article VII of the Constitution, only by following the procedures set out in § <a href='http://law.lis.virginia.gov/vacode/15.2-301/'>15.2-301</a>, subject to any limitations specified in Chapters 3 through 8 of this title.</p><p>1997, c. 587.</p>

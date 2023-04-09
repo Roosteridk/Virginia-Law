@@ -1,0 +1,3 @@
+# § 65.2-1005 Tax exclusive of other taxes.
+
+<p>Any insurance carrier liable to pay a tax upon premiums under this title shall not be liable to pay any other or further tax upon such premiums, or on account thereof, under any other law of this Commonwealth, except as provided in §§ <a href='http://law.lis.virginia.gov/vacode/65.2-1101/'>65.2-1101</a>, <a href='http://law.lis.virginia.gov/vacode/65.2-1201/'>65.2-1201</a>, and Chapter 4 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-400/'>38.2-400</a> et seq.) of Title 38.2.</p><p>Code 1950, § 65-125; 1968, c. 660, § 65.1-134; 1975, c. 365; 1977, c. 345; 1991, c. 355; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0056'>56</a>.</p>

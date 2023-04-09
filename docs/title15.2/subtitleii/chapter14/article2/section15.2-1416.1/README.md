@@ -1,0 +1,3 @@
+# § 15.2-1416.1 Actions prior to convening of meeting.
+
+<p>During the time prior to the governing body's actual call to order or convening of business, any expressions by members of the governing body or members of the public shall be held consistent with the individual's First Amendment right of freedom of speech.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0592'>592</a>.</p>

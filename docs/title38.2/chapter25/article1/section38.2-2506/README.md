@@ -1,0 +1,3 @@
+# § 38.2-2506 What laws applicable.
+
+<p>Except as otherwise provided in this chapter, and except when the context otherwise requires, all the provisions of this title relating to insurers generally, and those relating to insurers writing the same class of insurance that mutual assessment property and casualty insurers are authorized to write under this chapter, are applicable to these insurers.</p><p>The provisions of §§ <a href='http://law.lis.virginia.gov/vacode/38.2-1032/'>38.2-1032</a> and <a href='http://law.lis.virginia.gov/vacode/38.2-1035/'>38.2-1035</a> shall not apply to mutual assessment property and casualty insurers.</p><p>Code 1950, §§ 38-505, 38-525; 1952, c. 317, §§ 38.1-91, 38.1-662; 1960, c. 289; 1966, c. 580; 1986, c. 562.</p>

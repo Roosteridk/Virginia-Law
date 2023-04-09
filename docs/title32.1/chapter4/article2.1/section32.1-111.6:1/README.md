@@ -1,0 +1,3 @@
+# § 32.1-111.6:1 Commissioner to issue certain emergency medical services licenses or permits.
+
+<p>The Commissioner of Health shall issue licenses to emergency medical services agencies and permits for emergency medical services vehicles as needed to ensure compliance with federal regulations relating to reimbursement of emergency medical services vehicle transportation services pursuant to Medicare and Medicaid.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0139'>139</a>; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

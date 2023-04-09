@@ -1,0 +1,3 @@
+# § 19.2-28 Certain notices, recognizances and processes validated.
+
+<p>Any notice given, recognizance taken, or process or writ issued, before January 1, 1974, shall be valid although given, taken or to be returned to a day after such date, in like manner as if this title had been effective before the same was given, taken or issued.</p><p>Code 1950, § 19.1-376; 1973, c. 545; 1975, c. 495.</p>

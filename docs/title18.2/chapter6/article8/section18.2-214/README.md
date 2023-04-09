@@ -1,0 +1,3 @@
+# § 18.2-214 Changing or removing, etc., trademarks, identification marks, etc.
+
+<p>Any person, firm, association or corporation who or which intentionally removes, defaces, alters, changes, destroys or obliterates in any manner or way or who causes to be removed, defaced, altered, changed, destroyed or obliterated in any manner or way any trademark, distinguishment or identification number, serial number or mark on or from any article or device, in order to secrete its identification with intent to defraud, shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 59.1-42; 1968, c. 439; 1975, cc. 14, 15.</p>

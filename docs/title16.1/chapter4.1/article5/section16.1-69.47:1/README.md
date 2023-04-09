@@ -1,0 +1,3 @@
+# § 16.1-69.47:1 Travel expenses of judges and clerks; how paid.
+
+<p>Any judge or clerk traveling more than five miles from the courthouse in the city or county in which he resides on court business shall be entitled to reimbursement by the Commonwealth for such of his actual expenses as are necessarily and ordinarily incidental to such travel. If conveyance is by public transportation, reimbursement shall be at the actual cost thereof. If conveyance is by private transportation, reimbursement shall be at the rate established for members of the General Assembly.</p><p>1973, c. 546; 1975, c. 334; 1978, c. 404.</p>

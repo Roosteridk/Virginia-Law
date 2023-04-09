@@ -1,0 +1,3 @@
+# § 3.2-5225 Capacity of standard measurers.
+
+<p>In the use of the Babcock or any other centrifugal machine, the standard milk measurer or pipettes shall have a capacity of 17.6 cubic centimeters and the standard test tubes or bottles for milk shall have a capacity of two cubic centimeters for each 10 percent marked on the necks.</p><p>Code 1950, § 3-406; 1966, c. 702, § 3.1-536; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

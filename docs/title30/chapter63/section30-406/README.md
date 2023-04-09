@@ -1,0 +1,3 @@
+# § 30-406 (For contingent expiration date, see Acts 2021, Sp. Sess. I, c. 313, cl. 2) Staffing.
+
+<p>The Commission may appoint, employ, and remove an executive director and such other persons as it deems necessary and shall determine the duties and fix the salaries or compensation of such executive director and other persons, within the amounts appropriated for such purpose The Commission may also employ experts who have knowledge of the issues before it.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0313'>313</a>.</p>

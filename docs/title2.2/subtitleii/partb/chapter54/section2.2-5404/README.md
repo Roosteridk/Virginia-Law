@@ -1,0 +1,3 @@
+# § 2.2-5404 Delegation of responsibilities by community action agency.
+
+<p>If a community action agency places responsibility for major policy determination with respect to the character, funding, extent and administration of and budgeting for programs to be carried on in a particular geographic area within the community in a subsidiary board, council or similar agency, the board, council or agency shall be broadly representative of the area.</p><p>1982, c. 667, § 2.1-592; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,0 +1,3 @@
+# § 8.01-465.22 Prejudgment and judgment interest.
+
+<p>With respect to a foreign-money claim, recovery of prejudgment or preaward interest and the rate of interest to be applied in the action or distribution proceeding are matters of the substantive law governing the right to recovery under the conflict-of-laws rules of the Commonwealth.</p><p>However, the court or arbitrator shall increase or decrease the amount of prejudgment or preaward interest otherwise payable in a judgment or award in foreign money to the extent required by the law of the Commonwealth.</p><p>A judgment or award on a foreign-money claim bears interest at the rate applicable to judgments of the Commonwealth.</p><p>1991, c. 24.</p>

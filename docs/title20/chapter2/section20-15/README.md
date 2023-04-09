@@ -1,0 +1,3 @@
+# § 20-15 Tax on license.
+
+<p>On each marriage license issued under § <a href='http://law.lis.virginia.gov/vacode/20-14/'>20-14</a> there is hereby levied a license tax of $20, which tax shall be collected by the clerk when the license is issued and accounted for as in the case of other state taxes collected by him. Ten dollars of this license tax shall be allocated to the Virginia Department of Social Services for the purpose of providing services to victims of domestic violence.</p><p>Code 1919, § 5072; 1924, p. 398; 1948, p. 107; 1975, c. 119; 1982, c. 305; 1993, c. 887; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0375'>375</a>.</p>

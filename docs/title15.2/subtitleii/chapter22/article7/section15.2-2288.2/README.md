@@ -1,0 +1,3 @@
+# § 15.2-2288.2 Localities may not require special use permit for certain temporary structures.
+
+<p>A zoning ordinance shall not require that a special exception or special use permit be obtained in order to erect a tent on private property (i) intended to serve as a temporary structure for a period of three days or less and (ii) that will be used primarily for private or family-related events including, but not limited to, weddings and estate sales.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0249'>249</a>.</p>

@@ -1,0 +1,3 @@
+# § 6.2-838 Interstate branching.
+
+<p>An out-of-state bank that does not already maintain a branch in the Commonwealth and that meets the requirements of this article may establish and maintain a de novo branch in the Commonwealth.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0301'>301</a>, § 6.1-44.4; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

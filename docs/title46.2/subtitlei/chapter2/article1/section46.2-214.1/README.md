@@ -1,0 +1,3 @@
+# § 46.2-214.1 Additional charge for information supplied by Department.
+
+<p>Beginning July 1, 2002, in addition to the fee charged pursuant to § <a href='http://law.lis.virginia.gov/vacode/46.2-214/'>46.2-214</a>, the Commissioner shall charge $2 for furnishing information under this title, but no fee shall be charged to any official, including court and police officials, of the Commonwealth or any county, city or town of the Commonwealth, or to court, police, and licensing officials of other states or of the federal government, provided that the information requested is for official use.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP1042'>1042</a>, cl. 9.</p>

@@ -1,0 +1,3 @@
+# § 15.2-5359 Moneys received deemed trust funds.
+
+<p>All moneys received pursuant to the provisions of this chapter, whether as proceeds from the sale of bonds or as revenues, shall be deemed to be trust funds to be held and applied solely as provided in this chapter. Any officer with whom, or any bank or trust company with which, such moneys are deposited shall act as trustee of such moneys and shall hold and apply the same for the purposes hereof, subject to the provisions of this chapter and the resolution authorizing the issuance of such bonds or the trust indenture securing the same.</p><p>Code 1950, § 32-271.3; 1973, c. 462, § 15.1-1594; 1979, c. 719; 1997, c. 587.</p>

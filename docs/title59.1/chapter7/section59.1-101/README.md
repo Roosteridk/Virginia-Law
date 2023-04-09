@@ -1,0 +1,3 @@
+# § 59.1-101 Requiring or accepting deposit upon property not deemed a sale thereof.
+
+<p>The requiring, taking or accepting of any deposit, for any purpose, upon any bottle, siphon, siphon head, crate, tin, keg, freezer, can, spoon, block, mould, tray, pan, brick, pail, tub, refrigerator box, cutlery, glass, china, chair, table, sign or clean laundered or soiled article mentioned in this chapter shall not be deemed or constitute a sale of such property, either optional or otherwise in any proceeding under this chapter.</p><p>Code 1950, § 59-198; 1958, c. 579; 1968, c. 439.</p>

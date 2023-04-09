@@ -1,0 +1,3 @@
+# § 3.2-6008 Disposition of quarantined animals with potential to impact livestock or poultry.
+
+<p>Disposition of quarantined animals, including condemnation, shall be determined by the State Veterinarian or his representative after confirmation by diagnostic testing, the results of which shall be provided to the owner and grower of such animal upon request.</p><p>Code 1950, §§ 3-576, 3-584, 3-586, 3-598.8; 1956, c. 376; 1966, cc. 5, 702, §§ 3.1-734, 3.1-749, 3.1-751, 3.1-763.2; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

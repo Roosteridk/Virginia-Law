@@ -1,0 +1,3 @@
+# § 9.1-185.11 Firearms, training and usage; standards and requirements.
+
+<p>A. If a bail bondsman chooses to carry a firearm in the course of his duties, he shall be required to:</p><p>1. First complete basic firearms training, as defined by the Board; and</p><p>2. Receive ongoing in-service firearms training, as defined by the Board.</p><p>B. In the event a bail bondsman discharges a firearm during the course of his duties, he shall report it to the Department within 24 business hours.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0460'>460</a>.</p>

@@ -1,0 +1,3 @@
+# § 3.2-900 Definitions.
+
+<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Nuisance birds" means blackbirds, red-winged blackbirds, grackles, cowbirds, pigeons, and starlings, or any other species so declared by regulations of the Board when causing or about to cause economic losses in the Commonwealth; becoming detrimental to the public health and welfare; defacing or defiling public or private property or otherwise creating a public nuisance.</p><p>"Person" means the term as defined in § <a href='http://law.lis.virginia.gov/vacode/1-230/'>1-230</a>. The term also means any society.</p><p>1968, c. 64, § 3.1-1012; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

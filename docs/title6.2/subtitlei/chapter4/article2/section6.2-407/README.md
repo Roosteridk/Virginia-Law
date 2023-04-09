@@ -1,0 +1,3 @@
+# § 6.2-407 Lenders to furnish borrower with copy of appraisal.
+
+<p>Any lender that requires a borrower or prospective borrower to pay for an appraisal of residential real estate made in connection with a loan or application for a loan secured by the real estate shall, upon request by the borrower or prospective borrower, furnish free of charge the borrower or prospective borrower with a copy of the written appraisal or, if no written appraisal exists, with a statement of the appraised value within 10 business days of the receipt of such request.</p><p>1979, c. 101, § 6.1-2.9; 1988, c. 155; 1990, c. 7; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

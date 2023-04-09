@@ -1,0 +1,3 @@
+# § 24.2-664 Reduction in number of ballots.
+
+<p>Whenever the number of ballots is reduced by fraudulent or void ballots below the number of names of qualified voters on the pollbooks who voted on paper ballots, the cause of such reduction shall be stated in the space provided on the statement of results.</p><p>Code 1950, § 24-624; 1970, c. 462, § 24.1-141; 1981, c. 425; 1983, c. 461; 1993, c. 641.</p>

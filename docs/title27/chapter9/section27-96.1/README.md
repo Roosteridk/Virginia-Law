@@ -1,0 +1,3 @@
+# § 27-96.1 Chapter inapplicable to certain uses of fireworks.
+
+<p>Unless prohibited by a local ordinance, the provisions of this chapter pertaining to fireworks shall not apply to the sale of or to any person using, igniting or exploding permissible fireworks on private property with the consent of the owner of such property.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0856'>856</a>.</p>

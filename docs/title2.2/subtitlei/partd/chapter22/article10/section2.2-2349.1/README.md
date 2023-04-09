@@ -1,0 +1,3 @@
+# § 2.2-2349.1 Chapter controlling over inconsistent laws.
+
+<p>Insofar as the provisions of this chapter are inconsistent with the provisions of any other law, general, special, or local, or parts thereof, the provisions of this chapter shall be controlling.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0436'>436</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0482'>482</a>.</p>

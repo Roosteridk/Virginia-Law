@@ -1,0 +1,3 @@
+# § 32.1-129 Application for license.
+
+<p>Each application for a hospital or nursing home license shall be made on a form prescribed by the Board. The application shall specify the official name and the kind of hospital or nursing home, the location thereof, the name of the person in charge and such additional relevant information as the Board requires.</p><p>Code 1950, § 32-303; 1972, c. 824; 1979, c. 711.</p>

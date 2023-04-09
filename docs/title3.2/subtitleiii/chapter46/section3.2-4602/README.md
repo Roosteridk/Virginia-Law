@@ -1,0 +1,3 @@
+# § 3.2-4602 Operators of warehouses may register with Commissioner; expiration of registration.
+
+<p>Any person engaging in the operation of a controlled atmosphere storage warehouse may register with the Commissioner. Such registration shall expire on August 31 of each year.</p><p>Code 1950, § 3-713; 1964, c. 214; 1966, c. 702, § 3.1-994; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

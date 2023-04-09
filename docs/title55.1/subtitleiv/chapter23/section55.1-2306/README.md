@@ -1,0 +1,3 @@
+# § 55.1-2306 Penalties.
+
+<p>Any person violating any of the provisions of §§ <a href='/vacode/55.1-2302/'>55.1-2302</a> through <a href='/vacode/55.1-2305/'>55.1-2305</a> is guilty of a Class 2 misdemeanor. At the discretion of the court, any imprisonment may run concurrently with imprisonment imposed by any court for violation of any law similar to the provisions of this chapter.</p><p>1978, c. 510, § 55-347; 1979, c. 243; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0372'>372</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

@@ -1,0 +1,3 @@
+# § 22.1-200 Subjects taught in elementary grades.
+
+<p>A. In the elementary grades of every public school the following subjects shall be taught: Spelling, reading, writing, arithmetic, grammar, geography, health and physical education, drawing, civil government, history of the United States and history of Virginia.</p><p>B. Physical education shall include activities such as, but not limited to, cardiovascular, muscle building, or stretching exercises, as appropriate.</p><p>Code 1950, § 22-233; 1980, c. 559; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0350'>350</a>.</p>

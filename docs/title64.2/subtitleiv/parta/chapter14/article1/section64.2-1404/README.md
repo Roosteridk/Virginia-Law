@@ -1,0 +1,3 @@
+# § 64.2-1404 New fiduciary appointed when authority of former revoked.
+
+<p>If an order revoking and annulling the powers of any fiduciary is entered, the circuit court in which he qualified shall, at or after the date of the order, appoint an administrator de bonis non, a new guardian, or other fiduciary as if the fiduciary whose powers have been revoked and annulled had died at that date.</p><p>Code 1919, § 5148; Code 1950, § 26-47; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

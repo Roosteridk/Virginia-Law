@@ -1,0 +1,3 @@
+# § 33.2-267 Family restrooms.
+
+<p>The Department shall provide family restrooms at all rest areas along Interstate System highways in the Commonwealth. All such family restrooms shall be constructed in accordance with federal law. The provisions of this section shall apply only to rest stops constructed on or after July 1, 2003.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0279'>279</a>, § 33.1-223.2:7; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

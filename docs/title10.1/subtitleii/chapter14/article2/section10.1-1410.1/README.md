@@ -1,0 +1,3 @@
+# § 10.1-1410.1 Sanitary landfill final closure plans; notification requirements.
+
+<p>When any owner or operator of a sanitary landfill submits by certified mail a final closure plan in accordance with the requirements of this chapter and the regulations adopted thereunder, the Department shall within ninety days of its receipt of such plan, notify by certified mail the owner or operator of the Department's decision to approve or disapprove the final closure plan. The ninety-day period shall begin on the day the Department receives the plan by certified mail.</p><p>1988, cc. 332, 891.</p>

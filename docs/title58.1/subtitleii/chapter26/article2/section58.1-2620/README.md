@@ -1,0 +1,3 @@
+# § 58.1-2620 Basis of tax.
+
+<p>The license tax levied pursuant to this article shall be paid annually for each tax year based upon the gross receipts received during the taxable year.</p><p>Code 1950, § 58-503.2; 1979, c. 153; 1984, c. 675.</p>

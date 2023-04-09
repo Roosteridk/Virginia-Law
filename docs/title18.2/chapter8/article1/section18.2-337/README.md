@@ -1,0 +1,3 @@
+# § 18.2-337 Immunity of witnesses from prosecution.
+
+<p>No witness called by the Commonwealth or by the court, giving evidence either before the grand jury or in any prosecution under this article, shall ever be prosecuted for the offense being prosecuted concerning which he testifies. Such witness shall be compelled to testify and for refusing to do so may be punished for contempt.</p><p>Code 1950, § 19.1-266; 1960, c. 366; 1975, cc. 14, 15.</p>

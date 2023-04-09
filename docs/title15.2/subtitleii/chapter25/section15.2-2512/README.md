@@ -1,0 +1,3 @@
+# § 15.2-2512 Audit of accounts of certain county officers, boards and commissions.
+
+<p>Whenever, upon a petition filed in the circuit court for any county by at least fifty residents of the county, it is believed by the judge of the court that the public interests will be promoted by an audit or examination of the whole or any part of the financial transactions of any county officer, board or commission of the county, the judge may appoint one or more certified public accountants to make and report to the court the result of such audit or examination. The court shall fix the compensation to be paid by the board of supervisors to the accountants.</p><p>Code 1950, § 15-264; 1962, c. 623, § 15.1-557; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 6.2-2225 Application of chapter to Internet loans.
+
+<p>The provisions of this chapter, including specifically the licensure requirements of § <a href='http://law.lis.virginia.gov/vacode/6.2-2201/'>6.2-2201</a>, shall apply to persons making motor vehicle title loans over the Internet to Virginia residents or any individuals in Virginia, whether or not the person making the loan maintains a physical presence in the Commonwealth.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0477'>477</a>, § 6.1-505; 2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0418'>418</a>.</p>

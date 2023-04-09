@@ -1,0 +1,3 @@
+# § 8.01-205 How sale made.
+
+<p>If the amount of the execution be not sooner paid, such officer shall proceed, on the day mentioned in the notice, to sell at public auction the interest of the party against whom the execution issued in the real estate or so much thereof as the officer may deem sufficient; and if a part only be sold it shall be laid off in one parcel in such place and manner as the debtor or his agent may direct or, if he give no direction, as the officer may deem best.</p><p>Code 1950, § 8-768; 1977, c. 617.</p>

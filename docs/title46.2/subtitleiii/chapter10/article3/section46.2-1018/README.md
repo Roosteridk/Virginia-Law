@@ -1,0 +1,3 @@
+# § 46.2-1018 Marker lights on vehicles or loads exceeding thirty-five feet.
+
+<p>Whenever any motor vehicle or combination of vehicles whose actual length, including its load, exceeds thirty-five feet and is not subject to the provisions of § <a href='http://law.lis.virginia.gov/vacode/46.2-1017/'>46.2-1017</a>, such vehicle shall be equipped with reflectors of a type approved by the Superintendent when operated between sunset and sunrise. Such reflectors shall be mounted on the widest part of the vehicle or its load so as to be visible from the front and sides of the vehicle.</p><p>1958, c. 541, § 46.1-265.1; 1989, c. 727.</p>

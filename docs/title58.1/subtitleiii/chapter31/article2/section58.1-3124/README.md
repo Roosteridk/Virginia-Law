@@ -1,0 +1,3 @@
+# § 58.1-3124 Where office of county treasurer to be maintained; providing suitable space.
+
+<p>The office of the county treasurer shall be maintained at the county seat or at such other point in the county as the board of supervisors or other governing body of the county may deem to be more convenient to a majority of the citizens of the county.</p><p>Code 1950, § 58-916; 1954, c. 652; 1984, c. 675.</p>

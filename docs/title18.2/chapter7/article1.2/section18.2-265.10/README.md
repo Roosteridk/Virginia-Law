@@ -1,0 +1,3 @@
+# § 18.2-265.10 Exemption from participation in electronic system; requirement to maintain log.
+
+<p>Any pharmacy or retail distributor that has been granted an exemption from participation in the system pursuant to subsection B of § <a href='http://law.lis.virginia.gov/vacode/18.2-265.8/'>18.2-265.8</a> shall forward to the Department every seven days by fax or electronic means a legible copy of the log required by § <a href='http://law.lis.virginia.gov/vacode/18.2-265.7/'>18.2-265.7</a>.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0160'>160</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0252'>252</a>.</p>

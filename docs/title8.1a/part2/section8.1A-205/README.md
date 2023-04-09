@@ -1,0 +1,3 @@
+# § 8.1A-205 Reasonable time; seasonableness.
+
+<p>(a) Whether a time for taking an action required by the Uniform Commercial Code is reasonable depends on the nature, purpose, and circumstances of the action.</p><p>(b) An action is taken seasonably if it is taken at or within the time agreed or, if no time is agreed, at or within a reasonable time.</p><p>1964, c. 219, § 8.1-204 (2)-(3); 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0353'>353</a>.</p>

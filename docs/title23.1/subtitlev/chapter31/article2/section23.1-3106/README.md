@@ -1,0 +1,3 @@
+# § 23.1-3106 Cooperation of other agencies; legal services.
+
+<p>A. All agencies of the Commonwealth shall cooperate with the Extension Partnership and, upon request, assist the Extension Partnership in the performance of its duties and responsibilities.</p><p>B. The Attorney General shall provide legal services for the Extension Partnership pursuant to Chapter 5 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-500/'>2.2-500</a> et seq.) of Title 2.2.</p><p>1992, cc. 217, 668, § 23-231.12; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0324'>324</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

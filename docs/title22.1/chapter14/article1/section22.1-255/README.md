@@ -1,0 +1,3 @@
+# § 22.1-255 Nonresident children.
+
+<p>Any person who has residing with him for a period of sixty days or more any child within the ages prescribed in § <a href='http://law.lis.virginia.gov/vacode/22.1-254/'>22.1-254</a> whose parents or guardians reside in another state or the District of Columbia shall be subject to the provisions of § <a href='http://law.lis.virginia.gov/vacode/22.1-254/'>22.1-254</a> and shall pay or cause to be paid any tuition charges for such child that may be required pursuant to § <a href='http://law.lis.virginia.gov/vacode/22.1-5/'>22.1-5</a> or shall return such child to the home of his parents or legal guardians.</p><p>Code 1950, § 22-220; 1958, c. 628; 1968, c. 178; 1976, cc. 681, 713; 1978, c. 140; 1980, c. 559.</p>

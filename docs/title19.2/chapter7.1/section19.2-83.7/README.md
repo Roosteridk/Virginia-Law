@@ -1,0 +1,3 @@
+# § 19.2-83.7 Penalties for violations of this chapter.
+
+<p>In addition to any other penalty authorized by law, any law-enforcement officer who knowingly violates the provisions of this chapter shall be subject to disciplinary action, including dismissal, demotion, suspension, or transfer of the law-enforcement officer or decertification as provided in subsection D of § <a href='/vacode/15.2-1707/'>15.2-1707</a>.</p><p>2020, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?202+ful+CHAP0025'>25</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?202+ful+CHAP0035'>35</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?202+ful+CHAP0037'>37</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?202+ful+CHAP0055'>55</a>.</p>

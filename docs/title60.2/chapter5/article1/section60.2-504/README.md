@@ -1,0 +1,3 @@
+# § 60.2-504 Allocation of benefit costs.
+
+<p>If benefits paid to an individual are based on wages paid by more than one employer and one or more of such employers are liable for payments in lieu of taxes, the amount payable to the fund by each employer that is liable for such payments shall be an amount which bears the same ratio to the total benefits paid to the individual as the total base period wages paid to the individual by such employer bear to the total base period wages paid to the individual by all of his base period employers.</p><p>1974, c. 466, § 60.1-89; 1981, cc. 248, 252; 1986, c. 480.</p>

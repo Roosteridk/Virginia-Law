@@ -1,0 +1,3 @@
+# § 3.2-5419 Smithfield hams defined.
+
+<p>Genuine Smithfield hams are hereby defined to be hams processed, treated, smoked, aged, cured by the long-cure, dry salt method of cure and aged for a minimum period of six months; such six-month period to commence when the green pork cut is first introduced to dry salt, all such salting, processing, treating, smoking, curing, and aging to be done within the corporate limits of the town of Smithfield, Virginia.</p><p>Code 1950, § 3-667; 1966, c. 702, § 3.1-867; 1968, c. 140; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

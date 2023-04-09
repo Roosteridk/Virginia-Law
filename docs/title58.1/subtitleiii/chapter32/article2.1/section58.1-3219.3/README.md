@@ -1,0 +1,3 @@
+# § 58.1-3219.3 Limitations.
+
+<p>The deferral program provided under this article shall not apply to the following:</p><p>1. Real estate which participates in the real estate tax relief or deferral program for the elderly or permanently or totally disabled pursuant to Article 2 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-3210/'>58.1-3210</a> et seq.) of Chapter 32 of this title;</p><p>2. Persons who are delinquent on any portion of real estate taxes for which deferral is sought;</p><p>3. Real estate assessed on the basis of use value pursuant to Article 4 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-3230/'>58.1-3230</a> et seq.) of Chapter 32 of this title.</p><p>1990, cc. 858, 871.</p>

@@ -1,0 +1,3 @@
+# § 59.1-215.4 Exemptions.
+
+<p>A demand letter or assertion of patent infringement that includes a claim for relief arising under 35 U.S.C. § 271 (e)(2) or 42 U.S.C. § 262 shall not be subject to the provisions of this chapter.</p><p>2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0810'>810</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0819'>819</a>.</p>

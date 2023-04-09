@@ -1,0 +1,3 @@
+# § 15.2-5500 Heart of Appalachia Tourism Authority.
+
+<p>There is hereby established as a political subdivision, a body politic and corporate, the Heart of Appalachia Tourism Authority (the Authority) for the LENOWISCO and Cumberland Plateau Planning District Commissions. The Authority shall promote, expand, and develop the tourism industries of this coal-producing region as a whole.</p><p>1993, c. 663, § 15.1-1399.19; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0160'>160</a>; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0587'>587</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0384'>384</a>.</p>

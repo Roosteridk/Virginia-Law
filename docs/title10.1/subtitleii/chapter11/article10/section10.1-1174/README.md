@@ -1,0 +1,3 @@
+# § 10.1-1174 Reforestation of Timberlands Fund.
+
+<p>All moneys paid to or collected by the State Forester for rental equipment, tree seedlings, seed and material furnished, and specialized personnel services rendered to a landowner and all moneys collected or received from settlement of liens, including principal, interest and fines, authorized under this article shall be paid into the state treasury. All such moneys shall be credited by the State Comptroller as special revenues to the Reforestation of Timberlands Fund of the Department of Forestry to be expended solely for reforesting privately owned timberlands of the Commonwealth as provided in this article.</p><p>1981, c. 371, § 10-90.37; 1984, c. 750; 1986, c. 567; 1988, c. 891.</p>

@@ -1,0 +1,3 @@
+# § 59.1-551 Trustmark; warranty.
+
+<p>The use of a trustmark on an identity credential provides a warranty by the identity provider that the written rules and policies of the identity trust framework or federation of which it is a member have been adhered to in asserting the identity and any related attributes contained on the identity credential. No other warranties are applicable unless expressly provided by the identity provider.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0482'>482</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0483'>483</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0736'>736</a>.</p>

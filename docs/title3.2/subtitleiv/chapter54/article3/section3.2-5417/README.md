@@ -1,0 +1,3 @@
+# § 3.2-5417 Power of injunction.
+
+<p>The Commissioner is authorized to apply to any appropriate court for an injunction and such court may grant a temporary or permanent injunction restraining a person from violating or continuing the violation of any provision of this chapter, when the court determines that the testimony and evidence presented warrants such action, without reference to adequacy of any remedy existing at law.</p><p>1970, c. 290, § 3.1-884.33; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

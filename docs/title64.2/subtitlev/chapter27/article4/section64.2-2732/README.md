@@ -1,0 +1,3 @@
+# § 64.2-2732 Power to contract; presently exercisable power of appointment.
+
+<p>A powerholder of a presently exercisable power of appointment may contract:</p><p>1. Not to exercise the power; or</p><p>2. To exercise the power if the contract when made does not confer a benefit on an impermissible appointee.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

@@ -1,0 +1,3 @@
+# § 33.2-2212 Cessation of tolls.
+
+<p>When the bonds issued for the project and the interest thereon have been paid, or a sufficient amount has been provided for their payment and continue to be held for that purpose, the Commission shall cease to charge tolls for the use of the project, and thereafter the project shall be free, provided that the Commission shall thereafter charge tolls for the use of the project in the event that tolls are required for maintaining, repairing, and operating the project due to the lack of funds from sources other than tolls.</p><p>1954, c. 693; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

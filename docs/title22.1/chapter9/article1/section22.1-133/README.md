@@ -1,0 +1,3 @@
+# § 22.1-133 Flags.
+
+<p>The flags of the United States of America and of the Commonwealth shall be flown in accordance with protocol and in an appropriate place at every public school. A flag of the Commonwealth shall be furnished by the Commonwealth for each new public school upon request of the school board directed to the Governor.</p><p>Code 1950, §§ 7.1-36, 22-133; 1956, Ex. Sess., c. 30; 1959, Ex. Sess., c. 79, § 1; 1960, c. 222; 1966, c. 102; 1980, c. 559.</p>

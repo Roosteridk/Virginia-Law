@@ -1,0 +1,3 @@
+# § 19.2-281 Construction of article.
+
+<p>This article shall be so interpreted and construed as to effectuate its general purpose to make uniform the law of the states which enact it.</p><p>Code 1950, § 19.1-278; 1960, c. 366; 1975, c. 495.</p>

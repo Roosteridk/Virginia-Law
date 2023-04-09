@@ -1,0 +1,3 @@
+# § 13.1-995 Members to have rights of shareholders.
+
+<p>The rights given to shareholders under the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/13.1-614/'>13.1-614</a>, <a href='http://law.lis.virginia.gov/vacode/13.1-624/'>13.1-624</a>, <a href='http://law.lis.virginia.gov/vacode/13.1-629/'>13.1-629</a>, <a href='http://law.lis.virginia.gov/vacode/13.1-742/'>13.1-742</a> and <a href='http://law.lis.virginia.gov/vacode/13.1-744/'>13.1-744</a> shall apply to members as well as to shareholders of a corporation created hereunder.</p><p>Code 1950, § 13.1-152; 1960, c. 80; 1985, c. 522.</p>

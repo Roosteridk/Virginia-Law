@@ -1,0 +1,3 @@
+# § 45.2-504  Age requirement to work in mines.
+
+<p>A. No person under 18 years of age shall be permitted to work in or around any mine.</p><p>B. No operator, agent, or mine foreman shall make a false statement as to the age of any person under 18 years of age applying for work in or around any mine.</p><p>Code 1950, § 45-16; 1954, c. 191; 1966, c. 594, § 45.1-32; 1972, c. 154; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.11; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

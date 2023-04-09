@@ -1,0 +1,3 @@
+# § 28.2-561 Removal of markers of planting grounds; penalty.
+
+<p>It is unlawful for any person to intentionally or knowingly injure, remove, or displace any boundary oyster stake, range monument, signal beacon, post or buoy, or any part thereof, erected to designate, locate, survey, or map any shellfish grounds.</p><p>A violation of this section is a Class 3 misdemeanor.</p><p>Code 1950, § 28-121; 1962, c. 406, § 28.1-106; 1992, c. 836.</p>

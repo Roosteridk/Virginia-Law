@@ -1,0 +1,3 @@
+# § 2.2-2518 The Virginia Commission on Higher Education Board Appointments; purpose.
+
+<p>The Virginia Commission on Higher Education Board Appointments, (the Commission) is established as an advisory commission in the executive branch of state government.</p><p>The purpose of the Commission shall be to review and evaluate potential appointees to the governing bodies of Virginia's public institutions of higher education, the State Board for Community Colleges, and the State Council of Higher Education for Virginia, and to make recommendations to the Governor.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0933'>933</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0945'>945</a>.</p>

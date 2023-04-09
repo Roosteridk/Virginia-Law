@@ -1,0 +1,3 @@
+# § 53.1-178 Director to establish standards.
+
+<p>The Director shall establish minimum standards for the operation of the facilities authorized by § <a href='/vacode/53.1-177/'>53.1-177</a>. The Director shall maintain a list of approved halfway houses.</p><p>Code 1950, § 53-128.5; 1968, c. 298; 1974, cc. 44, 45; 1978, c. 492; 1982, c. 636; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0759'>759</a>.</p>

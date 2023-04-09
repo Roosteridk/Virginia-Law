@@ -1,0 +1,3 @@
+# § 2.2-2745 Program authorized.
+
+<p>To promote greater voluntary retirement savings for private-sector workers in a convenient and portable manner, the Plan is authorized, in accordance with this chapter, to establish a state-facilitated IRA savings program for private-sector workers. The Program shall be sponsored and administered by the Plan. In addition to the provisions of this chapter, the Program shall be subject to the provisions of Chapter 7 (§ <a href='/vacode/23.1-700/'>23.1-700</a> et seq.) of Title 23.1.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0556'>556</a>.</p>

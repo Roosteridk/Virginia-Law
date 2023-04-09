@@ -1,0 +1,3 @@
+# § 2.2-1177 Transfer of surplus motor vehicles.
+
+<p>The Director may transfer surplus motor vehicles among state agencies, and determine the value of such surplus equipment for the purpose of maintaining the financial accounts of the state agencies affected by such transfers.</p><p>1989, c. 479, § 33.1-404; 2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0815'>815</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0842'>842</a>, § 2.1-548.05.</p>

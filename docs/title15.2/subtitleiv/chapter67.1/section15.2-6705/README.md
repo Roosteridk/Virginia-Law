@@ -1,0 +1,3 @@
+# § 15.2-6705 Virginia Coal Train Heritage Authority established.
+
+<p>The Virginia Coal Train Heritage Authority, referred to in this chapter as "the Authority," is created as a body politic and corporate, a political subdivision of the Commonwealth. As such it shall have, and is hereby vested with, the powers and duties conferred in this chapter.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0834'>834</a>.</p>

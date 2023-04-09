@@ -1,0 +1,3 @@
+# § 2.2-1842 Sovereign immunity.
+
+<p>Although the provisions of this article are subject to those of Article 18.1 (§ <a href='http://law.lis.virginia.gov/vacode/8.01-195.1/'>8.01-195.1</a> et seq.) of Chapter 3 of Title 8.01, nothing in this article shall be deemed an additional expressed or implied waiver of the Commonwealth's sovereign immunity.</p><p>1982, c. 318, § 2.1-526.11; 2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0618'>618</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0632'>632</a>, § 2.1-191.15; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

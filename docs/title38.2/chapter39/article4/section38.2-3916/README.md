@@ -1,0 +1,3 @@
+# § 38.2-3916 Classification of risks; rates.
+
+<p>Any insurer writing mutual assessment life, accident and sickness insurance may classify the risks insured against, and fix the rate of assessment of premium for such insurance in accordance with the classifications.</p><p>1985, c. 400, § 38.1-549.17; 1986, c. 562.</p>

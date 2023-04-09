@@ -1,0 +1,3 @@
+# § 54.1-2338 Use of trustee's name in advertisements.
+
+<p>No person subject to the provisions of this chapter shall use the name of the trustee in any advertisement or other public solicitation without written permission of the trustee.</p><p>1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0708'>708</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0721'>721</a>.</p>

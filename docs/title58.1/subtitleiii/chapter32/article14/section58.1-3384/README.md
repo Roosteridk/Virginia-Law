@@ -1,0 +1,3 @@
+# § 58.1-3384 Minutes and copies of orders.
+
+<p>The board shall keep minutes of its meetings and enter therein all orders made and transmit promptly copies of such orders as relate to the increase or decrease of assessments to the taxpayer and commissioner of the revenue. The orders shall be recorded on forms prepared by the Tax Commissioner and provided to localities by the Department of Taxation or on forms prepared by the board that contain, at a minimum, all the information required on the forms prepared by the Tax Commissioner.</p><p>Code 1950, § 58-909; 1984, c. 675; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP1036'>1036</a>.</p>

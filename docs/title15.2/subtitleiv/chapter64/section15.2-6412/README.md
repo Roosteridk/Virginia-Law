@@ -1,0 +1,3 @@
+# § 15.2-6412 Tax revenues of the Commonwealth or any other political subdivision not pledged.
+
+<p>Nothing in this chapter shall be construed as authorizing the pledging of the faith and credit of the Commonwealth of Virginia, or any of its revenues, or the faith and credit of any other political subdivision of the Commonwealth, or any of its revenues, for the payment of any bonds issued by an authority.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0276'>276</a>, 587, § 15.1-1722.</p>

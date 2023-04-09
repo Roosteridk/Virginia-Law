@@ -1,0 +1,3 @@
+# § 18.2-238 Buying, etc., pig iron, etc., with intent to defraud; possession; evidence of intent.
+
+<p>If any person buy or receive pig iron or railroad, telephone, telegraph, coal mining, industrial, manufacturing or public utility iron, brass, copper, metal or any composition thereof with intent to defraud, he shall be guilty of a Class 6 felony. Possession of any pig iron or railroad, telephone, telegraph, coal mining, industrial, manufacturing or public utility iron, brass, copper, metal or any composition thereof, if bought or received from any other person than the manufacturer thereof or his authorized agent or of a regularly licensed dealer therein, shall be prima facie evidence of such intent.</p><p>Code 1950, § 59.1-67; 1968, c. 439; 1975, cc. 14, 15.</p>

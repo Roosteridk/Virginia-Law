@@ -1,0 +1,3 @@
+# § 15.2-5429 Legislative consent to application of laws of other states.
+
+<p>Legislative consent is hereby given (i) to the application of the laws of other states with respect to taxation, payments in lieu of taxes, and the assessment thereof, to any authority created pursuant to this chapter, which has acquired or has an interest in a project, real or personal, situated outside the Commonwealth or which owns or operates a project outside the Commonwealth pursuant to this chapter and (ii) to the application of regulatory and other laws of other states and of the United States to any authority which owns or operates a project outside the Commonwealth.</p><p>1979, c. 416, § 15.1-1632; 1997, c. 587.</p>

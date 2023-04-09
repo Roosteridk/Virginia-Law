@@ -1,0 +1,3 @@
+# § 46.2-317 Persons making false statement in application.
+
+<p>The Department shall not issue, for a period of one year, a driver's license or learner's permit when the records of the Department clearly show to the satisfaction of the Commissioner that the person has made a willful material false statement on any application for a driver's license.</p><p>Code 1950, § 46-358.1; 1958, c. 541, § 46.1-363; 1984, c. 780; 1989, c. 727.</p>

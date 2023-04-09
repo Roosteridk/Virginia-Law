@@ -1,0 +1,3 @@
+# § 3.2-6589 Selling garments containing dog or cat fur prohibited; penalty.
+
+<p>It is unlawful for any person to sell a garment containing the hide, fur, or pelt that he knows to be that of a domestic dog or cat. A violation of this section is punishable by a fine of not more than $10,000.</p><p>1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0646'>646</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0678'>678</a>, § 3.1-796.128:2; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

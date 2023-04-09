@@ -1,0 +1,3 @@
+# § 38.2-3410 Construction of policy generally; words "physician" and "doctor" to include dentist.
+
+<p>Each accident and sickness insurance policy or subscription contract shall be construed according to the entirety of its terms and conditions as set forth in the policy and as amplified, extended or modified by any rider, endorsement, or application attached to and made a part of the policy. However, the word "physician" or "doctor" when used in any accident or sickness insurance policy, or subscription contract shall be construed to include a dentist performing covered services within the scope of his professional license.</p><p>1968, c. 292, § 38.1-348.5; 1986, c. 562.</p>

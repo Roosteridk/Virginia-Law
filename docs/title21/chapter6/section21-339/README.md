@@ -1,0 +1,3 @@
+# § 21-339 Approval by court.
+
+<p>If, in the opinion of the court, the cost of construction, together with the amount of damage assessed is not greater than the increased value of the lands affected and of the benefits that will accrue to the lands, the court shall confirm the final report of the board of viewers, and shall declare the drainage district to be finally established, and shall approve the survey and plans therefor.</p><p>Code 1919, § 1756; 1926, p. 614.</p>

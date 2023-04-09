@@ -1,0 +1,3 @@
+# § 30-245 Meetings and voting.
+
+<p>Commission meetings shall be held at least once each quarter, and at such other times as the Commission may determine. In order to constitute a quorum for the transaction of any business, at least 11 Commission members, including at least three Commission members from each state, must be present. Approval of proposed action shall require the majority vote of the Commission members present.</p><p>1980, c. 662, § 62.1-69.9; 1985, c. 149; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1000'>1000</a>.</p>

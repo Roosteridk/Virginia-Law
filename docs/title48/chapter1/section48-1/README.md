@@ -1,0 +1,3 @@
+# § 48-1 Investigation of complaint by special grand jury.
+
+<p>When complaint is made to the circuit court of any county, or the corporation court of any city of this Commonwealth, by five or more citizens of any county, city or town, setting forth the existence of a public or common nuisance, the court, or the judge thereof in vacation, shall summon a special grand jury, in the mode provided by law, to the next term of such court, to specially investigate such complaint.</p><p>Code 1919, § 1520.</p>

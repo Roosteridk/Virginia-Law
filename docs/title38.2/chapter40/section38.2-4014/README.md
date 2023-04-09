@@ -1,0 +1,3 @@
+# § 38.2-4014 Required grace period.
+
+<p>Each certificate shall have a provision that the certificate holder is entitled to a grace period of thirty-one days within which the payment of any call or assessment may be paid after the first month. The provision shall also state that during the grace period the certificate shall continue in full force, but if a claim arises under the policy during the grace period but before the call or assessment is paid, the amount of the call or assessment may be deducted from the amount payable under the certificate.</p><p>Code 1950, §§ 38-145, 38-449; 1952, c. 317, §§ 38.1-543, 38.1-555; 1986, c. 562.</p>

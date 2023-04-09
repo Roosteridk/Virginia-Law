@@ -1,0 +1,3 @@
+# § 29.1-110 Disbursements, accounts for Department; Board.
+
+<p>A. The disbursements of the Department and the Board shall be limited to the amount appropriated by the General Assembly from the game protection fund to expenditures from the Lifetime Hunting and Fishing Endowment Fund. In no event shall the Commonwealth pay obligations that may be incurred by the Department or Board or be liable in any manner for such obligations except to the extent of the game protection fund and the Lifetime Hunting and Fishing Endowment Fund.</p><p>B. Accounts for salaries, allowances, wages and expenses authorized by the Board shall be certified to the Comptroller for payment as the Board may direct by resolution.</p><p>Code 1950, §§ 29-21, 29-22; 1956, c. 337; 1987, cc. 95, 488.</p>

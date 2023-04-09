@@ -1,0 +1,3 @@
+# § 54.1-3441 Restricted manufacturing permit; application; fee; separate application and permit for each place of manufacturing.
+
+<p>Every person desiring to manufacture a proprietary medicine or to repackage medical gases shall apply to the Board for a restricted manufacturing permit. The application shall be accompanied by the required fee. Separate applications shall be made and separate permits issued for each separate place of manufacturing.</p><p>1976, c. 614, § 54-524.41:1; 1980, c. 288; 1988, c. 765; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0037'>37</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0407'>407</a>.</p>

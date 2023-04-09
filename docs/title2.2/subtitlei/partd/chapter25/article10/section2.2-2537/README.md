@@ -1,0 +1,3 @@
+# § 2.2-2537 (Expires July 1, 2026) Henrietta Lacks Commission; purpose.
+
+<p>The Henrietta Lacks Commission (the Commission) is established as an advisory commission in the executive branch of state government. The purpose of the Commission is to sustain the legacy of the life-changing contribution of Henrietta Lacks to medical science by advancing cancer research and treatment through the creation of a biomedical research and data center.</p><p>2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0477'>477</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0705'>705</a>.</p>

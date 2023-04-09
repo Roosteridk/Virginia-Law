@@ -1,0 +1,3 @@
+# § 15.2-5380 Bonds payable from revenues of hospital or health centers.
+
+<p>Any bonds issued under this chapter shall be payable only from the revenues and receipts of the hospital or health center for the acquisition, establishment, or construction of which the bonds were issued and from any property the Authority has made subject to a lien to secure such bonds. The bonds and other obligations of the Authority shall not be a debt of any locality or of the Commonwealth, and neither the Authority members nor any person executing the bonds or other obligations shall be liable personally thereon by reason of the issuance thereof.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0676'>676</a>.</p>

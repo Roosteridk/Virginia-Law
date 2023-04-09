@@ -1,0 +1,3 @@
+# § 55.1-2112 Creation of cooperative ownership.
+
+<p>A cooperative may be created pursuant to this chapter only by recording a declaration executed in the same manner as a deed and by conveying to the association the real estate subject to that declaration. The declaration shall be recorded in every county or city in which any portion of the cooperative is located, indexed in the grantee's index in the name of the cooperative and the association, and indexed in the grantor's index in the name of each person executing the declaration.</p><p>1982, c. 277, § 55-438; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

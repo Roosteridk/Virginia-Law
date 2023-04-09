@@ -1,0 +1,3 @@
+# § 13.1-802 Reservation of power to amend or repeal.
+
+<p>The General Assembly shall have power to amend or repeal all or part of this Act at any time, and all domestic and foreign corporations subject to this Act shall be governed by the amendment or repeal.</p><p>Code 1950, § 13.1-291; 1956, c. 428; 1985, c. 522; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0925'>925</a>.</p>

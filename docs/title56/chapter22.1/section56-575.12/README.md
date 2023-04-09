@@ -1,0 +1,3 @@
+# § 56-575.12 Condemnation.
+
+<p>At the request of the private entity, the responsible public entity may exercise any power of condemnation that it has under law for the purpose of acquiring any lands or estates or interests therein to the extent that the responsible public entity finds that such action serves the public purpose of this chapter. Any amounts to be paid in any such condemnation proceeding shall be paid by the private entity.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0571'>571</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0865'>865</a>.</p>

@@ -1,0 +1,3 @@
+# § 28.2-557 Unlawful to threaten or hinder surveyor; rights of surveyor; penalty.
+
+<p>It is unlawful for any person to threaten, resist, or in any manner interfere with a surveyor in the performance of duties relating to oyster grounds. The surveyor shall have the right to enter upon any person's lands in the performance of his duties.</p><p>A violation of this section is a Class 3 misdemeanor.</p><p>Code 1950, § 28-119; 1962, c. 406, § 28.1-102; 1992, c. 836.</p>

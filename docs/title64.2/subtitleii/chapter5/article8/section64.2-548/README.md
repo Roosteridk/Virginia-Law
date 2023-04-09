@@ -1,0 +1,3 @@
+# § 64.2-548 Action against surety of personal representative; procedure.
+
+<p>A. An action may be brought against the surety of the personal representative for failure of the personal representative to discharge his duties faithfully if an execution on a judgment against a personal representative is returned unsatisfied.</p><p>B. The surety may plead any pleas and offer any evidence that the personal representative could have made or offered in an action against the surety of the personal representative for a devastavit.</p><p>Code 1950, §§ 64-159, 64-160; 1968, c. 656, §§ 64.1-169, 64.1-170; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

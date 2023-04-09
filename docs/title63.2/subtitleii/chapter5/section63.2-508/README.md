@@ -1,0 +1,3 @@
+# § 63.2-508 Fees for representing applicant or recipient.
+
+<p>No person shall make any charge or receive any fees for representing an applicant for or recipient of public assistance with respect to his application or request for increased assistance prior to a determination thereon by the local board, whether such fee or charge is paid by the applicant or recipient or any other person.</p><p>Code 1950, § 63-103; 1968, cc. 466, 578, § 63.1-89; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

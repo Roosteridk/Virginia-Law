@@ -1,0 +1,3 @@
+# § 2.2-2244 Exemption of Authority from personnel and procurement procedures.
+
+<p>The provisions of the Virginia Personnel Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-2900/'>2.2-2900</a> et seq.) of and the Virginia Public Procurement Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4300/'>2.2-4300</a> et seq.) of this title shall not apply to the Authority in the exercise of any power conferred under this article.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0638'>638</a>, § 2.1-548.38; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

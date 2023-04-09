@@ -1,0 +1,3 @@
+# § 15.2-5215 Records and reports.
+
+<p>The commission shall keep and preserve complete records of its operations and transactions, which records shall be open to inspection by the participating subdivisions at all times. It shall make reports to such subdivisions annually and at such other times as they may require.</p><p>Code 1950, § 32-289; 1979, c. 719, § 15.1-1529; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 2.2-2300 Pledge by Authority.
+
+<p>Any pledge made by the Authority shall be valid and binding from the time when the pledge was made. The revenues or properties so pledged and thereafter received by the Authority shall immediately be subject to the lien of such pledge without any physical delivery thereof or further act, and the lien of any such pledge shall be valid and binding as against all parties having claims of any kind in tort, contract or otherwise against the Authority, irrespective of whether the parties have notice thereof. Neither the resolution nor any other instrument by which a pledge is created need be recorded.</p><p>1984, c. 749, § 9-224; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

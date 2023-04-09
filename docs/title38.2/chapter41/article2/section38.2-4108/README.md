@@ -1,0 +1,3 @@
+# § 38.2-4108 Waiver.
+
+<p>The laws of the society may provide that no subordinate body, nor any of its subordinate officers or members, shall have the power or authority to waive any of the provisions of the laws of the society. Such provision shall be binding on the society and every member and beneficiary of a member.</p><p>Code 1950, §§ 38-278, 38.1-594; 1952, c. 317, § 38.1-638.26; 1968, c. 654; 1986, c. 562.</p>

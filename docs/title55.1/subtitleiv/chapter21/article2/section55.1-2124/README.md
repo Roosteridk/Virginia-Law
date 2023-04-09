@@ -1,0 +1,3 @@
+# § 55.1-2124 Easement for encroachments.
+
+<p>To the extent that any unit or common element encroaches on any other unit or common element, a valid easement for the encroachment exists. The easement does not relieve a proprietary lessee of liability in case of his willful misconduct or relieve a declarant or any other person of liability for failure to adhere to any representation in the public offering statement.</p><p>1982, c. 277, § 55-450; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

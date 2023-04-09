@@ -1,0 +1,3 @@
+# § 64.2-741 Powers of courts not impaired by §§ 64.2-736 through 64.2-740.
+
+<p>Nothing in §§ <a href='http://law.lis.virginia.gov/vacode/64.2-736/'>64.2-736</a> through <a href='http://law.lis.virginia.gov/vacode/64.2-740/'>64.2-740</a> shall impair the power of a court of competent jurisdiction with respect to any such foundation or trust.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-544.23; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0709'>709</a>.</p>

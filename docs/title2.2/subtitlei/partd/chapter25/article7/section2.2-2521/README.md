@@ -1,0 +1,3 @@
+# § 2.2-2521 Powers and duties of the Commission.
+
+<p>The Commission shall have the following powers and duties:</p><p>1. Develop and implement a process for evaluating potential appointees to higher education governing boards, based on substantive qualifications, including merit and experience.</p><p>2. Make recommendations to the Governor at least 30 days prior to the expiration of terms for which recommendations have been requested to fill vacancies on higher education governing boards.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0933'>933</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0945'>945</a>.</p>

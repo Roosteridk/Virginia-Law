@@ -1,0 +1,3 @@
+# § 2.2-5307 Existing funding levels.
+
+<p>Any federal funds made available through Part C of the Individuals with Disabilities Education Act (20 U.S.C. § 1431 et seq.) and any state funds appropriated specifically for Part H services shall supplement overall funding for services currently provided under Part of the Individuals with Disabilities Education Act (20 U.S.C. § 1431 et seq.).</p><p>1992, c. 771, § 2.1-768; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

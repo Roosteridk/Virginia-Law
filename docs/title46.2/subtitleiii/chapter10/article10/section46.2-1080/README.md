@@ -1,0 +1,3 @@
+# § 46.2-1080 Speedometer in good working order.
+
+<p>It shall be unlawful for any person to possess with intent to sell or offer for sale, either separately or as a part of the equipment of a motor vehicle, or to use or have as a part of the equipment of a motor vehicle, or to use or have as equipment on a motor vehicle operated on a highway any speedometer which is not in good working order.</p><p>Code 1950, § 46-311; 1958, c. 541, § 46.1-308; 1960, c. 125; 1968, c. 172; 1970, c. 26; 1984, c. 426; 1989, c. 727.</p>

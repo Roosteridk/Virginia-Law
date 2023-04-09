@@ -1,0 +1,3 @@
+# § 3.2-1307 Records to be kept by handler.
+
+<p>Every handler shall keep a complete record of the number of cattle subject to payment bought by him for a period of not less than three years. Such record shall be open for inspection by the Tax Commissioner, and shall be established and maintained as required by the Tax Commissioner.</p><p>1970, c. 310, § 3.1-796.26; 1978, c. 540; 1983, c. 375; 1985, c. 237; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

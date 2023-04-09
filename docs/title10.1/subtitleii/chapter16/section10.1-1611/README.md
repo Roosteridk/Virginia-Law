@@ -1,0 +1,3 @@
+# § 10.1-1611 Moneys received deemed trust funds.
+
+<p>All moneys received pursuant to the authority of this chapter, whether as proceeds from the sale of bonds or as revenues, shall be deemed to be trust funds to be held and applied solely as provided in this chapter. The resolution authorizing the bonds of any issue or the trust agreement securing such bonds shall provide that any officer with whom, or any bank or trust company with which, such moneys are deposited shall act as a trustee of such moneys and shall hold and apply the moneys for the purposes hereof, subject to such regulations as this chapter and the resolution or trust agreement may provide.</p><p>1986, c. 360, § 10-158.8; 1988, c. 891.</p>

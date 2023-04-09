@@ -1,0 +1,3 @@
+# § 10.1-549.1 Virginia Envirothon.
+
+<p>Districts in partnership with other districts, agencies, organizations, and associations are authorized to coordinate and implement the Virginia Envirothon Program, administered by the Virginia Association of Soil and Water Conservation Districts, which enables learning experiences for high school students through competitive events focusing on natural resource conservation.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0402'>402</a>.</p>

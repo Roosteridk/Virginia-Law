@@ -1,0 +1,3 @@
+# § 8.2A-306 Priority of certain liens arising by operation of law.
+
+<p>If a person in the ordinary course of his or her business furnishes services or materials with respect to goods subject to a lease contract, a lien upon those goods in the possession of that person given by statute or rule of law for those materials or services takes priority over any interest of the lessor or lessee under the lease contract or this title unless the lien is created by statute and the statute provides otherwise or unless the lien is created by rule of law and the rule of law provides otherwise.</p><p>1991, c. 536.</p>

@@ -1,0 +1,3 @@
+# § 59.1-324 Cease and desist orders; temporary order.
+
+<p>A. If it appears to the Commissioner that any person has engaged or is engaging in any practice in violation of this chapter, he may issue an order directing the person to cease and desist provided that reasonable notice and an opportunity for a hearing shall be given to such person.</p><p>B. The Commissioner may issue a temporary order pending the hearing which is effective on delivery to the person named in the order. The temporary order shall remain in effect until five days after the hearing required in subsection A above is held. In the event no hearing is requested by the person named in the order, the order shall become final within fifteen days after it is delivered.</p><p>1985, c. 409.</p>

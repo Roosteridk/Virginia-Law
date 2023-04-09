@@ -1,0 +1,3 @@
+# § 54.1-2954 Respiratory therapist; definition.
+
+<p>"Respiratory therapist" means a person who has passed the examination for the entry level practice of respiratory care administered by the National Board for Respiratory Care, Inc., or other examination approved by the Board, who has complied with the regulations pertaining to licensure prescribed by the Board, and who has been issued a license by the Board.</p><p>1985, c. 347, § 54-281.10; 1988, c. 765; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0557'>557</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0302'>302</a>.</p>

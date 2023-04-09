@@ -1,0 +1,3 @@
+# § 17.1-513.1 Appeals from administrative proceedings; abuse and neglect; record to be sealed.
+
+<p>In cases appealed to the circuit court involving child abuse and neglect pursuant to § <a href='http://law.lis.virginia.gov/vacode/63.2-1526/'>63.2-1526</a>, proceedings shall be confidential and the record in the case shall be sealed. However, the court may, for good cause shown, unseal the record.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0478'>478</a>.</p>

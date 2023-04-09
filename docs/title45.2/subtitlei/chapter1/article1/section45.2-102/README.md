@@ -1,0 +1,3 @@
+# § 45.2-102  Department of Energy; appointment of Director.
+
+<p>The Department of Energy is established in the executive branch within the Secretariat of Commerce and Trade. The Department shall be headed by a Director who shall be appointed by the Governor, subject to confirmation by the General Assembly, to serve at the pleasure of the Governor for a term coincident with the Governor's term.</p><p>1984, c. 590, § 45.1-1.1; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.2; 2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0532'>532</a>.</p>

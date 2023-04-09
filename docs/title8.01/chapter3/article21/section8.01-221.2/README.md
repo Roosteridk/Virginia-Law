@@ -1,0 +1,3 @@
+# § 8.01-221.2 Rescission; undue influence; attorney fees.
+
+<p>In any civil action to rescind a deed, contract, or other instrument, the court may award to the plaintiff reasonable attorney fees and costs associated with bringing such action where the court finds, by clear and convincing evidence, that the deed, contract, or other instrument was obtained by fraud or undue influence on the part of the defendant.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0164'>164</a>.</p>

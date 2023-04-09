@@ -1,0 +1,3 @@
+# § 33.2-934 New highway part of secondary state highway system; former highway to vest in city or town.
+
+<p>When the city or town has been notified by the Commissioner of Highways of final approval of the construction of the highway, such highway shall immediately become a part of the secondary state highway system, and the public shall be vested with the same rights of travel on such highway as it possesses with respect to the other highways in the system. The part of the highway that it is proposed to flood shall be deemed to be abandoned, and all public rights therein shall vest in the city or town.</p><p>Code 1950, § 33-89; 1970, c. 322, § 33.1-175; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

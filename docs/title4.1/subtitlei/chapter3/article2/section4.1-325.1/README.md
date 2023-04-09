@@ -1,0 +1,3 @@
+# § 4.1-325.1 Falsifying application; penalty.
+
+<p>It shall be unlawful for any applicant for a banquet, special events, or mixed beverage special events license pursuant to § <a href='/vacode/4.1-206.3/'>4.1-206.3</a> to knowingly make a false statement in order to secure a license or to alter, change, borrow, or lend or attempt to use, borrow, or lend a license. Any person violating this provision shall be guilty of a Class 3 misdemeanor.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0104'>104</a>; 2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1113'>1113</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1114'>1114</a>.</p>

@@ -1,0 +1,3 @@
+# § 46.2-2001.2 Identification marker required.
+
+<p>Each motor carrier shall be issued an identification marker, unless the operation is interstate in nature and the carrier has been issued a single state registration receipt by the Department or other qualified jurisdiction. The identification marker issued by the Department shall be displayed on each vehicle as prescribed by the Department and shall be valid for the period of time prescribed by the Department.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

@@ -1,0 +1,3 @@
+# § 2.2-3311 Day of recognition for early childhood and day-care providers and professionals.
+
+<p>The Friday before Mother's Day of each year shall be designated as a day of recognition for early childhood and day-care providers and professionals to acknowledge the contributions of and pay tribute to early childhood and day-care providers and professionals who serve the children of the Commonwealth.</p><p>1989, c. 132, § 2.1-27.6; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0156'>156</a>.</p>

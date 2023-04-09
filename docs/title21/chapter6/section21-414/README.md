@@ -1,0 +1,3 @@
+# § 21-414 Sale or exchange of refunding bonds.
+
+<p>The board of viewers may provide for the exchange of the refunding bonds for a like or greater par amount of the bonds to be refunded, or may provide for the sale of such refunding bonds and the application of the proceeds of the sale thereof to the retirement of the bonds to be refunded.</p><p>1934, p. 4; Michie Code 1942, § 1777a; 1954, c. 642.</p>

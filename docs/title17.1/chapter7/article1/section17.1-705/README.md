@@ -1,0 +1,3 @@
+# § 17.1-705 Report and recommendations.
+
+<p>A report of the proceedings of the Council shall be made to the General Assembly and to the Supreme Court, with such recommendations as may be agreed upon. However, this authority to make recommendations shall in no event be construed to establish rules for the judicial system of the Commonwealth.</p><p>1930, p. 789, § 17-227; Michie Code 1942, § 6571i; 1991, c. 406; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

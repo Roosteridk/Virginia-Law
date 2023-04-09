@@ -1,0 +1,3 @@
+# § 23.1-2302 Property and liabilities of Medical College of Virginia and Richmond Professional Institute.
+
+<p>All real estate and personal property in the name of the corporate bodies designated "Medical College of Virginia" and "Richmond Professional Institute" transferred to, known and taken as standing in the name of, and under the control of the University is the property of the Commonwealth. The University is vested with all rights, duties, contracts, and agreements and is responsible and liable for all the liabilities and obligations of its predecessor institutions.</p><p>1968, c. 93, § 23-50.5; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

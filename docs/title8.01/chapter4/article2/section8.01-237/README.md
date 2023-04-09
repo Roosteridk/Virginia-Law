@@ -1,0 +1,3 @@
+# § 8.01-237 Effect of disabilities upon right of entry on, or action for, land.
+
+<p>Notwithstanding the provisions of subsection A of § <a href='http://law.lis.virginia.gov/vacode/8.01-229/'>8.01-229</a>, no disabilities or tacking of disabilities shall preserve to any person or his successors a right to make entry on or bring an action to recover land for more than twenty-five years after such right first accrued, although such person or persons shall have been disabled during the whole of such twenty-five years.</p><p>Code 1950, §§ 8-7, 8-8; 1977, c. 617.</p>

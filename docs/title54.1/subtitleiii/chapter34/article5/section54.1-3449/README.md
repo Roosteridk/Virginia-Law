@@ -1,0 +1,3 @@
+# § 54.1-3449 Placement of substance in Schedule III.
+
+<p>The Board shall place a substance in Schedule III if it finds that:</p><p>1. The substance has a potential for abuse less than the substances listed in Schedules I and II;</p><p>2. The substance has currently accepted medical use in treatment in the United States; and</p><p>3. Abuse of the substance may lead to moderate or low physical dependence or high psychological dependence.</p><p>1972, c. 798, § 54-524.84:7; 1988, c. 765.</p>

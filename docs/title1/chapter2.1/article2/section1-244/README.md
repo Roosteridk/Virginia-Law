@@ -1,0 +1,3 @@
+# § 1-244 Short title citations.
+
+<p>Whenever a subtitle, chapter, or article does not have a section or provision establishing or authorizing a short title citation for such subtitle, chapter or article, such subtitle, chapter or article may be cited by its caption. The caption is that word or group of words appearing directly below the numerical designation given the subtitle, chapter or article. Captions are intended as mere catchwords to indicate the contents of the subtitles, chapters, and articles and do not constitute part of the act of the General Assembly.</p><p>1993, c. 308, § 1-13.9:1; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

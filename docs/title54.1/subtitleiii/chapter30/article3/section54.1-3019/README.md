@@ -1,0 +1,3 @@
+# § 54.1-3019 Use of title "licensed practical nurse" or "L.P.N.".
+
+<p>Any person who holds a license or a multistate licensure privilege to practice as a licensed practical nurse in Virginia shall have the right to use the title "Licensed practical nurse" and the abbreviation "L.P.N." No other person shall assume such title or use such abbreviation or any other words, letters, signs or devices to indicate that the person using the same is a licensed practical nurse.</p><p>1970, c. 116, § 54-367.23; 1988, c. 765; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0049'>49</a>.</p>

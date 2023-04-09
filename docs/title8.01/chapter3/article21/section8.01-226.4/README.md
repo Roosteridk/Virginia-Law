@@ -1,0 +1,3 @@
+# § 8.01-226.4 Civil immunity for hospice volunteers.
+
+<p>Any individual who, in good faith, without compensation, and in the absence of gross negligence or willful misconduct, renders care to a terminally ill patient pursuant to a hospice program whose sole purpose is to provide care and treatment to terminally ill patients and whose services are equally available to all members of the community, shall not be liable for any civil damages for acts or omissions resulting from the rendering of such care.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0738'>738</a>.</p>

@@ -1,0 +1,3 @@
+# § 38.2-1334.4 Risk management framework.
+
+<p>An insurer shall maintain a risk management framework to assist the insurer with identifying, assessing, monitoring, managing, and reporting on its material and relevant risks. This requirement may be satisfied if the insurance group of which the insurer is a member maintains a risk management framework applicable to the operations of the insurer.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0248'>248</a>.</p>

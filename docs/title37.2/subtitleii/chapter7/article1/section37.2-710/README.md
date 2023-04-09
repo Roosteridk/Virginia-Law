@@ -1,0 +1,3 @@
+# § 37.2-710 State facility reporting requirements; Virginia Patient Level Data system.
+
+<p>State facilities shall report such data about each individual receiving services and financial data as may be required to the Virginia Patient Level Data system in accordance with Chapter 7.2 (§ <a href='http://law.lis.virginia.gov/vacode/32.1-276.2/'>32.1-276.2</a> et seq.) of Title 32.1.</p><p>1985, c. 87, § 37.1-98.2; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0764'>764</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0476'>476</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0507'>507</a>.</p>

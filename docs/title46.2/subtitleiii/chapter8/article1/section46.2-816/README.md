@@ -1,0 +1,3 @@
+# § 46.2-816 Following too closely.
+
+<p>The driver of a motor vehicle shall not follow another vehicle, trailer, or semitrailer more closely than is reasonable and prudent, having due regard to the speed of both vehicles and the traffic on, and conditions of, the highway at the time.</p><p>Code 1950, § 46-229; 1958, c. 541, § 46.1-213; 1983, c. 248; 1989, c. 727; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0031'>31</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0188'>188</a>.</p>

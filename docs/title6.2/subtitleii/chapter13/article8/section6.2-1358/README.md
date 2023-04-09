@@ -1,0 +1,3 @@
+# § 6.2-1358 Share accounts.
+
+<p>A. Every credit union may issue shares to and maintain share accounts for any member qualified pursuant to the credit union's bylaws.</p><p>B. Shares and share accounts may be withdrawn for payment to the account holder or to third parties in such manner and in accordance with such procedures as may be established by the board of directors.</p><p>C. Shares and share accounts shall be subject to any withdrawal notice requirement that may be imposed pursuant to the credit union bylaws.</p><p>Code 1950, § 6-214; 1956, c. 90; 1966, c. 584, § 6.1-206; 1968, c. 560; 1975, c. 33; 1990, c. 373, § 6.1-225.41; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

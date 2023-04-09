@@ -1,0 +1,3 @@
+# § 6.2-1087 Books and accounts.
+
+<p>Every association exercising trust powers shall keep its fiduciary records separate and distinct from other records of the association. All fiduciary records shall be so kept and retained for such time as to enable the association to furnish such information or reports with respect thereto as may be required by the Commissioner. The fiduciary records shall contain full information relative to each account. Every association shall also keep an adequate record of all pending litigation to which the association is a party in connection with its exercise of trust powers.</p><p>1984, c. 30, § 6.1-195.84; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

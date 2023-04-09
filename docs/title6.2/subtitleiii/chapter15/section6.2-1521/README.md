@@ -1,0 +1,3 @@
+# § 6.2-1521 Post-judgment charges.
+
+<p>If judgment is obtained against any party on any loan made under the provisions of this chapter, neither the judgment nor the loan shall carry, from the date of the judgment, any charges against any party to the loan other than court costs, attorney fees, and interest on the amount of the judgment at the rate fixed by § <a href='http://law.lis.virginia.gov/vacode/6.2-302/'>6.2-302</a>.</p><p>Code 1950, § 6-603; 1966, c. 584, § 6.1-273; 1975, c. 270; 1987, c. 196; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

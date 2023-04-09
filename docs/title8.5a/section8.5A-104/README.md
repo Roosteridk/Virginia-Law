@@ -1,0 +1,3 @@
+# § 8.5A-104 Formal requirements.
+
+<p>A letter of credit, confirmation, advice, transfer, amendment, or cancellation may be issued in any form that is a record and is authenticated (i) by a signature or (ii) in accordance with the agreement of the parties or the standard practice referred to in § <a href='http://law.lis.virginia.gov/vacode/8.5A-108/'>8.5A-108</a>(e).</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0343'>343</a>.</p>

@@ -1,0 +1,3 @@
+# § 12.1-24 Bonds of members of staff.
+
+<p>The Commission may obtain one or more blanket bonds covering members of its staff conditioned for the faithful and lawful performance of their official duties. The surety shall be a surety company authorized to transact business in Virginia. A member of the staff of the Commission who is covered by a blanket bond to the extent of $20,000 shall not be required to furnish a separate bond.</p><p>Code 1950, § 12-45; 1968, c. 51; 1971, Ex. Sess., c. 157.</p>

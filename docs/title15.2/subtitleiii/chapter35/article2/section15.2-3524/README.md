@@ -1,0 +1,3 @@
+# § 15.2-3524 Time limit for intervenors.
+
+<p>The court shall by order fix a time within which a voter, property owner, other person or political subdivision not served may become a party to proceedings instituted under this article for the creation of a consolidated city and thereafter no such petition shall be received, except for good cause shown. A copy of the order shall be published at least once a week for two successive weeks in a newspaper or newspapers of general circulation in the localities proposing to consolidate and in the counties and cities contiguous thereto.</p><p>1979, c. 85, § 15.1-1130.5; 1997, c. 587.</p>

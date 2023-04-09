@@ -1,0 +1,3 @@
+# § 2.2-3309 Pearl Harbor Remembrance Day.
+
+<p>The seventh day of December of each year shall be designated as Pearl Harbor Remembrance Day in the Commonwealth in special tribute to those members of our armed forces who lost their lives, and also to those who survived, the attack on Pearl Harbor, Territory of Hawaii, December 7, 1941. Upon this date, in perpetuity, all citizens of the Commonwealth and the nation are urged to pay homage to the members of our armed forces for the manner in which they bore the attack.</p><p>1983, c. 247, § 2.1-27.2; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

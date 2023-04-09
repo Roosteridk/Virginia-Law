@@ -1,0 +1,3 @@
+# § 3.2-5813 Copies of weight certificates to be retained and kept open for inspection.
+
+<p>A licensed public weighmaster shall keep and preserve for at least one year, or for such longer period as may be specified in the regulations authorized to be issued for the enforcement of this chapter, a legible copy of each weight certificate issued by him, which copies shall be open at all reasonable times for inspection by any weights and measures officer of the Commonwealth.</p><p>Code 1950, § 3-709.14; 1962, c. 126; 1966, c. 702, § 3.1-983; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

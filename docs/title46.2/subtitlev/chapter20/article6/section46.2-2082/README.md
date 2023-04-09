@@ -1,0 +1,3 @@
+# § 46.2-2082 Schedule changes require Department approval; posting notice.
+
+<p>A common carrier operating under a certificate issued by the Department pursuant to this article shall not make any change in schedules or service without having first received the approval of the Department for such change in schedules or service and without first posting a notice of such change in a conspicuous place at each station or ticket agency affected at least ten days before the effective date thereon. Any request for a change in schedules or service shall be received by the Department a minimum of ten days prior to the proposed effective date of such change.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

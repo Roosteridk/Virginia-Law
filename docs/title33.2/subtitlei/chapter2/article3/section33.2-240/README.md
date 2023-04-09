@@ -1,0 +1,3 @@
+# § 33.2-240 Connections over shoulders of highways for intersecting private roads.
+
+<p>The Commissioner of Highways shall permit suitable connections from where private roads leading to and from private homes intersect improved highways and over and across the shoulders and unimproved parts of such highways to the paved or otherwise improved parts thereof to provide the users of such private roads safe and convenient means of ingress and egress with motor vehicles to and from the paved or otherwise improved parts of such highways.</p><p>Code 1950, § 33-116; 1970, c. 322, § 33.1-197; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

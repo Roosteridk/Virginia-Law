@@ -1,0 +1,3 @@
+# § 44-38 Membership continued in National Guard after termination of federal service.
+
+<p>When inducted into the active military service of the United States and thereafter discharged or separated from the armed forces, all persons so inducted and thereafter discharged or separated shall resume their membership in the Virginia National Guard and shall continue to serve therein as though their service had not been so interrupted.</p><p>1930, p. 955; Michie Code 1942, § 2673(28); 1958, c. 393.</p>

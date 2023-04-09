@@ -1,0 +1,3 @@
+# § 16.1-261 Statements made at intake or mental health screening and assessment.
+
+<p>Statements made by a child to the intake officer or probation officer during the intake process or during a mental health screening or assessment conducted pursuant to § <a href='http://law.lis.virginia.gov/vacode/16.1-248.2/'>16.1-248.2</a> and prior to a hearing on the merits of the petition filed against the child, shall not be admissible at any stage of the proceedings.</p><p>1977, c. 559; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0755'>755</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0914'>914</a>.</p>

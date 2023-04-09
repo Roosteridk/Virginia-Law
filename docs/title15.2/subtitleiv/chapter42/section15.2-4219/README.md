@@ -1,0 +1,3 @@
+# § 15.2-4219 Exemption of commission from taxation.
+
+<p>The planning district commission shall not be required to pay any taxes or assessments upon any project or upon any property acquired or used by it or upon the income therefrom. For purposes of subdivision 4 of § <a href='http://law.lis.virginia.gov/vacode/58.1-609.1/'>58.1-609.1</a>, a planning district commission is deemed a "political subdivision of this Commonwealth" as the term is used in that section.</p><p>1968, c. 224, § 15.1-1415; 1993, c. 310; 1997, c. 587.</p>

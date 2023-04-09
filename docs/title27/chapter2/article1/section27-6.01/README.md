@@ -1,0 +1,3 @@
+# § 27-6.01 Definitions.
+
+<p>For the purposes of this chapter, unless the context requires a different meaning:</p><p>"Fire company" means a volunteer firefighting organization organized pursuant to § <a href='http://law.lis.virginia.gov/vacode/27-8/'>27-8</a> in any county, city, or town of the Commonwealth for the purpose of fighting fires.</p><p>"Fire department" means a firefighting organization established as a department of government of any county, city, or town pursuant to § <a href='http://law.lis.virginia.gov/vacode/27-6.1/'>27-6.1</a>.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

@@ -1,0 +1,3 @@
+# § 58.1-103 Inspection of records and documents by the Department.
+
+<p>All records and documents required by this subtitle or by rule or regulation shall be available during regular business hours for inspection by the Tax Commissioner or his duly authorized agents. Persons violating the provisions of this section shall be guilty of a Class 2 misdemeanor.</p><p>1984, c. 675.</p>

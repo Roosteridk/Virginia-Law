@@ -1,0 +1,3 @@
+# § 55.1-138 Contents of solar easement agreements.
+
+<p>Any instrument creating a solar easement shall include, at a minimum:</p><p>1. The vertical and horizontal angles, expressed in degrees, at which the solar easement extends over the real property subject to the solar easement;</p><p>2. Any terms or conditions under which the solar easement is granted or will be terminated; and</p><p>3. Any provisions for compensation of the owner of the property subject to the solar easement.</p><p>1978, c. 323, § 55-354; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

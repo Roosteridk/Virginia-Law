@@ -1,0 +1,3 @@
+# § 22.1-91 Limitation on expenditures; penalty.
+
+<p>No school board shall expend or contract to expend, in any fiscal year, any sum of money in excess of the funds available for school purposes for that fiscal year without the consent of the governing body or bodies appropriating funds to the school board. Any member of a school board or any division superintendent or other school officer violating, causing to be violated or voting to violate any provision of this section shall be guilty of malfeasance in office.</p><p>Code 1950, § 22-120; 1980, c. 559.</p>

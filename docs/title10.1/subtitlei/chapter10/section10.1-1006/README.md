@@ -1,0 +1,3 @@
+# § 10.1-1006 Disturbance of naturally occurring organisms; scientific collecting permits; penalties.
+
+<p>A. It shall be unlawful to remove, kill, harm, or otherwise disturb any naturally occurring organisms within any cave, except for safety or health reasons; however, scientific collecting permits may be obtained from the Department.</p><p>B. Any violation of this section shall be punished as a Class 3 misdemeanor.</p><p>1979, c. 252, § 10-150.15; 1988, c. 891.</p>

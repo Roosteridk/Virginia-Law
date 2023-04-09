@@ -1,0 +1,3 @@
+# § 6.2-1138 Suspension of business during actual or threatened emergency.
+
+<p>In the event of an actual or threatened enemy attack or civil insurrection or fire, flood, hurricane, earthquake, or other similar natural disaster, affecting the community in which a savings institution is doing business, the offices of the savings institution thereby affected may be temporarily closed by appropriate officers of the savings institution without prior approval of the board of directors or the Commissioner.</p><p>1985, c. 425, § 6.1-194.31; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

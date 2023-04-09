@@ -1,0 +1,3 @@
+# § 30-358 Cooperation of agencies of state and local government.
+
+<p>Every department, division, board, bureau, commission, authority, or political subdivision of the Commonwealth shall cooperate with, and provide such assistance to, the Council as the Council may request.</p><p>2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0792'>792</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0804'>804</a>.</p>

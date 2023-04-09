@@ -1,0 +1,3 @@
+# § 58.1-3272 How assessments made by board or assessor.
+
+<p>Assessments made by the board of real estate assessors or real estate assessor shall be made in the same manner and on the same basis as is provided by general law, and the members of any board so appointed shall have the same powers and be charged with the same duties as the persons appointed according to the provisions of § <a href='http://law.lis.virginia.gov/vacode/58.1-3276/'>58.1-3276</a>.</p><p>Code 1950, § 58-776.2; 1950, p. 700; 1979, c. 577; 1984, c. 675.</p>

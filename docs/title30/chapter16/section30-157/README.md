@@ -1,0 +1,3 @@
+# § 30-157 Executive director, counsel and other personnel.
+
+<p>The Commission may appoint and employ and, at pleasure remove, an executive director, counsel, and such other persons as it deems necessary; and to determine their duties and fix their salaries or compensation within the amounts appropriated therefor.</p><p>1972, c. 766, § 9-131; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

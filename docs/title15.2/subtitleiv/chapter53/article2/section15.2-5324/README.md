@@ -1,0 +1,3 @@
+# § 15.2-5324 Preparation and operation of hospital projects; facilities relating to health care; additional powers.
+
+<p>An authority shall have power to prepare, carry out and operate hospital projects and to establish facilities to provide goods and services relating to health care.</p><p>The powers granted to an authority pursuant to the provisions of this chapter may be exercised in cities or counties other than the city or county in which the authority has been organized. However, an authority shall not commence the exercise of any of these powers in any city in which another authority already has been organized.</p><p>Code 1950, §§ 32-238, 32-238.1; 1977, c. 159, § 15.1-1558; 1979, c. 719, § 15.1-1557; 1987, c. 432; 1997, c. 587.</p>

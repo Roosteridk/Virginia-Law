@@ -1,0 +1,3 @@
+# § 54.1-2708.2 Recovery of monitoring costs.
+
+<p>The Board may recover from any licensee against whom disciplinary action has been imposed reasonable administrative costs associated with investigating and monitoring such licensee and confirming compliance with any terms and conditions imposed upon the licensee as set forth in the order imposing disciplinary action. Such recovery shall not exceed a total of $5,000. All administrative costs recovered pursuant to this section shall be paid by the licensee to the Board. Such administrative costs shall be deposited into the account of the Board and shall not constitute a fine or penalty.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0089'>89</a>.</p>

@@ -1,0 +1,3 @@
+# § 4.1-323 Attempts; aiding or abetting; penalty.
+
+<p>No person shall attempt to do any of the things prohibited by this subtitle or to aid or abet another in doing, or attempting to do, any of the things prohibited by this subtitle.</p><p>On an indictment, information or warrant for the violation of this subtitle, the jury or the court may find the defendant guilty of an attempt, or being an accessory, and the punishment shall be the same as if the defendant were solely guilty of such violation.</p><p>Code 1950, § 4-87; 1993, c. 866.</p>

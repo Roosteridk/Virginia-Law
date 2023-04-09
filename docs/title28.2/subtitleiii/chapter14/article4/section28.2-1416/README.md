@@ -1,0 +1,3 @@
+# § 28.2-1416 Investigations and prosecutions.
+
+<p>The Commission may investigate all projects, whether proposed or ongoing, which alter dunes or beaches. The Commission may prosecute all violations of any order, rule, or regulation of the Commission or of a wetlands board, or violation of any provision of this chapter. Wetlands boards may investigate all projects, whether proposed or ongoing, which alter dunes or beaches located within their jurisdiction. Wetlands boards may prosecute all violations of their orders and any violation of any provision of the coastal primary sand dune zoning ordinance which they administer.</p><p>1992, c. 836.</p>

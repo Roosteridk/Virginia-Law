@@ -1,0 +1,3 @@
+# § 4.1-107 Counsel for members, agents and employees of Board.
+
+<p>If any member, agent, or employee of the Board shall be arrested, indicted or otherwise prosecuted on any charge arising out of any act committed in the discharge of his official duties, the Board chairman may employ special counsel approved by the Attorney General to defend such member, agent, or employee. The compensation for special counsel employed pursuant to this section, shall, subject to the approval of the Attorney General, be paid in the same manner as other expenses incident to the administration of this subtitle are paid.</p><p>Code 1950, § 4-20; 1958, c. 542; 1993, c. 866.</p>

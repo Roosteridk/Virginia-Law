@@ -1,0 +1,3 @@
+# § 8.01-569 When petition dismissed; when retained and cause tried.
+
+<p>If the principal defendant has not appeared generally, nor been served with process, and the sole ground of jurisdiction of the court is the right to sue out the attachment, and this right be decided against the plaintiff, the petition shall be dismissed at the cost of the plaintiff; but if the plaintiff's claim be due at the hearing, and the court would otherwise have jurisdiction of an action against such defendant for the cause set forth in the petition, and such defendant has appeared generally, or been served with process, it shall retain the cause and proceed to final judgment as in other actions at law.</p><p>Code 1950, § 8-557; 1977, c. 617.</p>

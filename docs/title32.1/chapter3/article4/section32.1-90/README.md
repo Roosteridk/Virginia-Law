@@ -1,0 +1,3 @@
+# § 32.1-90 Health services for persons suffering from epilepsy and cystic fibrosis.
+
+<p>The Board may provide, through cooperative agreements with medical facilities or other appropriate means, home and clinic health services for persons suffering from epilepsy and for persons not eligible for child supportive services suffering from cystic fibrosis. Monetary payments from persons for care or treatment under this section shall be determined by the Board. Funds received in payment for such services are hereby appropriated to the Board for the purpose of carrying out the provisions of this section.</p><p>Code 1950, §§ 32-8.3; 32-8.4; 1974, c. 562; 1975, c. 294; 1979, c. 711.</p>

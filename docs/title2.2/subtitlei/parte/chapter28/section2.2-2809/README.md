@@ -1,0 +1,3 @@
+# § 2.2-2809 Bonds of certain officers required; condition.
+
+<p>Certain officers designated by the Governor shall be bonded in accordance with § <a href='/vacode/2.2-1840/'>2.2-1840</a>. The bond shall be conditioned upon the faithful discharge of the duties of his office.</p><p>1980, c. 119, § 2.1-11.1; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0152'>152</a>.</p>

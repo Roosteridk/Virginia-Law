@@ -1,0 +1,3 @@
+# § 64.2-779.18 Need to distribute not required.
+
+<p>An authorized fiduciary may exercise the decanting power whether or not under the first trust's discretionary distribution standard the fiduciary would have made or could have been compelled to make a discretionary distribution of income or principal at the time of the exercise.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0592'>592</a>.</p>

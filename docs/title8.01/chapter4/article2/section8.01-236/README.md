@@ -1,0 +1,3 @@
+# § 8.01-236 Limitation of entry on or action for land.
+
+<p>No person shall make an entry on, or bring an action to recover, any land unless within fifteen years next after the time at which the right to make such entry or bring such action shall have first accrued to such person or to some other person through whom he claims; provided that an action for unlawful entry or detainer under § <a href='http://law.lis.virginia.gov/vacode/8.01-124/'>8.01-124</a> shall be brought within three years after such entry or detainer.</p><p>Code 1950, § 8-5; 1954, c. 604; 1977, c. 617; 1978, c. 471.</p>

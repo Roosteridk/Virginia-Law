@@ -1,0 +1,3 @@
+# § 58.1-2245 License application procedure.
+
+<p>To obtain a license under this article, an applicant shall file an application with the Commissioner on a form provided by the Commissioner. The application shall include the applicant's name, address, federal employer identification number, and any other information required by the Commissioner.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0729'>729</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0758'>758</a>.</p>

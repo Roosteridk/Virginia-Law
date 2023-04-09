@@ -1,0 +1,3 @@
+# § 65.2-519 When limitations inapplicable to injuries arising out of pneumoconiosis.
+
+<p>The limitations as to the maximum periods and maximum total amounts listed in §§ <a href='http://law.lis.virginia.gov/vacode/65.2-500/'>65.2-500</a>, <a href='http://law.lis.virginia.gov/vacode/65.2-512/'>65.2-512</a>, and <a href='http://law.lis.virginia.gov/vacode/65.2-518/'>65.2-518</a> shall not apply to injuries arising out of pneumoconiosis.</p><p>1972, c. 615, § 65.1-71.1; 1991, c. 355.</p>

@@ -1,0 +1,3 @@
+# § 58.1-3610 Volunteer fire departments and volunteer emergency medical services agencies.
+
+<p>Volunteer fire departments and volunteer emergency medical services agencies that operate exclusively for the benefit of the general public without charge are hereby classified as charitable organizations.</p><p>Code 1950, § 58-12.2; 1971, Ex. Sess., c. 187; 1984, c. 675; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

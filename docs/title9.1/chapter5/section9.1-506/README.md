@@ -1,0 +1,3 @@
+# § 9.1-506 Informal counseling not prohibited.
+
+<p>Nothing in this chapter shall be construed to prohibit the informal counseling of a law-enforcement officer by a supervisor in reference to a minor infraction of policy or procedure which does not result in disciplinary action being taken against the law-enforcement officer.</p><p>1978, c. 19, § 2.1-116.8; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

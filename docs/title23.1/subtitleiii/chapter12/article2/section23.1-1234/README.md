@@ -1,0 +1,3 @@
+# § 23.1-1234 Exemption from taxation.
+
+<p>Neither the Authority nor its agent are required to pay any taxes or assessments upon or with respect to a project, any property acquired or used by the Authority or its agent under the provisions of this article, or the income from any such project or property. Any bonds issued under the provisions of this article, the transfer of such bonds, and the income from such bonds, including any profit made on the sale of such bonds, are exempt from taxation of any kind by the Commonwealth and the localities and other political subdivisions of the Commonwealth.</p><p>1972, c. 686, § 23-30.53; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

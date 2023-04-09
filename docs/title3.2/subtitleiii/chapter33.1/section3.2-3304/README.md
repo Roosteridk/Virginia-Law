@@ -1,0 +1,3 @@
+# § 3.2-3304 (Expires July 1, 2023) Definitions.
+
+<p>For the purposes of this chapter, unless the context requires a different meaning:</p><p>"DCR" means the Department of Conservation and Recreation.</p><p>"Farm Act" means the federal Agriculture Improvement Act of 2018, P.L. 115-334.</p><p>"Federal coverage program" means the federal margin coverage program for dairy producers as contained in the Farm Act.</p><p>"Program" means the Dairy Producer Margin Coverage Premium Assistance Program created pursuant to this chapter.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0330'>330</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0331'>331</a>.</p>

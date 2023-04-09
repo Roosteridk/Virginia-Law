@@ -1,0 +1,3 @@
+# § 18.2-148 Bona fide repossession under lien.
+
+<p>The provisions of §§ <a href='http://law.lis.virginia.gov/vacode/18.2-102/'>18.2-102</a>, <a href='http://law.lis.virginia.gov/vacode/18.2-146/'>18.2-146</a> and <a href='http://law.lis.virginia.gov/vacode/18.2-147/'>18.2-147</a> shall not apply to a bona fide repossession of a vehicle, aircraft, boat or vessel by the holder of a lien on such vehicle, aircraft, boat or vessel, or by the agents or employees of such lienholder.</p><p>Code 1950, § 18.1-168; 1960, c. 358; 1975, cc. 14, 15.</p>

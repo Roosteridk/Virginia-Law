@@ -1,0 +1,3 @@
+# § 38.2-3603 Same; minimum return for individual policies.
+
+<p>Medicare supplement policies sold on an individual basis shall be expected to return to policyowners in the form of aggregate benefits at least sixty-five percent of the aggregate amount of premiums collected.</p><p>1981, c. 575, § 38.1-362.8:3; 1986, c. 562; 1991, c. 120.</p>

@@ -1,0 +1,3 @@
+# § 8.01-570 Judgment, etc., of court when claim of plaintiff established.
+
+<p>If the claim of the plaintiff be established, judgment shall be rendered for him, and the court shall dispose of the specific property levied on, as may be right, and order the sale of any other effects or real estate which shall not have been previously released or sold under this chapter, and direct the proceeds of sale, and whatever else is subject to the attachment, including what is embraced by such forthcoming bond, to be applied in satisfaction of the judgment.</p><p>Code 1950, § 8-558; 1977, c. 617.</p>

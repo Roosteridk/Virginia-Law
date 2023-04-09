@@ -1,0 +1,3 @@
+# § 38.2-2413 Release of insurers from liability; rights and remedies.
+
+<p>Any fidelity and surety insurer shall be released from its liability on the same terms and conditions as are prescribed by law for the release of individuals. Any fidelity and surety insurer shall have all the rights, remedies and relief to which an individual guarantor, indemnitor, or surety is entitled.</p><p>Code 1950, § 38-333; 1952, c. 317, § 38.1-649; 1986, c. 562.</p>

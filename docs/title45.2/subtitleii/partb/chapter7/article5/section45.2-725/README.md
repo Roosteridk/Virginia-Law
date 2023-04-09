@@ -1,0 +1,3 @@
+# § 45.2-725  Explosives and blasting practices in shaft and slope operations.
+
+<p>A. Every blasting area in a shaft or slope operation shall be covered with mats or materials when the excavations are too shallow to retain the blasted material.</p><p>B. If explosives are in the shaft or slope when an electrical storm approaches, every miner shall be removed from the working place until the storm has passed.</p><p>1978, c. 729, § 45.1-53.1; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.132; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

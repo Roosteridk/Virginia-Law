@@ -1,0 +1,3 @@
+# § 55.1-1428 Limitation of action against person in possession by reentry.
+
+<p>No person who, or who with his predecessor in title under whom he claims, has possessed lands by virtue of a reentry for the term of two years shall be disturbed therein by action or otherwise for any defect of proceedings in such entry.</p><p>Code 1919, § 5539; Code 1950, § 55-248; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

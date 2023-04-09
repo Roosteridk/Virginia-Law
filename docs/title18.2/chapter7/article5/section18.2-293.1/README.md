@@ -1,0 +1,3 @@
+# § 18.2-293.1 What article does not prohibit.
+
+<p>Nothing contained in this article shall prohibit or interfere with:</p><p>(1) The possession of a machine gun for scientific purposes, or the possession of a machine gun not usable as a weapon and possessed as a curiosity, ornament, or keepsake; and</p><p>(2) The possession of a machine gun for a purpose manifestly not aggressive or offensive.</p><p>Provided, however, that possession of such machine guns shall be subject to the provisions of § <a href='http://law.lis.virginia.gov/vacode/18.2-295/'>18.2-295</a>.</p><p>Code 1950, § 18.1-263; 1960, c. 358; 1975, cc. 14, 15.</p>

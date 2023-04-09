@@ -1,0 +1,3 @@
+# § 15.2-2425 Prioritization of loans.
+
+<p>In approving loans, the Authority shall give preference to loans for projects that will (i) utilize private industry in the operation and maintenance of such projects where a material savings in cost can be shown over public operation and maintenance, (ii) serve two or more local governments to encourage regional cooperation, or (iii) provide broadband services in areas with a demonstrated need that, in the opinion of the Secretary of Administration and the Secretary of Commerce and Trade, are currently unserved by broadband providers.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0131'>131</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0738'>738</a>.</p>

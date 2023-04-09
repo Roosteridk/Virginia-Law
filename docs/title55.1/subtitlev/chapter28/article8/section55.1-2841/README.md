@@ -1,0 +1,3 @@
+# § 55.1-2841 Effect of article.
+
+<p>Nothing in this article shall have the effect of precluding any compromise or agreed settlement that the parties in dispute may effect as to the civil remedies provided by this article, nor of barring any other remedy provided for by law.</p><p>Code 1950, § 8-910; 1977, c. 624, § 55-335; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

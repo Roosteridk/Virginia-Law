@@ -1,0 +1,3 @@
+# § 60.2-713 Approval and disapproval of plan.
+
+<p>The Commission shall approve or disapprove a work sharing plan in writing within 10 working days of its receipt and promptly communicate the decision to the employer. A decision disapproving the plan shall clearly identify the reasons for the disapproval. If a plan is disapproved, the employer may submit a different work sharing plan for approval.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1261'>1261</a>.</p>

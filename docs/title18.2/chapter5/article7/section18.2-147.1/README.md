@@ -1,0 +1,3 @@
+# § 18.2-147.1 Breaking and entering into railroad cars, motortrucks, aircraft, etc., or pipeline systems.
+
+<p>Any person who breaks the seal or lock of any railroad car, vessel, aircraft, motortruck, wagon or other vehicle or of any pipeline system, containing shipments of freight or express or other property, or breaks and enters any such vehicle or pipeline system with the intent to commit larceny or any felony therein shall be guilty of a Class 4 felony; provided, however, that if such person is armed with a firearm at the time of such breaking and entering, he shall be guilty of a Class 3 felony.</p><p>1979, c. 336.</p>

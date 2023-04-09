@@ -1,0 +1,3 @@
+# § 58.1-2662.2 Gross receipts of companies furnishing water, heat, light or power.
+
+<p>The special regulatory revenue tax on companies furnishing water, heat, light or power levied pursuant to § <a href='http://law.lis.virginia.gov/vacode/58.1-2660/'>58.1-2660</a> shall be based on gross receipts with the exemptions allowed under § <a href='http://law.lis.virginia.gov/vacode/58.1-2627/'>58.1-2627</a>.</p><p>1988, c. 727.</p>

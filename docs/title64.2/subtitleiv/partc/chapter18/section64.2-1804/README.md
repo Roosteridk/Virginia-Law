@@ -1,0 +1,3 @@
+# § 64.2-1804 Powers of courts over guardians.
+
+<p>The circuit courts may hear and determine all matters between guardians and their wards, require settlements of guardianship accounts, remove any guardian for neglect or breach of trust and appoint another guardian for the ward, and make any order for the custody, health, maintenance, education, and support of a ward and the management, disbursement, preservation, and investment of the ward's estate.</p><p>Code 1919, § 5326; Code 1950, § 31-14; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0016'>16</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

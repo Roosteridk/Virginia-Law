@@ -1,0 +1,3 @@
+# § 3.2-6570.1 Sale of animals after cruelty or neglect conviction; penalty.
+
+<p>Any person who has been convicted of a violation of any law concerning abuse, neglect, or cruelty to animals that sells, offers for sale, or trades any companion animal is guilty of a Class 1 misdemeanor. However, a person may dispose of animals under the provisions of a court order.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0852'>852</a>, § 3.1-796.122:1.</p>

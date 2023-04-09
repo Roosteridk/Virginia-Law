@@ -1,0 +1,3 @@
+# § 8.01-125 When summons returnable to circuit court; jury.
+
+<p>When the action is commenced in the circuit court, the summons is returnable thereto and, upon application of either party trial by jury shall be had.</p><p>Code 1950, § 8-792; 1954, c. 333; 1970, c. 272; 1977, c. 617.</p>

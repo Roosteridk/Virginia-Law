@@ -1,0 +1,3 @@
+# § 33.2-111 Funding and undertaking of pedestrian or bicycle projects apart from highway projects not prohibited.
+
+<p>Nothing contained in this chapter and no regulation promulgated by the Commissioner of Highways or the Board shall be construed to prohibit or limit the ability of the Board or the Department to fund and undertake pedestrian or bicycle projects except in conjunction with highway projects.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0678'>678</a>, § 33.1-223.2:6; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

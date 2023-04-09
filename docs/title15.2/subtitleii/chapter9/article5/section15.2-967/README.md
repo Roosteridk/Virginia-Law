@@ -1,0 +1,3 @@
+# § 15.2-967 Parking facilities.
+
+<p>Any locality may provide off-street automobile parking facilities and open them to the public, with or without charge, and when any locality constructs or has constructed any such facility, it may lease space therein for private commercial purposes which are necessary for sound fiscal management of the parking facility or which space is not suitable for parking.</p><p>Code 1950, § 15-6; 1960, c. 528; 1962, c. 623, § 15.1-14; 1970, c. 453; 1973, c. 402; 1990, c. 58; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 60.2-520 Taxes which accrued while employer was in armed forces.
+
+<p>No interest shall be assessed against or collected from any employer upon any taxes which accrued against such employer during the period of active service of such employer in the armed forces of the United States. Any proof of such service satisfactory to the Commission shall be sufficient. Any such employer who has already paid to the Commission any interest on taxes which would have been abated under this provision shall be entitled to a refund for the amount of interest so paid upon the filing of an application therefor.</p><p>Code 1950, § 60-77.1; 1952, c. 184; 1968, c. 738, § 60.1-93; 1986, c. 480.</p>

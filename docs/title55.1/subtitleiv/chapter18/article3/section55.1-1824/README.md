@@ -1,0 +1,3 @@
+# § 55.1-1824 Assessments; late fees.
+
+<p>Except to the extent that the declaration or any rules or regulations promulgated pursuant to such declaration provide otherwise, the board may impose a late fee that does not exceed the penalty provided in § <a href='/vacode/58.1-3915/'>58.1-3915</a> for any assessment or installment that is not paid within 60 days of the due date for payment of such assessment.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0256'>256</a>, § 55-513.3; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0239'>239</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

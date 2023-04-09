@@ -1,0 +1,3 @@
+# § 46.2-913 Vendors of certain motorcycles to furnish statements of registration and licensing requirements.
+
+<p>Every retailer of motorcycles having a rating of seven horsepower or less, shall provide written statements to every vendee regarding registration and licensing of such vehicles and the requirement of a motor vehicle driver's license.</p><p>1973, c. 72, § 46.1-172.02; 1978, c. 605; 1984, c. 780; 1989, c. 727.</p>

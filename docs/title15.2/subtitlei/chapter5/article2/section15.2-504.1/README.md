@@ -1,0 +1,3 @@
+# § 15.2-504.1 Lighting level regulation.
+
+<p>The board of any county with a population of less than 100,000 operating under a county executive form of government may provide by ordinance for the regulation of exterior illumination levels of buildings and property.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0567'>567</a>, § 15.1-687.23; 1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0194'>194</a>, 587.</p>

@@ -1,0 +1,3 @@
+# § 44-25 Organization; composition of units.
+
+<p>Except as otherwise specifically provided by the laws of the United States, the organization of the National Guard, including the composition of all units thereof, shall be the same as that prescribed for the active army, air force and navy, subject in time of peace to such general exceptions as may be authorized by the Secretary of Defense.</p><p>1930, p. 952; Michie Code 1942, § 2673(15); 1958, c. 393; 1964, c. 227.</p>

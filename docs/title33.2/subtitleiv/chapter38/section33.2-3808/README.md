@@ -1,0 +1,3 @@
+# § 33.2-3808 Applicability of land use regulations.
+
+<p>In any locality where planning, zoning, and development regulations may apply, the authority shall comply with and is subject to those regulations to the same extent as a private commercial or industrial enterprise.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0353'>353</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0354'>354</a>.</p>

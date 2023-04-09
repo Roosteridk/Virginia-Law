@@ -1,0 +1,3 @@
+# § 54.1-919 Appeal from action of Commission.
+
+<p>From any action of the State Corporation Commission under § <a href='http://law.lis.virginia.gov/vacode/54.1-918/'>54.1-918</a>, an appeal may be taken by the individual pilots, company or association affected, or by any other person, firm or corporation aggrieved by such action, in the manner prescribed in Article IX, Section 4 of the Constitution of Virginia.</p><p>Code 1950, § 54-563; 1971, Ex. Sess., c. 37; 1988, c. 765.</p>

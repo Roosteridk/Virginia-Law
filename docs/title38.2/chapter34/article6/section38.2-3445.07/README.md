@@ -1,0 +1,3 @@
+# § 38.2-3445.07 Rules and regulations.
+
+<p>Pursuant to § <a href='/vacode/38.2-223/'>38.2-223</a>, the Commission may adopt rules and regulations to implement and administer the provisions of §§ <a href='/vacode/38.2-3445/'>38.2-3445</a> through <a href='/vacode/38.2-3445.06/'>38.2-3445.06</a>, including rules and regulations governing the arbitration process established in § <a href='/vacode/38.2-3445.02/'>38.2-3445.02</a>.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1080'>1080</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1081'>1081</a>.</p>

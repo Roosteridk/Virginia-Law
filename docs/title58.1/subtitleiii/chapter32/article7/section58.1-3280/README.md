@@ -1,0 +1,3 @@
+# § 58.1-3280 Assessment of values.
+
+<p>Every assessor or appraiser so designated under this chapter shall, as soon as practicable after being so designated, proceed to ascertain and assess the fair market value of all lands and lots assessable by them, with the improvements and buildings thereon. They shall make a physical examination thereof if required by the taxpayer, and in all other cases where they deem it advisable.</p><p>Code 1950, § 58-790; 1975, cc. 51, 547; 1976, c. 676; 1983, c. 161; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 15.2-704 Appointment of clerk of board; powers and duties; obligations and penalties.
+
+<p>The clerk of the board shall be such qualified person as the board designates. He shall be compensated in an amount set by the board and may employ such deputies and assistants as the board authorizes. He shall exercise the powers conferred and perform the duties imposed upon such officers by general law and shall be subject to the obligations and penalties imposed by general law. He shall also perform such other duties as the board imposes upon him.</p><p>Code 1950, § 15-350.2; 1962, c. 19, § 15.1-675.1; 1982, c. 108; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 38.2-4610.1:1 Unearned premium reserves of foreign title insurance companies.
+
+<p>A foreign title insurance company licensed to transact business in the Commonwealth shall be permitted to establish and maintain an unearned premium reserve on title insurance policies issued on properties located in the Commonwealth pursuant to the reserving laws of that foreign title insurance company's domiciliary regulator so long as the domiciliary regulator is accredited under the National Association of Insurance Commissioner's Financial Regulation Standards and Accreditation Program.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0248'>248</a>.</p>

@@ -1,0 +1,3 @@
+# § 24.2-454 Elections covered.
+
+<p>The voting procedures in this chapter apply to:</p><p>1. A general, special, or primary election for federal office;</p><p>2. A general, special, or primary election for statewide or state legislative office or state referendum measure; and</p><p>3. A general, special, or primary election for local constitutional or government office or local referendum measure conducted under Chapter 6 (§ <a href='http://law.lis.virginia.gov/vacode/24.2-600/'>24.2-600</a> et seq.) for which absentee voting is available for other voters.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0353'>353</a>.</p>

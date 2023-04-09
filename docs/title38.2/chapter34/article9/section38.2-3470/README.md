@@ -1,0 +1,3 @@
+# § 38.2-3470 (Effective October 1, 2020) Scope of article.
+
+<p>This article shall not apply with respect to claims under (i) an employee welfare benefit plan as defined in section 3 (1) of the Employee Retirement Income Security Act of 1974, 29 U.S.C. § 1002(1), that is self-insured or self-funded; (ii) coverages issued pursuant to Title XIX of the Social Security Act, 42 U.S.C. § 1396 et seq. (Medicaid); or (iii) prescription drug coverages issued pursuant to Part D of Title XVIII of the Social Security Act, 42 U.S.C. § 1395 et seq. (Medicare Part D).</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0219'>219</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1288'>1288</a>.</p>

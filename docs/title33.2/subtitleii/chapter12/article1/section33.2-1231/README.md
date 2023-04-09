@@ -1,0 +1,3 @@
+# § 33.2-1231 Construction of article.
+
+<p>This article shall be liberally construed with a view to the effective accomplishment of its purposes.</p><p>2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0603'>603</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0611'>611</a>, § 33.1-378; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,0 +1,3 @@
+# § 13.1-556 Application of Chapter 9 or Chapter 10 of this title.
+
+<p>The provisions of Chapter 9 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-601/'>13.1-601</a> et seq.) or Chapter 10 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-801/'>13.1-801</a> et seq.), as the case may be, of this title shall be applicable to professional corporations organized under the provisions of this chapter. Where a conflict arises between the provisions found in Chapter 9, or Chapter 10, as the case may be, and this chapter, this chapter shall control.</p><p>1970, c. 77; 1972, c. 84; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0194'>194</a>.</p>

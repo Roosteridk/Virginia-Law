@@ -1,0 +1,3 @@
+# § 46.2-1115 Lengths of manufactured homes or house trailers.
+
+<p>The actual length of any combination of a towing vehicle and any manufactured home or house trailer, coupled together, shall not exceed a total length of sixty-five feet, including coupling.</p><p>Code 1950, § 46-328.1; 1956, c. 86; 1958, c. 541, § 46.1-331; 1985, c. 426; 1989, c. 727; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0039'>39</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0146'>146</a>; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0077'>77</a>.</p>

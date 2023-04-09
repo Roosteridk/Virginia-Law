@@ -1,0 +1,3 @@
+# § 15.2-967.1 Regulation of certain transportation services.
+
+<p>A local transportation service that operates as a nonprofit organization and that primarily serves senior citizens and disabled citizens shall be exempted from any local license tax imposed upon taxicab services and other for-hire transportation services.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0556'>556</a>.</p>

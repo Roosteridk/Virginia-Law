@@ -1,0 +1,3 @@
+# § 45.2-578  Powers and duties of the Virginia Coal Mine Safety Board.
+
+<p>The Virginia Coal Mine Safety Board has the power to advise and make recommendations to the Chief on matters relating to the health and safety of persons working in the Virginia coal industry. The Board shall serve as the regulatory work committee for the Department on all coal mine health and safety regulations not under the jurisdiction of the Board of Coal Mining Examiners.</p><p>1990, c. 963, § 45.1-5.3; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.100; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

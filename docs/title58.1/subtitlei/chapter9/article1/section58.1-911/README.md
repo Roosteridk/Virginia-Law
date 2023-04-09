@@ -1,0 +1,3 @@
+# § 58.1-911 Final account.
+
+<p>No final account of a personal representative shall be approved by a commissioner of accounts unless the commissioner finds that all state, county or city taxes assessed and chargeable upon property in the hands of a personal representative have been paid. No final account of a personal representative who is required to file a federal estate tax return shall be approved by the commissioner of accounts unless the commissioner finds that the tax imposed on the property by this chapter, including applicable interest, has been paid in full or that no such tax is due.</p><p>Code 1950, § 58-238.12; 1978, c. 838; 1984, c. 675; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0035'>35</a>.</p>

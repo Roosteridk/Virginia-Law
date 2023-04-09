@@ -1,0 +1,3 @@
+# § 17.1-233 What to be recorded in marriage register.
+
+<p>All marriage licenses and all matters relating to marriages required or authorized to be recorded under § <a href='http://law.lis.virginia.gov/vacode/20-20/'>20-20</a> shall be recorded in a book to be known as the marriage register.</p><p>Code 1919, § 3393, § 17-65; 1920, p. 314; 1932, p. 334; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

@@ -1,0 +1,3 @@
+# § 58.1-409 Property factor.
+
+<p>The property factor is a fraction, the numerator of which is the average value of the corporation's real and tangible personal property owned and used or rented and used in the Commonwealth during the taxable year and the denominator of which is the average value of all the corporation's real and tangible personal property owned and used or rented and used during the taxable year and located everywhere, to the extent that such property is used to produce Virginia taxable income and is effectively connected with the conduct of a trade or business within the United States and income therefrom is includable in federal taxable income.</p><p>Code 1950, § 58-151.042; 1971, Ex. Sess., c. 171; 1978, c. 184; 1981, c. 402; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 3.2-5805 Licenses and renewal fees.
+
+<p>Before the issuance of any license as a licensed public weighmaster, or any renewal thereof, the applicant shall pay to the Commissioner a fee of $10. Such fees shall be deposited with the State Treasurer to be credited to a fund to be used by the Commissioner for the administration of this chapter.</p><p>Code 1950, § 3-709.6; 1962, c. 126; 1966, c. 702, § 3.1-975; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

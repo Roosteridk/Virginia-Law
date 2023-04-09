@@ -1,0 +1,3 @@
+# § 59.1-592 Exemptions; license tax.
+
+<p>Notwithstanding any other provision of law, a benefits consortium or sponsoring association, by virtue of its sponsorship of a benefits consortium or any health benefit plan, shall not be subject to the following: (i) the provisions of Chapter 17 (§ <a href='/vacode/38.2-1700/'>38.2-1700</a> et seq.) of Title 38.2 or any regulations adopted thereunder or (ii) any annual license tax levied pursuant to § <a href='/vacode/58.1-2501/'>58.1-2501</a>.</p><p>2022, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0404'>404</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0405'>405</a>.</p>

@@ -1,0 +1,3 @@
+# § 46.2-428 Commonwealth responsible for deposits.
+
+<p>The Commonwealth shall be responsible for the safekeeping of all bonds, cash, and securities deposited with the State Treasurer under the provisions of this chapter, and if the deposit or any part of the deposit is lost, destroyed, or misappropriated the Commonwealth shall make good the loss to any person entitled thereto.</p><p>Code 1950, § 46-448; 1958, c. 541, § 46.1-460; 1989, c. 727.</p>

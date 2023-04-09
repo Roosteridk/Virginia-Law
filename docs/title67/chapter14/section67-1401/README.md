@@ -1,0 +1,3 @@
+# § 67-1401 (Repealed effective October 1, 2021) Virginia Nuclear Energy Consortium Authority established.
+
+<p>There is hereby created and constituted a political subdivision of the Commonwealth to be known as the Virginia Nuclear Energy Consortium Authority (the Authority). The Authority's exercise of powers conferred by this chapter shall be deemed to be the performance of an essential governmental function and matters of public necessity for which public moneys may be spent and private property acquired.</p><p>2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0057'>57</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0394'>394</a>.</p>

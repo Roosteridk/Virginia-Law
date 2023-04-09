@@ -1,0 +1,3 @@
+# § 42.1-3 Terms of office of members of Board; vacancies.
+
+<p>Members serving on the Board on June 30, 1986, shall continue in their respective terms, and the Governor shall appoint the following additional members: one member for a one-year term, one member for a three-year term, two members for four-year terms, and two members for five-year terms. Thereafter, all appointments shall be for five-year terms beginning on July 1 of the year of appointment, provided that appointments to fill vacancies shall be for the unexpired term.</p><p>No person shall be eligible to serve as a member of the Board for more than two successive full terms.</p><p>Code 1950, § 42-35; 1968, c. 122; 1970, c. 606; 1986, c. 565.</p>

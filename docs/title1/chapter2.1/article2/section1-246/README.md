@@ -1,0 +1,3 @@
+# § 1-246 Stricken language or italics.
+
+<p>Stricken language for deletions and italics for additions or changes may be used in legislative drafts, printed bills, enrolled bills, and printed Acts of Assembly, in an attempt to call attention to amendments to existing acts of the General Assembly. The stricken language and italics shall not be construed as evidence of amendments to acts of the General Assembly.</p><p>1950, p. 24, § 1-13.34; 1986, c. 155; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

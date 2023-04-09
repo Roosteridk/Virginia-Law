@@ -1,0 +1,3 @@
+# § 25.1-412 Administration of relocation assistance programs.
+
+<p>In order to prevent unnecessary expense and duplication of functions, and to promote uniform and effective administration of relocation assistance programs for displaced persons, a state agency may enter into contracts with any person for services in connection with such programs, or may carry out its functions under this chapter through any federal or state agency or instrumentality having an established organization for conducting relocation assistance programs.</p><p>Code 1950, §§ 33-75.03, 33.1-132.3; 1970, c. 40, § 25-243; 1972, c. 738; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

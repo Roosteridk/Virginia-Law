@@ -1,0 +1,3 @@
+# § 28.2-635 Residents not to be associated with nonresident.
+
+<p>Any resident who is associated for market or profit with any nonresident in taking or catching oysters or clams in any of the waters of the Commonwealth, or in waters under the jurisdiction of the Commonwealth, or in planting oysters or clams, or who knowingly participates with any nonresident in any such business in his name for market or profit, is guilty of a Class 1 misdemeanor. The residence restrictions in this section shall not prevent a resident from owning stock in a corporation in which nonresidents are stockholders, if such corporation is authorized by law to occupy oyster-planting grounds.</p><p>Code 1950, § 28-140; 1962, c. 406, § 28.1-123; 1983, c. 307; 1992, c. 836.</p>

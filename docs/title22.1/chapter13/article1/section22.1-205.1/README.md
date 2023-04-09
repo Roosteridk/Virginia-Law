@@ -1,0 +1,3 @@
+# § 22.1-205.1 High school student parking passes; valid driver's license required.
+
+<p>Each public high school shall require any student who applies to obtain a pass to park a vehicle on school property to provide evidence that the student possesses a valid driver's license or driver privilege card. The Department shall develop, and each public high school shall utilize, a standard application form for students to use to obtain a pass to park a vehicle on school property.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0074'>74</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0075'>75</a>.</p>

@@ -1,0 +1,3 @@
+# § 3.2-5315 Judicial review.
+
+<p>Any determination of final actions of the Department taken pursuant to this chapter shall be reviewable in accordance with the provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>1968, c. 142, § 3.1-770.3; 1986, c. 615; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,0 +1,3 @@
+# § 46.2-105 Making false affidavit or swearing falsely, perjury.
+
+<p>Any person who knowingly makes any false affidavit or knowingly swears or affirms falsely to any matter or thing required by this title or the Commissioner incidental to his administration of this title to be sworn to or affirmed shall be guilty of perjury.</p><p>Code 1950, § 46-66; 1958, c. 541, § 46.1-15; 1989, c. 727.</p>

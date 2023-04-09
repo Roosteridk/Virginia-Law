@@ -1,0 +1,3 @@
+# § 46.2-2059 Permit required for taxicab service.
+
+<p>It shall be unlawful for any taxicab or other motor vehicle performing a taxicab service to operate on an intrastate basis on any public highway in the Commonwealth outside the corporate limits of incorporated cities or towns without first obtaining from the Department a permit in accordance with the provisions of this chapter.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

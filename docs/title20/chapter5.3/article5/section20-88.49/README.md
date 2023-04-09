@@ -1,0 +1,3 @@
+# § 20-88.49 Inappropriate tribunal.
+
+<p>If a petition or comparable pleading is received by an inappropriate tribunal of this Commonwealth, it shall forward the pleading and accompanying documents to an appropriate tribunal in this Commonwealth or another state, and notify the petitioner where and when the pleading was sent.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0673'>673</a>; 1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0797'>797</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0897'>897</a>.</p>

@@ -1,0 +1,3 @@
+# § 46.2-845 Limitation on U-turns.
+
+<p>The driver of a vehicle within cities, towns or business districts of counties shall not turn his vehicle so as to proceed in the opposite direction except at an intersection.</p><p>No vehicle shall be turned so as to proceed in the opposite direction on any curve, or on the approach to or near the crest of a grade, where the vehicle cannot be seen by the driver of any other vehicle approaching from any direction within 500 feet.</p><p>Code 1950, § 46-230; 1958, c. 541, § 46.1-214; 1989, c. 727.</p>

@@ -1,0 +1,3 @@
+# § 8.01-131 Action of ejectment retained; when and by whom brought.
+
+<p>A. The action of ejectment is retained, subject to the provisions hereinafter contained, and to the applicable Rules of Court.</p><p>B. Such action may be brought in the same cases in which a writ of right might have been brought prior to the first day of July, 1850, and by any person claiming real estate in fee or for life or for years, either as heir, devisee or purchaser, or otherwise.</p><p>Code 1950, §§ 8-796, 8-797; 1954, c. 333; 1977, c. 617.</p>

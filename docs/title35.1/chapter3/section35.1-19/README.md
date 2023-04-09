@@ -1,0 +1,3 @@
+# § 35.1-19 Person deemed responsible for campground.
+
+<p>In the event that the Commissioner or his designee cannot establish which person is responsible for a campground, the owner of the parcel of land upon which the campground lies shall be deemed to be the person responsible for obtaining a license and meeting the requirements of this title and the applicable rules and regulations for retaining a license.</p><p>1981, c. 468.</p>

@@ -1,0 +1,3 @@
+# § 42.1-74 Failure to return book or other library property.
+
+<p>Any person having in his possession any book or other property of any of the above libraries or collections, which he shall fail to return within thirty days after receiving notice in writing from the custodian, shall be guilty of a misdemeanor and punished according to law; provided, however, that if such book should be lost or destroyed, such person may, within thirty days after being so notified, pay to the custodian the value of such book, the value to be determined by the governing board having jurisdiction.</p><p>Code 1950, § 42-22; 1970, c. 606.</p>

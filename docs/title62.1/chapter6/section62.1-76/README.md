@@ -1,0 +1,3 @@
+# § 62.1-76 Expenses of members.
+
+<p>The commissioners shall be reimbursed out of moneys appropriated for such purposes all sums which they necessarily expend in the discharge of their duties as members of such Commission.</p><p>Code 1950, § 62-67.7; 1968, c. 659.</p>

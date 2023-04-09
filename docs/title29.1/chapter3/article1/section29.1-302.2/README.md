@@ -1,0 +1,3 @@
+# § 29.1-302.2 Special lifetime fishing license; permanently disabled persons.
+
+<p>Any resident who is permanently disabled, as defined in § <a href='/vacode/58.1-3217/'>58.1-3217</a>, who applies for a special lifetime state resident fishing license shall receive such a license for a fee of five dollars or as subsequently revised by the Board pursuant to § <a href='/vacode/29.1-103/'>29.1-103</a>. The applicant shall provide proof of permanent disability acceptable to the Director of the Department.</p><p>1989, c. 91; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0009'>9</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0958'>958</a>.</p>

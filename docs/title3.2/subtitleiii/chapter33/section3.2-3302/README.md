@@ -1,0 +1,3 @@
+# § 3.2-3302 Cooperation of departments, agencies, and officers of the Commonwealth.
+
+<p>All departments, agencies, and officers of the Commonwealth and its political subdivisions are hereby authorized to cooperate with the Southern Dairy Compact Commission in furtherance of any of its activities pursuant to the Compact.</p><p> 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0706'>706</a>, § 3.1-461.3; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

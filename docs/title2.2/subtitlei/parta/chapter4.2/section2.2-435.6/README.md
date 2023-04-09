@@ -1,0 +1,3 @@
+# § 2.2-435.6 Chief Workforce Development Officer.
+
+<p>The Governor shall serve as Chief Workforce Development Officer for the Commonwealth.</p><p>2006, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0696'>696</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0751'>751</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0815'>815</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0453'>453</a>.</p>

@@ -1,0 +1,3 @@
+# § 20-78 Continuance of failure to support after completion of sentence.
+
+<p>Any person sentenced under §§ <a href='http://law.lis.virginia.gov/vacode/20-72/'>20-72</a> to <a href='http://law.lis.virginia.gov/vacode/20-79/'>20-79</a> who, after the completion of such sentence, shall continue in his or her failure, without just cause, adequately to support his or her spouse or children, as the case may be, may again be sentenced on the original petition, as for a new offense, in the same manner and under like conditions as herein provided, and so on from time to time, as often as such failure or failures shall occur.</p><p>Code 1919, § 1939; 1932, p. 467; 1940, p. 478; 1974, c. 464.</p>

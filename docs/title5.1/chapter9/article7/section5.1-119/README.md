@@ -1,0 +1,3 @@
+# § 5.1-119 Condition of bond, etc.
+
+<p>The insurance bond, or other security, shall obligate the insurer or surety to pay any final judgment for damages sustained by the passengers, shippers, or consignees for injury to any passenger or passengers, or for loss or damage to property entrusted to such air carrier when a cargo policy is required, and for any and all injuries to persons and loss of, or damage to, property resulting from the negligent operation of any aircraft.</p><p>Code 1950, § 56-173; 1970, c. 708.</p>

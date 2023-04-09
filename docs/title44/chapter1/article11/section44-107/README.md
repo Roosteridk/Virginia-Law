@@ -1,0 +1,3 @@
+# § 44-107 Use for private purposes forbidden.
+
+<p>No officer or enlisted person shall use, except upon military duty any article of military property belonging to the United States or to the Commonwealth.</p><p>1930, p. 969; Michie Code 1942, § 2673(92); 1958, c. 393.</p>

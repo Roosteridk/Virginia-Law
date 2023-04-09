@@ -1,0 +1,3 @@
+# § 56-265.21 Marking by color.
+
+<p>In marking the approximate location of underground utility lines or proposed excavation if required pursuant to subsection E of § <a href='http://law.lis.virginia.gov/vacode/56-265.17/'>56-265.17</a> the American Public Works Association color codes shall be used.</p><p>1979, c. 291; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0890'>890</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0841'>841</a>.</p>

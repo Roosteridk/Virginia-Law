@@ -1,0 +1,3 @@
+# § 43-14.1 Service of notices.
+
+<p>Any notice authorized or required by this chapter, except the notice required by § <a href='http://law.lis.virginia.gov/vacode/43-11/'>43-11</a>, may be served by any sheriff or constable who shall make return of the time and manner of service; or any such notice may be served by certified or registered mail and a return receipt therefor shall be prima facie evidence of receipt.</p><p>1968, c. 568; 1971, Ex. Sess., c. 155.</p>

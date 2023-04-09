@@ -1,0 +1,3 @@
+# § 15.2-3535 Advertising of charter.
+
+<p>The governing bodies, or a committee acting for and in lieu of the governing body under § <a href='http://law.lis.virginia.gov/vacode/15.2-3531/'>15.2-3531</a>, may draft a charter for a consolidated city or a tier-city to be adopted as a part of the consolidation agreement. The advertising of the consolidation agreement as provided in § <a href='http://law.lis.virginia.gov/vacode/15.2-3537/'>15.2-3537</a> shall include a statement that a copy of the text of the charter is on file in the clerks' offices of the circuit courts of the consolidating localities and is open to public inspection.</p><p>1984, c. 695, § 15.1-1135.1; 1986, c. 312; 1997, c. 587.</p>

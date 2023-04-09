@@ -1,0 +1,3 @@
+# § 56-413.01 Locomotive and rail car standards.
+
+<p>All locomotives and rail cars operating over the tracks of a railroad company are subject to Federal Railroad Administration jurisdiction and shall be maintained in accordance with federal standards. Locomotives designed with spark arrestors shall be cleaned and maintained on a regularly scheduled basis.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0114'>114</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0157'>157</a>.</p>

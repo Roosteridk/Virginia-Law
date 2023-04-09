@@ -1,0 +1,3 @@
+# § 38.2-1055 Annual report of State Treasurer to Commission.
+
+<p>Each January the State Treasurer shall certify to the Commission the kind and face value of all securities, bonds, notes, mortgages or deeds of trust deposited under this title and held at the end of the preceding calendar year.</p><p>Code 1950, § 38-45; 1952, c. 317, § 38.1-119; 1986, c. 562.</p>

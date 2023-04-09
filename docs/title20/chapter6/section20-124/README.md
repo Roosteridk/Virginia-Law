@@ -1,0 +1,3 @@
+# § 20-124 Sequestration of record.
+
+<p>Upon motion of a party to any suit under this chapter, the court may order the record thereof or any agreement of the parties, filed therein, to be sealed and withheld from public inspection and thereafter the same shall only be opened to the parties, their respective attorneys, and to such other persons as the judge of such court at his discretion decides have a proper interest therein.</p><p>1978, c. 484; 1990, c. 623.</p>

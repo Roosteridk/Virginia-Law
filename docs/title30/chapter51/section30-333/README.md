@@ -1,0 +1,3 @@
+# § 30-333 Use of consultants.
+
+<p>The Commission may employ on a consulting basis such investment, actuarial, and other professional or technical experts as may be reasonably necessary for the Commission to fulfill its responsibilities under this chapter. Such consultants shall provide, upon request, assistance to the House Committee on Appropriations and Senate Committee on Finance and Appropriations on matters related to the Virginia College Savings Plan.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0591'>591</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0659'>659</a>.</p>

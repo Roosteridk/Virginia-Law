@@ -1,0 +1,3 @@
+# § 3.2-3306 (Expires July 1, 2023) Report.
+
+<p>The Commissioner shall submit an annual report no later than December 1 of each year to the House Committee on Agriculture, Chesapeake and Natural Resources and the Senate Committee on Agriculture, Conservation and Natural Resources assessing the effectiveness of the Program in preserving and assisting with the continued operation of dairy producers in the Commonwealth.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0330'>330</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0331'>331</a>.</p>

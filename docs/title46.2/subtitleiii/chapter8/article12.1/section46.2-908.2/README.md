@@ -1,0 +1,3 @@
+# § 46.2-908.2 Low-speed vehicles; required equipment.
+
+<p>Every low-speed vehicle operated upon a highway shall be equipped with head lights, brake lights, tail lights, reflex reflectors, an emergency or parking brake, an externally mounted rearview mirror, an internally mounted rearview mirror, a windshield, one or more windshield wipers, a speedometer, an odometer, braking for each wheel, a safety belt system, and a vehicle identification number.</p><p>2002, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0214'>214</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0234'>234</a>.</p>

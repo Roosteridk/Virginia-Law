@@ -1,0 +1,3 @@
+# § 22.1-204 Study of accident prevention.
+
+<p>In one or more of the elementary or secondary grades of every school division there shall be provided a course of study including elementary training in accident prevention, in proper conduct on streets and highways, in the operation of motor vehicles as required by the traffic laws of this Commonwealth, and in ways and means of preventing loss of lives and damage to property through preventable fires. Such course shall be required of every pupil completing the course of study in any such grade.</p><p>Code 1950, § 22-235; 1962, c. 482; 1966, c. 208; 1968, c. 433; 1980, c. 559; 1991, c. 178.</p>

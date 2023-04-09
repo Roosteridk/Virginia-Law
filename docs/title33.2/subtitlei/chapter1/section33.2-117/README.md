@@ -1,0 +1,3 @@
+# § 33.2-117 Statutes declaring streams and rivers to be highways continued.
+
+<p>All statutes heretofore enacted declaring certain streams and rivers to be highways and providing for removing obstructions therefrom and from other streams shall continue in force.</p><p>Code 1950, § 33-97; 1970, c. 322; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>, § 33.1-183; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0256'>256</a>.</p>

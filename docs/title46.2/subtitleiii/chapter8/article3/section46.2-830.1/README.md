@@ -1,0 +1,3 @@
+# § 46.2-830.1 Failure to obey highway sign where driver sleeping or resting.
+
+<p>No driver of a vehicle shall park or stop his vehicle on the shoulder or other portion of the highway not ordinarily used for vehicular traffic in violation of a highway sign in order for the driver to sleep or rest. No demerit points shall be assigned pursuant to the Uniform Demerit Point System for a violation pursuant to this section. However, the provisions of this section shall not apply if such vehicle is parked or stopped in such manner as to impede or render dangerous the shoulder or other portion of the highway.</p><p>1992, c. 856; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0504'>504</a>.</p>

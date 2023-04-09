@@ -1,0 +1,3 @@
+# § 5.1-21 Powers of conservator of the peace conferred upon pilot.
+
+<p>The pilot of any aircraft carrying passengers for hire while actively engaged in the operation of such aircraft shall be a special policeman and have all the powers of a conservator of the peace in the enforcement of order on such aircraft and while in pursuit of persons for disorder upon such aircraft and until such persons as may be arrested by him shall have been placed in confinement or delivered to the custody of some other conservator of the peace or police officer.</p><p>Code 1950, § 5-14.2; 1958, c. 561, § 2; 1966, c. 576.</p>

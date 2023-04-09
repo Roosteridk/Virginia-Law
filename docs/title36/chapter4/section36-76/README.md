@@ -1,0 +1,3 @@
+# § 36-76 Printing and distribution of rules and regulations.
+
+<p>The Administrator shall have printed from time to time, and keep in pamphlet form, all rules and regulations prescribing standards for industrialized buildings. Such pamphlets shall be furnished upon request to members of the public.</p><p>Code 1950, § 12-74; 1970, c. 305; 1971, Ex. Sess., c. 103; 1977, c. 613; 1986, c. 37.</p>

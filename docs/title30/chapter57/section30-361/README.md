@@ -1,0 +1,3 @@
+# § 30-361 Staff; cooperation from other state agencies.
+
+<p>Administrative staff support shall be provided by the staffs of the House Committee on Appropriations and the Senate Committee on Finance and Appropriations. Additional assistance as needed shall be provided by the State Council of Higher Education for Virginia.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0704'>704</a>.</p>

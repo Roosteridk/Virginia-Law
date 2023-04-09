@@ -1,0 +1,3 @@
+# § 33.2-2609 Commission a responsible public entity under Public-Private Transportation Act of 1995.
+
+<p>The Commission is a responsible public entity as defined in § <a href='http://law.lis.virginia.gov/vacode/33.2-1800/'>33.2-1800</a> and shall be regulated in accordance with the terms of the Public-Private Transportation Act of 1995 (§ <a href='http://law.lis.virginia.gov/vacode/33.2-1800/'>33.2-1800</a> et seq.) and regulations and guidelines adopted pursuant thereto.</p><p>2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0545'>545</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0678'>678</a>.</p>

@@ -1,0 +1,3 @@
+# § 63.2-1944 Employee debtor rights protected; limitation.
+
+<p>No employer shall discharge an employee or terminate a contract with an independent contractor solely for reason that a voluntary assignment of earnings under § <a href='/vacode/63.2-1945/'>63.2-1945</a> has been presented in settlement of a support debt or that a support lien or order to withhold and deliver has been served against such employee's or independent contractor's earnings or income.</p><p>1974, c. 413, § 63.1-271; 1976, c. 357; 1977, c. 662; 1985, c. 488; 1986, c. 594; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0722'>722</a>.</p>

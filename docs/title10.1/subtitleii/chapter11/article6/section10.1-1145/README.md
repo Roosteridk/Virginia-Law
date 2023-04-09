@@ -1,0 +1,3 @@
+# § 10.1-1145 Failure to properly maintain logging equipment and railroad locomotives.
+
+<p>Logging equipment and railroad locomotives operated in, through, or near forestland, brushland or fields containing dry grass or other inflammable material shall be equipped with appliances and maintained to prevent, as far as may be possible, the escape of fire and sparks from the smokestacks. Any person failing to comply with these requirements shall be guilty of a Class 4 misdemeanor for each offense committed.</p><p>Code 1950, § 10-65; 1986, c. 188; 1988, c. 891.</p>

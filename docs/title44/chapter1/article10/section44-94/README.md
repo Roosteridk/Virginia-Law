@@ -1,0 +1,3 @@
+# § 44-94 Exemption from jury duty.
+
+<p>The active officers and members of the National Guard shall be exempt from serving on juries in civil and criminal cases upon presentation to the clerk of the court of a certificate of such membership signed by the commanding officer of the unit of which the person summoned for jury service is a member.</p><p>1930, p. 966; Michie Code 1942, § 2673(79); 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0221'>221</a>.</p>

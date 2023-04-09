@@ -1,0 +1,3 @@
+# § 15.2-2823 Smoking in public buildings or facilities; exception.
+
+<p>A. The Commonwealth or any agency thereof and every locality shall provide reasonable no-smoking areas, considering the nature of the use and the size of the building, in any building owned or leased by the Commonwealth or any agency thereof or a locality.</p><p>B. The provisions of this chapter shall not apply to office, work, or other areas of the Department of Corrections that are not entered by the general public in the normal course of business or use of the premises.</p><p>2009, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0153'>153</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0154'>154</a>.</p>

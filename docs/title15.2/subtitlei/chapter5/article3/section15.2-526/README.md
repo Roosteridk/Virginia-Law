@@ -1,0 +1,3 @@
+# § 15.2-526 Department of public works.
+
+<p>If the department of public works is established, the director of the department shall be a person who has training and experience in the management of the construction and maintenance of public projects. He shall exercise the powers conferred and perform the duties imposed by general law upon the county road engineer and in addition shall perform such other duties as may be imposed upon him by the board. He shall also have charge of the maintenance, construction and reconstruction of county roads and bridges, unless the maintenance, construction and reconstruction of such county roads and bridges have been assumed by the Commonwealth.</p><p>Code 1950, § 15-289; 1952, c. 168; 1962, c. 623, § 15.1-606; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 53.1-65 Consideration of report developed at diagnostic facilities.
+
+<p>The Department shall give careful consideration to the report developed at the diagnostic facilities established under § <a href='http://law.lis.virginia.gov/vacode/53.1-64/'>53.1-64</a> in determining whether persons committed to it under the provisions of § <a href='http://law.lis.virginia.gov/vacode/19.2-311/'>19.2-311</a> et seq., are to be confined at a youthful offender facility or elsewhere in the state corrections system.</p><p>Code 1950, § 53-128.3; 1966, c. 482; 1982, c. 636.</p>

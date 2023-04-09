@@ -1,0 +1,3 @@
+# § 15.2-6023 Violation of rules; civil penalties.
+
+<p>Any person who violates any of the rules adopted by the board pursuant to this chapter relating to permits or failure to purchase a permit, safety violations, or other civil violations is subject to a civil penalty of $100. All penalties collected pursuant to this section shall be allocated to the Southwest Regional Recreation Authority.</p><p>2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0645'>645</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0648'>648</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0798'>798</a>.</p>

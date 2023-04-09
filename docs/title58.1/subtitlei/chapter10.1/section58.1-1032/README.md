@@ -1,0 +1,3 @@
+# § 58.1-1032 Applicability.
+
+<p>The provisions of this chapter shall not apply to (i) cigarettes allowed to be imported or brought into the United States for personal use or (ii) cigarettes sold or intended to be sold as duty-free merchandise by a duty-free sales enterprise in accordance with the provisions of 19 U.S.C. § 1555 (b) and any implementing regulations. This section, however, shall apply to cigarettes described in clause (ii) that are brought back into the customs territory for resale within the customs territory.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0880'>880</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0901'>901</a>.</p>

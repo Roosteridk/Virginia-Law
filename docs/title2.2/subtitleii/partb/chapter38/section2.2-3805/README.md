@@ -1,0 +1,3 @@
+# § 2.2-3805 Dissemination of reports.
+
+<p>Any agency maintaining an information system that disseminates statistical reports or research findings based on personal information drawn from its system, or from other systems shall:</p><p>1. Make available to any data subject or group, without revealing trade secrets, methodology and materials necessary to validate statistical analysis, and</p><p>2. Make no materials available for independent analysis without guarantees that no personal information will be used in any way that might prejudice judgments about any data subject.</p><p>1976, c. 597, § 2.1-381; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

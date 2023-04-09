@@ -1,0 +1,3 @@
+# § 56-232.1 Regulation of service by certain gas pipeline companies to municipalities.
+
+<p>Notwithstanding any provision of law the Commission shall regulate, to the same extent as it regulates other public utilities, the utility service furnished to any municipal corporation by a natural gas pipeline transmission company, all of whose facilities are located within the Commonwealth, and the rates, charges and facilities of such company used to furnish such service.</p><p>1985, c. 41.</p>

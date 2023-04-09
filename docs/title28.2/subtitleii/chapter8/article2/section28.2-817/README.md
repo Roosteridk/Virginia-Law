@@ -1,0 +1,3 @@
+# § 28.2-817 Displaying identification when transporting shellfish.
+
+<p>Any conveyance engaged in transporting shellfish which have been caught within condemned areas for relaying or depuration to another area, or depuration facility where they may be cleansed and made fit for market, shall display a yellow flag of not less than thirty inches in length and eighteen inches in width before any shellfish are placed thereon. The flag shall be displayed during the entire relaying and transporting operation.</p><p>Code 1950, § 28-162.1; 1960, c. 517; 1962, c. 406, § 28.1-179; 1966, c. 684; 1968, c. 745; 1979, c. 274; 1981, c. 52; 1986, c. 184; 1988, c. 600; 1992, c. 836.</p>

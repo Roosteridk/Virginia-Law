@@ -1,0 +1,3 @@
+# § 56-465 Preceding sections subject to repeal or change at pleasure.
+
+<p>The preceding sections of this chapter and also §§ <a href='http://law.lis.virginia.gov/vacode/56-466/'>56-466</a>, <a href='http://law.lis.virginia.gov/vacode/56-467/'>56-467</a> and <a href='http://law.lis.virginia.gov/vacode/56-484/'>56-484</a> shall be subject to repeal, alteration, or modification, and the rights and privileges acquired thereunder shall be subject to revocation or modification by the General Assembly at its pleasure.</p><p>Code 1919, § 4041.</p>

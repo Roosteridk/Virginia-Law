@@ -1,0 +1,3 @@
+# § 40.1-51.17 Effect of chapter on local ordinances and regulations.
+
+<p>Nothing in this chapter shall be construed as repealing any valid local ordinance or regulation now in effect adopted pursuant to general law or charter provision; provided, however, that if any such ordinance or regulation is less strict than any standard rule or regulation promulgated or adopted by the Board, then such ordinance or regulation shall be superseded by the applicable standard or regulation of the Board except as provided in § <a href='http://law.lis.virginia.gov/vacode/40.1-51.19/'>40.1-51.19</a>.</p><p>1972, c. 237.</p>

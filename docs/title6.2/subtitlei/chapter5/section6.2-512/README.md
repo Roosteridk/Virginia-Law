@@ -1,0 +1,3 @@
+# § 6.2-512 Election of remedies.
+
+<p>Where the same act or omission constitutes a violation of this chapter and of applicable federal law, a person aggrieved by such conduct may bring a legal action to recover monetary damages either under this chapter or under federal law, but not both. This election of remedies shall not apply to court actions in which the relief sought does not include monetary damages or to administrative actions.</p><p>1977, c. 589, § 59.1-21.28; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,0 +1,3 @@
+# § 63.2-910.1 Acceptance of children by local departments of social services.
+
+<p>A local department of social services has the authority to take custody of abandoned children, to arrange appropriate placements for abandoned children, including foster care, and to institute proceedings for the termination of parental rights of abandoned children as provided in this title and Title 16.1.</p><p>2003, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0816'>816</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0822'>822</a>.</p>

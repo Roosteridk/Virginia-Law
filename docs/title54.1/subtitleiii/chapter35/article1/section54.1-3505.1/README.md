@@ -1,0 +1,3 @@
+# § 54.1-3505.1 Continued competency requirements.
+
+<p>The Board shall promulgate regulations establishing requirements for evidence of continued competency as a condition of renewal of a license under the provisions of this chapter. The Board may approve persons who provide or accredit continuing education programs in order to accomplish the purposes of this section. The Board shall have the authority to grant exemptions or waivers or to reduce the number of continuing education hours required in cases of certified illness or undue hardship.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0430'>430</a>.</p>

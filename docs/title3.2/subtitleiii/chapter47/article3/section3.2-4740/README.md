@@ -1,0 +1,3 @@
+# § 3.2-4740 Bond required.
+
+<p>Each application shall be accompanied by a good and sufficient bond in the minimum sum of $1,000 or in such greater amount as is equal to the maximum amount of gross business the applicant does in any month in the Commonwealth during the preceding licensing year, but in no event shall the amount of bond required exceed $40,000.</p><p>1968, c. 598, § 3.1-722.4; 1972, c. 646; 1977, c. 21; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0340'>340</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

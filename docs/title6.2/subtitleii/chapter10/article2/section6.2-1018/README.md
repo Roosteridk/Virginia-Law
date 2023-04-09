@@ -1,0 +1,3 @@
+# § 6.2-1018 Minimum capital; state of incorporation; form of entity.
+
+<p>A certificate shall not be issued under § <a href='http://law.lis.virginia.gov/vacode/6.2-1017/'>6.2-1017</a> to an applicant:</p><p>1. Unless it meets the minimum capital requirement for a trust company prescribed by § <a href='http://law.lis.virginia.gov/vacode/6.2-1017/'>6.2-1017</a>; and</p><p>2. That is not a corporation organized under the laws of the Commonwealth.</p><p>1993, c. 432, §§ 6.1-32.15, 6.1-32.16; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0007'>7</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

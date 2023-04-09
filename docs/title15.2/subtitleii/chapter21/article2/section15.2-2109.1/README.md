@@ -1,0 +1,3 @@
+# § 15.2-2109.1 Prescriptive easements for provision of water and sewer services.
+
+<p>In an action to establish a prescriptive easement involving the provision of water and sewer services, a political subdivision shall demonstrate that the use has continued for a period of at least ten years. This section shall not affect any other requirement which may be necessary to establish a prescriptive easement.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0416'>416</a>, § 15.1-292.01.</p>

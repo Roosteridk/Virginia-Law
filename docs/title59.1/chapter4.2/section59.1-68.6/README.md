@@ -1,0 +1,3 @@
+# § 59.1-68.6 Definitions.
+
+<p>As used in this chapter, unless the text indicates otherwise:</p><p>1. "Person" means any individual, firm, partnership or corporation;</p><p>2. "Governmental units" means all state agencies and all political subdivisions or agencies thereof;</p><p>3. "Bid" means any submission of a price, whether written or oral, for any goods, services or construction to be provided.</p><p>1980, c. 471.</p>

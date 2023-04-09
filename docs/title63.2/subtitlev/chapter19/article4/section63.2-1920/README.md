@@ -1,0 +1,3 @@
+# § 63.2-1920 Department may order exchange of financial information.
+
+<p>The Department may order the obligor and payee to notify each other at specified intervals of current gross income as defined in § <a href='http://law.lis.virginia.gov/vacode/20-108.2/'>20-108.2</a> and any other pertinent information which may affect child support amounts. For good cause shown, the Department may order that such information be provided to the Department and made available to the parties for inspection in lieu of the parties' providing such information directly to each other.</p><p>1988, c. 907, § 63.1-264.1; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

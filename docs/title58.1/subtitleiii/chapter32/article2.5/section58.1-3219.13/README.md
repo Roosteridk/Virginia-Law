@@ -1,0 +1,3 @@
+# § 58.1-3219.13 Definitions.
+
+<p>As used in this article, unless the context requires otherwise:</p><p>"Covered person" means any person set forth in the definition of "deceased person" in § <a href='http://law.lis.virginia.gov/vacode/9.1-400/'>9.1-400</a> whose beneficiary, as defined in § <a href='http://law.lis.virginia.gov/vacode/9.1-400/'>9.1-400</a>, is entitled to receive benefits under § <a href='http://law.lis.virginia.gov/vacode/9.1-402/'>9.1-402</a>, as determined by the Comptroller prior to July 1, 2017, or as determined by the Virginia Retirement System on and after July 1, 2017.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0248'>248</a>.</p>

@@ -1,0 +1,3 @@
+# § 8.01-696 Summary judgment; pro se prisoner civil action.
+
+<p>Notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/8.01-420/'>8.01-420</a>, any time after commencement of a pro se prisoner civil action, a party may move for summary judgment on all issues based upon the pleadings, any admissions, and supporting affidavits. The adverse party may serve supporting affidavits within 10 days after service of the motion. The judgment sought shall be rendered forthwith if the pleadings, admissions, and affidavits show that there is no genuine issue of material fact and that the moving party is entitled to a judgment as a matter of law.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0435'>435</a>.</p>

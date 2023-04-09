@@ -1,0 +1,3 @@
+# § 51.1-307 Notice of disability retirement.
+
+<p>In addition to the notice of retirement for disability which is required to be made to the Board, notice shall be given by the member to his appointing authority.</p><p>1970, c. 779, § 51-169; 1973, c. 523; 1982, c. 427; 1986, c. 474; 1990, c. 832.</p>

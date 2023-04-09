@@ -1,0 +1,3 @@
+# § 42.1-42 Withdrawal from regional library system.
+
+<p>No county or city participating in a regional library system shall withdraw therefrom without two years' notice to the other participating counties and cities without the consent of such other participating political subdivisions.</p><p>1970, c. 606.</p>

@@ -1,0 +1,3 @@
+# § 55.1-311 Vendor's equitable lien abolished.
+
+<p>If any person conveys any real estate and the purchase money or any part thereof remains unpaid at the time of the conveyance, he shall not thereby have a lien for such unpaid purchase money, unless such lien is expressly reserved on the face of the conveyance.</p><p>Code 1919, § 5183; Code 1950, § 55-53; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

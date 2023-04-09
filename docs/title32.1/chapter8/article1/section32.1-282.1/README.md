@@ -1,0 +1,3 @@
+# § 32.1-282.1 Per diem medicolegal death investigators.
+
+<p>The Chief Medical Examiner may appoint per diem medicolegal death investigators, who shall have knowledge of standards and procedures for medicolegal death investigations, to assist the Office of the Chief Medical Examiner with medicolegal death investigations. Per diem medicolegal death investigators shall be agents of the Commonwealth.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0053'>53</a>.</p>

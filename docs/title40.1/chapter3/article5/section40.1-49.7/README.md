@@ -1,0 +1,3 @@
+# § 40.1-49.7 Same; publication of orders.
+
+<p>The Commissioner of Labor shall be responsible for the printing, maintenance, publication and distribution of all final orders of the circuit courts. Every attorney for the Commonwealth's office shall receive at least one copy of each such order.</p><p>1979, c. 354; 1992, c. 777.</p>

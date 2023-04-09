@@ -1,0 +1,3 @@
+# § 15.2-7504 Executive director; staff.
+
+<p>The board may appoint an executive director, who shall be authorized to employ such staff as necessary to enable the land bank entity to perform its duties as set forth in the Act. The board is authorized to determine the duties of such staff and to fix salaries and compensation from such funds as may be received or appropriated.</p><p>The land bank entity may enter into contracts and agreements with a locality for staffing services to be provided to the land bank entity.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0159'>159</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0383'>383</a>.</p>

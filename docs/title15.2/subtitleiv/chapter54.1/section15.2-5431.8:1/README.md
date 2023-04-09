@@ -1,0 +1,3 @@
+# § 15.2-5431.8:1 Amendment of articles of incorporation.
+
+<p>The articles of incorporation of any authority created under the provisions of this chapter may be amended with respect to the name or powers of such or in any other manner not inconsistent with this chapter by following the procedure prescribed by law for the creation of an authority.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0487'>487</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-2016 Regulation of services and rates charged by person using streets, etc.
+
+<p>Any city or town may regulate the services rendered to the public and rates charged therefor by any person using the streets, highways, roads, alleys, bridges, viaducts, subways, underpasses or other public rights-of-way or places for the rendition of such services, which are not subject to regulation by the State Corporation Commission.</p><p>Code 1950, § 15-77.59; 1958, c. 328; 1962, c. 623, § 15.1-895; 1997, c. 587.</p>

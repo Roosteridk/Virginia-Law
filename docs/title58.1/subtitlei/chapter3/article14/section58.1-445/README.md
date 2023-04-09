@@ -1,0 +1,3 @@
+# § 58.1-445 Consolidation of accounts.
+
+<p>In any case of two or more related trades or businesses liable to taxation under this chapter owned or controlled directly or indirectly by the same interests, the Department may, and at the request of the taxpayer shall, if necessary in order to make an accurate distribution or apportionment of gains, profits, income, deductions or capital between or among such related trades or businesses, consolidate the accounts of such related trades or businesses.</p><p>Code 1950, § 58-151.082; 1971, Ex. Sess., c. 171; 1984, c. 675.</p>

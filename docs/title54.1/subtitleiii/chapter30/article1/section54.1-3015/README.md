@@ -1,0 +1,3 @@
+# § 54.1-3015 Continuance of license of certified tuberculosis nurse.
+
+<p>Any person licensed as a certified tuberculosis nurse to perform duties as prescribed by the State Board of Examiners of Nurses, now known as the Board of Nursing, on July 1, 1970, shall continue to be so licensed unless his license is suspended or revoked in accordance with the provisions of this chapter.</p><p>1970, c. 116, § 54-367.30; 1982, c. 598; 1988, c. 765.</p>

@@ -1,0 +1,3 @@
+# § 10.1-1167 Penalty for violation of article.
+
+<p>Any person violating any provision of this article shall be guilty of a misdemeanor and upon conviction shall be fined thirty dollars for each seed tree cut from the land in violation of this article. The total amount of fine for any one acre shall not exceed $240.</p><p>Code 1950, § 10-79; 1950, p. 58; 1956, c. 75; 1972, c. 163; 1988, c. 891; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0285'>285</a>.</p>

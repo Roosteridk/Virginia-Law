@@ -1,0 +1,3 @@
+# § 56-505 Charter fees.
+
+<p>The general laws of Virginia relating to fees and other charges in connection with issuing charters, amendments thereto, consolidations and dissolutions of corporations organized on a mutual basis or without capital stock, shall apply to cooperatives organized under the provisions of this chapter.</p><p>1950, p. 595; 1956, c. 434.</p>

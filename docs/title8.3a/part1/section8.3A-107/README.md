@@ -1,0 +1,3 @@
+# § 8.3A-107 Instrument payable in foreign money.
+
+<p>Unless the instrument otherwise provides, an instrument that states the amount payable in foreign money may be paid in the foreign money or in an equivalent amount in dollars calculated by using the current bank-offered spot rate at the place of payment for the purchase of dollars on the day on which the instrument is paid.</p><p>Code 1950, § 6-358; 1964, c. 219, § 8.3-107; 1992, c. 693.</p>

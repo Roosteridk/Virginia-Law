@@ -1,0 +1,3 @@
+# § 38.2-1418 Obligations of certain international agencies.
+
+<p>A domestic insurer may invest in valid and legally authorized high grade obligations issued, assumed or guaranteed by an international development bank of which the United States is a member.</p><p>1983, c. 457, § 38.1-217.21; 1985, c. 370; 1986, c. 562; 1992, c. 588.</p>

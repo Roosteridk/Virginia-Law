@@ -1,0 +1,3 @@
+# § 8.01-465.13:7 Stay of proceedings pending appeal of foreign-country judgment.
+
+<p>If a party establishes that an appeal from a foreign-country judgment is pending or will be taken, the court may stay any proceedings with regard to the foreign-country judgment until the appeal is concluded, the time for appeal expires, or the appellant has had sufficient time to prosecute the appeal and has failed to do so.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0462'>462</a>.</p>

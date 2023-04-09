@@ -1,0 +1,3 @@
+# § 29.1-530.2 Unlawfully killing bear; penalty.
+
+<p>Any person who kills or attempts to kill a bear in violation of any provision of this article or any regulation adopted thereunder is guilty of a Class 1 misdemeanor and may also be prohibited by the court from hunting, trapping, or fishing in the Commonwealth for a period of one to five years.</p><p>1988, c. 19; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0311'>311</a>.</p>

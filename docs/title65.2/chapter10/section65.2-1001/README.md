@@ -1,0 +1,3 @@
+# § 65.2-1001 Returns.
+
+<p>A. Every such insurance carrier shall, for the twelve months ending December 31 of each year, make a return verified by the affidavits of its president and secretary, or other chief officers or agents, to the Workers' Compensation Commission stating the amount of such premiums and credits during the period covered by such return.</p><p>B. The State Corporation Commission shall have access at all times to the records so filed with the Workers' Compensation Commission by such insurance carriers and may require such additional information as the State Corporation Commission deems necessary for the performance of the duties herein conferred upon it.</p><p>Code 1950, § 65-121; 1968, c. 660, § 65.1-130; 1991, c. 355.</p>

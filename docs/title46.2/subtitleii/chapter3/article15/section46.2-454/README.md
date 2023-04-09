@@ -1,0 +1,3 @@
+# § 46.2-454 Moneys or securities to be deposited with State Treasurer subject to execution.
+
+<p>All moneys or securities delivered to the Commissioner pursuant to this chapter shall be placed by him in the custody of the State Treasurer and shall be subject to execution to satisfy any judgment within the limits on amounts required by this chapter for motor vehicle liability insurance policies. The State Treasurer shall certify the value of such moneys or securities to the Commissioner as soon as practicable after their delivery to him.</p><p>Code 1950, § 46-475; 1958, c. 541, § 46.1-486; 1986, c. 16; 1989, c. 727.</p>

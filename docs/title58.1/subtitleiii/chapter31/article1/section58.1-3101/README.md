@@ -1,0 +1,3 @@
+# § 58.1-3101 County commissioner of the revenue to keep an office at county seat; removal to other place.
+
+<p>Each county commissioner of the revenue shall keep an office at the county seat of his county or at such other point in the county as the governing body of the county deems to be more convenient to a majority of its citizens.</p><p>Code 1950, § 58-853; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 3.2-6028 Exemptions from provisions of article.
+
+<p>The State Veterinarian may authorize disposal of dead poultry by a method other than as provided in § <a href='http://law.lis.virginia.gov/vacode/3.2-6025/'>3.2-6025</a> or <a href='http://law.lis.virginia.gov/vacode/3.2-6026/'>3.2-6026</a> if he determines that the alternative method meets standards for disposal of dead poultry.</p><p>Code 1950, § 3-583.5; 1962, c. 157; 1966, c. 702, § 3.1-746; 1972, c. 90; 1992, c. 101; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

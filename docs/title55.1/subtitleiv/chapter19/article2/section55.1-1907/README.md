@@ -1,0 +1,3 @@
+# § 55.1-1907 How condominium may be created.
+
+<p>No condominium shall come into existence except by the recordation of condominium instruments pursuant to the provisions of this chapter. No condominium instruments shall be recorded unless all units located or to be located on any portion of the submitted land, other than within the boundaries of any convertible lands, are depicted on plats and plans that comply with the provisions of subsections A and B of § <a href='/vacode/55.1-1920/'>55.1-1920</a>.</p><p>1974, c. 416, § 55-79.45; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

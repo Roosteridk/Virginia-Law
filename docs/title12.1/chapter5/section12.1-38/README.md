@@ -1,0 +1,3 @@
+# § 12.1-38 Concurrent jurisdiction of Commission and courts.
+
+<p>Nothing in this title or in Title 56 shall be construed to take away or impair the jurisdiction of any court of this Commonwealth to hear and determine any proceeding, suit or motion of which it has jurisdiction, for the enforcement of any fine or penalty against any corporation under the laws of this Commonwealth, but the powers and jurisdiction of the Commission to hear, determine and enforce such fines and penalties shall be construed to be concurrent.</p><p>Code 1950, § 12-2; 1971, Ex. Sess., c. 157.</p>

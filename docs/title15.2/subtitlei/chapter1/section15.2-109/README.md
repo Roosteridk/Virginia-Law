@@ -1,0 +1,3 @@
+# § 15.2-109 Regulations on political campaign signs.
+
+<p>No locality shall have the authority to prohibit the display of political campaign signs on private property if the signs are in compliance with zoning and right-of-way restrictions applicable to temporary nonpolitical signs, if the signs have been posted with the permission of the owner. The provisions of this section shall supersede the provisions of any local ordinance or regulation in conflict with this section. This section shall have no effect upon the regulations of the Virginia Department of Transportation.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0388'>388</a>.</p>

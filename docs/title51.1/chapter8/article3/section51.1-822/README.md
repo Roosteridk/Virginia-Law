@@ -1,0 +1,3 @@
+# § 51.1-822 Amendment, suspension, or revocation of retirement plan and trust.
+
+<p>The governing body of any county with an urban county executive form of government may by ordinance reserve the right to amend, suspend, or revoke the retirement plan and trust at any time, so long as the benefits payable under the plan are consistent with § <a href='http://law.lis.virginia.gov/vacode/51.1-800/'>51.1-800</a>. However, any amendment, suspension, or revocation shall not have the effect of diverting the trust fund to purposes other than the exclusive benefit of the participating employees or their beneficiaries until all liability for accrued benefits payable under the terms of the plan has been fully satisfied.</p><p>1990, c. 832.</p>

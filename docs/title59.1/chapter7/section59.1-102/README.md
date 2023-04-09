@@ -1,0 +1,3 @@
+# § 59.1-102 Records; previous filing and publishing of names, marks, etc.
+
+<p>The Secretary of the Commonwealth shall deliver the records of his office relating to names, marks and devices on such property as is mentioned in § <a href='http://law.lis.virginia.gov/vacode/59.1-94/'>59.1-94</a> to the State Corporation Commission. No person who has filed prior to July 1, 1948, in the proper offices, a description of the name or names, marks or devices upon such property and has caused the same to be published according to the law existing at the time of such filing and publication, shall be required to again file and publish such description to be entitled to the benefits of this chapter.</p><p>Code 1950, § 59-199; 1968, c. 439.</p>

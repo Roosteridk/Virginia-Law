@@ -1,0 +1,3 @@
+# § 6.2-2313 Documents having pretium affectionis.
+
+<p>Whenever the contents of any box opened under the provisions of this chapter shall consist either wholly or in part of documents, letters, or other papers of a private nature, or articles having a pretium affectionis, such documents, letters, papers, or articles shall not be sold, but shall be retained by the company, without liability.</p><p>Code 1950, § 6-271; 1966, c. 584, § 6.1-340; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

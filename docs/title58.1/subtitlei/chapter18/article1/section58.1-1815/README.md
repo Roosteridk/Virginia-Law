@@ -1,0 +1,3 @@
+# § 58.1-1815 Willful failure to collect and account for tax.
+
+<p>Any corporate or partnership officer as defined in § <a href='http://law.lis.virginia.gov/vacode/58.1-1813/'>58.1-1813</a>, or any other person required to collect, account for and pay over any sales, use or withholding tax, who willfully fails to collect or truthfully account for and pay over such tax, and any such officer or person who willfully evades or attempts to evade any such tax or the payment thereof, shall, in addition to any other penalties provided by law, be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 58-44.1; 1972, c. 363; 1984, c. 675.</p>

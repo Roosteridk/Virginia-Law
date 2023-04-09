@@ -1,0 +1,3 @@
+# § 22.1-197 Distribution of funds when Superintendent effects insurance.
+
+<p>When the Superintendent of Public Instruction effects insurance as required by this article, he shall nevertheless not make any distribution of state school aid funds to the school board so in default until he has been furnished with satisfactory assurances that all vehicles required by this article to be covered by insurance have been duly insured.</p><p>Code 1950, § 22-293; 1980, c. 559.</p>

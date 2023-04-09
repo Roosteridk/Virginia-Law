@@ -1,0 +1,3 @@
+# § 18.2-216.1 Unauthorized use of name or picture of any person; punishment.
+
+<p>A person, firm, or corporation that knowingly uses for advertising purposes, or for the purpose of trade, the name, portrait, or picture of any person resident in the Commonwealth, without having first obtained the written consent of such person, or if dead, of his surviving consort, or if none, his next of kin, or, if a minor, of his or her parent or guardian, as well as that of such minor, shall be deemed guilty of a misdemeanor and be fined not less than $50 nor more than $1,000.</p><p>Code 1950, § 8-650; 1977, c. 624.</p>

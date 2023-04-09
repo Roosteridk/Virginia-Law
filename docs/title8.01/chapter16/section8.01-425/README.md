@@ -1,0 +1,3 @@
+# § 8.01-425 How fiduciaries may compromise liabilities due to or from them.
+
+<p>Any fiduciary may compromise any liability due to or from him, provided that such compromise be ratified and approved by a court of competent jurisdiction, all parties in interest being before such court by proper process. When such compromise shall have been so ratified and approved, it shall be binding on all parties in interest before such court. Nothing contained in this section shall affect the right of indemnity or of contribution among the parties.</p><p>Code 1950, §§ 8-171, 8-173; 1977, c. 617.</p>

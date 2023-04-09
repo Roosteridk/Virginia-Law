@@ -1,0 +1,3 @@
+# § 23.1-2300 Corporate name; name of the University.
+
+<p>A. The board of visitors of Virginia Commonwealth University (the board) is a corporation under the name and style of "Virginia Commonwealth University" and has, in addition to its other powers, all the corporate powers given to corporations by the provisions of Title 13.1 except those powers that are confined to corporations created pursuant to Title 13.1. The board shall at all times be under the control of the General Assembly.</p><p>B. The institution shall be known as Virginia Commonwealth University (the University).</p><p>1968, c. 93, §§ 23-50.4, 23-50.8; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

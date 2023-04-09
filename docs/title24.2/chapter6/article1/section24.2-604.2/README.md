@@ -1,0 +1,3 @@
+# § 24.2-604.2 Polling places; prohibited area; emergency situations.
+
+<p>If an emergency causes the dimensions of the prohibited area for a polling place to be perceived as increasing the risk of danger for persons outside the polling place, the electoral board may modify the distance requirements for the prohibited area, subject to the prior approval of the State Board. For purposes of this section, an "emergency" includes a state of emergency declared by the Governor pursuant to Chapter 3.2 (§ <a href='http://law.lis.virginia.gov/vacode/44-146.13/'>44-146.13</a> et seq.) of Title 44 or declared by the President of the United States.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0241'>241</a>.</p>

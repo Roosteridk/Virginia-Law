@@ -1,0 +1,3 @@
+# § 30-34.12 Powers and duties of Director.
+
+<p>The Director of the Division of Legislative Automated Systems shall, under the direction and control of the Committees on Rules of the House of Delegates and the Senate acting jointly, exercise such powers and perform such duties as are conferred or imposed by law upon him; and he shall perform such other duties as may be required of him by the Committees on Rules of the House of Delegates and the Senate acting jointly.</p><p>1980, c. 725.</p>

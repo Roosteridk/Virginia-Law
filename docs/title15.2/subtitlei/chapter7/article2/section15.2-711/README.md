@@ -1,0 +1,3 @@
+# § 15.2-711 Certification and payment of payrolls.
+
+<p>The board by resolution may require the county manager to certify to the treasurer the payroll of the regular employees of the county for the successive payroll periods, and vouchers for the payment of bills for materials and supplies which have been received and for which discounts are allowed. Upon receipt thereof the treasurer shall pay the same as if they had been approved by the board. No payment shall be made hereunder when at any meeting of the county board a resolution opposing such method of payment has been adopted.</p><p>Code 1950, § 15-353.1; 1952, c. 610; 1962, c. 623, § 15.1-683; 1976, c. 175; 1982, c. 108; 1997, c. 587.</p>

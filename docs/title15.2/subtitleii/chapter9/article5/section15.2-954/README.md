@@ -1,0 +1,3 @@
+# § 15.2-954 Loans to volunteer firefighting and rescue organizations.
+
+<p>Any locality may make loans of money appropriated from public funds to any nonprofit organization furnishing firefighting or rescue services for the construction of facilities or the acquisition of equipment that is to be used for the purpose of providing firefighting or rescue services.</p><p>1990, c. 125, § 15.1-24.1; 1997, c. 587.</p>

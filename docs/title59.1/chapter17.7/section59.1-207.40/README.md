@@ -1,0 +1,3 @@
+# § 59.1-207.40 Definitions.
+
+<p>In addition to the definitions listed in § <a href='http://law.lis.virginia.gov/vacode/59.1-198/'>59.1-198</a>, as used in this chapter, the following terms shall have the following meanings:</p><p>"Former price" or "comparison price" means the direct or indirect comparison in any advertisement whether or not expressed wholly or in part in dollars, cents, fractions, or percentages, and whether or not such price is actually stated in the advertisement.</p><p>"Substantial sales" means a substantial aggregate volume of sales of identical or comparable goods or services at or above the advertised comparison price in the supplier's trade area.</p><p>1992, c. 768.</p>

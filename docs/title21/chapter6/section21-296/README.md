@@ -1,0 +1,3 @@
+# § 21-296 Circulation of duplicate originals of petition.
+
+<p>For the convenience of the petitioners, duplicate originals of the same petition may be circulated and separately signed by the several petitioners without the others being present, which the court shall treat in all respects as if the signatures had been placed upon the same copy at the same time.</p><p>Code 1919, § 1738; 1924, p. 708; 1926, p. 606.</p>

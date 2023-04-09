@@ -1,0 +1,3 @@
+# § 59.1-110 Using recorded brand or trademark without authority.
+
+<p>Every brand or trademark so adopted shall, from the date of its recordation be the exclusive brand or trademark of the person, firm or corporation adopting it, and any other person, firm or corporation knowingly using or attempting to use the same, without authority in writing from the owner thereof, shall be guilty of a misdemeanor and fined for each offense in so using the same not less than $20 nor more than $200, and shall be liable to the owner of such brand or trademark for all the damages sustained by such owner by reason of such unauthorized use.</p><p>Code 1950, § 59-207; 1968, c. 439.</p>

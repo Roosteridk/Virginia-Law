@@ -1,0 +1,3 @@
+# § 27-22 But not for property which would have been destroyed by the fire.
+
+<p>Section <a href='http://law.lis.virginia.gov/vacode/27-21/'>27-21</a> shall not enable anyone to recover compensation for property which would have been destroyed by the fire, if the same had not been pulled down or destroyed under such direction, but only for what could have been saved with ordinary care and diligence, had no such direction been given.</p><p>Code 1919, § 3135.</p>

@@ -1,0 +1,3 @@
+# § 18.2-308.015 Inclusion of Supreme Court website on application.
+
+<p>For the purposes of understanding the law relating to the use of deadly and lethal force, the Department of State Police, in consultation with the Supreme Court on the development of the application for a concealed handgun permit under this article, shall include a reference to the Virginia Supreme Court website address or the Virginia Reports on the application.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0746'>746</a>.</p>

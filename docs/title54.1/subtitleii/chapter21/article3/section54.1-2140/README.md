@@ -1,0 +1,3 @@
+# § 54.1-2140 Compensation shall not imply brokerage relationship.
+
+<p>The payment or promise of payment or compensation to a real estate broker does not create a brokerage relationship between any broker, seller, landlord, buyer or tenant.</p><p>1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0741'>741</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0813'>813</a>.</p>

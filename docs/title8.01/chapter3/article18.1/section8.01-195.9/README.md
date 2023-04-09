@@ -1,0 +1,3 @@
+# § 8.01-195.9 Claims evaluation program.
+
+<p>The Division of Risk Management of the Department of the Treasury and the Attorney General shall develop cooperatively an actuarially sound program for identifying, evaluating and setting reserves for the payment of claims cognizable under this article.</p><p>1988, c. 644; 2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0618'>618</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0632'>632</a>.</p>

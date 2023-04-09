@@ -1,0 +1,3 @@
+# § 58.1-2213 Issuance of license.
+
+<p>Upon approval of an application, the Commissioner shall issue to the applicant a license and a duplicate copy of the license for each place of business of the applicant. A supplier's license shall indicate the category of the supplier. A licensee shall display the license issued under this chapter in a conspicuous place at each place of business of the licensee. A license shall not be transferable and shall remain in effect until surrendered or canceled.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0729'>729</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0758'>758</a>.</p>

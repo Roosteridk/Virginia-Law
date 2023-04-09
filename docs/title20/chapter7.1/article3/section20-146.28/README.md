@@ -1,0 +1,3 @@
+# § 20-146.28 Simultaneous proceedings.
+
+<p>If a proceeding for enforcement under this article is commenced in a court of this Commonwealth and the court determines that a proceeding to modify the determination is pending in a court of another state having jurisdiction to modify the determination under Article 2 (§ <a href='http://law.lis.virginia.gov/vacode/20-146.12/'>20-146.12</a> et seq.) of this chapter, the enforcing court shall immediately communicate with the modifying court. The proceeding for enforcement continues unless the enforcing court, after consultation with the modifying court, stays or dismisses the proceeding.</p><p>1979, c. 229, § 20-129; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0305'>305</a>.</p>

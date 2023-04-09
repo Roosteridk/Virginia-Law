@@ -1,0 +1,3 @@
+# § 15.2-7216 Directors and persons executing bonds not liable thereon.
+
+<p>Neither the Board of Directors nor any person executing the bonds shall be liable personally on the Authority's bonds by reasons of the issuance thereof.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0117'>117</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0210'>210</a>.</p>

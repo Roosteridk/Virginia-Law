@@ -1,0 +1,3 @@
+# § 8.2-309 Absence of specific time provisions; notice of termination.
+
+<p>(1) The time for shipment or delivery or any other action under a contract if not provided in this title or agreed upon shall be a reasonable time.</p><p>(2) Where the contract provides for successive performances but is indefinite in duration it is valid for a reasonable time but unless otherwise agreed may be terminated at any time by either party.</p><p>(3) Termination of a contract by one party except on the happening of an agreed event requires that reasonable notification be received by the other party and an agreement dispensing with notification is invalid if its operation would be unconscionable.</p><p>1964, c. 219.</p>

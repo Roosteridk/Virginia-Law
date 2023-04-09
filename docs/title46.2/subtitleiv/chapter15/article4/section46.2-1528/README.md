@@ -1,0 +1,3 @@
+# § 46.2-1528 Examination or audit of licensee; costs.
+
+<p>The Board or authorized representatives of the Board may examine, during the posted business hours, the records required to be maintained by this chapter. If a licensee is found to have violated this chapter or any order of the Board, the actual cost of the examination shall be paid by the licensee so examined within thirty days after demand therefor by the Board. The Board may maintain an action for the recovery of these costs in any court of competent jurisdiction.</p><p>1988, c. 865, § 46.1-547.3; 1989, c. 727; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0767'>767</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0816'>816</a>.</p>

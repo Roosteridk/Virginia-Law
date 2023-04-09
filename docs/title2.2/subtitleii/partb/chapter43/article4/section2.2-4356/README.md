@@ -1,0 +1,3 @@
+# § 2.2-4356 Comptroller to file annual report.
+
+<p>The Comptroller shall file an annual report with the Governor, the Senate Committee on Finance and Appropriations, the House Committees on Finance and Appropriations on November 1 for the preceding fiscal year including (i) the number and dollar amounts of late payments by departments, institutions and agencies, (ii) the total amount of interest paid and (iii) specific steps being taken to reduce the incidence of late payments.</p><p>1984, c. 736, § 11-62.7; 1985, c. 101; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0165'>165</a>; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

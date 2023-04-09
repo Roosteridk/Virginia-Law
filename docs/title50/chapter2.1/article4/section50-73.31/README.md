@@ -1,0 +1,3 @@
+# § 50-73.31 Voting.
+
+<p>The partnership agreement may grant to all or certain identified general partners the right to vote, on a per capita or any other basis, separately or with all or any class of the limited partners, on any matter.</p><p>1985, c. 607.</p>

@@ -1,0 +1,3 @@
+# § 15.2-1508 Bonuses for employees of local governments.
+
+<p>Notwithstanding any contrary provision of law, general or special, the governing body of any locality may provide for payment of monetary bonuses to its officers and employees. The payment of a bonus shall be authorized by ordinance.</p><p>1985, c. 142, § 15.1-7.4; 1997, c. 587; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0204'>204</a>.</p>

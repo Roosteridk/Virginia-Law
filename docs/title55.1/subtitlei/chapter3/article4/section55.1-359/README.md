@@ -1,0 +1,3 @@
+# § 55.1-359 Covenant of "right to convey.".
+
+<p>A covenant by the grantor in a deed for land "that he has the right to convey the said land to the grantee" shall have the same effect as if the grantor had covenanted that he has good right, full power, and absolute authority to convey the land, with all the buildings thereon and the privileges and appurtenances thereto belonging, unto the grantee, in the manner in which the same is conveyed or intended so to be by the deed, and according to its true intent.</p><p>Code 1919, § 5174; Code 1950, § 55-71; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

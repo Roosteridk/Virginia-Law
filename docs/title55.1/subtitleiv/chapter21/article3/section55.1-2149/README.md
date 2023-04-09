@@ -1,0 +1,3 @@
+# § 55.1-2149 Other liens affecting the cooperative.
+
+<p>A. Regardless of whether his cooperative interest is subject to the claims of the association's creditors, no property of a proprietary lessee other than his cooperative interest is subject to those claims.</p><p>B. If the association receives notice of an impending foreclosure on all or any portion of the association's real estate, the association shall promptly transmit a copy of that notice to each proprietary lessee of a unit located within the real estate to be foreclosed. Failure of the association to transmit the notice does not affect the validity of the foreclosure.</p><p>1982, c. 277, § 55-473; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

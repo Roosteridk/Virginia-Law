@@ -1,0 +1,3 @@
+# § 33.2-1521 Investment of proceeds and other amounts.
+
+<p>Notes proceeds and moneys in any reserve funds and sinking funds in respect of Notes shall be invested by the State Treasurer in accordance with the provisions of general law relating to the investment of such funds belonging to or in the control of the Commonwealth or by a trustee in accordance with § <a href='http://law.lis.virginia.gov/vacode/33.2-1716/'>33.2-1716</a>.</p><p>2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0830'>830</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0868'>868</a>, § 33.1-23.24; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

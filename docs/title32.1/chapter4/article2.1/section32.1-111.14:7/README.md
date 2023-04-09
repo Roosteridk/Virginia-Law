@@ -1,0 +1,3 @@
+# § 32.1-111.14:7 Penalty for disobeying emergency medical services agency chief or other officer in command.
+
+<p>If any person at a fire or medical emergency refuses or neglects to obey any order duly given by the individual having command of the incident in accordance with § <a href='http://law.lis.virginia.gov/vacode/32.1-111.14:5/'>32.1-111.14:5</a> or <a href='http://law.lis.virginia.gov/vacode/32.1-111.14:6/'>32.1-111.14:6</a>, he shall, upon conviction of such offense, be fined not to exceed $100.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

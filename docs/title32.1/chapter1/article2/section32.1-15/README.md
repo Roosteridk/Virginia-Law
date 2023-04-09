@@ -1,0 +1,3 @@
+# § 32.1-15 Suggestions as to legislation.
+
+<p>The Board may, at each regular session of the General Assembly, suggest any legislative action deemed necessary for the better protection of life and public health.</p><p>Code 1950, § 32-21; 1979, c. 711.</p>

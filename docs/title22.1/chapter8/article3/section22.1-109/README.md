@@ -1,0 +1,3 @@
+# § 22.1-109 Federal funds apportioned to school divisions containing lands leased for flood control purposes.
+
+<p>All funds paid to the State Treasurer by the Secretary of the Treasury of the United States under the provisions of Section 5 of Public Law 526 of the 79th Congress, end session, shall be apportioned by the State Comptroller among the school divisions in which lands acquired by the United States for flood control purposes were leased, according to the amounts derived from each school division as stated by the Secretary of the Treasury of the United States.</p><p>Code 1950, § 22-119.1; 1952, Ex. Sess., c. 31; 1980, c. 559.</p>

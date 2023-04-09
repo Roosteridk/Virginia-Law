@@ -1,0 +1,3 @@
+# § 19.2-163.5 Legal services to public defenders and/or assistant public defenders.
+
+<p>At the request of a public defender, the Attorney General shall provide legal services to such attorney, his assistants, or members of his staff in any proceeding brought against him, his assistants, or staff for money damages, when the cause of action allegedly arises out of the duties of his office.</p><p>Any costs chargeable against the defendant or defendants in any such case shall be paid by the Commonwealth from the appropriation for the payment of criminal charges.</p><p>1978, c. 698.</p>

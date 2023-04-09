@@ -1,0 +1,3 @@
+# § 8.9A-341 Bank's rights and duties with respect to deposit account.
+
+<p>Except as otherwise provided in § <a href='http://law.lis.virginia.gov/vacode/8.9A-340/'>8.9A-340</a> (c), and unless the bank otherwise agrees in an authenticated record, a bank's rights and duties with respect to a deposit account maintained with the bank are not terminated, suspended, or modified by:</p><p>(1) the creation, attachment, or perfection of a security interest in the deposit account;</p><p>(2) the bank's knowledge of the security interest; or</p><p>(3) the bank's receipt of instructions from the secured party.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1007'>1007</a>.</p>

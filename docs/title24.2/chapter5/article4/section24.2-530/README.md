@@ -1,0 +1,3 @@
+# § 24.2-530 Who may vote in primary.
+
+<p>All persons qualified to vote, pursuant to §§ <a href='http://law.lis.virginia.gov/vacode/24.2-400/'>24.2-400</a> through <a href='http://law.lis.virginia.gov/vacode/24.2-403/'>24.2-403</a>, may vote at the primary. No person shall vote for the candidates of more than one party.</p><p>Code 1950, § 24-367; 1970, c. 462, § 24.1-182; 1971, Ex. Sess., c. 205; 1976, c. 616; 1993, c. 641.</p>

@@ -1,0 +1,3 @@
+# § 20-22 Attorney for the Commonwealth to ascertain before circuit court name of minister failing to return certificates.
+
+<p>It shall be the duty of the attorney for the Commonwealth for each county and city, upon the receipt from the clerk of the list required by § <a href='http://law.lis.virginia.gov/vacode/20-21/'>20-21</a>, to have such person or persons as he may think proper summoned before the circuit court of his county or city to ascertain the name of the minister or other person celebrating such marriage and failing to return the license and certificates to the clerk as required by § <a href='http://law.lis.virginia.gov/vacode/32.1-267/'>32.1-267</a>.</p><p>Code 1919, § 5074; 1928, p. 314; 1938, p. 151; 1979, c. 502.</p>

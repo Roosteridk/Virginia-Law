@@ -1,0 +1,3 @@
+# § 55.1-2539 Enforcement of chapter.
+
+<p>The administrator may bring an action in a court of competent jurisdiction to enforce this chapter. The administrator shall commence enforcement for compliance with the provisions of this chapter within the period specified in § <a href='/vacode/55.1-2528/'>55.1-2528</a>. The holder may waive in writing the protection of this section.</p><p>1960, c. 330, § 55-210.25; 1983, c. 190; 1988, c. 643; 1991, c. 357; 2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0733'>733</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0745'>745</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

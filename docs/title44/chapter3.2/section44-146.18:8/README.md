@@ -1,0 +1,3 @@
+# § 44-146.18:8 Additional powers and duties of the State Coordinator of Emergency Management.
+
+<p>The State Coordinator of Emergency Management shall, on the recommendation of the Division Coordinator, (i) receive and disburse funds; (ii) enter into contracts for the purpose of carrying out the provisions of this article; and (iii) rent office space and procure equipment, goods, and services that are necessary to carry out the provisions of § <a href='/vacode/44-146.18:6/'>44-146.18:6</a>.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0423'>423</a>.</p>

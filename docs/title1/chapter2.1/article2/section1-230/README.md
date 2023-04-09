@@ -1,0 +1,3 @@
+# § 1-230 Person.
+
+<p>"Person" includes any individual, corporation, partnership, association, cooperative, limited liability company, trust, joint venture, government, political subdivision, or any other legal or commercial entity and any successor, representative, agent, agency, or instrumentality thereof.</p><p>Code 1919, § 5; Code 1950, § 1-13; 1950, p. 22, § 1-13.19; 1988, c. 36; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

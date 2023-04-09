@@ -1,0 +1,3 @@
+# § 40.1-51.19:1 Definitions.
+
+<p>As used in this article:</p><p>"Hobby boiler" means any boiler used solely for demonstration, exhibition, ceremonial or educational purposes, including but not limited to, historical artifacts such as portable and stationary show boilers, farm traction engines, and locomotives.</p><p>"Model boiler" means any boiler fabricated to demonstrate an original design or to reproduce or replicate a historic artifact, and used primarily for demonstration, exhibition, or educational purposes.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0335'>335</a>; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0898'>898</a>.</p>

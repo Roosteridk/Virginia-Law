@@ -1,0 +1,3 @@
+# § 15.2-3832 Authority to city to provide by condemnation, etc., water, light, power and fuel.
+
+<p>In addition to the authority given by general law to cities, a city organized under this chapter may acquire in accordance with § <a href='http://law.lis.virginia.gov/vacode/15.2-1800/'>15.2-1800</a> or construct, own and operate, its own plant, machinery and equipment for supplying its inhabitants, streets, grounds, or buildings with water, light, power or fuel. To that end it may acquire any plant existing in or near the city; may acquire land and franchises outside of the limits of the city; and may buy, purchase or acquire easements and rights-of-way.</p><p>Code 1950, § 15-106; 1962, c. 623, § 15.1-1007; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 38.2-3906 Licensing of additional companies prohibited.
+
+<p>Any insurer that was not licensed and engaged in the business of mutual assessment life, accident and sickness insurance in this Commonwealth under the provisions of former Title 38.1 on July 1, 1952, shall not be issued a license pursuant to this chapter to transact the business of insurance in this Commonwealth. On or after that date a license shall not be issued except for renewal of a license held by the insurer for the preceding year.</p><p>1985, c. 400, § 38.1-549.7; 1986, c. 562.</p>

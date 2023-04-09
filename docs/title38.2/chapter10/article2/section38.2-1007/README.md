@@ -1,0 +1,3 @@
+# § 38.2-1007 Notice to policyholders of meeting to approve conversion.
+
+<p>At least thirty days before the meeting of policyholders required by § <a href='http://law.lis.virginia.gov/vacode/38.2-1006/'>38.2-1006</a>, the insurer shall mail notice of the meeting to each policyholder at the last known address or shall deliver the notice in person to the policyholder.</p><p>Code 1950, § 38-421; 1952, c. 317, § 38.1-490; 1986, c. 562.</p>

@@ -1,0 +1,3 @@
+# § 38.2-814 How process or notice served.
+
+<p>Service of process or notice upon any unlicensed public adjuster in any suit, action, or proceeding arising out of or in connection with the acts enumerated in § <a href='http://law.lis.virginia.gov/vacode/38.2-813/'>38.2-813</a> in the Commonwealth shall be made in the manner prescribed in § <a href='http://law.lis.virginia.gov/vacode/13.1-758/'>13.1-758</a>.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0734'>734</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0735'>735</a>.</p>

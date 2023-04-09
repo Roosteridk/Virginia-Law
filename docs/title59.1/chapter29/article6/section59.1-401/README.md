@@ -1,0 +1,3 @@
+# § 59.1-401 Possessing drugs.
+
+<p>The possession or transportation of any drug except those permitted by regulations of the Commission within the racing enclosure is prohibited except upon a bona fide veterinarian's prescription with complete statement of uses and purposes on the container. A copy of such prescription shall be filed with the stewards. Any person knowingly violating the provisions of this section relating to the legal possession of drugs shall be guilty of a Class 1 misdemeanor. The provisions of the Drug Control Act (§ <a href='http://law.lis.virginia.gov/vacode/54.1-3400/'>54.1-3400</a> et seq.) shall apply in situations where drugs regulated by that Act are within the racing enclosure.</p><p>1988, c. 855.</p>

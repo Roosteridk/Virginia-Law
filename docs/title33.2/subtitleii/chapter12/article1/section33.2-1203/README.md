@@ -1,0 +1,3 @@
+# § 33.2-1203 Entry upon lands; hindering Commissioner of Highways or agent.
+
+<p>The Commissioner of Highways and all employees under his direction may enter upon such lands as may be necessary in the performance of their functions and duties as prescribed by this article. Any person who hinders or obstructs the Commissioner of Highways or any assistant or agent of the Commissioner of Highways in carrying out such functions and duties is guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 33-301; 1970, c. 322, § 33.1-354; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,0 +1,3 @@
+# § 23.1-1238 Article controls inconsistent laws.
+
+<p>To the extent that the provisions of this article are inconsistent with the provisions of any general statute or special act or parts thereof, the provisions of this article control.</p><p>1972, c. 686, § 23-30.58; 1973, c. 205; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0709'>709</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

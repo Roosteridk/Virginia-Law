@@ -1,0 +1,3 @@
+# § 8.01-225.1 Immunity for team physicians.
+
+<p>Any physician, surgeon or chiropractor licensed to practice by the Board of Medicine in the Commonwealth who, in the absence of gross negligence or willful misconduct, renders emergency medical care or emergency treatment to a participant in an athletic event sponsored by a public, private or religious elementary, middle or high school while acting without compensation as a team physician, shall not be liable for civil damages resulting from any act or omission related to such care or treatment.</p><p>1989, c. 436; 1993, c. 702; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0928'>928</a>.</p>

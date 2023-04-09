@@ -1,0 +1,3 @@
+# § 19.2-137 Order of court on recognizance.
+
+<p>When such recognizance is taken by a court of a person to answer a charge or of a witness to give evidence it shall be sufficient for the order of the court taking the recognizance to state that the party or parties recognized were duly recognized upon a bond in such sum as the court may have directed with such surety as the court may have accepted for his or their appearance before such court at such time as may have been prescribed by the court to answer for the offense with which such person is charged or to give evidence, as the case may be.</p><p>Code 1950, § 19.1-129; 1960, c. 366; 1975, c. 495; 1991, c. 581.</p>

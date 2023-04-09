@@ -1,0 +1,3 @@
+# § 10.1-1607 Interim receipts or temporary bonds.
+
+<p>The Authority is authorized to issue interim receipts or temporary bonds as provided in § <a href='http://law.lis.virginia.gov/vacode/15.2-2616/'>15.2-2616</a> and to execute and deliver new bonds in place of bonds mutilated, lost or destroyed, as provided in § <a href='http://law.lis.virginia.gov/vacode/15.2-2621/'>15.2-2621</a>.</p><p>1986, c. 360, § 10-158.6; 1988, c. 891.</p>

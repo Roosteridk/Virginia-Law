@@ -1,0 +1,3 @@
+# § 32.1-168 Exemptions.
+
+<p>The provisions of this article shall not be applicable to a waterworks which meets all of the following conditions:</p><p>1. The waterworks consists only of distribution and storage facilities and does not have any collection or treatment facilities;</p><p>2. The waterworks obtains all of its water from, but is not owned or operated by, a waterworks to which this article is applicable;</p><p>3. The waterworks does not sell water to any person; and</p><p>4. The waterworks is not a carrier which conveys passengers in interstate commerce.</p><p>1979, c. 711.</p>

@@ -1,0 +1,3 @@
+# § 58.1-3353 Assessment not invalid unless rights prejudiced by error.
+
+<p>No assessment of any real estate, whether heretofore or hereafter made, shall be held to be invalid because of any error, omission or irregularity by the commissioner of the revenue or other assessing officer in charging such real estate on the land book unless it be shown by the person or persons contesting any such assessment that such error, omission or irregularity has operated to the prejudice of his or their rights.</p><p>Code 1950, § 58-815; 1984, c. 675.</p>

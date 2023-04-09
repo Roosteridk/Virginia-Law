@@ -1,0 +1,3 @@
+# § 23.1-3216 Virginia Museum of Fine Arts established.
+
+<p>The Virginia Museum of Fine Arts (the Museum) is established as an educational institution in the Commonwealth and a public body and instrumentality for the dissemination of education.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0367'>367</a>, § 23-253.4; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0314'>314</a>.</p>

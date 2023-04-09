@@ -1,0 +1,3 @@
+# § 46.2-1069 Brakes on motorcycles.
+
+<p>Every motorcycle manufactured after July 1, 1974, and driven on a highway in the Commonwealth shall be equipped with either a split-service brake system or two independently actuated brake systems which shall act on the front as well as the rear wheel or wheels.</p><p>It shall be unlawful for any person to drive on a highway in the Commonwealth a motorcycle which was originally equipped with a brake system on both the front or rear wheel or wheels if the brake system has been altered by removing or disconnecting any of the brake-system components from any of the wheels.</p><p>1974, c. 219, § 46.1-279.1; 1989, c. 727.</p>

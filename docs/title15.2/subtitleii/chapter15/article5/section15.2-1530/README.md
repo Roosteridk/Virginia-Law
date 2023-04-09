@@ -1,0 +1,3 @@
+# § 15.2-1530 Bonds required of treasurers or directors of finance of cities.
+
+<p>Notwithstanding any contrary provision of law, general or special, the penalty of the bond for treasurers or directors of finance of cities shall be not less than fifteen percent of the amount of revenue to be received annually by him but not more than $500,000 for treasurers or directors of finance of cities under 100,000 population nor more than $1,500,000 for treasurers or directors of finance of cities over 100,000.</p><p>Code 1950, § 15-481; 1950, p. 411; 1962, c. 623, § 15.1-44; 1973, c. 195; 1997, c. 587.</p>

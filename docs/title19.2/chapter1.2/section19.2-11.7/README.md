@@ -1,0 +1,3 @@
+# § 19.2-11.7 Law enforcement taking possession of physical evidence recovery kits.
+
+<p>A. A health care provider that has collected a physical evidence recovery kit from a victim of sexual assault who has elected to report the offense shall forthwith notify the law-enforcement agency that such kit has been collected.</p><p>B. A law-enforcement agency that receives notice from a health care provider that a physical evidence recovery kit has been collected shall forthwith take possession of the physical evidence recovery kit.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0332'>332</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0698'>698</a>.</p>

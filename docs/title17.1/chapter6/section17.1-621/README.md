@@ -1,0 +1,3 @@
+# § 17.1-621 Clerk to make entry on minutes stating amount due and by whom payable.
+
+<p>The clerk of any court in which juries are impaneled shall, before its final adjournment at each term, and under the direction of the court, make an entry upon its minutes stating the amount to which each juror is entitled for his services or attendance during the term, and specifying how much is payable by the Commonwealth, and how much by the political subdivision.</p><p>Code 1950, § 8-208.36; 1973, c. 439, § 14.1-195.4; 1977, c. 624; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

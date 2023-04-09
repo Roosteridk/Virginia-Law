@@ -1,0 +1,3 @@
+# § 22.1-162 Definitions.
+
+<p>As used in this chapter:</p><p>1. "Authority" means the Virginia Public School Authority.</p><p>2. "Board of Commissioners" means the Board of Commissioners of the Authority.</p><p>3. "Bonds of the Authority" includes notes and other obligations issued by the Authority for any of its purposes.</p><p>4. "Local school bonds" means bonds or other obligations issued by counties, cities and towns under the provisions of Chapter 26 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-2600/'>15.2-2600</a> et seq.) of Title 15.2 solely for the purpose of financing capital projects for public schools.</p><p>1980, c. 559.</p>

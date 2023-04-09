@@ -1,0 +1,3 @@
+# § 22.1-289.055 Public funds to be withheld for serious or persistent violations.
+
+<p>The Board may adopt policies, as permitted by state and federal law, to restrict the eligibility of a child day program or family day system to receive or continue to receive funds when such agency is found to be in serious or persistent violation of regulations.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0860'>860</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0861'>861</a>.</p>

@@ -1,0 +1,3 @@
+# § 12.1-25 Rules of practice and procedure.
+
+<p>The Commission shall prescribe its own rules of practice and procedure not inconsistent with those made by the General Assembly. Such rules shall be printed and entered upon the records of the Commission. Copies of such rules shall be furnished to county and city clerks and to any citizen of this Commonwealth who makes application therefor.</p><p>Code 1950, § 12-49; 1971, Ex. Sess., c. 157.</p>

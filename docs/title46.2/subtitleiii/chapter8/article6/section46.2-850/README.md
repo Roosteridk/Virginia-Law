@@ -1,0 +1,3 @@
+# § 46.2-850 Change of course after giving signal.
+
+<p>Drivers having once given a hand or light signal shall continue the course thus indicated, unless they alter the original signal.</p><p>Code 1950, § 46-235; 1958, c. 541, § 46.1-218; 1989, c. 727.</p>

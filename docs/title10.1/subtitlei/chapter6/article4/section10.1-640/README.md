@@ -1,0 +1,3 @@
+# § 10.1-640 Political subdivisions may borrow from other sources.
+
+<p>Any entity eligible under § <a href='http://law.lis.virginia.gov/vacode/10.1-638/'>10.1-638</a> A may borrow funds as provided in this article before, simultaneously, or after borrowing funds from other sources for the same purpose for which funds are borrowed under the provisions of this article.</p><p>1970, c. 591, § 21-11.11; 1988, c. 891.</p>

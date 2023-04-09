@@ -1,0 +1,3 @@
+# § 3.2-6560 Expenses of humane investigators.
+
+<p>Neither the appointment of any humane investigator, nor the performance of any service or duty by him, shall require any locality or the Commonwealth to pay any cost or expense incurred by or on behalf of a humane investigator. Any locality may reimburse any humane investigator appointed for that locality for reasonable expenses incurred as the result of a specific request for services from the locality.</p><p>1984, c. 492, § 29-213.79; 1986, c. 362; 1987, c. 488, § 3.1-796.110; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0817'>817</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

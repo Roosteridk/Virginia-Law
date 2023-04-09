@@ -1,0 +1,3 @@
+# § 55.1-411 When writings to be recorded in county, and when in city.
+
+<p>The provisions of this and any other chapter of the Code or of any subsequent statute, by virtue of which a writing is to be or may be recorded in the county or city in which the property embraced in such writing is located, shall be construed, in respect to the county, as relating only to property within the county and outside the corporate limits of the city having a court in which writings may be lawfully recorded, and, in respect to the city, as relating only to property within the corporate limits of such city having such a court.</p><p>Code 1919, § 5199; Code 1950, § 55-102; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

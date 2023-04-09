@@ -1,0 +1,3 @@
+# § 27-48 Disputed questions of fact.
+
+<p>Any disputed question of fact arising under the operation of this article shall be triable before the governing body of such county or city having jurisdiction of the company involved, and from the decision of such governing body the petitioner and the county or city, as the case may be, shall have an appeal of right to the circuit court of the county or the corporation court of the city. Such appeal on behalf of the county or city shall be taken by the attorney for the Commonwealth or the corporation counsel who shall prosecute the same in the trial court.</p><p>1928, p. 1003; Michie Code 1942, § 3144h.</p>

@@ -1,0 +1,3 @@
+# § 46.2-898 Reports are in addition to others.
+
+<p>The reports required by §§ <a href='http://law.lis.virginia.gov/vacode/46.2-894/'>46.2-894</a> through <a href='http://law.lis.virginia.gov/vacode/46.2-897/'>46.2-897</a> are in addition to other accident reports required by this title and shall be made irrespective of the amount of property damage involved.</p><p>Code 1950, § 46-189; 1958, c. 541, § 46.1-176; 1970, c. 59; 1977, c. 267; 1982, c. 503; 1984, c. 780; 1989, c. 727.</p>

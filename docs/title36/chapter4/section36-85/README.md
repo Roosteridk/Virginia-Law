@@ -1,0 +1,3 @@
+# § 36-85 Fee for registration seal; use of proceeds.
+
+<p>The Board, by rule and regulation, shall establish a fee for each approved registration seal. The proceeds from the sale of such seals shall be used to pay the costs incurred by the Department in the administration of this law.</p><p>Code 1950, § 12-83; 1970, c. 305; 1971, Ex. Sess., c. 103; 1977, c. 613; 1986, c. 37.</p>

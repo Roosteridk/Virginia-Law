@@ -1,0 +1,3 @@
+# § 55.1-706.1 Required disclosures; lis pendens.
+
+<p>Notwithstanding the exemptions in § <a href='/vacode/55.1-702/'>55.1-702</a>, if the owner of a residential dwelling unit has actual knowledge of a lis pendens filed against such dwelling unit pursuant to § <a href='/vacode/8.01-268/'>8.01-268</a>, such owner shall provide to a prospective purchaser a written disclosure that so states. Such disclosure shall be provided to the purchaser on a form provided by the Real Estate Board on its website and otherwise in accordance with this chapter.</p><p>2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0610'>610</a>.</p>

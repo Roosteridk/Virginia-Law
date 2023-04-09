@@ -1,0 +1,3 @@
+# § 62.1-253 Riparian rights.
+
+<p>Nothing in this chapter shall be construed as altering, or authorizing any alteration of, any existing riparian rights except as set forth in permits issued pursuant to this chapter. The conditions in such permits shall be in force only in those times when low stream flows, or the potential therefor, result in a declaration as provided for in subsection A of § <a href='http://law.lis.virginia.gov/vacode/62.1-249/'>62.1-249</a>.</p><p>1989, c. 721.</p>

@@ -1,0 +1,3 @@
+# § 64.2-2101 International application of chapter.
+
+<p>A court of the Commonwealth may treat a foreign country as if it were a state for the purpose of applying this article and Articles 2 (§ <a href='http://law.lis.virginia.gov/vacode/64.2-2105/'>64.2-2105</a> et seq.), 3 (§ <a href='http://law.lis.virginia.gov/vacode/64.2-2114/'>64.2-2114</a> et seq.), and 5 (§ <a href='http://law.lis.virginia.gov/vacode/64.2-2119/'>64.2-2119</a> et seq.).</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0518'>518</a>, § 37.2-1033; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

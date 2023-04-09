@@ -1,0 +1,3 @@
+# § 2.2-5306 Duties of local public agencies.
+
+<p>Local public agencies represented on local interagency coordinating councils are responsible for:</p><p>1. Providing services as appropriate and agreed upon by members of the local interagency coordinating council;</p><p>2. Maintaining data and providing information as requested to their respective state agencies;</p><p>3. Developing and implementing interagency agreements;</p><p>4. Complying with applicable state and federal regulations and local policies and procedures; and</p><p>5. Following procedural safeguards and dispute resolution procedures as adopted by the Commonwealth.</p><p>1992, c. 771, § 2.1-767; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

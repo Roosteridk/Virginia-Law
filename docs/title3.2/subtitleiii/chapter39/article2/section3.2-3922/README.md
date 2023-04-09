@@ -1,0 +1,3 @@
+# § 3.2-3922 When Commissioner may refuse or cancel registration.
+
+<p>The Commissioner may refuse to register or cancel the registration of any brand of pesticide upon satisfactory proof that the registrant has committed any of the acts prohibited by subsection A of § <a href='http://law.lis.virginia.gov/vacode/3.2-3939/'>3.2-3939</a> or any regulation adopted by the Board. No registration shall be revoked or refused until the registrant shall have been given a hearing by the Commissioner.</p><p>Code 1950, § 3-208.29; 1966, c. 702, § 3.1-231; 1981, c. 260; 1982, c. 361; 1989, c. 575, § 3.1-249.44; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

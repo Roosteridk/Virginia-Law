@@ -1,0 +1,3 @@
+# § 12.1-18 Subordinates and employees to be appointed to serve at pleasure of Commission.
+
+<p>The Commission shall appoint a clerk and his deputies and assistants, a bailiff, all necessary heads and assistant heads of divisions and bureaus, all necessary regular and special counsel notwithstanding the provisions of Chapter 5 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-500/'>2.2-500</a> et seq.) of Title 2.2, and such other subordinates and employees as may be necessary to the proper discharge of its duties, all of whom shall serve at the pleasure of the Commission.</p><p>Code 1950, § 12-39; 1971, Ex. Sess., c. 157; 1991, c. 123.</p>

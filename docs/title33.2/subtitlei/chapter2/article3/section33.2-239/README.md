@@ -1,0 +1,3 @@
+# § 33.2-239 Providing highway detours.
+
+<p>Whenever necessary, the Commissioner of Highways shall select, lay out, maintain, and keep in as good repair as possible suitable detours, by the most practical route, while the highways are being improved or constructed, and he shall place or cause to be placed explicit directions to the traveling public during repair of any such highway under process of construction.</p><p>Code 1950, § 33-110; 1970, c. 322, § 33.1-194; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

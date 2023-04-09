@@ -1,0 +1,3 @@
+# § 53.1-67.5 Director to prescribe standards.
+
+<p>The Director shall prescribe standards for the development, implementation, operation, and evaluation of programs, services and facilities authorized by this article. The Director shall also prescribe guidelines for the transfer of offenders from a state or local correctional facility who the Director has determined should be placed in programs or facilities authorized under this article.</p><p>1994, 2nd Sp. Sess., cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0001'>1</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0002'>2</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0759'>759</a>.</p>

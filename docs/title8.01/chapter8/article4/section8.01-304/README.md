@@ -1,0 +1,3 @@
+# § 8.01-304 How process served on copartner or partnership.
+
+<p>Subject to § <a href='http://law.lis.virginia.gov/vacode/8.01-286.1/'>8.01-286.1</a>, process against a copartner or partnership may be served upon a general partner, and it shall be deemed service upon the partnership and upon each partner individually named in the action, provided the person served is not a plaintiff in the suit and provided the matter in suit is a partnership matter.</p><p>Provided further that process may be served upon a limited partner in any proceeding to enforce a limited partner's liability to the partnership.</p><p>Code 1950, § 8-59.1; 1950, p. 455; 1977, c. 617; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0866'>866</a>.</p>

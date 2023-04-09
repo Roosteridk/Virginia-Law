@@ -1,0 +1,3 @@
+# § 18.2-213 Simulation of warrants, processes, writs and notices.
+
+<p>Any person who, for the purpose of collecting money, shall knowingly deliver, mail, send or otherwise use or cause to be used any paper or writing simulating or intended to simulate any warrant, process, writ, notice of execution lien or notice of motion for judgment shall be guilty of a Class 4 misdemeanor.</p><p>Code 1950, § 18.1-313; 1960, c. 358; 1975, cc. 14, 15.</p>

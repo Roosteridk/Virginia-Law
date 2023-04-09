@@ -1,0 +1,3 @@
+# § 50-73.63 Proper plaintiff.
+
+<p>In a derivative action, the plaintiff shall be a partner at the time of bringing the action and (i) shall have been a partner at the time of the transaction of which he complains or (ii) his status as a partner shall have devolved upon him by operation of law or pursuant to the terms of the partnership agreement from a person who was a partner at the time of the transaction.</p><p>1985, c. 607; 1987, c. 702.</p>

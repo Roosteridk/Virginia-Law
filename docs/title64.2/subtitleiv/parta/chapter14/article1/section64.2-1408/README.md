@@ -1,0 +1,3 @@
+# § 64.2-1408 Circuit court may exercise same powers in suit to enforce or administer trust.
+
+<p>A circuit court may exercise all the powers conferred by §§ <a href='http://law.lis.virginia.gov/vacode/64.2-1405/'>64.2-1405</a>, <a href='http://law.lis.virginia.gov/vacode/64.2-1406/'>64.2-1406</a>, <a href='http://law.lis.virginia.gov/vacode/64.2-1407/'>64.2-1407</a>, and <a href='http://law.lis.virginia.gov/vacode/64.2-1412/'>64.2-1412</a> in a suit pending to enforce or administer the trust.</p><p>Code 1919, § 6302; Code 1950, § 26-52; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

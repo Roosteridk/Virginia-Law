@@ -1,0 +1,3 @@
+# § 62.1-131 Office and branch offices; title to property.
+
+<p>The Authority shall, in the Hampton Roads Area, have and maintain its principal office, at which all of its records shall be kept, and from which its business shall be transacted. It may, if necessary, establish a branch office or offices within or without the Commonwealth or the United States. The title to all property of every kind belonging to the former Hampton Roads Port Commission or the former State Port Authority of Virginia or the former Division of Ports Department of Conservation and Development, shall be vested in the Commonwealth of Virginia for the Virginia Port Authority.</p><p>Code 1950, § 62-106.4; 1952, c. 61; 1958, c. 174; 1968, c. 659; 1970, c. 171; 1981, c. 589.</p>

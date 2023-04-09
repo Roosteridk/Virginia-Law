@@ -1,0 +1,3 @@
+# § 29.1-100.1 Department of Game and Inland Fisheries continued as Department of Wildlife Resources.
+
+<p>The Department of Wildlife Resources, formerly known as the Department of Game and Inland Fisheries, is continued, and wherever "Department of Game and Inland Fisheries" is used in this Code, it shall mean the Department of Wildlife Resources. The Board of Wildlife Resources, formerly known as the Board of Game and Inland Fisheries, is continued, and wherever "Board of Game and Inland Fisheries" is used in this Code, it shall mean the Board of Wildlife Resources.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0958'>958</a>.</p>

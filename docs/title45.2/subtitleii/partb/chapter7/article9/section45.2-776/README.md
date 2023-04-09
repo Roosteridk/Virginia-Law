@@ -1,0 +1,3 @@
+# § 45.2-776  Ground control.
+
+<p>The provisions of Article 11 (§ <a href='/vacode/45.2-934/'>45.2-934</a>) of Chapter 9 shall apply with respect to any pit, highwall, wall, bank, or bench associated with any coal mining activity conducted at any surface area of an underground coal mine.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.248; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

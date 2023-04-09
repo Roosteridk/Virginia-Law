@@ -1,0 +1,3 @@
+# § 55.1-2106 General principles of law applicable.
+
+<p>The principles of law and equity, including the law of corporations and unincorporated associations, the law of real property, and the law relative to capacity to contract, principal and agent, eminent domain, estoppel, fraud, misrepresentation, duress, coercion, mistake, receivership, substantial performances, or other validating or invalidating cause supplement the provisions of this chapter, except to the extent inconsistent with this chapter.</p><p>1982, c. 277, § 55-431; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

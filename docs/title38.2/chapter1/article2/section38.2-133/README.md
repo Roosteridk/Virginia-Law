@@ -1,0 +1,3 @@
+# § 38.2-133 Contingent and consequential losses.
+
+<p>The definition of any class of insurance against loss of or damage to property enumerated in this article may include insurance against contingent, consequential and indirect losses resulting from any of the causes set out in this article. Coverage for these losses shall be included in the specific grouping of the class of insurance where the cause is specified. Insurance against loss of or damage to property may include insurance against loss or damage to all lawful interests in the property, and against loss of use and occupancy, rents, and profits resulting from the loss or damage.</p><p>1952, c. 317, § 38.1-23; 1986, c. 562.</p>

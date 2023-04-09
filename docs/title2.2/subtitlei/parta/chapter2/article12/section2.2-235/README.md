@@ -1,0 +1,3 @@
+# § 2.2-235 Policy regarding environmental justice.
+
+<p>It is the policy of the Commonwealth to promote environmental justice and ensure that it is carried out throughout the Commonwealth, with a focus on environmental justice communities and fenceline communities.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1212'>1212</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1257'>1257</a>.</p>

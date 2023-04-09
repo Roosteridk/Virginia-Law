@@ -1,0 +1,3 @@
+# § 58.1-102 Retention of records by taxpayer.
+
+<p>It shall be the duty of every taxpayer to retain suitable records and documents substantiating all information contained on any return required by this subtitle and any such other pertinent records or documents as the Tax Commissioner may require by regulation.</p><p>The records and documents shall be preserved for a period of three years from the required date for filing a return to which such records or documents pertain.</p><p>1984, c. 675.</p>

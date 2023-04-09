@@ -1,0 +1,3 @@
+# § 3.2-710 Penalties.
+
+<p>A. Any person who violates any of the provisions of this article, or who alters, forges, or counterfeits, or uses without authority any certificate or permit or other document provided for in this article or in the regulations of the Board adopted hereunder is guilty of a Class 1 misdemeanor.</p><p>B. Any person who has knowingly moved any regulated article into the Commonwealth from any quarantined area of any other state, which regulated article has not been treated or handled under provisions of the quarantine and regulations in effect at the point of origin, is guilty of a Class 1 misdemeanor.</p><p>1975, c. 29, § 3.1-188.29; 1980, c. 291; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

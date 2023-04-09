@@ -1,0 +1,3 @@
+# § 28.2-509 Maximum weight for patent tongs; teeth length; penalty.
+
+<p>It is unlawful for any person to use patent tongs exceeding 100 pounds in gross weight, including any attachments other than rope, for the taking or catching of oysters. The teeth of the patent tongs shall not exceed four inches in length. The possession of patent tongs exceeding this weight or teeth length while oysters are in the boat shall constitute prima facie evidence of a violation of this section.</p><p>A violation of this section is a Class 3 misdemeanor.</p><p>1962, c. 406, § 28.1-84; 1992, c. 836.</p>

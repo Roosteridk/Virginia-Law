@@ -1,0 +1,3 @@
+# § 18.2-251.4 Defeating drug and alcohol screening tests; penalty.
+
+<p>A. It is unlawful for a person to:</p><p>1. Sell, give away, distribute, transport or market human urine in the Commonwealth with the intent of using the urine to defeat a drug or alcohol screening test;</p><p>2. Attempt to defeat a drug or alcohol screening test by the substitution of a sample;</p><p>3. Adulterate a urine or other bodily fluid sample with the intent to defraud a drug or alcohol screening test.</p><p>B. A violation of this section is a Class 1 misdemeanor.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0379'>379</a>.</p>

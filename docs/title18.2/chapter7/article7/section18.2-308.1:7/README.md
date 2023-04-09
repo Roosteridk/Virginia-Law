@@ -1,0 +1,3 @@
+# § 18.2-308.1:7 Purchase, possession, or transportation of firearm by persons enrolled into the Voluntary Do Not Sell Firearms List; penalty.
+
+<p>It is unlawful for any person enrolled into the Voluntary Do Not Sell Firearms List pursuant to Chapter 12 (§ <a href='/vacode/52-50/'>52-50</a> et seq.) of Title 52 to purchase, possess, or transport a firearm. A violation of this section is punishable as a Class 3 misdemeanor.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1173'>1173</a>, § 18.2-308.1:6.</p>

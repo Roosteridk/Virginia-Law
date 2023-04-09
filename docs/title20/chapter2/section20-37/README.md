@@ -1,0 +1,3 @@
+# § 20-37 Validation of certain marriages when license issued by clerk of county court.
+
+<p>All marriages of females residing within jurisdiction of a corporation court, which were solemnized prior to February 1, 1904, by virtue of a license issued by the clerk of the court of the county wherein a city was or is situated, shall be as valid as if such license had been issued by the clerk of such corporation court.</p><p>Code 1919, § 5073.</p>

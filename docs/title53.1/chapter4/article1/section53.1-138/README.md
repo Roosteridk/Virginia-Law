@@ -1,0 +1,3 @@
+# § 53.1-138 Access to prisoners; reports of prison officials.
+
+<p>It shall be the duty of all prison officials to grant to the members of the Board, or its properly accredited representatives, access at all reasonable times to any prisoner whom the Board has power to parole; to provide for the Board and its representatives facilities for communicating with and observing such prisoner; and to furnish to the Board such reports as the Board or the Chairman shall request. Such reports may concern the conduct and character of any prisoner in their custody and other facts deemed by the Board pertinent in determining whether such prisoner shall be paroled.</p><p>Code 1950, § 53-240; 1970, c. 648; 1973, c. 253; 1982, c. 636.</p>

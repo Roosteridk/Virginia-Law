@@ -1,0 +1,3 @@
+# § 56-265.13:2 Definitions.
+
+<p>As used in this chapter:</p><p>"Commission" shall mean the "State Corporation Commission."</p><p>"Service" shall mean any product or commodity furnished by a small water or sewer utility, as well as its equipment, apparatus, appliances and facilities devoted to the functions in which that utility is engaged to the use and accommodation of the public.</p><p>1986, c. 323.</p>

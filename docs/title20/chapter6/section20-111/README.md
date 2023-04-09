@@ -1,0 +1,3 @@
+# § 20-111 Decree of divorce from bond of matrimony extinguishes contingent property rights.
+
+<p>Upon the entry of a decree of divorce from the bond of matrimony, all contingent rights of either consort in the real and personal property of the other then existing, or thereafter acquired, including the right of survivorship in real or personal property title to which is vested in the parties as joint tenants or as tenants by the entirety, with survivorship as at common law, shall be extinguished, and such estate by the entirety shall thereupon be converted into a tenancy in common.</p><p>Code 1919, § 5111; 1926, p. 105; 1927, p. 184; 1934, p. 516; 1938, p. 784; 1944, p. 397; 1948, p. 593.</p>

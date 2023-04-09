@@ -1,0 +1,3 @@
+# § 6.2-1408 Associations to have one office; how office moved.
+
+<p>An association shall not have more than one office for the conduct of its business. An association shall not move its office without first satisfying the Commission that moving its office will promote the convenience of its customers.</p><p>1966, c. 584, § 6.1-233; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

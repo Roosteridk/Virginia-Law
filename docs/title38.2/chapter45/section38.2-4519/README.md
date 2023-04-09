@@ -1,0 +1,3 @@
+# § 38.2-4519 Licensing of agents.
+
+<p>Subscription contracts for dental services plans may be solicited only by licensed dental services agents as provided for in Chapter 18 of this title. Subscription contracts for optometric services plans may be solicited only by licensed optometric services agents as provided for in Chapter 18 of this title. Home office salaried officers whose principal duties and responsibilities do not include the negotiation or solicitation of subscription contracts shall not be required to be licensed.</p><p>1980, c. 682, § 38.1-908; 1986, c. 562.</p>

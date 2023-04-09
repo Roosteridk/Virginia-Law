@@ -1,0 +1,3 @@
+# § 24.2-508 Powers of political parties in general.
+
+<p>Each political party shall have the power to (i) make its own rules and regulations, (ii) call conventions to proclaim a platform, ratify a nomination, or for any other purpose, (iii) provide for the nomination of its candidates, including the nomination of its candidates for office in case of any vacancy, (iv) provide for the nomination and election of its state, county, city, and district committees, and (v) perform all other functions inherent in political party organizations.</p><p>Code 1950, §§ 24-363, 24-364; 1970, c. 462, § 24.1-172; 1971, Ex. Sess., c. 119; 1973, c. 30; 1975, c. 515; 1978, c. 778; 1993, c. 641.</p>

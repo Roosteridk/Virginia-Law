@@ -1,0 +1,3 @@
+# § 22.1-65 Punishment of division superintendents.
+
+<p>A division superintendent may be assessed a reasonable fine, suspended from office for a limited period or removed from office by either the Board of Education, upon recommendation of the Superintendent of Public Instruction or the school board of the division for sufficient cause. A division superintendent may appeal to the appropriate circuit court any decision of the Board of Education or school board to assess a fine against him or to suspend or remove him from office and shall be entitled to a trial de novo on such appeal of whether there was sufficient cause therefor.</p><p>Code 1950, § 22-40; 1980, c. 559; 1990, c. 517.</p>

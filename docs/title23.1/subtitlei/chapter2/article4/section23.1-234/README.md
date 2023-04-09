@@ -1,0 +1,3 @@
+# § 23.1-234 Reports.
+
+<p>On or before January 1, 2019, and annually thereafter, the Council shall submit a report to the House Committees on Labor and Commerce and on Education and the Senate Committees on Commerce and Labor and Education and Health. The report shall address (i) the implementation of this article and (ii) the overall effectiveness of the Office of the Qualified Education Loan Ombudsman.</p><p>2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0489'>489</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0755'>755</a>.</p>

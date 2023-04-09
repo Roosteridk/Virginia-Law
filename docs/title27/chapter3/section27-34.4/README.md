@@ -1,0 +1,3 @@
+# § 27-34.4 Inspection and review of plans of buildings under construction.
+
+<p>Inspection of buildings other than state-owned buildings under construction and the review and approval of building plans for these structures for enforcement of the Uniform Statewide Building Code shall be the sole responsibility of the appropriate local building inspectors. Upon completion of such structures, responsibility for fire safety protection shall pass to the local fire marshal or official designated by the locality to enforce the Statewide Fire Prevention Code (§ <a href='http://law.lis.virginia.gov/vacode/27-94/'>27-94</a> et seq.) in those localities which enforce the Statewide Fire Prevention Code.</p><p>1980, c. 498; 1989, c. 258.</p>

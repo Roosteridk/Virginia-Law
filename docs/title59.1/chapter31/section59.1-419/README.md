@@ -1,0 +1,3 @@
+# § 59.1-419 Simulation of checks and invoices.
+
+<p>In connection with a consumer transaction, no person shall issue any writing which simulates or resembles (i) a check unless the writing clearly and conspicuously discloses its true value and purpose, and the writing would not mislead a reasonable person or (ii) an invoice unless the intended recipient of the invoice has actually contracted for goods, property, or services for which the issuer seeks proper payment.</p><p>1989, c. 689.</p>

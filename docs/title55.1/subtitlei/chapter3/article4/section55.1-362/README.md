@@ -1,0 +1,3 @@
+# § 55.1-362 Covenant of "no act to encumber.".
+
+<p>A covenant by any such grantor "that he has done no act to encumber the said lands" shall have the same effect as if he covenanted that he had not done or executed, or knowingly suffered, any act, deed, or thing whereby the lands and premises conveyed, or intended so to be, or any part thereof, are or will be charged, affected, or encumbered in title, estate, or otherwise.</p><p>Code 1919, § 5177; Code 1950, § 55-74; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

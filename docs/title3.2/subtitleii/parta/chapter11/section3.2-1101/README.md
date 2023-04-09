@@ -1,0 +1,3 @@
+# § 3.2-1101 Commodity boards reporting requirements.
+
+<p>All commodity boards established within the Department shall report their activities to the Board on an annual basis. This report shall be in a format as prescribed by the Board. The Board may review activities of the commodity boards and make such recommendations concerning their programs as it deems fit.</p><p>1985, c. 173, § 3.1-4.1; 2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0017'>17</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0398'>398</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

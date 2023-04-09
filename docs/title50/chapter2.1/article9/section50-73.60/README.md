@@ -1,0 +1,3 @@
+# § 50-73.60 Action by Attorney General.
+
+<p>The Attorney General may bring an action to restrain a foreign limited partnership from transacting business in this Commonwealth in violation of this article.</p><p>1985, c. 607.</p>

@@ -1,0 +1,3 @@
+# § 56-479.1 Long distance service; change of carriers; prior authorization.
+
+<p>No telephone company shall cause the long distance carrier designation of any telephone customer to be changed following such customer's initial selection thereof when establishing or reestablishing telephone service, without having first received a statement from the long distance carrier that such carrier has received a letter of agency or letter of authorization or an electronic authorization by use of an 800 number or an oral authorization verified by an independent third party, or any other means of authorization that is approved by the Federal Communications Commission.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0476'>476</a>.</p>

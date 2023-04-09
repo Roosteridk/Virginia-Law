@@ -1,0 +1,3 @@
+# § 53.1-95.2 Jail authority.
+
+<p>The governing bodies of two or more counties, cities, or towns or a combination thereof may by concurrent ordinances or resolutions or by agreement, create a jail authority. Such authority shall be subject to all rights, privileges, and obligations contained in Chapter 3 (§ <a href='http://law.lis.virginia.gov/vacode/53.1-68/'>53.1-68</a> et seq.) of this title.</p><p>1990, c. 837; 1992, c. 421.</p>

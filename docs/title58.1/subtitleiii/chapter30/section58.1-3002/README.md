@@ -1,0 +1,3 @@
+# § 58.1-3002 Levy by board for court allowances.
+
+<p>The clerks of the circuit courts shall furnish to the governing bodies of their counties, on or before the day on which they meet to set county taxes, copies of all orders and allowances made by their respective courts, payable out of the county treasury; and the supervisors shall provide for the payment of all such orders and allowances as the courts may be authorized to make.</p><p>Code 1950, § 58-840; 1984, c. 675.</p>

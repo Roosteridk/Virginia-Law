@@ -1,0 +1,3 @@
+# § 38.2-4005 License may be renewed annually.
+
+<p>Each license to a burial society shall expire on the June 30 next occurring after its effective date and may be renewed by the Commission annually.</p><p>Code 1950, § 38-146; 1952, c. 317, § 38.1-556; 1978, c. 4; 1986, c. 562.</p>

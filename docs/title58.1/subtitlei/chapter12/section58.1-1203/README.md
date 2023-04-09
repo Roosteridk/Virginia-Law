@@ -1,0 +1,3 @@
+# § 58.1-1203 Real and leased tangible personal property of banks to be assessed as other real and personal property.
+
+<p>A. The real estate of all banks shall be assessed on the land books with the same taxes with which other real estate is assessed.</p><p>B. The tangible personal property of all banks which is leased for a consideration to customers or other lessees shall be assessed on the personal property books with the same taxes with which other tangible personal property held for lease is assessed.</p><p>Code 1950, § 58-485.05; 1980, c. 578; 1984, c. 675.</p>

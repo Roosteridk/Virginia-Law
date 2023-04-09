@@ -1,0 +1,3 @@
+# § 44-140 Liberal construction.
+
+<p>This chapter shall be liberally construed in favor of its purposes.</p><p>1932, p. 762; Michie Code 1942, § 2673(123); R. P. 1948, § 44-140.</p>

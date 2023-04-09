@@ -1,0 +1,3 @@
+# § 50-73.66 Annual registration fees to be assessed and collected by Commission; application of payment.
+
+<p>The Commission shall assess and collect the annual registration fees imposed by this chapter. When the Commission receives payment of a registration fee assessed against a domestic or a foreign limited partnership, such payment shall be applied against any unpaid registration fees previously assessed against such limited partnership, including any penalties incurred thereon, beginning with the assessment that has remained unpaid for the longest period of time.</p><p>1985, c. 607.</p>

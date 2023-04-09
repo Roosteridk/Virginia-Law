@@ -1,0 +1,3 @@
+# § 15.2-5819 Policy statement.
+
+<p>It is hereby found, determined, and declared that the acquisition of a major league baseball franchise and a major league baseball stadium will result in substantial economic development in the Commonwealth and is in all respects for the benefit of the people of the Commonwealth and is a public purpose and that the Authority will be performing an essential government function in the exercise of the powers conferred by this chapter.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0950'>950</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP1038'>1038</a>, § 15.1-227.89; 1997, c. 587.</p>

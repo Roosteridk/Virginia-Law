@@ -1,0 +1,3 @@
+# § 20-146.34 Recognition and enforcement.
+
+<p>A court of this Commonwealth shall accord full faith and credit to an order issued by another state and consistent with this act that enforces a child custody determination by a court of another state unless the order has been vacated, stayed, or modified by a court having jurisdiction to do so under Article 2 (§ <a href='http://law.lis.virginia.gov/vacode/20-146.12/'>20-146.12</a> et seq.) of this chapter.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0305'>305</a>.</p>

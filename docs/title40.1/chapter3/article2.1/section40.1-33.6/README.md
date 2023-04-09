@@ -1,0 +1,3 @@
+# § 40.1-33.6 Retaliatory action prohibited.
+
+<p>No employer shall discharge, discipline, threaten, discriminate against, or penalize an employee, or take other retaliatory action regarding an employee's compensation, terms, conditions, location, or privileges of employment, because the employee (i) has requested or exercised the benefits provided for in this article or (ii) has alleged a violation of this article.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0449'>449</a>.</p>

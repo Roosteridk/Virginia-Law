@@ -1,0 +1,3 @@
+# § 28.2-1002 Cooperation of agencies of Commonwealth.
+
+<p>All governmental agencies of the Commonwealth of Virginia are authorized to cooperate with the Potomac River Fisheries Commission created by the Potomac River Compact approved by this article, it being the policy of this Commonwealth to perform and carry out the compact and accomplish its purposes.</p><p>Code 1950, §§ 28-218.2, 28-218.3; 1959, Ex. Sess., cc. 5, 28; 1962, c. 406, § 28.1-203.1; 1992, c. 836 .</p>

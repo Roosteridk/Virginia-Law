@@ -1,0 +1,3 @@
+# § 33.2-230 Written notice of decision to dispose of real property.
+
+<p>Whenever the Board or the Department decides to sell or otherwise dispose of any surplus real property, the Commissioner of Highways shall provide written notice of such decision to the mayor or chairman of the governing body of the locality in which the property or any portion thereof is located. Any failure to provide or receive such notice shall not create a cloud on the title to the property.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0287'>287</a>, § 33.1-223.2:2; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

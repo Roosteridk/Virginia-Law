@@ -1,0 +1,3 @@
+# § 11-15 Recovery of money or property lost in gaming.
+
+<p>Any person who shall, by playing at any game or betting on the sides or hands of such as play at any game, lose within twenty-four hours, the sum or value of five dollars, or more, and pay or deliver the same, or any part thereof, may, within three months next following, recover from the winner, the money or the value of the goods so lost and paid or delivered, with costs of suit in civil action, either by suit or warrant, according to the amount or value thereof.</p><p>Code 1919, § 5559.</p>

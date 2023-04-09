@@ -1,0 +1,3 @@
+# § 54.1-2912.2 Board may endorse certain document.
+
+<p>In the furtherance of its responsibility to ensure continued practitioner competency, the Board of Medicine may endorse the Medical Society of Virginia's Guidelines for the Use of Opioids in the Management of Chronic, Non-Cancer Pain, developed and adopted in 1997.</p><p>For the purpose of this section, "endorse" means to publicize and distribute such guidelines as providing an appropriate standard of care; however, the Board's endorsement shall not be construed to mean that the guidelines must be followed or are regulations or are in any way intended to be enforceable law.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0496'>496</a>.</p>

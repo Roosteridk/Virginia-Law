@@ -1,0 +1,3 @@
+# § 22.1-207.6 Military-connected students; National Math and Science Initiative.
+
+<p>The Department of Education shall encourage school boards of school divisions that have a significant number of enrolled military-connected students to partner with the National Math and Science Initiative to provide such students with the tools and resources necessary to advance science, technology, engineering, and mathematics learning opportunities and career readiness. The Department shall provide technical assistance to any school board seeking to enter into such a partnership, upon request.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0772'>772</a>.</p>

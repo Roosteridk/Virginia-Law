@@ -1,0 +1,3 @@
+# § 15.2-2130 Extensions to systems.
+
+<p>No person, including municipal corporations, which has constructed or installed a sewage system after having complied with the provisions of this article, shall extend the service in excess of the number of connections for which approval was originally given. In case any such extension is desired, the person shall proceed in the same manner as in the case of an original application under this article.</p><p>Code 1950, § 15-739.10; 1954, c. 382; 1962, c. 623, § 15.1-329; 1974, c. 246; 1997, c. 587.</p>

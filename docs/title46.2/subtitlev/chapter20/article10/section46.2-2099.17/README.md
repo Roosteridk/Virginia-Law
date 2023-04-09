@@ -1,0 +1,3 @@
+# § 46.2-2099.17 Regulation of brokers.
+
+<p>The Department shall regulate TNC brokers and brokers and make and enforce reasonable requirements respecting their licenses, financial responsibility, accounts, records, reports, operations, and practices.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0635'>635</a>.</p>

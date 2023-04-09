@@ -1,0 +1,3 @@
+# § 19.2-348 Attorneys for Commonwealth or clerks to superintend issue of executions, etc.
+
+<p>The attorney for the Commonwealth or the clerk of the circuit court shall superintend the issuing of all executions or judgments for fines and penalties going wholly or in part to the Commonwealth or a county, city or town, in the circuit court or appropriate district court of his county or city.</p><p>Code 1950, § 19.1-341.1; 1960, c. 366; 1975, c. 495; 1983, c. 499; 1992, c. 623; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0811'>811</a>.</p>

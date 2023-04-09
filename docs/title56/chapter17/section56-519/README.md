@@ -1,0 +1,3 @@
+# § 56-519 Previously established salaries, wages, conditions of employment, etc., to be observed; collective bargaining.
+
+<p>During the period of the Commonwealth's operation of any utility, pursuant to the provisions of this chapter, the Governor shall observe the utility's previously established salaries, wages, conditions of employment, practices as to merit or length of service increases and as to promotions; it being the intent of this chapter that any disputes as to such matters shall be settled by collective bargaining between the parties to such disputes.</p><p>1952, c. 696.</p>

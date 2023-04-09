@@ -1,0 +1,3 @@
+# § 3.2-2307 Question to be printed on ballots.
+
+<p>The question to be printed on the ballots used in a referendum held pursuant to this chapter shall be as follows:</p><p>"Do you favor additional research, education, publicity and the promotion of the sale and use of soybeans and the continuation of the levy of an assessment of two cents ($0.02) per bushel in accordance with the provisions of the Soybean Board?</p><p>_____ Yes</p><p>_____ No."</p><p>1970, c. 431, § 3.1-684.12; 1982, c. 603; 1990, c. 183; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

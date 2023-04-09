@@ -1,0 +1,3 @@
+# § 38.2-4703 Renewal of license.
+
+<p>Subject to the provisions of § <a href='http://law.lis.virginia.gov/vacode/38.2-4704/'>38.2-4704</a>, a licensed insurance premium finance company may renew its license on July 1 of each year, upon payment of a nonrefundable annual license fee of $200, unless the license has been surrendered, suspended or revoked.</p><p>1964, c. 147, § 38.1-738; 1975, c. 175; 1981, c. 107; 1986, c. 562.</p>

@@ -1,0 +1,3 @@
+# § 3.2-6567 Enforcement authority.
+
+<p>All law-enforcement officers in the Commonwealth and State Veterinarian's representatives shall enforce the provisions of this chapter to the same extent other laws in the Commonwealth are enforced.</p><p>1984, c. 492, § 29-213.81; 1987, c. 488, § 3.1-796.112; 1991, c. 121; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0817'>817</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

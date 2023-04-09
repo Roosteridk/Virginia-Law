@@ -1,0 +1,3 @@
+# § 58.1-3721 License exemptions for coin machine operators.
+
+<p>The coin machine operator's license tax authorized by § <a href='http://law.lis.virginia.gov/vacode/58.1-3720/'>58.1-3720</a> shall not be applicable to operators of weighing machines, automatic baggage or parcel checking machines or receptacles, nor to operators of vending machines which are so constructed as to do nothing but vend goods, wares and merchandise or postage stamps or provide service only, nor to operators of viewing machines or photomat machines, nor operators of devices or machines affording rides to children or for the delivery of newspapers.</p><p>Code 1950, § 58-359; 1954, c. 522; 1958, c. 510; 1966, c. 562; 1968, c. 610; 1976, c. 719; 1984, c. 675.</p>

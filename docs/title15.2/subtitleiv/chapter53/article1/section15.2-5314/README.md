@@ -1,0 +1,3 @@
+# § 15.2-5314 When commissioner deemed to have acquiesced in violation.
+
+<p>A commissioner shall be deemed to have acquiesced in a willful violation by the authority of a law of this Commonwealth or of any term, provision or covenant contained in a contract to which the authority is a party if, before a hearing is held on charges against him, he has not filed a written statement with the authority of his objections to, or lack of participation in, such violation.</p><p>Code 1950, § 32-228; 1979, c. 719, § 15.1-1547; 1997, c. 587.</p>

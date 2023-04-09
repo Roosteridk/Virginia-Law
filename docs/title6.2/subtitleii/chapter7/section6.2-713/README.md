@@ -1,0 +1,3 @@
+# § 6.2-713 Applicable laws and regulations.
+
+<p>A. Any Virginia bank that is controlled by a bank holding company that is not a Virginia bank holding company shall be subject to all laws of the Commonwealth and all regulations under such laws that are applicable to Virginia banks controlled by Virginia bank holding companies.</p><p>B. The Commission shall adopt such regulations, including the imposition of reasonable application and administration fees, as it finds necessary to implement and effect the provisions of this chapter.</p><p>1985, c. 544, § 6.1-403; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

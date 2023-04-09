@@ -1,0 +1,3 @@
+# § 18.2-57.4 Reporting findings of assault and battery to military family advocacy representatives.
+
+<p>If any active duty member of the United States Armed Forces is found guilty of a violation of § <a href='http://law.lis.virginia.gov/vacode/18.2-57.2/'>18.2-57.2</a> or § <a href='http://law.lis.virginia.gov/vacode/18.2-57.3/'>18.2-57.3</a>, the court shall report the conviction to family advocacy representatives of the United States Armed Forces.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0681'>681</a>.</p>

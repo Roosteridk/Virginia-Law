@@ -1,0 +1,3 @@
+# § 2.2-434 Employment of lobbyists prohibited; exceptions.
+
+<p>Employment of a lobbyist for compensation by an officer, board, institution or agency of the Commonwealth, is expressly prohibited; however, this section shall not apply to any individual who is a full-time or part-time employee of such office, board, department, institution or agency of the Commonwealth.</p><p>1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0857'>857</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0937'>937</a>, § 2.1-793; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

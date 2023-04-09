@@ -1,0 +1,3 @@
+# § 10.1-1319 Appeal to Court of Appeals.
+
+<p>The Commonwealth or any party aggrieved by any final decision of the judge shall have, regardless of the amount involved, the right to appeal to the Court of Appeals. The procedure shall be the same as that provided by law concerning appeals and supersedeas.</p><p>1966, c. 497, § 10-17.28; 1984, c. 703; 1988, c. 891.</p>

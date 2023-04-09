@@ -1,0 +1,3 @@
+# § 3.2-4307 When products considered as offered for sale.
+
+<p>When any agricultural product is in transit, delivered to a common carrier for shipment, or delivered for storage, such transit or delivery shall be prima facie evidence that the product is offered for sale.</p><p>Code 1950, § 3-263; 1966, c. 702, § 3.1-342; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

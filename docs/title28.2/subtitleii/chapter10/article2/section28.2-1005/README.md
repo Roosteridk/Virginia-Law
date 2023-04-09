@@ -1,0 +1,3 @@
+# § 28.2-1005 Authority to regulate dredging of oysters.
+
+<p>The Potomac River Fisheries Commission shall have the power to make, adopt and publish such rules and regulations as may be necessary or desirable for authorizing and regulating the dredging of oysters in areas of the Potomac River within its geographical jurisdiction and may levy license and repletion fees for same.</p><p>1974, c. 89, § 28.1-229; 1982, c. 116; 1992, c. 836 .</p>

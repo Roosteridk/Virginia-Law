@@ -1,0 +1,3 @@
+# § 19.2-386.13 Writ of error and supersedeas.
+
+<p>For the purpose of review on a writ of error or supersedeas, a final judgment or order in the cause shall be deemed a final judgment and may be appealed to the Court of Appeals.</p><p>1989, c. 690; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0681'>681</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0489'>489</a>.</p>

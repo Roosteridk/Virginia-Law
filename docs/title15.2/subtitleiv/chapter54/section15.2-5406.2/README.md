@@ -1,0 +1,3 @@
+# § 15.2-5406.2 Tort claims against certain authorities.
+
+<p>An authority created by a governmental unit exempt from the referendum requirement of § <a href='http://law.lis.virginia.gov/vacode/15.2-5403/'>15.2-5403</a> shall be subject to tort liability only to the extent that the governmental unit that is the sole member of such authority is subject to such liability.</p><p>2006, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0929'>929</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0941'>941</a>.</p>

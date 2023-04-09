@@ -1,0 +1,3 @@
+# § 15.2-5316 Removed commissioner may appeal.
+
+<p>Any commissioner thus removed may, within ten days after the mayor's action, appeal to the circuit court of the city, and the decision of such court shall be final.</p><p>Code 1950, § 32-230; 1979, c. 719, § 15.1-1549; 1997, c. 587.</p>

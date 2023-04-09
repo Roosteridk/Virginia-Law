@@ -1,0 +1,3 @@
+# § 2.2-5401 Designation by Secretary of Health and Human Resources of agency to administer act.
+
+<p>The Secretary of Health and Human Resources shall designate an agency to administer the Community Action Act and to work with community action agencies and community action statewide organizations to develop social and economic opportunities for low-income persons.</p><p>1982, c. 667, § 2.1-589; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

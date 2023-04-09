@@ -1,0 +1,3 @@
+# § 15.2-3224 Commissioner of revenue for the county to certify list of real estate in annexed territory to commissioner of revenue.
+
+<p>The commissioner of the revenue of such county shall forthwith make from the land books and certify to the commissioner of the revenue of the city a list of all real estate within the annexed territory as it appears on such land books, embracing every entry thereon in regard thereto, for which service he shall be paid by such city a reasonable fee.</p><p>Code 1950, § 15-152.22; 1952, c. 328; 1962, c. 623, § 15.1-1052; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0539'>539</a>; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 46.2-421 Effect of order for such payment and proof of financial responsibility.
+
+<p>The Commissioner shall not suspend a license or registration of a motor vehicle and shall restore any license or registration suspended following nonpayment of a judgment, if the judgment debtor obtains an order from the court in which the judgment was rendered permitting payment of the judgment in installments and if the judgment debtor gives proof of his financial responsibility in the future as provided in this chapter.</p><p>Code 1950, § 46-433; 1958, c. 541, § 46.1-446; 1989, c. 727.</p>

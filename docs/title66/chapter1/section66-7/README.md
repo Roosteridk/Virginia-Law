@@ -1,0 +1,3 @@
+# § 66-7 Compensation and expenses.
+
+<p>The members of the Board shall receive no salaries. They shall be paid their necessary traveling and other expenses incurred in attendance at meetings, or while otherwise engaged in the discharge of their duties, and the sum of fifty dollars a day for each day or portion thereof in which they are engaged in the performance of their duties.</p><p>1989, c. 733.</p>

@@ -1,0 +1,3 @@
+# § 18.2-331 Illegal possession, etc., of gambling device; penalty.
+
+<p>A person is guilty of illegal possession of a gambling device when he manufactures, sells, transports, rents, gives away, places or possesses, or conducts or negotiates any transaction affecting or designed to affect ownership, custody or use of any gambling device, believing or having reason to believe that the same is to be used in the advancement of unlawful gambling activity. Violation of any provision of this section shall constitute a Class 1 misdemeanor.</p><p>Code 1950, §§ 18.1-323, 18.1-329, 18.1-330; 1960, c. 358; 1962, c. 633; 1964, c. 371; 1975, cc. 14, 15.</p>

@@ -1,0 +1,3 @@
+# § 19.2-392.1 (For contingent expiration date, see Acts 2021, Sp. Sess. I, cc. 550 and 551, cl. 9) Statement of policy.
+
+<p>The General Assembly finds that arrest records can be a hindrance to an innocent citizen's ability to obtain employment, an education and to obtain credit. It further finds that the police and court records of those of its citizens who have been absolutely pardoned for crimes for which they have been unjustly convicted can also be a hindrance. This chapter is intended to protect such persons from the unwarranted damage which may occur as a result of being arrested and convicted.</p><p>1977, c. 675; 1984, c. 642.</p>

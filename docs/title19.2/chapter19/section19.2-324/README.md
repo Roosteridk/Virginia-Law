@@ -1,0 +1,3 @@
+# § 19.2-324 Decision of appellate court.
+
+<p>The court from which a writ of error lies shall affirm the judgment, if there be no error therein, and reverse the same in whole or in part, if erroneous, and enter such judgment as the court whose error is sought to be corrected ought to have entered; or remand the cause and direct a new trial; affirming in those cases where the voices on both sides are equal.</p><p>Code 1950, § 19.1-288; 1960, c. 366; 1975, c. 495.</p>

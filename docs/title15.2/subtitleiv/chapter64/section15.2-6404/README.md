@@ -1,0 +1,3 @@
+# § 15.2-6404 Office of authority; title to property.
+
+<p>Each board shall maintain the principal office of the authority within a member locality. All records shall be kept at such office. The title to all property of every kind belonging to an authority shall be titled to the authority, which shall hold it for the benefit of its member localities.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0276'>276</a>, 587, § 15.1-1714.</p>

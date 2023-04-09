@@ -1,0 +1,3 @@
+# § 15.2-3819 Election and terms of office of mayor and councilmen after town becomes city.
+
+<p>At a general election of city officers, to be held on the second Tuesday in May after a town is declared to be a city, a mayor and city council shall be elected for the city. The terms of office of the mayor and city council shall begin on July 1 following their election. The mayor shall serve for four years. One half of the council shall serve for two years, and the other half for four years.</p><p>Code 1950, § 15-90; 1962, c. 623, § 15.1-990; 1997, c. 587.</p>

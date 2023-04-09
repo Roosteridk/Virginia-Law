@@ -1,0 +1,3 @@
+# § 65.2-813.2 Premium discounts; drug-free workplace programs.
+
+<p>Every insurer providing coverage pursuant to this title shall provide a premium discount of up to five percent to every employer instituting and maintaining a drug-free workplace program satisfying such criteria as each insurer may establish.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0410'>410</a>; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0280'>280</a>.</p>

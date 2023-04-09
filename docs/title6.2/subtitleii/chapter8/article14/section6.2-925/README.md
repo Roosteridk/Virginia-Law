@@ -1,0 +1,3 @@
+# § 6.2-925 Definitions.
+
+<p>As used in this article, unless the context requires otherwise:</p><p>"Bank" means any bank or trust company organized under the laws of the Commonwealth.</p><p>"FDIC" or "Corporation" means the Federal Deposit Insurance Corporation. The term includes any successor to the Corporation or any other agency or instrumentality of the United States that undertakes to discharge the purposes of the Corporation.</p><p>"Receivership court" means the circuit court that appoints a receiver for a bank pursuant to this article.</p><p>1983, c. 507, § 6.1-110.1; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-631 Department of extension and continuing education.
+
+<p>The department of extension and continuing education, if and when established, shall consist of the county extension agent, who shall be head of the department, a home economics agent, a 4-H youth agent and such other extension agents and employees as may be appointed or employed. The county extension agent and the other extension agents shall be selected from a list of eligibles submitted by the Virginia Polytechnic Institute and State University. They shall perform such duties as the board imposes upon them.</p><p>Code 1950, § 15-328; 1962, c. 623, § 15.1-648; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 8.01-130 Judgment not to bar action of trespass, ejectment, or unlawful detainer.
+
+<p>No judgment in an action brought under the provisions of this article shall bar any action of trespass, ejectment, or unlawful detainer between the same parties, nor shall any such judgment or verdict be conclusive, in any such future action, of the facts therein found.</p><p>Code 1950, § 8-795; 1977, c. 617; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0255'>255</a>.</p>

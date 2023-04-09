@@ -1,0 +1,3 @@
+# § 8.01-20 Effect of marriage, change of name or death on appeal.
+
+<p>If at any time after verdict or judgment in the trial court during the pendency of an appeal or before the appeal is granted, the marriage, change of name or death of a party, or any other fact which might otherwise be relied on in abatement occurs, and such fact is suggested or relied on in abatement in the Court of Appeals or the Supreme Court, the court may, in its discretion, take or retain jurisdiction and enter judgment or decree in the case as if such event had not occurred.</p><p>Code 1950, § 8-148; 1973, c. 401; 1977, c. 617; 1984, c. 703.</p>

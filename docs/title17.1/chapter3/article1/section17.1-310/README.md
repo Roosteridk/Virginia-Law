@@ -1,0 +1,3 @@
+# § 17.1-310 Habeas corpus, appeals, writs of error and supersedeas.
+
+<p>The Supreme Court shall also have jurisdiction to award writs of habeas corpus and of such appeals, writs of error and supersedeas as may be legally docketed in or transferred to the Court.</p><p>Code 1919, § 5865, § 17-97; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0503'>503</a>; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>; 2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0344'>344</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0345'>345</a>.</p>

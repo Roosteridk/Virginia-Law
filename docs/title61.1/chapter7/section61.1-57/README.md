@@ -1,0 +1,3 @@
+# § 61.1-57 Enforcement by Commissioner of Agriculture and Consumer Services; rules and regulations.
+
+<p>The Board of Agriculture and Consumer Services shall have authority to establish rules and regulations for the enforcement of this chapter. The Commissioner is hereby vested with the authority to administer and enforce the provisions of this law and to enforce reasonable rules and regulations not inconsistent with the provisions hereof, for the purpose of carrying out the provisions of this chapter.</p><p>Code 1950, § 61-156; 1950, p. 66; 1968, c. 69.</p>

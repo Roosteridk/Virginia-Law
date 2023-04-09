@@ -1,0 +1,3 @@
+# § 20-146.35 Appeals.
+
+<p>An appeal may be taken from a final order in a proceeding under this article in accordance with expedited appellate procedures in other civil cases. Unless the court enters a temporary emergency order under § <a href='http://law.lis.virginia.gov/vacode/20-146.15/'>20-146.15</a>, the enforcing court may not stay an order enforcing a child custody determination pending appeal.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0305'>305</a>.</p>

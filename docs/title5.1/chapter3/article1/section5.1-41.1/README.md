@@ -1,0 +1,3 @@
+# § 5.1-41.1 Local governing bodies authorized to require boarding fee.
+
+<p>The governing body of any county, city or town which operates an airport or an airport authority, after approval of its governing bodies, shall have the power by ordinance or by bylaw to require a boarding fee on passengers boarding aircraft at local airports, where the trip of such passenger originates at such airport. Such fee shall be in such amount and on such terms as the governing body of the locality or airport authority may by ordinance or by bylaw prescribe, not to exceed two dollars per person. Nothing herein contained shall affect any authority heretofore granted to any local government or airport authority to require a boarding fee.</p><p>1973, c. 536.</p>

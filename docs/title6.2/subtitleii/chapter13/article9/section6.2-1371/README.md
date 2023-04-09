@@ -1,0 +1,3 @@
+# § 6.2-1371 Other charges.
+
+<p>A. In addition to interest charged on loans, a credit union may charge members all reasonable expenses in connection with making, closing, disbursing, extending, collecting, or renewing loans.</p><p>B. In accordance with the bylaws, a credit union may assess charges to members for failure to meet in a timely manner their obligations to the credit union.</p><p>1990, c. 373, § 6.1-225.52; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

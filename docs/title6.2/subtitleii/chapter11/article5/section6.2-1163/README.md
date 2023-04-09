@@ -1,0 +1,3 @@
+# § 6.2-1163 Application of article to bank or bank holding company.
+
+<p>For purposes of this chapter, any bank or bank holding company seeking to acquire a savings institution or savings institution holding company, shall be deemed to be a savings institution or savings institution holding company, as the case may be, for purposes of determining whether such bank or bank holding company is permitted to acquire the savings institution or savings institution holding company in question.</p><p>1987, c. 634, § 6.1-194.107; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

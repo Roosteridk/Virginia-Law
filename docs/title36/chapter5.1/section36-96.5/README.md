@@ -1,0 +1,3 @@
+# § 36-96.5 Interference with enjoyment of rights of others under this chapter.
+
+<p>It shall be an unlawful discriminatory housing practice for any person to coerce, intimidate, threaten, or interfere with any person in the exercise or enjoyment of, or on account of his having exercised or enjoyed, or on the account of his having aided or encouraged any other person in the exercise or enjoyment of, any right granted or protected by this chapter.</p><p>1972, c. 591, § 36-93; 1973, c. 358; 1991, c. 557.</p>

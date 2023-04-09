@@ -1,0 +1,3 @@
+# § 15.2-3824 Town officers.
+
+<p>Except as provided in this chapter, if a town becomes a city, officers of the town shall be officers of the city until the expiration of the term for which they were chosen or until they are removed according to law or their offices abolished by the city council.</p><p>Code 1950, § 15-95; 1962, c. 623, § 15.1-996; 1997, c. 587.</p>

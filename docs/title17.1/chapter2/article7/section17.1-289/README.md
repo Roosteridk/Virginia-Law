@@ -1,0 +1,3 @@
+# § 17.1-289 Commission on certain local collections not otherwise provided for.
+
+<p>The clerk of every circuit court shall be entitled to a commission of five percent on local collections received by the clerk on which a commission is not otherwise provided for by law. The commissions shall be deducted by the clerk before the collections are paid into the county, town or city treasury.</p><p>1977, c. 290, § 14.1-155.2; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

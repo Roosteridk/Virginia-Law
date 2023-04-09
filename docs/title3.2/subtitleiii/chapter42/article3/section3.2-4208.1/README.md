@@ -1,0 +1,3 @@
+# § 3.2-4208.1 Joint and several liability.
+
+<p>For each nonparticipating manufacturer located outside the United States, each importer into the United States of any such nonparticipating manufacturer's brand families that are sold in Virginia shall bear joint and several liability with such nonparticipating manufacturer for deposit of all escrow due under § <a href='http://law.lis.virginia.gov/vacode/3.2-4201/'>3.2-4201</a>, payment of all penalties imposed in accordance with § <a href='http://law.lis.virginia.gov/vacode/3.2-4201/'>3.2-4201</a>, and payment of all costs and attorney fees imposed in accordance with this article.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0758'>758</a>, § 3.1-336.7:1.</p>

@@ -1,0 +1,3 @@
+# § 40.1-51.39 Penalties; chapter not to affect right to relief or to maintain action.
+
+<p>A. Any owner violating any provision of this chapter, Board regulation, or order of the Commissioner shall upon conviction be guilty of a misdemeanor and shall be subject to a fine of not more than $1,000 for each violation within the discretion of the court. Each day of continued violation after conviction shall constitute a separate offense.</p><p>B. Nothing in this chapter shall be construed to abridge, limit, impair, create, enlarge or otherwise affect substantively or procedurally the right of any person to damages or other relief on account of injury to persons or property.</p><p>1992, c. 541.</p>

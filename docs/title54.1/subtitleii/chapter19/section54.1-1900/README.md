@@ -1,0 +1,3 @@
+# §§ 54.1-1900 through 54.1-1908 Repealed.
+
+<p>Repealed by Acts 1992, c. 578, effective July 1, 1993.</p>

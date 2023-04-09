@@ -1,0 +1,3 @@
+# § 38.2-4219 Subscriber to be advised in writing as to benefits and limitations thereon.
+
+<p>A nonstock corporation shall, prior to and during the term of the subscription contract, fully, fairly and currently advise the subscriber in writing of the benefits available under the contract and all limitations on the benefits available under the contract.</p><p>Code 1950, § 32-195.8:3; 1972, c. 429, § 38.1-821; 1979, c. 721; 1980, c. 682; 1986, c. 562.</p>

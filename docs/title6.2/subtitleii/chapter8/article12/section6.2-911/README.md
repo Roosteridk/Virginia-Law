@@ -1,0 +1,3 @@
+# § 6.2-911 Examination of national banks.
+
+<p>Every national bank that is now or may be designated as a state depository, so long as it acts as such, shall be subject to the examination provided for state banks, when, in the opinion of the State Treasurer, such examination is necessary for the protection of the Commonwealth. However, no fees or charges shall be imposed upon national banks for such examinations.</p><p>Code 1950, § 6-127; 1966, c. 584, § 6.1-99; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

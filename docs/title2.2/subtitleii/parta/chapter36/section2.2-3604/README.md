@@ -1,0 +1,3 @@
+# § 2.2-3604 Solicitation of aid from community.
+
+<p>Each department may, through the officer, agent, or employee primarily responsible for the utilization of volunteers in that department, solicit volunteers and voluntary assistance for that department from the community.</p><p>1978, c. 121, § 2.1-557.1; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

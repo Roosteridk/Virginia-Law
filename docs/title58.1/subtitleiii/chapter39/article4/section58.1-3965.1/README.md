@@ -1,0 +1,3 @@
+# § 58.1-3965.1 Additional authority to sell land for delinquent taxes.
+
+<p>In addition to the authority provided by subsection A of § <a href='http://law.lis.virginia.gov/vacode/58.1-3965/'>58.1-3965</a>, a city may also, by ordinance, institute proceedings to sell in accordance with law any real estate when any taxes on such real estate are delinquent on December 31 following the first anniversary of the date on which such taxes have become due provided proper notice is given in accordance with subsection A of § <a href='http://law.lis.virginia.gov/vacode/58.1-3965/'>58.1-3965</a>.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0756'>756</a>.</p>

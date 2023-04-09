@@ -1,0 +1,3 @@
+# § 38.2-4805.1 Application of chapter.
+
+<p>Except as provided in subsection C of § <a href='http://law.lis.virginia.gov/vacode/38.2-1802/'>38.2-1802</a>, this chapter shall apply to the sale, solicitation, and negotiation of surplus lines insurance coverage for insureds whose home state, as defined in § <a href='http://law.lis.virginia.gov/vacode/38.2-4805.2/'>38.2-4805.2</a>, is this Commonwealth.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0498'>498</a>.</p>

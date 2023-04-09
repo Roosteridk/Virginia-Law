@@ -1,0 +1,3 @@
+# § 20-88.84 Applicability.
+
+<p>This article applies only to a support proceeding under the Convention. In such a proceeding, if a provision of this article is inconsistent with Articles 1 through 9 (§ <a href='http://law.lis.virginia.gov/vacode/20-88.32/'>20-88.32</a> et seq.), this article controls.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0727'>727</a>.</p>

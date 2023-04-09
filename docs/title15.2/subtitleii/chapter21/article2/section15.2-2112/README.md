@@ -1,0 +1,3 @@
+# § 15.2-2112 Agreements by political subdivisions for sewage or water service.
+
+<p>Any two or more localities, authorities, sanitary districts or other public entities may enter into agreements or contracts that create one or more exclusive service areas for the provision of sewage or water service, that fix the rates or charges for any sewage or water service provided separately or jointly by such entities, and that restrict or eliminate competition between or among such entities and any other public entity for the provision of sewage or water service.</p><p>1985, c. 6, § 15.1-306.1; 1997, c. 587.</p>

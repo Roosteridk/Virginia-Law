@@ -1,0 +1,3 @@
+# § 10.1-603.40 Liberal construction of article.
+
+<p>The provisions of this article shall be liberally construed to the end that its beneficial purposes may be effectuated. Insofar as the provisions of this article are inconsistent with the provisions of any other law, general, special, or local, the provisions of this article shall be controlling.</p><p>2022, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0739'>739</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0782'>782</a>.</p>

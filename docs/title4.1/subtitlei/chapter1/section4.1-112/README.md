@@ -1,0 +1,3 @@
+# § 4.1-112 Regulations relating to transportation of beer and wine coolers.
+
+<p>The Board may promulgate regulations relating to the transportation of beer and wine coolers through the Commonwealth, including a prohibition against the direct shipment of beer or wine coolers from points outside the Commonwealth to installations of the United States armed forces located within the Commonwealth for resale on such installation.</p><p>1988, c. 261, § 4-144; 1993, c. 866.</p>

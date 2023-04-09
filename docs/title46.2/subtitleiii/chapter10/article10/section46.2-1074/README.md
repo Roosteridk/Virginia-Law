@@ -1,0 +1,3 @@
+# § 46.2-1074 Removing or altering serial or identification numbers, decals and devices without consent of Department.
+
+<p>Any person who, individually or in association with one or more others, knowingly removes, changes, alters, or conceals any motor number, serial, or other identification number, decal or device affixed to a motor vehicle, trailer, semitrailer or motor vehicle part as required by federal law without the consent of the Department, shall be guilty of a Class 6 felony.</p><p>Code 1950, § 46-9; 1958, cc. 391, 541, § 46.1-82; 1978, cc. 294, 605; 1979, c. 428; 1989, c. 727; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0591'>591</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0917'>917</a>.</p>

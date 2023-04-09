@@ -1,0 +1,3 @@
+# § 8.2A-515 Acceptance of goods.
+
+<p>(1) Acceptance of goods occurs after the lessee has had a reasonable opportunity to inspect the goods and</p><p>(a) The lessee signifies or acts with respect to the goods in a manner that signifies to the lessor or the supplier that the goods are conforming or that the lessee will take or retain them in spite of their nonconformity; or</p><p>(b) The lessee fails to make an effective rejection of the goods under subsection (2) of § <a href='http://law.lis.virginia.gov/vacode/8.2A-509/'>8.2A-509</a>.</p><p>(2) Acceptance of a part of any commercial unit is acceptance of that entire unit.</p><p>1991, c. 536.</p>

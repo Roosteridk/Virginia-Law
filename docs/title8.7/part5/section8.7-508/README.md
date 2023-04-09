@@ -1,0 +1,3 @@
+# § 8.7-508 Warranties of collecting bank as to documents.
+
+<p>A collecting bank or other intermediary known to be entrusted with documents on behalf of another or with collection of a draft or other claim against delivery of documents warrants by such delivery of the documents only its own good faith and authority. This rule applies even though the intermediary has purchased or made advances against the claim or draft to be collected.</p><p>1964, c. 219.</p>

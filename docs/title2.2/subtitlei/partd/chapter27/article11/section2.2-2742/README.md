@@ -1,0 +1,3 @@
+# § 2.2-2742 Exemption from taxation.
+
+<p>The Corporation shall be performing an essential governmental function in the exercise of the powers conferred upon it by this article. Accordingly, the Corporation shall not be required to pay any taxes or assessments upon any project or any property or upon any operations of the Corporation or the income therefrom. Agents, lessees, sublessees, or users of tangible personal property owned by or leased to the Corporation also shall not be required to pay any sales or use tax upon such property or the revenue derived therefrom.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0749'>749</a>.</p>

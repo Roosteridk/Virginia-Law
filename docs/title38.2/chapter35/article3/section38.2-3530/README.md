@@ -1,0 +1,3 @@
+# § 38.2-3530 Evidence of individual insurability.
+
+<p>Each group accident and sickness insurance policy shall contain a provision setting forth any conditions under which the insurer reserves the right to require a person eligible for insurance to furnish evidence of individual insurability satisfactory to the insurer as a condition to part or all of his coverage.</p><p>1986, c. 562.</p>

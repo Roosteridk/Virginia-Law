@@ -1,0 +1,3 @@
+# § 27-49 Special laws not affected.
+
+<p>This article shall not be construed to repeal any special act now in force in any county or city for the relief of volunteer fire fighters or to limit the enactment of further special and local laws for such purpose.</p><p>1928, p. 1003; Michie Code 1942, § 3144i; 1977, c. 326.</p>

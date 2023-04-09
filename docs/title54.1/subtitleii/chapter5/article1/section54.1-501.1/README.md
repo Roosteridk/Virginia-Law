@@ -1,0 +1,3 @@
+# § 54.1-501.1 Applicability.
+
+<p>The provisions of this chapter shall not apply to any employer, or any employees of such employer, regulated by the federal Occupational Safety and Health Act, and under the enforcement authority of the Occupational Safety and Health Administration.</p><p>1992, c. 52.</p>

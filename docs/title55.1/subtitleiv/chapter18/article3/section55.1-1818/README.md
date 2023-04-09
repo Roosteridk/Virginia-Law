@@ -1,0 +1,3 @@
+# § 55.1-1818 Common areas; notice of pesticide application.
+
+<p>The association shall post notice of all pesticide applications in or upon the common areas. Such notice shall consist of conspicuous signs placed in or upon the common areas where the pesticide will be applied at least 48 hours prior to the application.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0264'>264</a>, § 55-510.3; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

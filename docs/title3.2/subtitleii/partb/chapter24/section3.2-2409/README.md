@@ -1,0 +1,3 @@
+# § 3.2-2409 Records to be kept by warehouse and handler.
+
+<p>Each warehouse or handler shall keep a complete record of the excise tax collected by him and shall preserve such record for a period of not less than three years from the time of collection. Such record shall be open to the inspection of the Tobacco Board and its duly authorized agents.</p><p>Code 1950, § 3-251; 1966, c. 702, § 3.1-330; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0057'>57</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

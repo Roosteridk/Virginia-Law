@@ -1,0 +1,3 @@
+# § 23.1-2200 Corporate name; name of the University.
+
+<p>A. The board of visitors of the University of Virginia (the board) is a corporation under the name and style of "the Rector and Visitors of the University of Virginia" and has, in addition to its other powers, all the corporate powers given to corporations by the provisions of Title 13.1 except those powers that are confined to corporations created pursuant to Title 13.1. The board shall at all times be under the control of the General Assembly.</p><p>B. The institution shall be known as the University of Virginia (the University).</p><p>Code 1919, § 806, § 23-69; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

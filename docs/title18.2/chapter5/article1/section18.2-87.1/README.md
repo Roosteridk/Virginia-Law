@@ -1,0 +1,3 @@
+# § 18.2-87.1 Setting off chemical bombs capable of producing smoke in certain public buildings.
+
+<p>It shall be unlawful for any person to willfully and intentionally set off or cause to be set off any chemical bomb capable of producing smoke in any building used for public assembly or regularly used by the public including, but not limited to, schools, theaters, stores, office buildings, shopping malls, coliseums and arenas. Any person convicted of a violation of this section shall be guilty of a Class 2 misdemeanor.</p><p>1976, c. 153.</p>

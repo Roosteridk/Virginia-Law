@@ -1,0 +1,3 @@
+# § 38.2-3218 Same; in policies subsequently issued.
+
+<p>For policies issued on or after the operative date stated in § <a href='http://law.lis.virginia.gov/vacode/38.2-3214/'>38.2-3214</a>, the loan value referred to in former § 38.1-397 or § <a href='http://law.lis.virginia.gov/vacode/38.2-3308/'>38.2-3308</a>, whichever applies, shall be the cash surrender value at the end of the current policy year required by § <a href='http://law.lis.virginia.gov/vacode/38.2-3202/'>38.2-3202</a>. The insurer shall have the right to defer for up to six months after application for the loan is made a loan on the policy, except when made to pay premiums to the insurer.</p><p>Code 1950, § 38-385; 1952, c. 317, § 38.1-470; 1986, c. 562.</p>

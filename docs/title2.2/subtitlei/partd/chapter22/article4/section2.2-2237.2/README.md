@@ -1,0 +1,3 @@
+# § 2.2-2237.2 Office of the Attorney General to provide instruction to Board.
+
+<p>The Attorney General or his designee assigned as counsel to the Board shall provide instruction to the Board on its responsibilities and obligations as a supervisory board within 30 days after the initial appointment of members of the Board. Thereafter, such counsel shall provide such instruction biennially.</p><p>2017, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0804'>804</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0824'>824</a>.</p>

@@ -1,0 +1,3 @@
+# § 64.2-458 Bona fide purchaser of real estate without notice of devise protected; intestacy.
+
+<p>The title of a bona fide purchaser without notice from the devisee, or from the personal representative with power to sell, encumber, lease, or exchange, under the will of a person who has died heretofore, or may die hereafter, having title to any real estate of inheritance in the Commonwealth, shall not be affected by the later impeachment of the testator's will that results in intestacy, unless within one year after the testator's death a complaint is filed before the court having jurisdiction for that purpose.</p><p>1991, c. 197, § 64.1-96.1; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

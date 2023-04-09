@@ -1,0 +1,3 @@
+# § 3.2-3809 Seizure and disposition of nursery stock or plant products for sale or distribution.
+
+<p>Any nursery stock or plant products for sale or distribution shall be subject to seizure on complaint of the Commissioner to the appropriate court. If the court finds the nursery stock or plant products for sale or distribution to be in violation of this chapter and orders condemnation, such nursery stock or plant products shall be seized, destroyed, treated, or returned to the point of origin at the owner's expense.</p><p>Code 1950, § 3-178.12; 1964, c. 476; 1966, c. 702, § 3.1-146; 1980, c. 291, § 3.1-188.40; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

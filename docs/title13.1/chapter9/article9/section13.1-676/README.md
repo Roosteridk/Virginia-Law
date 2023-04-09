@@ -1,0 +1,3 @@
+# § 13.1-676 Election of directors by certain classes or series of shares.
+
+<p>If the articles of incorporation authorize dividing the shares into classes or series, the articles of incorporation may also authorize the election of all or a specified number of directors by the holders of one or more authorized classes or series of shares. A class or series, or multiple classes or series, of shares entitled to elect one or more directors is a separate voting group for purposes of the election of directors.</p><p>Code 1950, § 13.1-37; 1956, c. 428; 1985, c. 522; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0734'>734</a>.</p>

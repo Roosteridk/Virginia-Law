@@ -1,0 +1,3 @@
+# § 21-411 Amount, interest and maturity of additional bonds.
+
+<p>The additional bonds issued shall not exceed twenty-five per centum of the total amount originally issued, and shall bear not more than six per centum interest per annum, and may be made payable in ten annual installments, or lesser number of annual installments as nearly equal as may be, as recommended by the board of viewers having jurisdiction over the same.</p><p>Code 1919, § 1777; 1926, p. 627; 1954, c. 642.</p>

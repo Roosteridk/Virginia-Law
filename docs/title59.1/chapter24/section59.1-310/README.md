@@ -1,0 +1,3 @@
+# § 59.1-310 Applicability.
+
+<p>Sections <a href='http://law.lis.virginia.gov/vacode/59.1-297/'>59.1-297</a>, <a href='http://law.lis.virginia.gov/vacode/59.1-298/'>59.1-298</a>, <a href='http://law.lis.virginia.gov/vacode/59.1-299/'>59.1-299</a>, <a href='http://law.lis.virginia.gov/vacode/59.1-304/'>59.1-304</a>, and <a href='http://law.lis.virginia.gov/vacode/59.1-305/'>59.1-305</a> shall not apply to health club contracts entered into before September 15, 2004.</p><p>1984, c. 738; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0459'>459</a>.</p>

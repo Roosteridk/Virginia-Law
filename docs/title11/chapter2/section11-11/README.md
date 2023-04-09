@@ -1,0 +1,3 @@
+# § 11-11 Crediting contract; surety.
+
+<p>When such compounding or compromise is made, the contract or obligation shall be credited with a full share of the party released, except where the compounding or compromise is with a surety or cosurety, and in that case, as between the creditor and principal, the credit shall be for the sum actually paid by the compounding debtor.</p><p>Code 1919, § 5764.</p>

@@ -1,0 +1,3 @@
+# § 54.1-4105 Record of disposition.
+
+<p>Each dealer shall maintain for at least twenty-four months an accurate and legible record of the name and address of the person, firm, or corporation to which he sells any precious metal or gem in its original form after the waiting period required by § <a href='http://law.lis.virginia.gov/vacode/54.1-4104/'>54.1-4104</a>. This record shall also show the name and address of the seller from whom the dealer purchased the item.</p><p>1981, c. 581, § 54-859.20; 1988, c. 765.</p>

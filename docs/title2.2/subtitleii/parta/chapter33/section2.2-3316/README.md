@@ -1,0 +1,3 @@
+# § 2.2-3316 Landscape Architecture Week in Virginia.
+
+<p>The second full week of April of each year shall be designated as Landscape Architecture Week in Virginia in recognition of the value and importance of the profession of landscape architecture, which encourages environmental stewardship, promotes energy conservation, enhances the preservation of the Commonwealth's historical heritage, and ensures that the place known as Virginia is preserved through wise design, management, and maintenance of its landscape.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0164'>164</a>, § 2.1-27.11; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

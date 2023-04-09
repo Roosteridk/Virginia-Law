@@ -1,0 +1,3 @@
+# § 40.1-51.19 Variances.
+
+<p>Upon application pursuant to the provisions of subdivision (9) of § <a href='http://law.lis.virginia.gov/vacode/40.1-6/'>40.1-6</a>, the Commissioner may allow variances from a specific regulation provided the applicant proves by clear and convincing evidence his boiler or pressure vessel meets substantially equivalent operating criteria and standards.</p><p>1972, c. 237; 1990, c. 226.</p>

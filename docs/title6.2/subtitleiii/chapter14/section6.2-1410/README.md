@@ -1,0 +1,3 @@
+# § 6.2-1410 Amount of loan.
+
+<p>No loan made by an association shall be made for a greater amount in the aggregate to any person than 20 percent of the paid-in capital stock and capital surplus of the association.</p><p>Code 1950, §§ 6-250, 6-253, 6-254; 1952, c. 70; 1956, c. 433; 1966, c. 584, § 6.1-234; 1968, c. 754; 1975, c. 448; 1981, c. 56; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

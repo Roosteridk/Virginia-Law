@@ -1,0 +1,3 @@
+# § 45.2-2007  Penalties; injunctions.
+
+<p>A. Any person who violates any provision of this chapter is guilty of a misdemeanor, punishable by a civil penalty of not less than $10 or more than $250 for each violation.</p><p>B. In addition, upon violation of any provision of this chapter or regulation of the Department adopted pursuant to this chapter, the Department may, either before or after the institution of proceedings pursuant to subsection A, institute a civil action in the circuit court where the well is located for injunctive relief to restrain the violation and for any other or further relief that the court deems proper.</p><p>1981, c. 506, § 45.1-179.10; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

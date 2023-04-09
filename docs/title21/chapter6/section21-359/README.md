@@ -1,0 +1,3 @@
+# § 21-359 Highway affected.
+
+<p>Where any public ditch, drain or watercourse established under the provisions of this chapter crosses a public highway, the Department of Transportation shall provide bridges or culverts of adequate capacity to permit the free flow of water. The landowners in the drainage project shall bear the excavation cost for such structures.</p><p>Any government installation whether federal, state, county, city or town with runoff or acres draining into such a watershed area will be considered a landowner and shall be assessed on an acreage basis for drainage at the same rate as any other landowner.</p><p>Code 1919, § 1764; 1924, p. 107; 1926, p. 617; 1954, c. 642.</p>

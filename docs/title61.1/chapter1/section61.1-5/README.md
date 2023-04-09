@@ -1,0 +1,3 @@
+# § 61.1-5 Delivery of goods without obtaining negotiable receipt.
+
+<p>A warehouseman, or any officer, agent or servant of a warehouseman, who delivers goods out of the possession of such warehouseman, knowing that a negotiable receipt the negotiation of which would transfer the right to the possession of such goods is outstanding and uncanceled, without obtaining the possession of such receipt at or before the time of such delivery, shall, except as otherwise provided by law, be guilty of a misdemeanor, and upon conviction shall be punished as provided in § <a href='http://law.lis.virginia.gov/vacode/18.2-12/'>18.2-12</a>.</p><p>Code 1950, § 61-57; 1968, c. 69.</p>

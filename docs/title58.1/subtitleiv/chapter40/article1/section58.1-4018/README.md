@@ -1,0 +1,3 @@
+# § 58.1-4018 Prohibited actions; penalty.
+
+<p>Any person who wrongfully and fraudulently uses, disposes of, conceals or embezzles any public money or funds associated with the operation of the lottery shall be guilty of a Class 3 felony. Any person who wrongfully and fraudulently tampers with any equipment or machinery used in the operation of the lottery shall be guilty of a Class 3 felony. Any person who makes inaccurate entries regarding a financial accounting of the lottery in order to conceal the truth, defraud the Commonwealth and obtain money to which he is not entitled shall be guilty of a Class 3 felony.</p><p>1987, c. 531; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0598'>598</a>.</p>

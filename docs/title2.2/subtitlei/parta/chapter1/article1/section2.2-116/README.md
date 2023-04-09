@@ -1,0 +1,3 @@
+# § 2.2-116 Service on board of national tobacco trust entity.
+
+<p>The Governor may serve in his official capacity on the board of directors of any entity established to ensure the implementation in the Commonwealth of a national tobacco trust established to provide payments to tobacco growers and tobacco quota owners to ameliorate adverse economic consequences resulting from a national settlement of states' claims against tobacco manufacturers.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1048'>1048</a>, § 2.1-41.3; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,0 +1,3 @@
+# § 18.2-409 Resisting or obstructing execution of legal process.
+
+<p>Every person acting jointly or in combination with any other person to resist or obstruct the execution of any legal process shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 18.1-254.6; 1968, c. 460; 1975, cc. 14, 15.</p>

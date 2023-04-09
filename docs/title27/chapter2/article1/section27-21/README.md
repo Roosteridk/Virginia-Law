@@ -1,0 +1,3 @@
+# § 27-21 Owner may recover amount of actual damage.
+
+<p>The owner of property destroyed pursuant to § <a href='http://law.lis.virginia.gov/vacode/27-20/'>27-20</a> shall be entitled to recover from the county, city, or town the amount of the actual damage that he may have sustained by reason of the same having been pulled down or destroyed under such direction.</p><p>Code 1919, § 3134; 1970, c. 187; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

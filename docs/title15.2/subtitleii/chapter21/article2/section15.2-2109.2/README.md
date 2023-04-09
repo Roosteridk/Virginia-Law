@@ -1,0 +1,3 @@
+# § 15.2-2109.2 Mutual aid agreements for power and natural gas.
+
+<p>Localities may enter into mutual aid agreements with investor-owned public utilities, electric cooperatives and interstate natural gas companies in order to prepare for, prevent, and restore power and natural gas outages and failures. Such authority shall include, without limitation, the power to enter into agreements relating to (i) contingency plans, (ii) emergency communications, (iii) sharing of resources and personnel, and (iv) system upgrades, maintenance, and repair.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0693'>693</a>.</p>

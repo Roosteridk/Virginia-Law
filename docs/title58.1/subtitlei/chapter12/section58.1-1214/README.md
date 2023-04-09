@@ -1,0 +1,3 @@
+# § 58.1-1214 Auditing of returns.
+
+<p>The Department of Taxation may audit returns as the Commissioner deems necessary for the proper enforcement of the tax levied by this chapter. The Department shall correct all errors discovered by such audit and notify the bank concerned in each case. In case of an adjustment, it shall also notify every political subdivision imposing a tax against the bank for which the bank claimed a credit against the state tax under § <a href='http://law.lis.virginia.gov/vacode/58.1-1213/'>58.1-1213</a>.</p><p>Code 1950, § 58-485.016; 1980, c. 578; 1984, c. 675.</p>

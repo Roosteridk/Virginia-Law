@@ -1,0 +1,3 @@
+# § 38.2-3110 Incontestability not applicable to excluded or restricted coverage.
+
+<p>Any life insurance policy provision stating that the policy shall be incontestable after a specified period shall preclude only a contest of the validity of the policy, and shall not preclude the assertion at any time of defenses based upon provisions in the policy that exclude or restrict coverages, whether or not those restrictions or exclusions are excepted in the incontestability provision.</p><p>1952, c. 317, § 38.1-441; 1986, c. 562.</p>

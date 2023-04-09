@@ -1,0 +1,3 @@
+# § 6.2-1112 Applicability of Virginia Uniform Commercial Code to commercial paper and depository activities of savings institutions.
+
+<p>The definitions and provisions contained in Title 8.3A and Title 8.4 shall apply to the commercial paper and deposit account activities of savings institutions doing business in the Commonwealth, to the extent that such definitions and provisions are not inconsistent with the provisions of this chapter.</p><p>1985, c. 425, § 6.1-194.7; 1992, c. 693; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

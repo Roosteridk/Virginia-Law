@@ -1,0 +1,3 @@
+# § 58.1-110 Effect of Tax Commissioner's affidavit as evidence.
+
+<p>In any judicial proceeding, civil or criminal, involving any tax administered by the Department, a duly executed affidavit by the Tax Commissioner may be accepted by the court as prima facie evidence as to whether or not a tax return has been filed or the tax has been paid.</p><p>Code 1950, § 58-48.5; 1972, c. 350; 1984, c. 675.</p>

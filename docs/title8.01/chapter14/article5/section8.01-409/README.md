@@ -1,0 +1,3 @@
+# § 8.01-409 When court may have process for witness executed by its own officer in another county or city.
+
+<p>Whenever on the calling or during the trial of a civil case in any court it appears to the court that it is necessary to have a witness from a county or city other than that of trial, the summons, rule, or attachment issued for such witness from the trial court may, when the court so orders, be executed by its officers in any county or city of the Commonwealth, for which services the officer shall be allowed a reasonable compensation by the court.</p><p>Code 1950, § 8-299; 1977, c. 617.</p>

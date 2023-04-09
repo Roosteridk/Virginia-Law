@@ -1,0 +1,3 @@
+# § 8.01-213 Where same to be sold.
+
+<p>The sheriff to whom such writ of venditioni exponas is directed, shall sell the goods and chattels in the county where received, if they can be sold therein, and if not he shall cause them to be removed to the courthouse of his own county and there sold. The removal shall be at the costs of the party against whom the execution issued, and the sale under the execution shall be to raise the cost of removal, in addition to the amount which it would otherwise have been necessary to raise.</p><p>Code 1950, § 8-776; 1977, c. 617.</p>

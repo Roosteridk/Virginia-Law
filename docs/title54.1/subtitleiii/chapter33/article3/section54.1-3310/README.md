@@ -1,0 +1,3 @@
+# § 54.1-3310 Unlawful to practice without license.
+
+<p>Except as prescribed in this chapter or by Board regulations it shall be unlawful for any person to practice pharmacy, or to engage in, carry on, or be employed in the dispensing, or compounding of drugs within this Commonwealth unless licensed by the Board as a pharmacist. The possession by any person in any place of a miscellaneous stock of drugs shall be prima facie evidence that such person is practicing pharmacy.</p><p>Code 1950, § 54-475; 1970, c. 650; 1976, c. 614, § 54-524.48; 1988, c. 765.</p>

@@ -1,0 +1,3 @@
+# § 6.2-2017 Advertising.
+
+<p>No person licensed or required to be licensed under this chapter shall use or cause to be published any advertisement that (i) contains any false, misleading, or deceptive statement or representation; or (ii) identifies the person by any name other than the name set forth on the license issued by the Commission.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0790'>790</a>, § 6.1-363.19; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

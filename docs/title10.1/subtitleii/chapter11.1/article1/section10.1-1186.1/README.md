@@ -1,0 +1,3 @@
+# § 10.1-1186.1 Department to publish toxics inventory.
+
+<p>The Department of Environmental Quality shall publish in March of each year the information reported by industries pursuant to 42 U.S.C. § 11023 in its document known as the "Virginia Toxic Release Inventory." The report shall be (i) organized by chemical, facility and facility location, and standard industrial classification code, and (ii) distributed to newspapers of general circulation and television and radio stations. The report shall include the information collected for the most recent calendar year for which data is available prior to the March publication date.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0155'>155</a>.</p>

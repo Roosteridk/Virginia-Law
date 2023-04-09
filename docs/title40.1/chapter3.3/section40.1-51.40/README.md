@@ -1,0 +1,3 @@
+# § 40.1-51.40 Duty of attorney for the Commonwealth.
+
+<p>It shall be the duty of every attorney for the Commonwealth to whom the Commissioner has reported any violation of this chapter or any regulation or order of the Board, to cause proceedings to be prosecuted without delay for the fines and penalties in such cases.</p><p>1992, c. 541.</p>

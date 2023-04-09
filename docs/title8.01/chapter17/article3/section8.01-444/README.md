@@ -1,0 +1,3 @@
+# § 8.01-444 Where new parties added; if some not liable, how judgment entered.
+
+<p>If it shall appear at the trial that all the original defendants are liable, but that one or more of the other persons added under the provisions of § <a href='http://law.lis.virginia.gov/vacode/8.01-5/'>8.01-5</a> are not liable, the plaintiff shall be entitled to judgment, or to verdict and judgment, as the case may be, against the defendants who appear liable, and such as are not liable shall have judgment and recover costs as against the plaintiff, who shall be allowed the same as costs against the defendants who cause them to be made parties.</p><p>Code 1950, § 8-369; 1977, c. 617.</p>

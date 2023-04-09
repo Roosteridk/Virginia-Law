@@ -1,0 +1,3 @@
+# § 57-39.25 Violation a misdemeanor.
+
+<p>It shall be unlawful for any person to violate the provisions of § <a href='http://law.lis.virginia.gov/vacode/57-39.22/'>57-39.22</a> of this article. Any such violation shall be deemed a Class 3 misdemeanor, and any person convicted of such violation shall be punished in accordance with the provisions of § <a href='http://law.lis.virginia.gov/vacode/18.2-11/'>18.2-11</a>.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0957'>957</a>.</p>

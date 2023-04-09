@@ -1,0 +1,3 @@
+# § 21-375 When assessment due and payable; when delinquent.
+
+<p>The assessments shall be due and payable on the first Monday in September in each year, and if the same shall not be paid in full by the thirty-first day of December following, they shall be delinquent and shall be entered as such by the treasurer of the county in which the lands whereon the assessments are delinquent are located, on his copy of the assessment rolls, which entry shall be notice of the lien of any such delinquent assessment to the same extent as the entry of lands in the delinquent tax books is notice of the lien thereon.</p><p>Code 1919, § 1771; 1920, p. 611; 1924, p. 712; 1926, p. 620; 1936, p. 1035.</p>

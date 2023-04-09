@@ -1,0 +1,3 @@
+# § 10.1-710 Guidelines for allocation of grant funds.
+
+<p>The Board shall consider the following when selecting localities for program participation and in determining grant allocations:</p><p>1. Present and future beach ownership;</p><p>2. Erosion caused by public navigational works;</p><p>3. Intensity of use;</p><p>4. Availability of public beaches in the vicinity;</p><p>5. Evidence of a locality's ability and willingness to develop a long-term capacity to combat erosion;</p><p>6. Rate of erosion;</p><p>7. Actions of a locality which lead to, or may result in, the erosion of beaches; and</p><p>8. Such other matters as the Board shall deem sufficient for consideration.</p><p>1980, c. 428, § 10-221; 1984, c. 235; 1988, c. 891.</p>

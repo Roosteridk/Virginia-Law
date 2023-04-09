@@ -1,0 +1,3 @@
+# § 58.1-411 Average value of property.
+
+<p>The average value of property shall be determined by averaging the value at the beginning and ending of the taxable year, but the Department may require the averaging of monthly values during the taxable year if reasonably required to reflect properly the average value of the corporation's property.</p><p>Code 1950, § 58-151.044; 1971, Ex. Sess., c. 171; 1984, c. 675.</p>

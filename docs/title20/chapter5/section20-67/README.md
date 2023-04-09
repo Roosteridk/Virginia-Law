@@ -1,0 +1,3 @@
+# § 20-67 Jurisdiction.
+
+<p>Proceedings under this chapter shall be had in the juvenile and domestic relations district courts, which shall have exclusive original jurisdiction in all cases arising under this chapter, except that any grand jury of any circuit court may indict for desertion and nonsupport in any case wherein the defendant is a fugitive from the Commonwealth, and any defendant so indicted or presented and apprehended may be tried by the court in which the indictment or presentment is found or, in the discretion of the court, referred to the juvenile and domestic relations district court.</p><p>1944, p. 212; Michie Suppl. 1946, § 1937c; 1974, c. 464; 1975, c. 644.</p>

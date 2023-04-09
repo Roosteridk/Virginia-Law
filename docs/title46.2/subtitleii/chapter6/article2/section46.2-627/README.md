@@ -1,0 +1,3 @@
+# § 46.2-627 Fee for certificate of title; use in special fund.
+
+<p>The fee to be paid to the Department for the issuance of each original certificate of title shall be ten dollars. The fee to record a supplemental lien and issue a new title shall be six dollars. All fees collected under the provisions of this section shall be paid into the state treasury and set aside as a special fund to be used to meet the expenses of the Department.</p><p>Code 1950, § 46-78; 1958, c. 541, § 46.1-78; 1962, c. 368; 1964, c. 218; 1974, c. 454; 1982, c. 671; 1986, c. 553; 1987, c. 696; 1989, c. 727.</p>

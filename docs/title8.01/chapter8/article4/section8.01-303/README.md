@@ -1,0 +1,3 @@
+# § 8.01-303 On whom process served when corporation operated by trustee or receiver.
+
+<p>Subject to § <a href='http://law.lis.virginia.gov/vacode/8.01-286.1/'>8.01-286.1</a>, when any corporation is operated by a trustee or by a receiver appointed by any court, in any action against such corporation, process may be served on its trustee or receiver; and if there is more than one such trustee or receiver, then service may be on any one of them. In the event that no service of process may be had on any such trustee or receiver, then process may be served by any other mode of service upon corporations authorized by this chapter.</p><p>Code 1950, § 8-64; 1977, c. 617; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0866'>866</a>.</p>

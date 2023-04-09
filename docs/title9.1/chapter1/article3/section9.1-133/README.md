@@ -1,0 +1,3 @@
+# § 9.1-133 Certain information not subject to review or correction.
+
+<p>A. Background checks for security clearances and investigative information not connected with a criminal prosecution or litigation including investigations of rule infractions in correctional institutions shall not be subject to review or correction by data subjects.</p><p>B. Correctional information about an offender including counselor reports, diagnostic summaries and other sensitive information not explicitly classified as criminal history record information shall not be subject to review or correction by data subjects.</p><p>1981, c. 632, § 9-193; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

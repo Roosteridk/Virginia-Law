@@ -1,0 +1,3 @@
+# § 2.2-2496 Office of New Americans Advisory Board.
+
+<p>The Office of New Americans Advisory Board (the Board) is established as an advisory board, within the meaning of § <a href='/vacode/2.2-2100/'>2.2-2100</a>, in the executive branch of state government. The purpose of the Board is to advise the Governor, cabinet members, and the General Assembly on strategies to improve state policies and programs to support the economic, linguistic, and civic integration of new Americans throughout the Commonwealth.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1078'>1078</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1079'>1079</a>.</p>

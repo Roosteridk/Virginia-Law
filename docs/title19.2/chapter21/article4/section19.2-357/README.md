@@ -1,0 +1,3 @@
+# § 19.2-357 Requiring that defendant be of peace and good behavior until fine and costs are paid.
+
+<p>If a defendant is permitted to pay a fine or fine and costs on an installment basis, or under such other conditions as the court shall fix under the provisions of § <a href='http://law.lis.virginia.gov/vacode/19.2-354/'>19.2-354</a>, the court may require as a condition that the defendant be of peace and good behavior until the fine and costs are paid.</p><p>Code 1950, § 19.1-347.4; 1971, Ex. Sess., c. 250; 1975, c. 495.</p>

@@ -1,0 +1,3 @@
+# § 10.1-311 Revenue refunding bonds.
+
+<p>The Director is authorized to provide for the issuance of revenue refunding bonds of the Commonwealth, subject to the applicable provisions of this chapter, for the purpose of refunding any revenue bonds issued under the provisions of this chapter and then outstanding, including the redemption premium on the bonds after first obtaining the consent of the Governor.</p><p>Code 1950, § 10-110; 1986, c. 498; 1988, c. 891.</p>

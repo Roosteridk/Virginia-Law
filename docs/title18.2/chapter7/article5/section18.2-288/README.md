@@ -1,0 +1,3 @@
+# § 18.2-288 Definitions.
+
+<p>When used in this article:</p><p>(1) "Machine gun" applies to any weapon which shoots or is designed to shoot automatically more than one shot, without manual reloading, by a single function of the trigger.</p><p>(2) "Crime of violence" applies to and includes any of the following crimes or an attempt to commit any of the same, namely, murder, manslaughter, kidnapping, rape, mayhem, assault with intent to maim, disable, disfigure or kill, robbery, burglary, housebreaking, breaking and entering and larceny.</p><p>(3) "Person" applies to and includes firm, partnership, association or corporation.</p><p>Code 1950, § 18.1-258; 1960, c. 358; 1975, cc. 14, 15.</p>

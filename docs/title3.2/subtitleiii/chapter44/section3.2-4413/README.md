@@ -1,0 +1,3 @@
+# § 3.2-4413 Costs of administering chapter.
+
+<p>Normal costs of administering this law shall be borne by the Commonwealth. Costs for services, products, or articles beyond the scope of the law are reimbursable and payable to the Treasurer of Virginia by the persons affected. The Commissioner shall promptly credit reimbursements to the fund from which originally expended.</p><p>1972, c. 499, § 3.1-610.20; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

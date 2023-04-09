@@ -1,0 +1,3 @@
+# § 3.2-4019 Duty of attorney for Commonwealth.
+
+<p>It shall be the duty of each attorney for the Commonwealth to whom any violation of this article is reported to commence proceedings in the appropriate court without delay.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0577'>577</a>, § 3.1-275.6; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

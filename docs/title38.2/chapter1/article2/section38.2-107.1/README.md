@@ -1,0 +1,3 @@
+# § 38.2-107.1 Modified guaranteed annuity.
+
+<p>"Modified guaranteed annuity" means any agreement or contract for an annuity in which the benefits are guaranteed if held for specified periods and nonforfeiture values are based upon a market-value adjustment formula if held for shorter periods. The formula may or may not reflect the investment experience of any separate account which may be maintained by the insurer for the agreement or contract as provided for in § <a href='http://law.lis.virginia.gov/vacode/38.2-3113.1/'>38.2-3113.1</a>.</p><p>1992, c. 210.</p>

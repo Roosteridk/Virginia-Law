@@ -1,0 +1,3 @@
+# § 25.1-227.1 Qualifications of commissioners.
+
+<p>A. The provisions of this article shall apply in eminent domain proceedings in which the issue of just compensation is to be determined by a commission.</p><p>B. All commissioners shall be disinterested freeholders and residents of the county or city wherein the property or the greater portion of the property to be condemned is situated. No person shall serve as a commissioner for more than one full week within any three-month period, unless agreed to by the parties.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0835'>835</a>.</p>

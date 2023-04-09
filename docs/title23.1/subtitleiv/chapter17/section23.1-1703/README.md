@@ -1,0 +1,3 @@
+# § 23.1-1703 Program of instruction to educate and train teachers.
+
+<p>The University shall maintain a program of instruction to educate and train teachers for the public elementary and secondary schools of the Commonwealth without excluding other programs of instruction.</p><p>1964, c. 159, § 23-191; 2002, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0158'>158</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0257'>257</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

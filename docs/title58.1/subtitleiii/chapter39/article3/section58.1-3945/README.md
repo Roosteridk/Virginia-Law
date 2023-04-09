@@ -1,0 +1,3 @@
+# § 58.1-3945 Where land lies partly in one county and partly in another.
+
+<p>When taxes or levies are assessed on a tract of land lying partly in one county or city and partly in another county or city the treasurer of the county or city in which the taxes or levies are so assessed may distrain on the part of the land lying in the other county or city in the same manner as if such part was in his own county or city.</p><p>Code 1950, § 58-1007; 1984, c. 675.</p>

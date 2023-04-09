@@ -1,0 +1,3 @@
+# § 3.2-600 Commissioner designated to apply for and receive trust assets held by United States.
+
+<p>The Commissioner is designated as the Commonwealth official to make application to and receive from the U.S. Department of Agriculture, or any other proper federal official, pursuant and subject to the provisions of the federal Rural Rehabilitation Corporation Trust Liquidation Act (40 U.S.C. § 440 et seq.), the trust assets, either funds or property, held by the United States as trustee on behalf of the Virginia Rural Rehabilitation Corporation.</p><p>Code 1950, § 3-27.1; 1952, c. 118; 1966, c. 702, § 3.1-23; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

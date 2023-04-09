@@ -1,0 +1,3 @@
+# § 18.2-477 Prisoner escaping from jail; how punished.
+
+<p>If any person confined in jail or in custody after conviction of a criminal offense shall escape by force or violence, other than by setting fire thereto, he shall be guilty of a Class 6 felony. The term of confinement under this section shall commence from the expiration of the former sentence.</p><p>Code 1950, § 18.1-288; 1960, c. 358; 1962, c. 506; 1975, cc. 14, 15; 1985, c. 555.</p>

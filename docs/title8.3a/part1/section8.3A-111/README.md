@@ -1,0 +1,3 @@
+# § 8.3A-111 Place of payment.
+
+<p>Except as otherwise provided for items in Title 8.4, an instrument is payable at the place of payment stated in the instrument. If no place of payment is stated, an instrument is payable at the address of the drawee or maker stated in the instrument. If no address is stated, the place of payment is the place of business of the drawee or maker. If a drawee or maker has more than one place of business, the place of payment is any place of business of the drawee or maker chosen by the person entitled to enforce the instrument. If the drawee or maker has no place of business, the place of payment is the residence of the drawee or maker.</p><p>1964, c. 219, § 8.3-501; 1992, c. 693.</p>

@@ -1,0 +1,3 @@
+# § 22.1-289.017 Compliance with Uniform Statewide Building Code.
+
+<p>Buildings licensed as child day programs or family day systems shall be classified by and meet the specifications for the proper Use Group as required by the Virginia Uniform Statewide Building Code.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0860'>860</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0861'>861</a>.</p>

@@ -1,0 +1,3 @@
+# § 36-7 Loans and donations to housing authority.
+
+<p>Any city, town or county located in whole or in part within the area of operation of a housing authority shall have the power from time to time to lend or donate money to such authority to enable or assist such authority to carry out its purposes or to agree to take such action, and may issue bonds to provide funds therefor.</p><p>1938, p. 458; Michie Code 1942, § 3145(22); 1983, c. 68.</p>

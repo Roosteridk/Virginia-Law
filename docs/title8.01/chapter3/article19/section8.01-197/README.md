@@ -1,0 +1,3 @@
+# § 8.01-197 In what name; when not to abate.
+
+<p>Any such action shall be in the name of the Commonwealth of Virginia except when it is on a bond payable to, or a contract made with, the Governor or some other person. And then it may be in the name of such Governor or other person for the use of the Commonwealth, notwithstanding such Governor or other person may have died, resigned, or been removed from office before the commencement of the action. And there shall be no abatement thereof, by reason of the death, resignation, or removal from office of any such plaintiff pending the action.</p><p>Code 1950, § 8-760; 1977, c. 617.</p>

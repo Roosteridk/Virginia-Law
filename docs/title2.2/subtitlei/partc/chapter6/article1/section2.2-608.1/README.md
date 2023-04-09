@@ -1,0 +1,3 @@
+# § 2.2-608.1 State publications to be made available electronically.
+
+<p>Publications, as defined in § <a href='/vacode/42.1-93/'>42.1-93</a>, of any agency, institution, collegial body, or other governmental entity shall be available as read-only and text-searchable Portable Document Format (.pdf) files or some other widely used and accessible read-only and text-searchable electronic document format. All requests for such publications shall be made electronically unless expressly requested otherwise.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0421'>421</a>.</p>

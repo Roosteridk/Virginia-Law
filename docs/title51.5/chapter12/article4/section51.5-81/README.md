@@ -1,0 +1,3 @@
+# § 51.5-81 Contract with nominee to furnish services.
+
+<p>The Department may contract with the nominee, as agent of the Department, to furnish services, including the purchase of vending stand and other business enterprise equipment and stock, the collection of the funds required to be set aside for the purposes specified in § <a href='http://law.lis.virginia.gov/vacode/51.5-97/'>51.5-97</a> and the keeping of accounts.</p><p>Code 1950, § 63-204.5; 1968, c. 578, § 63.1-146; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

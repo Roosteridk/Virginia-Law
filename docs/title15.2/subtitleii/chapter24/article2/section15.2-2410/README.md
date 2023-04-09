@@ -1,0 +1,3 @@
+# § 15.2-2410 Appeal to court; duty of clerk of governing body, etc.
+
+<p>If a property owner's objections are overruled, he shall, within thirty days thereafter, but not afterwards, have an appeal as of right to the circuit court for the locality. When an appeal is taken, the clerk of the governing body, committee or board, or the officer having charge of the matter, shall immediately deliver to the clerk of such court the original notice relating to the assessment, with the judgment of the governing body, committee, officer or board endorsed thereon, and the clerk of the court shall docket the same.</p><p>Code 1950, § 15-675; 1962, c. 623, § 15.1-245; 1997, c. 587.</p>

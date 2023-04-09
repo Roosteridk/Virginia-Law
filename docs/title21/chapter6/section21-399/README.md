@@ -1,0 +1,3 @@
+# § 21-399 Same; records.
+
+<p>The proceeds derived from the sale of such bonds shall be for the exclusive use of the levee or drainage project specified on their face, and the bonds shall be numbered by the board of viewers and recorded in the drainage record, which record shall set out specifically the lands embraced in the project on which the tax has not been paid in full, which land is to be assessed as hereinafter provided.</p><p>Code 1919, § 1774; 1920, p. 612; 1926, p. 623; 1954, c. 642.</p>

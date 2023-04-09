@@ -1,0 +1,3 @@
+# § 44-146.26 Duties of emergency management organizations.
+
+<p>It shall be the duty of every organization for emergency management established pursuant to this chapter and of the officers thereof to execute and enforce such orders, rules and regulations as may be made by the Governor under authority of this chapter. Each organization shall have available for inspection at its office all such orders, rules and regulations.</p><p>1973, c. 260; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0309'>309</a>.</p>

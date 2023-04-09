@@ -1,0 +1,3 @@
+# § 45.2-502  Safety and health.
+
+<p>In safety and health matters, all miners are to be governed by the Act, Article 4 (§ <a href='/vacode/45.2-617/'>45.2-617</a> et seq.) of Chapter 6, and any other sections of the Code relating to the safety and health of miners and regulations adopted by the Department.</p><p>1984, c. 590, § 45.1-1.7; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.9; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

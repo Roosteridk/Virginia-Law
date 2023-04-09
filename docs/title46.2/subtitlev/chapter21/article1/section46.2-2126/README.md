@@ -1,0 +1,3 @@
+# § 46.2-2126 Certificate or permit holder not relieved of liability for negligence.
+
+<p>Nothing in this chapter shall relieve any holder of a certificate or permit by and under the authority of the Department from any liability resulting from his negligence, whether or not he has complied with the requirements of this chapter.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>; 2017, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0790'>790</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0815'>815</a>.</p>

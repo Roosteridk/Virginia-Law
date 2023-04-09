@@ -1,0 +1,3 @@
+# § 64.2-2733 Power to contract; power of appointment not presently exercisable.
+
+<p>A powerholder of a power of appointment that is not presently exercisable may contract to exercise or not to exercise the power only if the powerholder:</p><p>1. Is also the donor of the power; and</p><p>2. Has reserved the power in a revocable trust.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

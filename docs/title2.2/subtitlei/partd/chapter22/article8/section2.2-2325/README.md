@@ -1,0 +1,3 @@
+# § 2.2-2325 Exemptions from personnel and procurement procedures.
+
+<p>The provisions of the Virginia Public Procurement Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4300/'>2.2-4300</a> et seq.) and the Virginia Personnel Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-2900/'>2.2-2900</a> et seq.) shall not apply to the Authority.</p><p>1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0852'>852</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0881'>881</a>, § 2.1-548.63; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

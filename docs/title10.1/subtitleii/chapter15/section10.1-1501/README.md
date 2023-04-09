@@ -1,0 +1,3 @@
+# § 10.1-1501 Commissioners and alternates.
+
+<p>The Governor shall appoint two Commissioners and two alternates pursuant to Article IV, paragraph a. of the Compact, subject to confirmation by the General Assembly, to serve at his pleasure. The appointees shall be individuals qualified and experienced in the field of low-level radioactive waste generation, treatment, storage, transportation and disposal.</p><p>1982, c. 518, § 32.1-238.7; 1988, c. 891.</p>

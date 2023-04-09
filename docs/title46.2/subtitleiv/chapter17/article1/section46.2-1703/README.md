@@ -1,0 +1,3 @@
+# § 46.2-1703 Authority to promulgate regulations.
+
+<p>The Commissioner may promulgate regulations necessary to (i) enforce the provisions of this chapter, (ii) provide adequate training for students, (iii) protect student and public safety and (iv) carry out the other provisions of this chapter. These regulations shall include but need not be limited to curriculum requirements, contractual arrangements with students, obligations to students, facilities and equipment, qualifications and other requirements for instructors, school ownership requirements, surety bond requirements, and financial stability of schools.</p><p>1990, c. 466; 1991, c. 214; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0587'>587</a>.</p>

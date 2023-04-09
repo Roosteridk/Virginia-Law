@@ -1,0 +1,3 @@
+# § 52-45 Protective Order Registry established.
+
+<p>The Superintendent shall establish, organize and maintain within the Department of State Police a computerized Protective Order Registry as a central repository of information regarding outstanding, valid protective orders. Such information shall be maintained and disseminated by the registry as accurately and completely as possible to assist in the expedited entry and dissemination of protective order information.</p><p>2002, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0810'>810</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0818'>818</a>.</p>

@@ -1,0 +1,3 @@
+# § 58.1-3601 Property becomes taxable immediately upon sale by tax-exempt owner.
+
+<p>Any property exempt from taxation pursuant to this chapter which is subsequently sold to a person not having tax-exempt status shall immediately become subject to taxation and be assessed therefor. The tax levied for the current year shall be prorated for the remainder of the tax year.</p><p>Code 1950, § 58-16.1; 1964, c. 178; 1984, c. 675.</p>

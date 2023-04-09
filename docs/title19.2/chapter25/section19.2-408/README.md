@@ -1,0 +1,3 @@
+# § 19.2-408 Finality of decision of the Court of Appeals in pretrial appeals.
+
+<p>The decision of the Court of Appeals shall be final for purposes of a pretrial appeal pursuant to § <a href='http://law.lis.virginia.gov/vacode/19.2-398/'>19.2-398</a>, or a cross appeal of a pretrial appeal taken pursuant to § <a href='http://law.lis.virginia.gov/vacode/19.2-401/'>19.2-401</a>, and no further pretrial appeal shall lie to the Supreme Court.</p><p>1987, c. 710; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0109'>109</a>.</p>

@@ -1,0 +1,3 @@
+# § 21-265 Register.
+
+<p>The commission shall keep and preserve a complete register, or registers, open to public inspection, of all fees, rents and other charges which have been charged by the commission to the owners or lessees or tenants of any real estate for the use and services of the sewage disposal system and have become due and payable and have not been paid. Such register or registers shall be kept in such place or places as the commission shall determine.</p><p>1946, p. 355; Michie Suppl. 1946, § 1560iii7.</p>

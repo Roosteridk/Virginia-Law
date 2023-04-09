@@ -1,0 +1,3 @@
+# § 15.2-1121 Cemeteries.
+
+<p>A municipal corporation may provide and operate, within or outside the municipal corporation, cemeteries; may contract for the perpetual care of lots and burial spaces therein; and may charge compensation for lots and burial spaces and services in connection with interments and the maintenance and operation of such cemeteries.</p><p>Code 1950, § 15-77.47; 1958, c. 328; 1962, c. 623, § 15.1-883; 1997, c. 587.</p>

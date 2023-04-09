@@ -1,0 +1,3 @@
+# § 46.2-214.2 Waiver of certain fees by Department.
+
+<p>The Department may waive the fee for a duplicate driver's license that would have otherwise been imposed by the Department under this title if the person subject to the fee is on active duty with the armed forces of the United States outside the boundaries of the United States.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0502'>502</a>.</p>

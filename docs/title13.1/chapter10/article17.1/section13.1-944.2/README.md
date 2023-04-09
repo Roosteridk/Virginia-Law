@@ -1,0 +1,3 @@
+# § 13.1-944.2 Entity conversion.
+
+<p>A domestic corporation may become a domestic limited liability company pursuant to a plan of entity conversion that is adopted and approved by the corporation in accordance with the provisions of this article.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0706'>706</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0288'>288</a>.</p>

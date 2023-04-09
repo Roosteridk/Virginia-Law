@@ -1,0 +1,3 @@
+# §§ 8.01-70, 8.01-71 Repealed.
+
+<p>Repealed by Acts 1990, c. 831, effective January 1, 1991.</p>

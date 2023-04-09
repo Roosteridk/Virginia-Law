@@ -1,0 +1,3 @@
+# § 38.2-1313 Loss records.
+
+<p>Each insurer licensed to transact business in this Commonwealth shall, except for accident and sickness insurance as defined in § <a href='http://law.lis.virginia.gov/vacode/38.2-109/'>38.2-109</a>, maintain a complete and itemized record showing all losses and claims for which notice has been given. When necessary, the insurers shall maintain a record of all notices received of the occurrence of any event that may result in a loss.</p><p>1952, c. 317, § 38.1-172; 1986, c. 562.</p>

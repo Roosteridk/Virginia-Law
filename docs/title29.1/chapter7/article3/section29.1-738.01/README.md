@@ -1,0 +1,3 @@
+# § 29.1-738.01 Operating boat in an improper manner; penalty.
+
+<p>Notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/29.1-738/'>29.1-738</a>, upon the trial of any person charged with reckless boating where the degree of culpability is slight, the court in its discretion may find the accused not guilty of reckless boating but guilty of improper boating. Improper boating shall be punishable as a Class 3 misdemeanor.</p><p>1991, c. 404.</p>

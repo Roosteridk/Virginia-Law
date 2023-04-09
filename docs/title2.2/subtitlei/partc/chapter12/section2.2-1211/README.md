@@ -1,0 +1,3 @@
+# § 2.2-1211 Required diversity and cultural competency training.
+
+<p>All state employees commencing or recommencing employment with the Commonwealth on or after January 1, 2021, shall complete an online diversity and cultural competency training module provided by the Department pursuant to subdivision A 9 of § <a href='/vacode/2.2-1201/'>2.2-1201</a> within 90 days of commencing or recommencing such employment. Each state agency shall maintain records showing that each employee has completed the training required by this section and the date on which such training was completed.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0548'>548</a>.</p>

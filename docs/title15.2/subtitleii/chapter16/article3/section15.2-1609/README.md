@@ -1,0 +1,3 @@
+# § 15.2-1609 Sheriff.
+
+<p>The voters in every county and city shall elect a sheriff unless otherwise provided by general law or special act. The sheriff shall exercise all the powers conferred and perform all the duties imposed upon sheriffs by general law. He shall enforce the law or see that it is enforced in the locality from which he is elected; assist in the judicial process as provided by general law; and be charged with the custody, feeding and care of all prisoners confined in the county or city jail. He may perform such other duties, not inconsistent with his office, as may be requested of him by the governing body. The sheriff shall be elected as provided by general law for a term of four years.</p><p>1997, c. 587.</p>

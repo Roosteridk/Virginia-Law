@@ -1,0 +1,3 @@
+# § 22.1-17 Statements concerning regulations.
+
+<p>Not less than sixty days prior to the adoption of any regulation affecting school divisions, the Board of Education and the Department of Education shall prepare a statement as to the administrative impact of such regulation on school divisions and the projected costs of implementation of and compliance with such regulation and shall send a copy thereof to each division superintendent.</p><p>Code 1950, § 22-19.01; 1976, c. 602; 1980, c. 559; 1988, c. 234.</p>

@@ -1,0 +1,3 @@
+# § 45.2-522  Performance of certain tasks by uncertified persons; penalty.
+
+<p>It is unlawful for any person to perform any task requiring certification by the Board of Coal Mining Examiners unless he has been certified. It is also unlawful for an operator or his agent to permit any uncertified person to perform such task. A violation of this section constitutes a Class 1 misdemeanor. Each day of operation without a required certification constitutes a separate offense.</p><p>1972, c. 784, § 45.1-12.1; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.30; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

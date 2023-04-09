@@ -1,0 +1,3 @@
+# § 5.1-46 Receipt and handling of federal and other funds.
+
+<p>Any county, city or town in Virginia may accept, receive and receipt for federal moneys, and other moneys, either public or private, for the acquisition, construction, enlargement, improvement, maintenance and operation of airports and landing fields and other air navigation facilities, and is authorized and empowered to comply with the provisions of the laws of the United States and any rules and regulations made thereunder for the expenditure of federal moneys in connection with such airports, landing fields and air navigation facilities.</p><p>Code 1950, § 5-25; 1966, c. 576; 1979, c. 272; 1988, c. 70.</p>

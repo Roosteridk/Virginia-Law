@@ -1,0 +1,3 @@
+# § 25.1-201 Jurisdiction of condemnation proceedings.
+
+<p>Jurisdiction of proceedings to condemn property under this chapter shall be in the circuit court of the county or city wherein such property, or the greater portion thereof proposed to be condemned is situated, unless otherwise specifically provided by law.</p><p>Code 1919, § 4361; Code 1950, § 25-2; 1962, c. 426, § 25-46.4; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

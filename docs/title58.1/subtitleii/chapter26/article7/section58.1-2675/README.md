@@ -1,0 +1,3 @@
+# § 58.1-2675 Appeals to Supreme Court.
+
+<p>Any taxpayer, the Commonwealth or any county, city, or town aggrieved by any assessment or ascertainment of taxes by the Commission, after having proceeded before the Commission as provided in this article, may appeal from any final order or action of the Commission to the Supreme Court, as a matter of right, within the time and in the manner provided by law for appeals generally from the Commission to the Supreme Court.</p><p>Code 1950, § 58-679; 1971, Ex. Sess., c. 46; 1983, c. 570; 1984, c. 675.</p>

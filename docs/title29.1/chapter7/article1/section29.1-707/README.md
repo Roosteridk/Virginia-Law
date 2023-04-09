@@ -1,0 +1,3 @@
+# § 29.1-707 Records.
+
+<p>All records of the Department made or kept pursuant to this section shall be public records and shall be open for inspection subject to conditions the Board may prescribe. The Director shall furnish, without cost, the annual lists of boat registrations, as of January 1, to the commissioners of revenue of each county or city, except that the Director shall not send the lists to any commissioner who requests that he not receive them.</p><p>1960, c. 500, § 62-174.5; 1962, c. 626; 1964, c. 654; 1968, c. 659, § 62.1-170; 1970, c. 240; 1972, c. 412; 1980, c. 256; 1983, c. 126; 1986, c. 125; 1987, c. 488.</p>

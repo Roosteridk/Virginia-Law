@@ -1,0 +1,3 @@
+# § 18.2-152.11 Article not exclusive.
+
+<p>The provisions of this article shall not be construed to preclude the applicability of any other provision of the criminal law of this Commonwealth which presently applies or may in the future apply to any transaction or course of conduct which violates this article, unless such provision is clearly inconsistent with the terms of this article.</p><p>1984, c. 751.</p>

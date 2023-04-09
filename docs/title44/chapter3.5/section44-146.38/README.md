@@ -1,0 +1,3 @@
+# § 44-146.38 Political subdivisions to appoint hazardous materials coordinator.
+
+<p>Each political subdivision shall appoint a hazardous materials coordinator. In appointing the hazardous materials coordinator, political subdivisions shall consider the requisite qualifications for hazardous materials coordinators as established by the Coordinator. The hazardous materials coordinator shall coordinate the hazardous materials emergency response program within the political subdivision.</p><p>1987, c. 492; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0594'>594</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0681'>681</a>.</p>

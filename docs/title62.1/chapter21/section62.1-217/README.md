@@ -1,0 +1,3 @@
+# § 62.1-217 Grants from Commonwealth.
+
+<p>The Commonwealth may make grants of money or property to the Authority for the purpose of enabling it to carry out its corporate purposes and for the exercise of its powers, including deposits to the capital reserve funds. This section shall not be construed to limit any other power the Commonwealth may have to make grants to the Authority.</p><p>1984, c. 699.</p>

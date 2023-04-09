@@ -1,0 +1,3 @@
+# § 58.1-3308 Commissioner to enter lands appearing on abstracts and assess their value.
+
+<p>The commissioner of the revenue shall enter in the books and assess the fair market value of all lands in his county or city appearing by the abstracts to have been granted.</p><p>Code 1950, § 58-802; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 9.1-185.17 Department submissions to local and regional correctional facilities.
+
+<p>Once a year, the Department shall provide to each local and regional correctional facility a list of all licensed bail bondsmen in the Commonwealth. The list shall consist of each bondsman's individual name, the name of the bondsman's business and the address where the bondsman's office is physically located. The Department shall update the list monthly and have the list available on its website.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0460'>460</a>.</p>

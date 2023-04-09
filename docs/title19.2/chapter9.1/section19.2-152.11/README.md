@@ -1,0 +1,3 @@
+# § 19.2-152.11 Venue for protective orders.
+
+<p>Proceedings in which a protective order is sought pursuant to this chapter shall be commenced where (i) either party has his principal residence; (ii) the act of violence, force, or threat by the respondent against the petitioner occurred; or (iii) a protective order was issued if, at the time the proceeding is commenced, the order is in effect to protect the petitioner or a family or household member of the petitioner.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0637'>637</a>.</p>

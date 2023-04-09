@@ -1,0 +1,3 @@
+# § 15.2-3228 County not to be reduced to insufficient area, population or sources of revenue.
+
+<p>If, as the result of an annexation, the area remaining in a county (i) would be reduced below sixty square miles, excluding property owned by the United States of America, or (ii) would otherwise be insufficient in area, population, or sources of revenue to adequately support the county government and schools, then the annexation shall not be decreed unless the whole county is annexed.</p><p>Code 1950, § 15-152.26; 1952, c. 328; 1960, c. 519; 1962, c. 623, § 15.1-1056; 1997, c. 587.</p>

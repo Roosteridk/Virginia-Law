@@ -1,0 +1,3 @@
+# § 15.2-1519 Liability insurance for employees of local departments and boards of welfare and social services; legal representation.
+
+<p>Notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/15.2-1518/'>15.2-1518</a>, the state Department of Social Services is authorized to obtain liability insurance for officers and employees of local departments and boards of welfare or social services. The attorney for the Commonwealth, city attorney, or county attorney, as appropriate, shall provide whatever legal services are required for any such officers or employees sued as a result of their conduct in the discharge of their official duties.</p><p>1974, c. 658, § 15.1-506.2; 1997, c. 587.</p>

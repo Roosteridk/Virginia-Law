@@ -1,0 +1,3 @@
+# § 64.2-779.4 Reasonable reliance.
+
+<p>A trustee or other person that reasonably relies on the validity of a distribution of part or all of the property of a trust to another trust, or a modification of a trust, under this article, a law of the Commonwealth other than this article, or the law of another jurisdiction is not liable to any person for any action or failure to act as a result of the reliance.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0592'>592</a>.</p>

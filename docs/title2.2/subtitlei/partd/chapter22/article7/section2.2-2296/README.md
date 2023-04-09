@@ -1,0 +1,3 @@
+# § 2.2-2296 How bonds paid and secured.
+
+<p>Except as may otherwise be expressly provided by the Authority in proceedings relating to a particular issue of bonds, every issue of its bonds shall be payable solely out of any revenues of the Authority. The bonds additionally may be secured by a pledge of any grant, contribution or guarantee from the federal government or any person or a pledge by the Authority of any revenues from any source.</p><p>1984, c. 749, § 9-220; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

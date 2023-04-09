@@ -1,0 +1,3 @@
+# § 22.1-268 Duty of attorneys for the Commonwealth to prosecute cases arising under article; jurisdiction of offenses.
+
+<p>It shall be the duty of the attorneys for the Commonwealth of the several counties and cities to prosecute all cases arising under this article. Juvenile and domestic relations district courts shall have exclusive original jurisdiction for the trial of such cases.</p><p>Code 1950, § 22-275.21; 1959, Ex. Sess., c. 72; 1980, c. 559.</p>

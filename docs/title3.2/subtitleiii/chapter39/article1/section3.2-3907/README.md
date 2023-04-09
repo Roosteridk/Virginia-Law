@@ -1,0 +1,3 @@
+# § 3.2-3907 Delegation of authority; exclusive authority to regulate.
+
+<p>The Board may delegate any authority vested in it under this chapter to the Commissioner or other employees of the Department. The Board shall have the exclusive authority to regulate pesticides in accordance with this chapter. The Board's authority to regulate pesticides under this chapter shall not be delegated to any locality.</p><p>1989, c. 575, § 3.1-249.33; 1992, c. 289; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,0 +1,3 @@
+# § 58.1-3723 Penalty.
+
+<p>Any person, firm or corporation providing any such coin machines or other devices and failing to procure a county, city or town license, if levied and assessed as provided by § <a href='http://law.lis.virginia.gov/vacode/58.1-3720/'>58.1-3720</a> shall be subject to a fine as established by ordinance pursuant to § <a href='http://law.lis.virginia.gov/vacode/15.2-1429/'>15.2-1429</a> for each offense and the machine or other device shall become forfeited to the county, city or town imposing such license tax.</p><p>Code 1950, § 58-360; 1976, c. 719; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 2.2-4315 Use of brand names.
+
+<p>Unless otherwise provided in the Invitation to Bid, the name of a certain brand, make or manufacturer shall not restrict bidders to the specific brand, make or manufacturer named and shall be deemed to convey the general style, type, character, and quality of the article desired. Any article that the public body in its sole discretion determines to be the equal of that specified, considering quality, workmanship, economy of operation, and suitability for the purpose intended, shall be accepted.</p><p>1982, c. 647, § 11-49; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

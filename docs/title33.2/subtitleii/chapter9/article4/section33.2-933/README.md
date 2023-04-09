@@ -1,0 +1,3 @@
+# § 33.2-933 Approval or disapproval of construction.
+
+<p>When a highway is completed, the city or town shall notify the Commissioner of Highways, who shall promptly cause an inspection to be made by the Department. If the Department approves the highway construction, the Commissioner of Highways shall notify the city or town in writing of such fact. If the Department disapproves the highway construction, it shall notify the city or town, specifying the Department's objections and recommendations for remedying or removing them, and the city or town shall promptly carry out such recommendations.</p><p>Code 1950, § 33-88; 1970, c. 322, § 33.1-174; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,0 +1,3 @@
+# § 33.2-1823 Preservation of the Virginia Highway Corporation Act of 1988.
+
+<p>Nothing in this chapter shall be construed to repeal or change in any manner the Virginia Highway Corporation Act of 1988 (§ <a href='http://law.lis.virginia.gov/vacode/56-535/'>56-535</a> et seq.), as amended. Nothing in the Virginia Highway Corporation Act of 1988, as amended, shall apply to qualifying transportation facilities undertaken pursuant to the authority of this chapter.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0855'>855</a>, § 56-574; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0647'>647</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

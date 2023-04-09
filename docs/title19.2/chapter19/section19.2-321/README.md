@@ -1,0 +1,3 @@
+# § 19.2-321 With whom petition for writ of error filed.
+
+<p>A. The petition to the Court of Appeals shall be filed with the Clerk of the Court in the manner and within the time provided by law.</p><p>B. The petition in a case wherein a writ of error lies from the Supreme Court shall be filed with the Clerk of that Court in the manner and within the time provided by law.</p><p>Code 1950, § 19.1-285; 1960, c. 366; 1975, c. 495; 1976, c. 615; 1984, c. 703.</p>

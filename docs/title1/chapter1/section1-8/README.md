@@ -1,0 +1,3 @@
+# § 1-8 Notice, recognizance or process given, taken or issued before Code in force.
+
+<p>Although a notice, recognizance or process shall have been given, taken or issued before the day prescribed for the commencement of this Code, or of any provisions of this Code, it may, nevertheless, be given, taken or returnable to a day after such commencement, or to a court established by this Code or the clerk's office of such court, in like manner as if this Code had commenced before the same was given, taken, or issued.</p><p>Code 1919, § 6570; R. P. 1948, § 1-8.</p>

@@ -1,0 +1,3 @@
+# § 28.2-1209 Maintenance or removal of structures erected upon or over state-owned subaqueous bottoms.
+
+<p>Any person constructing or erecting any structure upon or over state-owned subaqueous bottoms, or their grantees or assignees for value, shall be responsible for the maintenance or removal of the structure upon its abandonment or its falling into a state of disrepair. However, public service corporations may abandon cables, conduit and pipes upon prior approval of the Commission.</p><p>1974, c. 274, § 62.1-3.03; 1992, c. 836.</p>

@@ -1,0 +1,3 @@
+# § 51.5-80 Contract with nominee to provide equipment and merchandise.
+
+<p>The Department may contract with any nominee to provide all necessary equipment and merchandise for the operation of the vending stand and business enterprise program in the rehabilitation of the blind.</p><p>Code 1950, § 63-204.4; 1968, c. 578, § 63.1-145; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

@@ -1,0 +1,3 @@
+# § 52-9.1 Distinctive uniform to be adopted for State police officers.
+
+<p>The Superintendent of State Police shall cause to be designed and, with the approval of the Governor, adopt a distinctive uniform with appropriate insignia for the use of the police officers appointed by him. Such uniform, when adopted, shall be worn by all such police officers when on patrol duty, and at such other times as the Superintendent may by regulation prescribe.</p><p>1950, p. 154; 1973, c. 401.</p>

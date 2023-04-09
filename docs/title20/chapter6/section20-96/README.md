@@ -1,0 +1,3 @@
+# § 20-96 Jurisdiction of suits for annulment, affirmance or divorce.
+
+<p>The circuit court shall have jurisdiction of suits for annulling or affirming marriage and for divorces, and claims for separate maintenance, and such suits shall be heard by the judge as equitable claims.</p><p>Code 1919, § 5105; 1922, p. 589; 1966, c. 449; 1975, c. 644; 1977, c. 624; 1979, c. 488; 1987, c. 171; 1989, c. 556; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0681'>681</a>.</p>

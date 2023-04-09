@@ -1,0 +1,3 @@
+# § 8.01-651 Suspension of proceedings by justice of Supreme Court or judge of Court of Appeals.
+
+<p>Whenever a court having jurisdiction refuses to suspend proceedings as provided in § <a href='http://law.lis.virginia.gov/vacode/8.01-650/'>8.01-650</a> of this chapter, a copy of the proceedings in court, with any orders entered in the proceedings, may be presented to a judge of the Court of Appeals, if an application for a writ of prohibition is pending in that court, or to a justice of the Supreme Court if the application for a writ is pending there. Such judge or justice may thereupon award a suspension of the proceedings sought to be prohibited until the final decision of the cause.</p><p>Code 1950, § 8-711.1; 1972, c. 673; 1977, c. 617; 1984, c. 703.</p>

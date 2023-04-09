@@ -1,0 +1,3 @@
+# § 15.2-960 Planting of trees destroyed during construction.
+
+<p>Any locality may establish reasonable rules, regulations, and schedules for planting trees in and along areas dedicated for public use where trees have been destroyed in the construction process. This provision shall not affect the validity of any local ordinance adopted pursuant to any other provision of law.</p><p>1986, c. 183, § 15.1-14.1; 1997, c. 587.</p>

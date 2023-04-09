@@ -1,0 +1,3 @@
+# § 2.2-4516 Liability of treasurers or public depositors.
+
+<p>When investments are made in accordance with this chapter, no treasurer or public depositor shall be liable for any loss therefrom in the absence of negligence, malfeasance, misfeasance, or nonfeasance on his part or on the part of his assistants or employees.</p><p>1979, c. 135, § 2.1-329.1; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,0 +1,3 @@
+# § 10.1-1421 Responsibility for removal of litter from receptacles.
+
+<p>The responsibility for the removal of litter from litter receptacles placed at parks, beaches, campgrounds, trailer parks, and other public places shall remain upon those state and local agencies now performing litter removal services. The removal of litter from litter receptacles placed on private property used by the public shall remain the duty of the owner or operator of such private property.</p><p>1987, c. 234, § 10-277.8; 1988, c. 891.</p>

@@ -1,0 +1,3 @@
+# § 23.1-710 Forms and audit of accounts and records.
+
+<p>The accounts and records of the board showing the receipt and disbursement of funds from whatever source derived shall be in such form as the Auditor of Public Accounts prescribes, provided that such accounts correspond as nearly as possible to the accounts and records for such matters maintained by corporate enterprises. The Auditor of Public Accounts or his legally authorized representatives shall annually audit the accounts of the board, and the board shall bear the cost of such audit services.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0661'>661</a>, § 23-38.85; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

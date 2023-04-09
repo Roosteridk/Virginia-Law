@@ -1,0 +1,3 @@
+# § 10.1-603.23 Record of application for grants or loans and action taken.
+
+<p>A record of each application for a grant or loan and the action taken thereon shall be open to public inspection at the office of the Department. The Authority shall report annually to the General Assembly and the Governor on the Fund and the administration of all grants and loans made from the Fund.</p><p>1989, cc. 462, 498; 2006, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0648'>648</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0765'>765</a>.</p>

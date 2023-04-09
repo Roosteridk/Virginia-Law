@@ -1,0 +1,3 @@
+# § 60.2-228 American vessel and American aircraft.
+
+<p>The term "American vessel" means any vessel documented or numbered under the laws of the United States, and includes any vessel which is neither documented or numbered under the laws of the United States nor documented under the laws of any foreign country, if its crew is employed solely by one or more citizens or residents of the United States or corporations organized under the laws of the United States or of any state. The term "American aircraft" means an aircraft registered under the laws of the United States.</p><p>Code 1950, § 60-21.1; 1962, c. 71; 1968, c. 738, § 60.1-25; 1986, c. 480.</p>

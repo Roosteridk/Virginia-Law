@@ -1,0 +1,3 @@
+# § 40.1-51.4:5 Immunity of employees for reporting threatening conduct.
+
+<p>A. Any employee who, in good faith with reasonable cause and without malice, truthfully reports threatening conduct by a person employed at the same workplace shall be immune from all civil liability that might otherwise be incurred or imposed as the result of making such a report.</p><p>B. As used in subsection A, "threatening conduct" means any conduct that would place a person in reasonable apprehension of death or bodily injury.</p><p>C. The immunity provided by this section shall not abrogate any other immunity that an employee may be entitled to assert.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0537'>537</a>.</p>

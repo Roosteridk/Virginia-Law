@@ -1,0 +1,3 @@
+# § 55.1-907 Penalty.
+
+<p>Any persons suffering losses due to the failure of the lender or the settlement agent to cause disbursement as required by this chapter shall be entitled to recover, in addition to other actual damages, double the amount of any interest collected in violation of § <a href='/vacode/55.1-902/'>55.1-902</a> plus reasonable attorney fees incurred in the collection of such damages and interest.</p><p>1980, c. 730, § 6.1-2.15; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>, § 55-525.15; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

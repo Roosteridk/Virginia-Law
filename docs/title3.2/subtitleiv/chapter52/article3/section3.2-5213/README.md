@@ -1,0 +1,3 @@
+# § 3.2-5213 Commissioner to enforce article; right of entry.
+
+<p>The Commissioner shall administer and enforce the regulations adopted pursuant to this article. He is empowered, in the performance of his duties, to enter upon and to have free access to any establishment or area subject to the provisions of this article or the regulations adopted hereunder.</p><p>1970, c. 48, § 3.1-562.3; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

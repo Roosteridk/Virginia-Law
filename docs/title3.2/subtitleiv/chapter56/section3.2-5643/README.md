@@ -1,0 +1,3 @@
+# § 3.2-5643 Obstructing Commissioner or sealers; penalty.
+
+<p>Any person who shall hinder or obstruct in any way the Commissioner, his assistant, or any one of the inspectors, or a sealer in the performance of his official duties is guilty of a Class 1 misdemeanor.</p><p>Code 1950, §§ 3-708.45, 59-136; 1962, c. 298; 1966, c. 702, § 3.1-963; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

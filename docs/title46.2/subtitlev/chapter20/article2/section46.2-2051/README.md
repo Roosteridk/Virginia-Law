@@ -1,0 +1,3 @@
+# § 46.2-2051 Application of article.
+
+<p>Unless otherwise stated, this article shall apply to all motor carriers except transportation network companies.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0002'>2</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0003'>3</a>.</p>

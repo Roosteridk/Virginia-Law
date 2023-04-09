@@ -1,0 +1,3 @@
+# § 56-37 Regulation of services performed under municipal or county franchise.
+
+<p>Nothing in § <a href='http://law.lis.virginia.gov/vacode/56-36/'>56-36</a> shall impair the right which has heretofore been, or may hereafter be, conferred by law upon the authorities of any city, town or county to prescribe rules, regulations or rates of charge to be observed by any public service corporation in connection with any services performed by it under a municipal or county franchise granted by such city, town or county, so far as such services may be wholly within the limits of the city, town or county granting the franchise.</p><p>Const., § 156, par. (b); Code 1919, § 3712; 1971, Ex. Sess., c. 39.</p>

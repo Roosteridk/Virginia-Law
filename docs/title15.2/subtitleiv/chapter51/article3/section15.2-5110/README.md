@@ -1,0 +1,3 @@
+# § 15.2-5110 Amendment of articles of incorporation.
+
+<p>The articles of incorporation of any authority created under the provisions of this chapter may be amended with respect to the name or powers of such authority or in any other manner not inconsistent with this chapter by following the procedure prescribed by law for the creation of an authority.</p><p>Code 1950, § 15-764.12; 1950, p. 1318; 1954, c. 554; 1958, cc. 400, 402; 1960, c. 430; 1962, cc. 130, 623, § 15.1-1250; 1968, cc. 355, 556; 1970, cc. 444, 617; 1972, c. 161; 1979, c. 280; 1980, c. 159; 1981, c. 610; 1983, c. 422; 1984, c. 554; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0477'>477</a>; 1997, c. 587.</p>

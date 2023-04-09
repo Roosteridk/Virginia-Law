@@ -1,0 +1,3 @@
+# § 55.1-2003 Establishment of horizontal property regime.
+
+<p>A. A horizontal property regime is established when a developer, the sole owner, or the co-owners of one or more buildings record a master deed or lease, which includes the particulars enumerated in § <a href='/vacode/55.1-2008/'>55.1-2008</a>.</p><p>B. Pursuant to § <a href='/vacode/55.1-1901/'>55.1-1901</a>, this chapter is superseded by the Virginia Condominium Act (§ <a href='/vacode/55.1-1900/'>55.1-1900</a> et seq.) as of July 1, 1974. No new developments may be established under the provisions of this chapter after that date.</p><p>1962, c. 627, § 3, § 55-79.3; 1966, c. 683; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

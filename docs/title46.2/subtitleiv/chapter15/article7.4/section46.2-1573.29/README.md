@@ -1,0 +1,3 @@
+# § 46.2-1573.29 When discontinuation, cancellation, or nonrenewal of franchise unfair.
+
+<p>A discontinuation, cancellation, or nonrenewal of a franchise agreement is unfair if it is not clearly permitted by the franchise agreement, is not undertaken in good faith, is not undertaken for good cause, or is based on an alleged breach of the franchise agreement that is not in fact a material and substantial breach.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0802'>802</a>, § 46.2-1993.67:1; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0615'>615</a>.</p>

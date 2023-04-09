@@ -1,0 +1,3 @@
+# § 66-2 Supervision of the Department.
+
+<p>The Director of the Department of Juvenile Justice shall, under the direction of the Governor, be responsible for the supervision of the Department and shall exercise such other powers and perform such other duties as may be conferred or imposed by law upon him. He shall perform such other duties as may be required of him by the Governor and the Secretary of Public Safety and Homeland Security.</p><p>1989, c. 733; 1990, cc. 1, 317; 2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0115'>115</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0490'>490</a>.</p>

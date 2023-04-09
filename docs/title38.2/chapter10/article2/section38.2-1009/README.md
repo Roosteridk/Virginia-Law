@@ -1,0 +1,3 @@
+# § 38.2-1009 Payment for shares pursuant to conversion plan.
+
+<p>Every payment for the acquisition of any shares of the capital stock of the insurer, the purchase price of which is not fixed by the plan, shall be subject to the approval of the Commission. Neither the plan, nor any payment under the plan, nor any payment not fixed by the plan, shall be approved by the Commission if the making of the payment reduces the surplus to policyholders to an amount less than that required at that time for the licensure of domestic mutual insurers.</p><p>Code 1950, § 38-423; 1952, c. 317, § 38.1-492; 1986, c. 562.</p>

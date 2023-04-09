@@ -1,0 +1,3 @@
+# § 3.2-5403 Department to cooperate with U.S. Department of Agriculture.
+
+<p>The Department shall cooperate with the U.S. Department of Agriculture in administration of this chapter to provide for meat and poultry products inspection programs. These programs will impose and enforce requirements with respect to intrastate operations and commerce that are at least equal to those imposed and enforced under the Federal Meat Inspection Act and the Federal Poultry Products Inspection Act with respect to operations and transactions in interstate commerce; and the Commissioner is directed to administer this chapter so as to accomplish this purpose.</p><p>1970, c. 290, § 3.1-884.19; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

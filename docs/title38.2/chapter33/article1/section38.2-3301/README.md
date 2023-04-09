@@ -1,0 +1,3 @@
+# § 38.2-3301 Ten-day right to examine policy.
+
+<p>No individual life insurance policy shall be delivered or issued for delivery in this Commonwealth unless it has printed on it a notice stating in substance that if, during a ten-day period from the date the policy is delivered to the policyowner, the policy is surrendered to the insurer or its agent with a written request for cancellation, the policy shall be void from the beginning and the insurer shall refund any premium paid for the policy. Nothing in this section shall prohibit an insurer from extending the right to examine period to more than ten days if the period is specified in the policy.</p><p>1977, c. 174, § 38.1-390.1; 1986, c. 562.</p>

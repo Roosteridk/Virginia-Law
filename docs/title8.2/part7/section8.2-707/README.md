@@ -1,0 +1,3 @@
+# § 8.2-707 Person in the position of a seller..
+
+<p>(1) A "person in the position of a seller" includes as against a principal an agent who has paid or become responsible for the price of goods on behalf of his principal or anyone who otherwise holds a security interest or other right in goods similar to that of a seller.</p><p>(2) A person in the position of a seller may as provided in this title withhold or stop delivery (§ <a href='http://law.lis.virginia.gov/vacode/8.2-705/'>8.2-705</a>) and resell (§ <a href='http://law.lis.virginia.gov/vacode/8.2-706/'>8.2-706</a>) and recover incidental damages (§ <a href='http://law.lis.virginia.gov/vacode/8.2-710/'>8.2-710</a>).</p><p>1964, c. 219.</p>

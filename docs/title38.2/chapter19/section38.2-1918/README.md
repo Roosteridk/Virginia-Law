@@ -1,0 +1,3 @@
+# § 38.2-1918 Agreements for equitable apportionment of insurance.
+
+<p>A. Nothing in this chapter shall prohibit the making of agreements among insurers for the equitable apportionment among them of insurance which may be afforded applicants who are in good faith entitled to but who are unable to procure it through ordinary methods. Insurers may agree among themselves on the use of reasonable rate modifications for such insurance. These agreements and rate modifications shall be subject to the approval of the Commission.</p><p>B. The Commission may approve policy forms and endorsements for use by such insurers with respect to insurance afforded such applicants.</p><p>1973, c. 504, § 38.1-279.45; 1986, c. 562.</p>

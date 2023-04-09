@@ -1,0 +1,3 @@
+# § 19.2-190 To whom, and when, examination and recognizance to be certified.
+
+<p>Every examination and recognizance for a felony taken under this chapter, shall, by the person taking it, be certified to the clerk of the circuit court of the county or city in which the party charged is to be tried, or the witness is to appear, on or before the first day of its next term. If he fails he may be compelled to do so by attachment as for a contempt.</p><p>Code 1950, § 19.1-108; 1960, c. 366; 1975, c. 495.</p>

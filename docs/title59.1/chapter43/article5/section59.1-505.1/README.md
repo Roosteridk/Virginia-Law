@@ -1,0 +1,3 @@
+# § 59.1-505.1 Ownership of informational rights.
+
+<p>(a) If an agreement provides for conveyance of ownership of informational rights in a computer program, ownership passes at the time and place specified by the agreement but does not pass until the program is in existence and identified to the contract. If the agreement does not specify a different time, ownership passes when the program and the informational rights are in existence and identified to the contract.</p><p>(b) Transfer of a copy does not transfer ownership of informational rights.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0101'>101</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0996'>996</a>.</p>

@@ -1,0 +1,3 @@
+# § 45.2-606  Payment of attorney fees, expenses, and court costs.
+
+<p>All attorney fees, expenses, and court costs incident to the original proceedings shall be paid by the lessee if a lease is executed and by the plaintiff if for any reason no lease is executed. Subsequent to entry of judgment, all allowable attorney fees, expenses, and court costs shall be paid out of funds controlled by the trustee.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0775'>775</a>, § 45.1-161.311:7; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

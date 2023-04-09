@@ -1,0 +1,3 @@
+# § 23.1-2638 Institutions receiving interest accruing on proceeds of land scrip.
+
+<p>The annual accruing interest from the education fund resulting from the donation of lands by act of Congress on July 2, 1862, and the sale of such lands and the investment of the proceeds from such sale in state bonds by the Board of Education on February 7 and March 19, 1872, shall be paid one-third to Virginia State University and two-thirds to the University.</p><p>Code 1919, § 853, § 23-136; 1920, p. 492; 1979, c. 147; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

@@ -1,0 +1,3 @@
+# § 62.1-132.2 Bylaws and organization.
+
+<p>The Authority shall have the power to adopt, alter, and repeal bylaws, rules, and regulations governing the manner in which its business shall be transacted and the manner in which the powers of the Authority shall be exercised and its duties performed. Such bylaws, rules, and regulations may provide for such committees and their functions as the Authority may deem necessary or expedient.</p><p>1981, c. 589.</p>

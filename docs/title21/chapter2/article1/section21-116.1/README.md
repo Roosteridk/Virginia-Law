@@ -1,0 +1,3 @@
+# § 21-116.1 Alteration of boundaries or reduction of area of sanitary districts in certain counties.
+
+<p>Chapter 549 of the Acts of 1950, as amended by Acts 1952, c. 202, relating to alteration of boundaries or reduction of area of sanitary districts in any county adjoining a county having a population in excess of 2,000 per square mile, is incorporated in this Code by this reference.</p><p>1950, c. 549; 1952, c. 202.</p>

@@ -1,0 +1,3 @@
+# § 52-28.1 Reporting of gang-related criminal information; inclusion in annual Crime in Virginia report.
+
+<p>The Department of State Police shall include arrest statistics for violations of §§ <a href='http://law.lis.virginia.gov/vacode/18.2-46.2/'>18.2-46.2</a>, <a href='http://law.lis.virginia.gov/vacode/18.2-46.3/'>18.2-46.3</a>, <a href='http://law.lis.virginia.gov/vacode/18.2-46.3:1/'>18.2-46.3:1</a>, <a href='http://law.lis.virginia.gov/vacode/18.2-46.3:3/'>18.2-46.3:3</a>, and <a href='http://law.lis.virginia.gov/vacode/18.2-55.1/'>18.2-55.1</a> in the annual Crime in Virginia report.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0746'>746</a>.</p>

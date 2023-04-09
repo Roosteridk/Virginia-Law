@@ -1,0 +1,3 @@
+# § 46.2-1520 Collection of license and registration fees; payments from fund.
+
+<p>All licensing and registration fees provided for in this chapter, except as identified in Article 3.1 (§ <a href='http://law.lis.virginia.gov/vacode/46.2-1527.1/'>46.2-1527.1</a> et seq.) of this chapter shall be collected by the Board and paid into the state treasury and set aside as a special fund to meet the expenses of the Board.</p><p>1988, c. 865, § 46.1-525.011; 1989, c. 727; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0767'>767</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0816'>816</a>.</p>

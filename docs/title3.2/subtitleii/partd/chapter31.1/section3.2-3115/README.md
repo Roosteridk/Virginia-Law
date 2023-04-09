@@ -1,0 +1,3 @@
+# § 3.2-3115 Collection of money due the Fund.
+
+<p>The Authority is empowered to collect, or to authorize others to collect on its behalf, amounts due to the Fund under any loan to a local government, including, if appropriate, by taking the action required by § <a href='http://law.lis.virginia.gov/vacode/15.2-2659/'>15.2-2659</a> or <a href='http://law.lis.virginia.gov/vacode/62.1-216.1/'>62.1-216.1</a> to obtain payment of any amounts in default. Proceedings to recover amounts due to the Fund may be instituted by the Authority in the name of the Fund in the appropriate circuit court.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0399'>399</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0433'>433</a>.</p>

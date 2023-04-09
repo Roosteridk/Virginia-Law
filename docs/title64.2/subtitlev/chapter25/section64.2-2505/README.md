@@ -1,0 +1,3 @@
+# § 64.2-2505 Interests dependent on survivorship or continuance of life.
+
+<p>Any interest in property, whether vested or not, held by the slayer subject to be divested, diminished in any way, or extinguished if the decedent survives him or lives to a certain age shall be held by the slayer during his lifetime or until the decedent would have reached such age, but shall then pass as if the decedent had died immediately after the death of the slayer or the reaching of such age.</p><p>1981, c. 469, § 55-408; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

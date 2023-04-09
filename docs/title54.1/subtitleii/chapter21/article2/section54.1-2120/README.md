@@ -1,0 +1,3 @@
+# § 54.1-2120 No waiver by Board of disciplinary action against regulant.
+
+<p>Nothing contained in this article shall limit the authority of the Board to take disciplinary action against any regulant for any violation of this chapter or Board regulations, nor shall the repayment in full by a regulant of the amount paid from the fund on such regulant's account nullify or modify the effect of any disciplinary proceeding against such regulant for any such violation.</p><p>1977, c. 69, § 54-765.9; 1978, c. 129; 1987, c. 555; 1988, c. 765.</p>

@@ -1,0 +1,3 @@
+# § 15.2-2105.1 Granting franchises for operation of a vehicular ferry transportation system.
+
+<p>The authority granted by this article for the granting of franchises by localities shall include the authority to grant an exclusive franchise for the operation of a vehicular ferry transportation system in Northumberland County. The county may regulate such system, including the establishment of fees and rates.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0154'>154</a>.</p>

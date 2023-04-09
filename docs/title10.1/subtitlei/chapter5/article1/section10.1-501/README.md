@@ -1,0 +1,3 @@
+# § 10.1-501 Duty of the Attorney General.
+
+<p>The Attorney General shall represent and provide consultation and legal advice in suits or actions under this chapter upon request of the district directors or districts.</p><p>Code 1950, § 21-89; 1964, c. 512; 1970, c. 480; 1988, c. 891; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0236'>236</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0577'>577</a>.</p>

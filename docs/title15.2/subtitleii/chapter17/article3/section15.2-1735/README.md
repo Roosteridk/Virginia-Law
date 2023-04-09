@@ -1,0 +1,3 @@
+# § 15.2-1735 Acting beyond limits of jurisdiction of locality.
+
+<p>The members of any such auxiliary police force shall not be required to act beyond the limits of the jurisdiction of any such locality except when called upon to protect any public property belonging to the locality that may be located beyond its boundaries, or as provided in § <a href='/vacode/15.2-1736/'>15.2-1736</a>, <a href='/vacode/37.2-808/'>37.2-808</a>, or <a href='/vacode/37.2-810/'>37.2-810</a>.</p><p>1968, c. 157, § 15.1-159.6; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0587'>587</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0730'>730</a>.</p>

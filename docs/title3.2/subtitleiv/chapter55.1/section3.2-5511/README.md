@@ -1,0 +1,3 @@
+# § 3.2-5511 Recordkeeping.
+
+<p>Every registrant shall record, maintain for two years, and make available for inspection by the Department the following information:</p><p>1. The name and address of each location or person from which the registrant obtained the waste kitchen grease for transportation;</p><p>2. The quantity of material received from each location or person;</p><p>3. The date on which the waste kitchen grease was obtained from each location or person; and</p><p>4. The renderer or other processor to which the waste kitchen grease was delivered.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0868'>868</a>.</p>

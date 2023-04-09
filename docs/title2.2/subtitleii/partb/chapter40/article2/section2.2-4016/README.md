@@ -1,0 +1,3 @@
+# § 2.2-4016 Withdrawal of regulation.
+
+<p>Nothing in this chapter shall prevent any agency from withdrawing any regulation at any time prior to the effective date of that regulation. A regulation may be repealed after its effective date only in accordance with the provisions of this chapter that govern the adoption of regulations.</p><p>1984, c. 5, § 9-6.14:9.4; 1985, c. 602; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

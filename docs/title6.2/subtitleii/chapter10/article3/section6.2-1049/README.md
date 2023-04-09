@@ -1,0 +1,3 @@
+# § 6.2-1049 Permissible business.
+
+<p>A trust subsidiary shall be permitted to engage in trust business and activities that may be engaged in by a bank pursuant to § <a href='http://law.lis.virginia.gov/vacode/6.2-1002/'>6.2-1002</a>, and business incidental thereto. A trust subsidiary shall not accept deposits or conduct any other business except as may be incidental to the trust business being conducted by it.</p><p>1974, c. 286, § 6.1-32.5; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0801'>801</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

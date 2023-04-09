@@ -1,0 +1,3 @@
+# § 22.1-212.16 Immunity.
+
+<p>Public charter schools shall be immune from liability to the same extent as all other public schools in the Commonwealth, and the employees and volunteers in a public charter school are immune from liability to the same extent as the employees and volunteers in a public school.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0874'>874</a>.</p>

@@ -1,0 +1,3 @@
+# § 44-84 Regulations enforced on actual service.
+
+<p>Whenever any portion of the militia shall be called into service to execute the law, suppress riot or insurrection, or to repel invasion, the military justice opinions as set forth in Article 4 (§ <a href='http://law.lis.virginia.gov/vacode/44-42/'>44-42</a> et seq.) of this chapter, and the regulations prescribed for the National Guard of the United States, and the regulations issued thereunder, shall be enforced and regarded as a part of this chapter until such forces shall be duly relieved from such duty.</p><p>1930, p. 964; Michie Code 1942, § 2673(70); 1958, c. 393.</p>

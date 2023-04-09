@@ -1,0 +1,3 @@
+# § 65.2-901 Report of number of employees, hours of work, etc.
+
+<p>Every employer shall upon request of the Commission report the number of its employees, hours of their labor and number of days of operation of business.</p><p>Code 1950, § 65-117; 1968, c. 660, § 65.1-126; 1991, c. 355.</p>

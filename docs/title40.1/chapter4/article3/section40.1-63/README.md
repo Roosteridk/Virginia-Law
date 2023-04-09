@@ -1,0 +1,3 @@
+# § 40.1-63 Recovery by individual unlawfully denied employment.
+
+<p>Any person who may be denied employment or be deprived of continuation of his employment in violation of §§ <a href='http://law.lis.virginia.gov/vacode/40.1-60/'>40.1-60</a>, <a href='http://law.lis.virginia.gov/vacode/40.1-61/'>40.1-61</a> or § <a href='http://law.lis.virginia.gov/vacode/40.1-62/'>40.1-62</a> or of one or more of such sections, shall be entitled to recover from such employer and from any other person, firm, corporation or association acting in concert with him by appropriate action in the courts of this Commonwealth such damages as he may have sustained by reason of such denial or deprivation of employment.</p><p>Code 1950, § 40-73; 1970, c. 321.</p>

@@ -1,0 +1,3 @@
+# § 51.1-124.6 Benefits to be paid monthly.
+
+<p>All benefits payable by the Retirement System shall be paid in equal monthly installments, unless the Board approves another method of payment.</p><p>1952, c. 353, § 51-111.71; 1990, c. 832, § 51.1-104; 1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0004'>4</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0085'>85</a>.</p>

@@ -1,0 +1,3 @@
+# § 56-438 Fee of appraisers.
+
+<p>Appraisers appointed pursuant to the provisions of § <a href='http://law.lis.virginia.gov/vacode/56-436/'>56-436</a> shall receive for their services each the sum of one dollar.</p><p>Code 1919, § 3996; 1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0352'>352</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0432'>432</a>.</p>

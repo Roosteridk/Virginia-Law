@@ -1,0 +1,3 @@
+# § 2.2-506 Legal services to attorneys for the Commonwealth in certain proceedings; costs.
+
+<p>The Attorney General shall at the request of an attorney for the Commonwealth, provide legal service to such attorney for the Commonwealth in any proceedings brought against him seeking to restrain the enforcement of any state law.</p><p>Any costs chargeable against the defendant in any such case shall be paid by the Commonwealth from the appropriation for the payment of criminal charges.</p><p>1962, c. 235, § 2-86.2; 1966, c. 677, § 2.1-120; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

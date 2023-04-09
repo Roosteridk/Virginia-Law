@@ -1,0 +1,3 @@
+# § 13.1-519 Injunctions.
+
+<p>The Commission shall have all the power and authority of a court of record as provided in Article IX, Section 3 of the Constitution of Virginia to issue a temporary or a permanent injunction against any violation or attempted violation of any provision of this chapter or any order, rule, or regulation of the Commission issued pursuant to this chapter. For the violation of any injunction or order issued under this chapter it shall have the same power to punish for contempt as a court of equity.</p><p>Code 1950, § 13-137; 1956, c. 428; 1971, Ex. Sess., c. 1; 1992, c. 468; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0279'>279</a>.</p>

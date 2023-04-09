@@ -1,0 +1,3 @@
+# § 2.2-4802 Responsibility for accounts receivable policy; reports.
+
+<p>The Department of Accounts shall be the primary state agency responsible for the oversight, reporting and monitoring of the Commonwealth's accounts receivable program.</p><p>The Department of Accounts shall adopt necessary policies and procedures for reporting, accounting for, and collecting the Commonwealth's accounts receivable. The Department of Accounts is also charged with adopting regulations concerning guidelines and procedures for writing off accounts receivable.</p><p>1988, c. 544, § 2.1-728; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

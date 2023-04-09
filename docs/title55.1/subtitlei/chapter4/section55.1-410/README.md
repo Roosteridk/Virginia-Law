@@ -1,0 +1,3 @@
+# § 55.1-410 Priority of writings when admitted to record same day.
+
+<p>Unless otherwise provided for in this chapter, when two or more writings pertaining to the same property are recorded in the same county or city on the same day and stamped with the identical time, the instrument number shall determine the writing that was first recorded. The instrument that was first recorded shall have priority with respect to the property in such county or city.</p><p>Code 1919, § 5198; Code 1950, § 55-101; 1987, c. 104; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

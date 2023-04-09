@@ -1,0 +1,3 @@
+# § 24.2-604.1 Signs for special entrances to polling places.
+
+<p>The electoral board or the general registrar shall provide and have posted outside each polling place appropriate signs to direct people with disabilities and elderly persons to any special entrance designed for their use.</p><p>1993, c. 160, § 24.1-97.1; 1993, c. 641; 2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0018'>18</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0492'>492</a>.</p>

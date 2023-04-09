@@ -1,0 +1,3 @@
+# § 3.2-2003 Pork Industry Board officers and compensation.
+
+<p>A. The Pork Industry Board shall elect one of its members as chairman and such other officers as deemed appropriate.</p><p>B. Members of the Pork Industry Board shall be reimbursed for all actual expenses incurred attending meetings of the Pork Industry Board and any related activities as authorized by the Pork Industry Board.</p><p>Code 1950, § 3-598.13; 1966, c. 658, § 3.1-763.7; 1978, c. 540; 1979, c. 72; 1985, c. 448; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

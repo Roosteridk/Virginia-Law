@@ -1,0 +1,3 @@
+# § 28.2-510 Buying, selling, or possessing unculled oysters; penalty.
+
+<p>It is unlawful for any person to buy, sell, or possess oysters under the prescribed size and over the shell allowance taken from the public rocks, beds, and shoals. If upon trial for this offense the accused person asserts the claim or defense that the unculled oysters were taken from private planting grounds, the burden of proving such a defense or fact shall be upon the accused.</p><p>A violation of any provision of this section is a Class 3 misdemeanor.</p><p>Code 1950, §§ 28-142, 28-146; 1960, c. 517; 1962, c. 406, §§ 28.1-125, 28.1-127; 1985, c. 125; 1992, c. 836.</p>

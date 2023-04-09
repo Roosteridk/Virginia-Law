@@ -1,0 +1,3 @@
+# § 9.1-140.1 Registration; waiver of examination; locksmiths.
+
+<p>Notwithstanding any other provision of this article, unless an applicant is found by the Board to have engaged in any act that would constitute grounds for disciplinary action, the Board shall issue a registration, without examination, to any applicant who provides satisfactory proof to the Board of having been actively and continuously providing locksmith services immediately prior to July 1, 2008, for at least two years.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0638'>638</a>.</p>

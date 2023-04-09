@@ -1,0 +1,3 @@
+# § 56-235 When Commission may fix rates, schedules, etc.; conformance with chapter.
+
+<p>If upon investigation the rates, tolls, charges, schedules, or joint rates of any public utility operating in this Commonwealth shall be found to be unjust, unreasonable, insufficient or unjustly discriminatory or to be preferential or otherwise in violation of any of the provisions of law, the State Corporation Commission shall have power to fix and order substituted therefor such rate or rates, tolls, charges or schedules as shall be just and reasonable. All rates, tolls, charges or schedules set by the Commission shall be valid only if they are in full conformance with the provisions of this chapter.</p><p>Code 1919, § 4071; 1977, c. 336.</p>

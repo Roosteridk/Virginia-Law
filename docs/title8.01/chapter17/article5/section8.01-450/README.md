@@ -1,0 +1,3 @@
+# § 8.01-450 How indexed.
+
+<p>Every judgment shall, as soon as it is docketed, be indexed by the clerk in the name of each defendant, as required by § <a href='http://law.lis.virginia.gov/vacode/17.1-249/'>17.1-249</a>, and shall not be regarded as docketed as to any defendant in whose name it is not so indexed. The clerk may maintain such index on computer, word processor, microfilm, microfiche, or other micrographic process.</p><p>Code 1950, § 8-378; 1977, c. 617; 1985, c. 171.</p>

@@ -1,0 +1,3 @@
+# § 8.01-309 Service on Secretary of Commonwealth as agent of nonresident operator or owner of aircraft.
+
+<p>Any nonresident owner or operator of any aircraft that is operated over and above the land and waters of the Commonwealth or uses aviation facilities within the Commonwealth, shall by such operation and use appoint the Secretary of the Commonwealth as his statutory agent for the service of process in any action against him growing out of any accident or collision occurring within or above the Commonwealth in which such aircraft is involved.</p><p>Code 1950, § 8-67.4; 1952, c. 384; 1954, c. 333; 1977, c. 617.</p>

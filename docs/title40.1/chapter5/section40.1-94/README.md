@@ -1,0 +1,3 @@
+# § 40.1-94 Proofs of age.
+
+<p>The evidence of age required by this chapter shall consist of one of the following proofs of age, which shall be required in the order herein designated:</p><p>(1) A birth certificate or attested transcript issued by a registrar of vital statistics or other officer charged with the duty of recording births.</p><p>(2) A baptismal record or duly certified transcript thereof showing the date of birth and place of baptism of the child.</p><p>(3) Other documentary proof of age specified by the Commissioner.</p><p>Code 1950, § 40-103; 1970, c. 321.</p>

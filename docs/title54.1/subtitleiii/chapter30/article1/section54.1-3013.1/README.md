@@ -1,0 +1,3 @@
+# § 54.1-3013.1 Nursing education programs to include child abuse recognition and intervention.
+
+<p>In the exercise of its authority to establish minimum standards for professional nursing curricula and practical nursing curricula, the Board of Nursing, on and after July 1, 2007, shall require that approved nursing education programs provide instruction in child abuse recognition and intervention.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0528'>528</a>.</p>

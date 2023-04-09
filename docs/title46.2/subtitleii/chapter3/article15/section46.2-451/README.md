@@ -1,0 +1,3 @@
+# § 46.2-451 Action or suit on bond.
+
+<p>If a final judgment rendered against the principal on the bond filed with the Commissioner as provided in this chapter is not satisfied within fifteen days after its rendition, the judgment creditor may, for his own use and benefit and at his sole expense, bring an action on the bond in the name of the Commonwealth against the company or persons executing the bond.</p><p>Code 1950, § 46-472; 1958, c. 541, § 46.1-483; 1989, c. 727.</p>

@@ -1,0 +1,3 @@
+# § 58.1-3824.1 Transient occupancy tax; Fairfax County limitations.
+
+<p>Any additional transient occupancy tax or any increase in the rate of an existing transient occupancy tax in Fairfax County first imposed on or after July 1, 2010, shall not apply within the limits of any town located in such county, without the consent of the governing body of the town.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0116'>116</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0660'>660</a>.</p>

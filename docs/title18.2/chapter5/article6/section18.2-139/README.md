@@ -1,0 +1,3 @@
+# § 18.2-139 Injuries to trees, fences or herbage on grounds of Capitol, or in any public square.
+
+<p>If any person:</p><p>(1) Cut down, pull up, girdle or otherwise injure or destroy any tree growing in the grounds of the Capitol, or in any public square or grounds, without the consent of the Governor, or of the circuit court of the county or city in which such grounds or square is situated; or</p><p>(2) Willfully and maliciously injure the fences or herbage of the Capitol grounds, or of any such square or grounds,</p><p>he shall be guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 18.1-180; 1960, c. 358; 1975, cc. 14, 15.</p>

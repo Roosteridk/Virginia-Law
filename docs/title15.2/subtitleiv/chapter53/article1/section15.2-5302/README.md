@@ -1,0 +1,3 @@
+# § 15.2-5302 Creation of hospital authorities.
+
+<p>In each city there shall be a political subdivision of the Commonwealth, with such public and corporate powers as are set forth in this chapter, to be known as the "hospital authority" of the city.</p><p>Code 1950, § 32-215; 1979, c. 719, § 15.1-1535; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 8.01-581.5 When hearing to be held; notice to parties.
+
+<p>The plaintiff or defendant may request the medical review panel to hold a hearing on any claim referred to the medical review panel, in which case the medical review panel shall conduct a hearing thereon in accordance with § <a href='http://law.lis.virginia.gov/vacode/8.01-581.6/'>8.01-581.6</a> after notice to the parties by means adequate to ensure their presence at the time and place of the hearing.</p><p>Code 1950, § 8-915; 1976, c. 611; 1977, c. 617; 1979, c. 261; 1984, c. 777; 1993, c. 928.</p>

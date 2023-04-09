@@ -1,0 +1,3 @@
+# § 6.2-307 Assertion of defenses or claims by borrowers; effect of assignment.
+
+<p>As to any loan to which the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/6.2-327/'>6.2-327</a> and <a href='http://law.lis.virginia.gov/vacode/6.2-328/'>6.2-328</a> are applicable, the borrower may assert any defense or claim he may have under §§ <a href='http://law.lis.virginia.gov/vacode/6.2-304/'>6.2-304</a> and <a href='http://law.lis.virginia.gov/vacode/6.2-305/'>6.2-305</a> against any assignee or transferee of the contract of indebtedness.</p><p>1987, c. 622, § 6.1-330.59; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

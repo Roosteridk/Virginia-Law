@@ -1,0 +1,3 @@
+# § 30-34.11 Division created; appointment and tenure of Director.
+
+<p>There shall be a legislative agency known and designated as the Division of Legislative Automated Systems. The Division shall be in the charge of a Director, who shall be appointed by, subject to confirmation by the General Assembly, and serve at the pleasure of the Committees on Rules of the House of Delegates and the Senate acting jointly.</p><p>1980, c. 725.</p>

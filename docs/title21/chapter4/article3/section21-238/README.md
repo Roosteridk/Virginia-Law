@@ -1,0 +1,3 @@
+# § 21-238 Officers of commission.
+
+<p>The commission, at its organization meeting and thereafter at its first meeting in each calendar year, shall elect one of the members of the commission, chairman thereof. The commission under such rules as it may adopt, may elect one of its members vice-chairman, and may appoint a secretary, or secretary-treasurer, who shall not be a member of the commission; in the event that the commission appoints a secretary-treasurer, his compensation shall be fixed by the commission.</p><p>1946, p. 350; Michie Suppl. 1946, § 1560iii4.</p>

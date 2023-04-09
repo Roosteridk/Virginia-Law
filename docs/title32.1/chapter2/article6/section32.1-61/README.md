@@ -1,0 +1,3 @@
+# § 32.1-61 Definition.
+
+<p>As used in this article, "ophthalmia neonatorum" means any inflammation, swelling or unusual redness in one or both eyes of any infant, either apart from or together with any unnatural discharge from the eye or eyes of such infant, independent of the nature of the infection, if any, occurring at any time within two weeks after the birth of such infant.</p><p>Code 1950, § 32-105; 1979, c. 711.</p>

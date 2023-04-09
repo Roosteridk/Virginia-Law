@@ -1,0 +1,3 @@
+# § 6.2-936 Subrogation to rights of bank depositors.
+
+<p>Whenever the FDIC pays, or makes available for payment, the insured deposit liabilities of a closed bank, the FDIC, whether or not it acts as receiver, shall be subrogated to all rights of depositors against the closed bank to the same extent as subrogation is provided for by the Federal Deposit Insurance Act (12 U.S.C. § 1811 et seq.) in the case of a national bank.</p><p>1983, c. 507, § 6.1-110.12; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

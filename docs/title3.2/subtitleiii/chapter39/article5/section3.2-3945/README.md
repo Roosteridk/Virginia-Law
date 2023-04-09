@@ -1,0 +1,3 @@
+# § 3.2-3945 Seizure, condemnation, and sale.
+
+<p>Any lot of pesticide in violation of this chapter shall be subject to seizure on complaint of the Commissioner to the circuit court in the area where the pesticide is located. If the court finds the pesticide to be in violation of this chapter and orders its condemnation, it shall be disposed of after the claimant is provided an opportunity to apply for the release of the pesticide or for permission to process, relabel, or otherwise bring it into compliance with this chapter.</p><p>Code 1950, § 3-208.47; 1966, c. 702, § 3.1-249; 1981, c. 260; 1989, c. 575, § 3.1-249.78; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,0 +1,3 @@
+# § 30-407 (For contingent expiration date, see Acts 2021, Sp. Sess. I, c. 313, cl. 2) Chairman's executive summary.
+
+<p>The chairman of the Commission shall submit to the General Assembly and the Governor an annual executive summary of the interim activities and work of the Commission no later than the first day of each regular session of the General Assembly. The executive summary shall be submitted for publication as a report document as provided in the procedures of the Division of Legislative Automated Systems for the processing of legislative documents and reports and shall be posted on the General Assembly's website.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0313'>313</a>.</p>

@@ -1,0 +1,3 @@
+# § 19.2-287 Verdict and judgment, when jury agree as to some and disagree as to others.
+
+<p>When two or more persons are charged and tried jointly, the jury may render a verdict as to any of them as to whom they agree. Thereupon judgment shall be entered according to the verdict; and as to the others the case shall be tried by another jury.</p><p>Code 1950, § 19.1-256; 1960, c. 366; 1975, c. 495.</p>

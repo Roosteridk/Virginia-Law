@@ -1,0 +1,3 @@
+# § 23.1-3210 Science Museum of Virginia established.
+
+<p>The Science Museum of Virginia (the Museum) is established as an educational institution of the Commonwealth and a public body and instrumentality for the dissemination of education. The exercise by the Museum of the powers conferred by this article is the performance of an essential governmental function.</p><p>Code 1950, § 9-65.1, § 23-239; 1970, c. 466; 1977, c. 597; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

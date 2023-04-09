@@ -1,0 +1,3 @@
+# § 64.2-301 Dower or curtesy abolished.
+
+<p>The interests of dower and curtesy are abolished. However, the abolition of dower and curtesy pursuant to this section shall not change or diminish the nature or right of (i) any dower or curtesy interest of a surviving spouse whose dower or curtesy vested prior to January 1, 1991, or (ii) a creditor or other interested third party in any real estate subject to a right of dower or curtesy.</p><p>The rights of all such parties, and the procedures for enforcing such rights, shall continue to be governed by the laws in force prior to January 1, 1991.</p><p>1990, c. 831, § 64.1-19.2; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

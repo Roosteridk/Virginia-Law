@@ -1,0 +1,3 @@
+# § 58.1-3944 Tenant paying taxes or levies to have credit out of rents.
+
+<p>A tenant from whom payment is obtained, by distress or otherwise, of taxes or other charges due from a person under whom he holds, shall have credit for the same against such person out of the rents he may owe him, except when the tenant is bound to pay such taxes or other charges by an express contract with such person.</p><p>Code 1950, § 58-1013; 1984, c. 675; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0064'>64</a>.</p>

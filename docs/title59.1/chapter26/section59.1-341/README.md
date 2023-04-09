@@ -1,0 +1,3 @@
+# § 59.1-341 Effect on other law.
+
+<p>A. Except as provided in subsection B of this section, this chapter displaces conflicting tort, restitutionary, and other law of this Commonwealth providing civil remedies for misappropriation of a trade secret.</p><p>B. This chapter does not affect:</p><p>1. Contractual remedies whether or not based upon misappropriation of a trade secret; or</p><p>2. Other civil remedies that are not based upon misappropriation of a trade secret; or</p><p>3. Criminal remedies, whether or not based upon misappropriation of a trade secret.</p><p>1986, c. 210.</p>

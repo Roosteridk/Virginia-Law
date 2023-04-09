@@ -1,0 +1,3 @@
+# § 52-29 Rules and regulations for form, etc.
+
+<p>The Superintendent shall adopt and promulgate rules and regulations prescribing the form, general content, time and manner of submission of such uniform crime reports of all offenses designated by him, including, but not limited to, part I and part II offenses as set out by the Federal Bureau of Investigation.</p><p>1974, c. 577.</p>

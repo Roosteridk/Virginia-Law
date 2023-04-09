@@ -1,0 +1,3 @@
+# § 54.1-2414 Applicability of chapter; grace period for compliance.
+
+<p>This chapter shall apply, in the case of any investment interest acquired after February 1, 1993, to referrals for health services made by a practitioner on or after July 1, 1993. However, in the case of any investment interest acquired prior to February 1, 1993, compliance with the provisions of this chapter is required by July 1, 1996.</p><p>1993, c. 869.</p>

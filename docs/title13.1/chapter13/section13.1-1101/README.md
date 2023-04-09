@@ -1,0 +1,3 @@
+# § 13.1-1101 Legislative purpose.
+
+<p>It is the legislative intent to provide for the association of a group of individuals and professional corporations, professional limited liability companies, or other business entities formed to provide professional services as a limited liability company to render the same professional service to the public for which those individuals or other business entities are required by law to be licensed or to obtain other legal authorization from the Commonwealth of Virginia.</p><p>1992, c. 574.</p>

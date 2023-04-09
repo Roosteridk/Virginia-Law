@@ -1,0 +1,3 @@
+# § 62.1-44.15:8 Conformance with federal requirements.
+
+<p>Notwithstanding the provisions of this article, any fee system developed by the Board may be modified by regulation promulgated by the Board, as may be necessary to conform with the requirements of the federal Clean Water Act and any regulations promulgated thereunder.  Any modification imposed under this section shall be submitted to the members of the Senate Committees on Agriculture, Conservation and Natural Resources, and on Finance and Appropriations; and the House Committees on Appropriations, Conservation and Natural Resources, and Finance.</p><p>1992, cc. 621, 657.</p>

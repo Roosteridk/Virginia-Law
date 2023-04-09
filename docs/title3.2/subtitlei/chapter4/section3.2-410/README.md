@@ -1,0 +1,3 @@
+# § 3.2-410 Construction of chapter.
+
+<p>Nothing in this chapter shall be construed as duplicative of regulations governing agricultural practices under the Chesapeake Bay Preservation Act (§ <a href='http://law.lis.virginia.gov/vacode/62.1-44.15:67/'>62.1-44.15:67</a> et seq.).</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0773'>773</a>, § 10.1-559.11; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0756'>756</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0793'>793</a>.</p>

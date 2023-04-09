@@ -1,0 +1,3 @@
+# § 38.2-2118 Required statement on insurance policies for owner-occupied dwellings.
+
+<p>Each insurer writing insurance on owner-occupied dwellings and appurtenant structures with a replacement cost provision under the provisions of Chapter 19 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-1900/'>38.2-1900</a> et seq.) shall provide on each new and renewal policy a statement summarizing (i) any minimum coverage requirement necessary for the replacement cost provision to be fully effective and (ii) the effect on claim payment of not meeting the minimum coverage requirement.</p><p>1977, c. 530, § 38.1-279.49:1; 1986, c. 562; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0558'>558</a>.</p>

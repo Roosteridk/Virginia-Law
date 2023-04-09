@@ -1,0 +1,3 @@
+# § 13.1-789 Limitation upon liability of officers.
+
+<p>An officer of a benefit corporation shall have no liability for actions taken that the officer believes, in his good faith business judgment, are consistent with (i) the general public benefit or specific public benefit specified in the articles of incorporation or bylaws or otherwise adopted by the board of directors and (ii) the requirements of any third-party standard then in effect for the corporation.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0698'>698</a>.</p>

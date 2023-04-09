@@ -1,0 +1,3 @@
+# § 38.2-4607 Maximum risk.
+
+<p>On and after July 1, 1952, no company transacting title insurance in this Commonwealth shall assume a single risk in an amount in excess of fifty percent of the aggregate amount of its total capital and surplus and its reserves other than its loss or claim reserves. As used in this section, "a single risk" means the risk or hazard attaching to or arising in connection with any one piece or parcel of property, whether or not the policy insures other property. Any risk, or portion of any risk, that has been reinsured as authorized in this title shall be deducted in determining the limitation of risk prescribed in this section.</p><p>Code 1950, § 38-167; 1952, c. 317, § 38.1-727; 1986, c. 562.</p>

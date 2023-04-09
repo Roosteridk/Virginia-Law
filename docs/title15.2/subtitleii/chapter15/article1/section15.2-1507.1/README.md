@@ -1,0 +1,3 @@
+# § 15.2-1507.1 Appointment of standing panel in certain counties.
+
+<p>Notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/15.2-1507/'>15.2-1507</a>, in any county with the county manager form of government, the final step of its grievance procedure shall provide for a hearing before an impartial panel consisting of one member appointed by the grievant, one member appointed by the county manager or his designee, and a third member appointed in a manner determined by the board of supervisors.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0601'>601</a>.</p>

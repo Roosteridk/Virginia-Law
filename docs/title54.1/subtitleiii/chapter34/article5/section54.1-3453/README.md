@@ -1,0 +1,3 @@
+# § 54.1-3453 Placement of substance in Schedule V.
+
+<p>The Board shall place a substance in Schedule V if it finds that:</p><p>1. The substance has low potential for abuse relative to the controlled substances listed in Schedule IV;</p><p>2. The substance has currently accepted medical use in treatment in the United States; and</p><p>3. The substance has limited physical dependence or psychological dependence liability relative to the controlled substances listed in Schedule IV.</p><p>1972, c. 798, § 54-524.84:11; 1988, c. 765.</p>

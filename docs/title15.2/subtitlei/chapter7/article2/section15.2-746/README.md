@@ -1,0 +1,3 @@
+# § 15.2-746 Board possesses general power of management.
+
+<p>The board shall have, possess, and exercise the general management of the affairs of the county, and, in addition to such powers and duties as are designated and imposed by this chapter, shall exercise and perform all of the powers and duties now authorized or imposed by general law or special act on the board of supervisors of such county insofar as they are not inconsistent with the provisions of this chapter. The board shall also have all the powers conferred by general law on city councils.</p><p>Code 1950, § 15-356; 1962, c. 623, § 15.1-689; 1997, c. 587.</p>

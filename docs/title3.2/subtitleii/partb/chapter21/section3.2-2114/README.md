@@ -1,0 +1,3 @@
+# § 3.2-2114 Falsification of records; misdemeanor.
+
+<p>It is a Class 1 misdemeanor:</p><p>1. For any handler to fail to submit to the Tax Commissioner any report required in this chapter within 60 days from the time such report is required to be submitted.</p><p>2. For any handler knowingly to report falsely to the Tax Commissioner the number of taxable sheep handled by him during any period or to falsify the records.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0691'>691</a>, § 3.1-1079; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

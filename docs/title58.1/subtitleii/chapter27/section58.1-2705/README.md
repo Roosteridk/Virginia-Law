@@ -1,0 +1,3 @@
+# § 58.1-2705 Reports of carriers.
+
+<p>Every motor carrier subject to the tax imposed by this chapter or filing under the terms of the International Fuel Tax Agreement shall, on or before the last day of April, July, October and January of every year, make to the Department or proper agency pursuant to the International Fuel Tax Agreement such reports of its operations during the quarter ending the last day of the preceding month as the Department may require and such other reports from time to time as the Department may deem necessary.</p><p>Code 1950, § 58-633; 1976, c. 440; 1984, c. 675; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0744'>744</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0803'>803</a>.</p>

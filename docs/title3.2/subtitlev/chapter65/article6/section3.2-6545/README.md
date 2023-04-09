@@ -1,0 +1,3 @@
+# § 3.2-6545 Regulation of sale of animals procured from animal shelters.
+
+<p>Any locality that maintains or supports, in whole or in part, a public or private animal shelter may by ordinance provide that no person who acquires an animal from such shelter shall be able to sell the animal within a period of six months from the time the animal is acquired from the shelter. Violation of the ordinance is a Class 1 misdemeanor.</p><p>1972, c. 347, § 15.1-517.1; 1997, c. 587, § 3.1-796.94:2; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0148'>148</a>.</p>

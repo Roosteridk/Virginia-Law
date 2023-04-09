@@ -1,0 +1,3 @@
+# § 38.2-4405 Change of participating providers.
+
+<p>A. Any participating provider may resign from a plan at any time but will continue to be liable on each subscription contract while effective. However, this liability shall not extend beyond the end of each such subscription contract's current contract year.</p><p>B. Participating providers may be admitted to a plan at any time and will then automatically become liable on all its outstanding contracts.</p><p>1978, c. 658, § 38.1-795; 1986, c. 562; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0224'>224</a>.</p>

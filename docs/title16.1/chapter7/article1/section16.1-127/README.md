@@ -1,0 +1,3 @@
+# § 16.1-127 Courts may conduct preliminary examinations.
+
+<p>In addition to the power and authority conferred by this chapter on courts not of record having criminal jurisdiction, each such court shall have power to conduct preliminary examinations of persons charged with crime within its jurisdiction in the manner prescribed in Chapter 7 (§ <a href='http://law.lis.virginia.gov/vacode/19.2-71/'>19.2-71</a> et seq.) of Title 19.2.</p><p>1956, c. 555; 1960, c. 362.</p>

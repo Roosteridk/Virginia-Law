@@ -1,0 +1,3 @@
+# § 36-85.1 Refund of fee paid for registration seal.
+
+<p>Any person or corporation having paid the fee for an approved registration seal which it will not use may, unless and except as otherwise specifically provided, within one year from the date of the payment of any such fee, apply to the Administrator for a refund, in whole or in part, of the fee paid; provided that no payment shall be recovered unless the approved registration seal is returned, unused and in good condition, to the Administrator. Such application shall be by notarized letter.</p><p>1980, c. 97; 1986, c. 37.</p>

@@ -1,0 +1,3 @@
+# § 59.1-539 Definitions.
+
+<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Board" means the Board of Housing and Community Development.</p><p>"Department" means the Department of Housing and Community Development.</p><p>"Enterprise zone" means an area declared by the Governor to be eligible for the benefits of this chapter.</p><p>"Local zone administrator" means the chief executive of the county or city in which the enterprise zone is located, or his designee.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0863'>863</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0884'>884</a>.</p>

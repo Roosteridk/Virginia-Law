@@ -1,0 +1,3 @@
+# § 58.1-1712 Levy; rate of tax.
+
+<p>A tax is hereby imposed on the probate of every will or grant of administration not exempt by law. The tax shall be based on the value of the estate as determined in § <a href='http://law.lis.virginia.gov/vacode/58.1-1713/'>58.1-1713</a>. For every $100 of value, or fraction of $100, a tax of 10 cent(s) is imposed. However, the tax imposed by this section shall not apply to decedents' estates of $15,000 or less in value.</p><p>Code 1950, § 58-66; 1973, c. 282; 1984, c. 675; 1985, c. 474; 1988, c. 292; 1989, c. 387; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0117'>117</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0195'>195</a>.</p>

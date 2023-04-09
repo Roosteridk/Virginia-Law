@@ -1,0 +1,3 @@
+# § 23.1-212 Effect upon powers of governing boards of public institutions of higher education; endowment funds.
+
+<p>A. The powers of the governing boards of public institutions of higher education over the affairs of such institutions are not impaired by the provisions of this chapter except to the extent that powers and duties are specifically conferred upon the Council in this chapter.</p><p>B. The Council shall have no authority over the solicitation, investment, or expenditure of endowment funds now held or in the future received by any public institution of higher education.</p><p>1956, c. 311, § 23-9.14; 1974, c. 544; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-723 Grievances by police officers.
+
+<p>In any county for which a trial board for police officers is provided by state statute, police officers may elect the remedy provided by Chapter 5 (§ <a href='http://law.lis.virginia.gov/vacode/9.1-500/'>9.1-500</a> et seq.) of Title 9.1 in lieu of appealing to the trial board, but such election shall bar the right of appeal to the trial board or the right to employ any other grievance procedure with regard to the matters for which the provisions of such chapter are involved.</p><p>1980, c. 79, § 15.1-687.1; 1997, c. 587.</p>

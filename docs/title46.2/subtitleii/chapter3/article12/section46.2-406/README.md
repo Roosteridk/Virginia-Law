@@ -1,0 +1,3 @@
+# § 46.2-406 Appointment and authority of hearing officers.
+
+<p>The Commissioner may appoint one or more persons to conduct the hearings provided for in this title. The hearing officers are hereby authorized to administer oaths, take acknowledgments and affidavits, take testimony and depositions, and perform other duties which are incidental to conducting the hearings.</p><p>1958, c. 541, § 46.1-434; 1989, c. 727.</p>

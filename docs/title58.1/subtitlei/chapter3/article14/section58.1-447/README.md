@@ -1,0 +1,3 @@
+# § 58.1-447 Execution of returns of corporations.
+
+<p>The return of a corporation with respect to income shall be signed by any officer duly authorized so to act. In the case of a return made for a corporation by a fiduciary, such fiduciary shall sign the return. The fact that an individual's name is signed on the return shall be prima facie evidence that such individual is authorized to sign the return on behalf of the corporation.</p><p>Code 1950, § 58-151.084; 1971, Ex. Sess., c. 171; 1984, c. 675.</p>

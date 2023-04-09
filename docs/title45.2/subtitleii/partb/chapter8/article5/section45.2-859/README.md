@@ -1,0 +1,3 @@
+# § 45.2-859  Smoking in surface and other areas.
+
+<p>A. No miner or other person shall smoke, carry, or possess any smoker's articles, or carry an open flame, in or near any magazine for the storage of explosive materials.</p><p>B. No miner or other person shall smoke in or around any oil house, tipple, or other surface area where such practice may cause a fire or explosion.</p><p>Code 1950, §§ 45-53.2, 45-85.9; 1954, c. 191; 1966, c. 594, §§ 45.1-39, 45.1-44; 1978, c. 729; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.180; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

@@ -1,0 +1,3 @@
+# § 46.2-471 Assignment of risks for certain carriers.
+
+<p>Notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/46.2-366/'>46.2-366</a>, the provisions of this chapter relating to assignment of risks shall be available to carriers by motor vehicle who are required by law to carry public liability and property damage insurance for the protection of the public.</p><p>Code 1950, § 46-491.1; 1954, c. 345; 1958, c. 541, § 46.1-503; 1989, c. 727.</p>

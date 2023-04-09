@@ -1,0 +1,3 @@
+# § 46.2-1165 Regulations for inspection of vehicles; posting.
+
+<p>The Superintendent shall promulgate regulations for the inspection of motor vehicles under this title and shall furnish each official inspection station with a printed set of such regulations suitable for posting. Such station shall post the regulations in a conspicuous place in the portion of its premises where inspections are made and shall cause its employees making official inspections to be conversant with such regulations.</p><p>Code 1950, § 46-323; 1958, c. 541, § 46.1-319; 1960, c. 391; 1970, c. 21; 1989, c. 727.</p>

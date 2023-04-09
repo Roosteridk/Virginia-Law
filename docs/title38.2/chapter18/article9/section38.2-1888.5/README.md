@@ -1,0 +1,3 @@
+# § 38.2-1888.5 Classification of travel insurance.
+
+<p>A. Notwithstanding any other provision of this title, travel insurance shall be classified and filed for purposes of rates and forms under the inland marine line of insurance as set forth in § <a href='/vacode/38.2-126/'>38.2-126</a>.</p><p>B. Travel insurance may be in the form of an individual, group, or blanket policy.</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0266'>266</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0346'>346</a>.</p>

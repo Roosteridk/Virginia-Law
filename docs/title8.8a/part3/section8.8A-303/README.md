@@ -1,0 +1,3 @@
+# § 8.8A-303 Protected purchaser.
+
+<p>(a) "Protected purchaser" means a purchaser of a certificated or uncertificated security, or of an interest therein, who:</p><p>(1) gives value;</p><p>(2) does not have notice of any adverse claim to the security; and</p><p>(3) obtains control of the certificated or uncertificated security.</p><p>(b) In addition to acquiring the rights of a purchaser, a protected purchaser also acquires its interest in the security free of any adverse claim.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0216'>216</a>.</p>

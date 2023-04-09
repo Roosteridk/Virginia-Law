@@ -1,0 +1,3 @@
+# § 38.2-1385 Article not applicable in certain cases.
+
+<p>Nothing in this article shall be construed to apply to any insurer in the transaction of industrial sick benefit insurance as defined in § <a href='http://law.lis.virginia.gov/vacode/38.2-3544/'>38.2-3544</a>, nor to fraternal benefit societies, except for § <a href='http://law.lis.virginia.gov/vacode/38.2-1367/'>38.2-1367</a>.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0571'>571</a>.</p>

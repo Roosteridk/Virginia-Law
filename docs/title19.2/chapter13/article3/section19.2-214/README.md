@@ -1,0 +1,3 @@
+# § 19.2-214 Prosecutions resulting from report.
+
+<p>Any bill of indictment for alleged criminal offenses, which may follow as a result of the report of the special grand jury, shall be prepared by the attorney for the Commonwealth for presentation to a regular grand jury.</p><p>1975, c. 495.</p>

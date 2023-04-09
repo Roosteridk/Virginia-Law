@@ -1,0 +1,3 @@
+# § 56-241.2 Approval of rates for resale of telephone service.
+
+<p>Notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/56-241.1/'>56-241.1</a>, the Commission may approve a mandatory tariff based only on the number of calls for any telephone company if such tariff is limited to the rates charged for the resale of local business service or for the providing of coin telephone service by a person other than the telephone company.</p><p>1985, c. 389.</p>

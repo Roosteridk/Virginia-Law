@@ -1,0 +1,3 @@
+# § 10.1-1192 Cooperation of state agencies.
+
+<p>All departments, commissions, boards, authorities, agencies, offices and institutions within any branch of the state government shall cooperate with the Department in carrying out the purposes of this article.</p><p>1973, c. 384, § 10-17.112; 1974, c. 270, § 10.1-1212; 1977, c. 667; 1988, c. 891; 1992, c. 887.</p>

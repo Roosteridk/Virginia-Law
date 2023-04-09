@@ -1,0 +1,3 @@
+# § 21-422 Contracts with United States as to refunding.
+
+<p>Any drainage project desiring to refund all or part of its outstanding bonds pursuant to the provisions of this section is authorized to enter into contracts and agreements with the United States government or with any subdivision or agency thereof for the purpose of securing the aid of the United States or such subdivision or agency of the United States, and to do all things and make all agreements reasonably required by the United States or by such subdivision or agency of the United States in order to accomplish such refunding.</p><p>1934, p. 5; Michie Code 1942, § 1777a; 1954, c. 642.</p>

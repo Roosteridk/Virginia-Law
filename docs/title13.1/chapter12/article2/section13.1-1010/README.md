@@ -1,0 +1,3 @@
+# § 13.1-1010 Organizers.
+
+<p>One or more persons may act as organizers of a limited liability company by signing and delivering articles of organization to the Commission for filing. An organizer need not be a member of the limited liability company after formation has occurred.</p><p>1991, c. 168; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0748'>748</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0288'>288</a>.</p>

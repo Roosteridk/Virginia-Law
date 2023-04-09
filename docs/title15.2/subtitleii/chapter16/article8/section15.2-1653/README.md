@@ -1,0 +1,3 @@
+# § 15.2-1653 Ascertaining results.
+
+<p>The electoral board shall ascertain the vote from the returns, and shall certify in duplicate the votes cast for removal and authorizing the expenditure of the amount stated in the petition and against removal. One of the certificates shall be filed with the county clerk and the other with the judge of the circuit court.</p><p>Code 1950, § 15-52; 1962, c. 623, § 15.1-568; 1971, Ex. Sess., cc. 42, 245; 1997, c. 587.</p>

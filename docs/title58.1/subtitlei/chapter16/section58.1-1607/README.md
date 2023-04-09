@@ -1,0 +1,3 @@
+# § 58.1-1607 Limitation on tax for certain manufacturers taxable under § 58.1-1605.
+
+<p>Manufacturers taxed pursuant to the provisions of § <a href='http://law.lis.virginia.gov/vacode/58.1-1605/'>58.1-1605</a> shall not in any one calendar year of a biennium be liable for a tax under this chapter in excess of sixty dollars when the amount of rough lumber manufactured is 500,000 board feet or less, or in excess of thirty dollars when the amount of rough lumber manufactured is 300,000 board feet or less. Any tax collected in excess of such amounts shall be promptly refunded by the Tax Commissioner to the taxpayer who has paid such excess.</p><p>Code 1950, § 58-838.8; 1956, c. 61; 1970, c. 770; 1972, c. 316; 1983, c. 109; 1984, c. 675.</p>

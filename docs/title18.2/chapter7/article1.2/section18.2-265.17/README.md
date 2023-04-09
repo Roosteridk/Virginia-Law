@@ -1,0 +1,3 @@
+# § 18.2-265.17 Exemption of information systems from provisions related to the Virginia Information Technologies Agency.
+
+<p>The provisions of Chapter 20.1 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-2005/'>2.2-2005</a> et seq.) of Title 2.2 shall not apply to this article.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0160'>160</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0252'>252</a>.</p>

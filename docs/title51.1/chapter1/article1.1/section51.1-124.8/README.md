@@ -1,0 +1,3 @@
+# § 51.1-124.8 Persons affected by changes in retirement benefits.
+
+<p>Unless otherwise specifically stated, legislation which effects a change in the amount of a retirement benefit other than a post-retirement supplement shall be construed to effect only the benefits of those persons who qualify for a retirement allowance on or after the effective date of the legislation.</p><p>1952, c. 157, § 51-111.16; 1960, c. 604; 1977, c. 620; 1978, c. 841; 1980, cc. 637, 638, 646; 1982, cc. 467, 478; 1990, c. 832, § 51.1-106; 1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0004'>4</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0085'>85</a>.</p>

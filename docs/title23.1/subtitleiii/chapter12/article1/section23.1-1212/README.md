@@ -1,0 +1,3 @@
+# § 23.1-1212 Investment of funds.
+
+<p>Any moneys or funds held by the Authority or the trustee under any trust indenture under the provisions of this article may be invested and reinvested in securities that are legal investments under the laws of the Commonwealth for moneys or funds held by fiduciaries.</p><p>1966, c. 685, § 23-30.30; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

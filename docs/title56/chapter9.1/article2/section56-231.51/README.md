@@ -1,0 +1,3 @@
+# § 56-231.51 Construction of article and conflicting laws.
+
+<p>This article is to be liberally construed and the enumeration of any object, purpose, power, manner, method or thing shall not be deemed to exclude like or similar objects, purposes, powers, manners, methods or things, and any provisions of other laws in conflict with the provisions of this article shall not apply to cooperatives operating hereunder. Any object, purpose, power, manner, method or thing which is not specifically prohibited is permitted.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0874'>874</a>.</p>

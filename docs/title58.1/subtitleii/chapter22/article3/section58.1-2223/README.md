@@ -1,0 +1,3 @@
+# § 58.1-2223 Liability for tax on fuel transferred within terminal transfer system.
+
+<p>The tax imposed pursuant to § <a href='http://law.lis.virginia.gov/vacode/58.1-2217/'>58.1-2217</a> at the point that motor fuel is transferred within the terminal transfer system shall be jointly and severally payable by the supplier of the fuel, the person receiving the fuel, and the terminal operator of the terminal at which the fuel was transferred.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0729'>729</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0758'>758</a>.</p>

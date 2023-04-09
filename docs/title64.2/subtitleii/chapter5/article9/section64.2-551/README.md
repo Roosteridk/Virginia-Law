@@ -1,0 +1,3 @@
+# § 64.2-551 Account of debts by commissioners of accounts.
+
+<p>The commissioner of accounts, within 60 days from the date of the hearing for receiving proof of debts and demands against the decedent or the decedent's estate or the date of the last adjournment of any such hearing, shall make out an account of all such debts or demands as have been sufficiently proved, stating separately the debts and demands of each class.</p><p>Code 1950, § 64-162; 1966, c. 335; 1968, c. 656, § 64.1-172; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

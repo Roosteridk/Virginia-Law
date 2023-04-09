@@ -1,0 +1,3 @@
+# § 21-419 Preparation of assessment rolls when additional assessments made.
+
+<p>In the event new or additional assessments are levied pursuant to the provisions of the two preceding sections, such rolls shall be prepared and such assessments shall be levied in all respects as provided by the provisions of this chapter for the preparation of the original rolls and levy of the original assessments.</p><p>1934, p. 5; Michie Code 1942, § 1777a.</p>

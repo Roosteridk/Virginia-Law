@@ -1,0 +1,3 @@
+# § 15.2-5200 Creation of commission.
+
+<p>In each locality, and in each group of two or more of such political subdivisions whose governing bodies declare by resolution that the locality needs a hospital or health center, a hospital or health center commission shall be created as a public body corporate, with such public and corporate powers as are set forth in this chapter. Such commission shall not transact any business or exercise its powers until the governing body of the subdivision, or the governing bodies of the subdivisions, declares the need for the hospital or health center commission to function therein.</p><p>Code 1950, § 32-276; 1950, p. 243; 1979, c. 719, § 15.1-1514; 1997, c. 587.</p>

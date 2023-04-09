@@ -1,0 +1,3 @@
+# § 8.01-151 How verdict to specify premises recovered.
+
+<p>When the right of the plaintiff is proved to all the premises claimed, the verdict shall be for the premises generally as specified in the motion for judgment, but if it be proved to only a part or share of the premises, the verdict shall specify such part particularly as the same is proved, and with the same certainty of description as is required in the motion for judgment.</p><p>Code 1950, § 8-821; 1954, c. 333; 1977, c. 617.</p>

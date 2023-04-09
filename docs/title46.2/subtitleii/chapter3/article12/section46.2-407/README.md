@@ -1,0 +1,3 @@
+# § 46.2-407 Form and contents of decision; copies.
+
+<p>Any decision or order of the Commissioner to be valid must be reduced to writing and contain the explicit findings of fact and conclusions of law upon which the decision or order of the Commissioner is based. Certified copies of the decision or order shall be delivered to any party affected by it.</p><p>Code 1950, § 46-422.2; 1952, c. 544; 1958, c. 541, § 46.1-435; 1989, c. 727.</p>

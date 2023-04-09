@@ -1,0 +1,3 @@
+# § 56-484.22 Access to PSAPs from telephone stations on MLTS.
+
+<p>Commencing July 1, 2009, the MLTS provider of any multiline telephone system shall maintain and operate the MLTS in such manner that a telephone call made by dialing the digits "9-1-1" and, if applicable, any additional digit or digits that must be dialed in order to permit the user to access the public switched telephone network, from any telephone on the MLTS is routed to a PSAP.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0427'>427</a>.</p>

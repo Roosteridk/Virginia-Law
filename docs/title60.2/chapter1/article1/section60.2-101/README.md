@@ -1,0 +1,3 @@
+# § 60.2-101 Disclosure of social security account number.
+
+<p>The Commission shall continue to require disclosure of the social security account number of any individual for any purpose relating to a claim for benefits and for any purpose relating to the provision of employment or employment-related services, including verification of the identity of any individual. Additionally, the Commission shall continue to require any employing unit to disclose the social security account number of any individual who performed services for such employing unit for any purpose relating to the unemployment insurance programs administered by the Commission.</p><p>1976, c. 708, § 60.1-22.1; 1986, c. 480.</p>

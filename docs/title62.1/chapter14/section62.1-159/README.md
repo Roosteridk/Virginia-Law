@@ -1,0 +1,3 @@
+# § 62.1-159 Public corporation defined.
+
+<p>The term "public corporation," for the purposes of this chapter, means the Commonwealth of Virginia or any political subdivision thereof or any incorporated municipality therein or any public agency of this Commonwealth or of any political subdivision thereof or of any municipality therein, or any corporate municipal instrumentality of this Commonwealth or of this Commonwealth and one or more other states.</p><p>Code 1950, § 62-118; 1968, c. 659.</p>

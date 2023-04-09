@@ -1,0 +1,3 @@
+# § 8.01-462 Jurisdiction of equity to enforce lien of judgment; when it may decree sale.
+
+<p>Jurisdiction to enforce the lien of a judgment shall be in equity. If it appear to the court that the rents and profits of all real estate subject to the lien will not satisfy the judgment in five years, the court may decree such real estate, or any part thereof, to be sold, and the proceeds applied to the discharge of the judgment.</p><p>Code 1950, § 8-391; 1977, c. 617.</p>

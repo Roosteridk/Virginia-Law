@@ -1,0 +1,3 @@
+# § 15.2-1222 Regulation of certain motion pictures shown at drive-in theaters.
+
+<p>Any county may, by ordinance, regulate the screening of motion pictures, classified by the motion picture industry as being suitable for display to adult audiences only, in drive-in theaters where such motion pictures are visible to the traveling public from a highway, street or other public way for the purpose of protecting the health, safety and welfare of the public.</p><p>1979, c. 368, § 15.1-515.2; 1997, c. 587.</p>

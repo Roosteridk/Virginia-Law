@@ -1,0 +1,3 @@
+# § 46.2-2011.13 Stowing of baggage, parcels, etc.
+
+<p>Motor carriers transporting baggage or other property of passengers shall do so only when such articles are stowed in a manner to assure:</p><p>1. Unrestricted freedom of motion to the driver for proper operation of the vehicle.</p><p>2. Unobstructed passage to regular and emergency exits by any person.</p><p>3. Adequate protection from personal injury that may result from the displacement or fall of such articles.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

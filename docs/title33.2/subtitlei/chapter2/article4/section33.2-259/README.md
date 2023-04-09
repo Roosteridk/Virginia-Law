@@ -1,0 +1,3 @@
+# § 33.2-259 Maintain drainage easements.
+
+<p>Whenever in connection with or as a precondition to the construction or reconstruction of any highway the Department has acquired any permanent drainage easement, the Department shall, until such time as such easement has been terminated, perform repairs required to protect the roadway and to ensure the proper function of the easement within the right-of-way and within the boundaries of such easement.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0312'>312</a>, § 33.1-223.2:4; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

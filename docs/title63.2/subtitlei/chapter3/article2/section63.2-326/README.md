@@ -1,0 +1,3 @@
+# § 63.2-326 Service at pleasure of local board or local director.
+
+<p>The local director and other employees shall serve at the pleasure of the local board, or other appointing authority, subject to the provisions of the merit system plan as defined in § <a href='http://law.lis.virginia.gov/vacode/63.2-100/'>63.2-100</a>. If other employees are employed by the local director, they shall serve at the pleasure of the local director, within the provisions of the merit system plan.</p><p>Code 1950, § 63-78; 1960, c. 207; 1968, c. 578, § 63.1-61; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0082'>82</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

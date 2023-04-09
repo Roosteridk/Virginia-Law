@@ -1,0 +1,3 @@
+# § 15.2-3702 Ordinance required.
+
+<p>After the agreement required by § <a href='http://law.lis.virginia.gov/vacode/15.2-3701/'>15.2-3701</a> has been reached, the town council may, by ordinance passed by a recorded majority vote of all the members thereof, petition the circuit court for the county or counties in which the town is located for an order requiring a referendum on the question of whether the town charter shall be annulled and repealed.</p><p>1992, c. 453, § 15.1-965.30; 1997, c. 587.</p>

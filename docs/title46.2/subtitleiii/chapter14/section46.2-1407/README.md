@@ -1,0 +1,3 @@
+# § 46.2-1407 Certain ridesharing vehicles are not commercial vehicles or buses.
+
+<p>A motor vehicle used in a ridesharing arrangement that has a seating capacity for not more than fifteen persons, including the driver, shall not be a "bus" under those portions of this title relating to equipment requirements or rules of the road.</p><p>A motor vehicle used in a ridesharing arrangement that has a seating capacity for not more than fifteen persons, including the driver, shall not be a "bus" or "commercial vehicle" under the portions of this title relating to registration.</p><p>1981, c. 218, § 46.1-563; 1989, cc. 705, 727; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0337'>337</a>.</p>

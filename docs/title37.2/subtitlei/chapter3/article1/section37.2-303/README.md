@@ -1,0 +1,3 @@
+# § 37.2-303 Qualifications of Commissioner.
+
+<p>The Commissioner shall be a person of proven executive and administrative ability and shall have had appropriate education and substantial experience in the fields of mental health, developmental, or substance abuse services.</p><p>Code 1950, § 37-56; 1968, c. 477, § 37.1-42; 1976, c. 671; 1980, c. 582; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0476'>476</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0507'>507</a>.</p>

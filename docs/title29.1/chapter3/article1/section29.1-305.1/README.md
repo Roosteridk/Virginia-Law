@@ -1,0 +1,3 @@
+# § 29.1-305.1 Bonus deer permits.
+
+<p>The Board shall establish by regulation a procedure for selling bonus deer permits. Each bonus deer permit purchased shall entitle the holder thereof to take additional deer under conditions prescribed by the Board. The cost of a bonus deer permit shall be set by the Board but shall not exceed the fee charged for the special license to hunt bear, deer and turkey, as prescribed under § <a href='http://law.lis.virginia.gov/vacode/29.1-305/'>29.1-305</a>. Clerks and license agents who sell hunting licenses shall sell bonus deer permits and shall be entitled to a service fee as prescribed in § <a href='http://law.lis.virginia.gov/vacode/29.1-332/'>29.1-332</a>.</p><p>1991, c. 676.</p>

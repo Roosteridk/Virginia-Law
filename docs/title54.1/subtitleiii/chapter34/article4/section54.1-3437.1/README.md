@@ -1,0 +1,3 @@
+# § 54.1-3437.1 Limited permit for repackaging drugs.
+
+<p>The Board may issue a limited manufacturing permit for the purpose of repackaging drugs, upon such terms and conditions approved by the Board, to the pharmacy directly operated by the Department of Behavioral Health and Developmental Services and which serves clients of the community services boards.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0218'>218</a>; 2009, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0813'>813</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0840'>840</a>.</p>

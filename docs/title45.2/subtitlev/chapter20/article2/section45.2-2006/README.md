@@ -1,0 +1,3 @@
+# § 45.2-2006  Cancellation or suspension of permit.
+
+<p>If the Department determines, after a public hearing held in conjunction with the Board, that a holder of a permit issued pursuant to the provisions of this chapter has willfully violated any provision of such permit or any provision of this chapter, the Department may cancel or suspend such permit for cause or impose limitations on the future use thereof in order to prevent future violations.</p><p>1981, c. 506, § 45.1-179.9; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

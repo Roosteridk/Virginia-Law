@@ -1,0 +1,3 @@
+# § 63.2-1711 Injunction against operation without license.
+
+<p>Any circuit court having jurisdiction in the county or city where the principal office of any assisted living facility, adult day care center or child welfare agency is located shall, at the suit of the Commissioner, have jurisdiction to enjoin its operation without a license required by this subtitle.</p><p>Code 1950, §§ 63-224.2, 63-251; 1954, c. 259; 1968, c. 578, §§ 63.1-181, 63.1-214; 1973, c. 227; 1992, c. 356, § 63.1-194.11; 1993, cc. 957, 993; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

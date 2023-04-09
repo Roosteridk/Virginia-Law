@@ -1,0 +1,3 @@
+# § 58.1-3202 Taxation of certain multi-unit real estate.
+
+<p>Beginning with assessments effective on January 1, 1984, the fair market value of multi-unit real estate leased primarily to residential tenants shall be determined without regard to its potential for conversion to condominium or cooperative ownership. A sale of apartment property shall not be presumed to be for such conversion unless overt action which is a prerequisite to conversion by the buyer has been taken within three months from the recordation of the deed.</p><p>Code 1950, § 58-760; 1982, c. 619; 1983, cc. 556, 570; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 32.1-28 When Attorney General to represent Board; special counsel.
+
+<p>The Attorney General shall represent the Board and Commissioner in all actions and proceedings for the enforcement of regulations or orders of the Board or Commissioner or the provisions of this title except actions or proceedings to which the Commonwealth or any of its agencies or institutions is a party defendant. Upon approval by the Governor, the Board is authorized to employ special counsel in such actions or proceedings.</p><p>1979, c. 711.</p>

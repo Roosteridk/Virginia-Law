@@ -1,0 +1,3 @@
+# § 63.2-214 Bonds of such agents.
+
+<p>Proper bonds shall be required of all agents and employees who handle any funds which may come into custody of the Department. The premiums on the bonds shall be paid from funds appropriated by the Commonwealth for the administration of the activities of the Department.</p><p>Code 1950, § 63-12; 1968, c. 578, § 63.1-12; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

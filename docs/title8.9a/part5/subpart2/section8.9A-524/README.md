@@ -1,0 +1,3 @@
+# § 8.9A-524 Delay by filing office.
+
+<p>Delay by the filing office beyond a time limit prescribed by this part is excused if:</p><p>(1) the delay is caused by interruption of communication or computer facilities, war, emergency conditions, failure of equipment, or other circumstances beyond control of the filing office; and</p><p>(2) the filing office exercises reasonable diligence under the circumstances.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1007'>1007</a>.</p>

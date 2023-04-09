@@ -1,0 +1,3 @@
+# § 42.1-76.1 Notice of Chapter.
+
+<p>Any person elected, reelected, appointed, or reappointed to the governing body of any agency subject to this chapter shall (i) be furnished by the agency or public body's administrator or legal counsel with a copy of this chapter within two weeks following election, reelection, appointment, or reappointment and (ii) read and become familiar with the provisions of this chapter.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0060'>60</a>.</p>

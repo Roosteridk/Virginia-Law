@@ -1,0 +1,3 @@
+# § 8.01-14 Suit against assignor.
+
+<p>Any assignee or beneficial owner may recover from any assignor of a writing; but only joint assignors shall be joined as defendants in one action. A remote assignor shall have the benefit of the same defense as if the suit had been instituted by his immediate assignee.</p><p>Code 1950, § 8-95; 1977, c. 617.</p>

@@ -1,0 +1,3 @@
+# § 8.01-465.17 Determining money of the claim.
+
+<p>The money in which the parties to a transaction have agreed that payment is to be made is the proper money of the claim for payment. If the parties to a transaction have not otherwise agreed, the proper money of the claim is the money (i) regularly used between the parties as a matter of usage or course of dealing; (ii) used at the time of a transaction in international trade, by trade usage or common practice, for valuing or settling transactions in the particular commodity or service involved; or (iii) in which the loss was ultimately felt or will be incurred by the party claimant.</p><p>1991, c. 24.</p>

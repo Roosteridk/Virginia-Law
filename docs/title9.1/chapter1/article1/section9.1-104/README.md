@@ -1,0 +1,3 @@
+# § 9.1-104 Establishment of victim and witness assistance programs; purpose; guidelines.
+
+<p>A. The Department shall adopt guidelines, the purpose of which shall be to make funds available to local governments for establishing, operating and maintaining victim and witness assistance programs which provide services to the victims of crime and witnesses in the criminal justice system.</p><p>B. The Department shall establish a grant procedure to govern funds awarded for this purpose.</p><p>1984, c. 561, § 9-173.3; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

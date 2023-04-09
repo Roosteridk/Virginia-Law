@@ -1,0 +1,3 @@
+# § 53.1-51 Intentional violations constitute malfeasance.
+
+<p>Intentional violations of §§ <a href='http://law.lis.virginia.gov/vacode/53.1-47/'>53.1-47</a> through <a href='http://law.lis.virginia.gov/vacode/53.1-49/'>53.1-49</a> and § <a href='http://law.lis.virginia.gov/vacode/53.1-52/'>53.1-52</a> by any such department, institution or agency, continued after notice from the Governor to desist, shall constitute malfeasance in office, and shall subject the officer or officers responsible for such violations to suspension or removal from office, as may be provided by law in other cases of malfeasance.</p><p>Code 1950, § 53-72; 1982, c. 636.</p>

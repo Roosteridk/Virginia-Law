@@ -1,0 +1,3 @@
+# § 18.2-76.1 Encouraging or promoting abortion.
+
+<p>If any person, by publication, lecture, advertisement, or by the sale or circulation of any publication, or through the use of a referral agency for profit, or in any other manner, encourage or promote the performing of an abortion or the inducing of a miscarriage in this Commonwealth which is prohibited under this article, he shall be guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 18.1-63; 1960, c. 358; 1972, c. 725; 1975, cc. 14, 15.</p>

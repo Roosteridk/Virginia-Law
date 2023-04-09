@@ -1,0 +1,3 @@
+# § 45.2-1128  Operating without license; penalty.
+
+<p>A. In addition to any other power conferred by law, the Director or his designated representative may issue an order closing any mineral mine that is operating without a license. The procedure for issuing a closure order shall be as provided in § <a href='/vacode/45.2-1158/'>45.2-1158</a>.</p><p>B. Any person operating an unlicensed mineral mine is guilty of a Class 3 misdemeanor. Each day any person operates an unlicensed mineral mine constitutes a separate offense.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0390'>390</a>, § 45.1-161.292:34; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

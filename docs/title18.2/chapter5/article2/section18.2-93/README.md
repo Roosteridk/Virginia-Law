@@ -1,0 +1,3 @@
+# § 18.2-93 Entering bank, armed, with intent to commit larceny.
+
+<p>If any person, armed with a deadly weapon, shall enter any banking house, in the daytime or in the nighttime, with intent to commit larceny of money, bonds, notes, or other evidence of debt therein, he shall be guilty of a Class 2 felony.</p><p>Code 1950, § 18.1-90; 1960, c. 358; 1975, cc. 14, 15.</p>

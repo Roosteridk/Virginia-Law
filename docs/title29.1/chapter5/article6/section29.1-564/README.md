@@ -1,0 +1,3 @@
+# § 29.1-564 Taking, transportation, sale, etc., of endangered species prohibited.
+
+<p>The taking, transportation, possession, sale, or offer for sale within the Commonwealth of any fish or wildlife appearing on any list of threatened or endangered species published by the United States Secretary of the Interior pursuant to the provisions of the federal Endangered Species Act of 1973 (P.L. 93-205), or any modifications or amendments thereto, is prohibited except as provided in § <a href='http://law.lis.virginia.gov/vacode/29.1-568/'>29.1-568</a>.</p><p>1972, c. 329, § 29-232; 1977, c. 377; 1987, c. 488.</p>

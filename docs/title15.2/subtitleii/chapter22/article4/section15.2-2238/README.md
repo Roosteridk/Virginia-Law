@@ -1,0 +1,3 @@
+# § 15.2-2238 Authority of counties under Article 2 (§ 33.2-705 et seq.) of Chapter 7 not affected.
+
+<p>The provisions of this article shall not affect the exercise of the authority contained in Article 2 (§ <a href='http://law.lis.virginia.gov/vacode/33.2-705/'>33.2-705</a> et seq.) of Chapter 7 by counties that have withdrawn their roads from the secondary state highway system.</p><p>Code 1950, § 15-965.5; 1962, c. 407, § 15.1-463; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0587'>587</a>.</p>

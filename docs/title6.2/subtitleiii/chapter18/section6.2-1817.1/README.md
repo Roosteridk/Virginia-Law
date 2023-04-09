@@ -1,0 +1,3 @@
+# § 6.2-1817.1 Inflation adjustment of maximum monthly maintenance fee.
+
+<p>The Commission may, from time to time, by regulation, adjust the dollar amount of $25 specified in subsection A of § <a href='/vacode/6.2-1817/'>6.2-1817</a> to reflect the rate of inflation from the previous date that the dollar amount was established, as measured by the Consumer Price Index or other method of measuring the rate of inflation that the Commission determines is reliable and generally accepted.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1215'>1215</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1258'>1258</a>.</p>

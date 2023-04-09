@@ -1,0 +1,3 @@
+# § 15.2-5426 Annual reports.
+
+<p>Each authority, promptly following the close of the calendar year, shall submit an annual report of its activities for the preceding year to the governing body of its member governmental unit. Each such report shall set forth a complete operating and financial statement covering the operation of the authority during such year. The authority shall cause an audit of its books and accounts to be made at least once each year by a certified public accountant, and the cost thereof may be treated as part of the cost of a project, or otherwise as part of the expense of operation of the project by such audit.</p><p>1979, c. 416, § 15.1-1629; 1997, c. 587.</p>

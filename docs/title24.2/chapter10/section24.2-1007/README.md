@@ -1,0 +1,3 @@
+# § 24.2-1007 Soliciting or accepting bribe to influence or procure vote.
+
+<p>No person shall solicit or accept directly or indirectly any money or any thing of value to influence his or another's vote in any election. Any person violating the provisions of this section shall be guilty of a Class 1 misdemeanor.</p><p>This section applies to any election and to any method used by a political party for selection of its nominees and for selection of delegates to its conventions and meetings.</p><p>Code 1950, §§ 24-405, 24-452; 1952, c. 4; 1970, c. 462, § 24.1-272; 1976, c. 616; 1993, c. 641.</p>

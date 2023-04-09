@@ -1,0 +1,3 @@
+# § 18.2-370.6 Penetration of mouth of child with lascivious intent; penalty.
+
+<p>Any person 18 years of age or older who, with lascivious intent, kisses a child under the age of 13 on the mouth while knowingly and intentionally penetrating the mouth of such child with his tongue is guilty of a Class 1 misdemeanor.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0772'>772</a>.</p>

@@ -1,0 +1,3 @@
+# § 38.2-2811 Examination into affairs of association.
+
+<p>The Commission shall examine the affairs of the association pursuant to § <a href='http://law.lis.virginia.gov/vacode/38.2-1317/'>38.2-1317</a>. The examination shall be performed in the manner prescribed in §§ <a href='http://law.lis.virginia.gov/vacode/38.2-1317/'>38.2-1317</a> through <a href='http://law.lis.virginia.gov/vacode/38.2-1321.1/'>38.2-1321.1</a>.</p><p>1976, c. 85, § 38.1-785; 1986, c. 562; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0061'>61</a>.</p>

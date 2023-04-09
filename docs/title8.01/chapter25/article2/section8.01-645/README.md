@@ -1,0 +1,3 @@
+# § 8.01-645 What petition to state; where presented.
+
+<p>The petition shall state plainly and concisely the grounds of the application, concluding with a prayer for the writ, and shall be presented to the court having jurisdiction, unless the application is to the Court of Appeals or the Supreme Court.</p><p>Code 1950, § 8-705; 1977, c. 617; 1984, c. 703.</p>

@@ -1,0 +1,3 @@
+# § 10.1-1803 Gifts, devises and bequests.
+
+<p>Gifts, devises or bequests, whether personal or real property, and the income therefrom, accepted by the Foundation, shall be deemed to be gifts to the Commonwealth, which shall be exempt from all state and local taxes, and shall be regarded as the property of the Commonwealth for the purposes of all tax laws.</p><p>1966, c. 525, § 10-165; 1988, c. 891.</p>

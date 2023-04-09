@@ -1,0 +1,3 @@
+# § 29.1-604 Hunting, etc., after compliance with requirements.
+
+<p>When the requirements specified by the Board have been certified and accepted by the Board, and when such persons are otherwise lawfully entitled to hunt game, the licensee and such other persons as he may designate, because of payment of fees or otherwise, may hunt on the licensed premises, and shoot, possess, transport and dispose of by gift any game birds or animals of the species licensed. Game birds or animals not covered by the shooting preserve license may be taken and possessed by the licensee or his guests as otherwise provided by state law or regulation.</p><p>Code 1950, § 29-42; 1987, c. 488.</p>

@@ -1,0 +1,3 @@
+# § 8.8A-502 Assertion of adverse claim against entitlement holder.
+
+<p>An action based on an adverse claim to a financial asset, whether framed in conversion, replevin, constructive trust, equitable lien, or other theory, may not be asserted against a person who acquires a security entitlement under § <a href='http://law.lis.virginia.gov/vacode/8.8A-501/'>8.8A-501</a> for value and without notice of the adverse claim.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0216'>216</a>.</p>

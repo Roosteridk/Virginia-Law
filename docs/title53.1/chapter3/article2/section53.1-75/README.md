@@ -1,0 +1,3 @@
+# § 53.1-75 Procedure after adoption.
+
+<p>The keeper of any jail so adopted for a county or city so designated shall, as to the person so conveyed to such jail, be deemed the jailer of such county or city, until the court thereof shall declare its own jail to be adequate. Thereafter, such persons shall be delivered to the sheriff of such county or city who shall convey them to the jail kept by the sheriff or jail superintendent.</p><p>Code 1950, § 53-141; 1982, c. 636; 1991, c. 383.</p>

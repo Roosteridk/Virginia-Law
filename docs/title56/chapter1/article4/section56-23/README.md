@@ -1,0 +1,3 @@
+# § 56-23 Crossing of highway by public service corporation.
+
+<p>If any public service corporation deems it necessary in the construction of its works or in changing its grade or line or in double tracking the same, or if, for any reason, it is required to cross a state highway or county road at grade, or at an elevation above the grade or below the grade, of such highway or road, it may do so under the conditions set forth in §§ <a href='http://law.lis.virginia.gov/vacode/56-24/'>56-24</a> through <a href='http://law.lis.virginia.gov/vacode/56-32/'>56-32</a>.</p><p>Code 1919, § 3885; 1920, p. 411.</p>

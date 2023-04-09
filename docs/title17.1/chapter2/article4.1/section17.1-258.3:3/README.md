@@ -1,0 +1,3 @@
+# § 17.1-258.3:3 Submission of records as electronic documents.
+
+<p>Upon written agreement with the clerk, any agency or instrumentality of the Commonwealth may submit any record to the clerk as an electronic document. The form of electronic submission shall comply with the security and data standards established by the Virginia Information Technologies Agency for any such electronic submission. Any record so submitted shall satisfy any law requiring that a document be an original, be on paper or another tangible medium, or be in writing.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0641'>641</a>.</p>

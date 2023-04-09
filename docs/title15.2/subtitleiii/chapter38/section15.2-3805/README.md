@@ -1,0 +1,3 @@
+# § 15.2-3805 Time limit for intervenors; publication of order.
+
+<p>The special court shall by order fix a time within which a voter, property owner or political subdivision not served may become a party to a proceeding instituted under this chapter, and thereafter no such petition shall be received, except for good cause shown. A copy of the order shall be published at least once a week for two successive weeks in a newspaper of general circulation in the county and in the adjoining or adjacent counties and cities.</p><p>1979, c. 85, § 15.1-982.5; 1997, c. 587.</p>

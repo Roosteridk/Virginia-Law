@@ -1,0 +1,3 @@
+# § 13.1-345 Verification no longer required; signing instrument containing misstatement as perjury.
+
+<p>A requirement in this chapter that an instrument be verified by oath need not be complied with after July 1, 1958. A person who signs any instrument delivered to the Commission as required by this chapter knowing it to contain a misstatement of fact shall be guilty of perjury.</p><p>1958, c. 564.</p>

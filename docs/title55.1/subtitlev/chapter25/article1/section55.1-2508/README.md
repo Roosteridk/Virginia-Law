@@ -1,0 +1,3 @@
+# § 55.1-2508 Intangible personal property held by insurance corporation subject to § 55.1-2501.
+
+<p>An insurance corporation holding any other intangible personal property not covered by subsection A of § <a href='/vacode/55.1-2507/'>55.1-2507</a> or § <a href='/vacode/55.1-2509/'>55.1-2509</a> shall be otherwise subject to § <a href='/vacode/55.1-2501/'>55.1-2501</a>.</p><p>1981, c. 47, § 55-210.4:1; 2003, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0750'>750</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0765'>765</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

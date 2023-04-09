@@ -1,0 +1,3 @@
+# § 19.2-11 Procedure in contempt cases.
+
+<p>No court or judge shall impose a fine upon a juror, witness or other person for disobedience of its process or any contempt, unless he either be present in court at the time, or shall have been served with a rule, returnable to a certain time, requiring him to show cause why the fine should not be imposed and shall have failed to appear and show cause.</p><p>Code 1950, § 19.1-16; 1960, c. 366; 1968, c. 639; 1975, c. 495.</p>

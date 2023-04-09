@@ -1,0 +1,3 @@
+# § 58.1-3988 Effect of order.
+
+<p>An order of exoneration under § <a href='http://law.lis.virginia.gov/vacode/58.1-3987/'>58.1-3987</a>, when delivered to the tax-collecting officer, shall restrain him from collecting so much as is thus erroneously charged. If what was so erroneously charged has been paid, the order of the court shall compel the tax collecting officer, to refund to the applicant the amount specified in the order.</p><p>Code 1950, § 58-1150; 1984, c. 675.</p>

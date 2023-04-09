@@ -1,0 +1,3 @@
+# § 15.2-2108.27 Modification.
+
+<p>No locality, without the consent of the franchisee, shall accelerate the term of, require the renegotiation of, or otherwise modify in any way, an agreement with any entity or a franchise, ordinance, permit, consent, or other authorization for such entity to use the public rights-of-way because such entity has been granted a cable franchise under this article to use the public rights-of-way for the development and operation of a cable system.</p><p>2006, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0073'>73</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0076'>76</a>.</p>

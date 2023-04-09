@@ -1,0 +1,3 @@
+# § 19.2-284 Proof of ownership in offense relating to property.
+
+<p>In a prosecution for an offense committed upon, relating to or affecting real estate, or for stealing, embezzling, destroying, injuring or fraudulently receiving or concealing any personal estate it shall be sufficient to prove that when the offense was committed the actual or constructive possession, or a general or special property, in the whole or any part of such estate was in the person or entity alleged in the indictment or other accusation to be the owner thereof.</p><p>Code 1950, § 19.1-247; 1960, c. 366; 1975, c. 495.</p>

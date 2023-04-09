@@ -1,0 +1,3 @@
+# § 19.2-252 Court ordering change of venue may admit accused to bail and recognize witnesses; remand of accused not admitted to bail.
+
+<p>When the venue is so changed, the court making the order may admit the accused to bail and shall recognize the witnesses and the accused if admitted to bail and the bail be given, to appear on some certain day before the court to which the case is removed; if the accused be not admitted to bail or the bail required be not given, the court shall remand him to its own jail and order its officer to remove him thence to the jail of the court to which the case is removed, so that he shall be there before the day for the appearance of the witnesses.</p><p>Code 1950, § 19.1-225; 1960, c. 366; 1975, c. 495.</p>

@@ -1,0 +1,3 @@
+# § 30-341 Compensation; expenses.
+
+<p>Legislative members of the Commission shall receive such compensation as provided in § <a href='http://law.lis.virginia.gov/vacode/30-19.12/'>30-19.12</a>. All members shall be reimbursed for all reasonable and necessary expenses incurred in the performance of their duties as provided in §§ <a href='http://law.lis.virginia.gov/vacode/2.2-2813/'>2.2-2813</a> and <a href='http://law.lis.virginia.gov/vacode/2.2-2825/'>2.2-2825</a>. Funding for the compensation and costs of expenses of members shall be provided by the State Corporation Commission.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0709'>709</a>.</p>

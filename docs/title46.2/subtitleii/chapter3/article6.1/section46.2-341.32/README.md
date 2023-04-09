@@ -1,0 +1,3 @@
+# § 46.2-341.32 Authority to enter into agreements.
+
+<p>The Department may procure and enter into agreements or arrangements for the purpose of participating in the Commercial Driver License System or any other similar information system established to implement the requirements of the Commercial Motor Vehicle Safety Act, and may procure and enter into other agreements or arrangements to carry out the provisions of this article.</p><p>1989, c. 705, § 46.1-372.30.</p>

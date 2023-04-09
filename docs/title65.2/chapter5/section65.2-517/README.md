@@ -1,0 +1,3 @@
+# § 65.2-517 Termination of dependency.
+
+<p>For the purpose of this title, the dependence of a widow or widower of a deceased employee shall terminate with death or remarriage, and the amount to be theretofore received by him or her shall be divided among the children or other dependents in the proportion of which they are receiving compensation, and the dependence of a child or any minor dependent, except a child or minor dependent physically or mentally incapacitated from earning a livelihood, or a full-time student, as defined in § <a href='http://law.lis.virginia.gov/vacode/65.2-515/'>65.2-515</a>, shall terminate with the attainment of eighteen years of age.</p><p>Code 1950, § 65-66; 1960, c. 298; 1968, c. 660, § 65.1-69; 1973, cc. 401, 542; 1991, c. 355.</p>

@@ -1,0 +1,3 @@
+# § 59.1-75.1 Penalty for signing false certificate.
+
+<p>A. It is unlawful for any person to sign a certificate the person knows is false in any material respect with intent that the certificate be delivered to the Commission for filing.</p><p>B. Any person who violates the provisions of this section is guilty of a Class 1 misdemeanor.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0594'>594</a>.</p>

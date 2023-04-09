@@ -1,0 +1,3 @@
+# § 23.1-2906.1 Dual enrollment; high school equivalency; workforce training.
+
+<p>Each comprehensive community college shall enter into agreements with the local school divisions it serves to facilitate dual enrollment of eligible students into a Career Pathways program preparing students to pass a high school equivalency examination offered by the local school division and a postsecondary credential, certification, or license attainment program offered by the comprehensive community college.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0645'>645</a>.</p>

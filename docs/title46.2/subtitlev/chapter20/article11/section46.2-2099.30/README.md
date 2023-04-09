@@ -1,0 +1,3 @@
+# § 46.2-2099.30 Insurance to be kept in force.
+
+<p>Sight-seeing carriers by boat, special or charter party carriers by boat and motor carriers by launch shall keep in force at all times marine protection and indemnity insurance in an amount not less than $500,000 for bodily injury and property damage.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0861'>861</a>.</p>

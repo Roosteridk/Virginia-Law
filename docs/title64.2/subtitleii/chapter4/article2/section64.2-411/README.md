@@ -1,0 +1,3 @@
+# § 64.2-411 Revival of wills after revocation.
+
+<p>Any will or codicil, or any part thereof that has been revoked pursuant to § <a href='http://law.lis.virginia.gov/vacode/64.2-410/'>64.2-410</a> shall not be revived unless such will or codicil is reexecuted in the manner required by law. Such revival operates only to the extent that the testator's intent to revive the will or codicil is shown.</p><p>Code 1950, § 64-60; 1968, c. 656, § 64.1-60; 1985, c. 431; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

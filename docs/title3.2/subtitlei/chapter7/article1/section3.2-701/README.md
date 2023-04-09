@@ -1,0 +1,3 @@
+# § 3.2-701 Administration; regulations.
+
+<p>The Commissioner shall protect the agricultural, horticultural, and other interests of the Commonwealth from plant pests and supervise and direct the execution of this article and regulations adopted hereunder.</p><p>1975, c. 29, § 3.1-188.21; 1980, c. 291; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0730'>730</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

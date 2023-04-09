@@ -1,0 +1,3 @@
+# § 20-71 Temporary orders for support.
+
+<p>At any time before the trial, upon motion of the complainant, with notice to the defendant, the court may enter such temporary order as seems just, providing for the support of the neglected spouse or children, or both, pendente lite, and may punish for violation of the order as for contempt.</p><p>1944, p. 212; Michie Suppl. 1946, § 1938; 1974, c. 464.</p>

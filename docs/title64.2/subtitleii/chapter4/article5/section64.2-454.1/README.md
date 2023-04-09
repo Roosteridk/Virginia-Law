@@ -1,0 +1,3 @@
+# § 64.2-454.1 Will contest; presumption of undue influence.
+
+<p>In any case contesting the validity of a decedent's will where a presumption of undue influence arises, the finder of fact shall presume that undue influence was exerted over the decedent unless, based on all the evidence introduced at trial, the finder of fact finds that the decedent did intend it to be his will.</p><p>2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0265'>265</a>.</p>

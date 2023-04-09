@@ -1,0 +1,3 @@
+# § 22.1-104 Same; order for referendum; notice.
+
+<p>Upon receiving such petition, the court shall enter an order setting a date for the referendum in accordance with §§ <a href='http://law.lis.virginia.gov/vacode/24.2-682/'>24.2-682</a> and <a href='http://law.lis.virginia.gov/vacode/24.2-684/'>24.2-684</a>. A certified copy of the order shall be served upon the election officials of the county. Notice of the date of the referendum and the purpose thereof shall be posted on the front door of the courthouse.</p><p>Code 1950, § 22-130.2; 1958, c. 45; 1975, c. 517; 1980, c. 559.</p>

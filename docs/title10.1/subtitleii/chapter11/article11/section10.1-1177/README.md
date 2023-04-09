@@ -1,0 +1,3 @@
+# § 10.1-1177 Authority of Department of Forestry.
+
+<p>The Department of Forestry is authorized to and responsible for (i) investigating insect infestations and disease infections which affect stands of forest trees, and (ii) devising and demonstrating control measures to interested persons. The State Forester shall administer the provisions of this article. Authority for quarantine procedure now vested in the Department of Agriculture and Consumer Services shall remain in that Department.</p><p>1952, c. 657, § 10-90.3; 1986, c. 567; 1988, c. 891.</p>

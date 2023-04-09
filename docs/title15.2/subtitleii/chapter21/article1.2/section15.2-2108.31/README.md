@@ -1,0 +1,3 @@
+# § 15.2-2108.31 Article construed.
+
+<p>The fact that any person obtains a negotiated franchise or ordinance cable franchise to provide cable services under this article shall not create any presumption that such person is providing cable services, is controlling or responsible for the management and operation of a cable system, or is a cable operator, for purposes of federal law.</p><p>2006, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0073'>73</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0076'>76</a>.</p>

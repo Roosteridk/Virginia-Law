@@ -1,0 +1,3 @@
+# § 2.2-2301 Purchase of bonds of Authority.
+
+<p>The Authority, subject to the provisions in proceedings relating to outstanding bonds as may then exist, may purchase bonds out of any funds available therefor, which shall thereupon be cancelled, at any reasonable price which, if the bonds are then redeemable, shall not exceed the redemption price (and premium, if any) then applicable plus accrued interest to the redemption date thereof.</p><p>1984, c. 749, § 9-225; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

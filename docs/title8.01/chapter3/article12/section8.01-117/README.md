@@ -1,0 +1,3 @@
+# § 8.01-117 Exceptions to sufficiency of bonds.
+
+<p>Either party may file exceptions to the sufficiency of the bond of the other or of the claimant of the property, if he has given bond, or such claimant may file exceptions to the sufficiency of the bond of either party. The court before whom the proceeding is pending, may, on the motion of either party or of the claimant, after reasonable notice to the others, pass upon such exceptions and make such order thereupon as may be just and reasonable.</p><p>Code 1950, § 8-589; 1977, c. 617; 1993, c. 841.</p>

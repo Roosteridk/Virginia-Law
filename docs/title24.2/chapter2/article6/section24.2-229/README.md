@@ -1,0 +1,3 @@
+# § 24.2-229 Appointees to qualify and give bond in thirty days.
+
+<p>All officers appointed to fill vacancies shall qualify and give bond, if bond is required, within thirty days after their appointment in like manner as provided in §§ <a href='http://law.lis.virginia.gov/vacode/15.2-1522/'>15.2-1522</a> and <a href='http://law.lis.virginia.gov/vacode/15.2-1523/'>15.2-1523</a> for the qualification of such officers when elected by the people.</p><p>Code 1950, § 24-146; 1970, c. 462, § 24.1-77; 1975, c. 515; 1993, c. 641.</p>

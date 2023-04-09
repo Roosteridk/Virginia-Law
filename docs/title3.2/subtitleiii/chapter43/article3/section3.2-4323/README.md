@@ -1,0 +1,3 @@
+# § 3.2-4323 Commissioner authorized to require registration; forms.
+
+<p>The Commissioner may require all handlers to register on forms prepared for that purpose. Such forms shall require the handler to state his name, address, and the county or city where he shall weigh and grade grain.</p><p>Code 1950, § 3-269.2; 1966, c. 433, § 3.1-348.2; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

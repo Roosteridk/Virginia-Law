@@ -1,0 +1,3 @@
+# § 33.2-257.1 Notice to be provided to property owners of pending transportation projects.
+
+<p>At least 30 days prior to any public hearing regarding a transportation project valued in excess of $100 million, the Department of Transportation shall send notification of the date, time, and place of the public hearing, by regular mail, to all owners of property within and adjacent to such project study corridor.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0733'>733</a>.</p>

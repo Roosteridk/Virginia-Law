@@ -1,0 +1,3 @@
+# § 23.1-2623 Virginia Center for Coal and Energy Research established.
+
+<p>The Virginia Center for Coal and Energy Research (the Center) is established as an interdisciplinary study, research, information, and resource facility for the Commonwealth and shall utilize the full capabilities of faculty, staff, libraries, and laboratories for the benefit of Virginians and the expansion of knowledge pertaining to coal and energy research and development. The Center shall be located at the University.</p><p>1977, c. 543, §§ 23-135.7:1, 23-135.7:2; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

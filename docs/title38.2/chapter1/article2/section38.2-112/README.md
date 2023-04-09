@@ -1,0 +1,3 @@
+# § 38.2-112 Water damage.
+
+<p>"Water damage insurance" means insurance against loss or damage to any property by water or other fluid or substance resulting from (i) the breakage or leakage of sprinklers, pumps or other apparatus erected for extinguishing fires or of water pipes or other conduits or containers, or (ii) casual water entering through leaks or openings in buildings or by seepage through building walls, but not including loss or damage resulting from flood or the rising of the waters of the ocean or its tributaries. This class of insurance includes insurance against accidental injury of such sprinklers, pumps, fire apparatus, conduits or containers.</p><p>1952, c. 317, § 38.1-8; 1986, c. 562.</p>

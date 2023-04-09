@@ -1,0 +1,3 @@
+# § 3.2-5202 Sale of products not subject to local supervision.
+
+<p>Products produced, processed, or manufactured under the regulations adopted under this chapter may be sold in all localities in the Commonwealth and shall not be subject to regulation, by ordinance or otherwise, supervision or inspection of any political subdivision wherein the products are produced, processed, manufactured, or sold.</p><p>1970, c. 48, § 3.1-562.4; 1970, c. 49, § 3.1-530.5; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

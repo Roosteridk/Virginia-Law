@@ -1,0 +1,3 @@
+# § 46.2-1175.1 Inspection of certain refuse collection and highway maintenance vehicles.
+
+<p>No safety inspection approval sticker shall be issued under this article to any publicly or privately owned vehicle (i) used for garbage and refuse collection and disposal or (ii) having a manufacturer's gross vehicle weight rating of 10,001 pounds or more and used primarily for highway repair or maintenance unless any such vehicle is equipped with a device, in good working order, which automatically emits an audible alarm signal when the vehicle is operated in reverse gear. Any such device shall be of a type approved by the Superintendent of State Police.</p><p>1989, cc. 297, 317, § 46.1-326.1:2.</p>

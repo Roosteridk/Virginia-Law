@@ -1,0 +1,3 @@
+# § 57-58 Ratio of fund-raising expenses to contributions to be included in registration statement.
+
+<p>Each charitable organization shall, as a part of its registration statement, compute the percentage that its fund-raising expenses for its preceding fiscal year bore to its support received directly from the public during such year.</p><p>Each federated fund-raising organization shall clearly disclose on any registration the percentage that is withheld from a donation designated for a member agency.</p><p>1974, c. 574; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0810'>810</a>.</p>

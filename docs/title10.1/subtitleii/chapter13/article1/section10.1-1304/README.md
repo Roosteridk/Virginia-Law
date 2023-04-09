@@ -1,0 +1,3 @@
+# § 10.1-1304 Meetings of Board; quorum.
+
+<p>The Board shall meet at least four times a year. Special meetings may be held at any time or place to be determined by the Board upon the call of the chairman or upon written request of any two members. All members shall be notified of the time and place of any meeting at least five days in advance of the meeting. A majority of the members of the Board shall constitute a quorum for the transaction of business.</p><p>1966, c. 497, § 10-17.15; 1988, c. 891; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0276'>276</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0557'>557</a>.</p>

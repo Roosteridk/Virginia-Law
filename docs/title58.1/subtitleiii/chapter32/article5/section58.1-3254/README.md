@@ -1,0 +1,3 @@
+# § 58.1-3254 Reassessment by direction of governing body.
+
+<p>Notwithstanding any other provision of this article to the contrary, there may be a general reassessment of real estate in any county or city in any year if the governing body so directs by a majority of all the members thereof, by a recorded yea and nay vote. If such general reassessment is conducted, further general reassessments shall be required only every fourth year thereafter for counties, or every second year thereafter for cities notwithstanding the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/58.1-3250/'>58.1-3250</a> and <a href='http://law.lis.virginia.gov/vacode/58.1-3252/'>58.1-3252</a> to the contrary.</p><p>Code 1950, § 58-784.3; 1950, p. 1267; 1976, c. 717; 1984, c. 675.</p>

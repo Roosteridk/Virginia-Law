@@ -1,0 +1,3 @@
+# § 53.1-67.2 Purpose.
+
+<p>The purposes of this article are to (i) provide effective protection of society and (ii) provide efficient and economical correctional services by establishing and maintaining appropriate sanction alternatives and by assisting state-responsible offenders who are incarcerated in returning to society as productive citizens, with the goal of reducing the incidence of repeat offenders.</p><p>1994, 2nd Sp. Sess., cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?943+ful+CHAP0001'>1</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?943+ful+CHAP0002'>2</a>.</p>

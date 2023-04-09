@@ -1,0 +1,3 @@
+# § 46.2-749.1 Special wildlife conservation plates.
+
+<p>A. On receipt of an application and payment of the fee prescribed by this section, the Commissioner shall issue special license plates bearing the following legend: WILDLIFE CONSERVATIONIST.</p><p>B. The annual fee for plates issued pursuant to this section shall be twenty-five dollars plus the prescribed fee for state license plates. For each such twenty-five-dollar fee collected in excess of 1,000 registrations pursuant to this section, fifteen dollars shall be paid into the state treasury and credited to the special fund known as the game protection fund.</p><p>1991, c. 113; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0747'>747</a>.</p>

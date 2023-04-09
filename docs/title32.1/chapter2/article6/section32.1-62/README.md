@@ -1,0 +1,3 @@
+# § 32.1-62 Procedure upon infant's birth.
+
+<p>In order to prevent ophthalmia neonatorum, the physician, nurse or midwife in charge of the delivery of a baby or, if none, the first attending physician shall, immediately after the baby's birth, perform upon such baby the procedure prescribed by the Board. Such action shall be duly recorded in the medical record of the baby.</p><p>Code 1950, § 32-107; 1979, c. 711.</p>

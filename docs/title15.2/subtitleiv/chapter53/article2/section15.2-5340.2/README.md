@@ -1,0 +1,3 @@
+# § 15.2-5340.2 Insurance.
+
+<p>An authority shall have the power to procure such insurance, participate in such insurance plans or provide such self-insurance, or any combination thereof, as it deems necessary or convenient to carry out the purposes and provisions of this chapter. The purchase of insurance, participation in an insurance plan, or creation of a self-insurance plan by an authority shall not be deemed a waiver or relinquishment of any sovereign immunity to which the authority or its commissioners, members, officers, directors, employees, or agents are otherwise entitled.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0658'>658</a>.</p>

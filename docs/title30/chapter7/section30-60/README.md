@@ -1,0 +1,3 @@
+# § 30-60 Auditor of Public Accounts to render assistance upon request; his relationship to Commission.
+
+<p>The Commission may request and receive the assistance of the staff of the Auditor of Public Accounts in making desired special studies and fiscal reviews within the manpower limitations of his office. The Commission may serve as an advisory and contact agency for the Auditor of Public Accounts to make such special reports as he may be required by law to submit to the General Assembly.</p><p>1973, c. 452.</p>

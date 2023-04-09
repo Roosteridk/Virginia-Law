@@ -1,0 +1,3 @@
+# § 54.1-2932 Issuance of licenses to practice.
+
+<p>Upon completion of an application satisfactory to the Board, applicants shall be granted licenses to practice medicine, osteopathy, chiropractic, or podiatry and each license shall show plainly on its face the school or branch of the healing arts in which the holder thereof is permitted to practice. All licenses shall be attested by the signature of the president and secretary of the Board, respectively.</p><p>Code 1950, § 54-309; 1958, cc. 161, 461; 1968, c. 766; 1970, c. 69; 1980, c. 157; 1985, c. 96; 1988, c. 765; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0144'>144</a>.</p>

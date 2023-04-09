@@ -1,0 +1,3 @@
+# § 15.2-5431.19 Limitations in bond resolution or trust agreement.
+
+<p>The resolution providing for the issuance of revenue bonds of the authority, and any trust agreement securing such bonds, may contain such limitations upon the issuance of additional revenue bonds as the authority deems proper. Such additional revenue bonds shall be issued under such limitations.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0643'>643</a>.</p>

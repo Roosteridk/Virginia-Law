@@ -1,0 +1,3 @@
+# § 55.1-2235 Financing of time-share programs.
+
+<p>In the developer's financing of a time-share program, the developer shall retain financial records of the schedule of payments required to be made and the payments made by it to any person or entity that is the holder of an underlying blanket mortgage, deed of trust, contract of sale, or other lien or encumbrance.</p><p>1981, c. 462, § 55-387; 1985, c. 517; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

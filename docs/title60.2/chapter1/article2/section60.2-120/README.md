@@ -1,0 +1,3 @@
+# § 60.2-120 Reimbursement of expenses of Office of Attorney General.
+
+<p>The compensation of the assistant attorneys general, together with their proper expenses incurred in the performance of their duties, shall be chargeable as administrative expense of the Commission and paid in the manner in which the compensation and expenses of employees of the Commission are paid.</p><p>Code 1950, § 60-111; 1968, c. 738, § 60.1-128; 1986, c. 480.</p>

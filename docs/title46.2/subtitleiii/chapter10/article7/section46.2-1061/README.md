@@ -1,0 +1,3 @@
+# § 46.2-1061 Sirens or exhaust whistles on emergency vehicles.
+
+<p>Every law-enforcement vehicle, every vehicle authorized to be equipped with warning lights pursuant to §§ <a href='http://law.lis.virginia.gov/vacode/46.2-1022/'>46.2-1022</a> and <a href='http://law.lis.virginia.gov/vacode/46.2-1023/'>46.2-1023</a> shall be equipped with a siren, exhaust whistle, or air horn designed to give automatically intermittent signals. Such devices shall be of types not prohibited by the Superintendent.</p><p>Code 1950, § 46-291; 1958, c. 541, § 46.1-285; 1960, c. 391; 1966, cc. 655, 664, 699; 1968, c. 89; 1980, c. 337; 1989, c. 727; 1990, c. 418.</p>

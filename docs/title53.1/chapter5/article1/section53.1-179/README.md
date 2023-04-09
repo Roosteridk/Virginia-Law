@@ -1,0 +1,3 @@
+# § 53.1-179 Purchase of services authorized.
+
+<p>The Director may purchase temporary room and board and training, counseling and rehabilitation services for probationers and parolees whom the Director deems to be in need of and eligible for such benefits and services. Implementation of this provision shall conform with the requirements of all locally-adopted zoning regulations.</p><p>Code 1950, § 53-128.6; 1968, c. 298; 1974, cc. 44, 45; 1978, c. 492; 1982, c. 636; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0759'>759</a>.</p>

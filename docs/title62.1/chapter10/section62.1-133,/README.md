@@ -1,0 +1,3 @@
+# §§ 62.1-133, 62.1-134 Repealed.
+
+<p>Repealed by Acts 1981, c. 589.</p>

@@ -1,0 +1,3 @@
+# § 15.2-6211 Forms of accounts and records; audit of same.
+
+<p>The accounts and records of the Authority showing the receipt and disbursement of funds from whatever source derived shall be in such form as the Auditor of Public Accounts prescribes, provided that such accounts correspond as nearly as possible to the accounts and records for such matters maintained by corporate enterprises. The accounts and records of the Authority shall be subject to audit pursuant to § <a href='http://law.lis.virginia.gov/vacode/30-140/'>30-140</a> and the costs of such audit services shall be borne by the Authority. The Authority's fiscal year shall be the same as the Commonwealth's.</p><p>1993, c. 982, § 15.1-1672; 1997, c. 587.</p>

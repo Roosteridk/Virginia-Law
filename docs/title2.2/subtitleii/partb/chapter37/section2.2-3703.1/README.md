@@ -1,0 +1,3 @@
+# § 2.2-3703.1 Disclosure pursuant to court order or subpoena.
+
+<p>Nothing contained in this chapter shall have any bearing upon disclosures required to be made pursuant to any court order or subpoena. No discretionary exemption from mandatory disclosure shall be construed to make records covered by such discretionary exemption privileged under the rules of discovery, unless disclosure is otherwise prohibited by law.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0319'>319</a>.</p>

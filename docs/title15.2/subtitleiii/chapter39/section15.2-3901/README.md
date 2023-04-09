@@ -1,0 +1,3 @@
+# § 15.2-3901 Ordinance petitioning court to declare eligibility.
+
+<p>The governing body of any county may, by ordinance passed by a recorded majority vote of all the members thereof, petition the circuit court for the county, alleging that the county meets the criteria set out in § <a href='http://law.lis.virginia.gov/vacode/15.2-3907/'>15.2-3907</a>, for an order declaring the county eligible for city status. The circuit court with which the petition is filed shall notify the Supreme Court, which shall appoint a special court to hear the case as prescribed by Chapter 30 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-3000/'>15.2-3000</a> et seq.) of this title.</p><p>1979, c. 85, § 15.1-977.2; 1997, c. 587.</p>

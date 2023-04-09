@@ -1,0 +1,3 @@
+# § 58.1-1615 When Department may make return for delinquent taxpayer; penalty.
+
+<p>If any person fails to make any return herein required, the Department may issue written notice, by registered mail, to such person to make such return forthwith. If such person fails or refuses to make such return, within thirty days from the date of such notice, then the Department may make such return upon such information as it may reasonably obtain, and shall assess the taxes due thereon, and add a penalty equalling twenty-five percent of such tax due and interest determined in accordance with § <a href='http://law.lis.virginia.gov/vacode/58.1-15/'>58.1-15</a> from the date such taxes were due.</p><p>Code 1950, § 58-838.15; 1977, c. 396; 1984, c. 675.</p>

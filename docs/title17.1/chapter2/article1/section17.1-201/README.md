@@ -1,0 +1,3 @@
+# § 17.1-201 Appointment of deputies; their duties; how removed, etc.
+
+<p>The Supreme Court, or any four of the justices thereof in vacation concurring in the appointment, may appoint one or more deputy clerks, who may discharge any of the official duties of the clerk during their continuance in office. Any deputy clerk may be removed from office by the Court or by any four of the justices thereof in vacation. Any such appointment or removal in vacation shall be in writing and shall be maintained with the records of the Court.</p><p>Code 1919, § 3379, § 17-34; 1934, p. 427; 1938, p. 131; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

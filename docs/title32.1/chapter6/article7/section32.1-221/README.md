@@ -1,0 +1,3 @@
+# § 32.1-221 Offenses as to tags.
+
+<p>A. It shall be unlawful to use any false or misleading statement, term or designation on any tag required by this article or to remove, deface or alter, or to attempt to remove, deface or alter any such tag or the statement of filling materials made thereon, prior to retail sale.</p><p>B. No person shall use or have in his possession with intent to use any tag provided for in this article unless such person holds a license or permit issued to him pursuant to this article. No person shall sell, give or in any way provide such tags to anyone who does not have a license or permit issued to him pursuant to this article.</p><p>Code 1950, § 32-125; 1954, c. 666; 1979, c. 711.</p>

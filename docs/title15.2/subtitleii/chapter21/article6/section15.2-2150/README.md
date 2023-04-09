@@ -1,0 +1,3 @@
+# § 15.2-2150 When approval of State Board of Health not required.
+
+<p>The approval of the State Board of Health shall not be required unless such water supply serves or proposes to serve at least the number of persons for which the approval of the State Board of Health is required under § <a href='http://law.lis.virginia.gov/vacode/32.1-172/'>32.1-172</a>.</p><p>Code 1950, § 15-754.2; 1954, c. 455; 1962, c. 623, § 15.1-342; 1997, c. 587.</p>

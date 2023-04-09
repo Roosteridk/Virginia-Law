@@ -1,0 +1,3 @@
+# § 58.1-1827 Correction of double assessments.
+
+<p>Irrespective of the foregoing provisions, when it is shown to the satisfaction of the court that there has been a double assessment in any case, one of which assessments is proper and the other erroneous, and that a proper single tax has been paid thereon, the court may order that such erroneous assessment be corrected, whether the erroneous tax has been paid or not and even though the application was not made within the period of limitation, as hereinbefore required.</p><p>Code 1950, § 58-1132; 1950, p. 598; 1972, c. 721; 1984, c. 675.</p>

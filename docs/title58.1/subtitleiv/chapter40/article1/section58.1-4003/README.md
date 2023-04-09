@@ -1,0 +1,3 @@
+# § 58.1-4003 Virginia Lottery established.
+
+<p>Notwithstanding the provisions of Article 1 (§ <a href='http://law.lis.virginia.gov/vacode/18.2-325/'>18.2-325</a> et seq.) of Chapter 8 of Title 18.2 or any other provision of law, there is hereby established as an independent agency of the Commonwealth, exclusive of the legislative, executive or judicial branches of government, the Virginia Lottery, which shall include a Director and a Virginia Lottery Board for the purpose of operating a state lottery.</p><p>1987, c. 531; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0225'>225</a>.</p>

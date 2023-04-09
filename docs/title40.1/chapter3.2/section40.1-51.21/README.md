@@ -1,0 +1,3 @@
+# § 40.1-51.21 Annual inspections.
+
+<p>At least once a year, during an actual project, the Department of Labor and Industry shall conduct an on-site unannounced inspection of each licensed asbestos contractor's, licensed RFS contractor's, and certified lead contractor's procedures in regard to installing, removing and encapsulating asbestos and lead. The Commissioner or an authorized representative shall have the power and authority to enter at reasonable times upon any property for this purpose.</p><p>1992, c. 477; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0543'>543</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0585'>585</a>.</p>

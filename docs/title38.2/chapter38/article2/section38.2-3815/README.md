@@ -1,0 +1,3 @@
+# § 38.2-3815 What benefits policies may provide.
+
+<p>Any company may provide for (i) stipulated premiums, (ii) death, annuity, endowment and disability benefits, and (iii) cash surrender and loan values to an amount not exceeding the reserve, or its equivalent, in paid-up or extended term insurance, based upon the mortality standards set forth in this chapter.</p><p>Code 1950, § 38-483; 1952, c. 317, § 38.1-515; 1986, c. 562.</p>

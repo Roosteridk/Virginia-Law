@@ -1,0 +1,3 @@
+# § 8.01-7 When court may add new parties to suit.
+
+<p>In any case in which full justice cannot be done, or the whole controversy ended, without the presence of new parties to the suit, the court, by order, may direct the clerk to issue the proper process against such new parties, and, upon the maturing of the case as to them, proceed to make such orders or decrees as would have been proper if the new parties had been made parties at the commencement of the suit.</p><p>Code 1950, § 8-129; 1977, c. 617.</p>

@@ -1,0 +1,3 @@
+# § 18.2-200 Failure to perform promise to deliver crop, etc., in return for advances.
+
+<p>If any person obtain from another an advance of money, merchandise or other thing, upon a promise in writing that he will send or deliver to such other person his crop or other property, and fraudulently fail or refuse to perform such promise, and also fail to make good such advance, he shall be deemed guilty of the larceny of such money, merchandise or other thing.</p><p>Code 1950, § 18.1-113; 1960, c. 358; 1975, cc. 14, 15.</p>

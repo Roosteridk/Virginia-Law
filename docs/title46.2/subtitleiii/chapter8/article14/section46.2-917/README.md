@@ -1,0 +1,3 @@
+# § 46.2-917 Operation of yellow motor vehicles of certain seating capacity on state highways prohibited; exceptions; penalty.
+
+<p>It shall be unlawful for any motor vehicle licensed in Virginia having a seating capacity of more than 15 persons to be operated on the highways of the Commonwealth if it is yellow, unless it is used in transporting students who attend public, private, or religious schools or used in transporting the elderly or mentally or physically handicapped persons.</p><p>Any violation of this section shall constitute a Class 1 misdemeanor.</p><p>1966, c. 586, § 46.1-169.1; 1968, c. 756; 1970, c. 521; 1989, c. 727; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0928'>928</a>.</p>

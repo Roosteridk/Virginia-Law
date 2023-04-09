@@ -1,0 +1,3 @@
+# § 18.2-32.1 Murder of a pregnant woman; penalty.
+
+<p>The willful and deliberate killing of a pregnant woman without premeditation by one who knows that the woman is pregnant and has the intent to cause the involuntary termination of the woman's pregnancy without a live birth shall be punished by a term of imprisonment of not less than ten years nor more than forty years.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0709'>709</a>.</p>

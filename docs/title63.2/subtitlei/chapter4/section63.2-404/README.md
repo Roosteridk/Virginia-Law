@@ -1,0 +1,3 @@
+# § 63.2-404 Expenses of Auditor of Public Accounts, Comptroller and State Treasurer.
+
+<p>All expenses incurred by the Auditor of Public Accounts in auditing the books, records and accounts of the Board and the Commissioner, and in rendering other services to them and all expenses incurred by the Comptroller and the State Treasurer in performing the services required by or under Subtitles II and III of this title, may be treated as administrative expenses of the Department, and paid as such.</p><p>Code 1950, § 63-112; 1968, c. 578, § 63.1-95; 1984, c. 498; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

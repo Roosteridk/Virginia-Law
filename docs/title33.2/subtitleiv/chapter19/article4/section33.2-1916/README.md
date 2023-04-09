@@ -1,0 +1,3 @@
+# § 33.2-1916 Commission control of transportation district.
+
+<p>The commission may exercise exclusive control, notwithstanding any provision of law to the contrary, of matters of regulation of fares, schedules, franchising agreements, and routing of transit facilities within the boundaries of its transportation district; however, the provisions of § <a href='http://law.lis.virginia.gov/vacode/5.1-7/'>5.1-7</a> shall be applicable to airport commissions.</p><p>1972, c. 832, § 15.1-1357.1; 1973, c. 392; 1997, c. 587, § 15.1-4516; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

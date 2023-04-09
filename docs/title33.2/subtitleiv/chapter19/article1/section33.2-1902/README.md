@@ -1,0 +1,3 @@
+# § 33.2-1902 Authorization to issue summons.
+
+<p>Conductors of railroad trains, motormen, and station and depot agents of any transportation district created pursuant to this chapter shall have the power to issue a summons for any violation of § <a href='http://law.lis.virginia.gov/vacode/18.2-160.1/'>18.2-160.1</a> with respect to any train operated by or under contract with such transportation district.</p><p>1988, c. 762, § 15.1-1344.1; 1997, c. 587, § 15.1-4503; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

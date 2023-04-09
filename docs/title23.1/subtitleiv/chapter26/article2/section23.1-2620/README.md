@@ -1,0 +1,3 @@
+# § 23.1-2620 Centers; executive director.
+
+<p>An executive director shall be appointed to administer the Centers and carry out the research programs at the Centers. The executive director shall serve at the pleasure of and be answerable to the Dean of the College of Agriculture and Life Sciences of the University.</p><p>1985, c. 505, § 23-155.04; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

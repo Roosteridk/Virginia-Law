@@ -1,0 +1,3 @@
+# § 32.1-40 Authority of Commissioner to examine medical records.
+
+<p>Every practitioner of the healing arts and every person in charge of any medical care facility shall permit the Commissioner or his designee to examine and review any medical records which he has in his possession or to which he has access upon request of the Commissioner or his designee in the course of investigation, research or studies of diseases or deaths of public health importance. No such practitioner or person shall be liable in any action at law for permitting such examination and review.</p><p>Code 1950, § 32-10.1; 1960, c. 507; 1979, c. 711.</p>

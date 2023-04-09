@@ -1,0 +1,3 @@
+# § 8.01-186 Further relief.
+
+<p>Further relief based on a declaratory judgment order or decree may be granted whenever necessary or proper. The application shall be by motion to a court having jurisdiction to grant the relief. If the application is deemed sufficient the court shall, on reasonable notice, require an adverse party whose rights have been adjudicated by the declaration of right to show cause why further relief should not be granted forthwith.</p><p>Code 1950, § 8-581; 1977, c. 617.</p>

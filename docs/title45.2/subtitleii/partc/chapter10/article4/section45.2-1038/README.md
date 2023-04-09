@@ -1,0 +1,3 @@
+# § 45.2-1038  Recordation and indexing of lien; notice.
+
+<p>It is the duty of the clerk in whose office the statement described in § <a href='/vacode/45.2-1037/'>45.2-1037</a> is filed to record such statement in the deed books of such office and to index such recording in the general index of deeds. Such indexing shall be made in the name of the Commonwealth as well as the owner of the property and shall show the type of such lien. From the time of such recording and indexing, all persons shall be deemed to have notice thereof.</p><p>1979, c. 290, § 45.1-266; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

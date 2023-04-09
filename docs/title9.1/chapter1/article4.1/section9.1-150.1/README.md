@@ -1,0 +1,3 @@
+# § 9.1-150.1 Definitions.
+
+<p>In addition to the definitions set forth in § <a href='http://law.lis.virginia.gov/vacode/9.1-101/'>9.1-101</a>, as used in this article, unless the context requires a different meaning:</p><p>"Special conservator of the peace" means any individual appointed pursuant to § <a href='http://law.lis.virginia.gov/vacode/19.2-13/'>19.2-13</a> on or after September 15, 2004.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0922'>922</a>.</p>

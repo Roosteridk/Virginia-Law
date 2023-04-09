@@ -1,0 +1,3 @@
+# § 58.1-3120 If books for preceding year not made out, how supplied.
+
+<p>A. If no land book or personal property book was made out for the year immediately preceding the year in which a commissioner takes office, the commissioner of the revenue for such county or city shall proceed to complete books for such year, according to the rate of tax which then existed.</p><p>B. All proceedings required by this article in regard to assessment books shall be had with and under the books of such year and the sums charged therein shall be collected and accounted for in like manner.</p><p>Code 1950, §§ 58-887, 58-888; 1984, c. 675.</p>

@@ -1,0 +1,3 @@
+# § 18.2-126 Violation of sepulture; defilement of a dead human body; penalties.
+
+<p>A. If a person unlawfully disinters or displaces a dead human body, or any part of a dead human body which has been deposited in any vault, grave or other burial place, he is guilty of a Class 4 felony.</p><p>B. If a person willfully and intentionally physically defiles a dead human body he is guilty of a Class 6 felony. For the purposes of this section, the term "defile" shall not include any autopsy or the recovery of organs or tissues for transplantation, or any other lawful purpose.</p><p>Code 1950, § 18.1-243; 1960, c. 358; 1975, cc. 14, 15; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0306'>306</a>.</p>

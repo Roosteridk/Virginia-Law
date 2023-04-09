@@ -1,0 +1,3 @@
+# § 53.1-31.2 Notification of child support due by a prisoner.
+
+<p>The Department of Corrections shall cooperate with the Division of Child Support Enforcement to provide at regular intervals, but at least annually, a list of persons incarcerated. Upon receipt of such list, the Division shall identify those prisoners who are the subject of a court or administrative order requiring them to pay child support and the amount of each prisoner's obligation. The Division shall then inform the Department of the prisoners owing child support payments and the Department may inform the prisoner upon his reentry the amount of his arrearage.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0763'>763</a>.</p>

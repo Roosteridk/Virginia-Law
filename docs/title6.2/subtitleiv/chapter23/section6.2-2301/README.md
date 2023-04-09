@@ -1,0 +1,3 @@
+# § 6.2-2301 Access to joint safe deposit box.
+
+<p>When a box is rented from any company transacting business in the Commonwealth under the name of two or more persons with (i) the right of access being given to either or (ii) access to either the survivor or survivors of such persons, any one or more of such persons, whether the other or others be living or not shall have the right of access to the box and may remove therefrom its contents. In the case of such a removal, the company shall be exempt from any liability for permitting such person access thereto.</p><p>Code 1950, § 6-264; 1966, c. 584, § 6.1-332; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

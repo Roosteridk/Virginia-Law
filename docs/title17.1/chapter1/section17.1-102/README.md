@@ -1,0 +1,3 @@
+# § 17.1-102 Justices and judges not permitted to practice law or seek or hold elective or other office.
+
+<p>No justice or judge shall, during his continuance in office, engage in the practice of law within or without the Commonwealth, or seek or accept any nonjudicial elective office, or hold any other office of public trust, or engage in any other incompatible activity.</p><p>1971, Ex. Sess., c. 50, § 17-3.1; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

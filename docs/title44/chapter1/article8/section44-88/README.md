@@ -1,0 +1,3 @@
+# § 44-88 Incorporation into the Virginia Defense Force.
+
+<p>Whenever the Governor orders out the unorganized militia or any part thereof, it shall be incorporated into the Virginia Defense Force until relieved from service.</p><p>1944, p. 25; Michie Suppl. 1946, § 2673(73); 1984, c. 765; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0572'>572</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0586'>586</a>.</p>

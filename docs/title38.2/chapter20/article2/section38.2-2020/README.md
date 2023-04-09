@@ -1,0 +1,3 @@
+# § 38.2-2020 Rate service organization may procure actuarial, technical or other services.
+
+<p>Any rate service organization subject to this chapter may subscribe for or purchase actuarial, technical or other services if these services are available without discrimination to all members of and subscribers to the rate service organization.</p><p>Code 1950, §§ 38-204, 38-253.14, 38-253.61; 1952, c. 317, § 38.1-270; 1986, c. 562.</p>

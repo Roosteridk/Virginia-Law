@@ -1,0 +1,3 @@
+# § 58.1-468 Failure of employer to pay over tax withheld.
+
+<p>In the event that any employer deducts and withholds taxes from the compensation of an employee but fails to pay over the money so deducted and withheld to the Commonwealth, such employee shall not be held liable for the payment of such taxes but shall be entitled to a credit for the moneys so deducted and withheld as if the same had legally been paid over by the employer as required by this chapter. The burden of proving that such an employer deducted and lawfully withheld state income tax shall rest upon the employee.</p><p>Code 1950, § 58-151.8:1; 1970, c. 369; 1984, c. 675.</p>

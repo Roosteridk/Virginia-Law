@@ -1,0 +1,3 @@
+# § 45.2-723  Blasting cables.
+
+<p>Each blasting cable shall be:</p><p>1. Well insulated and as long as necessary to allow the shot firer to move to a safe place around a corner;</p><p>2. Short-circuited at the battery end until it is ready to attach to the blasting unit;</p><p>3. Staggered as to length, or shall have its ends kept well separated when attached to the detonator leg wires; and</p><p>4. Kept clear of power wires and all other possible sources of active or stray electric currents.</p><p>Code 1950, § 45-53.6; 1954, c. 191; 1966, c. 594, § 45.1-49; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.130; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

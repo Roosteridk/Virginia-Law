@@ -1,0 +1,3 @@
+# § 23.1-3012 Exemptions.
+
+<p>The provisions of the Virginia Personnel Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-2900/'>2.2-2900</a> et seq.), the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.), and the Virginia Public Procurement Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4300/'>2.2-4300</a> et seq.) do not apply to the Medical School in its exercise of any power conferred under this chapter.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

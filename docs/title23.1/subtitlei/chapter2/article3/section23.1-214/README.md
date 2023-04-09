@@ -1,0 +1,3 @@
+# § 23.1-214 Certified mail; subsequent mail or notices may be sent by regular mail.
+
+<p>Whenever the Council is required to send any mail or notice by certified mail pursuant to this article and such mail or notice is sent certified mail, return receipt requested, the Council may send any subsequent, identical mail or notice by regular mail.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0566'>566</a>, § 23-276.1:1; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

@@ -1,0 +1,3 @@
+# § 10.1-1189 Department to review report and make statement to Governor.
+
+<p>Within sixty days of the receipt of the environmental impact report by the Department, the Department shall review and make a statement to the Governor commenting on the environmental impact of each major state facility. The statement of the Department shall be available to the General Assembly and to the general public at the time of submission by the Department to the Governor.</p><p>1973, c. 384, § 10-17.109; 1974, c. 270, § 10.1-1209; 1977, c. 667; 1988, c. 891; 1992, c. 887.</p>

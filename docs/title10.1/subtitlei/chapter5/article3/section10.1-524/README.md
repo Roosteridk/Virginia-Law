@@ -1,0 +1,3 @@
+# § 10.1-524 Names of nominees furnished electoral board; how ballots printed, etc.
+
+<p>The names of all nominees shall be furnished to the secretary of the electoral board of the respective county or city and shall be printed upon ballots. The ballots shall be printed, voted, counted and canvassed in conformity with the provisions of general law relating to elections, except as herein otherwise provided.</p><p>Code 1950, § 21-37; 1960, c. 208; 1970, c. 480; 1988, c. 891.</p>

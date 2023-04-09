@@ -1,0 +1,3 @@
+# § 38.2-4118 Benefits not attachable.
+
+<p>No money or other benefit, charity, relief or aid to be paid, provided or rendered by any society, shall be liable to attachment, garnishment or other process, or to be seized, taken, appropriated or applied by any legal or equitable process or operation of law to pay any debt or liability of a member or beneficiary, or any other person who may have a right thereunder, either before or after payment by the society.</p><p>Code 1950, §§ 38-285, 38.1-601; 1952, c. 317, § 38.1-638.33; 1968, c. 654; 1986, c. 562.</p>

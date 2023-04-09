@@ -1,0 +1,3 @@
+# § 8.01-677 Errors corrected on motion instead of writ of error coram vobis.
+
+<p>For any clerical error or error in fact for which a judgment may be reversed or corrected on writ of error coram vobis, the same may be reversed or corrected on motion, after reasonable notice, by the court.</p><p>Code 1950, § 8-485; 1977, c. 617.</p>

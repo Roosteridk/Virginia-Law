@@ -1,0 +1,3 @@
+# § 62.1-44.37 Resolution of conflicts as to water use; public hearings.
+
+<p>The Board shall upon application of any state agency or political subdivision, and may upon its own motion, recommend a plan to resolve any conflict as to actual or proposed water use or other practice directly affecting water use that involves a potential or existing conflict between water use functions under the jurisdiction of different state agencies. If requested by any state agency or political subdivision directly affected, or at the Board's discretion, the Board shall hold public hearings on such question at which all persons concerned shall be heard.</p><p>Code 1950, § 10-17.2; 1966, c. 561; 1972, c. 728.</p>

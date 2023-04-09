@@ -1,0 +1,3 @@
+# § 46.2-1249 Alteration of disabled parking license plates or placards; penalty.
+
+<p>A. Any person who alters a disabled parking license plate, DV disabled parking license plate which has been issued under subsection B of § <a href='http://law.lis.virginia.gov/vacode/46.2-739/'>46.2-739</a>, organizational removable windshield placard, permanent removable windshield placard, or temporary removable windshield placard shall be guilty of a Class 2 misdemeanor.</p><p>B. The local governing body of any county, city, or town may by ordinance incorporate this provision by reference.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0783'>783</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0904'>904</a>.</p>

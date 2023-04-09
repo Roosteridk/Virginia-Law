@@ -1,0 +1,3 @@
+# § 44-112 Requisition for federal funds.
+
+<p>The Governor or such other state officer as may be authorized by law, shall make requisition upon the Secretary of Defense, through the National Guard Bureau, for such state allotment from federal funds as may be necessary for the support of the militia and as may be authorized by the laws and regulations of the United States.</p><p>1930, p. 970; Michie Code 1942, § 2673(97); R. P. 1948, § 44-112; 1958, c. 393.</p>

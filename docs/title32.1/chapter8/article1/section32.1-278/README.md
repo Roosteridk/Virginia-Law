@@ -1,0 +1,3 @@
+# § 32.1-278 Appointment and qualifications of Chief Medical Examiner.
+
+<p>A Chief Medical Examiner, who shall be a forensic pathologist licensed to practice medicine in this Commonwealth, shall be appointed by the Commissioner with the approval of the Board.</p><p>Code 1950, § 32-31.10; 1960, c. 366; 1975, c. 475; 1979, c. 711.</p>

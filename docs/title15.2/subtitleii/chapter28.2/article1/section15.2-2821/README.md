@@ -1,0 +1,3 @@
+# § 15.2-2821 Applicability.
+
+<p>Nothing in this chapter shall be construed to:</p><p>1. Permit smoking where it is otherwise prohibited or restricted by other applicable provisions of law; or</p><p>2. Regulate smoking in retail tobacco stores, tobacco warehouses, or tobacco manufacturing facilities.</p><p>2009, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0153'>153</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0154'>154</a>.</p>

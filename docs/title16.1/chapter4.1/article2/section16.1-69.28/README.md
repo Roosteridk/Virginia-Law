@@ -1,0 +1,3 @@
+# § 16.1-69.28 Commitment of insane, etc., persons.
+
+<p>A judge of a district court shall have and may exercise, concurrently with special justices appointed for the purpose, the jurisdiction conferred by general law upon justices, and special justices in all matters in connection with the adjudication and commitment of incapacitated persons, including drug-addicted and inebriate persons, and the institution and conduct of proceedings thereof. Such proceedings may be had at any place within the jurisdiction of the court over which such judge presides.</p><p>1972, c. 708; 1973, c. 546; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0801'>801</a>.</p>

@@ -1,0 +1,3 @@
+# § 2.2-4377 Penalty for violation.
+
+<p>Any person convicted of a willful violation of any provision of this article shall be guilty of a Class 1 misdemeanor. Upon conviction, any public employee, in addition to any other fine or penalty provided by law, shall forfeit his employment.</p><p>1982, c. 647, § 11-80; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-1546 Assets of trusts or equivalent arrangements for postemployment benefits other than pensions.
+
+<p>The assets of any trust or equivalent arrangement for postemployment benefits other than pensions shall be exempt from state and local taxation, and the assets of any such trust or equivalent arrangement shall not be subject to execution, attachment, garnishment, or any other process.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0710'>710</a>.</p>

@@ -1,0 +1,3 @@
+# § 24.2-430 Appeal from decision of registrar.
+
+<p>Any person whose registration was cancelled in accordance with the decision of the general registrar pursuant to § <a href='http://law.lis.virginia.gov/vacode/24.2-429/'>24.2-429</a>, shall have the right of appeal, as provided in § <a href='http://law.lis.virginia.gov/vacode/24.2-422/'>24.2-422</a>, to the circuit court of the county or city in which he offers to register. Any qualified voter of the county or city shall have the same right of appeal from the decision of the general registrar refusing to cancel the registration of any person alleged to be improperly registered.</p><p>Code 1950, §§ 24-99, 24-109; 1970, c. 462, § 24.1-62; 1993, c. 641.</p>

@@ -1,0 +1,3 @@
+# § 15.2-3603 Request for charter.
+
+<p>At the session of the General Assembly following its incorporation, the town shall request the General Assembly to grant it a charter.</p><p>No judge shall grant a town a charter. Until a town is granted a charter by the General Assembly, the town's affairs shall be conducted exclusively under the provisions of general law.</p><p>1980, c. 45, § 15.1-967.2; 1997, c. 587.</p>

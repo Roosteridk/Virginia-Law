@@ -1,0 +1,3 @@
+# § 60.2-519.1 Bad check charge.
+
+<p>Any check submitted for payment of taxes due as prescribed by § <a href='http://law.lis.virginia.gov/vacode/60.2-511/'>60.2-511</a>, which is dishonored by the payer, shall bear a bad check charge of twenty-five dollars. Charges collected pursuant to this section shall be paid into the Special Unemployment Compensation Administration Fund established by § <a href='http://law.lis.virginia.gov/vacode/60.2-314/'>60.2-314</a>.</p><p>1987, c. 114.</p>

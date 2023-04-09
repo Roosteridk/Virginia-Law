@@ -1,0 +1,3 @@
+# § 38.2-4813 Commission to make rules and regulations.
+
+<p>The Commission may make, approve and adopt reasonable rules and regulations consistent with this chapter to effect the purposes of this chapter.</p><p>Code 1950, § 38.1-314.14; 1960, c. 503; 1979, c. 513, § 38.1-327.58; 1984, c. 719; 1986, c. 562.</p>

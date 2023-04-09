@@ -1,0 +1,3 @@
+# § 23.1-2804 Program of instruction to educate and train teachers.
+
+<p>The university shall maintain a program of instruction to educate and train teachers for the public elementary and secondary schools of the Commonwealth without excluding other programs of instruction.</p><p>Code 1919, § 934, § 23-47; 1960, c. 180; 1962, c. 69; 1972, c. 35; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

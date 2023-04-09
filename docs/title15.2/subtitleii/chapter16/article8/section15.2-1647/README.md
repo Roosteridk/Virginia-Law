@@ -1,0 +1,3 @@
+# § 15.2-1647 Removal of court.
+
+<p>As soon as the courthouse is completed, the board of supervisors shall certify the fact to the judge of the circuit court for the county, who shall, after sixty days' notice, to be published in a newspaper in the county if any, and if none, then in a newspaper having general circulation in the county, order his court to be held in the new location.</p><p>Code 1950, § 15-46; 1962, c. 623, § 15.1-562; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 18.2-323.01 Prohibition against disposal of dead body; penalty.
+
+<p>It shall be unlawful for any person to dispose of a dead body as defined in § <a href='http://law.lis.virginia.gov/vacode/32.1-249/'>32.1-249</a> (i) on private property without the written permission of the landowner or (ii) on public property.</p><p>A violation of this section shall be punishable as a Class 1 misdemeanor.</p><p>1992, c. 883.</p>

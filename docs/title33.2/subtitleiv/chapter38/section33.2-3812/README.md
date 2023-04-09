@@ -1,0 +1,3 @@
+# § 33.2-3812 Tax revenues of the Commonwealth or any other political subdivisions not pledged.
+
+<p>Nothing in this chapter shall be construed as authorizing the pledging of the faith and credit of the Commonwealth, or any of its revenues, or the faith and credit of any other political subdivision of the Commonwealth, or any of its revenues, for the payment of any bonds issued by the authority.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0353'>353</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0354'>354</a>.</p>

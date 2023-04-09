@@ -1,0 +1,3 @@
+# § 8.01-220.1 Defense of interspousal immunity abolished as to certain causes of action arising on or after July 1, 1981.
+
+<p>The common-law defense of interspousal immunity in tort is abolished and shall not constitute a valid defense to any such cause of action arising on or after July 1, 1981.</p><p>1981, c. 451.</p>

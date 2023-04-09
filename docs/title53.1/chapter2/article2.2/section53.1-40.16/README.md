@@ -1,0 +1,3 @@
+# § 53.1-40.16 Education for pregnant prisoners.
+
+<p>The Department shall provide, to the extent practicable, educational programming for prisoners known to be pregnant related to (i) prenatal care, (ii) pregnancy-specific hygiene, (iii) parenting skills, (iv) the impact of alcohol and drugs on the fetus, (v) postpartum recovery health, and (vi) the general health of children.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0526'>526</a>.</p>

@@ -1,0 +1,3 @@
+# § 58.1-4017 Alteration and forgery; presentation of counterfeit or altered ticket or share; penalty.
+
+<p>Any person who forges, alters or fraudulently makes any lottery ticket or share with intent to present for payment or to transfer to another person to be presented for payment or knowingly presents for payment or transfers to another person to be presented for payment such forged, altered or fraudulently made counterfeit lottery ticket or share sold pursuant to this chapter is guilty of a Class 6 felony.</p><p>1987, c. 531; 1989, c. 478; 1990, c. 732.</p>

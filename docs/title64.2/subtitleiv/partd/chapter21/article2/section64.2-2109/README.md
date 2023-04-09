@@ -1,0 +1,3 @@
+# § 64.2-2109 Exclusive and continuing jurisdiction.
+
+<p>Except as otherwise provided in § <a href='http://law.lis.virginia.gov/vacode/64.2-2108/'>64.2-2108</a>, a court that has appointed a guardian or issued a conservatorship order consistent with this chapter has exclusive and continuing jurisdiction over the proceeding until it is terminated by the court or the appointment or order expires by its own terms.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0518'>518</a>, § 37.2-1041; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

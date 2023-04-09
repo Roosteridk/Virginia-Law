@@ -1,0 +1,3 @@
+# § 20-88.91 Partial enforcement.
+
+<p>If a tribunal of the Commonwealth does not recognize and enforce a Convention support order in its entirety, it shall enforce any severable part of the order. An application or direct request may seek recognition and partial enforcement of a Convention support order.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0727'>727</a>.</p>

@@ -1,0 +1,3 @@
+# § 56-484.25 Exemption for certain counties.
+
+<p>Notwithstanding any provision of this article to the contrary, the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/56-484.22/'>56-484.22</a> and <a href='http://law.lis.virginia.gov/vacode/56-484.23/'>56-484.23</a> shall not apply with respect to any multiline telephone system located in a county that is not served by an enhanced 9-1-1 service system, until the later to occur of (i) 120 days after the date an enhanced 9-1-1 service system for the county commences operating or (ii) July 1, 2009.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0427'>427</a>.</p>

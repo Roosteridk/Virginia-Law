@@ -1,0 +1,3 @@
+# § 18.2-423 Burning cross on property of another or public place with intent to intimidate; penalty; prima facie evidence of intent.
+
+<p>It shall be unlawful for any person or persons, with the intent of intimidating any person or group of persons, to burn, or cause to be burned, a cross on the property of another, a highway or other public place. Any person who shall violate any provision of this section shall be guilty of a Class 6 felony.</p><p>Any such burning of a cross shall be prima facie evidence of an intent to intimidate a person or group of persons.</p><p>Code 1950, §§ 18.1-365 through 18.1-367; 1960, c. 358; 1968, c. 350; 1975, cc. 14, 15; 1983, c. 337.</p>

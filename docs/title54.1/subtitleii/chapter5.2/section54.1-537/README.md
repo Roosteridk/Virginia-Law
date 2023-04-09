@@ -1,0 +1,3 @@
+# § 54.1-537 Required records.
+
+<p>A. An athlete agent shall create and retain for five years records of the following:</p><p>1. The name and address of each student-athlete represented by the agent;</p><p>2. Each agency contract entered into by the agent; and</p><p>3. The direct costs incurred by the agent in the recruitment or solicitation of each student-athlete to enter into an agency contract.</p><p>B. Records described in subsection A shall be open to inspection by the Director during normal business hours.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0481'>481</a>, § 54.1-530.</p>

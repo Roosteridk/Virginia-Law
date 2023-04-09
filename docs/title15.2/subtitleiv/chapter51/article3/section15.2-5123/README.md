@@ -1,0 +1,3 @@
+# § 15.2-5123 Sewage treatment plants to include certain capability.
+
+<p>Whenever an authority is constructing a new sewage treatment plant, the facility shall be designed and constructed so that it has the capability to treat the sewage from all onsite sewage disposal systems which are not served by another approved disposal site located within the area of the locality or localities which created the authority to be served by such plant.</p><p>1986, c. 329, § 15.1-1239.1; 1997, c. 587.</p>

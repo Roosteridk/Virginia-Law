@@ -1,0 +1,3 @@
+# § 30-162 Disclosure of certain information by employee a misdemeanor.
+
+<p>Any employee of the Commission who discloses to any person other than the Commission or an officer having the power to appoint one or more of the Commissioners the name of any witness appearing before the Commission in a private hearing or discloses any information obtained or given in a private hearing except as directed by the Governor, a court of record or the Commission, shall be guilty of a Class 1 misdemeanor.</p><p>1972, c. 766, § 9-137; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

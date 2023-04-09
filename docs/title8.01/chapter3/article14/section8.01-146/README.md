@@ -1,0 +1,3 @@
+# § 8.01-146 When vendee, etc., entitled to conveyance of legal title, vendor cannot recover.
+
+<p>A vendor, or any claiming under him, shall not, at law any more than in equity, recover against a vendee, or those claiming under him, lands sold by such vendor to such vendee, when there is a writing, stating the purchase and the terms thereof, signed by the vendor or his agent and there has been such payment or performance of what was contracted to be paid or performed on the part of the vendee, as would in equity entitle him, or those claiming under him, to a conveyance of the legal title of such land from the vendor, or those claiming under him, without condition.</p><p>Code 1950, § 8-816; 1977, c. 617.</p>

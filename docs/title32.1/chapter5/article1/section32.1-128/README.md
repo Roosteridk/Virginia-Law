@@ -1,0 +1,3 @@
+# § 32.1-128 Applicability to hospitals and nursing homes for practice of religious tenets.
+
+<p>Nothing in this article shall be construed to authorize or require the interference with or prevention of the establishment or operation of a hospital or nursing home for the practice of religious tenets of any recognized church or denomination in the ministration to the sick and suffering by mental or spiritual means without the use of any drug or material remedy, whether gratuitously or for compensation, provided the statutes and regulations on environmental protection and life safety are complied with.</p><p>Code 1950, § 32-301; 1972, c. 36; 1979, c. 711.</p>

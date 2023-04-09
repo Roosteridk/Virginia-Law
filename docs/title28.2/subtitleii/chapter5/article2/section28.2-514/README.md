@@ -1,0 +1,3 @@
+# § 28.2-514 Possession of shucked oysters; penalty.
+
+<p>It is unlawful for any person to possess more than one-half gallon of shucked oysters on board a boat harvesting on the public rocks.</p><p>A violation of this section is a Class 3 misdemeanor.</p><p>Code 1950, § 28-141; 1960, c. 517; 1962, c. 406, § 28.1-124; 1964, c. 393; 1966, c. 684; 1968, c. 747; 1979, c. 606; 1981, c. 52; 1985, c. 125; 1992, c. 836.</p>

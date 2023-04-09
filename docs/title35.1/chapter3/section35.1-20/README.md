@@ -1,0 +1,3 @@
+# § 35.1-20 Issuance and denial of licenses.
+
+<p>The Commissioner shall issue a license for each hotel, restaurant, summer camp, and campground which, after inspection, is found to be in compliance with all applicable regulations and provisions of this title. The Commissioner shall notify by certified mail any applicant denied a license of the reasons for such denial.</p><p>1981, c. 468.</p>

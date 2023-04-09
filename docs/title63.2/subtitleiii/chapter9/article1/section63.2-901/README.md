@@ -1,0 +1,3 @@
+# § 63.2-901 Supervision of placement of children in homes.
+
+<p>The local director shall supervise the placement in suitable homes of children placed through an agreement with the parents or guardians or entrusted or committed to the local board pursuant to §§ <a href='http://law.lis.virginia.gov/vacode/63.2-900/'>63.2-900</a>, <a href='http://law.lis.virginia.gov/vacode/63.2-902/'>63.2-902</a> and <a href='http://law.lis.virginia.gov/vacode/63.2-903/'>63.2-903</a>.</p><p>Code 1950, § 63-89; 1968, c. 578, § 63.1-67.2; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0865'>865</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

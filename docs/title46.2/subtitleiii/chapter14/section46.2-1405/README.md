@@ -1,0 +1,3 @@
+# § 46.2-1405 Municipal licenses and taxes.
+
+<p>No county, city, or town may impose a tax on or require a license, including business licenses or gross receipts taxes, for a ridesharing arrangement using a motor vehicle with a seating capacity for not more than fifteen persons, including the driver.</p><p>1981, c. 218, § 46.1-561; 1989, c. 727; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0337'>337</a>.</p>

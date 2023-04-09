@@ -1,0 +1,3 @@
+# § 3.2-6541 Authority to prohibit training of attack dogs.
+
+<p>Fairfax County may enact an ordinance that prohibits persons from training dogs on residential property to attack. As used in this section, "attack" means to attack or respond aggressively, either with or without command. Any such ordinance shall exempt from its provisions the training of dogs owned by any person who resides on the property.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0848'>848</a>, § 3.1-796.93:2; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

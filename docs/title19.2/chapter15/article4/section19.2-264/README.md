@@ -1,0 +1,3 @@
+# § 19.2-264 When jury need not be kept together in felony case; sufficient compliance with requirement that jury be kept together.
+
+<p>In any case of a felony the jury shall not be kept together unless the court otherwise directs. Whenever a jury is required to be kept together, it shall be deemed sufficient compliance although the court for good cause permits one or more of such jurors to be separated from the others; provided all such jurors, whether separated or not, be kept in charge of officers provided therefor.</p><p>Code 1950, §§ 8-208.31, 8-208.32; 1973, c. 439; 1975, c. 495.</p>

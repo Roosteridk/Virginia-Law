@@ -1,0 +1,3 @@
+# § 21-402 Changing assessments to conform to judgment.
+
+<p>Where the board of viewers has confirmed an assessment for the construction of any public levee, ditch, or drain, and such assessment has been modified by the court to which an appeal has been taken, but for some unforeseen cause it cannot be collected, the board of viewers shall have the power to change or modify the assessments as originally confirmed to conform to the judgment of the higher court, and to cover any deficit that may have been caused by the order of the court or unforeseen occurrence.</p><p>Code 1919, § 1776; 1926, p. 624; 1954, c. 642.</p>

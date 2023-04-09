@@ -1,0 +1,3 @@
+# § 6.2-2216.2 Refinancing of motor vehicle title loan.
+
+<p>Subject to subsection F of § <a href='/vacode/6.2-2216.3/'>6.2-2216.3</a>, a licensee may refinance a title loan, provided that the refinanced loan is also a title loan.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1215'>1215</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1258'>1258</a>.</p>

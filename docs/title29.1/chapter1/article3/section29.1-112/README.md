@@ -1,0 +1,3 @@
+# § 29.1-112 Payment of license and permit fees.
+
+<p>The Director may authorize the acceptance of any method of payment authorized by § <a href='http://law.lis.virginia.gov/vacode/2.2-614.1/'>2.2-614.1</a> in lieu of money for payment of any fees collected by the Department or agents acting on behalf of the Department for any licenses or permits issued under this title or for any merchandise sold by the Department.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0254'>254</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0719'>719</a>.</p>

@@ -1,0 +1,3 @@
+# § 56-22 Change of course of railroad, etc., to avoid crossings.
+
+<p>If any public service corporation desires that the course of any other railroad, turnpike, canal, or other works shall be changed to avoid the necessity of any crossing, or frequent crossings of the same, the change may be made in such manner and on such terms as may be agreed on by the company desiring the change, and the company, person, or county owning or having charge of the works to be affected by such change.</p><p>Code 1919, § 3884.</p>

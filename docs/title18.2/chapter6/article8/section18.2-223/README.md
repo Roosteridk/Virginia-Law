@@ -1,0 +1,3 @@
+# § 18.2-223 Going out of business sales; permit required.
+
+<p>It shall be unlawful for any person to advertise, or conduct, a sale for the purpose of discontinuing a retail business, or to modify the word "sale" in any advertisement with the words "going out of business" or any other words which tend to insinuate that the retail business is to be discontinued and the merchandise liquidated, unless such person obtains a permit to conduct such sale from the city, town or county, or from each city, town or county, wherein such sale is to be conducted.</p><p>A violation of the provisions of this section shall be punishable as a Class 1 misdemeanor.</p><p>Code 1950, § 59.1-53.1; 1972, c. 399; 1975, cc. 14, 15.</p>

@@ -1,0 +1,3 @@
+# § 22.1-96 Proration of operating cost, expenditures for capital outlay purposes and indebtedness for construction of buildings in certain school divisions.
+
+<p>In a school division composed of part or all of more than one county or city, the operating cost as well as the expenditures for capital outlay purposes and indebtedness for the construction of school buildings shall be on a pro rata basis on enrollment of pupils unless some other basis is agreed upon by the division school board and the governing bodies of the participating counties and cities.</p><p>Code 1950, § 22-100.9; 1954, c. 391; 1956, c. 671; 1971, Ex. Sess., c. 161; 1980, c. 559.</p>

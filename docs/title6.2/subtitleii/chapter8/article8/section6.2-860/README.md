@@ -1,0 +1,3 @@
+# § 6.2-860 Bank to be managed by board of directors; number of directors.
+
+<p>The affairs of every bank incorporated under the laws of the Commonwealth shall be managed by a board of directors. The board shall consist of not less than five individuals.</p><p>Code 1950, § 6-36; 1966, c. 584, § 6.1-45; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0268'>268</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

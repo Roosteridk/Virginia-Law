@@ -1,0 +1,3 @@
+# § 2.2-2339.1 Fort Monroe Master Plan; approval by Governor.
+
+<p>The Fort Monroe Master Plan shall be consistent with all preservation commitments and obligations agreed to by the Commonwealth. The Master Plan shall be approved by the Governor before it becomes effective.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0436'>436</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0482'>482</a>.</p>

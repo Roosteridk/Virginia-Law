@@ -1,0 +1,3 @@
+# § 36-55.46 Commonwealth not liable on notes and bonds.
+
+<p>The notes, bonds or other obligations of HDA shall not be a debt or grant or loan of credit of the Commonwealth of Virginia, and the Commonwealth shall not be liable thereon, nor shall they be payable out of any funds other than those of HDA; and such notes and bonds shall contain on the face thereof a statement to such effect.</p><p>1972, c. 830.</p>

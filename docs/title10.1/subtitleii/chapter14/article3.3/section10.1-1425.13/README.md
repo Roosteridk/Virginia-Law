@@ -1,0 +1,3 @@
+# § 10.1-1425.13 Pollution prevention advisory panels.
+
+<p>The Director is authorized to name qualified persons to pollution prevention advisory panels to assist the Department in administering the pollution prevention assistance program. Panels shall include members representing different areas of interest in and potential support for pollution prevention, including industry, education, environmental and public interest groups, state government and local government.</p><p>1993, c. 459.</p>

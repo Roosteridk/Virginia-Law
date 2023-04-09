@@ -1,0 +1,3 @@
+# § 8.01-664 How and when Supreme Court summoned to try appeal therefrom.
+
+<p>If, during the recess of the Supreme Court, the Governor or the Chief Justice of the Court should think the immediate revision of any such judgment to be proper, he may summon the Court for that purpose, to meet on any day to be fixed by him.</p><p>Code 1950, § 8-606; 1977, c. 617.</p>

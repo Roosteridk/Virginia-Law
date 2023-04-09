@@ -1,0 +1,3 @@
+# § 38.2-2512 Who may become members.
+
+<p>Any person having a risk insurable under this chapter who resides in the territory in which the insurer operates or who owns property located in the territory may become a member of a mutual assessment property and casualty insurer and shall be entitled to all the rights and privileges pertaining to membership. Any officer, trustee, board member or legal representative of a corporation, board, estate or association may be recognized as acting for or on its behalf for the purpose of the membership, but shall not be personally liable under the contract of insurance by reason of acting in such representative capacity.</p><p>1952, c. 317, § 38.1-669; 1986, c. 562.</p>

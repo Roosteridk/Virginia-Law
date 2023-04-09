@@ -1,0 +1,3 @@
+# § 15.2-6709 Authority of localities.
+
+<p>Localities are hereby authorized to lend or donate money or other property or services to the Authority for any of its purposes. The locality making the grant or loan may restrict the use of such grants or loans to a specific project, within or outside that locality.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0834'>834</a>.</p>

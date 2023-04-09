@@ -1,0 +1,3 @@
+# § 30-220 Quorum; meetings; voting on recommendations.
+
+<p>A majority of the members shall constitute a quorum. The Commission shall meet at least two times each year. The meetings of the Commission shall be held at the call of the chairman or whenever the majority of the members so request.</p><p>No recommendation of the Commission shall be adopted if a majority of the Senate members or a majority of the House members appointed to the Commission (i) vote against the recommendation and (ii) vote for the recommendation to fail notwithstanding the majority vote of the Commission.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP1038'>1038</a>; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1000'>1000</a>.</p>

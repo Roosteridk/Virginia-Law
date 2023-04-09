@@ -1,0 +1,3 @@
+# § 3.2-110 Officers of the Board; meetings.
+
+<p>A. The Board shall annually elect a president, vice president, and secretary.</p><p>B. The Board shall meet at least three times a year for the transaction of business. Special meetings may be held at any time upon the call of the president of the Board, the request of the Commissioner, or the written request of a majority of the Board members.</p><p>Code 1950, §§ 3-2, 3-3; 1966, c. 702, §§ 3.1-2, 3.1-3; 1978, c. 219; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,0 +1,3 @@
+# § 6.2-1404 Commission may regulate issuance of evidences of debt.
+
+<p>The Commission may by regulation prescribe the terms and conditions upon which an association may issue bonds, debentures, or other evidences of debt, however described, that are offered to the public by advertisement or solicitation.</p><p>1974, c. 174, § 6.1-227.1; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,0 +1,3 @@
+# § 15.2-5326 Physicians and employees.
+
+<p>An authority shall have power to provide and maintain continuous resident physician and intern medical services; to appoint an administrator or superintendent and necessary assistants, and any and all other employees deemed necessary or advisable and fix their compensation; and to remove such appointees.</p><p>Code 1950, § 32-240; 1979, c. 719, § 15.1-1560; 1997, c. 587.</p>

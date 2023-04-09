@@ -1,0 +1,3 @@
+# § 8.2A-106 Limitation on power of parties to consumer lease to choose applicable law and judicial forum.
+
+<p>(1) If the law chosen by the parties to a consumer lease is that of a jurisdiction other than a jurisdiction in which the lessee resides at the time the lease agreement becomes enforceable or within 30 days thereafter or in which the goods are to be used, the choice is not enforceable.</p><p>(2) If the judicial forum chosen by the parties to a consumer lease is a forum that would not otherwise have jurisdiction over the lessee, the choice is not enforceable.</p><p>1991, c. 536.</p>

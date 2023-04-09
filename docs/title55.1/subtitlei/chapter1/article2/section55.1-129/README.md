@@ -1,0 +1,3 @@
+# § 55.1-129 Uniformity of application and construction.
+
+<p>Sections <a href='/vacode/55.1-124/'>55.1-124</a> through <a href='/vacode/55.1-129/'>55.1-129</a> shall be applied and construed to effectuate their general purpose to make the law uniform with respect to the rule against perpetuities among states enacting it.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0714'>714</a>, § 55-12.6; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

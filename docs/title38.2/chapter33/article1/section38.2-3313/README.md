@@ -1,0 +1,3 @@
+# § 38.2-3313 Table of installments.
+
+<p>If an individual life insurance policy provides that the proceeds may be payable in installments that are determinable prior to the maturity of the policy, the policy shall have a table showing the guaranteed installments.</p><p>Code 1950, § 38-371(12); 1950, p. 181; 1952, c. 317, § 38.1-402; 1986, c. 562.</p>

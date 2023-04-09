@@ -1,0 +1,3 @@
+# § 8.9A-342 Bank's right to refuse to enter into or disclose existence of control agreement.
+
+<p>This title does not require a bank to enter into an agreement of the kind described in § <a href='http://law.lis.virginia.gov/vacode/8.9A-104/'>8.9A-104</a> (a) (2), even if its customer so requests or directs. A bank that has entered into such an agreement is not required to confirm the existence of the agreement to another person unless requested to do so by its customer.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1007'>1007</a>.</p>

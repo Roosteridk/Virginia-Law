@@ -1,0 +1,3 @@
+# § 8.01-447 Docketing of judgments and decrees of United States courts.
+
+<p>Judgments and decrees rendered in the circuit court of appeals or a district court of the United States within this Commonwealth may be docketed and indexed in the clerks' offices of courts of this Commonwealth in the same manner and under the same rules and requirements of law as judgments and decrees of courts in this Commonwealth.</p><p>Code 1950, § 8-375; 1977, c. 617.</p>

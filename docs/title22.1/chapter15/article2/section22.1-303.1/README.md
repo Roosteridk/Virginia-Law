@@ -1,0 +1,3 @@
+# § 22.1-303.1 Immunity from civil liability for certain individuals.
+
+<p>Any teacher who, in good faith, participates in conducting a peer review of another teacher or a person who conducts a review of a teacher as a mentor teacher shall be immune from civil liability for any act, omission or statement made in the performance of these duties unless such act, omission or statement was made in bad faith or with malicious intent.</p><p>1988, c. 319; 1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP1030'>1030</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP1037'>1037</a>.</p>

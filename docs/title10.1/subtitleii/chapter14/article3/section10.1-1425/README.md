@@ -1,0 +1,3 @@
+# § 10.1-1425 Preemption of certain local ordinances.
+
+<p>The provisions of this article shall supersede and preempt any local ordinance which attempts to regulate the size or type of any container or package containing food or beverage or which requires a deposit on a disposable container or package.</p><p>1987, c. 234, § 10-277.14; 1988, c. 891.</p>

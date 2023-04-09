@@ -1,0 +1,3 @@
+# § 16.1-90 Recognizance upon continuation of case.
+
+<p>Judges of courts not of record may, upon the continuance of any case, require the witnesses or any of them, to enter into recognizance in such penalty as the judge may deem proper, either with or without security, for their appearance at a subsequent date to give evidence in the case, such recognizance to conform to the requirements of §§ <a href='http://law.lis.virginia.gov/vacode/19.2-135/'>19.2-135</a> through <a href='http://law.lis.virginia.gov/vacode/19.2-137/'>19.2-137</a> for taking recognizance of witnesses.</p><p>1956, c. 555; 1960, c. 372.</p>

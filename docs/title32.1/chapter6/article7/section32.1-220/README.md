@@ -1,0 +1,3 @@
+# § 32.1-220 Same; filling material.
+
+<p>Any person shipping or delivering filling material, however contained, shall have conspicuously attached thereto a tag upon which shall be stamped or printed, as provided in § <a href='http://law.lis.virginia.gov/vacode/32.1-219/'>32.1-219</a> or as provided by the regulations of the Board, the kind of material, whether the material is new or secondhand, the name, address and registration number of the manufacturer or importer and the permit number of the person who sterilized or sanitized such material.</p><p>Code 1950, § 32-122.1; 1956, c. 530; 1979, c. 711.</p>

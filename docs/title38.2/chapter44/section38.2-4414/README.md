@@ -1,0 +1,3 @@
+# § 38.2-4414 Renewal of organization license.
+
+<p>A. Each legal services organization shall renew its license with the Commission annually by July 1. The renewal license shall not be issued unless the organization has paid all fees and charges imposed on it, and has complied with all other requirements of law.</p><p>B. The Commission shall not fail or refuse to renew the license of any organization without first giving the organization ten days' notice of its intention not to renew the license and giving it an opportunity to be heard and to introduce evidence in its behalf. Any nonrenewal hearing may be informal. The required notice may be waived by the Commission and the organization.</p><p>1978, c. 658, § 38.1-803; 1986, c. 562.</p>

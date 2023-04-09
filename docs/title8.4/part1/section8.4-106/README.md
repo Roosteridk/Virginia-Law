@@ -1,0 +1,3 @@
+# § 8.4-106 Separate office of a bank.
+
+<p>A branch or separate office of a bank is a separate bank for the purpose of computing the time within which and determining the place at or to which action may be taken or notices or orders must be given under this title and under Title 8.3A.</p><p>1964, c. 219; 1987, c. 180; 1992, c. 693.</p>

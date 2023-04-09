@@ -1,0 +1,3 @@
+# § 6.2-1178 Accounts held by various trustees for same beneficiary.
+
+<p>Whenever trust interests or accounts are created for the same beneficiary, and each interest or account is in the name of a separate and distinct trustee or combination of trustees, each trust interest or account shall constitute a separate, distinct, and valid trust entity for all purposes.</p><p>Code 1950, § 6-201.22:1; 1966, cc. 219, 584, § 6.1-149.1; 1972, c. 796, § 6.1-195.24; 1985, c. 425, § 6.1-194.61; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

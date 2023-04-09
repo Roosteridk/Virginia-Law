@@ -1,0 +1,3 @@
+# § 15.2-6204 Office of Authority; title to property.
+
+<p>The Board shall maintain the principal office of the Authority within the Region. All records shall be kept and business transacted at such office. The title to all property of every kind belonging to the Authority shall be titled to the Authority, which shall hold it for the benefit of its members and the Commonwealth.</p><p>1993, c. 982, § 15.1-1665; 1997, c. 587.</p>

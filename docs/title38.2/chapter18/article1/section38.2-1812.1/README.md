@@ -1,0 +1,3 @@
+# § 38.2-1812.1 Placement of insurance for public bodies.
+
+<p>No insurance agent may provide or offer to provide, directly or indirectly, insurance products to a public body while concurrently and on its behalf (i) evaluating proposals from other insurance agents and (ii) recommending the placement of insurance.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0989'>989</a>.</p>

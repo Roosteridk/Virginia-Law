@@ -1,0 +1,3 @@
+# § 32.1-229.01:1 Action for damages.
+
+<p>Any person who engages or otherwise uses the radon screening, testing, or mitigation services of a person misrepresenting his proficiency listing to conduct such services as described in § <a href='http://law.lis.virginia.gov/vacode/32.1-229.01/'>32.1-229.01</a> may bring an action to recover the greater of (i) actual damages sustained, together with costs and reasonable attorneys' fees, or (ii) $100.</p><p>1993, c. 765.</p>

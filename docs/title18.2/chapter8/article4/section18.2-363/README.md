@@ -1,0 +1,3 @@
+# § 18.2-363 Leaving Commonwealth to evade law against bigamy.
+
+<p>If any persons, resident in the Commonwealth, one of whom has a living spouse, shall, with the intention of returning to reside in the Commonwealth, go into another state or country and there intermarry and return to and reside in the Commonwealth cohabiting as a married couple, such marriage shall be governed by the same law, in all respects, as if it had been solemnized in the Commonwealth.</p><p>Code 1950, § 20-44; 1975, cc. 14, 15; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0900'>900</a>.</p>

@@ -1,0 +1,3 @@
+# § 13.1-1036 Liability upon wrongful distribution.
+
+<p>If a member has received a distribution in violation of the articles of organization or an operating agreement or in violation of § <a href='http://law.lis.virginia.gov/vacode/13.1-1035/'>13.1-1035</a> of this chapter, then the member is liable to the limited liability company for a period of two years thereafter for the amount of the distribution wrongfully made.</p><p>1991, c. 168; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0763'>763</a>.</p>

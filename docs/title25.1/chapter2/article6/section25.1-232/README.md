@@ -1,0 +1,3 @@
+# § 25.1-232 Testimony on issues; report on just compensation.
+
+<p>A. Upon completion of the view, the court shall hear the testimony in open court on the issues joined.</p><p>B. When the body determining just compensation shall have arrived at its conclusion, it shall make its report in writing to the court.</p><p>Code 1919, §§ 4368, 4369; Code 1950, §§ 25-17, 25-18, 25-18.1; 1956, c. 563; 1962, c. 426, § 25-46.21; 1991, c. 520; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1029'>1029</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

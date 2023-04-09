@@ -1,0 +1,3 @@
+# § 32.1-11.7 Guidelines for cleanup of residential property used to manufacture methamphetamine.
+
+<p>The Board, in consultation with the Department of Environmental Quality and other relevant entities, shall establish guidelines for the cleanup of residential property and other buildings formerly used as sites to manufacture methamphetamine to certify that the methamphetamine level at such property is at or below the post cleanup target.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0778'>778</a>; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0557'>557</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0513'>513</a>.</p>

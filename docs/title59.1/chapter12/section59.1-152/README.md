@@ -1,0 +1,3 @@
+# § 59.1-152 Collection and analysis of samples.
+
+<p>The Commissioner shall have power at all times and at all places to have collected samples for inspection and testing of any motor fuel or lubricating oil for the purposes specified in § <a href='http://law.lis.virginia.gov/vacode/59.1-150/'>59.1-150</a> and for the purpose of determining whether such motor fuel or lubricating oil is in violation of this chapter or regulation thereunder.</p><p>Code 1950, § 59-44; 1968, c. 439; 1992, c. 885.</p>

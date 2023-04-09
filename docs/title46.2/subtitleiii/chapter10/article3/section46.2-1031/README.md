@@ -1,0 +1,3 @@
+# § 46.2-1031 Requirements as to single-beam head lights.
+
+<p>Approved single-beam head lights shall be aimed in accordance with regulations promulgated by the Superintendent so as not to project a glaring or dazzling light to persons approaching such head lights and shall be of sufficient intensity to reveal persons and objects at a distance of at least 200 feet.</p><p>Code 1950, § 46-276; 1958, c. 541, § 46.1-269; 1989, c. 727.</p>

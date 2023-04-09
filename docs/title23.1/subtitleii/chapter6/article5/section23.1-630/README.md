@@ -1,0 +1,3 @@
+# § 23.1-630 Maximum amount of tuition assistance per student.
+
+<p>The annual amount of tuition assistance in the form of a grant for a Virginia student attending an eligible institution shall not exceed the annual average appropriation per full-time equivalent student for the previous year from the general fund of the state treasury for operating costs at public institutions of higher education.</p><p>1972, c. 18, § 23-38.14; 1975, c. 400; 1980, c. 101; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

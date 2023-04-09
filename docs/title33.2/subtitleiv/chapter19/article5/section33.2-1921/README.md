@@ -1,0 +1,3 @@
+# § 33.2-1921 Judicial determination of validity of bonds.
+
+<p>The provisions of Article 6 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-2650/'>15.2-2650</a> et seq.) of Chapter 26 of Title 15.2 apply to all suits, actions, and proceedings of whatever nature involving the validity of bonds issued by a transportation district under the provisions of this article.</p><p>1968, c. 551, § 15.1-1358.3; 1997, c. 587, § 15.1-4520; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

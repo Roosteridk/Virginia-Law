@@ -1,0 +1,3 @@
+# § 53.1-130 Sheriffs, jail superintendents, etc., not to be interested in property where work performed; penalty.
+
+<p>No sheriff, jail superintendent, deputy or other jail officer shall have any prisoner work on property owned by him or by his relative, or on projects in which he is interested, nor shall any such prisoner be used for the personal gain or convenience of any sheriff or of any other individual. Any person found guilty of a violation of this section shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 53-166; 1970, c. 648; 1982, c. 636; 1991, c. 383.</p>

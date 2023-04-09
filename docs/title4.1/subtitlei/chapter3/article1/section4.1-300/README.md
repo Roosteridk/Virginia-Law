@@ -1,0 +1,3 @@
+# § 4.1-300 Illegal manufacture and bottling; penalty.
+
+<p>A. Except as otherwise provided in §§ <a href='http://law.lis.virginia.gov/vacode/4.1-200/'>4.1-200</a> and <a href='http://law.lis.virginia.gov/vacode/4.1-201/'>4.1-201</a>, no person shall manufacture alcoholic beverages in the Commonwealth without being licensed under this subtitle to manufacture such alcoholic beverages. Nor shall any person, other than a brewery licensee or bottler's licensee, bottle beer for sale.</p><p>B. The presence of mash at an unlicensed distillery shall constitute manufacturing within the meaning of this section.</p><p>C. Any person convicted of a violation of this section shall be guilty of a Class 6 felony.</p><p>Code 1950, § 4-57; 1954, c. 484; 1974, c. 460; 1993, c. 866.</p>

@@ -1,0 +1,3 @@
+# § 20-88.73 Confirmed order.
+
+<p>Confirmation of a registered support order, whether by operation of law or after notice and hearing, precludes further contest of the support order with respect to any matter that could have been asserted at the time of registration.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0673'>673</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0727'>727</a>.</p>

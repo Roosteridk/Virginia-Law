@@ -1,0 +1,3 @@
+# § 10.1-1180 Cooperation with individuals and public agencies.
+
+<p>The Department of Forestry is authorized to cooperate with persons, counties, state agencies, and United States government agencies, and the appropriate authorities of adjacent states concerning forest tree insect and disease investigation and control, and to accept money, gifts and donations and to disburse the same for the purpose of carrying out the provisions of this article.</p><p>1952, c. 657, § 10-90.7; 1986, c. 567; 1988, c. 891.</p>

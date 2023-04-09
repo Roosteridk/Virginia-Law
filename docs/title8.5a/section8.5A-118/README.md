@@ -1,0 +1,3 @@
+# § 8.5A-118 Applicability.
+
+<p>This title applies to a letter of credit that is issued on or after January 1, 1998. This title does not apply to a transaction, event, obligation, or duty arising out of or associated with a letter of credit that was issued before January 1, 1998. A transaction arising out of or associated with a letter of credit that was issued before January 1, 1998, and the rights, obligations, and interests flowing from that transaction are governed by Title 8.5 as it was effective on December 31, 1997, as if repeal or amendment had not occurred and may be terminated, completed, consummated, or enforced under that statute.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0343'>343</a>.</p>

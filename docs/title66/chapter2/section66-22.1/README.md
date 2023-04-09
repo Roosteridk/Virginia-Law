@@ -1,0 +1,3 @@
+# § 66-22.1 Establishment of stores in juvenile correctional facilities.
+
+<p>The Director is hereby authorized to provide for the establishment and operation of stores or commissaries in state juvenile correctional facilities to deal in such articles as he deems proper. The profits from the operation of such stores shall be used for educational, recreational, or other purposes beneficial to the juveniles committed to the Department as may be prescribed by the Director.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0195'>195</a>.</p>

@@ -1,0 +1,3 @@
+# § 18.2-287.2 Wearing of body armor while committing a crime; penalty.
+
+<p>Any person who, while committing a crime of violence as defined in § <a href='http://law.lis.virginia.gov/vacode/18.2-288/'>18.2-288</a> (2) or a felony violation of § <a href='http://law.lis.virginia.gov/vacode/18.2-248/'>18.2-248</a> or subdivision (a) 2 or 3 of § <a href='http://law.lis.virginia.gov/vacode/18.2-248.1/'>18.2-248.1</a>, has in his possession a firearm or knife and is wearing body armor designed to diminish the effect of the impact of a bullet or projectile shall be guilty of a Class 4 felony.</p><p>1990, c. 936; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0311'>311</a>.</p>

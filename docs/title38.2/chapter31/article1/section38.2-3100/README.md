@@ -1,0 +1,3 @@
+# § 38.2-3100 Scope of chapter.
+
+<p>Except as otherwise provided, this chapter applies to insurers transacting life insurance and the granting of annuities, and to life insurance and annuities as defined in §§ <a href='http://law.lis.virginia.gov/vacode/38.2-102/'>38.2-102</a> through <a href='http://law.lis.virginia.gov/vacode/38.2-107.1/'>38.2-107.1</a>.</p><p>1952, c. 317, § 38.1-431; 1986, c. 562; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0316'>316</a>.</p>

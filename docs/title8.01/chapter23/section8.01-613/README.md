@@ -1,0 +1,3 @@
+# § 8.01-613 Commissioner may ask instructions of court.
+
+<p>A commissioner, who has doubts as to any point which arises before him, may, in writing, submit the point to the court, who may instruct him thereon.</p><p>Code 1950, § 8-253; 1977, c. 617.</p>

@@ -1,0 +1,3 @@
+# § 10.1-1402.02 Use, reuse, or reclamation of coal combustion by-product in a flood plain.
+
+<p>Notwithstanding any other provision of this article, for any project proposed after July 1, 2009, the Board shall not exclude or exempt from the definition of solid waste or any solid waste permitting requirements the use, reuse, or reclamation of unamended coal combustion by-product in an area designated as a 100-year flood plain as defined in § <a href='http://law.lis.virginia.gov/vacode/10.1-600/'>10.1-600</a>.</p><p>2009, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0348'>348</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0498'>498</a>.</p>

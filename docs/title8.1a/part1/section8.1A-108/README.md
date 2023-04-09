@@ -1,0 +1,3 @@
+# § 8.1A-108 Relation to Electronic Signatures in Global and National Commerce Act.
+
+<p>This title modifies, limits, and supersedes the federal Electronic Signatures in Global and National Commerce Act, 15 U.S.C. § 7001 et seq., except that nothing in this title modifies, limits, or supersedes § 7001(c) of that Act or authorizes electronic delivery of any of the notices described in § 7003(b) of that Act.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0353'>353</a>.</p>

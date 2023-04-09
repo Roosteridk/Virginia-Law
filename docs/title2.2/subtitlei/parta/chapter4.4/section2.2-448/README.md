@@ -1,0 +1,3 @@
+# § 2.2-448 Penalty for filing complaint or cooperating in investigation prohibited.
+
+<p>A. An official, the Department, a local department, a child-serving agency, or a child-placing agency shall not penalize any person for filing a complaint or cooperating with the Ombudsman in investigating a complaint.</p><p>B. An individual, the Department, a local department, an adoption attorney, a child-serving agency, or a child-placing agency shall not hinder the lawful actions of the Ombudsman or employees of the Ombudsman.</p><p>C. A report by the Ombudsman is not subject to prior approval by a person outside of the Office.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1090'>1090</a>.</p>

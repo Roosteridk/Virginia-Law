@@ -1,0 +1,3 @@
+# § 46.2-818.1 Opening and closing motor vehicle doors; penalty.
+
+<p>No operator shall open the door of a parked motor vehicle on the side adjacent to moving vehicular traffic unless it is reasonably safe to do so.</p><p>A violation of this section shall constitute a traffic infraction punishable by a fine of not more than $50. No demerit points shall be awarded by the Commissioner for a violation of this section.</p><p>The provisions of this section shall not apply to any law-enforcement officer, firefighter, or emergency medical services personnel engaged in the performance of his duties.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0607'>607</a>.</p>

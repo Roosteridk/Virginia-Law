@@ -1,0 +1,3 @@
+# § 54.1-3212 Qualifications of applicants.
+
+<p>An application for a license to practice optometry shall be made in writing and shall be accompanied by satisfactory proof that the applicant has been graduated and received a doctor of optometry degree from a school of optometry approved by the Board.</p><p>Code 1950, § 54-382; 1972, c. 824; 1973, c. 90; 1988, c. 765.</p>

@@ -1,0 +1,3 @@
+# § 51.5-83 Surveys of business enterprise opportunities.
+
+<p>The Department shall make surveys of vending stand and other business enterprise opportunities for blind persons in public and private buildings and other properties throughout the Commonwealth.</p><p>Code 1950, § 63-204.7; 1968, c. 578, § 63.1-148; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

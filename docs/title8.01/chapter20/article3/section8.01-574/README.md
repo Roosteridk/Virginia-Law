@@ -1,0 +1,3 @@
+# § 8.01-574 Attachments in connection with pending suits or actions.
+
+<p>If an attachment be desired in connection with a pending suit or action, a petition for an attachment may be filed in the same court in which such suit or action is pending, and the procedure thereon shall be the same as if no suit or action were pending; but the attachment may be heard along with any suit in equity relating to the same subject so far as may be necessary for the convenient administration of justice. The suing out of an attachment in connection with a pending suit or action shall not be deemed the prosecution of a second action for the same cause.</p><p>Code 1950, § 8-561; 1977, c. 617.</p>

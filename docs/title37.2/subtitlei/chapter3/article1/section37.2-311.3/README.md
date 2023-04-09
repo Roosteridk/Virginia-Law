@@ -1,0 +1,3 @@
+# § 37.2-311.3 Standards for community care teams and mobile crisis teams.
+
+<p>The Department shall ensure that mobile crisis teams and community care teams:</p><p>1. Are designed in partnership with community members, including people with lived experience utilizing crisis services;</p><p>2. Are staffed by personnel who reflect the demographics of the community served;</p><p>3. To the extent permitted by law, collect customer service data from individuals served, including demographic information and any information recommended by SAMHSA; and</p><p>4. Collaborate with local law-enforcement agencies in use of the crisis call center.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0248'>248</a>.</p>

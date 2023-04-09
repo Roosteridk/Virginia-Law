@@ -1,0 +1,3 @@
+# § 30-113 Powers and duties of Panel.
+
+<p>The powers and duties of the Panel shall be applied and used only in relation to members of the respective house of the General Assembly for which it is created. The Panel shall establish its rules of procedure, including rules for the conduct of open meetings and hearings.</p><p>1987, Sp. Sess., c. 1, § 2.1-639.45; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0876'>876</a>.</p>

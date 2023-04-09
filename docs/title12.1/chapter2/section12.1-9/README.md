@@ -1,0 +1,3 @@
+# § 12.1-9 Eligibility and qualifications of members.
+
+<p>No person shall be eligible to serve as a member of the Commission unless at the time of his election or appointment he is a qualified voter under the Constitution and laws of this Commonwealth. At least one member of the Commission shall have the qualifications prescribed for judges of courts of record.</p><p>Code 1950, § 12-10; 1971, Ex. Sess., c. 157.</p>

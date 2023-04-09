@@ -1,0 +1,3 @@
+# § 46.2-1084 Vehicle to have securely affixed seat for driver; location of such seat.
+
+<p>It shall be unlawful for any person to drive any motor vehicle on a highway in the Commonwealth unless it is equipped with a securely affixed seat for the driver. The seat shall be so located as to permit the driver to adequately control the steering and braking mechanisms and other instruments necessary for the safe operation of the motor vehicle.</p><p>1973, c. 56, § 46.1-302.1; 1989, c. 727.</p>

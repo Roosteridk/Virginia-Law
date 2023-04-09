@@ -1,0 +1,3 @@
+# § 15.2-1730 Calling upon law-enforcement officers of counties, cities or towns for assistance.
+
+<p>In case of an emergency declared by the chief law-enforcement officer of a locality, such officer may call upon the chief law-enforcement officer of towns within his county and the chief law-enforcement officer of an adjoining county or city, or towns in adjoining counties for assistance from him or his deputies or other police officers, without the necessity for deputizing such deputies or officers. Such deputies or officers shall have full police powers in such locality as are conferred upon them by law during the period of such emergency.</p><p>1974, c. 633, § 15.1-131.5; 1976, c. 206; 1997, c. 587.</p>

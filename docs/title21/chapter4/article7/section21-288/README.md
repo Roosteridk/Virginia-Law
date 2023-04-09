@@ -1,0 +1,3 @@
+# § 21-288 Discharge of matter injurious to system.
+
+<p>No county, city, town or other public body, or person shall discharge, or suffer to be discharged, directly or indirectly, into the sewage disposal system or any other facilities of or provided by a commission, any matter or thing which is or may be injurious or deleterious to such sewage disposal system or other facilities.</p><p>1946, p. 363; Michie Suppl. 1946, § 1560iii22.</p>

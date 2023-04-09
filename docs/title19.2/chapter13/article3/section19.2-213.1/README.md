@@ -1,0 +1,3 @@
+# § 19.2-213.1 Discharge of special grand jury.
+
+<p>If a special grand jury has not filed a report pursuant to § <a href='http://law.lis.virginia.gov/vacode/19.2-213/'>19.2-213</a> within six months of its impanelling, the circuit court appointing it shall discharge it; provided, however, if such court, in its discretion, determines that the special grand jury is making progress in its investigation, the court may direct that special grand jury to continue its investigation pursuant to this article.</p><p>1978, c. 638.</p>

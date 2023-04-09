@@ -1,0 +1,3 @@
+# § 64.2-541 Recovery by executor when part of estate not in his possession.
+
+<p>If any property required to be included in the gross estate is not in the possession of the executor, administrator, or other fiduciary, he shall recover from the person who is in possession of such property, or from the persons interested in the estate, the amount of tax payable by the persons interested in the estate that is chargeable to such persons under the provisions of this article.</p><p>Code 1950, § 64-152; 1968, c. 656, § 64.1-162; 1986, c. 399; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

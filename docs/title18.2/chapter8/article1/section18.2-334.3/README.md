@@ -1,0 +1,3 @@
+# § 18.2-334.3 Exemptions to article; state lottery; sports betting.
+
+<p>Nothing in this article shall apply to:</p><p>1. Any lottery conducted by the Commonwealth of Virginia pursuant to Article 1 (§ <a href='/vacode/58.1-4000/'>58.1-4000</a> et seq.) of Chapter 40 of Title 58.1; or</p><p>2. Any sports betting or related activity that is lawful under Article 2 (§ <a href='/vacode/58.1-4030/'>58.1-4030</a> et seq.) of Chapter 40 of Title 58.1.</p><p>1987, c. 531; 2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1218'>1218</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1256'>1256</a>.</p>

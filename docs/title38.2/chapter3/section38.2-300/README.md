@@ -1,0 +1,3 @@
+# § 38.2-300 Scope of chapter.
+
+<p>This chapter shall apply to all classes of insurance except:</p><p>1. Ocean marine insurance other than private pleasure vessels;</p><p>2. Life insurance policies and accident and sickness insurance policies not delivered or issued for delivery in this Commonwealth;</p><p>3. Contracts of reinsurance; or</p><p>4. Annuities, except as provided for in §§ <a href='http://law.lis.virginia.gov/vacode/38.2-305/'>38.2-305</a>, <a href='http://law.lis.virginia.gov/vacode/38.2-316/'>38.2-316</a> and <a href='http://law.lis.virginia.gov/vacode/38.2-321/'>38.2-321</a>.</p><p>1952, c. 317, § 38.1-328; 1986, c. 562; 1988, cc. 333, 523.</p>

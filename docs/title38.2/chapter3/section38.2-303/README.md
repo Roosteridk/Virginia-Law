@@ -1,0 +1,3 @@
+# § 38.2-303 Insurable interest required; property insurance.
+
+<p>A. No insurance contract on property or on any interest therein or arising therefrom shall be enforceable except for the benefit of persons having an insurable interest in the property insured.</p><p>B. As used in this section, "insurable interest" means any lawful and substantial economic interest in the safety or preservation of the subject of insurance free from loss, destruction or pecuniary damage.</p><p>1952, c. 317, § 38.1-331; 1986, c. 562.</p>

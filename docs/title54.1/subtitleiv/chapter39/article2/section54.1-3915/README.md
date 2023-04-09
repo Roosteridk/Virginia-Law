@@ -1,0 +1,3 @@
+# § 54.1-3915 Restrictions as to rules and regulations.
+
+<p>Notwithstanding the foregoing provisions of this article, the Supreme Court shall not promulgate rules or regulations prescribing a code of ethics governing the professional conduct of attorneys which are inconsistent with any statute; nor shall it promulgate any rule or regulation or method of procedure which eliminates the jurisdiction of the courts to deal with the discipline of attorneys. In no case shall an attorney who demands to be tried by a court of competent jurisdiction for the violation of any rule or regulation adopted under this article be tried in any other manner.</p><p>Code 1950, § 54-51; 1974, c. 536; 1988, c. 765.</p>

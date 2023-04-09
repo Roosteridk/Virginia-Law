@@ -1,0 +1,3 @@
+# § 46.2-477 When chapter applicable to policy.
+
+<p>This chapter shall not apply to any policy of insurance except as to liability thereunder incurred after certification thereof as proof of financial responsibility.</p><p>Code 1950, § 46-496.1; 1958, c. 541, § 46.1-509; 1989, c. 727.</p>

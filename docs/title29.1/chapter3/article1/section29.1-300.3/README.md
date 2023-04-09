@@ -1,0 +1,3 @@
+# § 29.1-300.3 Program fees.
+
+<p>No fee shall be charged for the instructor's service; however, a fee to cover the cost of giving such instruction may be charged each person participating in and receiving such instruction. A record of such expenses shall be kept for inspection by the Department. The expenses may include, but not be limited to, such items as range fees, ammunition and transportation of students.</p><p>1987, c. 83, § 29-51.3.</p>

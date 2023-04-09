@@ -1,0 +1,3 @@
+# § 19.2-390.02 Policies and procedures for law enforcement to conduct in-person and photo lineups.
+
+<p>The Department of State Police and each local police department and sheriff's office shall establish a written policy and procedure for conducting in-person and photographic lineups.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0187'>187</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0229'>229</a>.</p>

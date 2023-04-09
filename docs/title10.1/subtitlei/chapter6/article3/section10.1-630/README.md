@@ -1,0 +1,3 @@
+# § 10.1-630 Type of indebtedness incurred or bonds issued.
+
+<p>The type of indebtedness incurred or bonds issued shall be that adopted by the governing body of the watershed improvement district and approved by the Virginia Soil and Water Conservation Board.</p><p>1956, c. 668, § 21-112.17; 1964, c. 512; 1988, c. 891; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0105'>105</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0819'>819</a>.</p>

@@ -1,0 +1,3 @@
+# § 46.2-458 Interpleader to determine rights in deposits; other proceedings.
+
+<p>The Commissioner and the State Treasurer, or either, may proceed in equity by bill of interpleader for the determination of any dispute as to ownership of or rights in any deposit held by the State Treasurer pursuant to this chapter and may have recourse to any other appropriate proceeding for determination of any question that arises as to their rights or liabilities or as to the rights or liabilities of the Commonwealth under this chapter.</p><p>Code 1950, § 46-478; 1958, c. 541, § 46.1-489; 1989, c. 727.</p>

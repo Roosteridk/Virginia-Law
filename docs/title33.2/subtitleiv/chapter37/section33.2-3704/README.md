@@ -1,0 +1,3 @@
+# § 33.2-3704 Staff.
+
+<p>The Authority may employ a chief executive officer and such staff as it shall determine to be necessary to carry out its duties and responsibilities under this chapter. No such person shall contemporaneously serve as a member of the Authority. The Department of Transportation and the Department of Rail and Public Transportation shall make their employees available to assist the Authority, upon request.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1235'>1235</a>.</p>

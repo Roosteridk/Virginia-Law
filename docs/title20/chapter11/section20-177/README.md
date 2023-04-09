@@ -1,0 +1,3 @@
+# § 20-177 Disclosure of information.
+
+<p>Except as otherwise provided by law, during the collaborative law process, on the request of another party, a party shall make timely, full, candid, and informal disclosure of information related to the collaborative matter without the requirement of the formal discovery procedures set forth in Part 4 of the Rules of Supreme Court of Virginia. A party shall also promptly update previously disclosed information that has materially changed. The parties may define the scope of disclosure during the collaborative law process.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0346'>346</a>.</p>

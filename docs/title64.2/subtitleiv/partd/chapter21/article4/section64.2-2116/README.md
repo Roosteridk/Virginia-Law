@@ -1,0 +1,3 @@
+# § 64.2-2116 Registration of guardianship orders.
+
+<p>If a guardian has been appointed in another state and a petition for the appointment of a guardian is not pending in the Commonwealth, the guardian appointed in the other state, after giving notice to the appointing court of an intent to register, may register the guardianship order in the Commonwealth by filing as a foreign judgment in a court, in any appropriate county or city of the Commonwealth, certified copies of the order and letters of office.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0518'>518</a>, § 37.2-1048; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

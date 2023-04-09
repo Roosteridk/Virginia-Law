@@ -1,0 +1,3 @@
+# § 45.2-1724 (Effective October 1, 2021, until July 1, 2029) Sunset.
+
+<p>The provisions of this article shall expire on July 1, 2029.</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0555'>555</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0556'>556</a>, § 67-1607; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

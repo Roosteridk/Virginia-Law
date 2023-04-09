@@ -1,0 +1,3 @@
+# § 28.2-636 Leasing of certain bottoms in Rappahannock River prohibited.
+
+<p>No part of the bottom of the Rappahannock River, lying in or near the center of the river and running from the mouth of the river to and including Morattico bar, which is designated on the Baylor survey and resurveys as assignable bottom and is commonly known as "deep water planting grounds," may be leased or assigned. The bottom is declared to be a part of the public oyster beds and rocks of the Rappahannock River.</p><p>Code 1950, § 28-201; 1962, c. 406, § 28.1-144; 1992, c. 836.</p>

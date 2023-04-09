@@ -1,0 +1,3 @@
+# § 5.1-143 Reports of accidents.
+
+<p>It shall be the duty of the manager, agent or other proper officer of every air carrier doing business or operating in this Commonwealth to make to the Commission such report or reports as may be required by it, under oath, of all accidents in this Commonwealth resulting in injury to persons, equipment, or property of any kind, under such rules and regulations as may be prescribed by the Commission.</p><p>Code 1950, § 56-198; 1970, c. 708.</p>

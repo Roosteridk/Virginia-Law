@@ -1,0 +1,3 @@
+# § 2.2-1807 Investments, etc., in custody of State Treasurer.
+
+<p>The State Treasurer shall be charged with the custody of all investments and invested funds of the Commonwealth or in possession of the Commonwealth in a fiduciary capacity, and shall keep the accounts of such investments. The State Treasurer shall also be charged with the custody of all bonds and certificates of the state debts, whether unissued or canceled, and with the receipt and delivery of state bonds and certificates for transfer, registration or exchange.</p><p>Code 1950, § 2-155; 1966, c. 677, § 2.1-186; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

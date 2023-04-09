@@ -1,0 +1,3 @@
+# § 45.2-743  Maintenance of hoisting equipment.
+
+<p>Every hoist, rope, cage, and other component of any piece of hoisting equipment shall be maintained in a safe operating condition, as directed by the Chief. A hoisting rope shall be replaced as soon as there is evidence of possible failure.</p><p>Code 1950, §§ 45-68.4, 45-69.3; 1954, c. 191; 1966, c. 594, §§ 45.1-68, 45.1-72; 1972, c. 784; 1978, c. 729; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.161; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

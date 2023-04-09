@@ -1,0 +1,3 @@
+# § 18.2-74.1 Abortion, etc., when necessary to save life of woman.
+
+<p>In the event it is necessary for a licensed physician to terminate a human pregnancy or assist in the termination of a human pregnancy by performing an abortion or causing a miscarriage on any woman in order to save her life, in the opinion of the physician so performing the abortion or causing the miscarriage, §§ <a href='http://law.lis.virginia.gov/vacode/18.2-71/'>18.2-71</a>, <a href='http://law.lis.virginia.gov/vacode/18.2-73/'>18.2-73</a> and <a href='http://law.lis.virginia.gov/vacode/18.2-74/'>18.2-74</a> shall not be applicable.</p><p>Code 1950, § 18.1-62.3; 1970, c. 508; 1975, cc. 14, 15.</p>

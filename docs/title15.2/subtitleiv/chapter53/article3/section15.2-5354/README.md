@@ -1,0 +1,3 @@
+# § 15.2-5354 Purchase by authority.
+
+<p>The authority shall have the power out of any funds available therefor to purchase any bonds issued by it. Bonds payable exclusively from the revenues of a designated project or projects shall only be purchased with the revenues available therefor. All bonds so purchased shall be canceled. This section shall not apply to the redemption of bonds.</p><p>Code 1950, § 32-269; 1973, c. 462, § 15.1-1589; 1979, c. 719; 1997, c. 587.</p>

@@ -1,0 +1,3 @@
+# § 53.1-133.01:1 Payment for bodily injury.
+
+<p>Each jail superintendent or sheriff who operates a correctional facility is authorized to establish administrative procedures according to regulations promulgated by the Board for recovering from an inmate the cost for medical treatment of a physical injury that is inflicted intentionally on any person, including the inmate himself, by the inmate. Such administrative procedures shall ensure that the inmate is afforded due process.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0125'>125</a>; 2003, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0928'>928</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP1019'>1019</a>.</p>

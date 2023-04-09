@@ -1,0 +1,3 @@
+# § 3.2-4745 Copies of contracts to be filed with Commissioner.
+
+<p>Copies of any contract between any producer and dealer or between any dealer and buyer made in advance of the harvesting season to supply agricultural produce shall be filed with the Commissioner within 10 days of the signing of such contract.</p><p>1972, c. 646, § 3.1-722.14; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

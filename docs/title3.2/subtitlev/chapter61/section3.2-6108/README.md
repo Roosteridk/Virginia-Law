@@ -1,0 +1,3 @@
+# § 3.2-6108 Prohibited acts.
+
+<p>It shall be unlawful for:</p><p>1. Any person to use any brand for branding cattle unless the brand is registered with the Department;</p><p>2. Any person to obliterate, alter or deface the brand of any animals;</p><p>3. Any livestock market to receive and sell cattle unless records of such sale are kept in accordance with the requirements of this chapter; or</p><p>4. Any livestock market to fail to post a copy of the register of brands furnished to them by the Department in a place easily accessible to interested parties.</p><p>1974, c. 642, § 3.1-796.37; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

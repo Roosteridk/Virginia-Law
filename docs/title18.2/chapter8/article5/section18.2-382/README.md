@@ -1,0 +1,3 @@
+# § 18.2-382 Photographs, slides and motion pictures.
+
+<p>Every person who knowingly:</p><p>(1) Photographs himself or any other person, for purposes of preparing an obscene film, photograph, negative, slide or motion picture for purposes of sale or distribution; or</p><p>(2) Models, poses, acts, or otherwise assists in the preparation of any obscene film, photograph, negative, slide or motion picture for purposes of sale or distribution;</p><p>shall be guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 18.1-235; 1960, c. 233; 1970, c. 204; 1975, cc. 14, 15.</p>

@@ -1,0 +1,3 @@
+# § 17.1-259 Recordation of master deed of trust; form and requisites.
+
+<p>A. Any person may record in any clerk's office in the Commonwealth where deeds are recorded a form of a deed of trust, hereinafter referred to as a "master deed."</p><p>B. The master deed shall bear the caption "Master Deed of Trust," and may contain any provisions not in conflict with law. The provisions shall be numbered or lettered, clearly distinguishable one from the other, and susceptible of exact reference.</p><p>1954, c. 8, §§ 17-83.2, 17-83.3; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

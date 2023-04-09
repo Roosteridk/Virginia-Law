@@ -1,0 +1,3 @@
+# § 2.2-3402 How interpreters paid.
+
+<p>An interpreter for the deaf appointed pursuant to § <a href='http://law.lis.virginia.gov/vacode/2.2-3401/'>2.2-3401</a> shall be paid by the agency out of such state and federal funds as may be available for the purpose or, if the agency has insufficient funds to pay an interpreter, the Virginia Department for the Deaf and Hard-of-Hearing may appoint and pay an interpreter from the funds it may have available for the purpose.</p><p>1978, c. 602, § 2.1-573; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

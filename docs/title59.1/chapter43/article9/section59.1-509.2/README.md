@@ -1,0 +1,3 @@
+# § 59.1-509.2 Previous rights and transactions.
+
+<p>Contracts that are enforceable and rights of action that accrue before the effective date of this chapter are governed by the law then in effect unless the parties agree to be governed by this chapter.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0101'>101</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0996'>996</a>.</p>

@@ -1,0 +1,3 @@
+# § 28.2-523 Penalty.
+
+<p>Any person who takes or catches oysters with a dredge, scrape, or instrument other than ordinary or patent oyster tongs or by hand, in any of the waters of the Commonwealth except as provided by law, or regulations of the Commission, is guilty of a Class 6 felony.</p><p>Code 1950, §§ 28-154, 28-156; 1962, c. 406, § 28.1-132; 1968, c. 747; 1992, c. 836.</p>

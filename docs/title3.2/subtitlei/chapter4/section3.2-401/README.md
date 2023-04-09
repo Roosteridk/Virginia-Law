@@ -1,0 +1,3 @@
+# § 3.2-401 Exclusions from chapter.
+
+<p>This chapter shall not apply to any agricultural activity to which (i) Article 12 (§ <a href='/vacode/10.1-1181.1/'>10.1-1181.1</a> et seq.) of Chapter 11 of Title 10.1 or (ii) a water-related permit issued by the Department of Environmental Quality applies.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0773'>773</a>, § <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0010'>10</a>.1-559.2; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0356'>356</a>.</p>

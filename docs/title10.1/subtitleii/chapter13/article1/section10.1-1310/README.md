@@ -1,0 +1,3 @@
+# § 10.1-1310 Decision of Department pursuant to hearing.
+
+<p>Any decision by the Department rendered pursuant to hearings under § <a href='/vacode/10.1-1309/'>10.1-1309</a> shall be reduced to writing and shall contain the explicit findings of fact and conclusions of law upon which the Department's decision is based. Certified copies of the written decision shall be delivered or mailed by certified mail to the parties affected by it. Failure to comply with the provisions of this section shall render such decision invalid.</p><p>1971, Ex. Sess., c. 91, § 10-17.18:2; 1973, c. 251; 1988, c. 891; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0356'>356</a>.</p>

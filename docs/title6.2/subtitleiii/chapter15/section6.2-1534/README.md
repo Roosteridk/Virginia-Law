@@ -1,0 +1,3 @@
+# § 6.2-1534 Annual reports.
+
+<p>Each licensee shall annually, on or before April 1, file a report with the Commission giving such relevant information as may reasonably be required concerning its business and operations during the preceding calendar year as to each authorized consumer finance company office. Reports shall be made under oath and shall be in the form prescribed by the Commission.</p><p>Code 1950, § 6-330; 1966, c. 584, § 6.1-301; 1968, c. 489; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0055'>55</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

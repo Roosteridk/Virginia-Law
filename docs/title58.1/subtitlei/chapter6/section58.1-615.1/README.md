@@ -1,0 +1,3 @@
+# § 58.1-615.1 Repealed.
+
+<p>Repealed by Acts 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0781'>781</a>, as amended by Acts 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0872'>872</a>, cl. 5, and Acts 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0874'>874</a>, cl. 7, as amended by Acts 2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0890'>890</a>.</p>

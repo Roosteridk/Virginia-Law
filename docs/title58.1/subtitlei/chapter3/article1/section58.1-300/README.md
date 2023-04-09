@@ -1,0 +1,3 @@
+# § 58.1-300 Incomes not subject to local taxation.
+
+<p>No county, city, town or other political subdivision of this Commonwealth shall impose any tax or levy upon incomes, incomes being hereby segregated for state taxation only.</p><p>Code 1950, § 58-151.04; 1971, Ex. Sess., c. 171; 1984, c. 675; 1989, c. 245; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0766'>766</a>.</p>

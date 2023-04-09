@@ -1,0 +1,3 @@
+# § 51.1-1172 Employer contributions during disability absences.
+
+<p>Mandatory employer contributions to the defined contribution component of the hybrid retirement program pursuant to subdivision B 2 of § <a href='http://law.lis.virginia.gov/vacode/51.1-169/'>51.1-169</a> on behalf of a participating employee shall be made for each employee who is permanently and totally disabled (as defined in § 22(e)(3) of the Internal Revenue Code). The calculation of such contributions shall be based on the full amount of the participating employee's creditable compensation.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0701'>701</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0823'>823</a>.</p>

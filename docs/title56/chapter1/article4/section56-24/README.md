@@ -1,0 +1,3 @@
+# § 56-24 Effect of crossing on highway.
+
+<p>Such crossing shall be so located, constructed and operated as not to impair, impede or obstruct, in any material degree, the state highway or county road to be crossed, and so that the use of such highway or road by the public will not be materially interfered with; and shall likewise be so located, constructed and operated as not to render such highway or road less safe and convenient for the passage or transportation of persons or property along the same.</p><p>Code 1919, § 3885; 1920, p. 411.</p>

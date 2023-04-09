@@ -1,0 +1,3 @@
+# § 18.2-51.3 Prohibition against reckless endangerment of others by throwing objects from places higher than one story; penalty.
+
+<p>A. It shall be unlawful for any person, with the intent to cause injury to another, to intentionally throw from a balcony, roof top, or other place more than one story above ground level any object capable of causing any such injury.</p><p>B. A violation of this section shall be punishable as a Class 6 felony.</p><p>1990, c. 761.</p>

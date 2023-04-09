@@ -1,0 +1,3 @@
+# § 13.1-549.2 Registration certificate required for corporation engaged in practice of law.
+
+<p>Before any professional corporation may engage in the practice of law in this Commonwealth, it shall first obtain and maintain a registration certificate required for such corporation by Chapter 39 of Title 54.1. Any such professional corporation which has been issued a certificate of incorporation before June 1, 1973, shall be issued a registration certificate upon the payment of the required fee and upon compliance with § <a href='http://law.lis.virginia.gov/vacode/54.1-3902/'>54.1-3902</a> on or before January 1, 1974.</p><p>1973, c. 484.</p>

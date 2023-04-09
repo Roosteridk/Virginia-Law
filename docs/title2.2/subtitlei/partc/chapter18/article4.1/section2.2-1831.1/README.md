@@ -1,0 +1,3 @@
+# § 2.2-1831.1 Definitions.
+
+<p>As used in this article, unless the context requires a different meaning:</p><p>"Budget Bill" means the Budget Bill submitted pursuant to § <a href='/vacode/2.2-1509/'>2.2-1509</a>, including any amendments to a general appropriation act pursuant to such section.</p><p>"Fund" means the Revenue Reserve Fund.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0827'>827</a>.</p>

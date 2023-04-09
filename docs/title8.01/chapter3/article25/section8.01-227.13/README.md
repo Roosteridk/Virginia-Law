@@ -1,0 +1,3 @@
+# § 8.01-227.13 Winter sports area trail maps.
+
+<p>Each operator, upon request, shall provide to a participant a trail map of all trails located in the operator's winter sports area. The maps shall be available at each ticket sales office and at other locations at the winter sports area such that the maps are easily accessible to participants. All trail maps shall indicate the skill-level designation for each trail at the winter sports area as designated in subsection C of § <a href='http://law.lis.virginia.gov/vacode/8.01-227.12/'>8.01-227.12</a>.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0713'>713</a>.</p>

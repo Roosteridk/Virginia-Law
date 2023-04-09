@@ -1,0 +1,3 @@
+# § 10.1-1408.2 Certification and on-site presence of facility operator.
+
+<p>A. On and after January 1, 1993, no person shall be employed as a waste management facility operator, nor shall any person represent himself as a waste management facility operator, unless such person has been licensed by the Board for Waste Management Facility Operators.</p><p>B. On and after January 1, 1993, all solid waste management facilities shall operate under the direct supervision of a waste management facility operator licensed by the Board for Waste Management Facility Operators.</p><p>1991, cc. 551, 737; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0885'>885</a>.</p>

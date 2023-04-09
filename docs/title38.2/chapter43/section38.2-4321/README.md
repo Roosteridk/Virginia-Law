@@ -1,0 +1,3 @@
+# § 38.2-4321 Health maintenance organization affected by chapter.
+
+<p>Except as otherwise provided by law, no health maintenance organization shall be operated in this Commonwealth other than in the manner set forth in this chapter.</p><p>1980, c. 720, § 38.1-890; 1986, c. 562.</p>

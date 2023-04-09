@@ -1,0 +1,3 @@
+# § 6.2-1120 Minimum capital requirement.
+
+<p>A state savings bank shall comply with the applicable minimum capital requirements of the Federal Deposit Insurance Corporation. The Commission may impose such additional minimum capital requirements as it deems necessary in order to insure the safe and sound operation of state savings banks.</p><p>1991, c. 230, § 6.1-194.116; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

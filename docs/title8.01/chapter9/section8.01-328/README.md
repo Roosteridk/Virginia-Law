@@ -1,0 +1,3 @@
+# § 8.01-328 Person defined.
+
+<p>As used in this chapter, "person" includes an individual, his executor, administrator, or other personal representative, or a corporation, partnership, association or any other legal or commercial entity, whether or not a citizen or domiciliary of this Commonwealth and whether or not organized under the laws of this Commonwealth.</p><p>Code 1950, § 8-81.1; 1964, c. 331; 1977, c. 617.</p>

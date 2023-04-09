@@ -1,0 +1,3 @@
+# § 63.2-321 Interest in and cooperation for public assistance and social services; directing local director.
+
+<p>It shall be the duty of each local board to interest itself in all matters pertaining to the public assistance and social services needed by people of the political subdivision or subdivisions served by the local department, to direct the activities of the local director and to cooperate with the juvenile and domestic relations courts and all other agencies operating for the social betterment of the community.</p><p>Code 1950, § 63-72; 1952, c. 409; 1968, c. 578, § 63.1-57.1; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

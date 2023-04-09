@@ -1,0 +1,3 @@
+# § 52-39 Confidentiality and immunity from service of process.
+
+<p>A. Papers, records, documents, reports, materials or other evidence relative to the subject of an insurance fraud investigation or examination in the possession of the Department shall remain confidential and shall not be subject to public inspection.</p><p>B. Agents employed by the Department shall not be subject to subpoena in civil actions by any court in this Commonwealth to testify concerning any matter of which they have knowledge pursuant to a pending or continuing insurance fraud investigation or examination being conducted by the Department.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0590'>590</a>.</p>

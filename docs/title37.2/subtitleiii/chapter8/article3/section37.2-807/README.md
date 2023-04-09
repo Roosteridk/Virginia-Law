@@ -1,0 +1,3 @@
+# § 37.2-807 Emergency or respite care admissions to training centers.
+
+<p>The Board may adopt regulations to provide for emergency and respite care admissions to training centers. A respite care or emergency admission made pursuant to such regulation shall not be considered an admission under § <a href='http://law.lis.virginia.gov/vacode/37.2-806/'>37.2-806</a> and shall not require judicial certification of eligibility for admission. No individual shall be admitted to a training center under an emergency or respite care admission for more than 21 consecutive days or 75 days in a calendar year.</p><p>1979, c. 204, § 37.1-65.2; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

@@ -1,0 +1,3 @@
+# § 54.1-3507.3 Use of titles.
+
+<p>No person shall claim to be, or use the title of, a substance abuse treatment practitioner, a substance abuse counselor, or a substance abuse counseling assistant unless he has been licensed or certified as such pursuant to §§ <a href='http://law.lis.virginia.gov/vacode/54.1-3507/'>54.1-3507</a>, <a href='http://law.lis.virginia.gov/vacode/54.1-3507.1/'>54.1-3507.1</a> or § <a href='http://law.lis.virginia.gov/vacode/54.1-3507.2/'>54.1-3507.2</a>.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0460'>460</a>.</p>

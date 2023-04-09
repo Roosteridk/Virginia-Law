@@ -1,0 +1,3 @@
+# § 8.01-247.1 Limitation on action for defamation, etc.
+
+<p>Every action for injury resulting from libel, slander, insulting words, or defamation shall be brought within one year after the cause of action accrues.</p><p>If a publisher of statements actionable under this section publishes anonymously or under a false identity on the Internet, an action may be filed under this section and the statute of limitations shall be tolled until the identity of the publisher is discovered or, by the exercise of due diligence, reasonably should have been discovered.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0009'>9</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0128'>128</a>.</p>

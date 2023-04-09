@@ -1,0 +1,3 @@
+# § 18.2-403.4 Unauthorized release of animals; penalty.
+
+<p>Any person who intentionally releases an animal, as defined in § <a href='http://law.lis.virginia.gov/vacode/3.2-6500/'>3.2-6500</a>, lawfully confined for scientific, research, commercial, agricultural or educational purposes without the consent of the owner or custodian of the animal and with the intent to impede or obstruct any such lawful purpose shall be guilty of a Class 1 misdemeanor.</p><p>1992, c. 307.</p>

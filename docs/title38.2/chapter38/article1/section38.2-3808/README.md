@@ -1,0 +1,3 @@
+# § 38.2-3808 Filing copies of constitution and bylaws.
+
+<p>Each company shall file with the Commission a duly certified copy of its constitution, laws or bylaws and all amendments or additions. Printed copies of the constitution, laws or bylaws, certified by the secretary or corresponding officer of the company, shall be prima facie evidence of their legal adoption and filing.</p><p>Code 1950, § 38-481; 1952, c. 317, § 38.1-506; 1986, c. 562.</p>

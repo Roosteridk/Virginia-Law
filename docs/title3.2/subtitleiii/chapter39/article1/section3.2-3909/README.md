@@ -1,0 +1,3 @@
+# § 3.2-3909 Reports of pesticide accidents and incidents.
+
+<p>The Board shall by regulation require the reporting of significant pesticide accidents or incidents posing a threat to humans or the environment to appropriate governmental agencies. To the extent feasible, accident reporting requirements shall be consistent with similar reports required under other laws.</p><p>1975, c. 377, § 3.1-249.10; 1981, c. 260; 1989, c. 575, § 3.1-249.56; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

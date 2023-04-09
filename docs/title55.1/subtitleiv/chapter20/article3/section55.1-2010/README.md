@@ -1,0 +1,3 @@
+# § 55.1-2010 Regrouping or merger of estates with principal property.
+
+<p>All of the co-owners or such lesser percentage as may be authorized in the master deed, or the sole owner of a building constituted into a horizontal property regime, may by deed waive this regime and regroup, amend the master deed, or merge the records of the filial estates with the principal property, provided that the filial estates are unencumbered, or if they are encumbered, that the creditors on whose behalf the encumbrances are recorded accept as security the undivided portions of the property owned by the debtors.</p><p>1962, c. 627, § 9, § 55-79.9; 1966, c. 683; 1973, c. 374; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

@@ -1,0 +1,3 @@
+# § 51.1-300 Judicial Retirement System continued; administration; application of provisions of Virginia Retirement System.
+
+<p>The Judicial Retirement System is continued and shall be administered by the Board of Trustees of the Virginia Retirement System. Except as otherwise provided, the provisions of Chapter 1 (§ <a href='http://law.lis.virginia.gov/vacode/51.1-124.1/'>51.1-124.1</a> et seq.) of this title shall apply to and govern the administration of the Judicial Retirement System.</p><p>1970, c. 779, § 51-160; 1990, c. 832.</p>

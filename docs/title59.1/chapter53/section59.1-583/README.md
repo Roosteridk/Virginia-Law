@@ -1,0 +1,3 @@
+# § 59.1-583 (Effective January 1, 2023) Investigative authority.
+
+<p>Whenever the Attorney General has reasonable cause to believe that any person has engaged in, is engaging in, or is about to engage in any violation of this chapter, the Attorney General is empowered to issue a civil investigative demand. The provisions of § <a href='/vacode/59.1-9.10/'>59.1-9.10</a> shall apply mutatis mutandis to civil investigative demands issued under this section.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0035'>35</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0036'>36</a>.</p>

@@ -1,0 +1,3 @@
+# § 28.2-306 Use of certain fishing devices in certain waters; penalty.
+
+<p>It is unlawful for any person to use any snatch hook, grab hook or gang hook for the purpose of taking or catching fish in the Rappahannock River below the Downing Bridge at Tappahannock between January 1 and March 15. Nothing in this section shall apply to any licensed fixed fishing device.</p><p>A violation of this section is a Class 3 misdemeanor.</p><p>1968, c. 748, § 28.1-51.1; 1976, c. 200; 1982, c. 632; 1992, c. 836.</p>

@@ -1,0 +1,3 @@
+# § 13.1-344 Existing associations continued.
+
+<p>All associations organized under or that have adopted the provisions of Chapter 15, Title 13, as heretofore amended, which are in existence at the date of the enactment of this Act, shall continue in existence subject to the terms of this Act.</p><p>1956, c. 428.</p>

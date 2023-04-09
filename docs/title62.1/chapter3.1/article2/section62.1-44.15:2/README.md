@@ -1,0 +1,3 @@
+# § 62.1-44.15:2 Extraordinary hardship program.
+
+<p>There is hereby established a supplemental program of financial assistance for the construction of water quality control facilities by political subdivisions of the Commonwealth. All sums appropriated for this program shall be apportioned by the Board among the political subdivisions qualifying, to provide financial assistance in addition to that otherwise available to help relieve extraordinary hardship in local funding of the construction of such facilities.</p><p>1975, c. 339.</p>

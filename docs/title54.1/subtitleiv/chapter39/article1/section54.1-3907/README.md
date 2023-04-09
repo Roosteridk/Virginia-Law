@@ -1,0 +1,3 @@
+# § 54.1-3907 Reasonable care of attorney in selection of index.
+
+<p>Any attorney who in the examination of records in the office of the clerk of any court in this Commonwealth relies upon the correctness of any index found in such office, whether it is the original index prepared by the clerk or by persons other than the clerk, shall be deemed to have used reasonable care in the selection of the index.</p><p>1960, c. 441, § 54-44.2; 1988, c. 765.</p>

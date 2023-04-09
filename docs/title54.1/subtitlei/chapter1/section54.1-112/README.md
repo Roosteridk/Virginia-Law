@@ -1,0 +1,3 @@
+# § 54.1-112 Copies of records as evidence.
+
+<p>Copies of all records, documents and other papers of the Department of Professional and Occupational Regulation and the Department of Health Professions and their regulatory boards which bear the official seal and which are duly certified and authenticated in writing on the face of such documents to be true copies by the custodian thereof and by the person to whom the custodian reports shall be received as evidence with like effect as the original records, documents or other papers in all courts of the Commonwealth.</p><p>1988, c. 765; 1993, c. 499.</p>

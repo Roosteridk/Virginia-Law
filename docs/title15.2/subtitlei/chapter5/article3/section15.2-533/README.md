@@ -1,0 +1,3 @@
+# § 15.2-533 Elected school boards.
+
+<p>Notwithstanding any contrary provisions of §§ <a href='http://law.lis.virginia.gov/vacode/15.2-531/'>15.2-531</a> and <a href='http://law.lis.virginia.gov/vacode/15.2-532/'>15.2-532</a>, a county which has an elected school board shall comply with the applicable provisions of Article 7 (§ <a href='http://law.lis.virginia.gov/vacode/22.1-57.1/'>22.1-57.1</a> et seq.) of Title 22.1.</p><p>1997, c. 587.</p>

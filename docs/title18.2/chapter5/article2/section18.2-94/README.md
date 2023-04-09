@@ -1,0 +1,3 @@
+# § 18.2-94 Possession of burglarious tools, etc.
+
+<p>If any person have in his possession any tools, implements or outfit, with intent to commit burglary, robbery or larceny, upon conviction thereof he shall be guilty of a Class 5 felony. The possession of such burglarious tools, implements or outfit by any person other than a licensed dealer, shall be prima facie evidence of an intent to commit burglary, robbery or larceny.</p><p>Code 1950, § 18.1-87; 1960, c. 358; 1970, c. 587; 1975, cc. 14, 15.</p>

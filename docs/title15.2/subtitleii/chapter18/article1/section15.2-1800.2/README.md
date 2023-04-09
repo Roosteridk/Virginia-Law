@@ -1,0 +1,3 @@
+# § 15.2-1800.2 Acquisition of real property near certain facilities.
+
+<p>If a locality in the Commonwealth appropriates funds, from any source, for the acquisition of property rights surrounding Fentress Naval Auxiliary Landing Field ("Fentress") in Chesapeake, the chief executive officer of the locality shall ensure that written notice is provided to the member of the House of Delegates and the member of the Senate of Virginia representing the area in which Fentress is located. Such notice shall be provided promptly, but in no case more than five working days after the appropriation is adopted by the governing body of the locality.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0418'>418</a>.</p>

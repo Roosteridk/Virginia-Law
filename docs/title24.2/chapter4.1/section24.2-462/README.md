@@ -1,0 +1,3 @@
+# § 24.2-462 Receipt of voted ballot.
+
+<p>A valid military-overseas ballot must be counted if it is delivered to the address that the appropriate state or local election office has specified by the close of the polls on the date of the election except as provided in § <a href='http://law.lis.virginia.gov/vacode/24.2-709/'>24.2-709</a>.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0353'>353</a>.</p>

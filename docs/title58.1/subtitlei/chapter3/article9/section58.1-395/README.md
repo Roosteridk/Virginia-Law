@@ -1,0 +1,3 @@
+# § 58.1-395 Nonresident owners.
+
+<p>Pass-through entities may make written application to the Tax Commissioner for permission to file a statement of combined pass-through entity income attributable to nonresident owners and thereby relieve nonresident owners from filing individual nonresident returns. The application must state the reasons for seeking such permission. The Tax Commissioner, in his sole discretion, may, for good cause, grant permission to file a combined nonresident return upon such terms as he may determine.</p><p>2004, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?042+ful+CHAP0003'>3</a>.</p>

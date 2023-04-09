@@ -1,0 +1,3 @@
+# § 15.2-1504 Use of tobacco products by government employees.
+
+<p>No employee of or applicant for employment with a locality or any political subdivision of the Commonwealth shall be required, as a condition of employment, to smoke or use tobacco products on the job, or to abstain from smoking or using tobacco products outside the course of his employment, provided that this section shall not apply to those classes of employees to which § <a href='http://law.lis.virginia.gov/vacode/27-40.1/'>27-40.1</a> or § <a href='http://law.lis.virginia.gov/vacode/51.1-813/'>51.1-813</a> are applicable.</p><p>1989, c. 511, § 15.1-29.18; 1997, c. 587.</p>

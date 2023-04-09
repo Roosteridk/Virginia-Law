@@ -1,0 +1,3 @@
+# § 8.01-576.2 Summary jury trial; selection of jury; fees.
+
+<p>Upon election of the parties, the court shall schedule a summary jury trial to be held as soon as convenient. Notice shall be given to the parties by means adequate to ensure their presence at the time and place of the trial. Seven jurors shall be randomly selected in accordance with the procedures specified in Chapter 11 (§ <a href='http://law.lis.virginia.gov/vacode/8.01-336/'>8.01-336</a> et seq.). Fees shall be allowed to jurors selected for a summary jury trial as provided in § <a href='http://law.lis.virginia.gov/vacode/17.1-618/'>17.1-618</a>.</p><p>1988, c. 759.</p>

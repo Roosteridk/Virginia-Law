@@ -1,0 +1,3 @@
+# § 15.2-971 Armories and markets; assistance to National Guard.
+
+<p>A. A locality may provide and operate armories and markets, or may contract with others for supplying such facilities.</p><p>B. Any locality may appropriate out of the general levy, except the school fund, and expend annually such sums of money as their judgment may warrant to aid and assist in the erection and maintenance of suitable armories for companies of the Virginia National Guard, or otherwise contribute towards the assistance and maintenance of such companies.</p><p>Code 1950, §§ 15-77.44, 15-694; 1958, c. 328; 1962, c. 623, §§ 15.1-268, 15.1-880; 1970, c. 225; 1997, c. 587.</p>

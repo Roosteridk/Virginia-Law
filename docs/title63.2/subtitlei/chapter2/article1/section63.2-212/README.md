@@ -1,0 +1,3 @@
+# § 63.2-212 Employment of agents and employees.
+
+<p>The Commissioner may, subject to the provisions of Chapter 29 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-2900/'>2.2-2900</a> et seq.) of Title 2.2, employ or authorize the employment of such agents and employees as may be needed by the Commissioner and the Department in the exercise of the functions, duties and powers conferred and imposed by law upon him and the Department, and in order to effect a proper organization and to carry out its duties.</p><p>Code 1950, § 63-10; 1968, cc. 578, 670, § 63.1-10; 1981, c. 21; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

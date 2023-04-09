@@ -1,0 +1,3 @@
+# § 15.2-1508.2 Same; where Commonwealth bears portion of expenses.
+
+<p>Any person traveling on business of any locality wherein the Commonwealth is required to bear a portion of the expenses may be reimbursed by any such locality on a basis not in excess of that provided in § <a href='http://law.lis.virginia.gov/vacode/2.2-2823/'>2.2-2823</a> but the portion to be borne by the Commonwealth shall be subject to the approval of the State Compensation Board.</p><p>Code 1950, § 14-5.3; 1954, c. 709; 1956, c. 214; 1962, c. 501; 1964, c. 386, § 14.1-8; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

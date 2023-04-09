@@ -1,0 +1,3 @@
+# § 4.1-1110 Possessing or consuming marijuana or marijuana products while operating a school bus; penalty.
+
+<p>Any person who possesses or consumes marijuana or marijuana products while operating a school bus and transporting children is guilty of a Class 1 misdemeanor. For the purposes of this section, "school bus" has the same meaning as provided in § <a href='/vacode/46.2-100/'>46.2-100</a>.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0550'>550</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0551'>551</a>.</p>

@@ -1,0 +1,3 @@
+# § 6.2-607 Effect of divorce.
+
+<p>Upon the entry of a decree of divorce, either a mensa et thoro or a vinculo matrimonii, all rights of either consort in any multiple-party account then existing between them, including the right of survivorship, shall be extinguished; and any joint account then existing between the consorts shall thereupon be converted into a tenancy in common, in the proportions provided in subsection A of § <a href='http://law.lis.virginia.gov/vacode/6.2-606/'>6.2-606</a>, unless otherwise ordered by the court.</p><p>1979, c. 407, § 6.1-125.4; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

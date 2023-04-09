@@ -1,0 +1,1 @@
+# 3 OPEN BURNING [Repealed]

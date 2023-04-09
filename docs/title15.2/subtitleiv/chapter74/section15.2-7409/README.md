@@ -1,0 +1,3 @@
+# § 15.2-7409 Reports.
+
+<p>The Authority shall keep minutes of its proceedings, which minutes shall be open to public inspection during normal business hours. It shall keep suitable records of all its financial transactions and shall arrange to have the same audited annually by an independent certified public accountant. Copies of each such audit shall be furnished to each participating political subdivision and shall be open to public inspection.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0471'>471</a>.</p>

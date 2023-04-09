@@ -1,0 +1,3 @@
+# § 15.2-962 Authority to require a unified geographic information system for a locality.
+
+<p>Any locality may by ordinance require that any or all of its agencies, departments, authorities, committees, instrumentalities, or political subdivisions participate in one or more unified or centralized systems for geographic information, mapping, surveying, or land information. The ordinance may establish such conditions as may be necessary to develop, maintain, and operate any such system for geographic information, mapping, surveying, or land information.</p><p>1992, c. 39, § 15.1-11.7; 1997, c. 587.</p>

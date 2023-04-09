@@ -1,0 +1,3 @@
+# § 38.2-4003 Licensing of additional societies prohibited.
+
+<p>Any burial society that was not licensed and operating as a burial society in this Commonwealth on July 1, 1952, shall not be issued a license as a burial society in this Commonwealth. On or after July 1, 1952, only a renewal of a license held by a society for the preceding year will be issued.</p><p>1952, c. 317, § 38.1-553; 1986, c. 562.</p>

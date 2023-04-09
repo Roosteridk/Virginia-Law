@@ -1,0 +1,3 @@
+# § 15.2-3601 Hearing before Commission on Local Government; notice; parties; finding of Commission.
+
+<p>Upon request of the special court, the Commission on Local Government shall conduct a hearing to determine whether the criteria in § <a href='http://law.lis.virginia.gov/vacode/15.2-3602/'>15.2-3602</a> have been satisfied. The hearing shall be set no less than thirty days after receipt of the petition by the Commission. All interested parties may present evidence before the Commission, and any county in which is located the area proposed for incorporation shall be made parties to the Commission's hearing.</p><p>1979, c. 85, § 15.1-966.1; 1980, c. 170; 1997, c. 587.</p>

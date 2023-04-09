@@ -1,0 +1,3 @@
+# § 15.2-5366 When powers and duties cease to exist.
+
+<p>If the court enters an order, as provided in § <a href='http://law.lis.virginia.gov/vacode/15.2-5365/'>15.2-5365</a>, that the need for such authority no longer exists, except for completing its affairs in accordance with the plan approved by the court, its authorities, powers and duties to transact business or to function shall cease to exist as of the date set forth in the order of the court.</p><p>Code 1950, § 32-275.2; 1962, c. 395, § 15.1-1601; 1979, c. 719; 1997, c. 587.</p>

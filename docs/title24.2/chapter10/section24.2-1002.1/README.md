@@ -1,0 +1,3 @@
+# § 24.2-1002.1 Unlawful disclosure or use of social security number or part thereof.
+
+<p>Any person who discloses or makes any use of the social security number, or any part thereof, of any applicant for voter registration, except as authorized by law for official use, shall be guilty of a Class 5 felony.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0072'>72</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0073'>73</a>; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0318'>318</a>.</p>

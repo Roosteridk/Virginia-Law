@@ -1,0 +1,3 @@
+# § 58.1-444 Several liability of affiliated corporations.
+
+<p>Each affiliated corporation which was included in the consolidated return for any part of the consolidated return year shall be jointly and severally liable for the tax for such year computed in accordance with § <a href='http://law.lis.virginia.gov/vacode/58.1-442/'>58.1-442</a> and regulations prescribed by the Department for the filing of the consolidated return for such year.</p><p>No agreement entered into by one or more members of the affiliated group with any other member of such group or with any other person shall in any case have the effect of reducing the liability prescribed under this section.</p><p>Code 1950, § 58-151.080; 1971, Ex. Sess., c. 171; 1977, c. 243; 1984, c. 675.</p>

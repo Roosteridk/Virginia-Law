@@ -1,0 +1,3 @@
+# § 3.2-5602 Commissioner to test accuracy of point-of-sale systems.
+
+<p>The Commissioner shall inspect and test point-of-sale systems, as he deems necessary, to determine: (i) the accuracy and correct operation of the equipment; and (ii) if such system utilizes coding means in lieu of manual entry, the accuracy of the data base.</p><p>1991, c. 605, § 3.1-924.1; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

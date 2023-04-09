@@ -1,0 +1,3 @@
+# § 28.2-710 Unlawful to place crab, eel, or fish pots in certain channels; penalty.
+
+<p>It is unlawful to place or maintain any crab, eel, or fish pot in a navigable channel which has navigation aids installed or approved by any agency of the United States government or in any portion of a government marked channel of a river, bay, estuary, creek or inlet. The owner or user of any crab, eel, or fish pot who has located such pot in accordance with this section shall be relieved of civil liability for any damages resulting from the location of such pot.</p><p>A violation of this section is a Class 3 misdemeanor.</p><p>1968, c. 785, § 28.1-173.1; 1981, c. 23; 1990, c. 493; 1992, c. 836.</p>

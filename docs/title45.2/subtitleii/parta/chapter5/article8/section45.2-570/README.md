@@ -1,0 +1,3 @@
+# § 45.2-570  Tolling of time for abating violations.
+
+<p>The period of time specified in a notice of violation for the abatement of the violation shall not begin to run until (i) the final decision of the Department is issued, if an administrative appeal of its issuance is pursued, or (ii) the final order of the circuit court is rendered, if an appeal of its issuance is taken to circuit court and if such appeal pursuant to clause (i) or (ii) was undertaken in good faith and not solely for delay or avoidance of penalties.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.92; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

@@ -1,0 +1,3 @@
+# § 4.1-1503 Annual reports.
+
+<p>On or before December 1 of each year, the Authority shall report to the Secretary of Public Safety and Homeland Security, the Officer of Diversity, Equity, and Inclusion, the Governor, and the Chairmen of the House Committee on Appropriations and the Senate Committee on Finance and Appropriations on such other matters regarding the Fund as the Authority may deem appropriate, including the amount of funding committed to projects from the Fund, or other items as may be requested by any of the foregoing persons to whom such report is to be submitted.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0550'>550</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0551'>551</a>.</p>

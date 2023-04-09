@@ -1,0 +1,3 @@
+# § 21-355 Opening bids.
+
+<p>All bids shall be sealed and shall not be opened except under the authority of the board of viewers and on the day theretofore appointed for opening the bids.</p><p>Code 1919, § 1761; 1926, p. 617; 1954, c. 642.</p>

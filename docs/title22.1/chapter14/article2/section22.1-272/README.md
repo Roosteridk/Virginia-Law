@@ -1,0 +1,3 @@
+# § 22.1-272 Contagious and infectious diseases.
+
+<p>Persons suffering with contagious or infectious disease shall be excluded from the public schools while in that condition.</p><p>Code 1950, § 22-249; 1968, c. 445; 1970, c. 526; 1973, c. 491; 1974, c. 160; 1977, c. 220; 1979, c. 262; 1980, c. 559.</p>

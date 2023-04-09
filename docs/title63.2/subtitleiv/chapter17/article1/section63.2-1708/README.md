@@ -1,0 +1,3 @@
+# § 63.2-1708 Records and reports.
+
+<p>Every licensed assisted living facility, licensed adult day care center, or licensed child welfare agency shall keep such records and make such reports to the Commissioner as he may require. The forms to be used in the making of such reports shall be prescribed and furnished by the Commissioner.</p><p>Code 1950, § 63-240; 1968, c. 578, § 63.1-203; 1978, c. 730; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0830'>830</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>; 2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0860'>860</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0861'>861</a>.</p>

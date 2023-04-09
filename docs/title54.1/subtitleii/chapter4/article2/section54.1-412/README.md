@@ -1,0 +1,3 @@
+# § 54.1-412 Applicability.
+
+<p>This chapter shall not be construed to restrict or otherwise affect the right of any uncertified interior designer, architect, engineer, or any other person from rendering any of the services which constitute the practice of interior design; however, no person may hold himself out as, or use the title of, "certified interior designer" unless he has been so certified pursuant to the provisions of this chapter.</p><p>1990, c. 512.</p>

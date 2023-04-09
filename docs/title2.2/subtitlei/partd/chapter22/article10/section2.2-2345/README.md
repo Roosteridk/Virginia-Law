@@ -1,0 +1,3 @@
+# § 2.2-2345 Powers and duties of executive director.
+
+<p>The executive director shall exercise such powers and duties relating to the Authority conferred upon the Board as may be delegated to him by the Board, including powers and duties involving the exercise of discretion. The executive director shall also exercise and perform such other powers and duties as may be lawfully delegated to him and such powers and duties as may be conferred or imposed upon him by law.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0716'>716</a>.</p>

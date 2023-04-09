@@ -1,0 +1,3 @@
+# § 6.2-1402 Use of certain words in name prohibited.
+
+<p>An association shall neither use in its corporate name nor do business under a name containing the word "bank," "savings bank," "banker," "trust company," "trust," or other word of similar import.</p><p>Code 1950, §§ 6-242, 6-244; 1956, c. 433; 1958, c. 139; 1966, c. 584, § 6.1-227; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>
