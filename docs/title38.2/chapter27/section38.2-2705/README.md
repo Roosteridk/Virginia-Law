@@ -1,3 +1,0 @@
-# § 38.2-2705 Operation of inspection service.
-
-<p>A. The residual market facility may employ other organizations to perform inspection services to determine whether property is within the definition of qualified property.</p><p>B. The plan of operation regarding the inspection service, the experience and qualifications of the organization proposed to conduct the inspection service, the manner and scope of the inspection, and the form of the inspection report shall be set forth by the residual market facility in a written report made to the Commission and shall be subject to approval by the Commission.</p><p>1968, c. 559, § 38.1-748; 1980, c. 156; 1982, c. 664; 1986, c. 562.</p>

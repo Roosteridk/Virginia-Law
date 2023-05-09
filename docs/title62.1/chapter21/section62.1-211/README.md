@@ -1,3 +1,0 @@
-# § 62.1-211 Purchase of bonds by Authority.
-
-<p>The Authority, subject to such agreements with bondholders as may then exist, shall have the power to purchase bonds of the Authority out of any available funds, at any reasonable price. If the bonds are then redeemable, this price shall not exceed the redemption price then applicable plus accrued interest to the next interest payment date.</p><p>1984, c. 699.</p>

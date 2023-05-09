@@ -1,3 +1,0 @@
-# § 45.2-747  Conveyor crossings.
-
-<p>Suitable facilities for crossing a conveyor belt shall be provided where it is necessary for miners to cross such conveyor belt regularly.</p><p>Code 1950, § 45-69.5; 1954, c. 191; 1966, c. 594, § 45.1-71; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.136; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

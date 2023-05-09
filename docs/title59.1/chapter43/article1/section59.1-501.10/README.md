@@ -1,3 +1,0 @@
-# § 59.1-501.10 Contractual choice of forum.
-
-<p>(a) The parties in their agreement may choose an exclusive judicial forum unless the choice is unreasonable or unjust.</p><p>(b) A judicial forum specified in an agreement is not exclusive unless the agreement expressly so provides and, in a mass-market transaction, expressly and conspicuously so provides.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0101'>101</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0996'>996</a>; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0763'>763</a>.</p>

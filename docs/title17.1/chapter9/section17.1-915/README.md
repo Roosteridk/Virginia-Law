@@ -1,3 +1,0 @@
-# § 17.1-915 Witness fees; mileage; exception.
-
-<p>A. Each witness, shall receive for his attendance the same fees and all witnesses shall receive the same mileage allowed by law to a witness in civil cases. The amount shall be paid by the Commission from funds appropriated for the use of the Commission.</p><p>B. This section shall not apply to an officer or employee of the Commonwealth or a political subdivision thereof, or an officer or an employee of a court of the Commonwealth.</p><p>1971, Ex. Sess., c. 154, § 2.1-37.15; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,3 +1,0 @@
-# § 46.2-728.2 Special license plates displaying a scenic design of Virginia; fees.
-
-<p>On receipt of an application, the Commissioner shall issue license plates displaying a scenic design of Virginia. These license plates shall be valid for whatever period the Commissioner determines.</p><p>For each set of license plates issued under this section the Commissioner shall charge, in addition to the prescribed cost of state license plates, a one-time fee of ten dollars at the time the plates are issued.</p><p>1992, cc. 142, 631.</p>

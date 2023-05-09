@@ -1,3 +1,0 @@
-# § 28.2-1003 Authority to regulate dredging of soft shell clams.
-
-<p>The Potomac River Fisheries Commission shall have the power to make, adopt and publish such rules and regulations as may be necessary or desirable for authorizing and regulating the dredging of soft shell clams in areas within its geographical jurisdiction and may levy license fees for such dredging in amounts to be set in its discretion.</p><p>1964, Ex. Sess., c. 24, § 28.1-227; 1992, c. 836 .</p>

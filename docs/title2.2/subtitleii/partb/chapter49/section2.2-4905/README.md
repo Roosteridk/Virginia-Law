@@ -1,3 +1,0 @@
-# § 2.2-4905 Limitation of chapter.
-
-<p>This chapter shall not limit or alter the rights of the Commonwealth or any of its instrumentalities to fulfill the terms of any agreements made with the holders of any bonds, notes, or other obligations of the Commonwealth or such instrumentality issued and outstanding prior to July 1, 1994, or to in any way impair the rights and remedies of such holders.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0043'>43</a>, § 2.1-304.7; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

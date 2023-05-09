@@ -1,3 +1,0 @@
-# § 6.2-2109 Criminal penalties.
-
-<p>Any person required to be registered under this chapter who acts as a check casher without first registering with the Commission as required by § <a href='http://law.lis.virginia.gov/vacode/6.2-2101/'>6.2-2101</a> is guilty of a Class 1 misdemeanor. For the purposes of this section, each transaction entered into involving the cashing of an item by such person shall constitute a separate offense.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0221'>221</a>, § 6.1-441; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

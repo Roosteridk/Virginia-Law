@@ -1,3 +1,0 @@
-# § 3.2-4607 Fruit represented as exposed to controlled atmosphere storage to meet requirements of chapter.
-
-<p>It is unlawful for any person to sell, offer for sale, hold for sale, or transport for sale any fruits represented as having been exposed to controlled atmosphere storage or to use any such terms or form of words or symbols of similar import unless such fruits have been stored in controlled atmosphere storage that complies with the requirements of this chapter or regulations adopted hereunder.</p><p>Code 1950, § 3-711; 1964, c. 214; 1966, c. 702, § 3.1-992; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

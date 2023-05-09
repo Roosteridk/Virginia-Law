@@ -1,3 +1,0 @@
-# § 23.1-708 Assets of the Plan exempt from taxation.
-
-<p>The assets of the Plan and their income are exempt from state and local taxation.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0661'>661</a>, § 23-38.83; 2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0382'>382</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0400'>400</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

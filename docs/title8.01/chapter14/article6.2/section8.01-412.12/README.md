@@ -1,3 +1,0 @@
-# § 8.01-412.12 Deposition, production, and inspection.
-
-<p>Statutes and rules applicable in actions pending in the circuit courts of the Commonwealth with respect to compliance with subpoenas to attend and give testimony, produce designated books, documents, records, electronically stored information, or tangible things, or permit inspection of premises, shall apply to subpoenas issued under § <a href='http://law.lis.virginia.gov/vacode/8.01-412.10/'>8.01-412.10</a>.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0701'>701</a>.</p>

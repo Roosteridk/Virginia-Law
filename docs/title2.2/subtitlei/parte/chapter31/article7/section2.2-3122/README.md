@@ -1,3 +1,0 @@
-# § 2.2-3122 Knowing violation of chapter constitutes malfeasance in office or employment.
-
-<p>Any person who knowingly violates any of the provisions of this chapter shall be guilty of malfeasance in office or employment. Upon conviction thereof, the judge or jury trying the case, in addition to any other fine or penalty provided by law, may order the forfeiture of such office or employment.</p><p>1987, Sp. Sess., c. 1, § 2.1-639.19; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

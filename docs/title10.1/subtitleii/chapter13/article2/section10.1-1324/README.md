@@ -1,3 +1,0 @@
-# § 10.1-1324 Office of Small Business Ombudsman created.
-
-<p>An Office of Small Business Ombudsman is hereby created within the Department. The Office shall be headed by an ombudsman appointed by the Executive Director. The Small Business Ombudsman shall provide direct oversight of the small business stationary source technical and environmental compliance assistance program.</p><p>1992, c. 303.</p>

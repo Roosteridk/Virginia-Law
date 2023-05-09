@@ -1,3 +1,0 @@
-# § 8.01-305 Process against unincorporated associations or orders, or unincorporated common carriers.
-
-<p>Subject to § <a href='http://law.lis.virginia.gov/vacode/8.01-286.1/'>8.01-286.1</a>, process against an unincorporated (i) association, (ii) order, or (iii) common carrier, may be served on any officer, trustee, director, staff member or other agent.</p><p>Code 1950, §§ 8-66, 8-67; 1962, c. 250; 1977, c. 617; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0866'>866</a>.</p>

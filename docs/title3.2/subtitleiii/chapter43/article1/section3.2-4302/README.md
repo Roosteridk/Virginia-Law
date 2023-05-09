@@ -1,3 +1,0 @@
-# § 3.2-4302 Establishment of grades, marks, and brands.
-
-<p>The Commissioner may adopt regulations governing the voluntary use of grades, trademarks, brands, and other markings for agricultural products produced, packed, or marked in the Commonwealth. The regulations shall prescribe the: (i) grade, classification, quality, condition, size, variety, quantity, or other characteristics of such products; and (ii) marks identifying the party responsible for the grading and marking of such products.</p><p>Code 1950, § 3-259; 1966, c. 702, § 3.1-338; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0317'>317</a>.</p>

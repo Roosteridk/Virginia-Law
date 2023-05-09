@@ -1,3 +1,0 @@
-# § 56-249.2 Certain records to be maintained.
-
-<p>All public utilities doing business in the Commonwealth that file a rate of return statement shall, on and after January 1, 1977, or the beginning of the next fiscal year of the public utility after such date, maintain all records necessary to prepare and submit annually a rate of return statement reflecting that part of its total business under regulation of the Commission.</p><p>1976, c. 742; 1979, c. 617; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0738'>738</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0740'>740</a>.</p>

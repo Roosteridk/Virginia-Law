@@ -1,3 +1,0 @@
-# § 22.1-215.1 Information regarding procedures and rights relating to special education placement and withdrawal.
-
-<p>The Board shall publicize and disseminate to parents of students who are enrolled in special education programs or for whom a special education placement has been recommended information regarding current federal law and regulation addressing procedures and rights related to the placement and withdrawal of children in special education.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0439'>439</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0355'>355</a>.</p>

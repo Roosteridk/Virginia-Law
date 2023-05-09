@@ -1,3 +1,0 @@
-# § 8.01-239 Ground rents.
-
-<p>No action shall be brought for the recovery of any ground rent reserved upon real estate after the expiration of ten years from the time such ground rent becomes due and payable.</p><p>Code 1950, § 8-10; 1977, c. 617.</p>

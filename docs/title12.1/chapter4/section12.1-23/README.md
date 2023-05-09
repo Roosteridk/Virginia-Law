@@ -1,3 +1,0 @@
-# § 12.1-23 Duties and powers of bailiff and deputy bailiff.
-
-<p>The bailiff and deputy bailiffs of the Commission shall, in all matters within the jurisdiction of the Commission, have the powers, discharge the functions, and perform the duties of a sheriff or sergeant under the law, shall preserve order during the public sessions of the Commission, and may make arrests and serve and make return on any writ or process awarded by the Commission, and execute any writ, order, or process of execution awarded upon the findings or judgments of the Commission in any matter within its jurisdiction.</p><p>Code 1950, § 12-43; 1971, Ex. Sess., c. 157; 1981, c. 100.</p>

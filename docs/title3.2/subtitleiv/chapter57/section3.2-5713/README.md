@@ -1,3 +1,0 @@
-# § 3.2-5713 Penalties.
-
-<p>A. Any person violating any provision of this chapter is guilty of a Class 1 misdemeanor, and may, in addition to or in lieu thereof, be assessed a civil penalty, as provided in § <a href='http://law.lis.virginia.gov/vacode/3.2-5714/'>3.2-5714</a>.</p><p>B. Nothing in this chapter shall be construed as requiring the Commissioner to report, for the institution of proceedings under this chapter, minor violations of this chapter, whenever the Commissioner believes that the public interest will be adequately served in the circumstances by a suitable written notice of warning.</p><p>1992, c. 242, § 3.1-969.14; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

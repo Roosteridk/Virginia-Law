@@ -1,3 +1,0 @@
-# § 33.2-3811 Bonds exempt from taxation.
-
-<p>The authority shall not be required to pay any taxes or assessments of any kind whatsoever, and its bonds, their transfer, the interest payable on them, and any income derived from them, including any profit realized in their sale or exchange, shall be exempt at all times from every kind and nature of taxation by the Commonwealth or by any of its political subdivisions, municipal corporations, or public agencies of any kind.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0353'>353</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0354'>354</a>.</p>

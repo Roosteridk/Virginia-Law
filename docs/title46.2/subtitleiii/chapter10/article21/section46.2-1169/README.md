@@ -1,3 +1,0 @@
-# § 46.2-1169 Inspection defined; making of repairs or adjustments.
-
-<p>The term "inspection" as herein used shall not include repairs or adjustments. Repairs or adjustments necessary to bring the vehicle into conformity with this title may be made by agreement between the owner and such station or whatever repair station the owner may select. If such adjustments or repairs are made by anyone other than an official inspection station, such vehicle shall again be inspected by an official inspection station.</p><p>Code 1950, § 46-321; 1958, c. 541, § 46.1-322; 1989, c. 727.</p>

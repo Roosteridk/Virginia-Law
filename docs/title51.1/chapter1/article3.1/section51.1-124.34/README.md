@@ -1,3 +1,0 @@
-# § 51.1-124.34 Retention of investments that become ineligible.
-
-<p>An investment that conformed with the provisions of this chapter at the time the investment was made may be retained even though the investment ceases to be eligible for purchase under the provisions of this chapter, unless the standard of care in § <a href='http://law.lis.virginia.gov/vacode/51.1-124.30/'>51.1-124.30</a> requires the sale or other disposition of the investment.</p><p>1980, c. 596, § 51-111.24:1; 1988, c. 526; 1989, c. 28; 1990, c. 832, § 51.1-123; 1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0004'>4</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0085'>85</a>.</p>

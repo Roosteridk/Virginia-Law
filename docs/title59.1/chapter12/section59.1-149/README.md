@@ -1,3 +1,0 @@
-# § 59.1-149 Definitions.
-
-<p>As used in this chapter:</p><p>"Commissioner" means the Commissioner of Agriculture and Consumer Services or his designated representative.</p><p>"Gasoline" shall be construed to include naphtha, benzine and other like liquids and fluids derived from petroleum or other sources and used, or intended to be used, for power purposes, except kerosene.</p><p>"Lubricating oil" means lubricating oils used in internal combustion engines.</p><p>"Motor fuel" means any liquid or gaseous matter used for the generation of power in an internal combustion engine.</p><p>Code 1950, § 59-41; 1968, c. 439; 1992, c. 885; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0650'>650</a>.</p>

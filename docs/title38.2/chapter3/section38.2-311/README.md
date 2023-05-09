@@ -1,3 +1,0 @@
-# § 38.2-311 Type size in which conditions and restrictions to be printed.
-
-<p>Except as otherwise provided in this title, no restriction, condition or provision in or endorsed on any insurance policy shall be valid unless the condition or provision is printed in type as large as eight point type, or is written in ink or typewritten in or on the policy. This section shall not apply to a copy of an application or parts thereof, attached to or made part of an insurance policy.</p><p>Code 1950, § 38-9; 1952, c. 317, § 38.1-338; 1986, c. 562.</p>

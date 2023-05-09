@@ -1,3 +1,0 @@
-# § 38.2-5511 Immunity.
-
-<p>There shall be no liability on the part of, and no cause of action shall arise against, the Commission, the Commissioner of Insurance, or any of the Commission's employees or agents, acting in good faith, for any action taken by them in the performance of their powers and duties under this Act.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0789'>789</a>.</p>

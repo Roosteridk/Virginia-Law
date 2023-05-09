@@ -1,3 +1,0 @@
-# § 19.2-27 Effect of repeal of Title 39.1 on prior acts, offenses, etc.
-
-<p>The repeal of Title 39.1 effective as of January 1, 1974, shall not affect any act or offense done or committed or any penalty or forfeiture incurred, or any right established, accrued, or accruing on or before such date, or any prosecution, suit or action pending on that day.</p><p>Code 1950, § 19.1-375; 1973, c. 545; 1975, c. 495.</p>

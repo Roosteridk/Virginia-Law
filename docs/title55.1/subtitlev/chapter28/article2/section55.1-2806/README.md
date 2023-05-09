@@ -1,3 +1,0 @@
-# § 55.1-2806 Boundary lines of certain low grounds on James River a lawful fence.
-
-<p>The owners and occupants of low grounds on either side of the James River in Albemarle, Buckingham, and Goochland Counties, enclosed by lawful fences on the back and hill lands, need not keep up any fence on the boundary lines running across the low grounds to the river, and such boundary lines shall be deemed a lawful fence, except where public roads cross the river or run parallel with its banks.</p><p>Code 1950, § 8-872; 1977, c. 624, § 55-302; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

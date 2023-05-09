@@ -1,3 +1,0 @@
-# § 3.2-5800 Definitions.
-
-<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Public weighing," means the weighing for any person, upon request, of property, produce, commodities, or articles other than those that the weigher or his employer, or any, is either buying or selling.</p><p>"Vehicle" means any device in, upon, or by which any property, produce, commodity, or article is or may be transported or drawn.</p><p>Code 1950, §§ 3-709.1, 3-709.17; 1962, c. 126; 1966, c. 702, § 3.1-970, 3.1-986; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

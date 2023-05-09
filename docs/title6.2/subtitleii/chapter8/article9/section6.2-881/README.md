@@ -1,3 +1,0 @@
-# § 6.2-881 Investment in reverse annuity mortgages.
-
-<p>A bank may invest in reverse annuity mortgages to the extent and in the manner that may be provided in regulations adopted by the Commission.</p><p>1979, c. 386, § 6.1-65.1; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0501'>501</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

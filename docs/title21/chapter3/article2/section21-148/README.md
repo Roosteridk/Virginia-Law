@@ -1,3 +1,0 @@
-# § 21-148 Signatures on petition.
-
-<p>Every such petition shall be signed by not less than 200 qualified voters of the proposed sanitation district, including not less than 50 qualified voters of each city and county and town in whole or in part embraced within the proposed sanitation district.</p><p>1938, p. 512; Michie Code 1942, § 1560jj.</p>

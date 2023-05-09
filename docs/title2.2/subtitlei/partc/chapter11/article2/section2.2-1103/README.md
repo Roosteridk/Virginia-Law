@@ -1,3 +1,0 @@
-# § 2.2-1103 Division of Consolidated Laboratory Services.
-
-<p>Within the Department shall be created the Division of Consolidated Laboratory Services (the "Division"), which shall provide certain laboratory services, including research and scientific investigations, for various agencies of the Commonwealth in an efficient, effective and professional manner. The provisions of this article shall in no manner limit the authority and responsibilities of institutions of higher education from conducting laboratory services, research and scientific investigations independently of the Division.</p><p>Code 1950, § 32-31.1; 1972, c. 741; 1977, c. 672, § 2.1-426; 1990, c. 825; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

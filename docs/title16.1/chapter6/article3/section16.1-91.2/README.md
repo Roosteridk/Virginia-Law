@@ -1,3 +1,0 @@
-# § 16.1-91.2 Judge to keep record of judgment on forthcoming bond; how to endorse execution.
-
-<p>The judge of the general district court, rendering a judgment under the provisions of Chapter 19 (§ <a href='http://law.lis.virginia.gov/vacode/8.01-526/'>8.01-526</a> et seq.) of Title 8.01, shall keep a record thereof in the same manner as he is required by law in other cases. He shall not stay execution upon such judgment, and shall endorse on any fieri facias issued thereon "no security is to be taken."</p><p>Code 1950, § 8-461; 1962, c. 10; 1977, c. 624.</p>

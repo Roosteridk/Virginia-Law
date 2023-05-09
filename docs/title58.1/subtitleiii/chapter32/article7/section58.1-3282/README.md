@@ -1,3 +1,0 @@
-# § 58.1-3282 When land and improvements owned separately; how assessed.
-
-<p>When a public service corporation or a political subdivision of the Commonwealth does not own both a tract, piece or parcel of land and the improvements thereon, including leasehold improvements owned by the lessee which are to be removed by the lessee at the end of the lease term, the land and such improvements may be assessed separately.</p><p>Code 1950, § 58-773.1; 1952, c. 229; 1984, c. 675; 1988, c. 280.</p>

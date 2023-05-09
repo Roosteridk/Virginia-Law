@@ -1,3 +1,0 @@
-# § 38.2-3811 Benefits not subject to process.
-
-<p>Any money, other benefit, charity, relief or aid to be paid, provided or rendered by any company shall not be liable to attachment, garnishment or other process, or be seized, taken, appropriated or applied by any legal or equitable process or operation of law to pay any debt or liability of a member, his beneficiary, or any other person who may have a right thereunder, either before or after payment.</p><p>Code 1950, § 38-493; 1952, c. 317, § 38.1-510; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 18.2-357 Receiving money from earnings of male or female prostitute; penalties.
-
-<p>Any person who shall knowingly receive any money or other valuable thing from the earnings of any male or female engaged in prostitution, except for a consideration deemed good and valuable in law, shall be guilty of pandering, punishable as a Class 4 felony. Any person who violates this section by receiving money or other valuable thing from a person under the age of 18 is guilty of a Class 3 felony.</p><p>Code 1950, § 18.1-208; 1960, c. 358; 1975, cc. 14, 15; 1980, c. 534; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0690'>690</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0691'>691</a>.</p>

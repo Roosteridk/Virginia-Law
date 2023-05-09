@@ -1,3 +1,0 @@
-# § 8.01-632 How surety in forthcoming bond may obtain additional security.
-
-<p>Any surety in the forthcoming bond described in §§ <a href='http://law.lis.virginia.gov/vacode/8.01-630/'>8.01-630</a> and <a href='http://law.lis.virginia.gov/vacode/8.01-631/'>8.01-631</a>, or his personal representative, may move for and obtain an order for other or additional security, in the same manner as the defendant in an injunction.</p><p>Code 1950, § 8-624; 1977, c. 617.</p>

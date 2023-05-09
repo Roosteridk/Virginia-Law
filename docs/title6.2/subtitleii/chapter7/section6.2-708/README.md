@@ -1,3 +1,0 @@
-# § 6.2-708 Unsafe or unsound practices; cease and desist orders.
-
-<p>Upon finding that any activity of a financial institution holding company, including the control of an entity other than a Virginia financial institution, is or may be detrimental to the safety or soundness of a financial institution that is subject to regulation under the laws of the Commonwealth, the Commission, after reasonable notice to the financial institution holding company and an opportunity for it to be heard, shall have authority to order it to cease and desist from such activity.</p><p>1978, c. 683, § 6.1-385; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,3 +1,0 @@
-# § 64.2-740 Interpretation of references to Internal Revenue Code in §§ 64.2-736 through 64.2-739.
-
-<p>Each reference to a section of the Internal Revenue Code made in §§ <a href='http://law.lis.virginia.gov/vacode/64.2-736/'>64.2-736</a> through <a href='http://law.lis.virginia.gov/vacode/64.2-739/'>64.2-739</a> shall include future amendments to such Code sections and corresponding provisions of future internal revenue laws.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-544.22; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

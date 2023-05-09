@@ -1,3 +1,0 @@
-# § 20-88.64:4 Penalties for noncompliance.
-
-<p>An employer that willfully fails to comply with an income-withholding order issued in another state and received for enforcement is subject to the same penalties that may be imposed for noncompliance with an order issued by a tribunal of the Commonwealth.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0797'>797</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0897'>897</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0727'>727</a>.</p>

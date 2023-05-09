@@ -1,3 +1,0 @@
-# § 2.2-4333 Retainage on construction contracts.
-
-<p>A. In any public contract for construction that provides for progress payments in installments based upon an estimated percentage of completion, the contractor shall be paid at least ninety-five percent of the earned sum when payment is due, with no more than five percent being retained to ensure faithful performance of the contract. All amounts withheld may be included in the final payment.</p><p>B. Any subcontract for a public project that provides for similar progress payments shall be subject to the provisions of this section.</p><p>1982, c. 647, § 11-56; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

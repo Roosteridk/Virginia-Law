@@ -1,3 +1,0 @@
-# § 40.1-51.13 Posting of certificate.
-
-<p>Certificates shall be posted in the room containing the boiler or pressure vessel inspected. If the boiler or pressure vessel is not located within the building the certificate shall be posted in a location convenient to the boiler or pressure vessel inspected, or in any place where it will be accessible to interested parties.</p><p>1972, c. 237; 1990, c. 226.</p>

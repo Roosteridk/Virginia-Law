@@ -1,3 +1,0 @@
-# § 18.2-208 Making false statement, etc., for marriage record, etc.
-
-<p>If any person, upon whose information or statement any record or registration may lawfully be made under Title 20 (§ <a href='http://law.lis.virginia.gov/vacode/20-13/'>20-13</a> et seq.), knowingly give any false information, or make any false statement to be used for the purpose of making any such record or registration, he shall, for every such offense, be guilty of a Class 4 misdemeanor.</p><p>Code 1950, § 18.1-99; 1960, c. 358; 1975, cc. 14, 15.</p>

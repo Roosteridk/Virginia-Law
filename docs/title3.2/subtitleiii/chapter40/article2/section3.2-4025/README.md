@@ -1,3 +1,0 @@
-# § 3.2-4025 Regulations.
-
-<p>The Certified Seed Board may adopt regulations after a public hearing and investigation. At least 15 days prior to the public hearing, the Certified Seed Board shall publish a notice of the general object, time, and place in a newspaper of general circulation published in the City of Richmond, together with any other dissemination of notice as is deemed advisable.</p><p>Code 1950, § 3-224; 1966, c. 702, § 3.1-280; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

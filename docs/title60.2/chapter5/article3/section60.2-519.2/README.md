@@ -1,3 +1,0 @@
-# § 60.2-519.2 Service charge for payment of taxes by certain means.
-
-<p>If the Commission accepts a form of payment by a means that incurs a charge, the Commission shall add that charge to such payment as described in subsection B of § <a href='http://law.lis.virginia.gov/vacode/2.2-614.1/'>2.2-614.1</a>.</p><p>1990, c. 687; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0719'>719</a>.</p>

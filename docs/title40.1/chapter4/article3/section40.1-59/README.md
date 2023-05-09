@@ -1,3 +1,0 @@
-# § 40.1-59 Agreements or combinations declared unlawful.
-
-<p>Any agreement or combination between any employer and any labor union or labor organization whereby persons not members of such union or organization shall be denied the right to work for the employer, or whereby such membership is made a condition of employment or continuation of employment by such employer, or whereby any such union or organization acquires an employment monopoly in any enterprise, is hereby declared to be against public policy and an illegal combination or conspiracy.</p><p>Code 1950, § 40-69; 1970, c. 321.</p>

@@ -1,3 +1,0 @@
-# § 47.1-25 Disqualification from office.
-
-<p>Any notary removed from office under the provisions of § <a href='http://law.lis.virginia.gov/vacode/47.1-24/'>47.1-24</a> shall be disqualified from maintaining the commission of notary public in this Commonwealth for a period of twenty years, unless such disqualification is sooner removed by the Governor.</p><p>Code 1950, § 47-4.7; 1979, c. 410; 1980, c. 580; 2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0269'>269</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0590'>590</a>.</p>

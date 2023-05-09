@@ -1,3 +1,0 @@
-# § 2.2-432 Contingent compensation prohibited.
-
-<p>It shall be unlawful for any individual to lobby for compensation that is dependent in any manner upon the outcome of any legislative or executive action.</p><p>1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0857'>857</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0937'>937</a>, § 2.1-791; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

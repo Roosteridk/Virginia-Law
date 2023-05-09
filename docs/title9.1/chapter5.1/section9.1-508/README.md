@@ -1,3 +1,0 @@
-# § 9.1-508 Definitions.
-
-<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Correctional officer" means a duly sworn non-probationary employee of the Department of Corrections whose normal duties relate to maintaining immediate control, supervision, and custody of prisoners confined in any state correctional facility.</p><p>"State correctional facility" means any correctional center or correctional field unit used for the incarceration of adult offenders established and operated by the Department of Corrections.</p><p>2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0761'>761</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0762'>762</a>.</p>

@@ -1,3 +1,0 @@
-# § 64.2-1432 Discharge from liability of resident guardian, committee, conservator, or trustee.
-
-<p>When any guardian, committee, conservator, trustee, or other person in the Commonwealth shall pay over, transfer, or deliver any estate in his possession or vested in him, under any order or decree made in pursuance of this chapter, he shall be discharged from all responsibility therefor.</p><p>Code 1919, § 5356; Code 1950, § 26-67; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0801'>801</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

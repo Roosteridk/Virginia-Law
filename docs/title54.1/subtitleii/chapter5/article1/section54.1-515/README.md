@@ -1,3 +1,0 @@
-# § 54.1-515 Employer discrimination; penalty.
-
-<p>Any employer who discriminates against or otherwise penalizes an employee who complains to or cooperates with the Board or any other governmental agency in administering this chapter is subject to the penalties in § <a href='http://law.lis.virginia.gov/vacode/54.1-517/'>54.1-517</a>.</p><p>1987, c. 579, § 54-145.10:9; 1988, c. 765; 1993, cc. 499, 660.</p>

@@ -1,3 +1,0 @@
-# § 10.1-418.3 Meherrin State Scenic River.
-
-<p>The Meherrin River within Mecklenburg, Lunenburg, and Brunswick Counties from the confluence with the North Meherrin River, a designated scenic river, to the Brunswick/Greensville County line, a distance of approximately 54.8 miles, is hereby designated as the Meherrin State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>2006, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0004'>4</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0044'>44</a>; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0341'>341</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>.</p>

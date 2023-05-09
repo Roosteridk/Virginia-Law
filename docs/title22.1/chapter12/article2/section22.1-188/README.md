@@ -1,3 +1,0 @@
-# § 22.1-188 Definitions.
-
-<p>As used in this article:</p><p>1. "Vehicle" means any vehicle owned or operated by, or owned or operated by any person under contract with, a county, city, town or school board in which any school pupils or personnel are transported at public expense to or from any public school.</p><p>2. "School pupils and personnel" includes school bus patrolmen when performing duties either in or outside a vehicle as prescribed by the Board of Education.</p><p>1980, c. 559.</p>

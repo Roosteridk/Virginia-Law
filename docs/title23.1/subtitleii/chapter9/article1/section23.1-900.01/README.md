@@ -1,3 +1,0 @@
-# § 23.1-900.01 Diplomas; proof of education; method.
-
-<p>A. Each public institution of higher education and private institution of higher education may provide any diploma or other proof of education to requesting individuals or entities using the method that it deems most appropriate, in either electronic or paper form.</p><p>B. The Council shall post on its website a statement in accordance with the provisions of subsection A.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0515'>515</a>.</p>

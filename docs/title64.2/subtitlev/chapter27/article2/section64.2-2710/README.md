@@ -1,3 +1,0 @@
-# § 64.2-2710 Exception to presumption of unlimited authority.
-
-<p>Unless the terms of the instrument creating a power of appointment manifest a contrary intent, the power is nongeneral if:</p><p>1. The power is exercisable only at the powerholder's death; and</p><p>2. The permissible appointees of the power do not include the powerholder's estate, the powerholder's creditors, or the creditors of the powerholder's estate.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

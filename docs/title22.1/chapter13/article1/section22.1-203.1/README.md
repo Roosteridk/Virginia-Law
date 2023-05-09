@@ -1,3 +1,0 @@
-# § 22.1-203.1 Student-initiated prayer.
-
-<p>In order that the right of every pupil to the free exercise of religion be guaranteed within the schools and that the freedom of each individual pupil not be subject to pressure from the Commonwealth either to engage in, or to refrain from, religious observation on school grounds, consistent with constitutional principles of freedom of religion and separation of church and state, students in the public schools may voluntarily engage in student-initiated prayer.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0799'>799</a>.</p>

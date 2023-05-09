@@ -1,1 +1,0 @@
-# 12 Abandoned, Immobilized, Unattended and Trespassing Vehicles; Parking

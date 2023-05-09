@@ -1,3 +1,0 @@
-# § 65.2-811 Liability of insurer.
-
-<p>No policy of insurance against liability arising under this title shall be issued unless it contains the agreement of the insurer that it will promptly pay the person entitled to the same all benefits conferred by this title and all installments of the compensation that may be awarded or agreed upon and that the obligation shall not be affected by any default of the insured after the injury or by any default in giving notice required by such policy or otherwise. Such agreement shall be construed to be a direct promise by the insurer to the person entitled to compensation, enforceable in his name.</p><p>Code 1950, § 65-107; 1968, c. 660, § 65.1-111; 1991, c. 355.</p>

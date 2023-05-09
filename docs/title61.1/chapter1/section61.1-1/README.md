@@ -1,3 +1,0 @@
-# § 61.1-1 Issue of receipt for goods not received.
-
-<p>A warehouseman, or any officer, agent or servant of a warehouseman, who issues or aids in issuing a receipt knowing that the goods for which such receipt is issued have not been actually received by such warehouseman, or are not under his actual control at the time of issuing such receipt, shall be guilty of a misdemeanor, and shall be punished as provided in § <a href='http://law.lis.virginia.gov/vacode/18.2-12/'>18.2-12</a>.</p><p>Code 1950, § 61-53; 1968, c. 69.</p>

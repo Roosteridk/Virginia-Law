@@ -1,3 +1,0 @@
-# §§ 54.1-2000 through 54.1-2008 Repealed.
-
-<p>Repealed by Acts 2001, ch. 832, cl. 2.</p>

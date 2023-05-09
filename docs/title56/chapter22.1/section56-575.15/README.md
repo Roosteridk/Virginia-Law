@@ -1,3 +1,0 @@
-# § 56-575.15 Sovereign immunity.
-
-<p>Nothing in this chapter shall be construed as or deemed a waiver of the sovereign immunity of the Commonwealth, any responsible public entity or any affected local jurisdiction or any officer or employee thereof with respect to the participation in, or approval of all or any part of the qualifying project or its operation, including but not limited to interconnection of the qualifying project with any other infrastructure or project. Counties, cities and towns in which a qualifying project is located shall possess sovereign immunity with respect to its design, construction, and operation.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0571'>571</a>.</p>

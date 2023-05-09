@@ -1,3 +1,0 @@
-# § 51.1-1134 Optional insurance during disability absences.
-
-<p>Participating full-time employees may continue coverage under the optional insurance for themselves and their spouses and minor dependents pursuant to § <a href='http://law.lis.virginia.gov/vacode/51.1-512/'>51.1-512</a> at their own expense during periods of disability.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0774'>774</a>; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0144'>144</a>; 2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0722'>722</a>.</p>

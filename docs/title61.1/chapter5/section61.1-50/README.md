@@ -1,3 +1,0 @@
-# § 61.1-50 Tickets or cards open to inspection for ten days after delivery of tobacco.
-
-<p>All cards or tickets kept, prepared or placed upon tobacco as required herein, shall, for the period of ten days after the delivery of such tobacco, be open to the inspection of the representative of any public tobacco warehouse, or tobacco growers cooperative association, during regular business hours and such representative shall have access to the place where such cards or tickets are kept for the purpose of such inspection.</p><p>Code 1950, § 61-149; 1968, c. 69.</p>

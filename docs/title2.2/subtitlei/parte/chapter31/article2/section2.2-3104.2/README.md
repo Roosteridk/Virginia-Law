@@ -1,3 +1,0 @@
-# § 2.2-3104.2 Ordinance regulating receipt of gifts.
-
-<p>The governing body of any county, city, or town may adopt an ordinance setting a monetary limit on the acceptance of any gift by the officers, appointees or employees of the county, city or town and requiring the disclosure by such officers, appointees or employees of the receipt of any gift.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0694'>694</a>.</p>

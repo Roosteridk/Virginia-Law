@@ -1,3 +1,0 @@
-# § 55.1-1702 Compensation to outgoing tenant for preparation of land for crop.
-
-<p>In the case of an outgoing tenant, those who succeed to the land shall pay such outgoing tenant reasonable compensation for any preparation of such land by the tenant for the purpose of planting a crop if the outgoing tenant, or his personal representative, would have been entitled to emblements had the crop been planted by him.</p><p>Code 1919, § 5542; Code 1950, § 55-251; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

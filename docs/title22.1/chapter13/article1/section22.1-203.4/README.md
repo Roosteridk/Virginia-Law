@@ -1,3 +1,0 @@
-# § 22.1-203.4 Public high schools; Virginia voter registration.
-
-<p>Each public high school shall provide to any enrolled student who is of voting age or is eligible to register to vote pursuant to § <a href='/vacode/24.2-403/'>24.2-403</a> (i) mail voter registration applications and voter registration information provided by the Department of Elections or (ii) access to the Virginia online voter registration system on a school-owned computing device that is accessible to such student. Each student who is eligible to register to vote shall be provided the opportunity to complete an application form during the normal course of the school day.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0612'>612</a>.</p>

@@ -1,3 +1,0 @@
-# § 3.2-2309 Referenda results; action of Governor.
-
-<p>If the Governor finds any referendum in order and that at least 60 percent of those voting are in opposition to the continuation of the assessment on soybeans, he shall so proclaim and upon such proclamation the assessment on soybeans will be discontinued. If the Governor finds that at least 60 percent of those voting are in favor of the continuation of the assessment on soybeans, the Governor shall not so proclaim.</p><p>1970, c. 431, §§ 3.1-684.9, 3.1-684.10; 1982, c. 603; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

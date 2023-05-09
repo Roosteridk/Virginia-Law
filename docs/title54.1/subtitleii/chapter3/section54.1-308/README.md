@@ -1,3 +1,0 @@
-# § 54.1-308 Departmental expenses.
-
-<p>The compensation of the Director and the employees within the Department, including the compensation of the members of each board, shall be paid out of the total funds collected and charged to the accounts of the respective boards. The Director shall maintain a separate account for each board showing the moneys collected on its behalf and the expenses allocated to each board.</p><p>1979, c. 408, § 54-1.42; 1988, c. 765.</p>

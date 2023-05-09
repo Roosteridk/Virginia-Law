@@ -1,3 +1,0 @@
-# § 15.2-1511.1 Written benefit information to certain employees.
-
-<p>If a local employee develops a life-threatening health condition, the local employer shall provide such employee written notification of all relevant benefit options and programs available to him, within 10 days of the date that the employer was given notice of the serious health condition by the employee or his agent, unless such information is otherwise provided annually by the local employer. The employer shall provide appropriate forms to the employee so that the employee can communicate any election of benefit options to the employer in writing on the forms.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0333'>333</a>.</p>

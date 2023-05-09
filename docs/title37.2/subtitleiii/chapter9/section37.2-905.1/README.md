@@ -1,3 +1,0 @@
-# § 37.2-905.1 Substantial compliance.
-
-<p>The provisions of §§ <a href='http://law.lis.virginia.gov/vacode/37.2-903/'>37.2-903</a>, <a href='http://law.lis.virginia.gov/vacode/37.2-904/'>37.2-904</a>, and <a href='http://law.lis.virginia.gov/vacode/37.2-905/'>37.2-905</a> are procedural and not substantive or jurisdictional. Absent a showing of failure to follow these provisions as a result of gross negligence or willful misconduct, it shall be presumed that there has been substantial compliance with these provisions.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0876'>876</a>; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0740'>740</a>.</p>

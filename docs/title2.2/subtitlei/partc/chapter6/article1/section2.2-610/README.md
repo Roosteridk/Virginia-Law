@@ -1,3 +1,0 @@
-# § 2.2-610 Furnishing copies of documents at no cost to law-enforcement officials.
-
-<p>All agencies and instrumentalities of the Commonwealth shall provide, at no cost, copies of documents requested by the Department of State Police or other law-enforcement officers as part of an active criminal investigation.</p><p>"Law-enforcement officer" means the same as that term is defined in § <a href='http://law.lis.virginia.gov/vacode/9.1-101/'>9.1-101</a>.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0044'>44</a>, § 2.1-2.2; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

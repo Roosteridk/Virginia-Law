@@ -1,3 +1,0 @@
-# § 8.01-191 Construction of article.
-
-<p>This article is declared to be remedial. Its purpose is to afford relief from the uncertainty and insecurity attendant upon controversies over legal rights, without requiring one of the parties interested so to invade the rights asserted by the other as to entitle him to maintain an ordinary action therefor. It is to be liberally interpreted and administered with a view to making the courts more serviceable to the people.</p><p>Code 1950, § 8-585; 1977, c. 617.</p>

@@ -1,3 +1,0 @@
-# § 10.1-416 Rivanna State Scenic River.
-
-<p>The river, stream, or waterway known as the Rivanna from the base of the South Fork Rivanna River reservoir to the junction of the Rivanna with the James River, a distance of approximately 46 miles, is hereby designated as the Rivanna State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>1984, c. 739, § 10-173.1; 1988, cc. 20, 299, 891; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0240'>240</a>; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0541'>541</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>.</p>

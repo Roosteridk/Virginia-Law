@@ -1,3 +1,0 @@
-# § 19.2-47.1 Disposition of funds.
-
-<p>All funds paid to and collected by or on behalf of a magistrate shall be paid promptly to the appropriate district court clerk, circuit court clerk, commissioner in chancery, department of the Commonwealth, federal agency or as otherwise authorized by statute.</p><p>1973, c. 545, § 14.1-44.4; 1980, c. 356; 1987, c. 22; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

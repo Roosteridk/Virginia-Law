@@ -1,3 +1,0 @@
-# § 15.2-5431.35:1 Creating or joining more than one authority.
-
-<p>No governing body that is a member of an authority shall create or join with any other governing body in the creation of another authority or join another authority if the latter authority would duplicate the services being performed in any part of the areas being served by the authority of which the governing body is a member.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0487'>487</a>.</p>

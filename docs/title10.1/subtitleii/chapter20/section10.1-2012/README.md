@@ -1,3 +1,0 @@
-# § 10.1-2012 Annual report.
-
-<p>The Board of Trustees shall submit an annual report to the Governor and General Assembly on or before November 1 of each year. Such report shall contain, at a minimum, the annual financial statements of the Museum for the year ending the preceding June 30.</p><p>1988, cc. 707, 891; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0650'>650</a>.</p>

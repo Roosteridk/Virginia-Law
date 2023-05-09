@@ -1,3 +1,0 @@
-# § 56-531 Definitions.
-
-<p>As used in this chapter, which may be cited as the "Small Investor-Owned Telephone Utility Act":</p><p>"Commission" means the "State Corporation Commission."</p><p>"Small investor-owned telephone utility" means any investor-owned public utility (other than a cooperative) which serves fewer than 100,000 access lines in Virginia and which owns, manages, or controls any plant or equipment or any part of a plant or equipment within the Commonwealth for the conveyance of telephone messages, either directly or indirectly, to or for the public.</p><p>1986, c. 337; 1987, c. 295; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0064'>64</a>.</p>

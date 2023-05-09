@@ -1,3 +1,0 @@
-# § 23.1-2622 Construction of acts relating to the Service and the Station.
-
-<p>All acts relating to the Service and the Station shall be construed as relating to the Division as established by this article and no such act shall be construed as limiting the provisions of this article.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0433'>433</a>, § 23-132.12; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

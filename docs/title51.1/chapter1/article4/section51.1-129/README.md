@@ -1,3 +1,0 @@
-# § 51.1-129 Limitation on membership.
-
-<p>No provision of any other statute which provides that the Commonwealth shall pay the entire or a portion of the cost of retirement benefits for employees, their surviving spouses, or other dependents shall apply to members or beneficiaries of the retirement system, or to their surviving spouses, or other dependents. This provision shall not apply to any benefits extended under any agreement between the Commonwealth and the federal government, or any agency thereof, or any benefits extended under the Government Employees Deferred Compensation Plan Act (§ <a href='http://law.lis.virginia.gov/vacode/51.1-600/'>51.1-600</a> et seq.).</p><p>1952, c. 157, § 51-111.30; 1976, c. 654; 1990, c. 832.</p>

@@ -1,3 +1,0 @@
-# § 2.2-604.1 Designation of officials; interests of senior citizens and adults with disabilities.
-
-<p>The head of each state agency shall designate an existing employee who shall be responsible for reviewing policy and program decisions under consideration by the agency in light of the effect of such decisions on senior citizens and adults with disabilities. The designated employee shall advise and alert the agency head of opportunities to make policies, programs, and regulations senior-friendly and disability-friendly.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0345'>345</a>.</p>

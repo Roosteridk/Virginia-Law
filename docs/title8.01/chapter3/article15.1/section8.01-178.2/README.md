@@ -1,3 +1,0 @@
-# § 8.01-178.2 Civil action for waste; double damages.
-
-<p>Any person who is injured due to another person's committing waste on his land may recover damages for such waste by initiating a civil action. If a jury finds that the waste was a result of wanton misconduct, judgment shall be for double the amount of damages assessed.</p><p>Code 1919, § 5509; Code 1950, § 55-214; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

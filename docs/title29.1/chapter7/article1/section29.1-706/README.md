@@ -1,3 +1,0 @@
-# § 29.1-706 Agents awarding numbers.
-
-<p>The Director may award any certificate of number directly or may authorize any person to act as an agent to make award. Persons accepting such authorization may be assigned a block of numbers and certificates which upon award, in conformity with this chapter and with any rules and regulations of the Board, shall be valid as if awarded directly by the Director.</p><p>1960, c. 500, § 62-174.5; 1962, c. 626; 1964, c. 654; 1968, c. 659, § 62.1-170; 1970, c. 240; 1972, c. 412; 1980, c. 256; 1983, c. 126; 1986, c. 125; 1987, c. 488.</p>

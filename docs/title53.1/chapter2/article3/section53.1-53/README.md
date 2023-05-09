@@ -1,3 +1,0 @@
-# § 53.1-53 Transfer or sale of by-products of manufacturing processes.
-
-<p>In those industries operated by the Department in which saleable by-products are generated while producing primary products, such by-products shall not be classified as surplus supplies or equipment. Such by-products shall be disposed of as provided in § <a href='http://law.lis.virginia.gov/vacode/2.2-1124/'>2.2-1124</a>. Proceeds from the sale of such by-products shall be paid into the state treasury and credited to the special funds account of the generating industry.</p><p>1982, c. 636.</p>

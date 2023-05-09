@@ -1,3 +1,0 @@
-# § 2.2-3128 Semiannual orientation course.
-
-<p>Each state agency shall offer at least semiannually to each of its state filers an orientation course on this chapter, on ethics in public contracting pursuant to Article 6 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4367/'>2.2-4367</a> et seq.) of Chapter 43 of this title, if applicable to the filer, and on any other applicable regulations that govern the official conduct of state officers and employees.</p><p>2004, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0134'>134</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0392'>392</a>.</p>

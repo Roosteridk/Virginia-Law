@@ -1,3 +1,0 @@
-# § 15.2-4108 Appeals.
-
-<p>Appeals may be made to the Court of Appeals as provided in §§ <a href='/vacode/15.2-3221/'>15.2-3221</a> and <a href='/vacode/15.2-3222/'>15.2-3222</a>, which shall apply mutatis mutandis. Any judgment of the Court of Appeals rendered pursuant to this section may be appealed to the Supreme Court, which, if it grants the petition for appeal, shall hear the appeal as provided in §§ <a href='/vacode/15.2-3221/'>15.2-3221</a> and <a href='/vacode/15.2-3222/'>15.2-3222</a>, which shall apply mutatis mutandis.</p><p>1988, c. 881, § 15.1-965.18; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0587'>587</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0489'>489</a>.</p>

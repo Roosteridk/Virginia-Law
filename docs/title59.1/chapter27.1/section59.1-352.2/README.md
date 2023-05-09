@@ -1,3 +1,0 @@
-# § 59.1-352.2 Usage of trade.
-
-<p>The terms "utility" and "industrial," when used to refer to equipment, implements, machinery, attachments, or repair parts, shall have the meaning commonly used and understood among dealers and suppliers of farm equipment as a usage of trade in accordance with § <a href='http://law.lis.virginia.gov/vacode/8.1A-303/'>8.1A-303</a>(c).</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0898'>898</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0353'>353</a>.</p>

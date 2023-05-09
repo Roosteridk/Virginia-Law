@@ -1,3 +1,0 @@
-# § 8.01-376 Views by juries.
-
-<p>The jury may, in any civil case, at the request of either party, be taken to view the premises or place in question, or any property, matter or thing relating to the controversy between the parties, when it shall appear to the court that such view is necessary to a just decision; provided that the expenses of the jury and the officers who attend them in taking the view shall be afterwards taxed like other legal costs.</p><p>Code 1950, § 8-216; 1977, c. 617; 1978, c. 367.</p>

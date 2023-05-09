@@ -1,3 +1,0 @@
-# § 30-378 (Expires July 1, 2025) Quorum; meetings; voting on recommendations.
-
-<p>The Commission shall meet at least quarterly. A majority of the members shall constitute a quorum. The meetings of the Commission shall be held at the call of the chairman or whenever the majority of the members so request.</p><p>No recommendation of the Commission shall be adopted if a majority of the House members or a majority of the Senate members appointed to the Commission (i) vote against the recommendation and (ii) vote for the recommendation to fail notwithstanding the majority vote of the Commission.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1036'>1036</a>.</p>

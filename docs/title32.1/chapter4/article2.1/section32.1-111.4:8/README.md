@@ -1,3 +1,0 @@
-# § 32.1-111.4:8 Ordinances as to emergency medical services agencies.
-
-<p>The governing body of any county, city, or town in which an emergency medical services agency is established pursuant to § <a href='http://law.lis.virginia.gov/vacode/32.1-111.4:6/'>32.1-111.4:6</a> or <a href='http://law.lis.virginia.gov/vacode/32.1-111.4:7/'>32.1-111.4:7</a> may make such ordinances in relation to the powers and duties of emergency medical services agencies and emergency medical services agency chiefs or other officers of such emergency medical services agencies as it may deem proper.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

@@ -1,3 +1,0 @@
-# § 2.2-2277 Jurisdiction of suits against Authority; service of process.
-
-<p>The Circuit Court of the City of Richmond shall have exclusive jurisdiction of any suit brought in Virginia against the Authority, and process in any such suit shall be served either on the State Treasurer or the chairman of the Authority.</p><p>1993, Sp. Sess., c. 1, § 2.1-234.28:1; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

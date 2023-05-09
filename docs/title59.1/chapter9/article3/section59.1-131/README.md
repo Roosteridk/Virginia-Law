@@ -1,3 +1,0 @@
-# § 59.1-131 When watch deemed secondhand.
-
-<p>A watch shall be deemed to be secondhand if</p><p>(1) As a whole or the case thereof or the movement shall have been previously sold to or acquired by any person who bought or acquired the same for his use or the use of another, but not for resale; or</p><p>(2) Its case serial numbers or movement numbers or other distinguishing numbers or identification marks shall be erased, defaced, removed, altered or covered.</p><p>Code 1950, § 59-156; 1968, c. 439.</p>

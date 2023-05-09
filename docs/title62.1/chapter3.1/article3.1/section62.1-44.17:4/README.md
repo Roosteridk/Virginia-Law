@@ -1,3 +1,0 @@
-# § 62.1-44.17:4 Evaluation of toxics removal and remediation technology.
-
-<p>The Board shall conduct a review of instream toxics removal or remediation technologies, a minimum of once every five years, to determine whether (i) new technologies for responding to toxic contamination will necessitate any changes in the selection of removal or remediation strategies previously included as provisions of Board agreements and (ii) any of the Department of Environmental Quality's current strategies for responding to toxic contamination need to be revised.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0017'>17</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1043'>1043</a>.</p>

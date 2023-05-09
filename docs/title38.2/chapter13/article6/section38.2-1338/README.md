@@ -1,3 +1,0 @@
-# § 38.2-1338 Applicability.
-
-<p>This article shall not apply to any investment or subsidiary relationship that was in effect prior to June 1, 1977, between a domestic insurer and another company. However, no domestic insurer may increase its investment or ownership of voting securities or otherwise materially increase its control over the affairs of the company without prior approval of the Commission.</p><p>1977, c. 414, § 38.1-178.14; 1986, c. 562.</p>

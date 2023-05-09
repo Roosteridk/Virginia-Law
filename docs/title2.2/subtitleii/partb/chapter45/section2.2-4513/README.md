@@ -1,3 +1,0 @@
-# § 2.2-4513 Investments by transportation commissions.
-
-<p>Transportation commissions that provide rail service may invest in, if required as a condition to obtaining insurance, participate in, or purchase insurance provided by, foreign insurance companies that insure railroad operations.</p><p>1988, c. 834, § 2.1-328.12; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

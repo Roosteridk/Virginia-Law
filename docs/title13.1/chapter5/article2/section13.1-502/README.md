@@ -1,3 +1,0 @@
-# § 13.1-502 Unlawful offers and sales.
-
-<p>It shall be unlawful for any person in the offer or sale of any securities, directly or indirectly,</p><p>(1) To employ any device, scheme or artifice to defraud, or</p><p>(2) To obtain money or property by means of any untrue statement of a material fact or any omission to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading, or</p><p>(3) To engage in any transaction, practice or course of business which operates or would operate as a fraud or deceit upon the purchaser.</p><p>1956, c. 428.</p>

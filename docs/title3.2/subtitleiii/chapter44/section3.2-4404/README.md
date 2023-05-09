@@ -1,3 +1,0 @@
-# § 3.2-4404 Duty to notify the State Apiarist of diseased bees.
-
-<p>Any person in the Commonwealth who is aware of diseased bees in his or other apiaries shall immediately notify the State Apiarist, giving the exact location of the diseased bees and other information as requested.</p><p>Code 1950, § 3-498; 1966, c. 702, § 3.1-603; 1972, c. 499, § 3.1-610.8; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

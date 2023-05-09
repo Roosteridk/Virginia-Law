@@ -1,3 +1,0 @@
-# § 29.1-101.7 Security for loans.
-
-<p>Each loan to an owner other than a local government shall be evidenced by appropriate bonds or notes of the borrower payable to the Fund. The Department may require in connection with any loan to an owner other than a local government such documents, instruments, certificates, legal opinions, and other information as it deems necessary or convenient. The Department may require such borrower to provide the Fund a security interest in the borrower's real and personal property and to procure such insurance, guarantees, letters of credit and other forms of security as the Department deems necessary to provide remedies to the Fund in case of loss or default.</p><p>1989, c. 5, § 10.1-1219; 1992, cc. 464, 887.</p>

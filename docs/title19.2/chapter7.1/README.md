@@ -1,1 +1,0 @@
-# 7.1 Law-Enforcement Officer Conduct During an Arrest or Detention

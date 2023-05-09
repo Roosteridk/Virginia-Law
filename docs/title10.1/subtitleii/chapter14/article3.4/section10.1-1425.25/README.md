@@ -1,3 +1,0 @@
-# § 10.1-1425.25 Promulgation of regulations.
-
-<p>The Board may promulgate regulations if regulations are necessary to implement and manage the provisions of this article. The Director is authorized to name qualified persons to an advisory panel of affected interests and the public to assist the Department in implementing the provisions of this article.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0944'>944</a>.</p>

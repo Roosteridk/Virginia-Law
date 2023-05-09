@@ -1,3 +1,0 @@
-# § 55.1-2830 Procedure in case of contest.
-
-<p>Any person having a lawful interest in any land within the boundaries referred to in any petition to fix the boundaries of a village or unincorporated community who wishes to contest such petition may intervene in such action as a defendant. In case of such contest, the judge shall hear the evidence and, if in doubt as to the facts, may appoint one or more persons to canvass such community and report to the court the number of persons residing within such boundaries, the names of all the landowners residing therein, and whether such landowners are for or against the petition.</p><p>Code 1950, § 8-896; 1977, c. 624, § 55-326; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

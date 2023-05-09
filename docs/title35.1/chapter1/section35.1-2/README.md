@@ -1,3 +1,0 @@
-# § 35.1-2 Enforcement.
-
-<p>This title shall be enforced by the State Board of Health and the State Health Commissioner as executive officer of the Board, acting through duly designated officers.</p><p>Code 1950, §§ 35-5, 35-17, 35-28; 1981, c. 468.</p>

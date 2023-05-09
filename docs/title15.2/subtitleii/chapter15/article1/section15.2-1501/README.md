@@ -1,3 +1,0 @@
-# § 15.2-1501 Designation of officers to perform certain duties.
-
-<p>Whenever it is not designated by general law or special act which officer or employee of the locality shall exercise any power or perform any duty conferred upon or required of the locality, then any such power shall be exercised or duty performed by the officer or employee of the locality so designated by the governing body. The governing body also may authorize the chief administrative officer to designate officers and employees to perform administrative duties and to exercise administrative powers.</p><p>1997, c. 587.</p>

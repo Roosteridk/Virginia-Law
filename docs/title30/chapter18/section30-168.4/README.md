@@ -1,3 +1,0 @@
-# § 30-168.4 Staffing.
-
-<p>The Commission may appoint, employ, and remove an executive director and such other persons as it deems necessary, and determine their duties and fix their salaries or compensation within the amounts appropriated therefor. The Commission may also employ experts who have special knowledge of the issues before it. All agencies of the Commonwealth shall provide assistance to the Commission, upon request.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0633'>633</a>.</p>

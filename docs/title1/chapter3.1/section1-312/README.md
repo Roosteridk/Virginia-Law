@@ -1,3 +1,0 @@
-# § 1-312 Boundary with District of Columbia.
-
-<p>The boundary line between the Commonwealth and the District of Columbia shall be and remain as described by the United States Public Law 208, Seventy-Ninth Congress, approved October 31, 1945, and amended by Chapter 772 of the 1968 Acts of Assembly and Chapter 94 of the 2002 Acts of Assembly.</p><p>Code 1950, § 7-9; 1966, c. 102, § 7.1-10; 1968, c. 772; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0094'>94</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

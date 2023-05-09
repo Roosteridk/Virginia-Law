@@ -1,3 +1,0 @@
-# §§ 56-338.85 through 56-338.92 Repealed.
-
-<p>Repealed by Acts 1977, c. 628, effective January 1, 1981.</p>

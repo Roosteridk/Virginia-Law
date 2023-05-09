@@ -1,3 +1,0 @@
-# § 33.2-921 Effect of abandonment.
-
-<p>In the case of the abandonment of any section of road or any railroad crossing under the provisions of this article, such section of road or such crossing shall cease to be a public road or public railroad crossing. However, any such abandonment shall be subject to the rights of owners of any public utility installations that have been previously erected therein.</p><p>Code 1950, § 33-76.20; 1950, p. 736; 1970, c. 322, § 33.1-163; 1986, c. 12; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,3 +1,0 @@
-# § 46.2-375 Reports by medical examiners of deaths resulting from accidents.
-
-<p>Every person holding the office of medical examiner shall report to the Commissioner: (i) the death of a person in his jurisdiction as a result of a motor vehicle accident, immediately after learning of the death; (ii) on or before the tenth day of each month, all deaths resulting from motor vehicle accidents during the preceding calendar month. These reports shall be made in the form prescribed by the Commissioner.</p><p>Code 1950, §§ 46-402, 46-404; 1958, c. 541, § 46.1-404; 1985, c. 10; 1989, c. 727.</p>

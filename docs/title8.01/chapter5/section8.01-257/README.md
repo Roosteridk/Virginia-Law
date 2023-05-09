@@ -1,3 +1,0 @@
-# § 8.01-257 Venue generally.
-
-<p>It is the intent of this chapter that every action shall be commenced and tried in a forum convenient to the parties and witnesses, where justice can be administered without prejudice or delay. Except where specifically provided otherwise, whenever the word "action(s)" is used in this chapter, it shall mean all actions at law, suits in equity, and statutory proceedings, whether in circuit courts or district courts.</p><p>1977, c. 617.</p>

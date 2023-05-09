@@ -1,3 +1,0 @@
-# § 54.1-3922 Powers, rules and regulations.
-
-<p>The Board shall do, or cause to be done, all things it considers necessary, convenient or expedient in connection with the preparation, conduct and grading of examinations, in determining the qualifications of applicants, in determining requirements for taking and passing examinations, and in granting such certificates to practice law as may be authorized by the Supreme Court. The Board may promulgate rules and regulations to aid in the exercise of its authority and in the discharge of its duties.</p><p>1976, c. 377, § 54-57.1; 1988, c. 765; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0796'>796</a>.</p>

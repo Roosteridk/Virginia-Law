@@ -1,3 +1,0 @@
-# § 3.2-2208 Persons eligible to vote.
-
-<p>Each producer who sold small grains in two of the past three years next preceding the date of the referendum held pursuant to this chapter shall be eligible to vote in the referendum, provided that he shall certify sale and point of sale on forms approved by the Board. Any person meeting such requirements shall be eligible to vote in the referendum, but no person shall be required to be a qualified voter in other respects. Any person who is not an individual shall vote by its authorized representative.</p><p>1991, c. 587, § 3.1-684.44; 1992, c. 776; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

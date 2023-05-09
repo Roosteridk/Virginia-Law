@@ -1,3 +1,0 @@
-# § 22.1-89 Management of funds.
-
-<p>Each school board shall manage and control the funds made available to the school board for public schools and may incur costs and expenses. If funds are appropriated to the school board by major classification as provided in § <a href='http://law.lis.virginia.gov/vacode/22.1-94/'>22.1-94</a>, no funds shall be expended by the school board except in accordance with such classifications without the consent of the governing body appropriating the funds.</p><p>Code 1950, §§ 22-72, 22-97, 22-127; 1954, cc. 289, 291; 1956, Ex. Sess., cc. 60, 67; 1959, Ex. Sess., c. 79, § 1; 1966, c. 691; 1968, cc. 501, 614; 1970, c. 71; 1971, Ex. Sess., cc. 161, 162; 1972, c. 511; 1975, cc. 308, 328, 443; 1978, c. 551; 1980, c. 559.</p>

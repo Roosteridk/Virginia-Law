@@ -1,3 +1,0 @@
-# § 40.1-100.1 Employment where hazard capable of causing serious physical harm or death.
-
-<p>No person shall employ, suffer, or permit a child to work in any gainful occupation that exposes such child to a recognized hazard capable of causing serious physical harm or death to such child. Any person violating this section shall be subject to a civil monetary penalty in accordance with § <a href='http://law.lis.virginia.gov/vacode/40.1-113/'>40.1-113</a> of this chapter.</p><p>1991, c. 511.</p>

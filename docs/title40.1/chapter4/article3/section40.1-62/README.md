@@ -1,3 +1,0 @@
-# § 40.1-62 Employer not to require payment of union dues, etc.
-
-<p>No employer shall require any person, as a condition of employment or continuation of employment, to pay any dues, fees or other charges of any kind to any labor union or labor organization.</p><p>Code 1950, § 40-72; 1970, c. 321.</p>

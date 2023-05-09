@@ -1,3 +1,0 @@
-# § 3.2-3205 Grant of specific power not to impair general power.
-
-<p>Any provision of this chapter conferring a general power upon the Commission shall not be impaired or qualified by the granting to the Commission by this chapter of a specific power.</p><p>Code 1950, § 3-353; 1966, c. 702, § 3.1-431; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,3 +1,0 @@
-# § 33.2-2214 Trust funds.
-
-<p>All moneys received pursuant to the authority of this chapter, whether as proceeds from the sale of bonds or as revenues, shall be deemed to be trust funds to be held and applied solely as provided in this chapter. The resolution authorizing the bonds of any issue or the trust indenture securing such bonds shall provide that any officer with whom, or any bank or trust company with which, such moneys are deposited shall act as trustee of such moneys and shall hold and apply the moneys for the purposes provided in this chapter, subject to such regulations as this chapter and such resolution or trust indenture may provide.</p><p>1956, c. 714; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

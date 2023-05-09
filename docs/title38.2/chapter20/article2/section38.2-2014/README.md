@@ -1,3 +1,0 @@
-# § 38.2-2014 Contract or policy to accord with filings.
-
-<p>No insurer shall make or issue an insurance policy or contract to which this chapter applies, except in accordance with the filings that are in effect for that insurer, or in accordance with an applicable provision in § <a href='http://law.lis.virginia.gov/vacode/38.2-2010/'>38.2-2010</a> or § <a href='http://law.lis.virginia.gov/vacode/38.2-2013/'>38.2-2013</a>.</p><p>Code 1950, §§ 38-253.33, 38-253.79; 1950, p. 381; 1952, c. 317, § 38.1-263; 1986, c. 562; 1993, c. 985.</p>

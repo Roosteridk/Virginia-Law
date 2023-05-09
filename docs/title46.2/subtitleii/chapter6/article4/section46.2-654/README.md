@@ -1,3 +1,0 @@
-# § 46.2-654 Issuance of temporary registration certificates by motor vehicle auctions.
-
-<p>In addition to the provisions of § <a href='http://law.lis.virginia.gov/vacode/46.2-1542/'>46.2-1542</a>, businesses licensed by the Department to conduct sales of motor vehicles by auction may issue to persons who purchase motor vehicles through auctions conducted by these businesses temporary certificates of registration.</p><p>Issuance of certificates under this section shall be subject to regulations promulgated by the Commissioner.</p><p>1988, c. 739, § 46.1-90.2; 1989, c. 727.</p>

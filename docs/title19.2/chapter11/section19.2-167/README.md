@@ -1,3 +1,0 @@
-# § 19.2-167 Accused not to be tried while insane or feebleminded.
-
-<p>No person shall, while he is insane or feebleminded, be tried for a criminal offense.</p><p>Code 1950, § 19.1-227; 1960, c. 366; 1964, c. 231; 1968, c. 789; 1975, c. 495.</p>

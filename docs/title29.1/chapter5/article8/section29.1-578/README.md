@@ -1,3 +1,0 @@
-# § 29.1-578 Definitions.
-
-<p>As used in this article, unless the context requires a different meaning:</p><p>"Human-caused barrier" means a road, culvert, fence, wall, commercial or residential development, or other human-made structure that has the potential to affect the natural movement of fish or wildlife across a landscape.</p><p>"Plan" means the Wildlife Corridor Action Plan established pursuant to this article.</p><p>"Wildlife corridor" means an area connecting fragmented wildlife habitats separated by human activities or infrastructure.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0323'>323</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0672'>672</a>.</p>

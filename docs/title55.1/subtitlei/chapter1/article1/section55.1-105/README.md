@@ -1,3 +1,0 @@
-# § 55.1-105 Same estates may be created by deed as by will.
-
-<p>Any interest in or claim to real estate, including easements in gross, may be transferred by deed or will. Any estate may be made to commence at a future date, by deed, in like manner as by will, and any estate that would be valid as an executory devise or bequest is valid if created by deed.</p><p>Code 1919, § 5147; Code 1950, § 55-6; 1962, c. 169; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

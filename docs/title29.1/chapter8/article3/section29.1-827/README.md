@@ -1,3 +1,0 @@
-# § 29.1-827 Prohibited solicitation and compensation.
-
-<p>It shall be unlawful for any watercraft dealer or salesman licensed under the provisions of this chapter, directly or indirectly, to solicit the sale of a watercraft through a pecuniarily interested person. It shall be unlawful for such dealer or salesman to pay, or cause to be paid, any commission or compensation in any form whatsoever to any person in connection with the sale of a watercraft, unless such person is duly licensed as a salesman in the employ of such dealer.</p><p>1988, c. 592.</p>

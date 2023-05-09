@@ -1,3 +1,0 @@
-# § 51.1-1303 Standards for benefit restoration plans.
-
-<p>No benefit restoration plan shall become effective until the Board, county, municipality or political subdivision of the Commonwealth is satisfied by opinion of its respective counsel, such federal agency or agencies as may be deemed necessary, or otherwise, that the benefits payable under the plan will not be included in the employee's taxable income under federal and state income tax law until it is actually received by or made available to the employee under the terms of the plan.</p><p>2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0681'>681</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0692'>692</a>.</p>

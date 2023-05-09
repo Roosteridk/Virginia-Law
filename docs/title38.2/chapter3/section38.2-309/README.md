@@ -1,3 +1,0 @@
-# § 38.2-309 When answers or statements of applicant do not bar recovery on policy.
-
-<p>All statements, declarations and descriptions in any application for an insurance policy or for the reinstatement of an insurance policy shall be deemed representations and not warranties. No statement in an application or in any affidavit made before or after loss under the policy shall bar a recovery upon a policy of insurance unless it is clearly proved that such answer or statement was material to the risk when assumed and was untrue.</p><p>Code 1950, § 38-7; 1952, c. 317, § 38.1-336; 1986, c. 562.</p>

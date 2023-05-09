@@ -1,3 +1,0 @@
-# § 33.2-718 Highways not to be established through cemetery or seminary of learning without owners' consent.
-
-<p>No highway shall be established upon or through the lands of any cemetery or through the lands of any seminary of learning without the consent of the owners thereof.</p><p>Code 1950, § 33-154; 1964, c. 565; 1970, c. 322, § 33.1-241; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

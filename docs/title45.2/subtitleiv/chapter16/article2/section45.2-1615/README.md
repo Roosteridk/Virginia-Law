@@ -1,3 +1,0 @@
-# § 45.2-1615  Applicability and construction.
-
-<p>A. The provisions of this article apply to all lands in the Commonwealth, whether publicly or privately owned. However, no well commenced prior to July 1, 1990, shall be required to be plugged or abandoned solely for purposes of complying with the conservation provisions of this article.</p><p>B. No provision of this article shall be construed to grant to the Board the authority or power to fix prices of gas or oil.</p><p>1982, c. 347, § 45.1-300; 1987, c. 452; 1990, c. 92, § 45.1-361.16; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

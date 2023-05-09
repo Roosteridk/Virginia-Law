@@ -1,3 +1,0 @@
-# § 10.1-527 Determination of candidates elected.
-
-<p>If the district embraces one county or city, or less than one county or city, the three candidates who receive the largest number of the votes cast in the election shall be elected directors for the district.</p><p>If the district embraces more than one county or city, or parts thereof, the two candidates from each county or city, or part thereof, receiving the largest number of the votes cast in the election shall be the elected directors for the district.</p><p>Code 1950, § 21-40; 1970, c. 480; 1988, c. 891.</p>

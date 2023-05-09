@@ -1,3 +1,0 @@
-# § 3.2-4312 Definitions.
-
-<p>As used in this article, unless the context requires a different meaning:</p><p>"Agricultural and food product" means any horticultural, viticulture, dairy, livestock, poultry, bee, other farm or garden product, fish or fishery product, and other foods.</p><p>"Continuous official inspection" means that an employee or a licensed representative of the Department or of the U.S. Department of Agriculture, or employees of either, shall regularly and continuously examine the commodity as it is being packed.</p><p>Code 1950, § 3-270; 1966, c. 702, § 3.1-349; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0317'>317</a>.</p>

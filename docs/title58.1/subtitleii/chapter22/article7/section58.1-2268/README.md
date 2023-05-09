@@ -1,3 +1,0 @@
-# § 58.1-2268 Engaging in business without a license; civil penalty.
-
-<p>Any person who engages in any business activity within the Commonwealth for which a license is required by this chapter without a valid license shall be subject to a civil penalty. The amount of the civil penalty assessed against a person for his first violation shall be $5,000. The amount of the civil penalty assessed against a person for his second or subsequent violation shall be $10,000.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0729'>729</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0758'>758</a>.</p>

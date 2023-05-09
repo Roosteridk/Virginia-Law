@@ -1,3 +1,0 @@
-# § 8.01-350.1 Selection of jurors by mechanical or electronic techniques for the term of court.
-
-<p>Notwithstanding the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/8.01-347/'>8.01-347</a> through <a href='http://law.lis.virginia.gov/vacode/8.01-349/'>8.01-349</a>, the chief judge may order that selection of the list of jurors necessary for the trial of all cases during any term of court for that year be made by the use of random selection techniques, either mechanically or electronically, from the list submitted pursuant to § <a href='http://law.lis.virginia.gov/vacode/8.01-345/'>8.01-345</a>.</p><p>1978, c. 400.</p>

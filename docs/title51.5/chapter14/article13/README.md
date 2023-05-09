@@ -1,1 +1,0 @@
-# 13 State Long-Term Care Ombudsman Program

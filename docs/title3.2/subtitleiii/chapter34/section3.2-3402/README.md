@@ -1,3 +1,0 @@
-# § 3.2-3402 Certificates as evidence.
-
-<p>Certificates of inspection and reinspection issued under this chapter by authorized agents of the Department and those relating to the grade, classification, quality, or condition of agricultural products issued under authority of the Congress of the United States shall be accepted in any court of the Commonwealth as prima facie evidence of the true grade, classification, condition, or quality of such agricultural product at the time of its inspection.</p><p>Code 1950, § 3-31; 1966, c. 702, § 3.1-31; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

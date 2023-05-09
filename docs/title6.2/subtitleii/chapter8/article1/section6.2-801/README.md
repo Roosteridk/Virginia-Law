@@ -1,3 +1,0 @@
-# § 6.2-801 Application of chapter.
-
-<p>The provisions of this chapter shall apply to all state banks, and so far as constitutionally permissible, to all banks organized under the laws of the United States doing business in Virginia.</p><p>Code 1950, §§ 6-6, 6-27.1; 1962, c. 404; 1966, c. 584, § 6.1-4; 1974, c. 665; 1987, c. 556; 1993, c. 432; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

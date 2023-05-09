@@ -1,3 +1,0 @@
-# § 30-73.4 Staff; cooperation and assistance.
-
-<p>Staff assistance shall be provided to the Commission by the Division of Legislative Services. All agencies, authorities, and institutions of the Commonwealth shall cooperate and provide such assistance to the Commission as the Commission may request.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0677'>677</a>; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0777'>777</a>.</p>

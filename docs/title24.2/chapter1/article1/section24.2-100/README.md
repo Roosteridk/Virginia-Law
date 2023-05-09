@@ -1,3 +1,0 @@
-# § 24.2-100 Applicability of title.
-
-<p>The provisions of this title shall apply to all elections held in this Commonwealth except as is otherwise provided by general law.</p><p>Code 1950, § 24-176; 1970, c. 462, § 24.1-95; 1980, c. 639; 1993, c. 641.</p>

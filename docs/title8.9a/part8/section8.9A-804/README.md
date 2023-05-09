@@ -1,3 +1,0 @@
-# § 8.9A-804 Security interest unperfected before July 1, 2013.
-
-<p>A security interest that is an unperfected security interest immediately before July 1, 2013, becomes a perfected security interest:</p><p>(1) without further action, on July 1, 2013, if the applicable requirements for perfection under this title, as amended by the 2013 amendments, are satisfied before or at that time; or</p><p>(2) when the applicable requirements for perfection are satisfied if the requirements are satisfied after that time.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0155'>155</a>.</p>

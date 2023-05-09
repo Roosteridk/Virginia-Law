@@ -1,3 +1,0 @@
-# § 19.2-263.1 Contact between judge and juror prohibited.
-
-<p>No judge shall communicate in any way with a juror in a criminal proceeding concerning the juror's conduct or any aspect of the case during the course of the trial outside the presence of the parties or their counsel.</p><p>1985, c. 176.</p>

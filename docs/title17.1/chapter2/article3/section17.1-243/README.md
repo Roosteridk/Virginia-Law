@@ -1,3 +1,0 @@
-# § 17.1-243 Clerks to have land books bound.
-
-<p>Except those clerks using an automated system, clerks shall bind, in volumes of convenient size, all books in their respective clerks' offices not currently bound showing the assessments of lands since the year 1850, and shall bind in like volumes such books hereafter filed in their clerks' offices at intervals of not more than five years.</p><p>Code 1919, § 5979, § 17-73; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0460'>460</a>.</p>

@@ -1,3 +1,0 @@
-# § 56-428 Railroads liable for damage from fires set out by their engines or trains.
-
-<p>Whenever any person sustains damage from fire occasioned by sparks or coals dropped or thrown from the engine or train of any railroad company, such company shall be liable for the damage so sustained, whether such fire originated on the company's right-of-way or not.</p><p>Code 1919, § 3992; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0114'>114</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0157'>157</a>.</p>

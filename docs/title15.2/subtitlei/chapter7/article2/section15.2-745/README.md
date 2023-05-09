@@ -1,3 +1,0 @@
-# § 15.2-745 Ordinance for installment collection of taxes.
-
-<p>Notwithstanding any provisions of law to the contrary, the board is empowered to provide by ordinance for the collection of county taxes and levies on property in installments at such times and with such penalties for the delinquent payment thereof as it deems proper.</p><p>Code 1950, § 15-355.1; 1952, c. 474; 1962, c. 623, § 15.1-688; 1997, c. 587.</p>

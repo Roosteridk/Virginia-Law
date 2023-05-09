@@ -1,3 +1,0 @@
-# § 59.1-373 Hearing and appeal.
-
-<p>Any person aggrieved by a refusal of the Commission to issue any license or permit, the suspension or revocation of a license or permit, the imposition of a fine, or any other action of the Commission, may seek review of such action in accordance with Article 5 of the Administrative Process Act in the Circuit Court of the City of Richmond. Further appeals shall also be in accordance with Article 5 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4025/'>2.2-4025</a> et seq.) of the Administrative Process Act.</p><p>1988, c. 855; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0573'>573</a>.</p>

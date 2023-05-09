@@ -1,3 +1,0 @@
-# § 13.1-853 Requirement for and duties of board of directors.
-
-<p>A. Except as provided in an agreement authorized by § <a href='http://law.lis.virginia.gov/vacode/13.1-852.1/'>13.1-852.1</a>, each corporation shall have a board of directors.</p><p>B. All corporate powers shall be exercised by or under the authority of, and the business and affairs of the corporation managed under the direction of, its board of directors, subject to any limitation set forth in the articles of incorporation or in an agreement authorized by § <a href='http://law.lis.virginia.gov/vacode/13.1-852.1/'>13.1-852.1</a>.</p><p>Code 1950, § 13.1-220; 1956, c. 428; 1983, c. 393; 1985, c. 522; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0925'>925</a>.</p>

@@ -1,3 +1,0 @@
-# § 58.1-3291 Valuation of repairs, additions and new buildings.
-
-<p>Any building and enclosure which may have been increased in value to $500 or upwards, by repairs or additions thereto, shall be assessed in the same manner as if they were new.</p><p>New buildings shall be assessed, whether entirely finished or not, at their actual value at the time of assessment.</p><p>Code 1950, §§ 58-811, 58-812; 1974, c. 133; 1983, c. 161; 1984, c. 675.</p>

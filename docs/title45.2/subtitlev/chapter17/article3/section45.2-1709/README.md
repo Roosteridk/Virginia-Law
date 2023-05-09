@@ -1,3 +1,0 @@
-# § 45.2-1709  Nuclear energy; considered a clean energy source.
-
-<p>For the purposes of the Commonwealth Clean Energy Policy as set out in § <a href='/vacode/45.2-1706.1/'>45.2-1706.1</a>, in any clean energy initiative or carbon-free energy initiative undertaken, overseen, regulated, or permitted by the Department, nuclear energy shall be considered to be a clean energy source.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0960'>960</a>, § 67-104; 2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0327'>327</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

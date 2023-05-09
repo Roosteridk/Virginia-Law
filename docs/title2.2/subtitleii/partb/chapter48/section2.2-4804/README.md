@@ -1,3 +1,0 @@
-# § 2.2-4804 Annual reports.
-
-<p>The Department of Accounts and the Attorney General shall annually report to the Governor, the Secretary of Finance and the Chairmen of the Senate Committee on Finance and Appropriations and the House Committee on Appropriations those agencies and institutions that are not making satisfactory progress toward implementing the provisions of this chapter and establishing effective accounts receivable programs.</p><p>1988, c. 544, § 2.1-730; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

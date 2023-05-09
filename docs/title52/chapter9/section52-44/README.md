@@ -1,3 +1,0 @@
-# § 52-44 Other law-enforcement authority.
-
-<p>This chapter shall not:</p><p>1. Preempt the authority or relieve the duty of any law-enforcement agencies to investigate, examine, and prosecute suspected violations of law.</p><p>2. Limit any of the powers granted elsewhere by the laws of this Commonwealth to the Commission to investigate and examine possible violations of law and to take appropriate action.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0590'>590</a>.</p>

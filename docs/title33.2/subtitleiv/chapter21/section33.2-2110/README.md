@@ -1,3 +1,0 @@
-# § 33.2-2110 Reimbursement for advances to district.
-
-<p>To the extent that a county or participating town has made advances to the district, the commission shall direct the district treasurer to reimburse the county or participating town from any district funds not otherwise specifically allocated or obligated.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0611'>611</a>, § 33.1-440; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

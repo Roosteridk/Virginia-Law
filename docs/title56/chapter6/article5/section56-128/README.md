@@ -1,3 +1,0 @@
-# § 56-128 Commission's examination of all transportation companies, etc.
-
-<p>The Commission may examine all the railroads and other transportation companies, and the works and equipment thereof so that it may keep itself informed as to their physical condition, the manner in which they are operating with reference to the security and accommodation of the public, and whether they are in compliance with the provisions of their charters and the laws of the Commonwealth. The provisions of this section shall apply to all railroads and other transportation companies, and to the corporations, trustees, receivers, or other person owning or operating the same.</p><p>Code 1919, § 3718; 1987, c. 185.</p>

@@ -1,3 +1,0 @@
-# § 19.2-205 Pay and mileage of grand jurors.
-
-<p>Every person who serves upon a grand jury, regular or special, shall receive the same compensation and mileage allowed jurors in civil cases by § <a href='http://law.lis.virginia.gov/vacode/17.1-618/'>17.1-618</a> and the same shall be paid out of the county or corporation levy.</p><p>Code 1950, § 19.1-160; 1960, c. 366; 1974, c. 207; 1975, c. 495.</p>

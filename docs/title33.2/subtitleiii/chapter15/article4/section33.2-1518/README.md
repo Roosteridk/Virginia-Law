@@ -1,3 +1,0 @@
-# § 33.2-1518 Deposit of proceeds.
-
-<p>The proceeds of each series of Notes shall be placed by the State Treasurer in a special fund in the state treasury or may be placed with a trustee in accordance with § <a href='http://law.lis.virginia.gov/vacode/33.2-1716/'>33.2-1716</a> and shall be disbursed only for the purpose for which such series is issued.</p><p>2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0830'>830</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0868'>868</a>, § 33.1-23.21; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

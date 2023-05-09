@@ -1,3 +1,0 @@
-# § 18.2-414 Injury to property or persons by persons unlawfully or riotously assembled.
-
-<p>If any person or persons, unlawfully or riotously assembled, pull down, injure, or destroy, or begin to pull down, injure or destroy any dwelling house or other building, or assist therein, or perpetrate any premeditated injury on the person of another, he shall be guilty of a Class 6 felony.</p><p>Code 1950, § 18.1-254.11; 1968, c. 460; 1975, cc. 14, 15.</p>

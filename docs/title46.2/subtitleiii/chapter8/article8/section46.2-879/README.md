@@ -1,3 +1,0 @@
-# § 46.2-879 No conviction for speeding in certain areas unless markers installed.
-
-<p>No person shall be convicted of a violation of a statute or an ordinance enacted by local authorities pursuant to the provisions of § <a href='http://law.lis.virginia.gov/vacode/46.2-1300/'>46.2-1300</a> decreasing the speed limit established in this article when such person has exceeded the speed limit in an area where the speed limit has been decreased unless such area is clearly indicated by a conspicuous marker at the termini of such area.</p><p>Code 1950, § 46-212.1; 1954, c. 643; 1958, c. 541, § 46.1-194; 1962, c. 307; 1989, c. 727.</p>

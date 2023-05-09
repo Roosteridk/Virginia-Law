@@ -1,3 +1,0 @@
-# § 30-129.2 Content of orientation sessions.
-
-<p>The orientation session shall provide information and training for the members on ethics and conflicts of interests, on the provisions of the General Assembly Conflicts of Interests Act (§ <a href='http://law.lis.virginia.gov/vacode/30-100/'>30-100</a> et seq.), on relevant federal law provisions, and on related issues involving lobbying. Refresher sessions may be offered online.</p><p>2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0792'>792</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0804'>804</a>.</p>

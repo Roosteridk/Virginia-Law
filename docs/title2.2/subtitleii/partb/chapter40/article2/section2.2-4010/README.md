@@ -1,3 +1,0 @@
-# § 2.2-4010 Pilot programs for regulations imposing local government mandates.
-
-<p>Where an agency proposes to consider the exercise of authority to promulgate a regulation that will impose a statewide mandate on the Commonwealth's localities, the agency shall consider, where appropriate, implementing the regulation on a limited basis with a representative number of localities. An agency may use such a pilot program to determine the effectiveness or impact of proposed regulations prior to statewide adoption.</p><p>1993, c. 168, § 9-6.14:8.1; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

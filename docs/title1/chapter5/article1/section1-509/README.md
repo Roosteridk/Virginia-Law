@@ -1,3 +1,0 @@
-# § 1-509 When flag to be suspended over Capitol.
-
-<p>During the sessions of either house of the General Assembly the flag of the Commonwealth shall be kept raised over the respective chambers of the Capitol, or other place of session, if practicable, as directed by the Director of the Department of General Services and the Chief of the Virginia Capitol Police in consultation with the Clerk of the House of Delegates and the Clerk of the Senate.</p><p>Code 1950, § 7-34; 1966, c. 102, § 7.1-35; 1970, c. 561; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

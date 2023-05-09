@@ -1,3 +1,0 @@
-# § 21-208 Additional rights conferred on city or county withdrawing.
-
-<p>The foregoing provisions of § <a href='http://law.lis.virginia.gov/vacode/21-206/'>21-206</a> shall be deemed to confer additional rights and powers upon any such county or city affected, and shall in no wise deprive any such county or city of any rights and powers otherwise vested in and conferred upon such county or city by general law or charter provisions.</p><p>1940, p. 620; 1942, p. 602; Michie Code 1942, § 1560kk1.</p>

@@ -1,3 +1,0 @@
-# § 53.1-158 Release of prisoner subject to parole.
-
-<p>The Director of the Department shall release into the custody of the Parole Board, any of its probation and parole officers or the Chairman, any prisoner subject to parole under the laws of this Commonwealth whenever directed so to do by the Parole Board or by the Chairman.</p><p>Code 1950, § 53-264; 1970, c. 648; 1973, c. 253; 1974, cc. 44, 45; 1982, c. 636.</p>

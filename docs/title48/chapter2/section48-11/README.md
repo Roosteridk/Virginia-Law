@@ -1,3 +1,0 @@
-# § 48-11 Punishment for contempt.
-
-<p>A party found guilty of contempt under the provisions of § <a href='http://law.lis.virginia.gov/vacode/48-10/'>48-10</a>, shall be punished by a fine of not less than $100 nor more than $2,500, or by imprisonment in jail not less than three months nor more than six months, or in the discretion of the court by both fine and imprisonment.</p><p>Code 1919, § 1524; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0291'>291</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0808'>808</a>.</p>

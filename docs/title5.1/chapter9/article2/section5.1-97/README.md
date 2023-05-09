@@ -1,3 +1,0 @@
-# § 5.1-97 Hearing on application; action of Commission.
-
-<p>Upon the filing of an application for a certificate of public convenience and necessity, the Commission shall, within a reasonable time, fix a time and place of hearing on such application. If the Commission shall find that the proposed operation justified it, it shall issue a certificate to the applicant, subject to such terms, limitations and restrictions as the Commission may deem proper. If the Commission shall find the proposed operation not justified, the application shall be denied.</p><p>Code 1950, § 56-150; 1970, c. 708.</p>

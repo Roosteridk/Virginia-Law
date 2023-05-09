@@ -1,3 +1,0 @@
-# § 58.1-1213 Credit against state tax for amounts paid cities, towns and counties.
-
-<p>Any bank paying any tax assessed by any city, incorporated town, or county within this Commonwealth shall be entitled to credit upon the state tax assessed against it for that year on account of any city, town or county franchise tax paid by such bank for that year. In no event, however, shall the credit exceed the amount of such city, incorporated town or county levies authorized by this chapter.</p><p>Code 1950, § 58-485.015; 1980, c. 578; 1984, c. 675; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0186'>186</a>.</p>

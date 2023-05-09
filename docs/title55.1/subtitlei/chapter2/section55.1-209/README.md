@@ -1,3 +1,0 @@
-# § 55.1-209 Equitable separate estates abolished.
-
-<p>The estate known as the equitable separate estate no longer exists and any language in any writing, whenever executed, that purports to convey real property to a person as an equitable separate estate has no legal or equitable significance after January 1, 1991, except as provided in § <a href='/vacode/64.2-301/'>64.2-301</a> or <a href='/vacode/64.2-308.2/'>64.2-308.2</a>.</p><p>1992, cc. 617, 647, § 55-47.01; 2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0187'>187</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0269'>269</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

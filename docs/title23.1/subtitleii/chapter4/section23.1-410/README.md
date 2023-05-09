@@ -1,3 +1,0 @@
-# § 23.1-410 Student loan vendors.
-
-<p>A. No employee of a public institution of higher education shall demand or receive any payment, loan, advance, deposit of money, services, or anything, present or promised, as an inducement for promoting any student loan vendor.</p><p>B. No public institution of higher education shall enter into any agreement with any student loan vendor that states or implies an exclusive relationship between the institution and vendor regarding student loans.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0624'>624</a>, § 23-4.3:2; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0484'>484</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

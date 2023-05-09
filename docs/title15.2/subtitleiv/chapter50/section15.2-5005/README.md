@@ -1,3 +1,0 @@
-# § 15.2-5005 Changes by the federal government.
-
-<p>If federal laws or regulations controlling private activity bonds are revised so that the provisions of this chapter are affected or the tax exempt status of certain private activity bonds expires or is extended, the Governor may establish measures through executive order to allocate Virginia's total bond issuing authority in accordance with the limitations and restrictions contained in the revised federal law.</p><p>1987, c. 306, § 15.1-1399.17; 1990, c. 299; 1997, c. 587.</p>

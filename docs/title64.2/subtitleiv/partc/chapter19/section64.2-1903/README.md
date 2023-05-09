@@ -1,3 +1,0 @@
-# § 64.2-1903 Transfer by gift or exercise of power of appointment.
-
-<p>A person may make a transfer by irrevocable gift to, or the irrevocable exercise of a power of appointment in favor of, a custodian for the benefit of a minor pursuant to § <a href='http://law.lis.virginia.gov/vacode/64.2-1908/'>64.2-1908</a>.</p><p>1988, c. 516, § 31-40; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

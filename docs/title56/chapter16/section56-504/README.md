@@ -1,3 +1,0 @@
-# § 56-504 Charter amendments.
-
-<p>A cooperative created hereunder may amend its certificate of incorporation to change its corporate name, to increase or reduce the number of its directors or change any other provision therein, provided that no cooperative shall amend its certificate of incorporation to embody therein any purpose, power or provision which would not be authorized if its original certificate including such additional or changed purpose, power or provision were offered for filing at the time a certificate under this section is offered. Such amendment may be accomplished in the method prescribed by law for corporations generally.</p><p>1950, p. 594; 1956, c. 434.</p>

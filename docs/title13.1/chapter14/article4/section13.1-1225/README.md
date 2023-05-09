@@ -1,3 +1,0 @@
-# § 13.1-1225 Limited liability.
-
-<p>Except to the extent otherwise expressly provided in the governing instrument of the business trust, the beneficial owners shall be entitled to the same limitation of personal liability extended to shareholders of a Virginia corporation formed under Chapter 9 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-601/'>13.1-601</a> et seq.) of this title.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0621'>621</a>.</p>

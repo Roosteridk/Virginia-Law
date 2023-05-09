@@ -1,3 +1,0 @@
-# § 59.1-317 Administration; unlawful offer or execution of membership camping contract.
-
-<p>A. This chapter shall be administered by the Virginia Department of Agriculture and Consumer Services.</p><p>B. It shall be unlawful for any membership camping operator to offer to sell any membership camping contract in this Commonwealth unless he is registered with the Commissioner.</p><p>C. It shall be unlawful for any membership camping operator registered under this chapter to sell any membership camping contract which causes the total ratio of the outstanding and valid membership camping contracts to exceed a ratio of fifteen such contracts for each camping site.</p><p>1985, c. 409; 1989, c. 676.</p>

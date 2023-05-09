@@ -1,3 +1,0 @@
-# § 3.2-2602 Aquaculture Advisory Board; composition and appointment of members.
-
-<p>A. The Aquaculture Advisory Board is established as an advisory board in the executive branch of state government. The Aquaculture Advisory Board shall advise the Commissioner on policy matters related to aquaculture.</p><p>B. The Governor shall appoint the Aquaculture Advisory Board, which shall be composed of seven members who are representative of the interests of the aquaculture industry.</p><p>The Board shall meet at the call of the Commissioner.</p><p>1992, c. 643, § 3.1-73.8; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

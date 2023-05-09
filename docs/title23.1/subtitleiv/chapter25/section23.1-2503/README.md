@@ -1,3 +1,0 @@
-# § 23.1-2503 Power to receive gifts, grants, devises, and bequests.
-
-<p>The Institute, or the board on its behalf, may receive, take, hold, and enjoy any gift, grant, devise, or bequest made to the Institute or its board for charitable or educational purposes and use and administer any such gift, grant, devise, or bequest for the uses and purposes designated by the donor or for the general purposes of the Institute if no such designation is made.</p><p>1956, c. 254, § 23-100.1; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1047'>1047</a>.</p>

@@ -1,3 +1,0 @@
-# § 36-111 Oath and bonds.
-
-<p>Before entering upon the discharge of his duties, each member of the Review Board shall take an oath that he will faithfully and honestly execute the duties of his office during his continuance therein and shall be bonded in accordance with § <a href='/vacode/2.2-1840/'>2.2-1840</a>, conditioned upon the faithful discharge of his duties.</p><p>1972, c. 829; 1974, c. 668; 1977, c. 613; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0152'>152</a>.</p>

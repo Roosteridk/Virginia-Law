@@ -1,3 +1,0 @@
-# § 54.1-2407 Requirements for human research.
-
-<p>Any person licensed, registered, or certified by any health regulatory board who engages in the conduct of human research, as defined in § <a href='http://law.lis.virginia.gov/vacode/32.1-162.16/'>32.1-162.16</a>, shall comply with the provisions of Chapter 5.1 (§ <a href='http://law.lis.virginia.gov/vacode/32.1-162.16/'>32.1-162.16</a> et seq.) of Title 32.1. Failure to so comply shall constitute unprofessional conduct.</p><p>1992, c. 603.</p>

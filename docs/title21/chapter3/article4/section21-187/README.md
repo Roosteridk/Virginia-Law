@@ -1,3 +1,0 @@
-# § 21-187 Actions for collection.
-
-<p>The commission shall have the right to recover the amount of any fees, rents or other charges charged by the commission to the owner or lessee or tenant or contracting party, as set forth in § <a href='http://law.lis.virginia.gov/vacode/21-180/'>21-180</a>, for the use and services of the sewage disposal system by or in connection with such real estate and of the interest which may accrue thereon, by any action, suit or proceeding permitted by law or in equity.</p><p>1938, p. 525; 1940, p. 624; Michie Code 1942, § 1560zz.</p>

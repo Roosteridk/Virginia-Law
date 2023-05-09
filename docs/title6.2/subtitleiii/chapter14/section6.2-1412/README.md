@@ -1,3 +1,0 @@
-# § 6.2-1412 Annual report.
-
-<p>Each association shall annually, on or before March 25, file a written report with the Commissioner containing such information as the Commissioner may require concerning its business and operations during the preceding calendar year. Reports shall be made under oath and be in the form prescribed by the Commissioner.</p><p>1993, c. 419, § 6.1-237.2; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,3 +1,0 @@
-# § 8.01-519 Proceedings where garnishee fails to appear or answer, or to disclose his liability.
-
-<p>If the garnishee, after being served with the summons, fail to appear or answer personally, or if it be suggested that he has not fully disclosed his liability, the proceedings shall be according to §§ <a href='http://law.lis.virginia.gov/vacode/8.01-564/'>8.01-564</a> and <a href='http://law.lis.virginia.gov/vacode/8.01-565/'>8.01-565</a>, mutatis mutandis, except that when the summons is before a general district court, the court shall proceed without a jury.</p><p>Code 1950, § 8-447; 1977, c. 617.</p>

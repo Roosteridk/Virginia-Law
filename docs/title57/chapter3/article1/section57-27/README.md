@@ -1,3 +1,0 @@
-# § 57-27 City of Richmond may prohibit burials in certain cemeteries.
-
-<p>The governing body of the City of Richmond may, by ordinance, prohibit the burial of dead bodies in the cemeteries known as Ham's, Cedarwood, Methodist, Union Mechanics', Ebenezer, and Sycamore cemeteries, respectively, and may by such ordinance provide for penalties for violations of the same by fine not exceeding fifty dollars, or imprisonment in jail not exceeding six months.</p><p>Code 1919, § 57.</p>

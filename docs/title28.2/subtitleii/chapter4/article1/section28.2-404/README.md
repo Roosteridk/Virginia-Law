@@ -1,3 +1,0 @@
-# § 28.2-404 Appeals from actions of Commissioner.
-
-<p>Any person aggrieved by any action of the Commissioner taken under the provisions of § <a href='http://law.lis.virginia.gov/vacode/28.2-403/'>28.2-403</a> shall have the right to petition the circuit court of the county or city in which the factory where the fish were to be processed is located, or in which the applicant resides or has his principal office, for a review and correction of the ruling of the Commissioner as provided in Article 3 (§ <a href='http://law.lis.virginia.gov/vacode/28.2-216/'>28.2-216</a> et seq.) of Chapter 2 of this subtitle.</p><p>Code 1950, § 28-64; 1962, c. 406, § 28.1-63; 1992, c. 836.</p>

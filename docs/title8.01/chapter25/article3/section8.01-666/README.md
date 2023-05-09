@@ -1,3 +1,0 @@
-# § 8.01-666 When and by whom writs of habeas corpus ad testificandum granted.
-
-<p>Writs of habeas corpus ad testificandum may be granted by any circuit court in the same manner and under the same conditions and provisions as are prescribed by this chapter as to granting the writ of habeas corpus ad subjiciendum so far as the same are applicable.</p><p>Code 1950, § 8-608; 1977, c. 617.</p>

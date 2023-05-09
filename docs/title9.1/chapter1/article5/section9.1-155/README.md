@@ -1,3 +1,0 @@
-# § 9.1-155 Notice of hearings and proceedings.
-
-<p>The provision of § <a href='http://law.lis.virginia.gov/vacode/16.1-264/'>16.1-264</a> regarding notice to parties shall apply to ensure that an advocate is notified of hearings and other proceedings concerning the case to which he is assigned.</p><p>1990, c. 752, § 9-173.9; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

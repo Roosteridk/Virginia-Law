@@ -1,3 +1,0 @@
-# § 6.2-1104 False statements and similar actions prohibited; penalty.
-
-<p>Any person who knowingly makes or causes to be made, directly or indirectly, or through any agency, any false statement or report, or willfully overvalues any land, property, or security, for the purpose of influencing in any way the action of any savings institution upon any application, advance, discount, purchase or repurchase agreement, commitment, or loan or any change or extension thereof, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, is guilty of a Class 1 misdemeanor.</p><p>1985, c. 425, § 6.1-194.93; 1986, c. 509; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

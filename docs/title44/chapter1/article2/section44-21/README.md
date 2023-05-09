@@ -1,3 +1,0 @@
-# § 44-21 Bonds of Adjutant General and fiscal clerks.
-
-<p>The Adjutant General and his fiscal clerks shall be bonded in accordance with § <a href='/vacode/2.2-1840/'>2.2-1840</a>.</p><p>1930, p. 952; Michie Code 1942, § 2673(13); R. P. 1948, § 44-21; 1964, c. 227; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0572'>572</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0586'>586</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0152'>152</a>.</p>

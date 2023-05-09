@@ -1,3 +1,0 @@
-# § 38.2-704 Penalties.
-
-<p>A. Any person who violates a cease and desist order entered under § <a href='http://law.lis.virginia.gov/vacode/38.2-703/'>38.2-703</a> shall be subject to the provisions of § <a href='http://law.lis.virginia.gov/vacode/38.2-218/'>38.2-218</a>.</p><p>B. Any person convicted of violating this chapter may, in addition, be punished under the provisions of Chapter 1.1 (§ <a href='http://law.lis.virginia.gov/vacode/59.1-9.1/'>59.1-9.1</a> et seq.) of Title 59.1.</p><p>1952, c. 317, § 38.1-62; 1986, c. 562.</p>

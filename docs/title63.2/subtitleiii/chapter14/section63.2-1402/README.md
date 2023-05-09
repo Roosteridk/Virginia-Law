@@ -1,3 +1,0 @@
-# § 63.2-1402 Definitions.
-
-<p>For the purposes of this chapter:</p><p>"Adoption assistance state" means the state that is signatory to an adoption assistance agreement in a particular case.</p><p>"Residence state" means the state of which the child is a resident by virtue of the residence of the adoptive parents.</p><p>"State" means a state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, or a territory or possession of or administered by the United States.</p><p>1988, c. 154, § 63.1-238.8; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

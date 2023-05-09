@@ -1,3 +1,0 @@
-# § 58.1-3245.4:1 No annual debt limits for certain cities.
-
-<p>The Cities of Chesapeake and Virginia Beach, when issuing debt obligations pursuant to § <a href='http://law.lis.virginia.gov/vacode/58.1-3245.4/'>58.1-3245.4</a> shall not be subject to any annual debt limitations set forth in the charter provisions of such city.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0667'>667</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0733'>733</a>.</p>

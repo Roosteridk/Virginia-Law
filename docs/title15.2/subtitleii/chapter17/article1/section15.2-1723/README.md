@@ -1,3 +1,0 @@
-# § 15.2-1723 Validation of certain police forces.
-
-<p>Any police force in existence on July 1, 1980, whose existence is authorized or was authorized by any provision of law, general or special, that was repealed by Chapter 333 of the Acts of Assembly of 1979 is hereby validated and shall continue. Any police force in existence on December 1, 1996, whose existence is authorized or was authorized by any provision of law, general or special, that is repealed by this act is hereby validated and shall continue.</p><p>1979, c. 333, § 15.1-142.2; 1983, c. 576; 1997, c. 587.</p>

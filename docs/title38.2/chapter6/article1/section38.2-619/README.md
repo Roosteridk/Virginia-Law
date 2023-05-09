@@ -1,3 +1,0 @@
-# § 38.2-619 Obtaining information under false pretenses.
-
-<p>Any person who knowingly and willfully obtains information about an individual from an insurance institution, agent or insurance-support organization under false pretenses shall be fined not more than $10,000 or punished by confinement in jail for not more than 12 months, or both.</p><p>1981, c. 389, § 38.1-57.26; 1986, c. 562.</p>

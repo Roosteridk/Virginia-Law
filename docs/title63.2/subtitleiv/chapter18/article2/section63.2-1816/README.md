@@ -1,3 +1,0 @@
-# § 63.2-1816 Municipal and county appropriations; contracts.
-
-<p>The governing bodies of the several cities and counties of this Commonwealth may, in their discretion, appropriate to incorporated charitable organizations licensed by the Commissioner for the purpose of receiving and caring for children, or placing or boarding them in private homes, such sums as to them may seem proper, for the maintenance and care of such dependent children as the charitable organizations may receive from the respective cities and counties. The governing body of any county may make contracts with such organizations.</p><p>Code 1950, § 63-256; 1968, c. 578, § 63.1-219; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

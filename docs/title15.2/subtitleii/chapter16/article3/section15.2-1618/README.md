@@ -1,3 +1,0 @@
-# § 15.2-1618 Compensating certain law-enforcement officers disabled in performance of duty.
-
-<p>All counties and cities shall provide for the relief of any sheriff or deputy sheriff who is disabled, totally or partially, by injury or illness as the direct or proximate result of the performance of his duty, including the presumption under § <a href='http://law.lis.virginia.gov/vacode/51.1-813/'>51.1-813</a>. Such total disability retirement benefits shall be not less than those provided under the disability retirement provisions of § <a href='http://law.lis.virginia.gov/vacode/51.1-404/'>51.1-404</a> of the Virginia Retirement System.</p><p>1976, c. 772, § 15.1-75.1; 1997, c. 587.</p>

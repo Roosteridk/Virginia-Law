@@ -1,3 +1,0 @@
-# § 46.2-490.10 Changes in form of ownership or name.
-
-<p>Any change in the form of ownership or the addition or deletion of a partner shall require a new application and license. The addition or deletion of a clinic site or change in the name of a clinic shall require immediate notification to the Department and the Department may endorse the change on the license as appropriate. The change of an officer or director of a corporation shall be made at the time of license renewal.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0622'>622</a>.</p>

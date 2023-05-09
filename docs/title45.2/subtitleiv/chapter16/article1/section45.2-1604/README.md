@@ -1,3 +1,0 @@
-# § 45.2-1604  Duties and responsibilities of the Director; Virginia Gas and Oil Inspector.
-
-<p>A. The Director has the jurisdiction and authority necessary to enforce the provisions of this chapter. The Director has the power and duty to regulate gas, oil, or geophysical operations, collect fees, and perform other responsibilities prescribed in regulations adopted by the Department or the Board.</p><p>B. The Director shall appoint the Virginia Gas and Oil Inspector.</p><p>1990, c. 92, § 45.1-361.4; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

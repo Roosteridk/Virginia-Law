@@ -1,3 +1,0 @@
-# § 15.2-5100 Title of chapter.
-
-<p>This chapter shall be known and may be cited as the "Virginia Water and Waste Authorities Act." This chapter shall constitute full and complete authority, without regard to the provisions of any other law for the doing of the acts herein authorized, and shall be liberally construed to effect the purposes of the chapter.</p><p>Code 1950, § 15-764.1; 1950, p. 1312; 1962, c. 623, § 15.1-1239; 1997, c. 587.</p>

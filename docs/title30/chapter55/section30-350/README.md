@@ -1,3 +1,0 @@
-# § 30-350 Compensation; expenses.
-
-<p>Legislative members of the Commission shall receive such compensation as provided in § <a href='/vacode/30-19.12/'>30-19.12</a>, and nonlegislative citizen members shall receive such compensation for the performance of their duties as provided in § <a href='/vacode/2.2-2813/'>2.2-2813</a>. All members shall be reimbursed for all reasonable and necessary expenses incurred in the performance of their duties as provided in §§ <a href='/vacode/2.2-2813/'>2.2-2813</a> and <a href='/vacode/2.2-2825/'>2.2-2825</a>.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0562'>562</a>.</p>

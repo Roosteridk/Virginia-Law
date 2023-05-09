@@ -1,3 +1,0 @@
-# § 8.8A-407 Authenticating trustee, transfer agent, and registrar.
-
-<p>A person acting as authenticating trustee, transfer agent, registrar, or other agent for an issuer in the registration of a transfer of its securities, in the issue of new security certificates or uncertificated securities, or in the cancellation of surrendered security certificates has the same obligation to the holder or owner of a certificated or uncertificated security with regard to the particular functions performed as the issuer has in regard to those functions.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0216'>216</a>.</p>

@@ -1,3 +1,0 @@
-# § 5.1-9.6 Same; duration and custody of bonds, etc.
-
-<p>Insurance policies, bonds, certificates of insurance, or federal, state, or municipal bonds filed with the Department shall be kept in full force at all times. The policy, bond, or certificate of insurance shall remain in the custody of the Department six months after the insurance or bond has expired or has been canceled for any cause. If federal, state, or municipal bonds are deposited with the State Treasurer as security, such bonds shall remain so deposited until six months after the authority for use of equipment insured has expired or is cancelled for any cause, unless otherwise ordered by the Department.</p><p>1980, c. 721.</p>

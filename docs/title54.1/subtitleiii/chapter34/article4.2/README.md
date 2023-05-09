@@ -1,1 +1,0 @@
-# 4.2 Permitting of Pharmaceutical Processors to Produce and Dispense Cannabis Products

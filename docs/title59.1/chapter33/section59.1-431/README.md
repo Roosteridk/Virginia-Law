@@ -1,3 +1,0 @@
-# § 59.1-431 Telephone company and long distance carrier duties.
-
-<p>Every telephone company and long distance carrier shall furnish the following information on any telephone customer's bill that contains charges for pay-per-call services: (i) the pay-per-call number called; (ii) the date, time, and length of the call; and (iii) the amount charged.</p><p>1991, cc. 608, 630.</p>

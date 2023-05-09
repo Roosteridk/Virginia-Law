@@ -1,3 +1,0 @@
-# § 19.2-182.16 Copies of orders to Commissioner.
-
-<p>Copies of all orders and notices issued pursuant to this chapter shall be sent to the Commissioner of the Department of Behavioral Health and Developmental Services.</p><p>1993, c. 295; 2009, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0813'>813</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0840'>840</a>.</p>

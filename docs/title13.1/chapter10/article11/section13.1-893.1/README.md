@@ -1,3 +1,0 @@
-# § 13.1-893.1 Definitions.
-
-<p>As used in this article:</p><p>"Merger" means a business combination pursuant to § <a href='http://law.lis.virginia.gov/vacode/13.1-894/'>13.1-894</a>.</p><p>"Party to a merger" means any domestic or foreign corporation or eligible entity that will merge under a plan of merger.</p><p>"Survivor" in a merger means the domestic or foreign corporation or the eligible entity into which one or more other domestic or foreign corporations or eligible entities are merged. A survivor of a merger may preexist the merger or be created by the merger.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0925'>925</a>; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0216'>216</a>.</p>

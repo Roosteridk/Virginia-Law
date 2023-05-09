@@ -1,3 +1,0 @@
-# § 59.1-127 Violation of § 59.1-125 or § 59.1-126 a misdemeanor; revocation of dealer's license.
-
-<p>Any person violating any of the provisions of § <a href='http://law.lis.virginia.gov/vacode/59.1-125/'>59.1-125</a> or § <a href='http://law.lis.virginia.gov/vacode/59.1-126/'>59.1-126</a> shall be guilty of a misdemeanor.</p><p>Code 1950, § 59-155; 1958, c. 614; 1968, c. 439; 1972, c. 598; 1988, c. 765.</p>

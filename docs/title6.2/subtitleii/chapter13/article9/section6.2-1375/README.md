@@ -1,3 +1,0 @@
-# § 6.2-1375 Cooperative loans.
-
-<p>A credit union may originate loans to credit union members jointly with other credit unions, credit union organizations, or other financial institutions pursuant to written policies established by the board of directors. The policies shall include the limitation set forth in § <a href='http://law.lis.virginia.gov/vacode/6.2-1372/'>6.2-1372</a>. A credit union that originates such a loan shall retain at least a 10 percent interest in such loan.</p><p>1990, c. 373, § 6.1-225.56; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

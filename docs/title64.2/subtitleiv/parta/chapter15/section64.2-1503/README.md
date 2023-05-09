@@ -1,3 +1,0 @@
-# § 64.2-1503 Investment in bonds or other obligations issued, guaranteed, or assured by Inter-American Development Bank.
-
-<p>Executors, administrators, trustees, and other fiduciaries, both individual and corporate, may invest the funds held by them in a fiduciary capacity in bonds and other obligations issued, guaranteed, or assured by the Inter-American Development Bank, which are and shall be considered lawful investments.</p><p>1968, c. 65, § 26-40.1; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

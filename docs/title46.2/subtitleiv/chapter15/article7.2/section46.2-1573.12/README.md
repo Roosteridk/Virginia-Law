@@ -1,3 +1,0 @@
-# § 46.2-1573.12 Late model and factory repurchase franchises.
-
-<p>Franchised late model or factory repurchase recreational vehicle dealers shall have the same rights and obligations as provided for franchised new recreational vehicle dealers in this article, mutatis mutandis.</p><p>1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0767'>767</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0816'>816</a>, § 46.2-1983; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0615'>615</a>.</p>

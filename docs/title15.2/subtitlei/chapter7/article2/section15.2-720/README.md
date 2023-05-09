@@ -1,3 +1,0 @@
-# § 15.2-720 Employee salary reduction agreements.
-
-<p>In connection with some or all of its employee benefit programs, the board is authorized to enter into voluntary salary reduction agreements with its officers and employees when such agreements are authorized under the laws of the United States relating to federal income taxes. Any such voluntary salary reduction agreements entered into prior to July 1, 1988, are hereby validated.</p><p>1988, c. 532, § 15.1-686.7; 1997, c. 587.</p>

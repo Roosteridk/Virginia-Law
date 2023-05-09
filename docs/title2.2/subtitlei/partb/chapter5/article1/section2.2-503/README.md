@@ -1,3 +1,0 @@
-# § 2.2-503 Office space.
-
-<p>The Governor shall assign to the Attorney General office space for the Attorney General, his assistants and employees suitable for the transaction of the legal business of the Commonwealth.</p><p>Code 1950, § 2-96; 1966, c. 677, § 2.1-132; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0064'>64</a>; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

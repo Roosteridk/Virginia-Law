@@ -1,3 +1,0 @@
-# § 29.1-737 Muffling devices.
-
-<p>The exhaust of every internal combustion engine used on any motorboat shall be effectively muffled by equipment so constructed and used as to muffle the noise of the exhaust in a reasonable manner. The muffling device shall exhaust at or below the water line or it shall be equipped with mechanical baffles. The use of cutouts is prohibited, except as approved by the Department or the U.S. Coast Guard.</p><p>1960, c. 500, § 62-174.9; 1968, c. 659, § 62.1-175; 1987, c. 488; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0108'>108</a>.</p>

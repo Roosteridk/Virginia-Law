@@ -1,3 +1,0 @@
-# § 55.1-2159 Public offering statement; cooperative securities.
-
-<p>If an interest in a cooperative is currently registered with the Securities and Exchange Commission of the United States, a declarant satisfies all requirements relating to the preparation of a public offering statement of this chapter if he delivers to the purchaser and files with the agency a copy of the public offering statement filed with the Securities and Exchange Commission. A cooperative interest is not a security under the provisions of the Securities Act, §§ <a href='/vacode/13.1-501/'>13.1-501</a> through <a href='/vacode/13.1-527.3/'>13.1-527.3</a>.</p><p>1982, c. 277, § 55-482; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

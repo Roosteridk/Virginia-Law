@@ -1,3 +1,0 @@
-# § 63.2-407 Necessary or incidental public assistance or social services.
-
-<p>With respect to general relief, foster care for children and auxiliary grants for the aged, disabled or blind, any county or city may provide such other necessary or incidental public assistance or social services as may be authorized by the Board.</p><p>Code 1950, §§ 63-135, 63-140.12, 63-157, 63-199; 1960, c. 440; 1962, c. 621; 1966, c. 112; 1968, cc. 578, 668, § 63.1-122; 1970, c. 721; 1974, c. 504; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

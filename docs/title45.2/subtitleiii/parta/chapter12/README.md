@@ -1,1 +1,0 @@
-# 12 Permits for Certain Mining Operations; Reclamation of Land

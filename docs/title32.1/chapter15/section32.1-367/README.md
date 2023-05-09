@@ -1,3 +1,0 @@
-# § 32.1-367 Uses of Virginia Health Care Fund.
-
-<p>Moneys deposited to the Fund shall be used solely for the provision of health care services. Such moneys shall be appropriated as provided in the general appropriation act. Health care services include, but are not limited to, Medicaid payments, disease diagnosis, prevention and control, and community health services.</p><p>2004, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?042+ful+CHAP0003'>3</a>.</p>

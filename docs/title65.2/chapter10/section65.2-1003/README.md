@@ -1,3 +1,0 @@
-# § 65.2-1003 Failure to file return.
-
-<p>If any such insurance carrier shall fail or refuse to make the return required by this title, the State Corporation Commission shall assess the tax against such insurance carrier at the rate herein provided for, on such amount of premiums as it may deem just, and the proceedings thereon shall be the same as if the return had been made.</p><p>Code 1950, § 65-123; 1968, c. 660, § 65.1-132; 1991, c. 355.</p>

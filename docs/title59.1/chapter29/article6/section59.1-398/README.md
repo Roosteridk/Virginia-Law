@@ -1,3 +1,0 @@
-# § 59.1-398 Touting.
-
-<p>Any person, who knowingly and designedly by false representation attempts to, or does persuade, procure or cause another person to wager on a horse in a race to be run in this Commonwealth or elsewhere, and upon which money is wagered in this Commonwealth, and who asks or demands compensation as a reward for information or purported information given in such case, shall be guilty of a Class 1 misdemeanor.</p><p>1988, c. 855.</p>

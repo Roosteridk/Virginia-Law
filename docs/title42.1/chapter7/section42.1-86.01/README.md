@@ -1,3 +1,0 @@
-# § 42.1-86.01 Records may be retained in electronic medium.
-
-<p>Notwithstanding any provision of law requiring a public record to be retained in a tangible medium, an agency may retain any public record in an electronic medium, provided that the record remains accessible for the duration of its retention schedule and meets all other requirements of this chapter. Nothing herein shall affect any law governing the retention of exhibits received into evidence in a criminal case in any court.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0252'>252</a>.</p>

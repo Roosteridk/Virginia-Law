@@ -1,3 +1,0 @@
-# § 58.1-310 Examination of federal returns.
-
-<p>Whenever in the opinion of the Department it is necessary to examine the federal income returns or any copy thereof of any individual, estate, trust, partnership or corporation in order properly to audit such returns, the Department or the commissioner of the revenue shall have the right to require such taxpayer to provide such return or a copy thereof and all statements, inventories, and schedules in support thereof.</p><p>Code 1950, § 58-151.097; 1971, Ex. Sess., c. 171; 1973, c. 198; 1984, c. 675.</p>

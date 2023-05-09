@@ -1,3 +1,0 @@
-# § 46.2-889 Location of parked vehicles.
-
-<p>No vehicle shall be stopped except close to and parallel to the right edge of the curb or roadway, except that a vehicle may be stopped close to and parallel to the left curb or edge of the roadway on one-way streets or may be parked at an angle where permitted by the Commonwealth Transportation Board, the Department, or local authorities with respect to highways under their jurisdiction.</p><p>Code 1950, § 46-256; 1952, c. 671; 1958, c. 541, § 46.1-248; 1962, c. 175; 1972, c. 63; 1974, c. 230; 1977, cc. 284, 326; 1985, c. 93; 1989, c. 727; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0585'>585</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0646'>646</a>.</p>

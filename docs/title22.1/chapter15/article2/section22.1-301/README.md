@@ -1,3 +1,0 @@
-# § 22.1-301 Costs of medical examinations and of furnishing medical records.
-
-<p>It shall be unlawful for any school board to require any instructional employee to pay the costs of a medical examination or the cost of furnishing medical records required as a condition to continued employment. Nothing in this section shall prohibit the immediate supervisor from requesting an employee to submit a physician's certificate verifying the illness of an employee at the employee's expense.</p><p>Code 1950, § 22-249; 1968, c. 445; 1970, c. 526; 1973, c. 491; 1974, c. 160; 1977, c. 220; 1979, c. 262; 1980, c. 559.</p>

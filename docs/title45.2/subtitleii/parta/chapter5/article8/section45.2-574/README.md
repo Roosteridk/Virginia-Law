@@ -1,3 +1,0 @@
-# § 45.2-574  Fees and costs.
-
-<p>No fees or costs shall be charged to the Commonwealth by a court or any officer for or in connection with the filing of any pleading or other papers in any action authorized by this article.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.96; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

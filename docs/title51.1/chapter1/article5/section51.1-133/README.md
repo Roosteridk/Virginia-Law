@@ -1,3 +1,0 @@
-# § 51.1-133 Limitation on membership.
-
-<p>Employees who are members of any retirement, pension, or benefit fund partially or wholly supported by public funds shall not be entitled to become members of the retirement system on that part of their compensation covered by the fund except as provided under this article.</p><p>1952, c. 157, § 51-111.31; 1954, c. 241; 1958, c. 367; 1960, c. 400; 1973, c. 523; 1974, c. 353; 1975, c. 296; 1976, c. 581; 1977, c. 620; 1990, c. 832.</p>

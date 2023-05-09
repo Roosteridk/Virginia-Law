@@ -1,3 +1,0 @@
-# § 53.1-227 When and how real estate of prisoner sold or encumbered.
-
-<p>The real estate of a prisoner may be leased or sold, when necessary for the payment of his debts, in accordance with Article 8 (§ <a href='http://law.lis.virginia.gov/vacode/8.01-67/'>8.01-67</a> et seq.) of Chapter 3 of Title 8.01. Any such real estate or the real estate in which such prisoner is interested with others, infants or adults, may be sold, exchanged for other real estate, or encumbered for the purpose of borrowing money to be used to erect buildings or other improvements on the same.</p><p>Code 1950, § 53-312; 1982, c. 636; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0801'>801</a>.</p>

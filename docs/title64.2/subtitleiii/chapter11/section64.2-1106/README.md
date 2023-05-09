@@ -1,3 +1,0 @@
-# § 64.2-1106 Application to existing institutional funds.
-
-<p>This chapter applies to institutional funds existing on or established after July 1, 2008. As it applies to institutional funds existing on July 1, 2008, this article governs only decisions made or actions taken on or after that date.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0184'>184</a>, § 55-268.18; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

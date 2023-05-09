@@ -1,3 +1,0 @@
-# § 21-195 Negotiability.
-
-<p>Any provisions of law to the contrary notwithstanding, any bonds or temporary bonds issued pursuant to the authority of this chapter shall be deemed to be fully negotiable within the meaning and for all the purposes of Title 8.3A.</p><p>1938, p. 521; 1942, p. 606; Michie Code 1942, § 1560.</p>

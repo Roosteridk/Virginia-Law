@@ -1,3 +1,0 @@
-# § 15.2-7221 Sovereign immunity.
-
-<p>No provisions of this chapter nor act of an authority, including the procurement of insurance or self-insurance, shall be deemed a waiver of any sovereign immunity to which the Authority or its directors, officers, employees, or agents are otherwise entitled.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0117'>117</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0210'>210</a>.</p>

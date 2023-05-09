@@ -1,3 +1,0 @@
-# § 55.1-353 Effect of word "covenants.".
-
-<p>When a deed uses the words "the said ________ covenants," such covenant shall have the same effect as if it were expressed to be by the covenantor, for himself and his heirs, personal representatives, and assigns and shall be deemed to be with the covenantee and his heirs, personal representatives, and assigns.</p><p>Code 1919, § 5170; Code 1950, § 55-67; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

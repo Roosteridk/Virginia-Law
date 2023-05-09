@@ -1,3 +1,0 @@
-# § 15.2-107.2 Alternative method for local government to give notice by mail.
-
-<p>Notwithstanding any other provision of law, general or special, a locality may give notice by regular mail in any instance in which two or more notices are required for the same action, the first notice is required to be sent by certified or registered mail, and at least one notice has previously been sent by certified or registered mail. Such notice shall be sent to the last address available through government records.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0127'>127</a>.</p>

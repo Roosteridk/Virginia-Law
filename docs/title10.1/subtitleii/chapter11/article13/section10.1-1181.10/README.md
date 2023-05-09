@@ -1,3 +1,0 @@
-# § 10.1-1181.10 Activities not prohibited.
-
-<p>The provisions of this article shall not prohibit:</p><p>1. Any person from performing forestry functions and services so long as he does not represent himself to the public as a forester;</p><p>2. An employee or subordinate of a forester from performing forestry functions and services; or</p><p>3. The practice of any profession or occupation that is regulated by a regulatory board within the Department of Professional and Occupational Regulation or other state agency.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0447'>447</a>.</p>

@@ -1,3 +1,0 @@
-# § 63.2-1818 Reports to Commissioner.
-
-<p>Upon the entry of a final order of adoption involving a child placed by a licensed child-placing agency, that agency shall transmit to the Commissioner all reports and collateral information in connection with the case which shall be preserved by the Commissioner in accordance with § <a href='http://law.lis.virginia.gov/vacode/63.2-1246/'>63.2-1246</a>. Such agency may keep duplicate copies of such reports and collateral information or may obtain copies of such documents from the Commissioner at a reasonable fee as prescribed by the Board.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

@@ -1,3 +1,0 @@
-# § 22.1-207.2:1 Anti-bullying or suicide prevention materials; parental right to review.
-
-<p>Each school board shall develop and implement policies that ensure that parents have the right to review any audio-visual materials that contain graphic sexual or violent content used in any anti-bullying or suicide prevention program. Such policies shall require that prior to using any such material, the parent of the child participating in such a program shall be provided written notice of his right to review the material and his right to excuse his child from participating in the part of such program utilizing such material.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0581'>581</a>.</p>

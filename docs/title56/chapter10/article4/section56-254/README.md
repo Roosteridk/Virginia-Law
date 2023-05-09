@@ -1,3 +1,0 @@
-# § 56-254 Sale or lease of plants to cities or towns.
-
-<p>The board of directors of any public service corporation operating a gas, electric or water plant within the limits of any city or town, or within territory contiguous thereto, is hereby authorized to sell or lease to such city or town the entire plant of such corporation, or any part thereof, including the franchises and easements of such corporation; provided the action of the board of directors be authorized or ratified by an affirmative vote of a majority in interest of the stock issued and outstanding of such corporation, unless a larger interest is required by the charter or bylaws of such corporation.</p><p>1918, p. 463; Michie Code 1942, § 4073g.</p>

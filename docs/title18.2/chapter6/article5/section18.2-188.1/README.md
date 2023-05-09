@@ -1,3 +1,0 @@
-# § 18.2-188.1 Defrauding person having a lien on an animal; penalty.
-
-<p>It shall be unlawful to remove or cause any horse or other animal to be removed from the possession of the owner or keeper of a livery stable or other person having a lien on the horse or animal for keep, support and care pursuant to § <a href='http://law.lis.virginia.gov/vacode/43-32/'>43-32</a>, with intent to defraud or cheat the lienholder. A violation of this section shall be punishable as a Class 2 misdemeanor.</p><p>1990, c. 639.</p>

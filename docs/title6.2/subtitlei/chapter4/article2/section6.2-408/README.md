@@ -1,3 +1,0 @@
-# § 6.2-408 Priority of interest on debts secured by mortgage or deed of trust.
-
-<p>Interest that is charged pursuant to a written agreement, whether or not recorded, shall be of equal priority with the principal debt secured by the mortgage or deed of trust and shall have priority as to third parties as provided in Title 55.1.</p><p>1987, c. 622, § 6.1-330.69; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,3 +1,0 @@
-# § 53.1-90 Pay for United States prisoners.
-
-<p>Each sheriff or jail superintendent shall collect from the United States, for prisoners of the United States confined in the jail of his county, city or region, such amounts as shall be agreed upon by the governing body of the county or city or, in the case of a regional jail, the regional jail authority or, if none, the body responsible for the fiscal management of the regional jails and the appropriate authorities of the Government of the United States, which amounts shall not be less than the actual cost of feeding, clothing, caring for and furnishing medicine and medical attention for such prisoners.</p><p>Code 1950, § 53-181; 1982, c. 636; 1991, c. 383.</p>

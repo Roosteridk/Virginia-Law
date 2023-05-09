@@ -1,3 +1,0 @@
-# § 64.2-441 Persons authorized to act in relation to international will; eligibility; recognition by authorizing agency.
-
-<p>Individuals who have been admitted to practice law before the courts of the Commonwealth and who are members in good standing of the Virginia State Bar are hereby declared to be authorized persons in relation to international wills.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0443'>443</a>, § 64.1-96.10; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

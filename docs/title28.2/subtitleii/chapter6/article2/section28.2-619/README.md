@@ -1,3 +1,0 @@
-# § 28.2-619 When leases become vacant.
-
-<p>When the Commission finds that a lessee is dead or unknown, and no one claims such property as an heir or assignee, the ground shall become vacant and open to assignment.</p><p>Code 1950, § 28-124; 1954, c. 352; 1958, c. 183; 1960, c. 517; 1962, c. 406, § 28.1-109(16); 1964, c. 393; 1966, c. 684; 1970, c. 726; 1972, c. 644; 1973, c. 14; 1978, cc. 546, 548; 1980, cc. 34, 609; 1984, c. 259; 1992, c. 836.</p>

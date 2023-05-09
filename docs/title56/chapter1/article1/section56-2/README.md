@@ -1,3 +1,0 @@
-# § 56-2 Public service corporations, etc., governed by provisions of this title.
-
-<p>Every public service corporation heretofore or hereafter incorporated and authorized to construct, maintain, or operate, in this Commonwealth, any work of public service, and every association, person, or partnership constructing, maintaining, or operating any such work, shall be governed by the provisions of this title and Title 13.1, so far as they apply to such corporations, associations, persons, and partnerships, as well as by any laws that may hereafter be enacted relating to such corporations.</p><p>Code 1919, § 3900.</p>

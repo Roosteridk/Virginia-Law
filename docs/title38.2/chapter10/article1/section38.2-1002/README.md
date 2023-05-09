@@ -1,3 +1,0 @@
-# § 38.2-1002 Additional requirements of articles of incorporation; name.
-
-<p>The articles of incorporation for a domestic mutual insurer shall be signed by at least twenty natural persons, a majority of whom are legal residents of this Commonwealth. The articles shall, in addition to complying with the requirements of Article 3 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-818/'>13.1-818</a> et seq.) of Chapter 10 of Title 13.1, set forth the classes of insurance the insurer proposes to write.</p><p>Code 1950, §§ 38-28, 38-497, 38-498, 38-499; 1952, c. 317, § 38.1-75; 1956, c. 431; 1958, c. 596; 1986, c. 562.</p>

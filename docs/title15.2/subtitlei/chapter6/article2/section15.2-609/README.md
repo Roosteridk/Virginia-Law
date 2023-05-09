@@ -1,3 +1,0 @@
-# § 15.2-609 Appointment of county manager.
-
-<p>The board shall appoint a county manager and fix his compensation. He shall be the administrative head of the county government and shall devote his full time to the work of the county. He shall be appointed with regard to merit only, and need not be a resident of the county at the time of his appointment. No member of the board shall, during the time for which he has been elected, be appointed county manager, nor shall the managerial powers be given to a person who at the same time is filling an elective office.</p><p>Code 1950, § 15-311; 1962, c. 623, § 15.1-631; 1997, c. 587.</p>

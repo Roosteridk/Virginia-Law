@@ -1,3 +1,0 @@
-# § 64.2-546 Action against representative of executor for waste.
-
-<p>An action may be maintained for waste of a decedent's estate against (i) the personal representative of a person who, without any lawful authority, assumes to act as an executor or (ii) the personal representative of a rightful executor or administrator.</p><p>Code 1950, § 64-157; 1968, c. 656, § 64.1-167; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

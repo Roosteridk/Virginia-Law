@@ -1,3 +1,0 @@
-# § 51.1-124.25 Existing advisory committees of the Virginia Retirement System abolished.
-
-<p>As of March 25, 1994, the existing advisory committees of the Virginia Retirement System are abolished and the members are discharged from any further duties.</p><p>1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0004'>4</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0085'>85</a>.</p>

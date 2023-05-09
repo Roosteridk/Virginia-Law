@@ -1,3 +1,0 @@
-# § 30-19.1:9 Duration of state boards and commissions.
-
-<p>After January 1, 2003, all bills creating an advisory board, council, commission or other collegial body in the executive branch of state government shall contain a provision requiring the expiration of such body three years after its creation.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0793'>793</a>.</p>

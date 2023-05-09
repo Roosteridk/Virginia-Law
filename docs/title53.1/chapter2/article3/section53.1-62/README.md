@@ -1,3 +1,0 @@
-# § 53.1-62 When ineligible for work release.
-
-<p>Any person who is released from confinement for work release employment pursuant to the provisions of § <a href='http://law.lis.virginia.gov/vacode/53.1-60/'>53.1-60</a>, who is convicted of a felony included within Chapter 4 (§ <a href='http://law.lis.virginia.gov/vacode/18.2-30/'>18.2-30</a> et seq.) of Title 18.2, or arson, burglary or robbery committed while so released, shall, after such conviction, be ineligible for work release employment during the remainder of the sentence or sentences imposed upon him prior to his release for work release employment.</p><p>Code 1950, § 53-38.1; 1976, c. 210; 1982, c. 636.</p>

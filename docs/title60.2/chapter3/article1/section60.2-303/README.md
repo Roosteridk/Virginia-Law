@@ -1,3 +1,0 @@
-# § 60.2-303 Moneys appropriated to Commission.
-
-<p>All moneys paid into the state treasury and credited to the Unemployment Compensation Fund are hereby appropriated to the Commission for the purposes set forth in this article.</p><p>Code 1950, § 60-93; 1968, c. 738, § 60.1-109; 1986, c. 480.</p>

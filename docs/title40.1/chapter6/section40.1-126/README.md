@@ -1,3 +1,0 @@
-# § 40.1-126 Operation and application of chapter.
-
-<p>Nothing in this chapter or in any apprentice agreement approved under this chapter shall invalidate any apprenticeship provision in any collective agreement between employers and employees establishing higher apprenticeship standards regarding ratios of apprentices to journeymen, probationary periods, or length of the program. But none of the terms or provisions of this chapter shall apply to any person, firm, corporation, or craft unless, until and only so long as such person, firm, corporation, or craft voluntarily elects that the terms and provisions of this chapter shall apply.</p><p>Code 1950, § 40-132; 1970, c. 321; 1990, c. 614.</p>

@@ -1,3 +1,0 @@
-# § 53.1-58 Highway employees as guards.
-
-<p>The Director, with the consent of the Commissioner of Highways, may appoint and authorize employees of the Department of Transportation to act as guards of prisoners when such prisoners are at work on the roads under the jurisdiction of the Commonwealth Transportation Board. Such employees shall be deemed to be acting within the scope of their official duties for the Board when acting as guards pursuant to this section. The Director may authorize such employees to carry firearms in accordance with § <a href='http://law.lis.virginia.gov/vacode/53.1-29/'>53.1-29</a>.</p><p>Code 1950, § 53-122; 1958, c. 572; 1970, c. 648; 1982, c. 636.</p>

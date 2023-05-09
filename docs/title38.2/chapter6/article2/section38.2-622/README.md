@@ -1,3 +1,0 @@
-# § 38.2-622 Private cause of action; neither created nor curtailed.
-
-<p>Nothing in this article shall be construed to create or imply a private cause of action for violation of its provisions, nor shall it be construed to curtail a private cause of action which would otherwise exist in the absence of this article.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0264'>264</a>.</p>

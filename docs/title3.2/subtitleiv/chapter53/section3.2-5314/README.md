@@ -1,3 +1,0 @@
-# § 3.2-5314 Remedies not exclusive.
-
-<p>The institution of proceedings for the application of any remedy, or the issuance of any order on account thereof, or the imposition of any fine or penalty pursuant to this chapter shall not operate as a bar or limitation to the application of any other remedy available pursuant to this chapter or any other applicable law.</p><p>1968, c. 142, § 3.1-770.2; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

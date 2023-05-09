@@ -1,3 +1,0 @@
-# § 59.1-466 Exceptions.
-
-<p>This chapter shall not apply to contracts between copyright owners or performing rights societies and broadcasters licensed by the Federal Communications Commission, or to contracts with cable operators, programmers or other transmission services. Nor shall this chapter apply to musical works performed in synchronization with an audio/visual film or tape, or to the gathering of information for determination of compliance with or activities related to the enforcement of Chapter 3.1 (§ <a href='http://law.lis.virginia.gov/vacode/59.1-41.1/'>59.1-41.1</a> et seq.) of Title 59.1.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0648'>648</a>.</p>

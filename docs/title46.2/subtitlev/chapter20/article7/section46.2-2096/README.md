@@ -1,3 +1,0 @@
-# § 46.2-2096 Certificates required unless exempted.
-
-<p>Unless otherwise exempted, no person shall engage in the business of a contract passenger carrier by motor vehicle on any highway within the Commonwealth on an intrastate basis unless such person has secured from the Department a certificate of fitness authorizing such business.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0881'>881</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0889'>889</a>.</p>

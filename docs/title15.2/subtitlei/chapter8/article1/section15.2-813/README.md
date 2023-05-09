@@ -1,3 +1,0 @@
-# § 15.2-813 Certain officers not affected by adoption of plan.
-
-<p>The following officers shall not, except as herein otherwise provided, be affected by the adoption of the urban county executive form:</p><p>1. Jury commissioners,</p><p>2. County electoral boards,</p><p>3. Registrars,</p><p>4. Judges and clerks of elections, and</p><p>5. Magistrates.</p><p>Code 1950, § 15-384.43; 1960, c. 382; 1962, c. 623, § 15.1-755; 1973, c. 545; 1997, c. 587.</p>

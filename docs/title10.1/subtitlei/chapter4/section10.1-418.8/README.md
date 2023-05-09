@@ -1,3 +1,0 @@
-# § 10.1-418.8 Hughes State Scenic River.
-
-<p>The Hughes River in Culpeper, Madison, and Rappahannock Counties from the Shenandoah National Park line in Madison County to its confluence with the Hazel River, a distance of approximately 10 miles, is hereby designated as the Hughes State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0232'>232</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>.</p>

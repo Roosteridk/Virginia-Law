@@ -1,3 +1,0 @@
-# § 18.2-67.5 Attempted rape, forcible sodomy, object sexual penetration, aggravated sexual battery, and sexual battery.
-
-<p>A. An attempt to commit rape, forcible sodomy, or inanimate or animate object sexual penetration shall be punishable as a Class 4 felony.</p><p>B. An attempt to commit aggravated sexual battery shall be a felony punishable as a Class 6 felony.</p><p>C. An attempt to commit sexual battery is a Class 1 misdemeanor.</p><p>1981, c. 397; 1993, c. 549.</p>

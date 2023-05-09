@@ -1,3 +1,0 @@
-# § 54.1-4013 Care of tangible personal property; evaluation fee.
-
-<p>A. Pawnbrokers shall store, care for and protect all of the tangible personal property in the pawnbroker's possession and protect the property from damage or misuse. Nothing in this chapter shall be construed to mean that pawnbrokers are insurers of pawned property in their possession.</p><p>B. A pawnbroker may charge a monthly storage fee for any items requiring storage, which fee shall not exceed five percent of the amount loaned on such item.</p><p>Code 1950, § 54-856; 1988, c. 765; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0848'>848</a>.</p>

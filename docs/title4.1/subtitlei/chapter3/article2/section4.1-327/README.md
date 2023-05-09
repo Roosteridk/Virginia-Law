@@ -1,3 +1,0 @@
-# § 4.1-327 Prohibiting transfer of wine or beer by licensees; penalty.
-
-<p>A. No retail licensee, except a retail on-premises wine and beer licensee, shall transfer any wine or beer from one licensed place of business to another licensed place of business whether such places of business are under the same ownership or not.</p><p>B. Any person convicted of a violation of this section shall be guilty of a Class 1 misdemeanor.</p><p>1954, c. 338, § 4-34.1; 1993, c. 866; 2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1113'>1113</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1114'>1114</a>.</p>

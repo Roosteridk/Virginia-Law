@@ -1,3 +1,0 @@
-# § 15.2-1419 Meeting times of certain authorities, boards and commissions.
-
-<p>Notwithstanding any contrary provision of law, general or special, the governing body of any locality may establish the regular meeting times (day and hour) of its authorities, boards and commissions so as to prevent conflict with other meetings.</p><p>1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0198'>198</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0240'>240</a>, § 15.1-37.3:14; 1997, c. 587.</p>

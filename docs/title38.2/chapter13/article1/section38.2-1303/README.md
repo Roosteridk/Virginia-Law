@@ -1,3 +1,0 @@
-# § 38.2-1303 Printed forms to be filed by insurers; certificates to domestic insurers.
-
-<p>A. The Commission shall be responsible for prescribing the type of blank or may prepare and distribute printed forms or blanks to licensed insurers for statements, reports, schedules or exhibits required by law or order.</p><p>B. The Commission shall furnish without charge to domestic insurers any certificates required to entitle them to do business in other states or countries.</p><p>Code 1950, § 38-129; 1952, c. 317, § 38.1-162; 1986, c. 562; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0316'>316</a>.</p>

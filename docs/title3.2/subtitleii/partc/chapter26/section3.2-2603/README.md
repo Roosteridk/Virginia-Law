@@ -1,3 +1,0 @@
-# § 3.2-2603 Aquaculture Advisory Board membership terms; compensation.
-
-<p>A. The terms for appointments to the Aquaculture Advisory Board shall be for four years. Appointments to fill vacancies shall be for the unexpired term.</p><p>B. Members of the Aquaculture Advisory Board shall receive no compensation for their services but shall receive reimbursement for actual expenses.</p><p>1992, c. 643, § 3.1-73.8; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2022, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0576'>576</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0577'>577</a>.</p>

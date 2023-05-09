@@ -1,3 +1,0 @@
-# § 17.1-251 Indexing of certain subdivision plats or maps.
-
-<p>When any plat or map of a subdivision which contains fifteen lots or more is recorded in the general index, the clerk shall, in addition to complying with the requirements set forth in § <a href='http://law.lis.virginia.gov/vacode/17.1-249/'>17.1-249</a>, add the magisterial district wherein the subdivision is located. Such plat or map shall also show the source of title of the immediate grantor.</p><p>1974, c. 349, § 17-79.2; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

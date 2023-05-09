@@ -1,3 +1,0 @@
-# § 16.1-69.51:1 Display of flags in courtrooms.
-
-<p>There shall be displayed inside each courtroom of all district courts in the cities and counties of the Commonwealth the flag of the United States of America and the flag of the Commonwealth of Virginia. The governing bodies of the respective counties and cities shall make provision for such display and may accept gifts or flags for such purpose.</p><p>1976, c. 445.</p>

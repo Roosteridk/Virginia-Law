@@ -1,3 +1,0 @@
-# § 62.1-155 Cooperation by cities on navigable streams with United States.
-
-<p>The cities in the Commonwealth situated on navigable streams shall have the power to cooperate with the United States of America in the improvement of the navigability of such streams involving the deepening, widening and straightening the channel thereof and making provision for turning basins at terminals and mooring areas thereon.</p><p>Code 1950, § 62-117.8; 1958, c. 467; 1968, c. 659.</p>

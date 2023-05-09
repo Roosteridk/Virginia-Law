@@ -1,3 +1,0 @@
-# § 19.2-80.1 When arrested person operating motor vehicle; how vehicle removed from scene of arrest.
-
-<p>In any case in which a police officer arrests the operator of a motor vehicle and there is no legal cause for the retention of the motor vehicle by the officer, the officer shall allow the person arrested to designate another person who is present at the scene of the arrest and a licensed driver to drive the motor vehicle from the scene to a place designated by the person arrested. If such a designation is not made, the officer may cause the vehicle to be taken to the nearest appropriate place for safekeeping.</p><p>1981, c. 306.</p>

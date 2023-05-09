@@ -1,3 +1,0 @@
-# § 21-140.3 Validation of certain bonds.
-
-<p>All bonds heretofore issued by any sanitary district for any or all of the purposes specified in Article 1 (§ <a href='http://law.lis.virginia.gov/vacode/21-112.22/'>21-112.22</a> et seq.) of Chapter 2 of Title 21 are hereby declared to be valid and legally binding obligations of such sanitary district, notwithstanding any limitations contained in any general law or special act pursuant to which such sanitary district was created and notwithstanding any limitations contained in the proceedings taken for the creation thereof.</p><p>1964, c. 165.</p>

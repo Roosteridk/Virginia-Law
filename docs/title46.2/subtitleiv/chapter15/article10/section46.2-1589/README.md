@@ -1,3 +1,0 @@
-# § 46.2-1589 Fees.
-
-<p>A. The recertification application fee shall be $50 for taking the course and shall be paid directly to the course provider.</p><p>B. The fee for returned checks shall be $35.</p><p>C. In addition to the recertification application fee, course providers may charge applicants a course fee of no more than $300.</p><p>D. The recertification application fee for taking the exam shall be $50 and shall be paid at the time the exam is administered.</p><p>2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0574'>574</a>.</p>

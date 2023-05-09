@@ -1,3 +1,0 @@
-# § 15.2-3002 Designation of judges for panel.
-
-<p>The Supreme Court of Virginia shall designate fifteen circuit court judges to compose the panel of judges provided for in this chapter. All special courts appointed pursuant to § <a href='http://law.lis.virginia.gov/vacode/15.2-3000/'>15.2-3000</a> shall be composed of three judges appointed from this panel. The chief justice shall designate one of the judges as chief judge.</p><p>1979, c. 85, § 15.1-1169; 1993, c. 398; 1997, c. 587.</p>

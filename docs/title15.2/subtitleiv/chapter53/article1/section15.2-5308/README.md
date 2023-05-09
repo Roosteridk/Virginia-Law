@@ -1,3 +1,0 @@
-# § 15.2-5308 Officers and agents.
-
-<p>When the office of the first chairman of the authority becomes vacant, the authority shall select a chairman from among its commissioners. An authority shall select from among its members a vice-chairman, and it may employ a secretary, technical experts, and such other officers, agents and employees, permanent and temporary, as it may require, and shall determine their qualifications, duties and compensation. An authority may employ its own counsel and legal staff. An authority may delegate to one or more of its agents or employees such powers or duties as it deems proper.</p><p>Code 1950, § 32-221; 1979, c. 719, § 15.1-1541; 1997, c. 587.</p>

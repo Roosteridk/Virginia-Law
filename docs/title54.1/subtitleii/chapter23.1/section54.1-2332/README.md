@@ -1,3 +1,0 @@
-# § 54.1-2332 Seller required to keep records.
-
-<p>Each seller of a preneed burial contract shall file with the Board at such time as the Board may prescribe, detailed accounts of all contracts and transactions regarding preneed burial contracts.</p><p>1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0708'>708</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0721'>721</a>.</p>

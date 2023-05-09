@@ -1,3 +1,0 @@
-# § 64.2-558 Distribution to persons standing in loco parentis to certain beneficiaries.
-
-<p>Notwithstanding any provision of law to the contrary, a distribution to a person standing in loco parentis to an incapacitated person or an infant pursuant to authorization under subdivision B 17 of § <a href='http://law.lis.virginia.gov/vacode/64.2-105/'>64.2-105</a> or a comparable provision in a will or trust instrument may be approved by the commissioner of accounts without regard to the amount or value of the fund or property.</p><p>1980, c. 507, § 64.1-180.1; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0801'>801</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

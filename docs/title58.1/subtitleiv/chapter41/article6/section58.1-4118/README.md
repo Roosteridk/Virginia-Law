@@ -1,3 +1,0 @@
-# § 58.1-4118 Service permit required.
-
-<p>No person shall participate in any gaming operation as a casino gaming employee or concessionaire or employee of either or in any other occupation that the Board has determined necessary to regulate in order to ensure the integrity of casino gaming in the Commonwealth unless such person possesses a service permit to perform such occupation issued by the Board. The Board shall prescribe by regulation the criteria for the issuance, duration, and renewal of service permits.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1197'>1197</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1248'>1248</a>.</p>

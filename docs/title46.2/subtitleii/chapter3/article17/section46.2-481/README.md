@@ -1,3 +1,0 @@
-# § 46.2-481 Binder or endorsement in lieu of policy.
-
-<p>Insurance carriers authorized to issue policies as provided in this chapter may, pending the issuance of the policy, execute an agreement to be known as a binder, which shall not be valid beyond sixty days from the date it becomes effective, or may, in lieu of a policy, issue an endorsement to an existing policy, each of which shall be construed to provide indemnity or protection in like manner and to the same extent as a formal policy. The provisions of this chapter apply to these binders and endorsements.</p><p>Code 1950, § 46-500; 1958, c. 541, § 46.1-513; 1989, c. 727.</p>

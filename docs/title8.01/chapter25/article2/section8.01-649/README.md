@@ -1,3 +1,0 @@
-# § 8.01-649 Proceedings when application is to Supreme Court or Court of Appeals.
-
-<p>If the application is to the Court of Appeals or the Supreme Court, the procedure shall be in accordance with the provisions of Rules of Court.</p><p>Code 1950, § 8-710; 1977, c. 617; 1984, c. 703.</p>

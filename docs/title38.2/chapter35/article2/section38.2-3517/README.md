@@ -1,3 +1,0 @@
-# § 38.2-3517 Definitions.
-
-<p>As used in this article:</p><p>"Form" means a policy, rider, endorsement, amendment, application, enrollment form, certificate of insurance, evidence of coverage, group agreement, supplemental agreement, or any other form required to be filed with or approved by the Commission.</p><p>"Policy" means an insurance policy, contract, certificate, evidence of coverage, or other agreement of insurance, including any attached rider, endorsement, or application.</p><p>1980, c. 204, § 38.1-362.12; 1986, c. 562; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0531'>531</a>.</p>

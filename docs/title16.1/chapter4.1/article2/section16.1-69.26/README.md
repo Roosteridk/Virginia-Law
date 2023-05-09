@@ -1,3 +1,0 @@
-# § 16.1-69.26 Judges as conservators of the peace.
-
-<p>The judge of each district court having criminal jurisdiction shall be a conservator of the peace within the limits of the territory in which he serves; and if such court is a city court, the judge thereof shall, except as otherwise provided by general law, also be a conservator of the peace for the area extending for one mile beyond the corporate limits of the city.</p><p>1972, c. 708; 1973, c. 546.</p>

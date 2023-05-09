@@ -1,3 +1,0 @@
-# § 32.1-134 Family planning information in hospitals providing maternity care.
-
-<p>Every hospital providing maternity care shall, prior to releasing each maternity patient, make available to such patient family planning information and a list of family planning clinics located in the Commonwealth, unless medically contraindicated; provided, however, that any such hospital operated under the auspices of a religious institution objecting to distributing lists of family planning clinics on religious grounds shall not be required to distribute them. Such information and lists may include, but need not be limited to, such information and lists as shall be furnished by the Department.</p><p>Code 1950, § 32-154; 1960, c. 248; 1977, c. 680; 1978, c. 162; 1979, c. 711.</p>

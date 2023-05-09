@@ -1,3 +1,0 @@
-# § 8.01-287 How process to be served.
-
-<p>Upon commencement of an action, process shall be served in the manner set forth in this chapter and by the Rules of the Supreme Court.</p><p>Code 1950, § 8-56; 1952, c. 77; 1954, c. 543; 1977, c. 617.</p>

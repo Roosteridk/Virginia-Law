@@ -1,3 +1,0 @@
-# § 29.1-309.3 State junior resident trapping license established; fee.
-
-<p>There is hereby established a state youth resident trapping license, which may be obtained by any resident under the age of 16, to trap in all counties and cities of the Commonwealth. The fee for this license shall be $10 or as subsequently revised by the Board pursuant to § <a href='http://law.lis.virginia.gov/vacode/29.1-103/'>29.1-103</a>.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0070'>70</a>; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0009'>9</a>.</p>

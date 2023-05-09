@@ -1,3 +1,0 @@
-# § 36-52 Cooperation by localities.
-
-<p>Any local government shall have the same rights and powers to cooperate with and assist authorities with respect to implementation of conservation or redevelopment plans that such locality has pursuant to §§ <a href='http://law.lis.virginia.gov/vacode/36-6/'>36-6</a> and <a href='http://law.lis.virginia.gov/vacode/36-7/'>36-7</a> and any other provision of the Housing Authorities Law.</p><p>1946, p. 280; Michie Suppl. 1946, § 3145(8e); 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0784'>784</a>.</p>

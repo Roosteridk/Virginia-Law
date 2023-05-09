@@ -1,3 +1,0 @@
-# § 13.1-1233 Payment of and security for expenses.
-
-<p>On termination of a derivative proceeding, the court shall:</p><p>1. Order the business trust to pay the plaintiff's reasonable expenses, including counsel fees, incurred in the proceeding if it finds that the proceeding has resulted in a substantial benefit to the business trust; or</p><p>2. Order the plaintiff or the plaintiff's attorney to pay any defendant's reasonable expenses, including counsel fees, incurred in defending the proceeding if it finds that the proceeding was commenced or maintained arbitrarily, vexatiously or not in good faith.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0621'>621</a>.</p>

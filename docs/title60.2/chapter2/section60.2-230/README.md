@@ -1,3 +1,0 @@
-# § 60.2-230 Week.
-
-<p>"Week" means calendar week, ending at midnight Saturday, or the equivalent thereof as determined in accordance with regulations prescribed by the Commission, except as provided for in subdivision 9 of subsection B of § <a href='http://law.lis.virginia.gov/vacode/60.2-210/'>60.2-210</a>.</p><p>Code 1950, § 60-23; 1968, c. 738, § 60.1-27; 1971, Ex. Sess., c. 235; 1986, c. 480.</p>

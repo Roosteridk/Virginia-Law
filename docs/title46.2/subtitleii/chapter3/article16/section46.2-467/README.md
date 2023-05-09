@@ -1,3 +1,0 @@
-# § 46.2-467 Action within power of Commission.
-
-<p>The Commission may, in its discretion, after reviewing all information pertaining to the applicant or policyholder available from its records, the records of the Department or from other sources:</p><p>1. Refuse to assign an application;</p><p>2. Approve the rejection of an application by an insurance carrier;</p><p>3. Approve the cancellation of a policy of motor vehicle liability, physical damage, and medical payments insurance by an insurance carrier; or</p><p>4. Refuse to approve the renewal or the reassignment of an expiring policy.</p><p>Code 1950, § 46-488; 1958, c. 541, § 46.1-499; 1972, c. 842; 1989, c. 727.</p>

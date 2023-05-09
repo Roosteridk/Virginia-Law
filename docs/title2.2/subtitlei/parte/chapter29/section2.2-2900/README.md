@@ -1,3 +1,0 @@
-# § 2.2-2900 Short title; purpose.
-
-<p>This chapter shall be known and may be cited as the "Virginia Personnel Act."</p><p>The purpose of this chapter is to ensure for the Commonwealth a system of personnel administration based on merit principles and objective methods of appointment, promotion, transfer, layoff, removal, discipline, and other incidents of state employment.</p><p>Code 1950, § 2-78; 1966, c. 677, § 2.1-110; 1970, c. 546; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

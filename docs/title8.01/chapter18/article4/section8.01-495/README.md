@@ -1,3 +1,0 @@
-# § 8.01-495 When money received by officer under execution to be repaid to debtor.
-
-<p>When an officer has received money under execution, if any surplus remain in his hands after satisfying the execution, such surplus shall be repaid to the debtor; and if the debtor, or his personal representative, obtain an injunction or supersedeas to an execution, in whole or in part, before money received under it, or any part of it, is paid over to the creditor, the officer shall repay such debtor the money so received and not so paid over, or so much thereof as the injunction or supersedeas may extend to, unless such process otherwise direct.</p><p>Code 1950, § 8-424; 1977, c. 617.</p>

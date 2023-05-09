@@ -1,3 +1,0 @@
-# § 38.2-2233 Installment payments of motor vehicle insurance.
-
-<p>Whenever an insurer who accepts payments of insurance in installments and has a set date for the payment of an installment unilaterally changes the due date for such installment payment, the insurer shall conspicuously disclose the new due date for the installment payment. This section shall apply to all policies of motor vehicle insurance, as defined in § <a href='http://law.lis.virginia.gov/vacode/38.2-2212/'>38.2-2212</a>, issued or renewed on or after October 1, 2002.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0629'>629</a>.</p>

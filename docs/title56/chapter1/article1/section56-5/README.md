@@ -1,3 +1,0 @@
-# § 56-5 Triple damages for injury to property of public service corporation.
-
-<p>Any person who shall wilfully destroy, injure, or obstruct any of the works or property of a public service corporation shall be liable to such corporation for three times the amount of the actual damage thereby sustained. This section shall not relieve such person of any liability to criminal prosecution for such offense, or of any fine or imprisonment imposed by law therefor.</p><p>Code 1919, § 3894.</p>

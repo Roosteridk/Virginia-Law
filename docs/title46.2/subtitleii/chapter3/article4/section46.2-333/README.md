@@ -1,3 +1,0 @@
-# § 46.2-333 Disposition of fees; expenses.
-
-<p>Except as otherwise provided in this chapter, all fees accruing under the provisions of this chapter shall be paid to, and received by the Commissioner, and by him forthwith paid into the state treasury and set aside as a special fund to be used to meet the necessary expenses incurred by the Department.</p><p>Code 1950, § 46-346; 1958, c. 541, § 46.1-381; 1987, c. 696; 1989, c. 727.</p>

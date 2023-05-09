@@ -1,3 +1,0 @@
-# § 15.2-6016 Southwest Regional Recreation Authority established.
-
-<p>There is hereby established a Southwest Regional Recreation Authority for the LENOWISCO and Cumberland Plateau Planning District Commissions for the purpose of establishing and maintaining a Southwest Regional Recreation Area.</p><p>2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0645'>645</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0648'>648</a>.</p>

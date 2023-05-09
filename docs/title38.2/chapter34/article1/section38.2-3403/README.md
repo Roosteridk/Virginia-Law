@@ -1,3 +1,0 @@
-# § 38.2-3403 Fraudulent procurement of policy.
-
-<p>A. No person shall knowingly secure, attempt to secure or cause to be secured an individual accident and sickness insurance policy on any person not in an insurable condition by means of misrepresentations or false or fraudulent statements.</p><p>B. An insurance agent who violates this section shall be subject to the penalties under § <a href='http://law.lis.virginia.gov/vacode/38.2-1831/'>38.2-1831</a> in addition to the penalties of § <a href='http://law.lis.virginia.gov/vacode/38.2-218/'>38.2-218</a>.</p><p>1966, c. 342, § 38.1-348.3; 1986, c. 562.</p>

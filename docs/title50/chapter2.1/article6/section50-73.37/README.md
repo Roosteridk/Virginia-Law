@@ -1,3 +1,0 @@
-# § 50-73.37 Withdrawal of general partner.
-
-<p>A general partner may withdraw from a limited partnership at any time by giving written notice to the other partners, but if the withdrawal violates the partnership agreement, the limited partnership may recover from the withdrawing general partner damages for breach of the partnership agreement and offset the damages against the amount otherwise distributable to him in addition to any remedies otherwise available under applicable law.</p><p>1985, c. 607.</p>

@@ -1,3 +1,0 @@
-# § 42.1-8 Rules and regulations.
-
-<p>The Board shall make rules and regulations, not inconsistent with law, for the government and use of The Library of Virginia, and may by general or special regulation determine what books and other possessions of the Library may not be removed therefrom.</p><p>Code 1950, § 42-41; 1970, c. 606; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0064'>64</a>.</p>

@@ -1,3 +1,0 @@
-# § 38.2-6110 Filing requirements for premium rates and subscription fees.
-
-<p>A. The filing with the Commission of any dental benefit contract or rider or endorsement by a dental plan organization shall be accompanied by the filing of premium rates or subscription fees.</p><p>B. A subsequent change in premium rates or subscription fees shall be filed with supporting data at least 30 days before the change is proposed to become effective.</p><p> 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0668'>668</a>.</p>

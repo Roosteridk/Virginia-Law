@@ -1,3 +1,0 @@
-# § 53.1-18 Department to have custody of property; right to sue to protect property.
-
-<p>The Department shall have custody of both the real and personal property of state correctional facilities. The Department is authorized to institute and prosecute in the name of the Commonwealth any suit or proceeding to protect the rights of the Commonwealth in such property.</p><p>Code 1950, § 53-20; 1970, c. 648; 1982, c. 636; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0759'>759</a>.</p>

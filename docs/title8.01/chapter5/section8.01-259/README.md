@@ -1,3 +1,0 @@
-# § 8.01-259 Application.
-
-<p>Nothing in this chapter shall apply to venue in the following proceedings:</p><p>(1), (2) [Repealed.]</p><p>(3) Habeas corpus;</p><p>(4) Tax proceedings, other than those in Title 58.1;</p><p>(5) Juvenile and domestic relations district courts proceedings concerning children; or</p><p>(6) [Repealed.]</p><p>(7) Adoptions.</p><p>(8) [Repealed.]</p><p>In all other actions, venue shall be in accordance with the provisions of this chapter, and, with respect to such actions, in case of conflict between the provisions of this chapter and other provisions outside this chapter relating to venue, all such other provisions are hereby superseded.</p><p>1977, c. 617; 1987, c. 567; 1989, c. 556.</p>

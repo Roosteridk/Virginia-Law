@@ -1,3 +1,0 @@
-# § 58.1-4141 Taxation.
-
-<p>Any gross receipts from on-premises mobile casino gaming shall be included in a casino gaming operator's adjusted gross receipts and subject to taxation pursuant to the provisions of Article 9 (§ <a href='/vacode/58.1-4124/'>58.1-4124</a> et seq.).</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1197'>1197</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1248'>1248</a>.</p>

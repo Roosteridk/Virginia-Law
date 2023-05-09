@@ -1,3 +1,0 @@
-# § 33.2-2911 Exemption from taxation.
-
-<p>All property, real and personal, and all rights and interests therein and the income of the Authority, the revenue bonds and the interest thereon, and the transfer thereof and any profit made on the sale thereof, shall at all times be free from taxation or assessment by the Commonwealth and by any municipality, county, or other political subdivision thereof.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0471'>471</a>, § 15.2-7011; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

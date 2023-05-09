@@ -1,3 +1,0 @@
-# § 38.2-3540 Legal actions.
-
-<p>Each group accident and sickness insurance policy shall contain a provision that no action at law or in equity shall be brought to recover on the policy within sixty days after proof of loss has been filed in accordance with the policy requirements and that no such action shall be brought after the expiration of three years from the time that proof of loss was required to be filed.</p><p>1986, c. 562.</p>

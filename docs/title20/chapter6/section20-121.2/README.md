@@ -1,3 +1,0 @@
-# § 20-121.2 Validation of absolute divorce granted where no decree from bed and board.
-
-<p>Any absolute divorce granted in this Commonwealth under circumstances in which the bill of complaint prayed for a divorce from bed and board with leave to merger the same into an absolute divorce at the end of the statutory period and in which the decree of absolute divorce was entered with no decree from bed and board because the statutory period elapsed prior to the entry of said decree, is hereby validated, provided such divorce proceeding was otherwise conducted according to law.</p><p>1956, c. 136.</p>

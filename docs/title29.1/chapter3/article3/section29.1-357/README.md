@@ -1,3 +1,0 @@
-# § 29.1-357 Civil action required.
-
-<p>In any instance in which compensable damage is alleged to have been caused by an individual hunter whose whereabouts are known and when it is reasonable and practicable to do so, the claimant shall first proceed against such hunter in a civil action before any payment is made pursuant to the provisions of this article.</p><p>Upon payment of any claim pursuant to the provisions of this article, the county shall be subrogated to the rights of the claimant against such individual hunter.</p><p>1981, c. 16, § 29-92.6; 1987, c. 488.</p>

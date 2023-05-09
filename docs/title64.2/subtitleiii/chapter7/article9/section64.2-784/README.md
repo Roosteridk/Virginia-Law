@@ -1,3 +1,0 @@
-# § 64.2-784 Duties at inception of trusteeship.
-
-<p>Within a reasonable time after accepting a trusteeship or receiving trust assets, a trustee shall review the trust assets and make and implement decisions concerning the retention and disposition of assets, in order to bring the trust portfolio into compliance with the purposes, terms, distribution requirements, and other circumstances of the trust, and with the requirements of this article.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0772'>772</a>, § 26-45.6; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

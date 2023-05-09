@@ -1,3 +1,0 @@
-# § 40.1-51.38 Appeal to Court of Appeals.
-
-<p>The Commonwealth or any party aggrieved by any final decision of the judge shall have, regardless of the amount involved, the right to appeal to the Court of Appeals. The procedure shall be the same as that provided by law concerning appeals and supersedeas.</p><p>1992, c. 541.</p>

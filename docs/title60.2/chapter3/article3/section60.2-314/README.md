@@ -1,3 +1,0 @@
-# § 60.2-314 Fund continued; interest and penalties paid into fund.
-
-<p>The special fund in the state treasury known as the Special Unemployment Compensation Administration Fund is continued. All interest, penalties, fees, and costs regardless of when the same became payable, collected from employers and claimants under the provisions of this title, shall be paid into this fund.</p><p>Code 1950, § 60-102; 1968, c. 738, § 60.1-119; 1986, c. 480; 1990, c. 687.</p>

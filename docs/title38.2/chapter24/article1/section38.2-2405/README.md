@@ -1,3 +1,0 @@
-# § 38.2-2405 When insurer accepted as surety.
-
-<p>Any fidelity and surety insurer shall be accepted as surety upon any bond required by the laws of this Commonwealth or by any court, judge, public officer, board, or organization upon presentation of evidence satisfactory to the court, judge, or other officer authorized to approve the bond that the insurer is licensed to transact surety insurance.</p><p>Code 1950, § 38-332; 1952, c. 317, § 38.1-643; 1986, c. 562.</p>

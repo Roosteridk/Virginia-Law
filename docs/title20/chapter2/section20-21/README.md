@@ -1,3 +1,0 @@
-# § 20-21 Clerk to furnish attorney for the Commonwealth list of licenses not returned by minister.
-
-<p>It shall be the duty of every clerk issuing marriage licenses no later than March 31 of each year to furnish to the attorney for the Commonwealth of his county or city a list of all marriage licenses issued during the preceding calendar year that have not been returned by the minister or other person celebrating the marriage.</p><p>Code 1919, § 5074; 1928, p. 314; 1938, p. 151; 2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0031'>31</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0214'>214</a>.</p>

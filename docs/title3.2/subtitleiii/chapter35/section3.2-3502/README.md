@@ -1,3 +1,0 @@
-# § 3.2-3502 Local retail farmers markets.
-
-<p>Any locality may establish, operate and maintain a local retail farmers market. The local retail farmers market may request to be part of the network of farmers markets within the Commonwealth or may be independent of such network. Nothing in this section shall invalidate the actions of any locality taken prior to enactment of this section.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0015'>15</a>, § 3.1-73.5:1; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

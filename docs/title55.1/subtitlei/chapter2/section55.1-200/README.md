@@ -1,3 +1,0 @@
-# § 55.1-200 How married persons may acquire and dispose of property.
-
-<p>Married persons shall have the right to acquire, hold, use, control, and dispose of property as if they were unmarried. Such power of use, control, and disposition shall apply to all property of a married person. The marital rights of persons married to each other shall not entitle either spouse to the possession or use, or to the rents, issues, and profits, of such real estate of the other spouse during the coverture, nor shall the property of either spouse be subject to the debts or liabilities of the other spouse.</p><p>Code 1919, § 5134; 1932, p. 21; Code 1950, § 55-35; 1990, c. 831; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

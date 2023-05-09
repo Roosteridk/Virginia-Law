@@ -1,3 +1,0 @@
-# § 56-412 When trains shall be stopped before getting to railroad crossing.
-
-<p>Whenever railroads cross each other on the same grade in this Commonwealth, the trains shall be brought to a full stop at least fifty feet before getting to the crossing.</p><p>The provisions of this section shall not be applicable where the crossings of such roads are regulated by derailing switches, or other safety appliances, which prevent collision at crossings, nor where a flagman or watchman is stationed, or signal tower is located, and signals that the trains may cross in safety.</p><p>Code 1919, § 3987.</p>

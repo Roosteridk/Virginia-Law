@@ -1,3 +1,0 @@
-# § 58.1-2268.1 Preventing a person from obtaining a license; civil penalty.
-
-<p>Any terminal operator, supplier, or position holder in the terminal who, by use of coercion, threat, intimidation or any other means of interference, intentionally prevents any person from applying for and obtaining a license issued under this chapter shall be subject to a civil penalty. The amount of the civil penalty assessed against a person for his (i) first violation shall be $5,000 and (ii) second and subsequent violations shall be $10,000.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0729'>729</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0758'>758</a>.</p>

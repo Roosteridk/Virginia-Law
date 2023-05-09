@@ -1,3 +1,0 @@
-# § 38.2-3406 Accident and sickness benefits not subject to legal process.
-
-<p>The installment payments to the holder of any accident and sickness insurance policy or certificate shall not be subject to the lien of any attachment, garnishment proceeding, writ of fieri facias, or to levy or distress in any manner for any debt due by the holder of the policy or certificate.</p><p>Code 1950, § 38-227; 1952, c. 317, § 38.1-346; 1986, c. 562.</p>

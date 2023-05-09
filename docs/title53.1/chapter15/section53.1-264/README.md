@@ -1,3 +1,0 @@
-# § 53.1-264 Application of certain criminal law to contractor-operated facilities.
-
-<p>All provisions of law establishing penalties for offenses committed against custodians of inmates, correctional officers, prison guards, or jail officers shall apply mutatis mutandis to offenses committed by or with regard to inmates assigned to facilities or programs for which a prison contractor is providing correctional services.</p><p>1991, c. 705; 1992, c. 654.</p>

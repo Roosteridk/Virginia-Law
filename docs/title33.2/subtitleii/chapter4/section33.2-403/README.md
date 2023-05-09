@@ -1,3 +1,0 @@
-# § 33.2-403 Business enterprises restricted on limited access highway right-of-way.
-
-<p>No commercial establishment or business enterprise shall be constructed or located upon any right-of-way of any limited access highway.</p><p>Code 1950, § 33-40.1; 1958, c. 490; 1970, c. 322, § 33.1-60; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

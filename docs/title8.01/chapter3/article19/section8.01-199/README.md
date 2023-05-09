@@ -1,3 +1,0 @@
-# § 8.01-199 Judgment, nature of.
-
-<p>On any such motion, the judgment shall be for so much principal and interest as would be recoverable by action. It may be also for fifteen per centum damages in addition thereto when the proceeding is against a treasurer, sheriff, or other collector, or his sureties, or his or their personal representatives, for taxes or other public money which ought to have been paid into the state treasury. In such proceeding, the court, in pronouncing judgment, may consider all the circumstances, and give judgment for the damages or not, or for such part of the damages, as it may deem proper.</p><p>Code 1950, § 8-762; 1977, c. 617.</p>

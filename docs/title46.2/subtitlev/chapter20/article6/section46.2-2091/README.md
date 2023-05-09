@@ -1,3 +1,0 @@
-# § 46.2-2091 Unlawful to charge other than published tariff.
-
-<p>No common carrier regulated pursuant to this article shall charge or demand or collect or receive greater compensation for transportation or for any service in connection therewith between the points enumerated in such tariff than the rates, fares, and charges specified in the tariffs in effect at the time.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

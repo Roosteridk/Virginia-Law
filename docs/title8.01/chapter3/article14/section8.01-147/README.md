@@ -1,3 +1,0 @@
-# § 8.01-147 When mortgagee or trustee not to recover.
-
-<p>The payment of the whole sum, or the performance of the whole duty, or the accomplishment of the whole purpose, which any mortgage or deed of trust may have been made to secure or effect, shall prevent the grantee, or his heirs, from recovering at law, by virtue of such mortgage or deed of trust, property thereby conveyed, whenever the defendant would in equity be entitled to a decree, revesting the legal title in him without condition.</p><p>Code 1950, § 8-817; 1977, c. 617.</p>

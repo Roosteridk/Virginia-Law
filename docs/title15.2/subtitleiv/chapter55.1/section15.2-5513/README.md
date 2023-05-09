@@ -1,3 +1,0 @@
-# § 15.2-5513 Executive director; staff.
-
-<p>Subject to the availability of funds, the Authority may appoint an executive director, who shall be authorized to employ such staff as necessary to enable the Authority to perform its duties as set forth in this chapter. The Authority is authorized to determine the duties of such staff and to fix salaries and compensation from such funds as may be received.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0791'>791</a>.</p>

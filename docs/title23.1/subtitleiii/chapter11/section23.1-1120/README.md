@@ -1,3 +1,0 @@
-# § 23.1-1120 Exchange and cancellation of consol coupon bonds of the Commonwealth.
-
-<p>The following sections of the Code of Virginia of 1919 are continued in effect:</p><p>1. Section 991, relating to the exchange of consol coupon bonds held by colleges, etc., for funded registered consol bonds; and</p><p>2. Section 992, relating to the cancellation of such bonds surrendered in exchange.</p><p>Code 1919, §§ 991, 992, § 23-6; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

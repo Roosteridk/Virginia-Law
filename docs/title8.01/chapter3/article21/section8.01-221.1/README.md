@@ -1,3 +1,0 @@
-# § 8.01-221.1 Unestablished business damages; lost profits.
-
-<p>Damages for lost profits of a new or unestablished business may be recoverable upon proper proof. A party shall not be deemed to have failed to prove lost profits because the new or unestablished business has no history of profits. Such damages for a new or unestablished business shall not be recoverable in wrongful death or personal injury actions other than actions for defamation.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0624'>624</a>.</p>

@@ -1,3 +1,0 @@
-# § 3.2-2203 Small Grains Board officers and compensation.
-
-<p>A. The Small Grains Board shall elect a chairman and such other officers as deemed appropriate.</p><p>B. Members of the Small Grains Board shall not receive compensation for attendance at meetings of the Small Grains Board, but shall be reimbursed for actual and necessary expenses incurred in the performance of their duties.</p><p>1991, c. 587, § 3.1-684.52; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

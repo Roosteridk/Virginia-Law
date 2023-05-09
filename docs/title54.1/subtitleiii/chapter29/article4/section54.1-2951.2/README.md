@@ -1,3 +1,0 @@
-# § 54.1-2951.2 Issuance of a license.
-
-<p>The Board shall issue a license to the physician assistant to practice in accordance with § <a href='/vacode/54.1-2951.1/'>54.1-2951.1</a>.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0319'>319</a>; 2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0092'>92</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0137'>137</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0210'>210</a>.</p>

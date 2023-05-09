@@ -1,3 +1,0 @@
-# § 3.2-5904 Authority of the Commissioner; coyotes; black vultures.
-
-<p>The Commissioner may enter into agreements with local and state agencies, or other persons for the control of coyotes, black vultures (Coragyps atratus), and other wildlife that pose a danger to agricultural animals. The Commissioner shall enter into an agreement with the federal government to establish and maintain the Virginia Cooperative Wildlife Damage Management Program.</p><p>1990, c. 682, § 3.1-796.67:1; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0761'>761</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0059'>59</a>.</p>

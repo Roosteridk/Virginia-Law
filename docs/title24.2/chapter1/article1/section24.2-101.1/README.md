@@ -1,3 +1,0 @@
-# § 24.2-101.1 Implementation of certain laws; special elections.
-
-<p>All laws enacted at a regular session of the General Assembly shall take effect as provided in § <a href='http://law.lis.virginia.gov/vacode/1-214/'>1-214</a> except that the implementation of any change to this title shall not become effective for a special election held at a time other than a general election if the writ for the special election was issued prior to the effective date of the law.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0366'>366</a>.</p>

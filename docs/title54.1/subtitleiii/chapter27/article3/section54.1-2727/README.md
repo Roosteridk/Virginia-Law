@@ -1,3 +1,0 @@
-# § 54.1-2727 Display of license.
-
-<p>Every person practicing dental hygiene shall at all times display his license in a conspicuous place in his office in plain view of patients.</p><p>The provisions of this section shall not apply to any dental hygienist while he is serving as a volunteer providing dental hygiene services in an underserved area of the Commonwealth under the auspices of a Virginia charitable corporation granted tax-exempt status under § 501(c)(3) of the Internal Revenue Code and operating as a clinic for the indigent and uninsured that is organized for the delivery of primary health care services.</p><p>1950, p. 985, § 54-200.14; 1972, c. 805; 1988, c. 765; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0823'>823</a>.</p>

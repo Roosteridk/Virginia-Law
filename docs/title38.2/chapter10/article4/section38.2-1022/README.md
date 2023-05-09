@@ -1,3 +1,0 @@
-# § 38.2-1022 Commission to be notified of proposed transfer of domicile.
-
-<p>Each insurer licensed to transact the business of insurance in this Commonwealth that transfers its domicile to any other state shall notify the Commission of the proposed transfer and shall file promptly with it any necessary amendments to articles of incorporation, charters, and other corporate documents.</p><p>1983, c. 441, § 38.1-952; 1986, c. 562; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0329'>329</a>.</p>

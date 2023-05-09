@@ -1,3 +1,0 @@
-# § 8.01-581.4:1 Assembly of record.
-
-<p>Upon conclusion of deliberations and rendering of an opinion by the panel, all documentary evidence submitted to the panel, a transcript of the ore tenus hearing, if any, and a copy of the written opinion of the panel shall be filed in the office of the clerk. The record shall be maintained until the action is completed in the circuit court. Upon completion of the action, the clerk of the trial court shall include a copy of the panel record along with the record of the case.</p><p>1986, c. 227; 1993, c. 928.</p>

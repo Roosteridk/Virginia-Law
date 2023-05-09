@@ -1,3 +1,0 @@
-# § 15.2-922.1 Regulating or prohibiting the making of fires.
-
-<p>A. Any city or town may by ordinance regulate or prohibit the making of fires in streets, alleys, and other public places and regulate the making of fires on private property.</p><p>B. In addition to the authority provided under § <a href='http://law.lis.virginia.gov/vacode/27-98/'>27-98</a>, any county may by ordinance regulate or prohibit the making of fires in streets, alleys, and other public places and, when a declared emergency exists, pursuant to § <a href='http://law.lis.virginia.gov/vacode/44-146.21/'>44-146.21</a>, regulate the making of fires on private property.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0256'>256</a>.</p>

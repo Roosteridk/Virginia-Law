@@ -1,3 +1,0 @@
-# § 1-243 Severability.
-
-<p>The provisions of acts of the General Assembly or the application thereof to any person or circumstances that are held invalid shall not affect the validity of other acts, provisions, or applications that can be given effect without the invalid provisions or applications. The provisions of all acts, except for the title of the act, are severable unless (i) the act specifically provides that its provisions are not severable; or (ii) it is apparent that two or more acts or provisions must operate in accord with one another.</p><p>1986, c. 239, § 1-17.1; 1987, c. 56; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

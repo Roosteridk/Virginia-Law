@@ -1,3 +1,0 @@
-# § 3.2-3715 Prohibited acts; penalty.
-
-<p>A. It is unlawful to:</p><p>1. Sell or offer to sell any liming material unless it complies with provisions of this chapter;</p><p>2. Sell or offer for sale liming material that contains toxic materials in quantities injurious to plants or animals; and</p><p>3. Hinder or obstruct in any way the Commissioner in the performance of his official duties.</p><p>B. Any person who violates any provision of this chapter is guilty of a Class 3 misdemeanor.</p><p>1974, c. 647, § 3.1-126.11; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0649'>649</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

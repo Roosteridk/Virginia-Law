@@ -1,3 +1,0 @@
-# § 56-575.14 Police powers; violations of law.
-
-<p>All police officers of the Commonwealth and of each affected local jurisdiction shall have the same powers and jurisdiction within the limits of such qualifying project as they have in their respective areas of jurisdiction and such police officers shall have access to the qualifying project at any time for the purpose of exercising such powers and jurisdiction.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0571'>571</a>.</p>

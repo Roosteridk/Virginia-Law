@@ -1,3 +1,0 @@
-# § 3.2-3614 Commercial value.
-
-<p>For the purpose of determining the commercial value to be applied in making assessments for variance from guarantee, the Commissioner shall determine the values per unit of total nitrogen (N), available phosphate (P205), soluble potash (K20), and micronutrients in fertilizers in the Commonwealth.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0740'>740</a>, § 3.1-106.12; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

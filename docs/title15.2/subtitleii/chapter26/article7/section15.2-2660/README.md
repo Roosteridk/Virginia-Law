@@ -1,3 +1,0 @@
-# § 15.2-2660 Bonds not affected by project undertaken.
-
-<p>The authorization and issuance of the bonds under this chapter shall not be dependent on or affected in any way by proceedings taken, contracts made, or acts performed or done in connection with, or in furtherance of, the project undertaken by the locality authorizing and issuing the bonds.</p><p>Code 1950, § 15-666.67; 1958, c. 640; 1962, c. 623, § 15.1-226; 1991, c. 668, § 15.1-227.62; 1997, c. 587.</p>

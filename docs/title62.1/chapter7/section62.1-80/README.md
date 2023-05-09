@@ -1,3 +1,0 @@
-# § 62.1-80 Declaration of public policy.
-
-<p>In order to conserve and utilize the otherwise wasted energy from the water powers in this Commonwealth, it is hereby declared to be the policy of the Commonwealth to encourage the utilization of the water resources in the Commonwealth to the greatest practicable extent and to control the waters of the Commonwealth, as herein defined, and also the construction or reconstruction of a dam in any rivers or streams within the Commonwealth for the generation of hydroelectric energy for use or sale in public service, all as hereinafter provided.</p><p>Code 1950, § 62-68; 1968, c. 659.</p>

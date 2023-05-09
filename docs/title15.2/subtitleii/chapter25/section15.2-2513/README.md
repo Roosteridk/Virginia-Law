@@ -1,3 +1,0 @@
-# § 15.2-2513 Special budget provisions.
-
-<p>Every locality having special budget provisions in general or special law may choose, by resolution, to comply with the budget provisions of this chapter rather than those special budget provisions.</p><p>Code 1950, §§ 15-584, 15-585; 1959, Ex. Sess., c. 69; 1962, c. 623, §§ 15.1-168, 15.1-169; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 59.1-466.5 Definitions.
-
-<p>As used in this chapter, "event" means any professional concert, professional sporting event, or professional theatrical production, open to the public for which tickets are ordinarily sold.</p><p>2017, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0261'>261</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0268'>268</a>.</p>

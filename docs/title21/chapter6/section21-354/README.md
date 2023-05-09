@@ -1,3 +1,0 @@
-# § 21-354 Basis of contract; inspection.
-
-<p>The contract shall be based on the plans and specifications submitted by the board of viewers in their final report as confirmed by the court, the original of which shall remain on file in the office of the clerk of the county in which the petition for the district was filed and shall be open to the inspection of all prospective bidders.</p><p>Code 1919, § 1761; 1926, p. 617.</p>

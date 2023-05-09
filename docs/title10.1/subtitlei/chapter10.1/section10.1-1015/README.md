@@ -1,3 +1,0 @@
-# § 10.1-1015 Conveyance to the Commonwealth.
-
-<p>Whenever any holder as defined in this chapter, or the successors or assigns thereof, shall cease to exist, any conservation easement and any right of enforcement held by it shall vest in the Virginia Outdoors Foundation, unless the instrument creating the easement otherwise provides for its transfer to some other holder or public body. In an easement vested in the Virginia Outdoors Foundation by operation of the preceding sentence, the Foundation may retain it or thereafter convey it to any other public body or any holder the Foundation deems most appropriate to hold and enforce such interest in accordance with the purpose of the original conveyance of the easement.</p><p>1988, cc. 720, 891.</p>

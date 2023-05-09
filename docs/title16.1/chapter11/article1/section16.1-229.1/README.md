@@ -1,3 +1,0 @@
-# § 16.1-229.1 Removal of a child; names and contact information of persons with a legitimate interest.
-
-<p>In any proceeding held pursuant to this chapter in which a child is removed from his home, the court may order the parents or guardians of such child to provide the names and contact information for all persons with a legitimate interest to the local department of social services.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0434'>434</a>.</p>

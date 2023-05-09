@@ -1,3 +1,0 @@
-# § 51.1-167 Retirement allowance to be reduced in certain cases.
-
-<p>In the case of any state employee whose compensation is not paid exclusively out of the state treasury and in the case of any teacher whose compensation is paid out of any fund not derived from local revenues or state appropriations, if any contributor other than the Commonwealth is in default in the payment of any required contribution, the total retirement allowance to which the employee would have been entitled but for the default shall be reduced by the amount of the retirement allowance provided by the defaulted contribution.</p><p>1952, c. 157, § 51-111.65; 1974, c. 353; 1982, c. 467; 1990, c. 832.</p>

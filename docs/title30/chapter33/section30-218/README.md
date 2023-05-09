@@ -1,3 +1,0 @@
-# § 30-218 Commission on Unemployment Compensation; purpose.
-
-<p>The Commission on Unemployment Compensation (the Commission) is established in the legislative branch of state government. The purpose of the Commission is to annually monitor and evaluate Virginia's unemployment compensation system relative to the economic health of the Commonwealth.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP1038'>1038</a>.</p>

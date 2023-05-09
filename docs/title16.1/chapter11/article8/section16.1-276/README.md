@@ -1,3 +1,0 @@
-# § 16.1-276 Fees and travel expenses of witnesses.
-
-<p>The judge may authorize the payment of the fees and mileage provided by law in § <a href='http://law.lis.virginia.gov/vacode/19.2-278/'>19.2-278</a> of any witness or person summoned or otherwise required to appear at the hearing of any case coming within the jurisdiction of the court, which sum shall be paid by the State Treasurer out of funds appropriated in the general appropriations act to the Supreme Court of Virginia.</p><p>Code 1950, § 16.1-171; 1956, c. 555; 1977, c. 559; 1982, c. 636.</p>

@@ -1,3 +1,0 @@
-# § 50-73.20 Delivery of certificates to limited partners.
-
-<p>Upon the filing with the clerk of the Commission, pursuant to § <a href='http://law.lis.virginia.gov/vacode/50-73.17/'>50-73.17</a>, of a certificate, the general partners shall promptly deliver or mail a true copy of the certificate of limited partnership to each limited partner unless the partnership agreement provides otherwise.</p><p>1985, c. 607; 1987, c. 702; 1991, c. 434.</p>

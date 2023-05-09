@@ -1,3 +1,0 @@
-# § 19.2-235 Clerks to mail process to officers in other counties, etc.
-
-<p>The clerk of every court shall forward, by mail, all process issued for the Commonwealth, directed to the officer of any county or city other than his own.</p><p>Code 1950, § 19.1-181; 1960, c. 366; 1975, c. 495.</p>

@@ -1,3 +1,0 @@
-# § 58.1-2421 Rules and regulations.
-
-<p>The Commissioner shall have the power to make and publish reasonable rules and regulations consistent with this chapter, other applicable laws, and the Constitutions of Virginia and the United States, for the enforcement of the provisions of this chapter and the collection of the revenues hereunder.</p><p>Such rules and regulations shall not be subject to Chapter 40 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.) of Title 2.2.</p><p>Code 1950, § 58-685.16; 1966, c. 587; 1974, c. 477; 1984, c. 675; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0405'>405</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0639'>639</a>.</p>

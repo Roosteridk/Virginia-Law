@@ -1,3 +1,0 @@
-# § 46.2-1156.1 Transportation of persons less than sixteen years old in pickup truck beds prohibited; exception.
-
-<p>No person under sixteen years of age shall be transported in the rear cargo area of any pickup truck on the highways of Virginia. The provisions of this section shall not apply to transportation of persons in the bed of any pickup truck being operated (i) as part of an organized parade authorized by the Department of Transportation or the locality in which the parade is being conducted or (ii) on or across a highway from one field or parcel of land to another field or parcel of land in connection with farming operations.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0736'>736</a>.</p>

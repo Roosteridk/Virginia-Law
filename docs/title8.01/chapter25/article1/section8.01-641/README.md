@@ -1,3 +1,0 @@
-# § 8.01-641 Reopening same when made on service by publication.
-
-<p>But if service is made by publication, the defendant against whom the judgment is rendered may file a motion within thirty days from the rendition of judgment to have such judgment set aside, upon giving bond with good security as prescribed by the court, with condition to pay all such costs as shall be awarded in the cause against the defendant. The defendant may then make such defense to the petition as he might have made, and in the same manner, before the judgment was rendered.</p><p>Code 1950, § 8-863; 1977, c. 617.</p>

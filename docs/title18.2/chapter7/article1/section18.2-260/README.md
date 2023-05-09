@@ -1,3 +1,0 @@
-# § 18.2-260 Prescribing, dispensing, etc., drug except as authorized in article and Drug Control Act; violations for which no penalty provided.
-
-<p>It shall be unlawful for any person to prescribe, administer or dispense any drug except as authorized in the Drug Control Act (§ <a href='http://law.lis.virginia.gov/vacode/54.1-3400/'>54.1-3400</a> et seq.) or in this article. Any person who violates any provision of the Drug Control Act or of this article, for which no penalty is elsewhere specified in this article or in Article 7 (§ <a href='http://law.lis.virginia.gov/vacode/54.1-3466/'>54.1-3466</a> et seq.) of the Drug Control Act, shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 54-524.106; 1970, c. 650; 1973, c. 548; 1975, cc. 14, 15.</p>

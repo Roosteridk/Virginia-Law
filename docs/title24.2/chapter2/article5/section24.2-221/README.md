@@ -1,3 +1,0 @@
-# § 24.2-221 Time and frequency of referenda on election and term of supervisors.
-
-<p>A referendum as provided in § <a href='http://law.lis.virginia.gov/vacode/24.2-219/'>24.2-219</a> or § <a href='http://law.lis.virginia.gov/vacode/24.2-220/'>24.2-220</a> shall be held only in the year preceding the year in which a general election for supervisors is to be held. Once a referendum on either question is held, no further referendum on either question may be held in the county for a period of four years.</p><p>Code 1950, § 24-157; 1968, c. 639; 1970, c. 462, § 24.1-88; 1971, Ex. Sess., c. 265; 1973, c. 30; 1976, c. 616; 1981, c. 12; 1982, c. 650; 1993, c. 641.</p>

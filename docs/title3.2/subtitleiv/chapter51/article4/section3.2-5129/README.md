@@ -1,3 +1,0 @@
-# § 3.2-5129 Definition of term "food.".
-
-<p>The term "food" as used in this article means all articles used for food, drink, confectionery or condiment, whether simple, mixed or compound, and all substances or ingredients used in the preparation thereof, intended for human consumption and introduction into commerce.</p><p>Code 1950, § 3-285; 1966, c. 702, § 3.1-365; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

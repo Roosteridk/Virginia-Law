@@ -1,3 +1,0 @@
-# § 6.2-1150 When operation of foreign savings institution in the Commonwealth is prohibited.
-
-<p>When the laws, regulations or administrative actions of another state prohibit or unfairly impede a state savings institution from transacting business in that state, then the savings institutions of that state are prohibited from transacting business in the Commonwealth.</p><p>1985, c. 425, § 6.1-194.42; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0353'>353</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

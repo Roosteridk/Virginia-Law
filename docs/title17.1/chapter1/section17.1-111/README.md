@@ -1,3 +1,0 @@
-# § 17.1-111 Compensation.
-
-<p>Judges pro tempore shall serve without compensation from any public treasury, but it shall be lawful for the parties to agree upon and express in their written stipulation any mode or amount of compensation, together with any further agreement as to the taxing of the same as costs.</p><p>Code 1919, § 5901, § 17-10; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

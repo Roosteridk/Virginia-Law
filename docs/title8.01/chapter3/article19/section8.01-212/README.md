@@ -1,3 +1,0 @@
-# § 8.01-212 Officer to deliver to sheriff goods and chattels levied on.
-
-<p>The officer who made the levy shall deliver the goods and chattels to the sheriff to whom such writ of venditioni exponas may be directed, upon such sheriff's producing to him such writ and executing a receipt for such goods and chattels. If the officer shall fail to deliver the same and return be made on such writ to that effect, the court from which it issued, upon motion, may give judgment against him and his sureties for the whole sum that the execution amounted to at the time of such failure, with interest thereon from that time.</p><p>Code 1950, § 8-775; 1977, c. 617.</p>

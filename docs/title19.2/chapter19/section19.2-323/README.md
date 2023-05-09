@@ -1,3 +1,0 @@
-# § 19.2-323 Denial by judge or justice no bar to allowance by Court.
-
-<p>The denial of a writ of error by a judge or justice of an appellate court, in the vacation of that court, shall not prevent the allowance of the writ by the Court, if by it deemed proper, on presentation of the petition to that Court at its next term.</p><p>Code 1950, § 19.1-287; 1960, c. 366; 1975, c. 495; 1976, c. 615; 1984, c. 703.</p>

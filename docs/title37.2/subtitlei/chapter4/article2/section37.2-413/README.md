@@ -1,3 +1,0 @@
-# § 37.2-413 Necessity for supervision by licensed provider.
-
-<p>No person shall maintain or operate any service unless such service is under the direct supervision of a provider licensed under this article.</p><p>Code 1950, § 37-258; 1950, p. 936; 1968, c. 477, § 37.1-184; 1976, c. 671; 1979, c. 54; 2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0486'>486</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0506'>506</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

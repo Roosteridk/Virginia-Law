@@ -1,3 +1,0 @@
-# § 38.2-6109 Delivery of contract forms.
-
-<p>The dental plan organization:</p><p>1. Shall provide a written dental benefit contract to each group contract holder within 15 days of acceptance of the group's application by the dental plan organization;</p><p>2. Shall provide a written evidence of coverage to each individual covered under a group dental benefit contract within 15 days of acceptance of the group's application by the dental plan organization; and</p><p>3. Shall provide a written dental benefit contract to each individual who applies for individual dental coverage within 15 days of acceptance of the individual's application by the dental plan organization.</p><p> 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0668'>668</a>.</p>

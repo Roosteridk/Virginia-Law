@@ -1,3 +1,0 @@
-# § 32.1-166.7 Subpoenas; witnesses; designation of subordinates.
-
-<p>In any matter before it on appeal for hearing and determination, the Review Board or its designated subordinates may compel the attendance of all needed witnesses in like manner as a circuit court, save the Review Board shall not have the power of imprisonment. In taking evidence, the chairman or any member of the Review Board, or its designated subordinates, shall have the power to administer oaths to witnesses. Where a designated subordinate of the Review Board presides over hearings on appeals, such subordinate shall submit recommended findings and a decision to the Review Board pursuant to § <a href='http://law.lis.virginia.gov/vacode/2.2-4020/'>2.2-4020</a>.</p><p>1984, c. 457.</p>

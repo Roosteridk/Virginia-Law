@@ -1,3 +1,0 @@
-# § 3.2-4716 Bond not required for certain auction sales of livestock.
-
-<p>No bond shall be required of any person operating a livestock auction market or stockyard that has been posted by the U.S. Department of Agriculture and is being operated under and pursuant to the terms and provisions of the Packers and Stockyards Act of 1921 (42 Stat. 159), as amended.</p><p>Code 1950, § 3-541; 1960, c. 250; 1966, c. 702, § 3.1-699; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-3537 Publication of consolidation agreement.
-
-<p>Each locality which is a party to a consolidation agreement shall cause a copy of the consolidation agreement, or a descriptive summary of the agreement and a reference to the place in the locality where a copy of the agreement may be examined, to be published in its locality at least once a week for four successive weeks in a newspaper having a general circulation in the locality.</p><p>Code 1950, § 15-223; 1962, c. 623, § 15.1-1137; 1997, c. 587.</p>

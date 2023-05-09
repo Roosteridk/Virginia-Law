@@ -1,3 +1,0 @@
-# § 32.1-363 Forms of accounts and records.
-
-<p>The accounts and records of the Foundation showing the receipt and disbursement of funds from whatever source derived shall be in such form as the Auditor of Public Accounts prescribes.</p><p>1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0880'>880</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0962'>962</a>.</p>

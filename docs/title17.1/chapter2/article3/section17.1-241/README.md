@@ -1,3 +1,0 @@
-# § 17.1-241 Clerks to procure books for record.
-
-<p>Every circuit court clerk shall procure appropriate books for records as the business of his office requires. But orders for the same shall first be obtained by the clerks from the governing bodies of their respective counties or cities.</p><p>Code 1919, § 3400, § 17-71; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

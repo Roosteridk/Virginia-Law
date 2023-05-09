@@ -1,3 +1,0 @@
-# § 8.01-298 How summons for witness or juror served.
-
-<p>In addition to the manner of service on natural persons prescribed in § <a href='http://law.lis.virginia.gov/vacode/8.01-296/'>8.01-296</a>, a summons for a witness or for a juror may be served:</p><p>1. At his or her usual place of business or employment during business hours, by delivering a copy thereof and giving information of its purport to the person found there in charge of such business or place of employment; or</p><p>2. In the case of a juror, by mailing a summons to the person being served, at least seven days prior to the day he is summoned to appear.</p><p>Code 1950, § 8-58; 1954, c. 366; 1973, c. 439; 1977, c. 617; 1979, c. 444.</p>

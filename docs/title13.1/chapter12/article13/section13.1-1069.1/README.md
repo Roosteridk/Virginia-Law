@@ -1,3 +1,0 @@
-# § 13.1-1069.1 Definitions.
-
-<p>As used in this article:</p><p>"Merger" means a business combination pursuant to § <a href='http://law.lis.virginia.gov/vacode/13.1-1070/'>13.1-1070</a>.</p><p>"Party to a merger" means any domestic or foreign limited liability company or other business entity that will merge under a plan of merger.</p><p>"Survivor" in a merger means the domestic or foreign limited liability company or other business entity into which one or more other domestic or foreign limited liability companies or other business entities are merged.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0288'>288</a>.</p>

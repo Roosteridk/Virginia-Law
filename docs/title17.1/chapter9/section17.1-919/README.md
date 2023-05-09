@@ -1,3 +1,0 @@
-# § 17.1-919 Service of process; execution of orders.
-
-<p>It shall be the duty of the sheriffs and sergeants in the several counties, cities, and towns, upon request of the Commission or its authorized representative, to serve process and execute all lawful orders of the Commission or entered by the court at its request without costs therefor.</p><p>1971, Ex. Sess., c. 154, § 2.1-37.18; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

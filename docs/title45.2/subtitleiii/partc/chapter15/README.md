@@ -1,1 +1,0 @@
-# 15 Requirements Applicable to Surface Mineral Mines

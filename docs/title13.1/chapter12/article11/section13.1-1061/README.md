@@ -1,3 +1,0 @@
-# § 13.1-1061 Annual registration fees to be assessed and collected by Commission; application of payment.
-
-<p>The Commission shall assess and collect the annual registration fees imposed by this chapter. When the Commission receives payment of a registration fee assessed against a domestic or foreign limited liability company, or any protected series thereof, such payment shall be applied against any unpaid registration fees previously assessed against such limited liability company or protected series, including any penalties incurred thereon, beginning with the assessment that has remained unpaid for the longest period of time.</p><p>1991, c. 168; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0636'>636</a>.</p>

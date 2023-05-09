@@ -1,3 +1,0 @@
-# § 36-85.35 Appeals from decision of the Board.
-
-<p>Appeals from a decision of the Board shall be to a circuit court with jurisdiction in the Commonwealth. An appeal must be made within thirty days of the date of the Board's order. Once made, an appeal shall stay the Board's order. Neither the regulant nor the Board shall be required to pay damages to the claimant until such time as a final order of the court is issued. The court may award reasonable attorney's fees and court costs to be paid by the recovery fund. Except as provided to the contrary herein, appeals pursuant to this section shall be in conformance with the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>1991, c. 555; 1992, c. 223.</p>

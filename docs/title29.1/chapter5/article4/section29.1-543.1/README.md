@@ -1,3 +1,0 @@
-# § 29.1-543.1 Introduction, stocking, and release of blue catfish; penalty.
-
-<p>A. It is unlawful for any person to introduce into or stock in waters of the Commonwealth, including private ponds or lakes, the blue catfish or its hybrids or to release any blue catfish or any such hybrid into any water body other than that in which it was caught.</p><p>B. Any person who violates any provision of this section is guilty of a Class 2 misdemeanor.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0470'>470</a>.</p>

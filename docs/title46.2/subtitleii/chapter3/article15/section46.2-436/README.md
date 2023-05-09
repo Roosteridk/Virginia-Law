@@ -1,3 +1,0 @@
-# § 46.2-436 Methods of proving financial responsibility.
-
-<p>Proof of financial responsibility when required under this chapter may be given by proof that:</p><p>1. A policy or policies of motor vehicle liability insurance have been obtained and are in full force;</p><p>2. A bond has been duly executed;</p><p>3. A deposit has been made of money or securities; or</p><p>4. A self-insurance certificate has been filed, all as provided in this chapter.</p><p>Code 1950, § 46-456; 1958, c. 541, § 46.1-468; 1989, c. 727.</p>

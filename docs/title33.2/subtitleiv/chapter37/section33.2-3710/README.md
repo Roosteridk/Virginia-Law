@@ -1,3 +1,0 @@
-# § 33.2-3710 Authority a responsible public entity under Public-Private Transportation Act of 1995.
-
-<p>The Authority is a responsible public entity as defined in § <a href='/vacode/33.2-1800/'>33.2-1800</a> and shall be regulated in accordance with the terms of the Public-Private Transportation Act of 1995 (§ <a href='/vacode/33.2-1800/'>33.2-1800</a> et seq.) and regulations and guidelines adopted pursuant thereto.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1235'>1235</a>.</p>

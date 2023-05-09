@@ -1,3 +1,0 @@
-# § 61.1-39 Weighing leaf tobacco; itemized statements furnished seller.
-
-<p>The proprietor of each and every warehouse shall render to each seller of tobacco at his warehouse a bill plainly stating the amount charged for weighing and handling, the amount charged for auction fees, and the commission charged on such sale, or any other charges made for selling and handling such tobacco.</p><p>Any person violating the provisions of this section shall be guilty of a misdemeanor and shall be punished as provided in § <a href='http://law.lis.virginia.gov/vacode/18.2-12/'>18.2-12</a>.</p><p>Code 1950, § 61-108; 1968, c. 69.</p>

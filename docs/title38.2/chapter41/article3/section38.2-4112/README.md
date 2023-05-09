@@ -1,3 +1,0 @@
-# § 38.2-4112 Institutions.
-
-<p>A society may create, maintain and operate, or may establish organizations to operate, not for profit institutions to further the purposes permitted by subdivision 2 of subsection A of § <a href='http://law.lis.virginia.gov/vacode/38.2-4104/'>38.2-4104</a>. Such institutions may furnish services free or at a reasonable charge. Any real or personal property owned, held or leased by the society for this purpose shall be reported in every annual statement. No society shall own or operate funeral homes or undertaking establishments.</p><p>1968, c. 654, § 38.1-638.36; 1986, c. 562.</p>

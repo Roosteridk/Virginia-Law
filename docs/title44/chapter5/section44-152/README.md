@@ -1,3 +1,0 @@
-# § 44-152 Outside service by fire departments.
-
-<p>Whenever a state of war exists between the United States and any foreign country and at the request of the chief executive of any county, city or town in this Commonwealth the head of any other fire department may, or if so ordered by the Governor shall, detail, assign and make available for duty and use in such county, town or city any part of the officers, fire fighters, forces, fire-fighting apparatus or other equipment under his command or control.</p><p>1942, p. 369; Michie Code 1942, § 2673(137); 1977, c. 326.</p>

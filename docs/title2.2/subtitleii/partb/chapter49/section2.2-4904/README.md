@@ -1,3 +1,0 @@
-# § 2.2-4904 Cooperation of the Commonwealth's instrumentalities.
-
-<p>All Commonwealth debt-issuing agencies, institutions, boards, and authorities shall quarterly provide the State Treasurer with all information necessary to carry out the requirements of this chapter. The Departments of Accounts, Planning and Budget, and Taxation and other state agencies shall also provide the State Treasurer with the information and assistance the Debt Capacity Advisory Committee deems necessary.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0043'>43</a>, § 2.1-304.6; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0187'>187</a>; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

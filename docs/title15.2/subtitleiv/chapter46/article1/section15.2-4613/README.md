@@ -1,3 +1,0 @@
-# § 15.2-4613 Tort liability.
-
-<p>No pecuniary liability of any kind shall be imposed on the Commonwealth or on any county, town, or landowner therein because of any act, agreement, contract, tort, malfeasance, misfeasance, or nonfeasance, by or on the part of a district created under this chapter or its agents, servants, or employees.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0587'>587</a>.</p>

@@ -1,3 +1,0 @@
-# § 56-508.16 Commission authorized to promulgate regulations.
-
-<p>A. The State Corporation Commission may promulgate regulations necessary to implement the provisions of this chapter.</p><p>B. Without limiting the Commission's authority to promulgate other necessary regulations, the Commission's regulations implementing this chapter may, among other things, authorize the Commission:</p><p>1. To levy and collect reasonable registration or other fees;</p><p>2. To establish service and rate criteria for registered or certificated persons; and</p><p>3. To suspend or revoke registration, or to levy fines or impose other sanctions, for failure to comply with such regulations.</p><p>1993, c. 140.</p>

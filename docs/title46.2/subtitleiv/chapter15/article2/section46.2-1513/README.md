@@ -1,3 +1,0 @@
-# § 46.2-1513 Continued operation on loss of a dealer-operator holding certificate of qualification.
-
-<p>Each dealer shall notify the Board in writing immediately when a dealer-operator who holds a certificate of qualification dies, becomes disabled, retires, is removed, or for any other cause ceases to act as dealer-operator. The dealer may continue to operate for 120 days thereafter without a dealer-operator and may be granted approval by the Board to operate for an additional 60 days on application and good cause shown for such delay.</p><p>1988, c. 865, § 46.1-525.04; 1989, c. 727; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0767'>767</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0816'>816</a>.</p>

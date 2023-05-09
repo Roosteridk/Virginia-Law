@@ -1,3 +1,0 @@
-# § 33.2-1201 Enforcement of provisions by Commissioner of Highways.
-
-<p>The Commissioner of Highways shall administer and enforce the provisions of this article. He may assign to division engineers and other employees in the Department such duties other than discretionary powers as he may deem appropriate.</p><p>Code 1950, § 33-299; 1970, c. 322, § 33.1-352; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

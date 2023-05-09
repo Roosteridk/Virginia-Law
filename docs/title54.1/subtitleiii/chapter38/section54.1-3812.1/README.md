@@ -1,3 +1,0 @@
-# § 54.1-3812.1 Reporting of animal cruelty.
-
-<p>Any person regulated by the Board who makes a report of suspected animal cruelty or who provides records or information related to a report of suspected cruelty or testifies in any judicial proceeding arising from such report, records, or information shall be immune from any civil or criminal liability or administrative penalty or sanction on account of such report, records, information, or testimony, unless such person acted in bad faith or with malicious purpose.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0574'>574</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0100'>100</a>.</p>

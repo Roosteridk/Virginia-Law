@@ -1,3 +1,0 @@
-# § 46.2-1527.6 Assignment of claimant's rights to the Board; payment of claims.
-
-<p>Subject to the provisions of this article and on the claimant's execution and delivery to the Board of an assignment to the Board of his rights against the licensee or registrant, to the extent he received satisfaction from the Fund, the Board shall pay the claimant from the Fund the amount of the unpaid final judgment.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0478'>478</a>; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0767'>767</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0816'>816</a>.</p>

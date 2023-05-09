@@ -1,3 +1,0 @@
-# § 51.1-306.1 Service retirement allowance for judges appointed or elected after January 1, 2014.
-
-<p>Notwithstanding any contrary provision of this chapter, the service retirement allowance for judges appointed or elected to an original term commencing on or after January 1, 2014, shall be determined under the provisions of the hybrid retirement program described in § <a href='http://law.lis.virginia.gov/vacode/51.1-169/'>51.1-169</a>.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0356'>356</a>.</p>

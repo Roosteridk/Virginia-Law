@@ -1,3 +1,0 @@
-# § 37.2-917 Escape of persons committed; penalty.
-
-<p>Any person committed to the custody of the Commissioner pursuant to this chapter who escapes from custody shall be guilty of a Class 6 felony.</p><p>1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0946'>946</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0985'>985</a>, § 37.1-70.18; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0776'>776</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

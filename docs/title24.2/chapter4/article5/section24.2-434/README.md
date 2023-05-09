@@ -1,3 +1,0 @@
-# § 24.2-434 Presumption if petition not brought within six months of registration.
-
-<p>Unless the petition provided for in § <a href='http://law.lis.virginia.gov/vacode/24.2-431/'>24.2-431</a> is filed within six months after the registration of any person, it shall be conclusively presumed in all proceedings where the right of such person to registration arises, by election officers and by judicial tribunals, or in election contests of any kind and character, that such person has complied with all the procedural requirements of the law in making an application for registration.</p><p>Code 1950, § 24-105; 1970, c. 462, § 24.1-66; 1993, c. 641.</p>

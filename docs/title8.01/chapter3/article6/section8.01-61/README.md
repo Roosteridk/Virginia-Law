@@ -1,3 +1,0 @@
-# § 8.01-61 Definition of "common carrier" as used in article.
-
-<p>The term "common carrier" as used in §§ <a href='http://law.lis.virginia.gov/vacode/8.01-57/'>8.01-57</a> to <a href='http://law.lis.virginia.gov/vacode/8.01-60/'>8.01-60</a> shall include the receivers or other persons or corporations charged with the duty of the management or operation of the business of a common carrier by railroad; but shall not include persons, firms or corporations owning or operating railroads when such railroads are primarily and chiefly used as incidental to the operation of coal, gypsum or iron mines or saw mills, nor shall it apply to any railroad owned or operated by any county.</p><p>Code 1950, § 8-645; 1954, c. 614; 1977, c. 617.</p>

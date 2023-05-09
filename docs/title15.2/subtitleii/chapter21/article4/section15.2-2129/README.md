@@ -1,3 +1,0 @@
-# § 15.2-2129 Contents of notice to governing body; further information.
-
-<p>The applicant shall state in the notice to the governing body required by § <a href='http://law.lis.virginia.gov/vacode/15.2-2126/'>15.2-2126</a> the number and nature of the connections to which service will be given under the certificate applied for. The governing body may require such further information as it deems desirable in order to pass upon the application.</p><p>Code 1950, § 15-739.9; 1954, c. 382; 1962, c. 623, § 15.1-328; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 3.2-3928 Licensing of pesticide bulk storage facilities.
-
-<p>The Board shall establish by regulation specific requirements for the licensing of a pesticide business that mixes, stores, or otherwise handles pesticides in bulk quantities. For the purposes of this section, bulk quantity shall not include containers approved for transportation in interstate commerce by the U.S. Department of Transportation.</p><p>1989, c. 575, § 3.1-249.50; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

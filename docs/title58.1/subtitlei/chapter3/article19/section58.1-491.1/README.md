@@ -1,3 +1,0 @@
-# § 58.1-491.1 Payments estimated by certain members of the armed services.
-
-<p>Notwithstanding any other provision of this article, estimated tax declarations and installment payments shall not be required of any individual qualifying for an extension under subdivision 1 or 2 of subsections F and G of § <a href='http://law.lis.virginia.gov/vacode/58.1-344/'>58.1-344</a> during the period of such extension.</p><p>1991, cc. 346, 361; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0401'>401</a>.</p>

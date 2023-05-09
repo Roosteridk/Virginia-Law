@@ -1,3 +1,0 @@
-# § 2.2-408 Collection of information relevant to boundary changes from governmental subdivisions of Commonwealth.
-
-<p>The Secretary of the Commonwealth shall be responsible for the collection from the governmental subdivisions of the Commonwealth of information relevant to their boundary changes and the dissemination of such information to the appropriate departments of state government.</p><p>1978, c. 641, § 2.1-71.1; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,3 +1,0 @@
-# § 46.2-1045 Sale of tires having cleats, etc., prohibited; studded tires excepted.
-
-<p>No person shall sell to any resident of the Commonwealth a tire which shall have on its periphery any block, stud, flange, cleat, spike, or any other protuberance of any material other than rubber which projects beyond the tread of the traction surface of the tire. Farm machinery having protuberances which will not injure the highway and tire chains of reasonable proportions may, however, be sold. It shall also be permissible to sell studded tires whose use is permitted under the provisions of this article. Violation of this section shall constitute a Class 1 misdemeanor.</p><p>1966, c. 592, § 46.1-296.1; 1968, c. 1; 1970, c. 263; 1989, c. 727.</p>

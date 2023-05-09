@@ -1,3 +1,0 @@
-# § 46.2-2011 Considerations for determination of issuance of license or certificate.
-
-<p>In determining whether a license or certificate required by this chapter shall be granted, the Department may, among other things, consider the applicant's experience, qualifications, character, fitness, financial responsibility, and compliance with the requirements of this chapter.</p><p>Code 1950, § 56-282; 1979, c. 609; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0744'>744</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0803'>803</a>; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

@@ -1,3 +1,0 @@
-# § 5.1-47 Project and application to be approved by Department.
-
-<p>Notwithstanding any other provision of law, no county, city or town, whether acting alone or jointly with another county, city or town or with the Commonwealth, shall submit to the Federal Aviation Administration of the United States any project application under the provisions of any act of Congress which provides airport construction, planning and development funds for the expansion and improvement of the airport system insofar as such act shall pertain to the Commonwealth of Virginia, unless the project and the project application have been first approved by the Department.</p><p>Code 1950, § 5-39.1; 1966, c. 576; 1972, c. 374; 1979, c. 272.</p>

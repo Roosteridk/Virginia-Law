@@ -1,3 +1,0 @@
-# § 64.2-787 Reviewing compliance.
-
-<p>Compliance with the prudent investor rule is determined in light of the facts and circumstances existing at the time of a trustee's decision or action and not by hindsight.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0772'>772</a>, § 26-45.9; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

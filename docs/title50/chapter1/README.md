@@ -1,1 +1,0 @@
-# 1 GENERAL PARTNERSHIPS [Repealed]

@@ -1,3 +1,0 @@
-# § 54.1-542 Relation to Electronic Signatures in Global and National Commerce Act.
-
-<p>This chapter modifies, limits, or supersedes the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. § 7001 et seq., but does not modify, limit, or supersede § 101(c) of that act, 15 U.S.C. § 7001(c), or authorize electronic delivery of any of the notices described in § 103(b) of that act, 15 U.S.C. § 7003(c).</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0481'>481</a>, § 54.1-535.</p>

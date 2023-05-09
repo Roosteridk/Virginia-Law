@@ -1,3 +1,0 @@
-# § 16.1-322 Record of commission; reports.
-
-<p>The commission shall keep and preserve complete records of its administrative operations and transactions, which records shall be open to inspection by the participating political subdivisions at all times. It shall make reports to such subdivisions annually, and at such other times as they may require.</p><p>Code 1950, § 16.1-202.9; 1977, c. 559.</p>

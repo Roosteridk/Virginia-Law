@@ -1,3 +1,0 @@
-# § 2.2-516 Annual report.
-
-<p>The Attorney General shall annually, on or before May 1, deliver to the Governor a report of the state and condition of all important matters in which he has represented the Commonwealth during the preceding year. He shall also include in his report the official opinions rendered by him that he believes to be of general interest or helpful in promoting uniformity in the construction of the laws of the Commonwealth.</p><p>Code 1950, § 2-93; 1966, c. 677, § 2.1-128; 1988, c. 122; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

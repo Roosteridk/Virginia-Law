@@ -1,3 +1,0 @@
-# § 58.1-485 Willful failure by employer to make return, to withhold tax, to pay it or to furnish employee with withholding statement; penalty.
-
-<p>Willful failure by any employer to (i) make any return required by this article to the Tax Commissioner, (ii) withhold the required tax or to pay it to the Tax Commissioner as specified, or both, or (iii) furnish an employee the written statement required by § <a href='http://law.lis.virginia.gov/vacode/58.1-478/'>58.1-478</a> shall be a Class 1 misdemeanor.</p><p>Code 1950, § 58-151.15; 1962, c. 612; 1984, c. 675.</p>

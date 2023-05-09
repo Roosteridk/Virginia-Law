@@ -1,3 +1,0 @@
-# § 8.3A-306 Claims to an instrument.
-
-<p>A person taking an instrument, other than a person having rights of a holder in due course, is subject to a claim of a property or possessory right in the instrument or its proceeds, including a claim to rescind a negotiation and to recover the instrument or its proceeds. A person having rights of a holder in due course takes free of the claim to the instrument.</p><p>Code 1950, §§ 6-367, 6-368, 6-380, 6-409 through 6-411; 1964, c. 219, §§ 8.3-305, 8.3-306; 1992, c. 693.</p>

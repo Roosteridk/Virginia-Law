@@ -1,3 +1,0 @@
-# § 13.1-505.1 Post-registration provisions.
-
-<p>With respect to investment advisors, the Commission may require that certain information be furnished or disseminated as necessary or appropriate in the public interest or for the protection of investors and advisory clients. To the extent determined by the Commission in its discretion, information furnished to clients or prospective clients of an investment advisor that would be in compliance with the Investment Advisers Act of 1940 and the rules thereunder may be used in whole or partial satisfaction of this requirement.</p><p>1987, c. 678; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0279'>279</a>.</p>

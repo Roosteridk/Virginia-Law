@@ -1,3 +1,0 @@
-# § 3.2-6523 Inoculation for rabies at public or private animal shelters.
-
-<p>Dogs and cats being adopted from a public or private animal shelter during the period an emergency ordinance is in force, as provided for in § <a href='http://law.lis.virginia.gov/vacode/3.2-6522/'>3.2-6522</a>, may be inoculated for rabies by a certified animal technician at such shelter if the certified animal technician is under the immediate and direct supervision of a licensed veterinarian.</p><p>1984, c. 384, § 29-213.68:1; 1987, c. 488, § 3.1-796.99; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0148'>148</a>.</p>

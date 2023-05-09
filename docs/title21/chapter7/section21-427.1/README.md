@@ -1,3 +1,0 @@
-# § 21-427.1 City public facilities district law.
-
-<p>Chapter 414 of the Acts of 1956, relating to public facilities district law applicable to cities having a population of more than 50,000 but less than 61,000 and a land area of less than seventy square miles but more than fifty square miles, is incorporated in this Code by this reference.</p>

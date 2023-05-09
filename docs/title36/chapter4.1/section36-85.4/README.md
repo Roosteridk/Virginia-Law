@@ -1,3 +1,0 @@
-# § 36-85.4 Applicability of chapter.
-
-<p>This chapter shall apply to any manufactured home constructed on or after July 1, 1986, or constructed on or after June 15, 1976, and formerly subject to the Federal Act or the Industrialized Building Unit and Mobile Home Safety Law (§ <a href='/vacode/36-70/'>36-70</a> et seq.).</p><p>1986, c. 37; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0029'>29</a>.</p>

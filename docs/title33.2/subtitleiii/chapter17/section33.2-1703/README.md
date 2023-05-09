@@ -1,3 +1,0 @@
-# § 33.2-1703 Purchase of projects.
-
-<p>The Board may acquire by purchase, whenever it deems such purchase expedient, any of the projects set forth in the definition of "project" in § <a href='http://law.lis.virginia.gov/vacode/33.2-1700/'>33.2-1700</a>, upon such terms and at such prices as may be reasonable and can be agreed upon between the Board and the owner thereof, title thereto to be taken in the name of the Commonwealth. The Board shall issue revenue bonds of the Commonwealth as provided in this chapter to pay the cost of such acquisition.</p><p>Code 1950, § 33-231; 1970, c. 322, § 33.1-271; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

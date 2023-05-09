@@ -1,3 +1,0 @@
-# § 3.2-4501 Grades and standards.
-
-<p>The Board shall establish and adopt official grades and standards for apples by which the quality, quantity and size of the apples may be determined. Before establishing such official grades and standards, the Board shall consult with the Board of Directors of the Virginia Horticultural Society and the Board of Directors of the Virginia Apple Growers Association.</p><p>Code 1950, § 3-512.5; 1954, c. 697; 1966, c. 702, § 3.1-615; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0793'>793</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

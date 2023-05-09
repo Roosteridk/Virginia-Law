@@ -1,3 +1,0 @@
-# § 6.2-416 Certain mortgages not to prohibit further encumbrance of real property.
-
-<p>Where any loan is secured by a mortgage or deed of trust on real property comprised of one- to four-family residential dwelling units, the note, or mortgage or deed of trust evidencing such loan shall in no way prohibit the further encumbrance of the real property.</p><p>1975, c. 398, § 6.1-2.5; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

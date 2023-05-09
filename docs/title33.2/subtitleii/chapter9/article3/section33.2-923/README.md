@@ -1,3 +1,0 @@
-# § 33.2-923 Alternative procedure for abandonment of old road or crossing to extent of alteration.
-
-<p>When any road or any road containing a highway-rail grade crossing has been or is altered and a new road that serves the same users as the old road is constructed as a replacement and approved by the governing body, the old road or public crossing may be abandoned to the extent of such alteration, but no further, by an ordinance or resolution of the governing body declaring the old road or public crossing abandoned.</p><p>Code 1950, § 33-76.21; 1950, p. 736; 1952, c. 123; 1970, c. 322, § 33.1-164; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

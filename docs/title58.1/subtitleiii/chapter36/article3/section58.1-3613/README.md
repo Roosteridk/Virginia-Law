@@ -1,3 +1,0 @@
-# § 58.1-3613 Societies for the Prevention of Cruelty to Animals.
-
-<p>Societies for the Prevention of Cruelty to Animals are hereby classified as charitable organizations.</p><p>Code 1950, § 58-12.9; 1973, c. 438; 1984, c. 675.</p>

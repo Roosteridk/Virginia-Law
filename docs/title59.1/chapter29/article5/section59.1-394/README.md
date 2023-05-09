@@ -1,3 +1,0 @@
-# § 59.1-394 Audit required.
-
-<p>A regular post-audit shall be conducted of all accounts and transactions of the Commission. An audit of a fiscal and compliance nature of the accounts and transactions of the Commission shall be conducted by the Auditor of Public Accounts as determined necessary by the Auditor of Public Accounts. The cost of the audit and post-audit examinations shall be borne by the Commission.</p><p>1988, c. 855; 2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0057'>57</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0307'>307</a>.</p>

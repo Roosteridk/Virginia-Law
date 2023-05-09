@@ -1,3 +1,0 @@
-# § 63.2-214.3 Information on human trafficking.
-
-<p>The Department, in consultation with experts in the field of human trafficking prevention, shall provide to the Board of Education:</p><p>1. Resource information on human trafficking, including strategies for the prevention of trafficking of children; and</p><p>2. Materials for distribution that describe local, state, and national resources to which students, parents, school resource officers, counselors, and school personnel can refer for information on human trafficking, including strategies for prevention of trafficking of children.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0317'>317</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0370'>370</a>.</p>

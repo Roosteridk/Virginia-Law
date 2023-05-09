@@ -1,3 +1,0 @@
-# § 6.2-609 Change of form of account upon written order to financial institution.
-
-<p>The provisions of § <a href='http://law.lis.virginia.gov/vacode/6.2-608/'>6.2-608</a> as to rights of survivorship are determined by the form of the account at the death of a party. This form may be altered by written order given by a party to the financial institution to change the form of the account or to stop or vary payment under the terms of the account. The order or request shall be signed by a party, received by the financial institution during the party's lifetime, and not countermanded by other written order of the same party during his lifetime.</p><p>1979, c. 407, § 6.1-125.6; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,3 +1,0 @@
-# § 58.1-3734.1 Sales involving trade-ins.
-
-<p>A. No locality shall assess omitted taxes against any motor vehicle dealer which calculated its gross receipts for license tax purposes by excluding the value of any vehicle accepted as a trade-in for periods of time prior to January 1, 1991, unless such locality enforced the requirement that motor vehicle dealers include the amount of a trade-in vehicle in gross receipts for periods prior to January 1, 1990.</p><p>B. Whenever a motor vehicle dealer accepts a trade-in as part of a sale of a motor vehicle, the dealer's gross receipts for license tax purposes shall not include the amount of the trade-in.</p><p>1990, c. 670.</p>

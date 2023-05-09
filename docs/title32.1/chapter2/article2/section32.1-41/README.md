@@ -1,3 +1,0 @@
-# § 32.1-41 Anonymity of patients and practitioners to be preserved in use of medical records.
-
-<p>The Commissioner or his designee shall preserve the anonymity of each patient and practitioner of the healing arts whose records are examined pursuant to § <a href='http://law.lis.virginia.gov/vacode/32.1-40/'>32.1-40</a> except that the Commissioner, in his sole discretion, may divulge the identity of such patients and practitioners if pertinent to an investigation, research or study. Any person to whom such identities are divulged shall preserve their anonymity.</p><p>Code 1950, §§ 32-10.2, 32-10.3; 1960, c. 507; 1979, c. 711.</p>

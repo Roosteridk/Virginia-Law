@@ -1,3 +1,0 @@
-# § 22.1-292.3 License may not be suspended solely on the basis of default or delinquency in payment of federal-guaranteed or state-guaranteed education loan or scholarship.
-
-<p>The Board shall not be authorized to suspend or revoke the administrative or teaching license it has issued to any person who is in default or delinquent in the payment of a federal-guaranteed or state-guaranteed educational loan or work-conditional scholarship solely on the basis of such default or delinquency.</p><p>2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0170'>170</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0381'>381</a>.</p>

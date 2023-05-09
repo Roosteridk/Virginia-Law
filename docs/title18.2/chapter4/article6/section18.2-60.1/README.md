@@ -1,3 +1,0 @@
-# § 18.2-60.1 Threatening the Governor or his immediate family.
-
-<p>Any person who shall knowingly and willfully send, deliver or convey, or cause to be sent, delivered or conveyed, to the Governor or his immediate family any threat to take the life of or inflict bodily harm upon the Governor or his immediate family, whether such threat be oral or written, is guilty of a Class 6 felony.</p><p>1982, c. 568; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1002'>1002</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0336'>336</a>.</p>

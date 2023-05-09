@@ -1,3 +1,0 @@
-# § 9.1-703 Hours of work.
-
-<p>For purposes of computing fire protection or law-enforcement employees' entitlement to overtime compensation, all hours that an employee works or is in a paid status during his regularly scheduled work hours shall be counted as hours of work. The provisions of this section pertaining to law-enforcement employees shall only apply to such employees of an employer of 100 or more law-enforcement employees.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0768'>768</a>, § 2.1-116.9:10; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0732'>732</a>.</p>

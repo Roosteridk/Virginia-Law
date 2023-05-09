@@ -1,3 +1,0 @@
-# § 21-407 Impairment or destruction of work during construction.
-
-<p>If there shall be any impairment or destruction of the drainage work by any unforeseen cause or occurrence not anticipated during the period of construction by the contractor, the contractor shall nevertheless repair and complete the works according to the contract and specifications, and shall be liable therefor and also his sureties on his bond.</p><p>Code 1919, § 1776; 1926, p. 625.</p>

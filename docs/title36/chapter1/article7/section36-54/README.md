@@ -1,3 +1,0 @@
-# § 36-54 Aid from federal government.
-
-<p>An authority may borrow money or accept contributions from the federal government to assist in its undertaking redevelopment projects. An authority may do any and all things necessary or desirable to secure such financial aid (including obligating itself in any contract with the federal government for annual contributions to convey to the federal government the project to which the contract relates upon the occurrence of a substantial default thereunder), in the same manner as it may do to secure such aid in connection with slum clearance and housing projects.</p><p>1946, p. 280; Michie Suppl. 1946, § 3145(8g).</p>

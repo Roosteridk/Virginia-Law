@@ -1,3 +1,0 @@
-# § 17.1-258.2 Definition.
-
-<p>As used in this article, "electronic filing of documents" means the filing or recordation with a circuit court clerk of written information as defined in § <a href='http://law.lis.virginia.gov/vacode/1-257/'>1-257</a>, for the purpose of creating an electronic record as defined in subdivision 7 of § <a href='http://law.lis.virginia.gov/vacode/59.1-480/'>59.1-480</a>.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0744'>744</a>.</p>

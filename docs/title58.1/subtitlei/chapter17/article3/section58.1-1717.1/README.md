@@ -1,3 +1,0 @@
-# § 58.1-1717.1 Tax in lieu of probate tax.
-
-<p>A $25 fee is hereby charged on the recordation of a list of heirs pursuant to § <a href='http://law.lis.virginia.gov/vacode/64.2-509/'>64.2-509</a> or an affidavit pursuant to § <a href='http://law.lis.virginia.gov/vacode/64.2-510/'>64.2-510</a> unless a will has been probated for the decedent or there has been a grant of administration on the decedent's estate.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0266'>266</a>.</p>

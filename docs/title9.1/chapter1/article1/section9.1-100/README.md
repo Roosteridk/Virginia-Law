@@ -1,3 +1,0 @@
-# § 9.1-100 Department of Criminal Justice Services.
-
-<p>A. There is created a Department of Criminal Justice Services (the "Department") that shall be headed by a Director appointed by the Governor, subject to confirmation by the General Assembly. The Director shall serve at the pleasure of the Governor.</p><p>B. The Director of the Department shall, under the direction and control of the Governor, exercise the powers and perform the duties conferred or imposed upon him by law and perform such other duties required by the Governor or the Criminal Justice Services Board.</p><p>1981, c. 632, §§ 9-174, 9-175, 9-176; 1984, c. 720; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

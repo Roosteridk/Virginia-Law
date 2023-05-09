@@ -1,3 +1,0 @@
-# § 33.2-1213 Appeal from refusal or revocation of permit.
-
-<p>Any person aggrieved by any action of the Commissioner of Highways in refusing to grant or in revoking a permit under § <a href='http://law.lis.virginia.gov/vacode/33.2-1209/'>33.2-1209</a> or <a href='http://law.lis.virginia.gov/vacode/33.2-1211/'>33.2-1211</a> may appeal from the decision of the Commissioner of Highways in accordance with the provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>Code 1950, § 33-313; 1970, c. 322, § 33.1-366; 1986, c. 615; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,3 +1,0 @@
-# § 21-318 Determining efficiency of drainage; changes.
-
-<p>The efficiency of the drainage or levee shall also be determined, and if it appears that the location of any levee or drain can be changed so as to make it more effective, or that other branches or spurs should be constructed, or that any branch or spur projected may be eliminated, or other changes made that will tend to increase the benefits of the proposed work, such modification and changes shall be made by the court.</p><p>Code 1919, § 1746.</p>

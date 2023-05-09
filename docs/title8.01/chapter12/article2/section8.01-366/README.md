@@ -1,3 +1,0 @@
-# § 8.01-366 Sale of property when no forthcoming bond is given.
-
-<p>In such case as is mentioned in § <a href='http://law.lis.virginia.gov/vacode/8.01-365/'>8.01-365</a>, when no bond is given for the forthcoming of the property, the court may, before a decision of the rights of the parties, make an order for the sale of the property, or any part thereof, on such terms as the court may deem advisable, and for the proper application of the proceeds. The court may make such orders and enter such judgment as to costs and all other matters as may be just and proper.</p><p>Code 1950, § 8-228; 1977, c. 617.</p>

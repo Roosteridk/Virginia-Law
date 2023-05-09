@@ -1,3 +1,0 @@
-# § 8.8A-406 Obligation to notify issuer of lost, destroyed or wrongfully taken security certificate.
-
-<p>If a security certificate has been lost, apparently destroyed, or wrongfully taken, and the owner fails to notify the issuer of that fact within a reasonable time after the owner has notice of it and the issuer registers a transfer of the security before receiving notification, the owner may not assert against the issuer a claim for registering the transfer under § <a href='http://law.lis.virginia.gov/vacode/8.8A-404/'>8.8A-404</a> or a claim to a new security certificate under § <a href='http://law.lis.virginia.gov/vacode/8.8A-405/'>8.8A-405</a>.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0216'>216</a>.</p>

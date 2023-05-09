@@ -1,3 +1,0 @@
-# § 25.1-301 Applicability of chapter; purpose.
-
-<p>A. The procedure established by this chapter shall be available for use, at the election of an authorized condemnor, in connection with the acquisition of property by condemnation if the use of the procedure is specifically authorized by law.</p><p>B. It is the intention of this chapter to provide that property may, in the discretion of the authorized condemnor, be condemned as provided in this chapter before, during or after the construction of improvements thereon.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

@@ -1,3 +1,0 @@
-# § 56-419 Duplicate switch keys of railroads; unlawful making, etc.; punishment.
-
-<p>It shall be unlawful for any person to make, buy, sell, or give away to any other person any duplicate key to any lock belonging to, or in use by, any railroad company in this Commonwealth on its switches or switch tracks, except upon the written order of that officer of the railroad company whose duty it is to distribute and issue switch lock keys to the employees of such railroad company. Any person violating the provisions of this section shall be deemed guilty of a misdemeanor.</p><p>Code 1919, § 4019.</p>

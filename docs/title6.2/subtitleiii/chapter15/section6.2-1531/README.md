@@ -1,3 +1,0 @@
-# § 6.2-1531 Examination.
-
-<p>The Commission shall, as often as it deems to be in the public interest, examine the affairs, business, office, and records of each licensee that pertain to any business licensed under this chapter. Such examination shall be conducted at least once in every three-year period. The licensee shall furnish promptly by mail or otherwise such facts and statements in connection with its business transacted in the Commonwealth that the Commission may request from time to time.</p><p>Code 1950, § 6-327; 1966, c. 584, § 6.1-298; 1976, c. 658; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0044'>44</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,3 +1,0 @@
-# § 18.2-198 Obtaining airline, railroad, steamship, etc., ticket at discount price.
-
-<p>A person who obtains at a discount price a ticket issued by an airline, railroad, steamship or other transportation company from other than an apparent agent of such company which was acquired in violation of subsection (1) of § <a href='http://law.lis.virginia.gov/vacode/18.2-195/'>18.2-195</a> without reasonable inquiry to ascertain that the person from whom it was obtained had a legal right to possess it shall be presumed to know that such ticket was acquired under circumstances constituting a violation of subsection (1) of § <a href='http://law.lis.virginia.gov/vacode/18.2-195/'>18.2-195</a>.</p><p>Code 1950, § 18.1-125.9; 1968, c. 480; 1975, cc. 14, 15.</p>

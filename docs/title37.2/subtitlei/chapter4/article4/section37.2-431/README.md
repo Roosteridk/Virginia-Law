@@ -1,3 +1,0 @@
-# § 37.2-431 Contriving or conspiring to maliciously obtain admission of person.
-
-<p>It shall be unlawful for any person to knowingly and maliciously contrive or conspire to obtain without reasonable cause the admission of any person to any hospital or training center. Any person who knowingly and maliciously contrives or conspires to obtain without reasonable cause the admission of any person to any hospital or training center is guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 37-230.2; 1964, c. 640; 1968, c. 477, § 37.1-154; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

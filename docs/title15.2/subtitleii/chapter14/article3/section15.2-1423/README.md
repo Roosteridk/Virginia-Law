@@ -1,3 +1,0 @@
-# § 15.2-1423 Powers of chairman or mayor.
-
-<p>In addition to being presiding officer, the chairman or mayor, as the case may be, shall be the head of the local government for all official functions and ceremonial purposes. He shall have a vote but no veto.</p><p>In the event that there is no chief administrative officer, it shall be the duty of the chairman or mayor, as the case may be, to see that the functions set forth in § <a href='http://law.lis.virginia.gov/vacode/15.2-1541/'>15.2-1541</a> are carried out if the governing body has not acted otherwise.</p><p>1997, c. 587.</p>

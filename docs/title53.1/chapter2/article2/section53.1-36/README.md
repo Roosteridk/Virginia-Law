@@ -1,3 +1,0 @@
-# § 53.1-36 Prisoners may assist in medical research programs.
-
-<p>Subject to the provisions of Chapter 5.1 (§ <a href='http://law.lis.virginia.gov/vacode/32.1-162.16/'>32.1-162.16</a> et seq.) of Title 32.1, the Director may permit such prisoners as may volunteer to undergo experimental treatment or tests in state or federal medical research programs.</p><p>Code 1950, § 53-57.1; 1962, c. 48; 1982, c. 636; 1992, c. 603.</p>

@@ -1,3 +1,0 @@
-# § 30-231.6 Quorum; meetings; voting on recommendations.
-
-<p>A majority of the voting members shall constitute a quorum. The Committee shall meet not more than four times each year. The meetings of the Committee shall be held at the call of the chairman or whenever the majority of the voting members so request. No recommendation of the Committee shall be adopted if a majority of the House members or a majority of the Senate members appointed to the Committee (i) vote against the recommendation and (ii) vote for the recommendation to fail notwithstanding the majority vote of the Committee.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0753'>753</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0834'>834</a>.</p>

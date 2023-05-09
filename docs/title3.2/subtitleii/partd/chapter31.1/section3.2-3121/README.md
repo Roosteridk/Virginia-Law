@@ -1,3 +1,0 @@
-# § 3.2-3121 Liberal construction of chapter.
-
-<p>The provisions of this chapter shall be liberally construed to the end that its beneficial purposes may be effectuated. Insofar as the provisions of this chapter are inconsistent with the provisions of any other law, general, special, or local, the provisions of this chapter shall be controlling.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0399'>399</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0433'>433</a>.</p>

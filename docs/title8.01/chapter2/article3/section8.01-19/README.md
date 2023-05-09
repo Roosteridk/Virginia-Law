@@ -1,3 +1,0 @@
-# § 8.01-19 Effect of marriage or change of name of party.
-
-<p>The marriage of a party shall not cause a suit or action to abate. If a party changes his name, upon affidavit or other proof of the fact, the suit or action shall proceed in the new name, but if the change of name be not suggested before judgment, the judgment shall be as valid, and may be enforced in like manner, as if no such change of name had taken place.</p><p>Code 1950, § 8-147; 1973, c. 401; 1977, c. 617.</p>

@@ -1,3 +1,0 @@
-# § 16.1-69.42 Clerk when authorized by judge may execute appeal bonds; may make out and attest transcripts.
-
-<p>The clerk of a district court may, when authorized so to do by the judge of the court he serves, execute appeal bonds in appeals from judgment of the court. Any such clerk may make out and attest transcripts of the papers and records of the court for use in evidence elsewhere.</p><p>1972, c. 708; 1973, c. 546.</p>

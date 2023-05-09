@@ -1,3 +1,0 @@
-# § 19.2-91 Extradition of persons not in demanding state at time of commission of crime.
-
-<p>The Governor may also surrender, on demand of the executive authority of any other state, any person in this Commonwealth charged in such other state in the manner provided in § <a href='http://law.lis.virginia.gov/vacode/19.2-87/'>19.2-87</a> with committing an act in this Commonwealth, or in a third state, intentionally resulting in a crime in the state whose executive authority is making the demand. The provisions of this chapter not otherwise inconsistent shall apply to such cases, even though the accused was not in that state at the time of the commission of the crime, and has not fled therefrom.</p><p>Code 1950, § 19.1-55; 1960, c. 366; 1975, c. 495.</p>

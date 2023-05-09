@@ -1,3 +1,0 @@
-# § 40.1-51.37 Appeal from decision of Board.
-
-<p>Any owner aggrieved by a final decision of the Board under § <a href='http://law.lis.virginia.gov/vacode/40.1-51.30/'>40.1-51.30</a> or of the Commissioner under subdivision 4 of § <a href='http://law.lis.virginia.gov/vacode/40.1-51.26/'>40.1-51.26</a> is entitled to judicial review thereof in accordance with the provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>1992, c. 541.</p>

@@ -1,3 +1,0 @@
-# § 38.2-4407 Board of directors of plan created by attorneys.
-
-<p>Notwithstanding the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/13.1-675/'>13.1-675</a>, <a href='http://law.lis.virginia.gov/vacode/13.1-677/'>13.1-677</a> and <a href='http://law.lis.virginia.gov/vacode/13.1-855/'>13.1-855</a> to the contrary, any legal services organization operating a plan created by a group of attorneys shall have a board of directors consisting of no more than fifteen members of whom a majority may be providers of legal services. This section does not apply to a plan operated under § <a href='http://law.lis.virginia.gov/vacode/38.2-4403/'>38.2-4403</a>.</p><p>1978, c. 658, § 38.1-797; 1982, c. 387; 1986, c. 562.</p>

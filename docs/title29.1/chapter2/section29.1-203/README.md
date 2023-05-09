@@ -1,3 +1,0 @@
-# § 29.1-203 Jurisdiction; power to serve process.
-
-<p>A. Conservation police officers shall have jurisdiction throughout the Commonwealth to enforce the hunting, trapping and inland fish laws and may serve process in all matters arising from violations of such laws.</p><p>B. Conservation police officers shall enforce the State Water Control Board's regulations designating Smith Mountain Lake as a no-discharge zone for boat sewage.</p><p>Code 1950, § 29-30; 1979, c. 264; 1987, c. 488; 2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0093'>93</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0123'>123</a>.</p>

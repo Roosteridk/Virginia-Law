@@ -1,3 +1,0 @@
-# § 51.1-135 Compulsory membership.
-
-<p>Membership in the retirement system shall be compulsory for all eligible employees who enter service after the effective date of coverage. For purposes of this section, "membership in the retirement system" includes an eligible employee's participation in the hybrid retirement program pursuant to § <a href='http://law.lis.virginia.gov/vacode/51.1-169/'>51.1-169</a>.</p><p>1952, c. 157, § 51-111.33; 1960, c. 400; 1978, c. 841; 1987, c. 575; 1990, c. 832; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0701'>701</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0823'>823</a>.</p>

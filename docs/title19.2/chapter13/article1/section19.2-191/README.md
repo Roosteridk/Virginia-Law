@@ -1,3 +1,0 @@
-# § 19.2-191 Functions of a grand jury.
-
-<p>The functions of a grand jury are twofold:</p><p>(1) To consider bills of indictment prepared by the attorney for the Commonwealth and to determine whether as to each such bill there is sufficient probable cause to return such indictment "a true bill."</p><p>(2) To investigate and report on any condition that involves or tends to promote criminal activity, either in the community or by any governmental authority, agency or official thereof. These functions may be exercised by either a special grand jury or a regular grand jury as hereinafter provided.</p><p>1975, c. 495; 1980, c. 517; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0004'>4</a>.</p>

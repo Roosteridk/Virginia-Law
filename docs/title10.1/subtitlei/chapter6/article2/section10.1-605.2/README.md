@@ -1,3 +1,0 @@
-# § 10.1-605.2 Certain regulations affecting impounding structures.
-
-<p>The Virginia Soil and Water Conservation Board shall, in accordance with the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.), adopt regulations that consider the impact of downstream limited-use or private roadways with low traffic volume and low public safety risk on the determination of the hazard potential classification of an impounding structure under the Dam Safety Act (§ <a href='http://law.lis.virginia.gov/vacode/10.1-604/'>10.1-604</a> et seq.).</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0041'>41</a>.</p>

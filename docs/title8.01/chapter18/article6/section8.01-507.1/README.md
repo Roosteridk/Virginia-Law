@@ -1,3 +1,0 @@
-# § 8.01-507.1 Interrogatories, answers, etc., to be returned to court.
-
-<p>The commissioner shall, at the request of either of the parties, return the interrogatories and answers filed with him, and a report of the proceedings under §§ <a href='http://law.lis.virginia.gov/vacode/8.01-506/'>8.01-506</a> and <a href='http://law.lis.virginia.gov/vacode/8.01-507/'>8.01-507</a>, to the court in which the judgment is rendered.</p><p>Code 1950, § 8-437; 1954, c. 624; 1977, c. 617.</p>

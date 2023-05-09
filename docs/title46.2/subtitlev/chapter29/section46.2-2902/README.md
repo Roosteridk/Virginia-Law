@@ -1,3 +1,0 @@
-# § 46.2-2902 Insurance to be kept in force; amount.
-
-<p>Each person or company providing certified escort vehicle services shall keep in force at all times valid liability insurance coverage for those classes of insurance defined in §§ <a href='http://law.lis.virginia.gov/vacode/38.2-117/'>38.2-117</a> and <a href='http://law.lis.virginia.gov/vacode/38.2-118/'>38.2-118</a> in the amount of at least $750,000 that has been issued by an insurance carrier authorized to do business in the Commonwealth.</p><p>2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0312'>312</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0477'>477</a>.</p>

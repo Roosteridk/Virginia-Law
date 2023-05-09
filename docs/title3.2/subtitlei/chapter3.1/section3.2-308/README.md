@@ -1,3 +1,0 @@
-# § 3.2-308 Disposition of award by locality.
-
-<p>Notwithstanding any provision in this chapter or in the guidelines established pursuant to § <a href='http://law.lis.virginia.gov/vacode/3.2-305/'>3.2-305</a>, a political subdivision shall not expend, distribute, pledge, use as security, or otherwise use any award from the Fund unless and until such contract is executed with the business beneficiary.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0466'>466</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0622'>622</a>.</p>

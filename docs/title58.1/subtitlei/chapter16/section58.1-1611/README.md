@@ -1,3 +1,0 @@
-# § 58.1-1611 Allocation of tax to localities.
-
-<p>Notwithstanding the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/58.1-1609/'>58.1-1609</a> and <a href='http://law.lis.virginia.gov/vacode/58.1-1610/'>58.1-1610</a>, fifty percent of tax collected within any county or city shall be allocated for expenditure within such county or city. Such sums shall be used within such county or city for the same purposes for which the tax was levied. Any sums not so expended within a two-year period shall revert to the "Reforestation of Timberlands State Fund" for expenditure on a statewide basis at the end of each fiscal year.</p><p>Code 1950, § 58-838.7:1; 1971, Ex. Sess., c. 179; 1978, c. 72; 1981, c. 372; 1984, cc. 675, 750.</p>

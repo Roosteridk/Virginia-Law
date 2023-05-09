@@ -1,3 +1,0 @@
-# § 32.1-330.5 Reports related to eligibility renewal.
-
-<p>The Department of Medical Assistance Services shall provide a quarterly report to each managed care organization that is contracted with the Department to provide services through the Medicaid managed care program that specifies the medical assistance application renewal date for each recipient of medical assistance services who has been attributed to the managed care organization.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0382'>382</a>.</p>

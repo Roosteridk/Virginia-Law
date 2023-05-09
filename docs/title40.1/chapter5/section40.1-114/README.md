@@ -1,3 +1,0 @@
-# § 40.1-114 Enforcement of child labor law.
-
-<p>The Commissioner, with the assistance of state and local law-enforcement officers, shall enforce the provisions of this chapter and shall have authority to appoint such representatives as may be necessary to secure the enforcement of this chapter. He shall make all necessary rules and regulations for carrying out the purposes of this chapter, and shall prescribe such forms as may be required for carrying out the provisions of this chapter.</p><p>Code 1950, § 40-120; 1970, c. 321; 1979, c. 219; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0285'>285</a>.</p>

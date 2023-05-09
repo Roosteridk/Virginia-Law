@@ -1,3 +1,0 @@
-# § 22.1-289.034 Barrier crime; construction.
-
-<p>For purposes of this chapter, convictions for any barrier crime as defined in § <a href='/vacode/19.2-392.02/'>19.2-392.02</a> shall include prior adult convictions and juvenile convictions or adjudications of delinquency based on a crime that would be a felony if committed by an adult within or outside the Commonwealth.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0860'>860</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0861'>861</a>.</p>

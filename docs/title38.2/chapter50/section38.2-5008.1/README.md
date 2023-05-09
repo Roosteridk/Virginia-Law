@@ -1,3 +1,0 @@
-# § 38.2-5008.1 Right to confront and cross-examine witnesses.
-
-<p>Upon a timely motion, all parties to a claim under this chapter shall have the right to confront and cross-examine witnesses. In pursuing that right, a party shall not be precluded from conducting depositions by oral examination or cross-examination at a hearing of any witnesses from whom evidence is elicited.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0145'>145</a>.</p>

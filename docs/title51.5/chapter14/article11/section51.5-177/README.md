@@ -1,3 +1,0 @@
-# § 51.5-177 Client rights regarding services.
-
-<p>The Commissioner shall establish written standards governing the rights of applicants for and clients who receive vocational rehabilitation services which are provided or funded by the Department. The Department shall educate clients and staff regarding those rights and provide a procedure for fairly and impartially resolving conflicts and complaints about alleged violations of those rights. The Department shall make referrals consistent with the provisions of 29 U.S.C. § 732.</p><p>1985, c. 421, §§ 51.01-22, 51.5-22; 1992, c. 755; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

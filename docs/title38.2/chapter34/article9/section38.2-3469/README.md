@@ -1,3 +1,0 @@
-# § 38.2-3469 (Effective October 1, 2020) Enforcement; regulations.
-
-<p>A. The Commission shall enforce this article.</p><p>B. Pursuant to the authority granted by § <a href='/vacode/38.2-223/'>38.2-223</a>, the Commission may promulgate such rules and regulations as it may deem necessary to implement this article.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0219'>219</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1288'>1288</a>.</p>

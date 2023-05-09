@@ -1,3 +1,0 @@
-# § 46.2-1704 Action on applications; hearing on denial.
-
-<p>The Commissioner shall act on any application for a license under this chapter within thirty days after receipt by either granting or denying the application. Any applicant denied a license shall, on his written request made within thirty days, be given a hearing at a time and place determined by the Commissioner or his designee. All hearings under this section shall be public and shall be held promptly. The applicant may be represented by counsel. Any applicant denied a license may not apply again for a license for thirty days from the date of denial of the application.</p><p>1991, c. 214.</p>

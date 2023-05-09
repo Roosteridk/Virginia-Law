@@ -1,3 +1,0 @@
-# § 30-19.20 Employment and compensation of personnel.
-
-<p>The House of Delegates and the Senate and the clerks thereof are authorized to employ such personnel as may be deemed necessary for the efficient operation of the General Assembly as prescribed by the rules or resolutions of the respective houses.</p><p>The House of Delegates and the Senate shall by resolution or resolutions set the compensation of the personnel employed by each house, and the personnel shall be paid from the contingent fund of each house, respectively.</p><p>Code 1950, § 14-32; 1964, c. 386, § 14.1-23; 1966, c. 703; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

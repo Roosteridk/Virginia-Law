@@ -1,3 +1,0 @@
-# § 23.1-1118 Discretion of Governor in granting or withholding consent or approval.
-
-<p>The Governor is vested with absolute discretion with respect to withholding or granting any consent or approval made pursuant to this chapter.</p><p>1933, p. 91, § 23-27; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

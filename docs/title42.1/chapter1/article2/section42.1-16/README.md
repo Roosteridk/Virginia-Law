@@ -1,3 +1,0 @@
-# § 42.1-16 Bond of Librarian of Virginia.
-
-<p>The Librarian of Virginia shall be bonded in accordance with § <a href='/vacode/2.2-1840/'>2.2-1840</a> for the faithful discharge of his duties and the delivery over to his successor of all the property of the Commonwealth in his possession.</p><p>Code 1950, § 42-51; 1970, c. 606; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0427'>427</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0152'>152</a>.</p>

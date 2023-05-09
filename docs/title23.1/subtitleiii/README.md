@@ -1,1 +1,0 @@
-# III Management and Financing

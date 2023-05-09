@@ -1,3 +1,0 @@
-# § 41.1-6 Ratification of grants issued pursuant to § 41.1-3.
-
-<p>Any grants for land heretofore issued by the Librarian of Virginia pursuant to § <a href='http://law.lis.virginia.gov/vacode/41.1-3/'>41.1-3</a> are hereby ratified and confirmed and title is confirmed in the grantees thereof.</p><p>Code 1950, § 41-8.3; 1966, c. 427; 1970, c. 291; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0427'>427</a>.</p>

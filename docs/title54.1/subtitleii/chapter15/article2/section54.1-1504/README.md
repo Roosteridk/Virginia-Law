@@ -1,3 +1,0 @@
-# § 54.1-1504 License required.
-
-<p>No person shall engage in the practice of fitting or dealing in hearing aids or display a sign or in any other way advertise or represent himself as a person who practices the fitting or dealing of hearing aids unless he holds a license as provided in this chapter.</p><p>1970, c. 571, § 54-524.111; 1974, c. 534; 1986, c. 279; 1988, c. 765; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0599'>599</a>.</p>

@@ -1,3 +1,0 @@
-# § 38.2-2123 Chapter not applicable to certain mutual insurers.
-
-<p>This chapter shall not apply to mutual assessment property and casualty insurers, or to mutual insurers and associations organized under the laws of this Commonwealth, conducting business only in this Commonwealth, and issuing only policies providing for perpetual insurance.</p><p>Code 1950, §§ 38-182, 38-183, 38-193; 1952, c. 317, § 38.1-378; 1960, c. 293; 1986, c. 562.</p>

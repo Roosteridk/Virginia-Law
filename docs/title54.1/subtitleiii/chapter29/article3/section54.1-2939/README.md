@@ -1,3 +1,0 @@
-# § 54.1-2939 Surgery by podiatrists on patients under general anesthesia limited.
-
-<p>Podiatrists shall not perform surgery on patients under a general anesthetic except in a hospital or an ambulatory surgery center accredited by a national accrediting organization granted authority by the Centers for Medicare and Medicaid Services to assure compliance with Medicare conditions of participation pursuant to § 1865 of Title XVIII of the Social Security Act (42 U.S.C. § 1395bb).</p><p>1977, c. 127, § 54-275.2; 1988, c. 765; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0651'>651</a>; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0144'>144</a>.</p>

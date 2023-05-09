@@ -1,3 +1,0 @@
-# § 15.2-4912 Exemption from taxation.
-
-<p>The authority is hereby declared to be performing a public function in behalf of the locality with respect to which the authority is created and to be a public instrumentality of such locality. Accordingly, the income, including any profit made on the sale thereof from all bonds issued by the authority, shall at all times be exempt from all taxation by the Commonwealth or any political subdivision thereof.</p><p>1966, c. 651, § 15.1-1383; 1997, c. 587.</p>

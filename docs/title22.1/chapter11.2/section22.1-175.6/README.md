@@ -1,3 +1,0 @@
-# § 22.1-175.6 Virginia Public School Educational Technology Grants Program established.
-
-<p>With such funds as are appropriated for this purpose, the Virginia Public School Educational Technology Grants Program, hereinafter referred to as "the Program," is hereby established to provide grants to eligible school divisions for educational technology, including infrastructure, software, and hardware acquisitions and replacement, and innovative programs to advance the effectiveness of educational technology. The Program shall be administered by the Board of Education.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0870'>870</a>.</p>

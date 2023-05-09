@@ -1,3 +1,0 @@
-# § 55.1-2202 Administrative agency.
-
-<p>The Common Interest Community Board shall administer this chapter.</p><p>1985, c. 517, § 55-362.1; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0851'>851</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0871'>871</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

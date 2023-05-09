@@ -1,3 +1,0 @@
-# § 24.2-432 Notice to person objected to and decision of court.
-
-<p>Fifteen days' notice shall be given by the petitioners to any person whose registration is objected to pursuant to § <a href='http://law.lis.virginia.gov/vacode/24.2-431/'>24.2-431</a>, and the court shall summarily proceed to determine the right of the person to registration. The determination shall be without the necessity of formal pleadings and in preference to all other matters on the docket. An order of the court concerning registration of the voter shall not be limited by the provisions of § <a href='http://law.lis.virginia.gov/vacode/24.2-416/'>24.2-416</a> requiring the registration records to be closed.</p><p>Code 1950, § 24-103; 1970, c. 462, § 24.1-64; 1993, c. 641.</p>

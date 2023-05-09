@@ -1,3 +1,0 @@
-# § 52-23 Appointment by Governor; power and jurisdiction.
-
-<p>The Governor may appoint whenever he deems the same necessary, and may remove at will, investigators and temporary special police officers, who shall be directly responsible to the Governor, be conservators of the peace and have jurisdiction throughout the Commonwealth in the enforcement of the laws of the Commonwealth. Such investigators and special police officers shall have in all the counties, cities and towns of the Commonwealth all the power and authority, in connection with the enforcement of the laws of the Commonwealth, vested by law in sheriffs of the counties and police officers of cities and towns.</p><p>Code 1919, § 332; 1932, p. 136; 1958, c. 611.</p>

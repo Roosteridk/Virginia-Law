@@ -1,3 +1,0 @@
-# § 63.2-1956 Release of excess funds to debtor.
-
-<p>Whenever any person, firm, corporation, association, political subdivision or department of the Commonwealth has in its possession earnings, deposits, accounts, or balances in excess of the amount of the debt claimed by the Department plus $100, such person, firm, corporation, association, political subdivision or department of the Commonwealth may, without liability under this chapter, release such excess to the debtor.</p><p>1974, c. 413, § 63.1-259; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

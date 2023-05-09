@@ -1,3 +1,0 @@
-# § 59.1-573 Civil penalties.
-
-<p>Any person who violates any provision of this chapter is subject to a civil penalty of $5,000 and an additional $1,000 for each day the violation continues. Such penalty shall be collected by the Attorney General and the proceeds shall be deposited into the Literary Fund.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0113'>113</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0114'>114</a>.</p>

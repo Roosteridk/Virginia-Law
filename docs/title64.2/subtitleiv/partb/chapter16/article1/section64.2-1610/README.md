@@ -1,3 +1,0 @@
-# § 64.2-1610 Reimbursement and compensation of agent.
-
-<p>Unless the power of attorney otherwise provides, an agent is entitled to reimbursement of expenses reasonably incurred on behalf of the principal and to compensation that is reasonable under the circumstances.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0455'>455</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0632'>632</a>, § 26-83; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

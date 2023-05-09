@@ -1,3 +1,0 @@
-# § 2.2-2719 Gifts and bequests; exemption from taxation.
-
-<p>Gifts and bequests of money, securities, or other property to the Fund, and the interest or income therefrom, shall be deemed gifts to the Commonwealth, and the Fund shall be exempt from all state and local taxes. Unless otherwise restricted by the terms of the gift or bequest, the Foundation may sell, exchange, or otherwise dispose of such gifts and bequests. The proceeds from such transactions shall be deposited to the credit of the Fund. The Foundation may actively solicit private donations for the Fund.</p><p>2003, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0657'>657</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0670'>670</a>.</p>

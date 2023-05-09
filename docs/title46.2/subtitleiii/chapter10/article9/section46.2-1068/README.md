@@ -1,3 +1,0 @@
-# § 46.2-1068 Emergency or parking brakes.
-
-<p>Every motor vehicle and combination of vehicles, except motorcycles or autocycles, shall be equipped with emergency or parking brakes adequate to hold the vehicle or vehicles on any grade on which it is operated, under all conditions of loading on a surface free from snow, ice, or loose material.</p><p>1968, c. 164, § 46.1-278.1; 1989, c. 727; 2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0053'>53</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0256'>256</a>.</p>

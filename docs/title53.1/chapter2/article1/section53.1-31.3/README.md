@@ -1,3 +1,0 @@
-# § 53.1-31.3 Notification of incarcerated individuals ineligible for public assistance.
-
-<p>The Department shall, at regular intervals but at least monthly, provide the Department of Social Services with a list of all individuals committed to the custody of the Department of Corrections during the preceding month, to facilitate identification of prisoners who were receiving public assistance benefits prior to commitment to the custody of the Department and who may, as a result of their incarceration, be ineligible to receive such benefits.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0218'>218</a>.</p>

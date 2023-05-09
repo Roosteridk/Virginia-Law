@@ -1,3 +1,0 @@
-# § 17.1-202 Clerk, etc., of Supreme Court not to act as counsel.
-
-<p>No clerk, deputy clerk or employee of the Supreme Court shall act as counsel in any case pending in the Court or which may be taken to the Court by appeal or otherwise. Any clerk, deputy clerk or employee violating this section shall be removed from office or employment, as the case may be, in the manner provided in § <a href='http://law.lis.virginia.gov/vacode/17.1-201/'>17.1-201</a>.</p><p>Code 1919, § 3380, § 17-35; 1938, p. 131; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

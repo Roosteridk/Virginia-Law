@@ -1,3 +1,0 @@
-# § 46.2-2085 Abandonment, discontinuance, or deviation of service.
-
-<p>Notwithstanding anything contained in this chapter to the contrary, no common carrier regulated pursuant to this article shall abandon or discontinue any service established under the provisions of this chapter without permission of the Department and on such terms as the Department may prescribe. Common carriers may occasionally deviate from their route or routes when authorized to do so by the Department.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

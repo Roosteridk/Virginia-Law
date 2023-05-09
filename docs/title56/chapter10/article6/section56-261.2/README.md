@@ -1,3 +1,0 @@
-# § 56-261.2 Hydrant connections and water supply for fire protection in certain counties.
-
-<p>Chapter 319 of the Acts of 1950, approved April 4, 1950, relating to any county adjoining a county having a population in excess of 2,000 per square mile requiring certain water companies to furnish water for fire protection and the necessary hydrant connections, is incorporated in this Code by this reference.</p>

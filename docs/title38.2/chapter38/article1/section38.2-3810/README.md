@@ -1,3 +1,0 @@
-# § 38.2-3810 Institutions maintainable; company a charitable institution.
-
-<p>Any company may maintain homes for aged members, or children's homes, hospitals or recreational centers, or any other charitable institution, and may provide for the erection of monuments or memorials to deceased members. Such a company is hereby classified as a charitable institution.</p><p>Code 1950, § 38-482; 1952, c. 317, § 38.1-508; 1986, c. 562.</p>

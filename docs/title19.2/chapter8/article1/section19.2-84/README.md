@@ -1,3 +1,0 @@
-# § 19.2-84 Governor to surrender on requisition of President.
-
-<p>The Governor shall whenever required by the executive authority of the United States, pursuant to the Constitution and laws thereof, deliver over to justice any person found within the Commonwealth, who is charged with having committed any crime without the jurisdiction of the United States.</p><p>Code 1950, § 19.1-47; 1960, c. 366; 1975, c. 495.</p>

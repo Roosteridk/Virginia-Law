@@ -1,3 +1,0 @@
-# § 3.2-3910 Complaints to Commissioner or the Board.
-
-<p>Any person may register a written complaint with the Commissioner or the Board relating to the sale, use, storage, handling, or disposal of any pesticide. The Commissioner or the Board shall institute an investigation of the alleged damage caused by such pesticide. The Commissioner may seek the advice of other state or federal agencies or institutions. When it is determined that a violation has occurred, the Commissioner shall proceed as provided in § <a href='http://law.lis.virginia.gov/vacode/3.2-3946/'>3.2-3946</a>.</p><p>1989, c. 575, § 3.1-249.32; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

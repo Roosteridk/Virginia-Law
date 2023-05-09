@@ -1,3 +1,0 @@
-# § 19.2-13.1 Application for special conservator of the peace by locality.
-
-<p>No official or employee of a school board or county, city, or town, its departments, or its agents shall submit an application for the appointment of a special conservator of the peace without attaching a written assessment from the chief law-enforcement officer of the locality stating the need for the appointment and recommending any limitations that should be included in the order of appointment to the application submitted to the court pursuant to subsection A of § <a href='http://law.lis.virginia.gov/vacode/19.2-13/'>19.2-13</a>.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0416'>416</a>.</p>

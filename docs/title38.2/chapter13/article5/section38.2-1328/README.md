@@ -1,3 +1,0 @@
-# § 38.2-1328 Exemption.
-
-<p>The provisions of §§ <a href='http://law.lis.virginia.gov/vacode/38.2-1323/'>38.2-1323</a> through <a href='http://law.lis.virginia.gov/vacode/38.2-1327/'>38.2-1327</a> shall not apply to any acquisition that the Commission, by order, exempts from those sections. Acquisitions granted exemption shall include those which (i) have not been made or entered into for the purpose of and do not have the effect of changing or influencing the control of a domestic insurer, or (ii) otherwise are not comprehended within these sections.</p><p>1977, c. 414, § 38.1-178.1:7; 1986, c. 562.</p>

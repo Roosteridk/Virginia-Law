@@ -1,3 +1,0 @@
-# § 59.1-456 Contracts between principals and sales representatives.
-
-<p>When a principal contracts with a sales representative to solicit wholesale orders within this Commonwealth, such contract shall (i) be in writing, (ii) disclose the method by which the commission is to be computed and paid, (iii) disclose the territory of the sales representative and whether such territory is exclusive, (iv) be signed by the principal and the sales representative, and (v) be provided to the sales representative.</p><p>1993, c. 736.</p>

@@ -1,3 +1,0 @@
-# § 35.1-21 Display of hotel, restaurant, summer camp, and campground licenses.
-
-<p>A. As used in this section, "mobile food unit" means a restaurant that is mounted on wheels and readily moveable from place to place at all times during operation.</p><p>B. The license of each hotel, restaurant, summer camp, and campground issued pursuant to this chapter shall be prominently displayed.</p><p>C. The Department shall issue a license in the form of a sticker to a restaurant that is a mobile food unit that meets the requirements of this chapter, which license shall be prominently displayed on the mobile food unit.</p><p>Code 1950, § 35-26; 1981, c. 468; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0281'>281</a>.</p>

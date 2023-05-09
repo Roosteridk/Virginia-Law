@@ -1,3 +1,0 @@
-# § 15.2-2283.1 Prohibition of sexual offender treatment office in residentially zoned subdivision.
-
-<p>Notwithstanding any other provision of law, no individual shall knowingly provide sex offender treatment services to a person required to register with the Sex Offender and Crimes Against Minors Registry pursuant to Chapter 9 (§ <a href='/vacode/9.1-900/'>9.1-900</a> et seq.) of Title 9.1 in an office or similar facility located in a residentially zoned subdivision.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0878'>878</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0829'>829</a>.</p>

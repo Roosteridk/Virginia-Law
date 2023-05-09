@@ -1,3 +1,0 @@
-# § 15.2-3813 Town liabilities and assets.
-
-<p>If a town becomes a city under this chapter, the city shall be liable for the bonded indebtedness and current debts and obligations of the town and shall be liable for the obligations or other liabilities of the town, both in law and in equity, arising out of any plans or annexations theretofore consummated between the town and any other territory. The title to all the property of the town, and its rights and privileges under any contract, including all moneys belonging to the town, and its books, records, papers and other things of value, shall vest in and become the city's property.</p><p>Code 1950, § 15-84; 1962, c. 623, § 15.1-984; 1997, c. 587.</p>

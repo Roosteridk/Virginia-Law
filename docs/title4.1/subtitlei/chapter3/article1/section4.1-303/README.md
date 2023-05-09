@@ -1,3 +1,0 @@
-# § 4.1-303 Purchase of alcoholic beverages from person not authorized to sell; penalty.
-
-<p>If any person buys alcoholic beverages from any person other than the Board, a government store or a person authorized under this subtitle to sell alcoholic beverages, he shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 4-71; 1968, c. 7; 1993, c. 866.</p>

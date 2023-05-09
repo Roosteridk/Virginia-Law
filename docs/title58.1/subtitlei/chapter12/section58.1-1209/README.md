@@ -1,3 +1,0 @@
-# § 58.1-1209 Town tax.
-
-<p>Any incorporated town in this Commonwealth in which is located a bank may, by ordinance, impose a tax not to exceed 80 percent of the state rate of taxation for each $100 of the net capital of a bank located in such town. If such bank also has offices that are located outside the corporate limits of such town, the tax shall be apportioned as provided in § <a href='http://law.lis.virginia.gov/vacode/58.1-1211/'>58.1-1211</a>.</p><p>Code 1950, § 58-485.010; 1980, c. 578; 1984, c. 675.</p>

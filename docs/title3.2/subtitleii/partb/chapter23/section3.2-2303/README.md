@@ -1,3 +1,0 @@
-# § 3.2-2303 Soybean Board officers and compensation.
-
-<p>A. The Soybean Board shall elect a chairman and such other officers as deemed appropriate.</p><p>B. Members of the Soybean Board shall not receive compensation for attendance at meetings of the Soybean Board, but shall be reimbursed for actual expenses incurred in such attendance.</p><p>1970, c. 431, § 3.1-684.13; 1974, c. 297; 1978, c. 540; 1985, c. 448; 1987, c. 476; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

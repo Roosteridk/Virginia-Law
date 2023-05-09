@@ -1,3 +1,0 @@
-# § 64.2-704 Common law of trusts; principles of equity.
-
-<p>The common law of trusts and principles of equity supplement this chapter, except to the extent modified by this chapter or another statute of the Commonwealth.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-541.06; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

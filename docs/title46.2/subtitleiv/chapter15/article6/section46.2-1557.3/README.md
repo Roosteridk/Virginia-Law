@@ -1,3 +1,0 @@
-# § 46.2-1557.3 Exclusion of transit buses, all-terrain vehicles, and off-road motorcycles.
-
-<p>Nothing in this article shall apply to transit buses as defined in subsection F of § <a href='/vacode/46.2-1508/'>46.2-1508</a>, all-terrain vehicles, or off-road motorcycles.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0615'>615</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0718'>718</a>.</p>

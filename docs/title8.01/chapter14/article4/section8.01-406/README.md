@@ -1,3 +1,0 @@
-# § 8.01-406 Interpreters; recording testimony of deaf witness (Supreme Court Rule 2:604 derived from this section).
-
-<p>Interpreters shall be sworn truly so to do. In any judicial proceeding, the judge on his own motion or on the motion of a party to the proceeding may order all of the testimony of a deaf individual and the interpretation thereof to be visually electronically recorded for use in verification of the official transcript of the proceedings.</p><p>Code 1950, § 8-295; 1977, c. 617; 1978, c. 601.</p>

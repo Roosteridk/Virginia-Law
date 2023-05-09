@@ -1,3 +1,0 @@
-# § 23.1-2807 Virginia Institute of Marine Science.
-
-<p>The Virginia Institute of Marine Science (the Institute) is subject to the supervision, management, and control of the board. The university shall provide for the administration of the Institute and appoint and remove its administrative and professional staff.</p><p>1979, c. 294, § 23-49.1:1; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

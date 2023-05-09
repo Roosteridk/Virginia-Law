@@ -1,3 +1,0 @@
-# § 32.1-229.2 Costs of inspection conducted by Health Department; fees to be used to support program.
-
-<p>In order to minimize competition with the private sector, the fee schedule developed by the Board for routine inspections of X-ray machines by Department of Health inspectors shall include all reasonable costs of such inspections.</p><p>1987, c. 666; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0041'>41</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0466'>466</a>.</p>

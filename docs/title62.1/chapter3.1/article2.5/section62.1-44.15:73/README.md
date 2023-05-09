@@ -1,3 +1,0 @@
-# § 62.1-44.15:73 Local government authority.
-
-<p>Counties, cities, and towns are authorized to exercise their police and zoning powers to protect the quality of state waters consistent with the provisions of this article.</p><p>1988, cc. 608, 891, § 10.1-2108; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0756'>756</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0793'>793</a>.</p>

@@ -1,3 +1,0 @@
-# § 62.1-64 Authority to execute compact to create Potomac Valley Conservancy District and Interstate Commission on the Potomac River Basin.
-
-<p>The Governor is hereby authorized and directed to execute, on behalf of the Commonwealth of Virginia, a compact with the states of Maryland and West Virginia, the Commonwealth of Pennsylvania and the District of Columbia, or with such of the same as shall, by their respective legislative bodies, enact legislation with like provisions to those of this chapter, but not with such of the same as shall not so enact such legislation, which compact shall be in form substantially as set out in § <a href='http://law.lis.virginia.gov/vacode/62.1-65/'>62.1-65</a>.</p><p>Code 1950, § 62-62; 1968, c. 659.</p>

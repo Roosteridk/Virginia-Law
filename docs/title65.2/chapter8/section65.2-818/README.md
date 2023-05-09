@@ -1,3 +1,0 @@
-# § 65.2-818 Minimum standards of service for insurers.
-
-<p>The State Corporation Commission in cooperation with the Workers' Compensation Commission shall establish minimum standards of service for insurers writing workers' compensation policies in this Commonwealth, including but not limited to the servicing of such policies, the establishment of offices within the Commonwealth, and the payment of compensation.</p><p>1970, c. 470, § 65.1-117.1; 1991, c. 355.</p>

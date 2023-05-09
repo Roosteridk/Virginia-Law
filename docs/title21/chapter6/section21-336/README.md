@@ -1,3 +1,0 @@
-# § 21-336 Delay; extension of time.
-
-<p>In case the work is delayed by high water, sickness or any other good cause, and the final report is not completed at the time fixed by the court, the engineer on the board of viewers shall communicate with the court or the judge thereof in vacation, either before or after the expiration of the time, and state in writing the cause of such failure and ask for sufficient time in which to complete the work and the court or the judge thereof shall set another date by which the report shall be completed and filed; the action of the court or judge in such a case to be conclusive evidence as to the sufficiency of the grounds for such postponement or extension.</p><p>Code 1919, § 1754; 1926, p. 613.</p>

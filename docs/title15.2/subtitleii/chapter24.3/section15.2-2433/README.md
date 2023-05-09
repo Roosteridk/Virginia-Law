@@ -1,3 +1,0 @@
-# § 15.2-2433 Annual audit.
-
-<p>The Auditor of Public Accounts, or his legally authorized representatives, shall annually audit the accounts of the Authority, and the cost of such audit services as shall be required shall be borne by the Authority. The audit shall be performed at least each fiscal year, in accordance with generally accepted auditing standards and, accordingly, include such tests of the accounting records and such auditing procedures as are considered necessary under the circumstances. The Authority shall furnish copies of such audit to the Governor.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0724'>724</a>.</p>

@@ -1,3 +1,0 @@
-# § 3.2-2009 Falsification of records; misdemeanor.
-
-<p>It is a Class 1 misdemeanor:</p><p>1. For any person knowingly to report falsely the number of slaughter hogs and feeder pigs subject to tax bought or handled by him during any period.</p><p>2. For any person to falsify the records of the slaughter hogs and feeder pigs subject to tax bought or handled by him.</p><p>3. For any person to fail to file the report, or to fail to keep the records as required by this chapter.</p><p>Code 1950, § 3-598.18; 1966, c. 658, § 3.1-763.12; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

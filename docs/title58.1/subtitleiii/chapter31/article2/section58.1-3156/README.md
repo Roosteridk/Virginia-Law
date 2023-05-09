@@ -1,3 +1,0 @@
-# § 58.1-3156 County finance boards may direct treasurer to invest under certain circumstances.
-
-<p>Notwithstanding other provisions of this article, whenever the county finance board determines that county or district funds would otherwise draw no interest or draw a lesser rate of interest, the finance board may direct the county treasurer to invest such funds in accordance with guidelines issued by the State Treasurer.</p><p>Code 1950, § 58-943.2; 1954, c. 498; 1974, c. 224; 1984, c. 675; 1988, c. 834.</p>

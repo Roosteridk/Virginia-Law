@@ -1,3 +1,0 @@
-# § 15.2-5217 Finality of order; effect.
-
-<p>If the court enters an order as provided in § <a href='http://law.lis.virginia.gov/vacode/15.2-5216/'>15.2-5216</a> that the need for the commission no longer exists, such order shall be final and, except for completing its affairs in accordance with the plan approved by the court, its authorities, powers and duties to transact business or to function shall cease to exist as of the date set forth in the court order.</p><p>Code 1950, § 32-290.2; 1970, c. 150, § 15.1-1531; 1979, c. 719; 1997, c. 587.</p>

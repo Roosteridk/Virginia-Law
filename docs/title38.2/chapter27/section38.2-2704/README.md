@@ -1,3 +1,0 @@
-# § 38.2-2704 Inspection of property.
-
-<p>Any person having an insurable interest in real property and tangible personal property at a fixed location in this Commonwealth is entitled, upon request, to an inspection of the property by representatives of the residual market facility to determine whether the property is within the definition of qualified property. A copy of the inspection report shall be made available upon request to the applicant, his agent, or the insurer.</p><p>1968, c. 559, § 38.1-748; 1980, c. 156; 1982, c. 664; 1986, c. 562.</p>

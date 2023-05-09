@@ -1,1 +1,0 @@
-# 11 Mineral Mine Safety Act

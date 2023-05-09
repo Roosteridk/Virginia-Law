@@ -1,3 +1,0 @@
-# § 32.1-344 State/Local Hospitalization Program.
-
-<p>There is hereby established within the Department of Medical Assistance Services the State/Local Hospitalization Program for indigent persons. With such funds as are appropriated for this purpose, the Director of the Department of Medical Assistance Services is authorized to administer this program and to expend state and local funds in accordance with the provisions of this chapter.</p><p>1989, cc. 657, 746.</p>

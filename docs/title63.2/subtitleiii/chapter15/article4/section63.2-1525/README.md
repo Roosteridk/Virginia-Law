@@ -1,3 +1,0 @@
-# § 63.2-1525 Prima facie evidence for removal of child custody.
-
-<p>In the case of a petition in the court for removal of custody of a child alleged to have been abused or neglected, competent evidence by a physician that a child is abused or neglected shall constitute prima facie evidence to support such petition.</p><p>1975, c. 341, § 63.1-248.15; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

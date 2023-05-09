@@ -1,3 +1,0 @@
-# § 6.2-2233 Additional information.
-
-<p>Nothing in this chapter shall prevent a provider from providing or disclosing additional information on a sales-based financing being offered to a recipient, provided, however, that such additional information shall not be disclosed as part of the disclosure required by this chapter. </p><p>2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0516'>516</a>.</p>

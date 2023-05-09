@@ -1,3 +1,0 @@
-# § 3.2-2700 Marine Products Board; composition and appointment of members.
-
-<p>A. The Marine Products Board is established within the Department.</p><p>B. The Marine Products Board shall consist of 11 members appointed by the Governor from among those persons who earn their livelihood from the seafood industry. One member of the Marine Products Board shall be involved in the Virginia menhaden fishery.</p><p>1979, c. 274, §§ 28.1-230, 28.1-231, 28.1-237; 1980, c. 712; 1984, cc. 265, 750; 1985, c. 448; 1992, c. 836, § 3.1-684.59; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

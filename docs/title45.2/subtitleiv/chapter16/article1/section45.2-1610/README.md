@@ -1,3 +1,0 @@
-# § 45.2-1610  Copy of lease to lessor.
-
-<p>Any person who, as either principal or agent, executes a lease of land or right therein for drilling for gas or oil, or for the development or production of gas or oil, shall furnish a copy of the lease, duly executed by the lessee, to the lessor.</p><p>1982, c. 347, § 45.1-352; 1990, c. 92, § 45.1-361.10; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

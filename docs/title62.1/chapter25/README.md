@@ -1,1 +1,0 @@
-# 25 Ground Water Management Act of 1992

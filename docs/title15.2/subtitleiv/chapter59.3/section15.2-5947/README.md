@@ -1,3 +1,0 @@
-# § 15.2-5947 Sharing of revenue among participating localities.
-
-<p>The Authority shall develop and administer a plan to distribute sales and use tax revenues from the Facility to each participating locality. The Authority shall not distribute such revenues to any participating locality until it has paid off any debt incurred pursuant to the provisions of this chapter. The plan to distribute sales and use tax revenues shall reasonably account for each participating locality's contributions to the costs of financing, constructing, maintaining, and operating the Facility and Facility Site.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0538'>538</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0539'>539</a>.</p>

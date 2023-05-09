@@ -1,3 +1,0 @@
-# § 10.1-1181.8 Definitions.
-
-<p>As used in this article, unless the context requires a different meaning:</p><p>"Forester" means any person who is engaged in the science, profession and practice of forestry and who possesses the qualifications required by this article.</p><p>"Forestry" means the science, art and practice of creating, managing, using and conserving forests and associated natural resources for human benefit and in a sustainable manner to meet desired goals, needs, and values.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0447'>447</a>.</p>

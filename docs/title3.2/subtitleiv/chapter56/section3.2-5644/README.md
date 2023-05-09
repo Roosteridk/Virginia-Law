@@ -1,3 +1,0 @@
-# § 3.2-5644 Impersonating Commissioner or sealer.
-
-<p>Any person who shall impersonate in any way the Commissioner, his agent, or any one of the inspectors, or a sealer by the use of his seal or a counterfeit of his seal, or in any other manner, is guilty of a Class 1 misdemeanor.</p><p>Code 1950, §§ 3-708.46, 59-137; 1962, c. 298; 1966, c. 702, § 3.1-964; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

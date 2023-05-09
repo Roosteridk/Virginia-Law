@@ -1,3 +1,0 @@
-# § 58.1-2529 Other provisions of this chapter not affected by this article; insurance companies going out of business.
-
-<p>Nothing in this article shall be construed as affecting other provisions of this chapter except to the extent required to give this article full effect. If an insurance company goes out of business or ceases to be an insurance company in this Commonwealth in any taxable or license year, such an event shall not relieve the company of the payment of the tax measured by direct gross premium income for the period in which the company operated as an insurance company and received or derived direct gross premium income from business in this Commonwealth.</p><p>Code 1950, § 58-502.7; 1968, c. 13; 1984, c. 675.</p>

@@ -1,3 +1,0 @@
-# § 21-263 Time and place of payment.
-
-<p>The commission shall likewise fix and determine the time or times when and the place or places where such fees, rents and charges shall be due and payable and may require that such fees, rents and charges shall be paid in advance for periods of not more than six months.</p><p>A copy of the schedules of all fees, rents and charges in effect shall at all times be kept on file at the principal office of the commission, and such schedules shall at all reasonable times be open to public inspection.</p><p>1946, p. 354; Michie Suppl. 1946, § 1560iii7.</p>

@@ -1,3 +1,0 @@
-# § 58.1-1100 Intangible personal property; segregated for state taxation.
-
-<p>Intangible personal property, including capital of a trade or business of any person, firm or corporation, except for merchants' capital as defined in § <a href='http://law.lis.virginia.gov/vacode/58.1-3510/'>58.1-3510</a> which shall be subject to local taxation, is hereby segregated for state taxation only.</p><p>Code 1950, § 58-405; 1981, c. 145; 1982, c. 633; 1983, cc. 552, 555; 1984, cc. 680, 729.</p>

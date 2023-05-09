@@ -1,3 +1,0 @@
-# § 58.1-1808 Collection in foreign jurisdiction.
-
-<p>When after the rendition of such a judgment or decree against a defendant it seems to the attorney having charge thereof that there may not be found within the Commonwealth sufficient property of the defendant out of which the same may be enforced, but that the same could be enforced in some other jurisdiction, he shall, with the concurrence of the Attorney General, institute in such foreign jurisdiction appropriate proceedings to enforce therein the payment of such judgment.</p><p>Code 1950, § 58-1018; 1984, c. 675.</p>

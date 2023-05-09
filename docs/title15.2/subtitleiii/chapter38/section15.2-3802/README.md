@@ -1,3 +1,0 @@
-# § 15.2-3802 Town and county agreement concerning proposed city.
-
-<p>No court proceedings shall be instituted until the governing bodies of the town and county have failed, in the sole opinion of the governing body of the town, to reach an agreement with respect to the proposed city. If the governing bodies reach an agreement, it shall be certified by order of the special court and a grant of city status shall be made upon a finding that the criteria set out in subsection A of § <a href='http://law.lis.virginia.gov/vacode/15.2-3807/'>15.2-3807</a> have been satisfied.</p><p>1979, c. 85, § 15.1-982.2; 1982, c. 181; 1997, c. 587.</p>

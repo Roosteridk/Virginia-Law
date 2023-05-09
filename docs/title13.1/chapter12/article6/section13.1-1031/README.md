@@ -1,3 +1,0 @@
-# § 13.1-1031 Interim distributions.
-
-<p>Except as provided in this article, a member is entitled to receive distributions from a limited liability company before the dissolution and winding up thereof to the extent and at the times or upon the happening of the events specified in the articles of organization or an operating agreement.</p><p>1991, c. 168; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0265'>265</a>.</p>

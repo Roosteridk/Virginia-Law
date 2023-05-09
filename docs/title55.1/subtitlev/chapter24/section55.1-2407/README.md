@@ -1,3 +1,0 @@
-# § 55.1-2407 Attendance of jurors; compensation.
-
-<p>If any person summoned or adjourned as a juror fails to attend according to the summons or adjournment, the escheator shall report such failure to the circuit court having jurisdiction over the county or city in which the land that is the subject of the inquest is located. Such court may fine such person an amount not to exceed $50.</p><p>Jurors shall be compensated as provided for jurors in civil cases.</p><p>Code 1919, § 495; Code 1950, § 55-174; 1977, c. 583; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

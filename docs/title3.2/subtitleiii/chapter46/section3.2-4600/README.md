@@ -1,3 +1,0 @@
-# § 3.2-4600 Definitions.
-
-<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Controlled atmosphere storage" or "CA" means any storage warehouse consisting of one or more rooms in any one facility in which atmosphere gases are controlled in their amount and in degrees of temperature for the purpose of controlling the condition and maturity of fruit.</p><p>"Fruit" means any apples and peaches.</p><p>Code 1950, § 3-710; 1964, c. 214; 1966, c. 702, § 3.1-991; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0179'>179</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

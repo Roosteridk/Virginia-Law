@@ -1,3 +1,0 @@
-# § 24.2-224 Local elections not otherwise provided for.
-
-<p>The election to any public office required to be filled by the qualified voters of any county, city, town, or election district for which an election time is not provided by law shall be held at the general election immediately preceding the time provided for the term of such office to commence.</p><p>Code 1950, § 24-143; 1970, c. 462, § 24.1-74; 1993, c. 641.</p>

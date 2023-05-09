@@ -1,3 +1,0 @@
-# § 13.1-690.1 Director of open-end management investment company deemed disinterested.
-
-<p>A director of a corporation that is an open-end management investment company, as defined by the federal Investment Company Act of 1940, who with respect to the corporation is not an interested person, as defined by the federal Investment Company Act of 1940, shall be deemed to be disinterested when making any determination or taking any action as a director of the corporation.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0330'>330</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0734'>734</a>.</p>

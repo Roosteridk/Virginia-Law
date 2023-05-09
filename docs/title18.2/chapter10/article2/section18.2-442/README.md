@@ -1,3 +1,0 @@
-# § 18.2-442 Bribery of participants in games, contests or sports.
-
-<p>Whoever gives, promises or offers any valuable thing to any professional or amateur participant or prospective participant in any game, contest or sport, with intent to influence him to lose or try to lose or cause to be lost or to limit his or his team's margin of victory in any professional or amateur game, contest or sport in which such participant is taking part or expects to take part, or has any duty or connection therewith, shall be guilty of a Class 5 felony.</p><p>Code 1950, § 18.1-402; 1960, c. 358; 1975, cc. 14, 15.</p>

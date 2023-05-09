@@ -1,3 +1,0 @@
-# § 15.2-4115.1 Disposition of police department or sheriff's department motorcycles.
-
-<p>When a city becomes a town under the provisions of this chapter and the police department or sheriff's department of the former city ceases to exist, officers of the former city police department or sheriff's department shall be entitled to purchase motorcycles that previously belonged to the police department or sheriff's department at the same cost as the city's original purchase price. The newly created town or county shall establish the process by which such transfer shall occur.</p><p>2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0385'>385</a>.</p>

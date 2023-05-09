@@ -1,3 +1,0 @@
-# § 30-131 Official bonds.
-
-<p>The Auditor of Public Accounts and the employees in the office of the Auditor of Public Accounts shall be bonded in accordance with § <a href='/vacode/2.2-1840/'>2.2-1840</a>, conditioned upon the faithful discharge of their duties.</p><p>Code 1950, § 2-126; 1966, c. 677, § 2.1-154; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0152'>152</a>.</p>

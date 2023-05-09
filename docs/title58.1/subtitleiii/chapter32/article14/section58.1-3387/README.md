@@ -1,3 +1,0 @@
-# § 58.1-3387 Penalty for failure to obey summons.
-
-<p>Any person refusing to answer the summons of the board of equalization, to furnish information or to produce his books of account, papers and other records, as required by this chapter, shall be deemed guilty of a Class 4 misdemeanor, and each day's failure to answer such summons, to furnish such information or to produce such books of account, papers and other records shall constitute a separate offense.</p><p>Code 1950, § 58-912; 1984, c. 675.</p>

@@ -1,3 +1,0 @@
-# § 15.2-1108 Gifts, donations, bequests or grants.
-
-<p>A municipal corporation may accept or refuse gifts, donations, bequests or grants from any source, which are related to the powers, duties and functions of the municipal corporation.</p><p>Code 1950, § 15-77.12; 1958, c. 328; 1962, c. 623, § 15.1-848; 1997, c. 587.</p>

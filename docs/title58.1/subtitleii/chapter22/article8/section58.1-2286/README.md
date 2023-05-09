@@ -1,3 +1,0 @@
-# § 58.1-2286 Waiver of time limitation on assessment of taxes.
-
-<p>If, before the expiration of the time prescribed for assessment of any tax levied pursuant to this title and assessable by the Department, both the Commissioner and the taxpayer have consented in writing to its assessment after such time, the tax may be assessed any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0729'>729</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0758'>758</a>.</p>

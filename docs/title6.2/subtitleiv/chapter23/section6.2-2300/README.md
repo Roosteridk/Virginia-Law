@@ -1,3 +1,0 @@
-# § 6.2-2300 Definitions.
-
-<p>As used in this chapter, unless the context requires otherwise:</p><p>"Box" or "safe deposit box" means any safe or box that is available for rent within the vaults of a company.</p><p>"Company" means a bank, trust company, or other entity conducting the business of renting safe deposit boxes.</p><p>"Lessee" means the person renting a box from a company.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

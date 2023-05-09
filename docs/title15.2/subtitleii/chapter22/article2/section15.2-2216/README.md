@@ -1,3 +1,0 @@
-# § 15.2-2216 Facilities for holding of meetings and preservation of documents; appropriations for expenses.
-
-<p>The governing body may provide the local planning commission with facilities for the holding of meetings and the preservation of plans, maps, documents and accounts, and may appropriate funds needed to defray the expenses of the commission.</p><p>Code 1950, § 15-963.4; 1962, c. 407, § 15.1-441; 1997, c. 587.</p>

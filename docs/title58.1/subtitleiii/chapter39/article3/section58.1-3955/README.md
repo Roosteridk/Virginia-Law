@@ -1,3 +1,0 @@
-# § 58.1-3955 Judgment or decree; effect thereof; enforcement.
-
-<p>In any proceeding under § <a href='http://law.lis.virginia.gov/vacode/58.1-3953/'>58.1-3953</a> the court shall have the power to determine the proper taxes, penalties and interest with which upon a correct assessment the taxpayer is chargeable for any year or years not barred by the statute of limitations at the time the proceedings were instituted, and order payment thereof. If any taxes of which collection is sought have been erroneously charged, the court may order exoneration thereof. Payment of such judgment or decree shall be enforced against the taxpayer in the same manner that it could be enforced in a proceeding between individuals.</p><p>Code 1950, § 58-1017; 1984, c. 675.</p>

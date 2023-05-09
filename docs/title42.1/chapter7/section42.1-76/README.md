@@ -1,3 +1,0 @@
-# § 42.1-76 Legislative intent; title of chapter.
-
-<p>The General Assembly intends by this chapter to establish a single body of law applicable to all public officers and employees on the subject of public records management and preservation and to ensure that the procedures used to manage and preserve public records will be uniform throughout the Commonwealth.</p><p>This chapter may be cited as the Virginia Public Records Act.</p><p>1976, c. 746.</p>

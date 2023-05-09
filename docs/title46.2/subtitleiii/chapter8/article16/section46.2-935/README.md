@@ -1,3 +1,0 @@
-# § 46.2-935 Regulation by ordinance in counties, cities, and towns.
-
-<p>The governing bodies of counties, cities, and towns may enact ordinances requiring pedestrians to obey signs and signals erected on highways therein for the direction and control of traffic, to obey the orders of law-enforcement officers engaged in directing traffic on such highways, and may provide penalties not exceeding those of a traffic infraction.</p><p>Code 1950, § 46-250; 1950, p. 942; 1958, c. 541, § 46.1-241; 1968, c. 165; 1989, c. 727.</p>

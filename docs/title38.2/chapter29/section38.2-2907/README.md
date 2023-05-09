@@ -1,3 +1,0 @@
-# § 38.2-2907 Participation in Association by insurers.
-
-<p>Each insurer that is a member of the Association shall participate in the contributions to finance the operation of the Association in the proportion that the net direct premiums written by each member during the preceding calendar year bears to the aggregate net direct premiums written in this Commonwealth by all members of the Association. However, the net direct premiums written by each member shall exclude that portion of premiums attributable to the operation of the Association. Each insurer's participation in the Association shall be determined annually on the basis of such premiums written during the preceding calendar year in the manner set forth in the plan of operation.</p><p>1988, cc. 769, 783.</p>

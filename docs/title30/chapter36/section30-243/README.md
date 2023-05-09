@@ -1,3 +1,0 @@
-# § 30-243 Compensation and expenses; generally.
-
-<p>The Commission members shall serve without compensation from the Commission but may be reimbursed by the Commission for necessary expenses incurred in and incident to the performance of their duties. In addition, Commission members from each state may receive from their respective states, any other compensation to which they may be entitled under the laws of the respective states.</p><p>1980, c. 662, § 62.1-69.8; 1985, c. 149; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1000'>1000</a>.</p>

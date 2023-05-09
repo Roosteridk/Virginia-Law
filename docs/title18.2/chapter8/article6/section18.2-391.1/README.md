@@ -1,3 +1,0 @@
-# § 18.2-391.1 Exceptions to application of article.
-
-<p>Nothing contained in this article shall be construed to apply to:</p><p>1. The purchase, distribution, exhibition, or loan of any work of art, book, magazine, or other printed or manuscript material by any accredited museum, library, school, or institution of higher education.</p><p>2. The exhibition or performance of any play, drama, tableau, or motion picture by any theatre, museum, school, or institution of higher education, either supported by public appropriation or which is an accredited institution supported by private funds.</p><p>1977, c. 480.</p>

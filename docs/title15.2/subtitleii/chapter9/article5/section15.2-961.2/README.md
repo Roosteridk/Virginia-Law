@@ -1,3 +1,0 @@
-# § 15.2-961.2 Conservation of trees; notice of infill lot grading plan.
-
-<p>An ordinance adopted pursuant to § <a href='http://law.lis.virginia.gov/vacode/15.2-961.1/'>15.2-961.1</a> may allow a locality to post signs on private property that is proposed to be redeveloped with one single-family home that notify the public that an infill lot grading plan is pending for review before the locality. The locality may not require the applicant to be responsible for such posting. The failure to post the property shall not be a ground for denial of such grading plan.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0317'>317</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0412'>412</a>.</p>

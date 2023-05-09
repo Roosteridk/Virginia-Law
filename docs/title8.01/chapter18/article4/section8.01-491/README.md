@@ -1,3 +1,0 @@
-# § 8.01-491 Officer may break open dwelling house and levy on property in personal possession of debtor.
-
-<p>An officer into whose hands an execution is placed to be levied, may, if need be, break open the outer doors of a dwelling house in the daytime, after having first demanded admittance of the occupant, in order to make a levy, and may also levy on property in the personal possession of the debtor if the same be open to observation.</p><p>Code 1950, § 8-422; 1977, c. 617.</p>

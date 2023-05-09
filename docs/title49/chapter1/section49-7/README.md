@@ -1,3 +1,0 @@
-# § 49-7 Affidavits for corporations, partnerships, and other entities.
-
-<p>An affidavit filed for a corporation or other entity may be made by its president, vice-president, general manager, cashier, treasurer, a director or attorney without any special authorization therefor, or by any person authorized by a majority of its stockholders, directors, partners or members to make the same.</p><p>Code 1919, § 276; 1986, c. 616.</p>

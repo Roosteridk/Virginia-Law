@@ -1,3 +1,0 @@
-# § 21-121.3 Powers of districts created under other laws.
-
-<p>Any sanitary district heretofore created under general law or special act shall have all of the powers specified in this article notwithstanding any limitations contained in any general law or special act pursuant to which such sanitary district was created and notwithstanding any limitations contained in the proceedings taken for the creation thereof.</p><p>1964, c. 165.</p>

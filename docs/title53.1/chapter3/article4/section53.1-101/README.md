@@ -1,3 +1,0 @@
-# § 53.1-101 Work by prisoners.
-
-<p>All prisoners convicted and sentenced or transferred to a farm shall be required to work on the farm, unless for good cause shown, the court sentencing and committing such prisoners shall order otherwise.</p><p>Code 1950, § 53-201; 1970, c. 648; 1079, c. 700; 1982, c. 636.</p>

@@ -1,3 +1,0 @@
-# § 20-60.4 Abstracts of orders, etc.; clerk shall transmit information regarding any order of support which is entered or modified to Department of Social Services.
-
-<p>The transmission of data between the courts and the Department of Social Services shall be accomplished by electronic data transmission or by transmission of notices, abstracts of orders and other documents. The form and content of such transmissions shall be mutually approved by the Committee on District Courts and the Department of Social Services.</p><p>1985, c. 488.</p>

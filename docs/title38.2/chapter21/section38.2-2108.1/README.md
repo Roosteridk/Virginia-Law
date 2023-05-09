@@ -1,3 +1,0 @@
-# § 38.2-2108.1 Commercial fire insurance policies; changes to amount of coverage.
-
-<p>No insurer shall, after a new or renewal contract or policy of fire insurance or fire insurance in combination with other coverage that has been issued or delivered in the Commonwealth to insure commercial property located in the Commonwealth has been in effect for 60 days, initiate and issue any endorsement to the contract or policy that increases or decreases the amount of coverage on such property unless the first named insured has consented in writing to such proposed change in the amount of coverage.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0693'>693</a>.</p>

@@ -1,3 +1,0 @@
-# § 54.1-2408.3 Practice pending appeal.
-
-<p>Any practitioner or entity whose license, certificate, registration, or permit is suspended or revoked by a health regulatory board of the Department of Health Professions shall not engage in practice in the Commonwealth pending appeal of the board's order.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0115'>115</a>.</p>

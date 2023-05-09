@@ -1,3 +1,0 @@
-# § 16.1-219 President; election of executive committee; assistance by Executive Secretary of Supreme Court.
-
-<p>The Chief Justice of the Supreme Court shall be president of the Conference. The Conference shall elect from the judges of courts not of record seven judges who shall act as an executive committee. The Chief Justice shall be chairman of the executive committee, but he may designate the Executive Secretary of the Supreme Court to preside at meetings of the executive committee and the Conference and may assign him administrative duties relating to the committee and Conference.</p><p>1962, c. 622; 1970, c. 559.</p>

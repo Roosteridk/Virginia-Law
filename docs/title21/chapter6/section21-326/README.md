@@ -1,3 +1,0 @@
-# § 21-326 Assistance in making survey.
-
-<p>The board of viewers shall have power to employ such assistants as may be necessary to make a complete survey of the drainage district, and unless already completely surveyed and chartered, by United States or state engineers, shall enter upon the ground and make a survey of the main drain, or drains, and all its laterals, as approved by the court at the preliminary hearing, or any other drainways, answering the same purpose, if found more feasible or economical.</p><p>Code 1919, § 1750; 1920, p. 609; 1926, p. 610.</p>

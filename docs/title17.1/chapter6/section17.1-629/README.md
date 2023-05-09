@@ -1,3 +1,0 @@
-# § 17.1-629 No judgment for costs against Commonwealth; exception.
-
-<p>In no case, civil or criminal, whether in a court of record or a court not of record, except when otherwise specially provided, shall there be a judgment for costs against the Commonwealth.</p><p>Code 1950, § 14-197; 1964, c. 386, § 14.1-201; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

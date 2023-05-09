@@ -1,3 +1,0 @@
-# § 3.2-3915 Products registered under Federal Act.
-
-<p>The Commissioner may register and permit the sale and use of any pesticide registered under the Federal Insecticide, Fungicide and Rodenticide Act. Such products shall be subject to the registration fees and all other provisions of this chapter.</p><p>Code 1950, § 3-208.20; 1966, c. 702, § 3.1-222; 1975, c. 102; 1981, c. 260; 1989, c. 575, § 3.1-249.36; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

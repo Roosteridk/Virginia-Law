@@ -1,3 +1,0 @@
-# § 58.1-3905 Forms for assessment of omitted taxes.
-
-<p>The Department of Taxation shall prescribe and furnish to local officers the necessary forms for the assessment of the omitted taxes mentioned in this chapter which they are authorized to assess. Omitted taxes, except on real estate, shall not be assessed on the current assessment books.</p><p>Code 1950, § 58-1166; 1984, c. 675.</p>

@@ -1,3 +1,0 @@
-# § 58.1-3166 Substitute officer continues in office upon removal of predecessor.
-
-<p>The substitute officer, appointed pursuant to § <a href='http://law.lis.virginia.gov/vacode/58.1-3169/'>58.1-3169</a>, shall, upon the ouster of his predecessor, unless sooner removed by the Governor or under the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/24.2-230/'>24.2-230</a> to <a href='http://law.lis.virginia.gov/vacode/24.2-238/'>24.2-238</a>, continue to serve in such capacity during the remainder of the term of his predecessor and until his successor be elected or appointed and qualified.</p><p>Code 1950, § 58-956; 1971, Ex. Sess., c. 1; 1984, c. 675.</p>

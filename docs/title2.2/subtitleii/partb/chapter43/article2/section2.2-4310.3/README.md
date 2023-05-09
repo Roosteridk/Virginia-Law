@@ -1,3 +1,0 @@
-# § 2.2-4310.3 Fiscal data pertaining to certain enhancement or remedial measures.
-
-<p>The Department of General Services shall make available a dashboard of purchase order reports from the Commonwealth's statewide electronic procurement system known as eVA. The dashboard shall include aggregated data showing (i) current fiscal year purchase orders, (ii) purchase orders from the previous fiscal year, and (iii) other relevant data derived from any enhancement or remedial measure implemented by the Governor pursuant to subsection C of § <a href='http://law.lis.virginia.gov/vacode/2.2-4310/'>2.2-4310</a>.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0578'>578</a>.</p>

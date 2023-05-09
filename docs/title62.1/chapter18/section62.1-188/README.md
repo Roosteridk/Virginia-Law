@@ -1,3 +1,0 @@
-# § 62.1-188 Lien for cost of repairing or replacing buoy, beacon or day mark.
-
-<p>The cost of repairing or replacing any such buoy, beacon, or day mark which may have been misplaced, damaged, or destroyed by any vessel or raft whatsoever having been made fast to any such buoy, beacon, or day mark shall, when the same shall be legally ascertained, be a lien upon such vessel or raft and may be recovered against such vessel or raft and the owner or owners thereof in an action of debt in any court of competent jurisdiction in this Commonwealth.</p><p>Code 1950, § 62-176; 1968, c. 659.</p>

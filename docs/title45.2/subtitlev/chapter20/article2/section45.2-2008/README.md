@@ -1,3 +1,0 @@
-# § 45.2-2008  Judicial review.
-
-<p>Any person aggrieved by a final decision of the Department pursuant to the provisions of § <a href='/vacode/45.2-2006/'>45.2-2006</a> is entitled to judicial review of such final decision in accordance with the provisions of the Administrative Process Act (§ <a href='/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>1981, c. 506, § 45.1-179.11; 1986, c. 615; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

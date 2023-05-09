@@ -1,3 +1,0 @@
-# § 5.1-91 Air carriers to comply with chapter; subject to regulation by Commission.
-
-<p>No air carrier shall operate any aircraft for the transportation of passengers or property for compensation in the airspace of this Commonwealth except in accordance with the provisions of this chapter, and every such air carrier is hereby declared to be subject to control, supervision and regulation by the Commission.</p><p>Code 1950, § 56-144; 1970, c. 708.</p>

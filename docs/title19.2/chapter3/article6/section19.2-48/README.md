@@ -1,3 +1,0 @@
-# § 19.2-48 Audits.
-
-<p>The Auditor of Public Accounts shall audit the records of all magistrates who serve any county or city when auditing the records of the district courts of such county or city or upon request of the chief district judge of the district in which such county or city is located.</p><p>Code 1950, § 19.1-397; 1973, c. 545; 1975, c. 495; 1980, c. 195; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0551'>551</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0691'>691</a>.</p>

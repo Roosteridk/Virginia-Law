@@ -1,1 +1,0 @@
-# 2.2 Treatment and Control of Prisoners Known to Be Pregnant

@@ -1,3 +1,0 @@
-# § 53.1-60.1 Duties of Director in collecting court-imposed debt.
-
-<p>Upon receipt of a valid court order or judgment against a person confined in a state correctional facility, the Director or his designee shall satisfy, to the extent possible, the amount required to be paid by the order or judgment from the inmate's trust account. The Director shall promulgate regulations governing the process of collecting funds from inmates to be used for (i) the satisfaction of judgments or orders granting monetary relief or imposing fines or other monetary sanctions or (ii) payment of court costs and fees.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0596'>596</a>.</p>

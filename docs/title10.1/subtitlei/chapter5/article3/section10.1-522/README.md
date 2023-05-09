@@ -1,3 +1,0 @@
-# § 10.1-522 Certificate of Secretary of Commonwealth as evidence.
-
-<p>In any suit, action, or proceeding involving the validity or enforcement of, or relating to, any contract, proceeding, or action of the district, the district shall be deemed to have been established, reorganized, or renamed, in accordance with the provisions of this chapter upon proof of the issuance of the certificate by the Secretary of the Commonwealth. A copy of such certificate shall be admissible in evidence in any such suit, action, or proceeding and shall be proof of the issuance and contents thereof.</p><p>Code 1950, § 21-32; 1954, c. 670; 1988, c. 891.</p>

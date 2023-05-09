@@ -1,3 +1,0 @@
-# § 45.2-518  Records of the Board.
-
-<p>The Chief shall preserve in his office a record of the meetings and transactions of the Board of Coal Mining Examiners and of all certificates issued by the Board.</p><p>Code 1950, § 45-27; 1954, c. 191; 1966, c. 594, § 45.1-11; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.26; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

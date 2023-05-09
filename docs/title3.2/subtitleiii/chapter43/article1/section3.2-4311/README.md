@@ -1,3 +1,0 @@
-# § 3.2-4311 Defenses to prosecution.
-
-<p>No person shall be convicted under the provisions of this article if:</p><p>1. The person is not a party to the packing, grading, or marking of such product; or</p><p>2. The agricultural product has passed inspection by an authorized inspector in the voluntary inspection service of the Department, or the U.S. Department of Agriculture, and found to be marked in accordance with the requirements of this article.</p><p>Code 1950, § 3-269; 1966, c. 702, § 3.1-348; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

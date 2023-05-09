@@ -1,3 +1,0 @@
-# § 18.2-158 Driving, etc., animal on track to recover damages.
-
-<p>If any person, with a view to the recovery of damages against a railroad company, willfully ride, drive, or lead any animal, or otherwise contrive for any animal to go, on the railroad track of such company, and such animal is by reason thereof killed or injured, he shall be guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 18.1-154; 1960, c. 358; 1975, cc. 14, 15.</p>

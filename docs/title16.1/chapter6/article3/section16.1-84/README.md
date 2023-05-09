@@ -1,3 +1,0 @@
-# § 16.1-84 When action or proceeding not lost; when matured for hearing.
-
-<p>In the event the return day of any civil action or other proceeding is a day on which the court does not sit, such action or proceeding shall not be lost, but shall be deemed matured for hearing or other disposition by the court on the first day thereafter on which the court sits for hearing civil actions.</p><p>1956, c. 555; 1958, c. 210.</p>

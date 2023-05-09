@@ -1,3 +1,0 @@
-# § 58.1-2525 Extensions of time.
-
-<p>The Department may grant a reasonable extension of time for payment of estimated tax, or any installment, or for filing any declaration pursuant to this article, on condition that the taxpayer shall pay interest on the amount involved at the rate set forth in § <a href='http://law.lis.virginia.gov/vacode/58.1-15/'>58.1-15</a> until the time of payment.</p><p>Code 1950, § 58-502.4; 1968, c. 13; 1972, c. 153; 1984, c. 675; 2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0850'>850</a>; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0029'>29</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0163'>163</a>.</p>

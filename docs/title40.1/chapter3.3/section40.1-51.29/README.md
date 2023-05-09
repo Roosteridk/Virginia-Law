@@ -1,3 +1,0 @@
-# § 40.1-51.29 Decision of Commissioner pursuant to hearing.
-
-<p>Any decision by the Commissioner rendered pursuant to hearings under § <a href='http://law.lis.virginia.gov/vacode/40.1-51.28/'>40.1-51.28</a> shall be reduced to writing and shall contain the explicit findings of fact and conclusions of law upon which the decision is based. Certified copies of the written decisions shall be delivered or mailed by certified mail to the parties affected by it. Failure to comply with this section shall render such decision invalid.</p><p>1992, c. 541.</p>

@@ -1,3 +1,0 @@
-# § 33.2-2921 Inconsistent laws inapplicable.
-
-<p>All other laws, including the provisions of the Charter of the City of Richmond, inconsistent with any provision of this chapter are hereby declared to be inapplicable to the provisions of this chapter and to any project constructed by the Authority pursuant to this chapter.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0471'>471</a>, § 15.2-7021; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

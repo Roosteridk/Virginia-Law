@@ -1,3 +1,0 @@
-# § 56-69 Purposes to which proceeds of security issues may be applied.
-
-<p>No public service company shall, without the consent of the Commission, apply the proceeds of the issue of any stock or stock certificate or other evidence of interest or ownership, or bond, note or other evidence of indebtedness, or any part thereof, to any purpose not specified in the Commission's order, or to any purpose specified in the Commission's order in excess of the amount authorized for such purpose, or issue or dispose of the same on any terms less favorable than those specified in such order or any modification thereof.</p><p>1934, p. 223; Michie Code 1942, § 4073(6).</p>

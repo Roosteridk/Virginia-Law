@@ -1,3 +1,0 @@
-# § 54.1-1146 Additional powers of the Board.
-
-<p>The Board shall adopt regulations necessary to establish procedures and requirements for the (i) approval of accredited residential building energy analyst training programs, (ii) licensing of individuals and firms to engage in residential building energy analysis, and (iii) establishment of standards for performing residential building energy analysis consistent with the U.S. Environmental Protection Agency guidelines and recognized by the Energy Star Program.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0865'>865</a>.</p>

@@ -1,3 +1,0 @@
-# § 18.2-408 Conspiracy; incitement, etc., to riot.
-
-<p>Any person who conspires with others to cause or produce a riot, or directs, incites, or solicits other persons who participate in a riot to acts of force or violence, shall be guilty of a Class 5 felony.</p><p>Code 1950, § 18.1-254.5:1; 1971, Ex. Sess., c. 251; 1975, cc. 14, 15.</p>

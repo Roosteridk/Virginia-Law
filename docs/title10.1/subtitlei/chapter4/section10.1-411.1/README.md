@@ -1,3 +1,0 @@
-# § 10.1-411.1 Guest State Scenic River.
-
-<p>The Guest River in Wise County, from a point 100 feet downstream from the Route 72 bridge to its confluence with the Clinch River, a distance of approximately 6.5 miles, is hereby designated as the Guest State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>1990, c. 397; 1991, c. 487; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0251'>251</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0240'>240</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0235'>235</a>.</p>

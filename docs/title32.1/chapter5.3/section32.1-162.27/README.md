@@ -1,3 +1,0 @@
-# § 32.1-162.27 Cooperation with other agencies.
-
-<p>All agencies of the Commonwealth shall cooperate with the Board and, upon request, assist the Board in the performance of its duties and responsibilities.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0888'>888</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0891'>891</a>, § 23-283; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

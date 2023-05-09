@@ -1,3 +1,0 @@
-# § 46.2-422 Suspension on failure to pay installments.
-
-<p>If the judgment debtor fails to pay any installment as permitted by the order of the court, then on notice of default, the Commissioner shall forthwith suspend the driver's license, registration cards, and license plates of the judgment debtor until the judgment is satisfied as provided in this chapter. The judgment debtor may apply, after due notice to the judgment creditor, to the court which allowed installment payment of the judgment, within thirty days after the default, for resumption of the privilege of paying the judgment in installments, if past-due installments are first paid.</p><p>Code 1950, § 46-434; 1958, c. 541, § 46.1-447; 1989, c. 727.</p>

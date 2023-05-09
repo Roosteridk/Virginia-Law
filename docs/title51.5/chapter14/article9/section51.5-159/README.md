@@ -1,3 +1,0 @@
-# § 51.5-159 Definitions.
-
-<p>For the purposes of this article:</p><p>"Auxiliary grant" means cash payments made to certain older, blind, or disabled individuals who receive benefits under Title XVI of the Social Security Act, as amended, or would be eligible to receive such benefits but for excessive income.</p><p>"Case manager" means an employee of a human services agency who is qualified and designated to develop and coordinate plans of care.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

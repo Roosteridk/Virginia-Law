@@ -1,3 +1,0 @@
-# § 16.1-289 Review of order of commitment.
-
-<p>The juvenile court or the circuit court, as the case may be, of its own motion may reopen any case and may modify or revoke its order. The juvenile court or the circuit court shall before modifying or revoking such order grant a hearing after notice in writing to the complainant, if any, and to the person or agency having custody of the child; provided, however, that this section shall not apply in the case of a child committed to the Department after sixty days from the date of the order of commitment.</p><p>Code 1950, § 16.1-183; 1956, c. 555; 1977, c. 559.</p>

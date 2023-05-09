@@ -1,3 +1,0 @@
-# § 15.2-606 Investigation of county officers.
-
-<p>The board may inquire into the official conduct of any office or officer under its control, and investigate the accounts, receipts, disbursements and expenses of any county or district officer. For these purposes it may subpoena witnesses, administer oaths and require the production of books, papers and other evidence. Any witness who fails or refuses to obey any such lawful order of the board shall be deemed guilty of a misdemeanor.</p><p>Code 1950, § 15-308; 1962, c. 623, § 15.1-627; 1997, c. 587.</p>

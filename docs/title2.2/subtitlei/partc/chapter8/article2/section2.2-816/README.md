@@ -1,3 +1,0 @@
-# § 2.2-816 When Comptroller may refer claim to Governor.
-
-<p>Whenever a claim cannot be allowed solely because it was not presented within the time prescribed by § <a href='http://law.lis.virginia.gov/vacode/8.01-255/'>8.01-255</a>, the Comptroller may, within three years after the claim might have been presented, refer the same to the Governor, who may direct payment of all or any part of the claim.</p><p>Code 1950, § 2-199; 1966, c. 677, § 2.1-223.6; 1977, c. 624; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

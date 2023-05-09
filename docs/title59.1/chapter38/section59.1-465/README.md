@@ -1,3 +1,0 @@
-# § 59.1-465 Remedies cumulative.
-
-<p>The rights, remedies and prohibitions contained in this chapter shall be in addition to and cumulative of any other right, remedy or prohibition accorded by common law, federal law or the statutes of the Commonwealth, and nothing contained herein shall be construed to deny, abrogate or impair any such common law or statutory right, remedy or prohibition.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0648'>648</a>.</p>

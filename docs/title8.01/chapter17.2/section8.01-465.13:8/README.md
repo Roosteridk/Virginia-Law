@@ -1,3 +1,0 @@
-# § 8.01-465.13:8 Statute of limitations.
-
-<p>An action to recognize a foreign-country judgment must be commenced within the earlier of the time during which the foreign-country judgment is effective in the foreign country or 15 years from the date that the foreign-country judgment became effective in the foreign country.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0462'>462</a>.</p>

@@ -1,3 +1,0 @@
-# § 8.01-678 For what a judgment not to be reversed.
-
-<p>When it plainly appears from the record and the evidence given at the trial that the parties have had a fair trial on the merits and substantial justice has been reached, no judgment shall be arrested or reversed:</p><p>1. For the appearance of either party, being under the age of eighteen years, by attorney, if the verdict, where there is one, or the judgment be for him and not to his prejudice; or</p><p>2. For any other defect, imperfection, or omission in the record, or for any error committed on the trial.</p><p>Code 1950, § 8-487; 1954, c. 333; 1977, c. 617.</p>

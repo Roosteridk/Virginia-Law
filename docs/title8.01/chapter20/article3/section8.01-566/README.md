@@ -1,3 +1,0 @@
-# § 8.01-566 Who may make defense to attachment.
-
-<p>Any of the defendants in any such attachment, or any party to any forthcoming bond given as aforesaid, or the officer who may be liable to the plaintiff by reason of such bond being adjudged bad, or any person authorized by § <a href='http://law.lis.virginia.gov/vacode/8.01-573/'>8.01-573</a> to file a petition, may make defense to such attachment, but the attachment shall not thereby be discharged, or the property levied on released.</p><p>Code 1950, § 8-554; 1973, c. 545; 1977, c. 617.</p>

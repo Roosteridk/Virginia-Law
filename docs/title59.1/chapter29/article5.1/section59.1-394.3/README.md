@@ -1,3 +1,0 @@
-# § 59.1-394.3 Cooperation of departments, agencies and officers of the Commonwealth.
-
-<p>All departments, agencies and officers of the Commonwealth and its political subdivisions are hereby authorized to cooperate with the Compact Committee in furtherance of any of its activities pursuant to the Compact.</p><p> 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0992'>992</a>.</p>

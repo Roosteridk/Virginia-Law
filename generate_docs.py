@@ -1,6 +1,7 @@
 import os
 import json
 import re
+from markdownify import markdownify as md
 
 # Recursively add each JSON prop to the document tree
 # If prop is '' skip it
@@ -16,15 +17,18 @@ keys = ["TitleNum", "TitleName", "SubtitleNum", "SubtitleName", "PartNum",
         "PartName", "ChapterNum", "ChapterName", "ArticleNum", "ArticleName",
         "SubPartNum", "SubPartName", "Section", "Title", "Body"]
 
+sidebar = []
+
+# Each field maps to the actual dict
+dicts = dict()
 
 def treeify(data: list[dict]):
-    labels = set()
-    path = "./docs"
-
+    parent_items = sidebar
     # Iterate over each row in current level
     for row in data:
-        path = "./docs"
+        path = "./docs/vacode"
         for i in range(0, 13, 2):
+
             key = keys[i]
             val: str = row[key]
 
@@ -35,33 +39,41 @@ def treeify(data: list[dict]):
             name = row[keys[i + 1]]
 
             content = f"# {val} {name}"
+            text = f"{val} {name}"
+
+            text_hash = str(hash(text))
 
             if key == "Section":
                 body = row["Body"]
-                label = "section" + val.split(" ")[1]
-                content += f"\n\n{body}"
-            else:
-                short_name = re.search(r'\w+(?=Num)', key).group(0)
-                label = f"{short_name}{val}".lower()
-                # Add label to path
+                section_code = val.split(" ")[1]
+                try:
+                    markdown = md(body)
+                except:
+                    print(body)
+                    break
+                content += f"\n\n{markdown}"
 
-            path += "/" + label
+                with open(path + f"/{section_code}.md", "w") as f:
+                    f.write(content)
 
-            # If label already exists, skip label creation
-            if label in labels:
-                continue
+                parent_items.append({
+                    'text': text,
+                    'link': f'/{section_code}'
+                })
+            else: 
+                item = {
+                    'text': text,
+                    'items': []
+                }
 
-            # Create folder for label
-            os.makedirs(os.path.dirname(path), exist_ok=True)
-
-            os.mkdir(path)
-
-            # Create README.md file for label
-            with open(path + "/README.md", "w") as f:
-                f.write(content)
-
-            labels.add(label)
-
+                if text_hash not in dicts.keys():
+                    dicts[text_hash] = item
+                    parent_items.append(item)
+                
+                parent_items = dicts[text_hash]['items']
+            
+        # short_name = re.search(r'\w+(?=Num)', key).group(0)
+        # label = f"{short_name}{val}".lower()
 
 # Read JSON files from output folder in sorted order of their titles
 files = os.listdir("./output")
@@ -71,3 +83,6 @@ for file in files:
     print(file)
     with open("./output/" + file, "r") as f:
         treeify(json.load(f))
+
+with open("./sidebar.json", "w") as f:
+    f.write(json.dumps(sidebar, ensure_ascii=False))

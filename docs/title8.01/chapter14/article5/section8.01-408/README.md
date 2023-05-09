@@ -1,3 +1,0 @@
-# § 8.01-408 Recognizance taken upon continuance of case.
-
-<p>Upon the continuance of any civil case in a court, the court shall at the request of any party litigant require such party's witnesses then present to enter into recognizance in such penalty as the court may deem proper, either with or without security, for their appearance to give evidence in such case on such day as may then be fixed for the trial thereof, such recognizance to be taken, conditioned, and entered of record in the same manner provided in §§ <a href='http://law.lis.virginia.gov/vacode/19.2-135/'>19.2-135</a> to <a href='http://law.lis.virginia.gov/vacode/19.2-137/'>19.2-137</a>, for taking recognizance.</p><p>Code 1950, § 8-298; 1977, c. 617.</p>

@@ -1,3 +1,0 @@
-# § 64.2-537 Action to enforce claim of less than $100; notice.
-
-<p>No action may be brought pursuant to this article where the amount of the claim does not exceed $100, unless, at least 30 days before the action was filed, the person or estate that is liable has been given notice that such action would be brought if the amount of the claim was not paid within such time.</p><p>Code 1950, § 64-175; 1968, c. 656, § 64.1-186; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0532'>532</a>.</p>

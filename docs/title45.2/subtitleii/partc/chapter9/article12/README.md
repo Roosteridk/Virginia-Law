@@ -1,1 +1,0 @@
-# 12 Auger and Highwall Mining

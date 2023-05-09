@@ -1,3 +1,0 @@
-# § 55.1-1421 How trustee or mortgagee relieved from the forfeiture.
-
-<p>Any mortgagee or trustee of lands subject to a proceeding filed pursuant to § <a href='/vacode/55.1-1419/'>55.1-1419</a> may, within 12 months after execution executed, pay the rent and all arrears, with interest and costs, or file a complaint for relief against such forfeiture; and thereupon may be relieved against it, on the same terms and conditions as the owner of such lands or tenements would be entitled to.</p><p>Code 1919, § 5532; Code 1950, § 55-241; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

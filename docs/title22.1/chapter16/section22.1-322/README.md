@@ -1,3 +1,0 @@
-# § 22.1-322 Advisory committees.
-
-<p>The Board may appoint an advisory committee, to be composed of nine persons who shall serve for terms of two years each, the majority of whom shall be representative of the schools subject to regulation under this chapter and the balance of whom shall be representative of the public and shall have no connection with any school. No member of any advisory committee shall serve for more than two consecutive terms.</p><p>Code 1950, § 22-330.20; 1970, c. 665; 1976, c. 16; 1980, c. 559; 1988, c. 574; 1993, c. 351; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0991'>991</a>.</p>

@@ -1,3 +1,0 @@
-# § 3.2-5227 Sampling to determine butterfat by composite tests.
-
-<p>In sampling milk or cream for composite tests to determine the percent of butterfat contained, no such sample or sampling shall be lawful unless a sample is taken from each weighing, and the quantity used shall be proportioned to the total weight of the milk or cream tested.</p><p>Code 1950, § 3-408; 1966, c. 702, § 3.1-538; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

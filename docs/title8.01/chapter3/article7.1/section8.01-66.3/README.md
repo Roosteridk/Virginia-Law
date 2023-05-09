@@ -1,3 +1,0 @@
-# § 8.01-66.3 Lien inferior to claim of attorney or personal representative.
-
-<p>The lien provided for in § <a href='http://law.lis.virginia.gov/vacode/8.01-66.2/'>8.01-66.2</a> shall be of inferior dignity to the claim or lien of the attorney of such injured person or of his personal representative for professional services for representing such injured person or his personal representative in his claim or suit for damages for such personal injuries.</p><p>Code 1950, § 32-139; 1979, c. 722.</p>

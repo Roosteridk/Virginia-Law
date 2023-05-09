@@ -1,3 +1,0 @@
-# § 2.2-101 Clerical forces and office expenses of Governor.
-
-<p>The Governor may appoint the clerical force necessary to the efficient operation of his office, but the aggregate amount paid such clerks shall not exceed the sum provided by law. The Governor may expend for the contingent expenses of his office such sums as are provided by law.</p><p>Code 1950, §§ 14-11, 14-25; 1964, c. 386, § 14.1-13; 1970, c. 260; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>, § 2.1-38.3; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

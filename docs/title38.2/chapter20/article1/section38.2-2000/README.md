@@ -1,3 +1,0 @@
-# § 38.2-2000 Purposes of chapter.
-
-<p>A. The purposes of this chapter are to protect policyholders and the public against the adverse effects of excessive, inadequate, or unfairly discriminatory insurance rates, and to authorize and regulate cooperative action among insurers in rate making and in other matters within the scope of this chapter. Nothing in this chapter is intended to (i) prohibit or discourage reasonable competition, or (ii) prohibit or encourage uniformity in insurance rates, rating systems and rating plans or practices, except to the extent necessary to accomplish the purposes mentioned above.</p><p>B. This chapter shall be liberally interpreted to effect the purposes of this chapter.</p><p>1952, c. 317, § 38.1-218; 1986, c. 562.</p>

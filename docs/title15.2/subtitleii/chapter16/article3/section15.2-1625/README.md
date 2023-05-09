@@ -1,3 +1,0 @@
-# § 15.2-1625 In what court motions may be made.
-
-<p>Any motion under either § <a href='http://law.lis.virginia.gov/vacode/15.2-1623/'>15.2-1623</a> or § <a href='http://law.lis.virginia.gov/vacode/15.2-1624/'>15.2-1624</a> may be made in the circuit court for the county or city in which the default or misconduct of the deputy occurred or was committed.</p><p>Code 1950, § 15-523; 1962, c. 623, § 15.1-88; 1997, c. 587.</p>

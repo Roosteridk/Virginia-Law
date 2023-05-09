@@ -1,3 +1,0 @@
-# § 59.1-352.7 Uniform commercial practice.
-
-<p>A. This chapter does not affect a security interest of the supplier in the inventory of the dealer.</p><p>B. The dealer and supplier shall furnish representatives to inspect all parts and certify their acceptability when packed for shipment. Failure of the supplier to provide a representative within sixty days shall result in automatic acceptance by the supplier of all returned items.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0898'>898</a>; 2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0369'>369</a>.</p>

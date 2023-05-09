@@ -1,3 +1,0 @@
-# § 22.1-16.7 Regulations regarding endorsement to teach military science.
-
-<p>The State Board of Education shall amend its regulations to require that persons seeking a technical professional license with an endorsement to teach military science have either the appropriate credentials issued by the United States military or a recommendation from a Virginia employing educational agency.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0108'>108</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0109'>109</a>.</p>

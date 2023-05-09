@@ -1,3 +1,0 @@
-# § 42.1-37 Establishment of regional library system.
-
-<p>Two or more political subdivisions, (counties or cities), by action of their governing bodies, may join in establishing and maintaining a regional free library system under the terms of a contract between such political subdivisions; provided, that in the case of established county or city free library systems, the library boards shall agree to such action.</p><p>1970, c. 606.</p>

@@ -1,3 +1,0 @@
-# § 38.2-1011 Disposition of dividends after payments provided in conversion plan.
-
-<p>After the payment of stockholder dividends as provided in the plan adopted under § <a href='http://law.lis.virginia.gov/vacode/38.2-1006/'>38.2-1006</a>, and after paying the necessary expenses of executing the trust all dividends and other sums received by the trustees on the shares of acquired stock, shall be immediately repaid to the insurer for the benefit of those who are or may become policyholders of the insurer and entitled to participate in the profits of the insurer. These payments shall be added to and become a part of the earned surplus of the insurer.</p><p>Code 1950, § 38-426; 1952, c. 317, § 38.1-495; 1986, c. 562.</p>

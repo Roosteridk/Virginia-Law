@@ -1,3 +1,0 @@
-# § 33.2-267.1 Human trafficking hotline; posted notice required.
-
-<p>The Department shall post notice at all rest areas along Interstate System highways in the Commonwealth of the existence of a human trafficking hotline to alert possible witnesses or victims of human trafficking to the availability of a means to report crimes or gain assistance. The notice required by this section shall (i) be posted in a place readily visible and accessible to the public and (ii) meet the requirements specified in subsection C of § <a href='/vacode/40.1-11.3/'>40.1-11.3</a>.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0571'>571</a>.</p>

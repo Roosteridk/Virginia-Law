@@ -1,3 +1,0 @@
-# § 45.2-1166  Mineral mining safety training.
-
-<p>The Director may implement a program of voluntary safety talks for mineral miners. Safety training may include topical training and talks conducted by inspectors or other Department personnel either on site or in a classroom provided for such purpose.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0390'>390</a>, § 45.1-161.292:72; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

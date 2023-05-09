@@ -1,3 +1,0 @@
-# § 10.1-1157 Punishment for violations.
-
-<p>Any person who hunts or traps in violation of any provision of this article, or in violation of restrictions and conditions imposed by the State Forester pursuant to the provisions of § <a href='http://law.lis.virginia.gov/vacode/10.1-1153/'>10.1-1153</a> shall be guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 10-74; 1986, cc. 539, 567; 1988, c. 891; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0008'>8</a>.</p>

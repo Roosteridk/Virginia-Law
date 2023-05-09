@@ -1,3 +1,0 @@
-# § 17.1-906 Jurisdiction of Supreme Court.
-
-<p>In addition to the jurisdiction conferred on the Supreme Court by Article VI, Section 1 and Section 10 of the Constitution of Virginia, to conduct hearings and impose sanctions upon the filing by the Commission of complaints against justices of the Supreme Court, judges of other courts of record, and members of the State Corporation Commission, the Supreme Court by virtue of this chapter shall have the same jurisdiction, to be exercised in the same manner, upon the filing by the Commission of complaints against all other judges as defined in this chapter.</p><p>1971, Ex. Sess., c. 154, § 2.1-37.2; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

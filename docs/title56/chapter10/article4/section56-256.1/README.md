@@ -1,3 +1,0 @@
-# § 56-256.1 Height of electric power distribution lines over agricultural land.
-
-<p>Unless placement at a greater height is required pursuant to § <a href='/vacode/56-466/'>56-466</a> or other applicable law, any electric distribution line that is installed, either as a new line or as a replacement for an existing line, on or after July 1, 2018, by or for an electric utility upon or over land upon which agricultural operations, as defined in § <a href='/vacode/3.2-300/'>3.2-300</a>, are conducted shall be placed at a height that is not less than the minimum height requirement that applies to the placement of electric distribution lines above road crossings.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0354'>354</a>.</p>

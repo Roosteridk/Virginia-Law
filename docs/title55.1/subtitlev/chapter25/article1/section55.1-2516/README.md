@@ -1,3 +1,0 @@
-# § 55.1-2516 Wages.
-
-<p>Unpaid wages, including wages represented by unpresented payroll checks owing in the ordinary course of the holder's business, that have remained unclaimed by the owner for more than one year after such unpaid wages became payable are presumed abandoned.</p><p>1983, c. 190, § 55-210.8:2; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

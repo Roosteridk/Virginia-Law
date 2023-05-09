@@ -1,3 +1,0 @@
-# § 17.1-245 Books may be taken from clerk's office to be rebound, etc.
-
-<p>The court or, if so designated by the judge, the clerk directing any book or books to be bound, rebound, microfilmed or digitally reproduced may allow the same to be taken from the clerk's office in which such book or books may be on file, but shall take all necessary and proper precautions, by requiring bonds or otherwise, to insure the preservation and return and to prevent the mutilation thereof.</p><p>Code 1919, § 5981, § 17-75; 1976, c. 630; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0836'>836</a>; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

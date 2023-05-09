@@ -1,3 +1,0 @@
-# § 35.1-10 Measures to prevent transmission of disease.
-
-<p>Nothing in this title applicable to restaurants shall prevent the Commissioner from taking whatever action he deems necessary to control the spread of preventable diseases as set forth in Title 32.1, including but not limited to the exclusion of employees, the medical examination of any employee, the immediate closing of a hotel, restaurant, summer camp, or campground, and the taking of samples for testing.</p><p>Code 1950, §§ 35-31, 35-40; 1971, Ex. Sess., c. 155; 1981, c. 468; 1993, c. 336.</p>

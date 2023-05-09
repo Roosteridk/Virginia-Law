@@ -1,3 +1,0 @@
-# § 55.1-123 Removal of a cloud on title; nature of plaintiff's title.
-
-<p>When a petition is filed to remove a cloud on the title to real estate, relief shall not be denied the complainant because he has only an equitable title to such real estate and is out of possession, but the court shall grant to the complainant such relief as he would be entitled to if he held the legal title and was in possession. If an issue of fact is raised which but for this section would entitle either party to a trial by jury, the court shall, upon the request of the party so entitled, order such issue to be tried by a jury.</p><p>Code 1919, § 6248; Code 1950, § 55-153; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

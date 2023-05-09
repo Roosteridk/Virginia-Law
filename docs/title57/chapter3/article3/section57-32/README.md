@@ -1,3 +1,0 @@
-# § 57-32 Who may hold such property.
-
-<p>Any cemetery company chartered under the laws of the Commonwealth, or a church, or any trustees holding title to a cemetery, or burial ground, may take and hold any property granted, bequeathed, devised, or given upon trust to apply its income to the improvement, repair, or embellishment of the cemetery, or any burial lot or monument or tomb or vault or other erections in such cemetery, according to the terms of such grant, bequest, devise, or gift.</p><p>Code 1919, § 59; 1918, p. 103; 1920, p. 10; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0772'>772</a>.</p>

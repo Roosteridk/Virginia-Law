@@ -1,3 +1,0 @@
-# § 38.2-1211 License required of agent.
-
-<p>No person shall act in this Commonwealth as an agent of a reciprocal in the selling, solicitation or negotiation of applications for insurance, subscriber's agreements and powers of attorney, or in the collection of premiums in connection with the reciprocal insurer, without first procuring a license from the Commission pursuant to the requirements in Chapter 18 of this title. An agent shall be appointed by each reciprocal the agent represents.</p><p>1977, c. 313, § 38.1-700.1; 1986, c. 562; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0706'>706</a>.</p>

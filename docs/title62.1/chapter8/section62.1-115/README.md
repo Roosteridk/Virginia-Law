@@ -1,3 +1,0 @@
-# § 62.1-115 Use of waters stored.
-
-<p>Any owner constructing an impounding structure under the provisions of this chapter shall have the sole and unrestricted use of the floodwaters thus stored for the purpose for which the storage was authorized.</p><p>Code 1950, § 62-94.12; 1956, c. 632; 1968, c. 659.</p>

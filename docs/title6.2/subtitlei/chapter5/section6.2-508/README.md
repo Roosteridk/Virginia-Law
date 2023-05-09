@@ -1,3 +1,0 @@
-# § 6.2-508 Compliance with Equal Credit Opportunity Act constitutes compliance with chapter.
-
-<p>Compliance with the federal Equal Credit Opportunity Act, (15 U.S.C. § 1691 et seq.), as amended, and regulations issued by the Consumer Financial Protection Bureau thereunder, constitutes compliance with this chapter.</p><p>1975, c. 627, § 59.1-21.24; 1977, c. 589; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0501'>501</a>.</p>

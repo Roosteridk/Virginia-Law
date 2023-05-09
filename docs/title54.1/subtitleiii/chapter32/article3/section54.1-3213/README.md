@@ -1,3 +1,0 @@
-# § 54.1-3213 Issuance of license; fee; renewal.
-
-<p>Every candidate successfully passing the examination shall be licensed by the Board as possessing the qualifications required by law to practice optometry.</p><p>The fee for examination and licensure shall be prescribed by the Board and shall be paid to the executive director of the Board by the applicant upon filing his application.</p><p>Every license to practice optometry granted under the provisions of this chapter shall be renewed at such time, in such manner and upon payment of such fees as the Board may prescribe.</p><p>Code 1950, §§ 54-383, 54-393, 54-394; 1970, c. 341; 1976, c. 32; 1977, c. 161; 1979, c. 39; 1988, c. 765.</p>

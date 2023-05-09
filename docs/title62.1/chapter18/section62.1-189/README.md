@@ -1,3 +1,0 @@
-# § 62.1-189 Anchoring on range of range lights.
-
-<p>It shall be unlawful for any vessel to anchor on the range of any range lights established by the United States unless such anchorage is unavoidable, and the master of any vessel so anchoring shall be deemed guilty of a misdemeanor, and upon conviction thereof shall be punished by a fine not to exceed fifty dollars, one-half of the fine in each case to be paid to the informer and one-half to the Commonwealth.</p><p>Code 1950, § 62-177; 1968, c. 659.</p>

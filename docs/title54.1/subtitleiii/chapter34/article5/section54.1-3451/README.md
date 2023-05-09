@@ -1,3 +1,0 @@
-# § 54.1-3451 Placement of substance in Schedule IV.
-
-<p>The Board shall place a substance in Schedule IV if it finds that:</p><p>1. The substance has a low potential for abuse relative to substances in Schedule III;</p><p>2. The substance has currently accepted medical use in treatment in the United States; and</p><p>3. Abuse of the substance may lead to limited physical dependence or psychological dependence relative to the substances in Schedule III.</p><p>1972, c. 798, § 54-524.84:9; 1988, c. 765.</p>

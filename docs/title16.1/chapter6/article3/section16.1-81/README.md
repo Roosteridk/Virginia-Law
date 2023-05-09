@@ -1,3 +1,0 @@
-# § 16.1-81 Actions brought by motion for judgment.
-
-<p>A civil action in a general district court may be brought by motion for judgment. Such motion shall be in writing, signed by the plaintiff or his attorney, and shall contain a caption setting forth the name of the court and the title of the action, which shall include the names of all parties and the address of each defendant. It shall state the facts on which the plaintiff relies, and shall be sufficient if it clearly informs the defendant or defendants of the true nature of the claim asserted. The motion shall notify the defendant or defendants of the day on which such motion shall be made, which day shall not be more than sixty days from the date of service of the motion.</p><p>1956, c. 555; 1990, c. 762.</p>

@@ -1,3 +1,0 @@
-# § 40.1-51.14 When inspection certificate for insured boiler or pressure vessel invalid.
-
-<p>No inspection certificate issued for an insured boiler or pressure vessel based upon a report of a special inspector shall be valid after the boiler or pressure vessel for which it was issued shall cease to be insured by a company duly authorized to issue policies of insurance in this Commonwealth.</p><p>1972, c. 237.</p>

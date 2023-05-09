@@ -1,3 +1,0 @@
-# § 15.2-3518 Determination of rights.
-
-<p>If any right, title, interest, claim or case arises out of any consolidation or by reason thereof which is not determinable by reference to the provisions of this article or by the Constitution and other laws of the Commonwealth, the governing body of the consolidated locality may by ordinance provide therefor in a manner conforming to law.</p><p>Code 1950, § 15-189; 1962, c. 623, § 15.1-1098; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 38.2-3807 Governing body; board of directors.
-
-<p>The governing body of each company shall meet at least once every four years. Meetings of the governing body may be held in any state where the company is authorized to do business. The members of the governing body shall not vote by proxy.</p><p>A board of directors to conduct the business of the company shall be elected by the governing body for a period of not more than four years or until the next quadrennial meeting of the body. The board of directors shall elect the officers to conduct the business of the company under its direction. No officer shall be elected for a period beyond that for which the board of directors has been elected.</p><p>Code 1950, § 38-480; 1952, c. 317, § 38.1-505; 1986, c. 562.</p>

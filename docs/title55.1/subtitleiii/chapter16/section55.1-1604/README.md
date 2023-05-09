@@ -1,3 +1,0 @@
-# § 55.1-1604 Covenant of lessor "for lessee's quiet enjoyment.".
-
-<p>A covenant by a lessor "for the lessee's quiet enjoyment of his term" shall have the same effect as a covenant that the lessee, or the lessee's personal representative or lawful assigns, paying the rent reserved and performing his covenants, shall peaceably possess and enjoy the demised premises, for the term granted, without any interruption or disturbance from any person.</p><p>Code 1919, § 5181; Code 1950, § 55-78; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

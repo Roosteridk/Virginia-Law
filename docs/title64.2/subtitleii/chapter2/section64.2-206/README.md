@@ -1,3 +1,0 @@
-# § 64.2-206 Advancements brought into hotchpot.
-
-<p>When the descendant of a decedent receives any property as an advancement from the decedent during the decedent's lifetime or under the decedent's will, and the descendant, or any descendant of his, is also to receive a distribution of any portion of the decedent's intestate estate, real or personal, the advancement shall be brought into hotchpot with the intestate estate and the descendant is entitled to his proper portion of the entire intestate estate, including such advancement.</p><p>Code 1950, § 64-17; 1968, c. 656, § 64.1-17; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

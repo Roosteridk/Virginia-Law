@@ -1,3 +1,0 @@
-# § 56-231.31 Payment of certain patronage capital to spouse or next of kin of deceased person.
-
-<p>When there is held by any cooperative any patronage capital to the credit of a deceased person, in an amount not exceeding $10,000, upon whose estate there shall have been no qualification, it shall be lawful for such electric cooperative, after 120 days from the death of such person, to pay such balance to his or her spouse, and if none, to his or her next of kin, whose receipt therefor shall be a full discharge and acquittance to such electric cooperative to all persons whomsoever on account of such patronage capital.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0874'>874</a>.</p>

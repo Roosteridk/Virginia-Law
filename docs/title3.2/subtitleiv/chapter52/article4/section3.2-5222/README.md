@@ -1,3 +1,0 @@
-# § 3.2-5222 To whom certificates issued.
-
-<p>The Commissioner is authorized to issue certificates of competency to persons desiring to manipulate the Babcock or other centrifugal machine or to sample or weigh milk or cream who may present certificates of competency properly filled out and signed by the professor of dairy science or other authorized officer of the Virginia Polytechnic Institute and State University, and to other persons as, in the opinion of the Commissioner, are competent to manipulate the machines, and to sample or weigh milk or cream.</p><p>Code 1950, § 3-404; 1966, c. 702, § 3.1-534; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

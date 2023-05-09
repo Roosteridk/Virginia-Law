@@ -1,3 +1,0 @@
-# § 38.2-6517 Relation to other laws.
-
-<p>Nothing in this chapter, and no action taken by the Exchange pursuant to this chapter, shall be construed to preempt or supersede the authority of the Commission to regulate the business of insurance within the Commonwealth. Except as expressly provided to the contrary in this chapter, all health carriers offering qualified health plans or qualified dental plans in the Commonwealth shall comply fully with all applicable health insurance laws of the Commonwealth and regulations adopted and orders issued by the Commission.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0916'>916</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0917'>917</a>.</p>

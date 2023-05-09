@@ -1,3 +1,0 @@
-# § 15.2-628 Terms of school boards.
-
-<p>Notwithstanding the provisions of the preceding sections, in any county which hereafter adopts the county manager form of organization and government under this chapter, the members of the county school board then in office shall be appointed or reappointed, as the case may be, for terms of four years each, except that initial appointments hereunder may be for terms of one to four years, respectively, so as to provide staggered terms for such members.</p><p>1966, c. 624, § 15.1-644.1; 1980, c. 559; 1997, c. 587.</p>

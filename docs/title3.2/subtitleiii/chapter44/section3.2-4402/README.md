@@ -1,3 +1,0 @@
-# § 3.2-4402 State Apiarist.
-
-<p>The Commissioner may appoint a State Apiarist with adequate experience and training in practical beekeeping. The State Apiarist shall promote the science of beekeeping by education and other means; inspect apiaries, beehives, and beekeeping equipment within the Commonwealth for bee disease; and perform other duties that may be required by regulation or law, including the inspection of honey houses for sanitation.</p><p>Code 1950, §§ 3-484, 3-485; 1966, c. 702, §§ 3.1-589, 3.1-590; 1972, c. 499, §§ 3.1-610.2, 3.1-610.3; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

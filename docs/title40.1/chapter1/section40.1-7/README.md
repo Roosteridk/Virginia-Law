@@ -1,3 +1,0 @@
-# § 40.1-7 Attorney for the Commonwealth to prosecute on request of Commissioner.
-
-<p>The attorney for the Commonwealth of the proper county or city, upon the request of the Commissioner, or any of his authorized representatives, shall prosecute any violation of law or rule or regulation adopted thereunder which it is made the duty of the Commissioner to enforce.</p><p>Code 1950, § 40-5; 1962, c. 66; 1970, c. 321.</p>

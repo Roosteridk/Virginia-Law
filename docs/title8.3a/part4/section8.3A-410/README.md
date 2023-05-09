@@ -1,3 +1,0 @@
-# § 8.3A-410 Acceptance varying draft.
-
-<p>(a) If the terms of a drawee's acceptance vary from the terms of the draft as presented, the holder may refuse the acceptance and treat the draft as dishonored. In that case, the drawee may cancel the acceptance.</p><p>(b) The terms of a draft are not varied by an acceptance to pay at a particular bank or place in the United States, unless the acceptance states that the draft is to be paid only at that bank or place.</p><p>(c) If the holder assents to an acceptance varying the terms of a draft, the obligation of each drawer and endorser that does not expressly assent to the acceptance is discharged.</p><p>Code 1950, §§ 6-492 through 6-495; 1964, c. 219, § 8.3-412; 1992, c. 693.</p>

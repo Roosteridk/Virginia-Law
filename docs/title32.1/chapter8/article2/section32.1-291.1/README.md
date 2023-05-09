@@ -1,3 +1,0 @@
-# § 32.1-291.1 Revised Uniform Anatomical Gift Act; short title.
-
-<p>This Act consists of §§ <a href='http://law.lis.virginia.gov/vacode/32.1-291.1/'>32.1-291.1</a> through <a href='http://law.lis.virginia.gov/vacode/32.1-291.25/'>32.1-291.25</a> and may be cited as the Revised Uniform Anatomical Gift Act.</p><p>2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0092'>92</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0907'>907</a>.</p>

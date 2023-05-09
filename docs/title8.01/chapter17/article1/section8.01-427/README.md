@@ -1,3 +1,0 @@
-# § 8.01-427 Persons entitled under decree deemed judgment creditors; execution on decree.
-
-<p>The persons entitled to the benefit of any decree or order requiring the payment of money shall be deemed judgment creditors, although the money be required to be paid into a court, or a bank, or other place of deposit. In such case, an execution on the decree or order shall make such recital thereof, and of the parties to it, as may be necessary to identify the case; and if a time be specified in the decree or order within which the payment is to be made, the execution shall not issue until the expiration of that time.</p><p>Code 1950, § 8-344; 1977, c. 617.</p>

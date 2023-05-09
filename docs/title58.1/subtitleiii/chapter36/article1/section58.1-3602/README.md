@@ -1,3 +1,0 @@
-# § 58.1-3602 Exemptions not applicable to associations, etc., paying death, etc., benefits.
-
-<p>Nothing contained in this chapter shall be construed to exempt from taxation the property of any person, firm, association or corporation who shall, expressly or impliedly, directly or indirectly, contract or promise to pay a sum of money or other benefit, on account of death, sickness or accident, to any of its members or other person.</p><p>Code 1950, § 58-13; 1984, c. 675.</p>

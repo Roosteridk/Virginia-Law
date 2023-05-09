@@ -1,3 +1,0 @@
-# § 18.2-152 Stealing from or tampering with parking meter, vending machine, pay telephone, etc.
-
-<p>Any person who enters, forces or attempts to force an entrance into, tampers with, or inserts any part of an instrument into any parking meter, vending machine, pay telephone, money changing machine, or any other device designed to receive money, with intent to steal therefrom, shall for the first conviction thereof be guilty of a Class 1 misdemeanor, and for any subsequent conviction of a violation thereof shall be guilty of a Class 6 felony.</p><p>Code 1950, § 18.1-125.1; 1968, c. 518; 1975, cc. 14, 15.</p>

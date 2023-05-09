@@ -1,3 +1,0 @@
-# § 62.1-113 Use of bed of watercourse.
-
-<p>The Commonwealth hereby gives its consent to the use of the bed of any watercourse to which it has title for the construction of any impounding structure under the provisions of this chapter. No right to construct an impounding structure resting upon the bed of any other watercourse shall lie unless the owner or owners seeking to construct the same has title to the bed of such watercourse.</p><p>Code 1950, § 62-94.10; 1956, c. 632; 1968, c. 659.</p>

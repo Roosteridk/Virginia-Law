@@ -1,3 +1,0 @@
-# § 33.2-2807 Allocation of certain Authority expenses.
-
-<p>The administrative expenses of the Authority, as provided in an annual budget adopted by the Authority, to the extent funds for such expenses are not provided from other sources, shall be allocated among the participating counties, city, agencies, institutions, and facilities pursuant to a funding formula as duly adopted by the Authority.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0645'>645</a>, § 15.2-7030; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

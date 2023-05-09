@@ -1,3 +1,0 @@
-# § 38.2-3335 Additional persons becoming eligible.
-
-<p>Each group life insurance policy shall contain a provision that any person who subsequently becomes a member of a group or class that is covered under the policy shall be eligible for group life insurance in accordance with the same requirements as any other member of the group or class.</p><p>Code 1950, § 38-429(5); 1952, c. 317, § 38.1-429; 1986, c. 562.</p>

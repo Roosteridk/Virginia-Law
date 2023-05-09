@@ -1,3 +1,0 @@
-# § 17.1-284 How excess payable into state or local treasury determined.
-
-<p>In determining the excess, if any, to be paid into the state treasury by the clerks, all fees, allowances, commissions, salary or other compensation or emolument of office derived from the Commonwealth or any political subdivision thereof, or from any source whatever, shall be included and enter into the determination of the excess to be paid.</p><p>Code 1950, § 14-149; 1964, c. 386, § 14.1-140; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

@@ -1,3 +1,0 @@
-# § 3.2-4911 Publication of information by Commissioner.
-
-<p>The Commissioner may publish at such times and in such forms as he may deem proper, information concerning the sales of animal remedies, together with data on their production and use, and a report of the results of the analyses of official samples of animal remedies sold within the Commonwealth as compared with the analyses guaranteed in the registration and on the label. The information concerning production and use of animal remedies shall not disclose the operations of any person.</p><p>Code 1950, § 3-646.10; 1956, c. 517; 1966, c. 702, § 3.1-840; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

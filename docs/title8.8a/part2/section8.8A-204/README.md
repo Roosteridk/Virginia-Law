@@ -1,3 +1,0 @@
-# § 8.8A-204 Effect of issuer's restriction on transfer.
-
-<p>A restriction on transfer of a security imposed by the issuer, even if otherwise lawful, is ineffective against a person without knowledge of the restriction unless:</p><p>(1) the security is certificated and the restriction is noted conspicuously on the security certificate; or</p><p>(2) the security is uncertificated and the registered owner has been notified of the restriction.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0216'>216</a>.</p>

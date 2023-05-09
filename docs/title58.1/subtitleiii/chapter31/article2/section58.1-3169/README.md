@@ -1,3 +1,0 @@
-# § 58.1-3169 Interest chargeable against treasurer for failure to pay over revenue.
-
-<p>Every treasurer who wilfully fails to pay the revenue into the treasury at the time prescribed by law shall be charged with interest thereon at the rate of fifteen percent per annum from the time such revenue was so payable.</p><p>Code 1950, § 58-974; 1984, c. 675.</p>

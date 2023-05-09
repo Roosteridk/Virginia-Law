@@ -1,3 +1,0 @@
-# § 30-119 Jurisdiction of Panel.
-
-<p>The Senate and House Ethics Advisory Panels shall have jurisdiction over any complaint alleging a violation of Articles 2 (§ <a href='http://law.lis.virginia.gov/vacode/30-102/'>30-102</a> et seq.) through 5 (§ <a href='http://law.lis.virginia.gov/vacode/30-109/'>30-109</a> et seq.) of this chapter that occurs on or after August 1, 1987, and over any complaint alleging a violation of the Comprehensive Conflict of Interests Act occurring after July 1, 1984, and prior to August 1, 1987.</p><p>1987, Sp. Sess., c. 1, § 2.1-639.52; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

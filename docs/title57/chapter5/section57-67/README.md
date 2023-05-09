@@ -1,3 +1,0 @@
-# § 57-67 Application to court for relief.
-
-<p>Any person aggrieved by any final order of the Commissioner is entitled to judicial review in accordance with the provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.). Either party may appeal any final order of such court to the Court of Appeals in the same manner as provided by law in cases of appeals of right.</p><p>1974, c. 574; 1979, c. 595; 1984, c. 703; 1986, c. 615.</p>

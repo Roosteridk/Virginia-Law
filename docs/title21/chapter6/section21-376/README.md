@@ -1,3 +1,0 @@
-# § 21-376 Interest from delinquency; penalty.
-
-<p>From the date of delinquency of any assessment it shall bear interest at the legal rate, and a penalty of five per centum of the assessment shall be added thereto.</p><p>Code 1919, § 1771; 1924, p. 712; 1926, p. 620; 1936, p. 1035.</p>

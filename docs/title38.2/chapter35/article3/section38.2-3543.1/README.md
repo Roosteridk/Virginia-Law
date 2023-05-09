@@ -1,3 +1,0 @@
-# § 38.2-3543.1 Regulations.
-
-<p>The Commission may establish rules and regulations for coordination of benefits, as well as to establish standards to be met in connection with the marketing and contracting for group accident and sickness insurance in this Commonwealth. Pursuant to the authority granted by § <a href='http://law.lis.virginia.gov/vacode/38.2-223/'>38.2-223</a>, the Commission may promulgate such rules and regulations as it may deem necessary to establish standards with regard to coordination of benefits provisions.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0316'>316</a>; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0154'>154</a>.</p>

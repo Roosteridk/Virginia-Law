@@ -1,3 +1,0 @@
-# § 58.1-2244 Persons required to be licensed.
-
-<p>A person shall obtain a license before conducting the activities of:</p><p>1. A provider of alternative fuel;</p><p>2. A bulk user of alternative fuel;</p><p>3. A retailer of alternative fuel; or</p><p>4. A person who fuels his highway vehicle from his private source, if the alternative fuels tax on alternative fuel used in the vehicle has not been paid.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0729'>729</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0758'>758</a>.</p>

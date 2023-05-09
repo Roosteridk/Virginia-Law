@@ -1,3 +1,0 @@
-# § 46.2-1006 Approval of brake and head light testing methods and equipment.
-
-<p>The Superintendent shall approve methods of brake testing and head light testing. Approval of the use of mechanical brake and light testing equipment may be given by the Superintendent. When necessary, the Superintendent may call upon the United States Bureau of Standards or some other recognized testing agency to assist him in determining whether such mechanical testing equipment shall be approved for the purpose set forth in this chapter.</p><p>Code 1950, § 46-314; 1958, c. 541, § 46.1-312; 1989, c. 727.</p>

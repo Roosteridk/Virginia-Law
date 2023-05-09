@@ -1,3 +1,0 @@
-# § 44-80 Order in which classes of militia called into service.
-
-<p>The National Guard, the Virginia Defense Force, and the unorganized militia or any part thereof may be ordered into service by the Governor in such order as he determines.</p><p>1930, p. 963; Michie Code 1942, § 2673(66); 1964, c. 227; 1989, c. 414; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0572'>572</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0586'>586</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0221'>221</a>.</p>

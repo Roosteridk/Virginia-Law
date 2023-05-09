@@ -1,3 +1,0 @@
-# § 6.2-1359 Payment for shares; transfers; lien on shares.
-
-<p>Shares shall be paid for in money. Shares may be subscribed to, paid for, and transferred in such manner as the bylaws prescribe. The credit union shall have a lien on the shares, including share accounts of a member in his individual, joint, or trust accounts and upon any dividends payable thereon as security for all debts and obligations owed by, and for any loan endorsed by, such member to the credit union.</p><p>Code 1950, § 6-214; 1956, c. 90; 1966, c. 584, § 6.1-206; 1968, c. 560; 1975, c. 33; 1990, c. 373, § 6.1-225.42; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

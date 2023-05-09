@@ -1,3 +1,0 @@
-# § 3.2-5226 Units for testing cream.
-
-<p>Cream shall be tested by weight and the standard units for testing shall be 18 grams, and nine grams. It is a violation of the provisions of this article to use any other standard of milk or cream measure where milk or cream is purchased by or furnished to creameries or cheese factories, and where the value of the milk or cream is determined by the percent of butterfat contained by the Babcock or other centrifugal test or cream test or butterfat test scales.</p><p>Code 1950, § 3-407; 1966, c. 702, § 3.1-537; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

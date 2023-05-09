@@ -1,3 +1,0 @@
-# § 18.2-430 Venue for offenses under this article.
-
-<p>Any person violating any of the provisions of this article may be prosecuted either in the county or city from which he called or in the county or city in which the call was received.</p><p>Code 1950, § 18.1-238; 1960, c. 358; 1964, c. 577; 1975, cc. 14, 15; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1002'>1002</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0336'>336</a>.</p>

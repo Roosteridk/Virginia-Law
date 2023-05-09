@@ -1,3 +1,0 @@
-# § 54.1-1508 Optical prescriptions, ocular refraction, etc.
-
-<p>Nothing in this chapter shall authorize an optician, or anyone else not otherwise authorized by law, to make, issue, or alter optical prescriptions, or to practice ocular refraction, orthoptics, or visual training, or to fit contact lenses except on the prescription of an ophthalmologist or optometrist and under his direction, or to advertise or offer to do so in any manner.</p><p>1954, c. 237, § 54-398.27; 1964, c. 101; 1988, c. 765, § 54.1-1705; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

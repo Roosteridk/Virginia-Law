@@ -1,3 +1,0 @@
-# § 18.2-330 Accessories to gambling activity; penalty.
-
-<p>Any person, firm or association of persons, other than those persons specified in other sections of this article, who knowingly aids, abets or assists in the operation of an illegal gambling enterprise, activity or operation, shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, §§ 18.1-319, 18.1-325; 1960, c. 358; 1968, c. 401; 1975, cc. 14, 15; 1984, c. 625.</p>

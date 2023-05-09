@@ -1,3 +1,0 @@
-# § 28.2-311 Chickahominy River in Charles City; penalty.
-
-<p>It is unlawful for any person to take or catch fish, shellfish, or marine organisms, on or within 500 yards below the Chickahominy Dam at Walker's, on the Chickahominy River, other than with rod and line or hand line.</p><p>A violation of this section is a Class 3 misdemeanor.</p><p>Code 1950, § 28-88.4; 1950, p. 471; 1956, c. 325; 1962, c. 406, § 28.1-80; 1992, c. 836.</p>

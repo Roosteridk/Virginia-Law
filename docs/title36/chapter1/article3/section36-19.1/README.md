@@ -1,3 +1,0 @@
-# § 36-19.1 Special provisions; City of Roanoke.
-
-<p>Notwithstanding the provisions of § <a href='/vacode/36-19/'>36-19</a>, an authority established in the City of Roanoke shall not contract for the construction of any housing unit that has not been contracted for on or before March 6, 1952, or acquire land for or purchase material for the construction or installation of any sewerage, streets, sidewalks, lights, power, water, or any other facilities for any housing units or projects on or before such date, unless a comprehensive plan for such unit or project has been approved by the governing body of the city.</p><p>1952, c. 200; 1975, c. 575.</p>

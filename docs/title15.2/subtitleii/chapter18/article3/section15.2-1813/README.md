@@ -1,3 +1,0 @@
-# § 15.2-1813 Notice when public hearing required.
-
-<p>Any public hearing required by this chapter shall be advertised once in a newspaper having general circulation in the locality at least seven days prior to the date set for the hearing.</p><p>1997, c. 587.</p>

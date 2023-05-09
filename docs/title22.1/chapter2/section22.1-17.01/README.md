@@ -1,3 +1,0 @@
-# § 22.1-17.01 Definition of "intervener.".
-
-<p>For the purposes of regulations promulgated by the Board of Education, "intervener" means an individual with knowledge and skill in the mode of communication of a deaf-blind student and who can communicate to the deaf-blind student what is occurring in the student's educational setting.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0729'>729</a>.</p>

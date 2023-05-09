@@ -1,3 +1,0 @@
-# § 8.01-487.1 Officer to leave copy of writ where levy made.
-
-<p>An officer into whose hands a writ of fieri facias is placed to be levied, when making a levy shall serve a copy of the writ and any attachments thereto on the judgment debtor or other responsible person at the premises where the levy is made. If no such person is present, a copy of the writ and any attachments thereto shall be posted on the front door of such premises.</p><p>1986, c. 341.</p>

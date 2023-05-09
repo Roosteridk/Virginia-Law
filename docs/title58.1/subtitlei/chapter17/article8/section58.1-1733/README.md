@@ -1,3 +1,0 @@
-# § 58.1-1733 Disposition of proceeds.
-
-<p>After the administrative costs for collecting the fees are recovered by the Department of Taxation, the remaining revenues shall be divided as follows:</p><p>1. Fifty percent shall be deposited into the state's general fund; and</p><p>2. Fifty percent shall be deposited into the Governor's Motion Picture Opportunity Fund established under § <a href='http://law.lis.virginia.gov/vacode/2.2-2320/'>2.2-2320</a>. All revenues deposited to the Fund shall be used for film incentive programs established by the Virginia Film Office.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0531'>531</a>.</p>

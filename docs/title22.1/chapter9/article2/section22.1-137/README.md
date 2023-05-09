@@ -1,3 +1,0 @@
-# § 22.1-137 Fire drills.
-
-<p>In every public school there shall be a fire drill at least twice during the first 20 school days of each school session, in order that pupils may be thoroughly practiced in such drills. Every public school shall hold at least two additional fire drills during the remainder of the school session.</p><p>Code 1950, § 22-156; 1971, Ex. Sess., c. 163; 1980, c. 559; 1993, c. 212; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0524'>524</a>.</p>

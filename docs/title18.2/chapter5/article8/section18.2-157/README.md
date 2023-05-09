@@ -1,3 +1,0 @@
-# § 18.2-157 Injury to fences or cattle stops along line of railroad.
-
-<p>Any person who shall willfully or maliciously cut, break down, injure or destroy any fence erected along the line of any railroad for the purpose of fencing the track or depot grounds of such road, or shall break down, injure or destroy any cattle stop along the line of any railroad, shall be guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 18.1-155; 1960, c. 358; 1975, cc. 14, 15.</p>

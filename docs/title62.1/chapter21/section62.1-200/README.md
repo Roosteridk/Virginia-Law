@@ -1,3 +1,0 @@
-# § 62.1-200 Creation of Authority.
-
-<p>The Virginia Resources Authority is created, with the duties and powers set forth in this chapter, as a public body corporate and as a political subdivision of the Commonwealth. The exercise by the Authority of the duties and powers conferred by this chapter shall be deemed to be the performance of an essential governmental function of the Commonwealth.</p><p>1984, c. 699; 1985, c. 67.</p>

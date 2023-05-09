@@ -1,3 +1,0 @@
-# § 64.2-783 Diversification by trustee.
-
-<p>A trustee shall diversify the investments of the trust unless the trustee reasonably determines that, because of special circumstances, the purposes of the trust are better served without diversifying.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0772'>772</a>, § 26-45.5; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

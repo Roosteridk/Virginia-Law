@@ -1,3 +1,0 @@
-# § 64.2-797 Reliance on trust instrument.
-
-<p>A trustee who acts in reasonable reliance on the terms of the trust as expressed in the trust instrument is not liable to a beneficiary for a breach of trust to the extent the breach resulted from the reliance.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-550.06; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

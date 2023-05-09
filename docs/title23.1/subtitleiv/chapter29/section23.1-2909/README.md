@@ -1,3 +1,0 @@
-# § 23.1-2909 Bonds of agents and System employees.
-
-<p>Proper bonds shall be required of all agents and employees who handle any funds that may come into the custody of the System. The premiums on the bonds shall be paid from funds appropriated by the Commonwealth for the administration of the provisions of this chapter.</p><p>1966, c. 679, § 23-226; 1977, c. 413; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

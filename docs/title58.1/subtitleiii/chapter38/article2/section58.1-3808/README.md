@@ -1,3 +1,0 @@
-# § 58.1-3808 Interpretation of article.
-
-<p>This article shall not be construed as affecting or repealing any city charter provision.</p><p>Code 1950, § 58-67.1; 1960, c. 60; 1984, c. 675.</p>

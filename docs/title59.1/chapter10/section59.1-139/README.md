@@ -1,3 +1,0 @@
-# § 59.1-139 Persons possessing explosives to give notice of theft.
-
-<p>Any person having in his possession any explosives covered by this chapter shall immediately notify the sheriff of the county or the police officials of the city in which any such explosives are being stored or used in the event that any such explosives are stolen.</p><p>Code 1950, § 59-224; 1960, c. 578; 1968, c. 439.</p>

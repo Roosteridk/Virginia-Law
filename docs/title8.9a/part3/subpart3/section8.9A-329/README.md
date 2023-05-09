@@ -1,3 +1,0 @@
-# § 8.9A-329 Priority of security interests in letter-of-credit right.
-
-<p>The following rules govern priority among conflicting security interests in the same letter-of-credit right:</p><p>(1) A security interest held by a secured party having control of the letter-of-credit right under § <a href='http://law.lis.virginia.gov/vacode/8.9A-107/'>8.9A-107</a> has priority to the extent of its control over a conflicting security interest held by a secured party that does not have control.</p><p>(2) Security interests perfected by control under § <a href='http://law.lis.virginia.gov/vacode/8.9A-314/'>8.9A-314</a> rank according to priority in time of obtaining control.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1007'>1007</a>.</p>

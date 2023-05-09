@@ -1,3 +1,0 @@
-# § 58.1-3983 Remedy not to affect right to apply to court.
-
-<p>The remedy granted by the three preceding sections (§§ <a href='http://law.lis.virginia.gov/vacode/58.1-3980/'>58.1-3980</a> through <a href='http://law.lis.virginia.gov/vacode/58.1-3982/'>58.1-3982</a>) shall be in addition to the right of any taxpayer to apply within the time prescribed by law to the proper court as provided by law for the correction of erroneous assessments of the classes described in such sections. Application may be made to the proper court whether or not such applicant has theretofore made application to the commissioner of the revenue for the correction of any such assessment.</p><p>Code 1950, § 58-1144; 1984, c. 675.</p>

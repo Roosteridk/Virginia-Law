@@ -1,3 +1,0 @@
-# § 8.01-496 Officer not required to go out of his jurisdiction to pay over money.
-
-<p>No officer receiving money under execution, when the person to whom it is payable resides in a different county or city from that in which the officer resides, shall be liable to have any judgment rendered against him or his sureties for the nonpayment thereof, until a demand of payment be made of such officer in his county or city, by such creditor or his attorney-at-law, or some person having a written order from the creditor.</p><p>Code 1950, § 8-425; 1977, c. 617.</p>

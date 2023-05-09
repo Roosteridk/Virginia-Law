@@ -1,3 +1,0 @@
-# § 13.1-1099.9 Remedies of judgment creditor of associated member or protected series assignee.
-
-<p>Any provision of § <a href='/vacode/13.1-1041.1/'>13.1-1041.1</a> that provides or restricts remedies available to a judgment creditor of a member of a limited liability company or owner of a membership interest of the series limited liability company applies to a judgment creditor of:</p><p>1. An associated member or protected series assignee of a protected series; or</p><p>2. A series limited liability company, to the extent the series limited liability company owns a protected series membership interest of a protected series.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0636'>636</a>.</p>

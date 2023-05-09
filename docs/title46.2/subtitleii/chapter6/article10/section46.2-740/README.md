@@ -1,3 +1,0 @@
-# § 46.2-740 Special license plates for survivors of Battle of Chosin Reservoir.
-
-<p>On receipt of an application and written evidence that the applicant is a survivor of the Battle of Chosin Reservoir, the Commissioner shall issue special license plates to the applicant.</p><p>The provisions of subdivisions 1 and 2 of subsection B of § <a href='http://law.lis.virginia.gov/vacode/46.2-725/'>46.2-725</a> shall not apply to license plates issued under this section.</p><p>1987, c. 669, § 46.1-105.17; 1989, c. 727; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0747'>747</a>.</p>

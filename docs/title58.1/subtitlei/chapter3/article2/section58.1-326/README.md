@@ -1,3 +1,0 @@
-# § 58.1-326 Married individuals when one nonresident.
-
-<p>If either spouse is a resident and the other spouse is a nonresident, separate taxes shall be determined on their separate Virginia taxable incomes on such single or separate forms as may be required by the Department, unless both elect to determine their joint Virginia taxable income as if both were residents.</p><p>Code 1950, § 58-151.012; 1971, Ex. Sess., c. 171; 1984, c. 675; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0900'>900</a>.</p>

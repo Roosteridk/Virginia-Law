@@ -1,3 +1,0 @@
-# § 3.2-2207 Question to be printed on ballots.
-
-<p>The question to be printed on the ballots used in any referendum held pursuant to this chapter shall be as follows:</p><p>"Do you favor additional market development, education, publicity, research, and the promotion of the sale and use of small grains and continuation of the levy of an assessment of one-half of one percent of the selling price per bushel in accordance with the provisions of the Small Grains Board law?</p><p>_____ Yes</p><p>_____ No."</p><p>1991, c. 587, § 3.1-684.51; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

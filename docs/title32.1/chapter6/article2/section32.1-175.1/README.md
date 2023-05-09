@@ -1,3 +1,0 @@
-# § 32.1-175.1 Notice to local government.
-
-<p>A. Upon issuing a notice of violation of any provision of regulation promulgated pursuant to this article to the owner of a waterworks or water supply, the Commissioner shall simultaneously notify the chief administrative officer or his designee of the county, city or town in which such waterworks or water supply is located.</p><p>B. Spotsylvania County is authorized to enact an ordinance requiring the owner of any waterworks or water supply located in the county to provide the chief administrative officer of the county with the results of all tests performed on such waterworks or water supply.</p><p>1987, c. 400.</p>

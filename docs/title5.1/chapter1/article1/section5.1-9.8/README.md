@@ -1,3 +1,0 @@
-# § 5.1-9.8 Same; effect of failure to give or maintain adequate security.
-
-<p>Failure of any contract carrier holding a registration or permit issued by and under the authority of the Department to comply with any of the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/5.1-9.5/'>5.1-9.5</a> through <a href='http://law.lis.virginia.gov/vacode/5.1-9.7/'>5.1-9.7</a> shall be a Class 1 misdemeanor and punishable as such.</p><p>1980, c. 721; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0793'>793</a>.</p>

@@ -1,3 +1,0 @@
-# § 32.1-331.12 Definitions.
-
-<p>As used in this article:</p><p>"Board" means the Board of Medical Assistance Services.</p><p>"Committee" means the Medicaid Prior Authorization Advisory Committee established pursuant to this article.</p><p>"Department" means the Department of Medical Assistance Services.</p><p>"Director" means the Director of Medical Assistance Services.</p><p>"Drug" shall have the same meaning, unless the context otherwise dictates or the Board otherwise provides by regulation, as provided in the Drug Control Act (§ <a href='http://law.lis.virginia.gov/vacode/54.1-3400/'>54.1-3400</a> et seq.).</p><p>1993, c. 537.</p>

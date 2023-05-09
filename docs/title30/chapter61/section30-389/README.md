@@ -1,3 +1,0 @@
-# § 30-389 (Expires July 1, 2026) Staffing.
-
-<p>Administrative staff support shall be provided by the Office of the Clerk of the Senate or the Office of the Clerk of the House of Delegates as may be appropriate for the house in which the chairman of the Commission serves. The Division of Legislative Services shall provide legal, research, policy analysis, and other services as requested by the Commission.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1044'>1044</a>, § 30-381.</p>

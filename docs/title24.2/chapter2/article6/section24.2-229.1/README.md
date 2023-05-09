@@ -1,3 +1,0 @@
-# § 24.2-229.1 Legitimacy of votes by appointees.
-
-<p>All votes cast prior to July 1, 2010, by persons duly appointed to fill a vacancy pursuant to this article, including votes appropriating money in excess of $500, imposing taxes, or authorizing the borrowing of moneys, are hereby validated and confirmed as the lawful vote of an elected member of the governing body.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0624'>624</a>.</p>

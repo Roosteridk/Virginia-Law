@@ -1,3 +1,0 @@
-# § 13.1-1043 Proper plaintiff.
-
-<p>In a derivative action, the plaintiff shall be a member at the time of bringing the action and (i) shall have been a member at the time of the transaction of which he or it complains or (ii) his or its status as a member shall have devolved upon him or it by operation of law or pursuant to the terms of the articles of organization or an operating agreement from a person who was a member at the time of the transaction.</p><p>1991, c. 168.</p>

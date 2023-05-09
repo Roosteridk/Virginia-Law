@@ -1,3 +1,0 @@
-# § 15.2-200 Required procedure for obtaining new charter or amendment.
-
-<p>No charter shall be granted to a locality by the General Assembly and no charter of a locality shall be amended by the General Assembly except as provided in this chapter or in Chapter 34 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-3400/'>15.2-3400</a> et seq.) of this title.</p><p>Code 1950, § 15-65.1; 1958, c. 329; 1962, c. 623, § 15.1-833; 1979, c. 297; 1985, c. 387; 1986, c. 312; 1997, c. 587.</p>

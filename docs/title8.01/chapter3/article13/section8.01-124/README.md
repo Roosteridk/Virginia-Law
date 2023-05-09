@@ -1,3 +1,0 @@
-# § 8.01-124 Motion for judgment in circuit court for unlawful entry or detainer.
-
-<p>If any forcible or unlawful entry be made upon lands, or if, when the entry is lawful and peaceable, the tenant shall detain the possession of land after the right has expired, without the consent of him who is entitled to the possession, the party so turned out of possession, no matter what right of title he had thereto, or the party against whom such possession is unlawfully detained may file a motion for judgment in the circuit court alleging that the defendant is in possession and unlawfully withholds from the plaintiff the premises in question.</p><p>Code 1950, § 8-789; 1954, c. 549; 1975, c. 235; 1977, c. 617.</p>

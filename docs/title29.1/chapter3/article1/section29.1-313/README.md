@@ -1,3 +1,0 @@
-# § 29.1-313 Issuance of licenses for use of individuals in certain state facilities.
-
-<p>The Director shall have authority to issue at the regular fee, up to 25 state resident licenses to fish in the name of any state facility operated by the Department of Behavioral Health and Developmental Services for use by individuals receiving services in those facilities.</p><p>1972, c. 414, § 29-57.1:1; 1987, cc. 413, 488; 2009, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0813'>813</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0840'>840</a>; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0476'>476</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0507'>507</a>.</p>

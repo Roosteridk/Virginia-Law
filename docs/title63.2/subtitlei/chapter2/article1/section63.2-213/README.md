@@ -1,3 +1,0 @@
-# § 63.2-213 Powers, duties, titles and functions of agents and employees.
-
-<p>The functions, duties, powers and titles of the agents and employees provided for in § <a href='http://law.lis.virginia.gov/vacode/63.2-212/'>63.2-212</a>, and their salaries and remuneration, not in excess of the amount provided therefor by law, shall be fixed by the Commissioner, subject to the provisions of Chapter 29 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-2900/'>2.2-2900</a> et seq.) of Title 2.2.</p><p>Code 1950, § 63-11; 1968, c. 578, § 63.1-11; 1981, c. 21; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0467'>467</a>.</p>

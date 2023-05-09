@@ -1,3 +1,0 @@
-# § 38.2-3738 What laws applicable.
-
-<p>In the event of conflict between the provisions of this chapter and other provisions of this title, the provisions of this chapter shall be controlling. Subdivisions 1 and 2 of § <a href='http://law.lis.virginia.gov/vacode/38.2-508/'>38.2-508</a> shall not apply to the insurance subject to the provisions of this chapter where application of these subdivisions would conflict with the requirements of any federal agency.</p><p>1960, c. 67, § 38.1-482.1; 1972, c. 527, § 38.2-3716; 1982, c. 223; 1986, c. 562; 1992, c. 586.</p>

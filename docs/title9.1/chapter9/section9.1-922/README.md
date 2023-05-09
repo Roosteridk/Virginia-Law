@@ -1,3 +1,0 @@
-# § 9.1-922 Use of Registry data by Statewide Automated Victim Notification (SAVIN) system; confidentiality.
-
-<p>Upon request of the Compensation Board, the Department of State Police shall provide the Statewide Automated Victim Notification (SAVIN) system with Registry data in an electronic format. The Board or its contractor may use the data for verification of registrant status and notification of victims and law enforcement regarding changes in status of persons on the Registry and shall ensure the confidentiality and security of the data.</p><p>2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0076'>76</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0338'>338</a>.</p>

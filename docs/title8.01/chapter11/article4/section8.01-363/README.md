@@ -1,3 +1,0 @@
-# § 8.01-363 When impartial jury cannot be obtained locally.
-
-<p>In any case in which qualified jurors who are not exempt from serving and who the judge is satisfied can render a fair and impartial trial cannot be conveniently found in the county or city in which the trial is to be, the court may cause so many jurors as may be necessary to be summoned from any other county or city by the sheriff thereof, or by its own officer, from a list prepared pursuant to Article 3 (§ <a href='http://law.lis.virginia.gov/vacode/8.01-343/'>8.01-343</a> et seq.) of this chapter and furnished by the circuit court of the county or city from which the jurors are to be summoned.</p><p>Code 1950, § 8-208.26; 1973, c. 439; 1977, c. 617.</p>

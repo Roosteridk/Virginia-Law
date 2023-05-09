@@ -1,3 +1,0 @@
-# § 2.2-3310.2 Vietnamese-American Heritage Flag.
-
-<p>The flag of the former Republic of Vietnam, with three horizontal red stripes on a field of golden-yellow, which symbolizes freedom and democracy and represents the cultural heritage of Vietnamese-Americans, is recognized by the Commonwealth as the Vietnamese-American Heritage Flag.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0970'>970</a>.</p>

@@ -1,3 +1,0 @@
-# § 23.1-2612 Division; funding sources.
-
-<p>The Division may receive moneys from the Commonwealth, the federal government, and private sources. All receipts of the Division shall be deposited to the credit of the general fund of the state treasury and appropriated to the University to be used exclusively for the purposes of the Division.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0433'>433</a>, § 23-132.5; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

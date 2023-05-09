@@ -1,3 +1,0 @@
-# § 5.1-2.23 Board as successor to Virginia Airports Authority.
-
-<p>The Board is the successor in interest to that political subdivision formerly known as the Virginia Airports Authority. As such, the Board stands in the place and stead of, and assumes all rights and duties formerly of, such Authority, including but not limited to all leases, contracts, grants-in-aid and all other agreements of whatsoever nature; holds title to all realty and personalty formerly held by such Authority; and may exercise all powers which might at any time past have been exercised by said Authority.</p><p>1980, c. 750.</p>

@@ -1,3 +1,0 @@
-# § 2.2-201 Secretaries; general; compensation.
-
-<p>A. Each Secretary shall be considered an extension of the Governor in the management coordination and cohesive direction of the executive branch of state government ensuring that the laws are faithfully executed.</p><p>B. Each Secretary shall be paid the compensation fixed by law.</p><p>1972, c. 641, § 2.1-51.10; 1984, c. 720, § 2.1-51.10:1; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

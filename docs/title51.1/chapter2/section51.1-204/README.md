@@ -1,3 +1,0 @@
-# § 51.1-204 Contributions by Commonwealth.
-
-<p>The Commonwealth shall contribute an amount equal to the sum of the normal contribution, any accrued liability contribution, and any supplementary contribution. The amount shall be determined and paid as provided in Chapter 1 (§ <a href='http://law.lis.virginia.gov/vacode/51.1-124.1/'>51.1-124.1</a> et seq.) of this title.</p><p>Code 1950, §§ 51-138, 51-140, 51-148; 1950, p. 885; 1954, c. 139; 1966, c. 628; 1970, c. 657; 1982, c. 467; 1990, c. 832.</p>

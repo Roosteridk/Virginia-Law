@@ -1,3 +1,0 @@
-# § 18.2-9 Classification of criminal offenses.
-
-<p>(1) Felonies are classified, for the purposes of punishment and sentencing, into six classes:</p><p>(a) Class 1 felony</p><p>(b) Class 2 felony</p><p>(c) Class 3 felony</p><p>(d) Class 4 felony</p><p>(e) Class 5 felony</p><p>(f) Class 6 felony.</p><p>(2) Misdemeanors are classified, for the purposes of punishment and sentencing, into four classes:</p><p>(a) Class 1 misdemeanor</p><p>(b) Class 2 misdemeanor</p><p>(c) Class 3 misdemeanor</p><p>(d) Class 4 misdemeanor.</p><p>1975, cc. 14, 15.</p>

@@ -1,3 +1,0 @@
-# § 62.1-44.24 Testing validity of regulations; judicial review.
-
-<p>(1) The validity of any regulation may be determined through judicial review in accordance with the provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>(2) [Repealed.]</p><p>(3) An appeal may be taken from the decision of the court to the Court of Appeals as provided by law.</p><p>1970, c. 638; 1984, c. 703; 1986, c. 615.</p>

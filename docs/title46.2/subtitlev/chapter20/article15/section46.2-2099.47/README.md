@@ -1,3 +1,0 @@
-# § 46.2-2099.47 Operation except in accordance with chapter prohibited.
-
-<p>No transportation network company or TNC partner shall transport passengers for compensation on any highway in the Commonwealth on an intrastate basis except in accordance with the provisions of this chapter.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0002'>2</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0003'>3</a>.</p>

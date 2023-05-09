@@ -1,3 +1,0 @@
-# § 59.1-207.12 Conformity to all warranties.
-
-<p>If a new motor vehicle does not conform to all warranties, and the consumer reports the nonconformity to the manufacturer, its agents, or its authorized dealer during the manufacturer's warranty period, the manufacturer, its agent or its authorized dealer shall make such repairs as are necessary to conform the vehicle to such warranties, notwithstanding the fact that such repairs are made after the expiration of such manufacturer's warranty period.</p><p>1984, c. 773; 1988, c. 603.</p>

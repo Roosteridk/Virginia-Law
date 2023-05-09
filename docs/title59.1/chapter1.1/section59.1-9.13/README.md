@@ -1,3 +1,0 @@
-# § 59.1-9.13 Effect of conviction in other proceedings.
-
-<p>A final judgment or decree to the effect that a defendant has violated this chapter, other than a consent judgment or decree entered before any testimony has been taken, in an action or proceeding brought under § <a href='http://law.lis.virginia.gov/vacode/59.1-9.15/'>59.1-9.15</a> (a) is prima facie evidence against that defendant in any other action or proceeding against him brought under § <a href='http://law.lis.virginia.gov/vacode/59.1-9.12/'>59.1-9.12</a> or § <a href='http://law.lis.virginia.gov/vacode/59.1-9.15/'>59.1-9.15</a> (b) as to all matters with respect to which the judgment or decree would be an estoppel between the parties thereto.</p><p>1974, c. 545.</p>

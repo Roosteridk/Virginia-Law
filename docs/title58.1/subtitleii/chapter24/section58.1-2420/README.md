@@ -1,3 +1,0 @@
-# § 58.1-2420 Examination of dealer's records, etc.
-
-<p>The Commissioner or any agent authorized by him may examine during the usual business hours all records, books, papers or other documents of any dealer in motor vehicles relating to the sales price of any motor vehicle to verify the truth and accuracy of any statement or any other information as to a particular sale.</p><p>Code 1950, § 58-685.18; 1966, c. 587; 1974, c. 477; 1984, c. 675; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0405'>405</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0639'>639</a>.</p>

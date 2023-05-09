@@ -1,3 +1,0 @@
-# § 3.2-2108 Persons eligible to vote.
-
-<p>Each member of the Virginia sheep industry who has sold one or more sheep or 50 or more pounds of wool within the Commonwealth in the year preceding any referendum shall be eligible to vote in the referendum, provided that he certifies that he has conducted such sale. Any person who meets the requirements of this section shall be eligible to vote provided that they are a resident of the Commonwealth or qualified to do business in the Commonwealth. Any person who is not an individual shall vote by its authorized representative.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0691'>691</a>, § 3.1-1067; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

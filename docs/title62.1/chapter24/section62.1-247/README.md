@@ -1,3 +1,0 @@
-# § 62.1-247 Use of surface water in surface water management area.
-
-<p>After an area has been declared a surface water management area by an order of the Board, no person shall withdraw or attempt to withdraw any surface water, except for withdrawals exempted under § <a href='http://law.lis.virginia.gov/vacode/62.1-243/'>62.1-243</a> or made pursuant to a voluntary agreement approved by the Board pursuant to § <a href='http://law.lis.virginia.gov/vacode/62.1-245/'>62.1-245</a>, without a surface water withdrawal permit issued by the Board.</p><p>1989, c. 721; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0561'>561</a>.</p>

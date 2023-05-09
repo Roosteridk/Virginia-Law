@@ -1,3 +1,0 @@
-# § 46.2-916 Ordinances providing for the disposition of unregistered or unlicensed motorcycles.
-
-<p>The governing bodies of counties, cities, and towns may by ordinance provide for the lawful seizure, impounding and disposition of unlicensed or unregistered motorcycles operated either on the highways or on private property without the consent of the private property owner.</p><p>1974, c. 540; 1978, c. 17, § 46.1-229.3; 1989, c. 727.</p>

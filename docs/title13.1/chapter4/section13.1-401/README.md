@@ -1,3 +1,0 @@
-# §§ 13.1-401 through 13.1-423 Repealed.
-
-<p>Repealed by Acts 1964, c. 219.</p>

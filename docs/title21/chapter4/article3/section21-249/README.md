@@ -1,3 +1,0 @@
-# § 21-249 Relief from pollution to be purpose of commission.
-
-<p>The purposes of every commission shall be the relief of the waters of the district from pollution and the consequent improvement of conditions affecting the public health.</p><p>1946, p. 353; Michie Suppl. 1946, § 1560iii6.</p>

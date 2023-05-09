@@ -1,3 +1,0 @@
-# § 28.2-512 Interfering with oyster inspections; penalty.
-
-<p>It is unlawful for any person possessing unshucked oysters to (i) resist or interfere with an officer while he examines oysters suspected of being unculled or (ii) refuse to admit an officer to a boat or oyster house for the purpose of such inspection.</p><p>A violation of this section is a Class 1 misdemeanor.</p><p>Code 1950, § 28-146; 1962, c. 406, § 28.1-127; 1985, c. 125; 1992, c. 836.</p>

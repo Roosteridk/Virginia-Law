@@ -1,3 +1,0 @@
-# § 2.2-2490 Audit.
-
-<p>The accounts of the Board shall be audited by the Auditor of Public Accounts or his legally authorized representatives as determined necessary by the Auditor of Public Accounts. Copies of the audit shall be distributed to the Governor and to the Chairmen of the House Committee on Appropriations and the Senate Committee on Finance and Appropriations.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0778'>778</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0779'>779</a>; 2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0057'>57</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0307'>307</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-968.01 Parking in certain residential areas.
-
-<p>Notwithstanding any other provision of general law, localities may by ordinance permit the parking of vehicles within residential areas in a public right-of-way that constitutes a part of the state highway system so long as the vehicle does not obstruct the right-of-way.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0233'>233</a>.</p>

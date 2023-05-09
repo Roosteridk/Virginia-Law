@@ -1,3 +1,0 @@
-# § 46.2-1573.15 Exemption of franchises from Retail Franchising Act.
-
-<p>Franchises subject to the provisions of this chapter shall not be subject to any requirement contained in Chapter 8 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-557/'>13.1-557</a> et seq.) of Title 13.1.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP1043'>1043</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP1052'>1052</a>, § 46.2-1992.67; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0615'>615</a>.</p>

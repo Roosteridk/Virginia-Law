@@ -1,3 +1,0 @@
-# § 10.1-1424.1 Material containing fully halogenated chloro-fluorocarbons prohibited; penalty.
-
-<p>A. On and after January 1, 1992, it shall be unlawful for any distributor or manufacturer knowingly to sell or offer for sale, for purposes of resale, any packaging materials that contain fully halogenated chloro-fluorocarbons as a blowing or expansion agent.</p><p>B. Any person convicted of a violation of the provisions of this section shall be guilty of a Class 3 misdemeanor.</p><p>1991, c. 101.</p>

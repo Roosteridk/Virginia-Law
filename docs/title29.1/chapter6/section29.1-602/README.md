@@ -1,3 +1,0 @@
-# § 29.1-602 Applicant to develop land, release game and comply with other provisions.
-
-<p>The applicant shall (i) develop the lands to be licensed as a shooting preserve so as to meet such requirements as the Board may make, (ii) release game birds and animals as may be designated by the Board, and (iii) comply with such other provisions as the Board deems advisable.</p><p>Code 1950, § 29-40; 1987, c. 488.</p>

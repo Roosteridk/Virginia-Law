@@ -1,3 +1,0 @@
-# § 19.2-3 Certain notices, recognizances and processes validated.
-
-<p>Any notice given, recognizance taken, or process or writ issued before October 1, 1975, shall be valid although given, taken or to be returned to a day after such date, in like manner as if this title had been effective before the same was given, taken or issued.</p><p>1975, c. 495.</p>

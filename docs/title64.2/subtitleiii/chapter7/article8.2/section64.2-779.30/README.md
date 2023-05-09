@@ -1,3 +1,0 @@
-# § 64.2-779.30 Limitations on trust director.
-
-<p>A trust director is subject to the same rules as a trustee in a like position and under similar circumstances in the exercise or nonexercise of a power of direction or further power under subdivision B 1 of § <a href='/vacode/64.2-779.29/'>64.2-779.29</a> regarding:</p><p>1. A payback provision in the terms of a trust necessary to comply with the reimbursement requirements of Medicaid law in § 1917 of the Social Security Act, 42 U.S.C. § 1396p(d)(4)(A), as amended; and</p><p>2. A charitable interest in the trust, including notice regarding the interest to the Attorney General.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0768'>768</a>.</p>

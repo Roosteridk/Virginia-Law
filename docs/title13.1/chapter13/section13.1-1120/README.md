@@ -1,3 +1,0 @@
-# § 13.1-1120 Income and property taxes.
-
-<p>All professional limited liability companies organized or qualifying under the provisions of this chapter shall be treated for income tax purposes under the provisions of Chapter 3 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-300/'>58.1-300</a> et seq.) of Title 58.1 in the manner determined under § <a href='http://law.lis.virginia.gov/vacode/58.1-301/'>58.1-301</a>, and property owned by professional limited liability companies shall be taxed in the actual form in which it may exist and not as capital.</p><p>1992, c. 574.</p>

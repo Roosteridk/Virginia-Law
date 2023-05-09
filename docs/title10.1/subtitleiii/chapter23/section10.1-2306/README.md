@@ -1,3 +1,0 @@
-# § 10.1-2306 Violations; penalty.
-
-<p>A. It is unlawful to intentionally deface, damage, destroy, displace, disturb, or remove any object of antiquity on any designated state archaeological site, state-controlled land, or land owned by a battlefield preservation organization or on which such organization holds an easement.</p><p>B. A violation of this section is a Class 1 misdemeanor.</p><p>1977, c. 424, § 10-150.10; 1988, c. 891, § 10.1-906; 1989, c. 656; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0059'>59</a>.</p>

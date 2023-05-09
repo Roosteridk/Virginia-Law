@@ -1,3 +1,0 @@
-# § 54.1-3304 Licensing of physicians to dispense drugs; renewals.
-
-<p>For good cause shown, the Board may grant a license to any physician licensed under the laws of Virginia authorizing such physician to dispense drugs to persons to whom a pharmaceutical service is not reasonably available. This license may be renewed annually. Any physician or osteopath so licensed shall be governed by the regulations of the Board of Pharmacy when applicable.</p><p>1976, c. 614, § 54-524.34:1; 1980, c. 288; 1988, c. 765.</p>

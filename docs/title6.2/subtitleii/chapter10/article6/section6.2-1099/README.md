@@ -1,3 +1,0 @@
-# § 6.2-1099 Trust powers of state savings banks.
-
-<p>State savings banks, and their subsidiaries and affiliates, may exercise fiduciary powers in the same manner as associations pursuant to this article.</p><p>1991, c. 230, § 6.1-194.138; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

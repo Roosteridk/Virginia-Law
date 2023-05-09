@@ -1,3 +1,0 @@
-# § 22.1-328 Renewal of licenses.
-
-<p>The license of each school that continues to operate as such shall be renewed on or before the anniversary date set by the Department. Every license that has not been renewed in accordance with these provisions shall expire and a new license shall be obtained from the Board before such school may continue to operate, for which an original application must be submitted. The application shall be accompanied by such information deemed necessary by the Board.</p><p>Code 1950, § 22-330.26; 1970, c. 665; 1977, c. 444; 1980, c. 559; 1992, c. 666; 1993, c. 351; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0991'>991</a>.</p>

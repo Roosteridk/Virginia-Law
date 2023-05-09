@@ -1,3 +1,0 @@
-# § 56-117 Company to notify consignee of arrival of freight.
-
-<p>It shall be the duty of every railroad company, or carrier, upon the arrival of freight shipped to any of its depots or stations, to notify the consignee by mail, electronic data transfer, or otherwise when such freight is ready for delivery, and to give a reasonable time for the removal of the same, making due allowance for its class and bad weather and holidays.</p><p>Code 1919, § 3916; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0114'>114</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0157'>157</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-7425 Withdrawal of membership.
-
-<p>Any member jurisdiction may withdraw from membership in the Authority by resolution or ordinance of its governing body. However, no member jurisdiction shall be permitted to withdraw from the Authority after any obligation has been incurred except by unanimous vote of all member jurisdictions.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0471'>471</a>.</p>

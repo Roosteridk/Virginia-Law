@@ -1,3 +1,0 @@
-# § 24.2-200 When terms to begin.
-
-<p>The terms of all officers chosen at a November general election shall begin on the January 1 succeeding their election unless otherwise provided in this chapter. Notwithstanding any other provision of law, the terms of all officers elected at a May general election shall begin on the July 1 succeeding their election. They shall continue to discharge the duties of their respective offices until their successors qualify.</p><p>Code 1950, §§ 24-142, 24-169; 1970, c. 462, § 24.1-73; 1993, c. 641.</p>

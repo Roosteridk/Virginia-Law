@@ -1,3 +1,0 @@
-# § 18.2-323 Leaving disabled or dead animal in road, or allowing dead animal to remain unburied.
-
-<p>If any person cast any dead animal into a road or knowingly permit any dead animal to remain unburied upon his property when offensive to the public or, having in custody any maimed, diseased, disabled or infirm animal, leave it to lie or be in a street, road or public place, he shall be guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 32-70.1; 1958, c. 548; 1970, c. 72; 1975, cc. 14, 15.</p>

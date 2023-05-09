@@ -1,3 +1,0 @@
-# § 3.2-3804 Inspection certificate required to transport nursery stock.
-
-<p>A. It is unlawful to knowingly deliver, send, ship, or transport nursery stock within or into the Commonwealth without an inspection certificate clearly attached to each carload, truckload, box, bale, or package.</p><p>B. Nursery stock brought into the Commonwealth under an inspection certificate may be sold and moved by a licensed nurseryman or dealer or agent, but this shall not preclude inspection at any time within the Commonwealth.</p><p>Code 1950, § 3-178.11; 1964, c. 476; 1966, c. 702, § 3.1-145; 1980, c. 291, § 3.1-188.38; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

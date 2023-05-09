@@ -1,3 +1,0 @@
-# § 46.2-304 Limited operation of farm tractor by persons convicted of driving under influence of intoxicants or drugs.
-
-<p>The conviction of a person for driving under the influence of intoxicants or some other self-administered drug in violation of any state law or local ordinance shall not prohibit the person from operating a farm tractor on the highways when it is necessary to move the tractor from one tract of land used for agricultural purposes to another tract of land used for the same purposes, provided that the distance between the said tracts of land does not exceed five miles.</p><p>1958, c. 489, § 46.1-352.1; 1989, c. 727.</p>

@@ -1,3 +1,0 @@
-# § 33.2-207 Bookkeeping system.
-
-<p>The chairman of the Board shall, with the aid and advice of the Auditor of Public Accounts, cause to be maintained a complete and modern system of bookkeeping for the Department, and the books to be kept by the Department shall show in detail all receipts and disbursements of the Department, the source of such receipts, and the purpose, amount, and recipient of all disbursements.</p><p>Code 1950, § 33-14; 1970, c. 322, § 33.1-14; 1974, c. 462; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

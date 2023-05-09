@@ -1,3 +1,0 @@
-# § 18.2-152.15 Encryption used in criminal activity.
-
-<p>Any person who willfully uses encryption to further any criminal activity shall be guilty of an offense which is separate and distinct from the predicate criminal activity and punishable as a Class 1 misdemeanor.</p><p>"Encryption" means the enciphering of intelligible data into unintelligible form or the deciphering of unintelligible data into intelligible form.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0455'>455</a>.</p>

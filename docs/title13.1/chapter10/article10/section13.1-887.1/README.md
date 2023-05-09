@@ -1,3 +1,0 @@
-# § 13.1-887.1 Amendment prior to organization.
-
-<p>When a corporation has not yet completed its organization, its board of directors or incorporators, in the event that there is no board of directors, may adopt one or more amendments to the corporation's articles of incorporation.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0607'>607</a>; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0925'>925</a>.</p>

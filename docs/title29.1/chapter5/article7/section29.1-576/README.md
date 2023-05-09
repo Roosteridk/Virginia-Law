@@ -1,3 +1,0 @@
-# § 29.1-576 Authority for inspection; warrants.
-
-<p>To carry out the purposes of this article, the Director may obtain a warrant pursuant to § <a href='http://law.lis.virginia.gov/vacode/19.2-52/'>19.2-52</a>, or with the consent of the owner enter upon and conduct reasonable inspections of any property in the Commonwealth to determine if a nonindigenous aquatic nuisance species is present and to seize or eradicate any nonindigenous aquatic nuisance species found on such property.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0446'>446</a>.</p>

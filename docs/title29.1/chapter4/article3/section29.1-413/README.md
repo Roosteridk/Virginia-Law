@@ -1,3 +1,0 @@
-# § 29.1-413 Issuance discretionary, duration.
-
-<p>The issuance of all of the permits provided by this article shall be within the discretion of the Board, under regulations it may prescribe, and contingent on reports as it may require. The Board is authorized to establish a starting and ending date for each type of permit issued under this article and the number of years for which each type of permit may be issued.</p><p>Code 1950, §§ 29-104, 29-105; 1987, c. 488; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0057'>57</a>.</p>

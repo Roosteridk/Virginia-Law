@@ -1,3 +1,0 @@
-# § 22.1-105 Same; conduct of referendum; certification of results.
-
-<p>On the day named in the order the election officials of the county shall open a poll and take the sense of the voters upon the question set forth in the order. The referendum shall be conducted in accordance with §§ <a href='http://law.lis.virginia.gov/vacode/24.2-682/'>24.2-682</a> and <a href='http://law.lis.virginia.gov/vacode/24.2-684/'>24.2-684</a> and the results thereof ascertained and certified in accordance therewith.</p><p>Code 1950, § 22-130.3; 1958, cc. 45, 632; 1975, c. 517; 1980, c. 559.</p>

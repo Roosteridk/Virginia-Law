@@ -1,3 +1,0 @@
-# § 19.2-18 Powers and duties generally.
-
-<p>Every conservator of the peace shall have authority to arrest without a warrant in such instances as are set out in §§ <a href='http://law.lis.virginia.gov/vacode/19.2-19/'>19.2-19</a> and <a href='http://law.lis.virginia.gov/vacode/19.2-81/'>19.2-81</a>. Upon making an arrest without a warrant, the conservator of the peace shall proceed in accordance with the provisions of § <a href='http://law.lis.virginia.gov/vacode/19.2-22/'>19.2-22</a> or § <a href='http://law.lis.virginia.gov/vacode/19.2-82/'>19.2-82</a> as the case may be.</p><p>Code 1950, § 19.1-20; 1960, c. 366; 1968, c. 639; 1972, c. 549; 1975, c. 495.</p>

@@ -1,3 +1,0 @@
-# § 54.1-1104 Register of applicants.
-
-<p>The Director shall keep a register of all applicants showing their date of application, name, qualifications, place of business, place of residence, and whether such application was approved or refused. The books and register of the Board shall be prima facie evidence of all matters recorded therein.</p><p>Code 1950, § 54-125; 1977, c. 640; 1980, c. 634; 1988, c. 765.</p>

@@ -1,3 +1,0 @@
-# § 53.1-4 Meetings; quorum; officers; main office.
-
-<p>The Board shall meet at least six times each calendar year and at other times as it deems appropriate. Five members of the Board shall constitute a quorum. The Board shall select a chairman and secretary from its membership. The main office of the Board shall be in Richmond.</p><p>Code 1950, §§ 53-19.25, 53-19.29, 53-19.30, 53-19.31; 1974, cc. 44, 45; 1982, c. 636.</p>

@@ -1,3 +1,0 @@
-# § 21-333 Assessment of damages.
-
-<p>It shall be the further duty of the board of viewers to assess the damages claimed by anyone that are justly right and due him for land taken or for inconvenience imposed because of the construction of the improvement or for any other legal damages sustained. Such damage shall be considered separate and apart from any benefit the land would receive because of the proposed work.</p><p>Code 1919, § 1751.</p>

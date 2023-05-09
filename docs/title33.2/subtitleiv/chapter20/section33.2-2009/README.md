@@ -1,3 +1,0 @@
-# § 33.2-2009 Reimbursement for advances to district.
-
-<p>To the extent that a locality or town has made advances to the district, the commission shall direct the district treasurer to reimburse the locality or town from any district funds not otherwise specifically allocated or obligated.</p><p>1993, c. 395, § 33.1-419; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

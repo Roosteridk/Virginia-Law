@@ -1,3 +1,0 @@
-# § 15.2-2709 Group self-insurance pool not an insurer.
-
-<p>Any group self-insurance pool organized pursuant to this chapter is not an insurance company or insurer under the laws of the Commonwealth. The development, administration, and provision of group self-insurance programs and coverages authorized by this chapter by the governing authority created to administer the pool does not constitute doing an insurance business.</p><p>However, a group self-insurance pool shall be subject to the provisions of Chapters 5, Unfair Trade Practices and 6, Insurance Information and Privacy Protection Act of Title 38.2.</p><p>1986, cc. 520, 556, § 15.1-503.4:9; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 46.2-1418 No limitation on other authority.
-
-<p>The requirements imposed on shared vehicle owners and peer-to-peer vehicle sharing platforms shall not limit any other state or local taxing, zoning, or other regulatory authority from applying any measure applicable to any other business on a shared vehicle owner or peer-to-peer vehicle sharing platform.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1266'>1266</a>.</p>

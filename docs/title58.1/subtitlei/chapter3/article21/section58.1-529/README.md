@@ -1,3 +1,0 @@
-# § 58.1-529 Notice of final setoff.
-
-<p>Upon the finalization of setoff under the provisions of this article, the Department shall notify the debtor in writing of the action taken along with an accounting of the action taken on any refund. If there is an outstanding balance after setoff, the notice under this section shall accompany the balance when disbursed.</p><p>Code 1950, § 58-19.16; 1981, c. 408; 1984, c. 675.</p>

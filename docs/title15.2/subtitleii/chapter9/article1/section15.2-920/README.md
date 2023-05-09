@@ -1,3 +1,0 @@
-# § 15.2-920 Regulation of outdoor lighting near certain facilities.
-
-<p>In addition to any other authority granted to localities by law, any locality may by ordinance regulate outdoor lighting within an area one-half mile around planetariums, astronomical observatories and meteorological laboratories. This section shall not be construed to affect any ordinance heretofore adopted by a locality.</p><p>1980, c. 512, § 15.1-29.8; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 30-59.1 State agency defined.
-
-<p>For the purposes of §§ <a href='http://law.lis.virginia.gov/vacode/30-58.1/'>30-58.1</a> and <a href='http://law.lis.virginia.gov/vacode/30-59/'>30-59</a>, the terms "state agency," "state agencies," "agency," and "agencies" shall mean all executive, judicial, and legislative entities of the Commonwealth as well as all constitutionally or statutorily created state entities.</p><p>1979, c. 731.</p>

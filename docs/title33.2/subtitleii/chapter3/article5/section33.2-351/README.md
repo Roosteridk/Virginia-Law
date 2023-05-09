@@ -1,3 +1,0 @@
-# § 33.2-351 Definition of "allocation.".
-
-<p>For the purposes of this article, "allocation" means a commitment to expend funds available for construction during each fiscal year. Funds that cannot be expended as allocated within each fiscal year shall be identified as part of future commitments, and the reason for the failure to spend allocations shall be specifically included in the annual construction improvement program.</p><p>1982, c. 418, § 33.1-23.01; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

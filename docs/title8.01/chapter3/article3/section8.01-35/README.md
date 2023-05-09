@@ -1,3 +1,0 @@
-# § 8.01-35 Damages for loss of income not diminished by reimbursement.
-
-<p>In any suit brought for personal injury or death, provable damages for loss of income due to such injury or death shall not be diminished because of reimbursement of income to the plaintiff or decedent from any other source, nor shall the fact of any such reimbursement be admitted into evidence.</p><p>Code 1950, § 8-628.3; 1974, c. 155; 1977, c. 617.</p>

@@ -1,3 +1,0 @@
-# § 22.1-95 Duty to levy school tax.
-
-<p>Each county, city and town is authorized, directed and required to raise money by a tax on all property subject to local taxation at such rate as will insure a sum which, together with other available funds, will provide that portion of the cost apportioned to such county, city or town by law for maintaining an educational program meeting the standards of quality for the several school divisions prescribed as provided by law.</p><p>Code 1950, § 22-126.1; 1971, Ex. Sess., c. 162; 1980, c. 559.</p>

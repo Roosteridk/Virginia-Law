@@ -1,3 +1,0 @@
-# § 13.1-1038 Nature of interest in limited liability company.
-
-<p>A membership interest in a limited liability company is personal property. The only transferable interest of a member in the limited liability company is the member's share of the profits and losses of the limited liability company and the member's right to receive distributions.</p><p>1991, c. 168; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0912'>912</a>.</p>

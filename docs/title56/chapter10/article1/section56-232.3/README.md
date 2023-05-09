@@ -1,3 +1,0 @@
-# § 56-232.3 Regulation of service by certain gas distribution companies to federal, state and local governmental facilities.
-
-<p>Notwithstanding the provisions of &sect; <a href="http://law.lis.virginia.gov/vacode/56-232/">56-232</a>, the Commission shall regulate, to the same extent as it regulates other public utility service, the utility service furnished to any federal, state or local governmental facility by a natural gas distribution company for which a service area has been determined by the Federal Energy Regulatory Commission, or its predecessor, under Section 717(f)(1) of the Natural Gas Act, 15 U.S.C. &sect; 717(f)(1).</p>  <p>1995, c. <a href="http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0454">454</a>.</p>

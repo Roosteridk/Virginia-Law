@@ -1,3 +1,0 @@
-# § 30-409  (Expires July 1, 2025) School Health Services Committee; purpose.
-
-<p>The School Health Services Committee (the Committee) is established in the legislative branch of state government. The purpose of the Committee is to review and provide advice to the General Assembly and other policy makers regarding proposals that require local school boards to offer certain health services in a school setting. The Committee shall submit its findings and recommendations to the General Assembly and the Governor by October 1 of each year.</p><p>2022, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0707'>707</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0749'>749</a>.</p>

@@ -1,3 +1,0 @@
-# § 33.2-700 Transfer of highways, etc., from secondary state highway system to local authorities.
-
-<p>Whenever any town has a population of more than 3,500 inhabitants, all the streets, highways, causeways, bridges, landings, and wharves in such town that were incorporated within the secondary state highway system shall be eliminated from such system and the control and jurisdiction over them shall be vested in the local authorities. This section shall in no way affect the rights of such towns to receive the benefits provided elsewhere in this title.</p><p>Code 1950, § 33-137; 1970, c. 322, § 33.1-224; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

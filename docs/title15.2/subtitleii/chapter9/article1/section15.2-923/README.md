@@ -1,3 +1,0 @@
-# § 15.2-923 Local water-saving ordinances.
-
-<p>Notwithstanding any contrary provision of law, as shall be necessary to protect the public health, safety and welfare, any locality may by ordinance (i) require the installation of water conservation devices in the case of the retrofitting of buildings constructed prior to July 1, 1978, and (ii) restrict the nonessential use of ground water during declared water shortages or water emergencies.</p><p>For purposes of this section "nonessential use" shall not include agricultural use.</p><p>1978, c. 469, § 15.1-37.2:1; 1992, c. 589; 1997, c. 587; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0402'>402</a>.</p>

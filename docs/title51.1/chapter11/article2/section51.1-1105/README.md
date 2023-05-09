@@ -1,3 +1,0 @@
-# § 51.1-1105 Use of sick leave by participating employees.
-
-<p>Participating employees shall be eligible to take sick leave to account for absences due to an incident, illness, or injury for periods when disability benefits are not payable. Participating employees shall be compensated by their employers at 100 percent of creditable compensation for each hour of sick leave taken, not to exceed the employee's sick leave balance.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0774'>774</a>; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0144'>144</a>; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0889'>889</a>.</p>

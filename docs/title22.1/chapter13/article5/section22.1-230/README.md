@@ -1,3 +1,0 @@
-# § 22.1-230 Approval of corporation's articles and bylaws.
-
-<p>No school board shall contract with a corporation for establishment of a career and technical education project unless its articles of incorporation and bylaws have been approved by the Board of Education.</p><p>Code 1950, § 22-330.39; 1974, c. 336; 1980, c. 559; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0483'>483</a>.</p>

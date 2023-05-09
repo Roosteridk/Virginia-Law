@@ -1,3 +1,0 @@
-# § 56-3 Expenses prior to organization.
-
-<p>The expenses incurred prior to the organization of any public service corporation, for preliminary surveys, or for stationery or advertising, or any other necessary matter or thing, may, if deemed reasonable by the president and directors, be paid by their order.</p><p>Code 1919, § 3901.</p>

@@ -1,3 +1,0 @@
-# § 42.1-97 Annual report.
-
-<p>The Librarian of Virginia shall report annually to the Governor and the chairmen of the House and Senate Committees on General Laws, the House Committee on Appropriations, and the Senate Committee on Finance and Appropriations of the General Assembly, indicating which, if any, state agencies did not furnish or otherwise make available copies of their publications or other information required under this chapter, and which, if any, local or regional agencies did not provide access to publications upon request. Such report shall be filed no later than November 1 of each year.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0059'>59</a>.</p>

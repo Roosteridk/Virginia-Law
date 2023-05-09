@@ -1,3 +1,0 @@
-# § 17.1-250 Correction of indexes.
-
-<p>No clerk or deputy clerk of any court in which deeds are recorded shall correct any indexing mistake by insertion, or alter or reprint the page, unless, at the time of such insertion, alteration or reprinting, he (i) notes the date and nature of the change in the index or (ii) by any other means capable of maintaining a permanent record of the change together with the original recording, indicates the date and nature of the change and the name of the person who made it.</p><p>1966, c. 403, § 17-79.1; 1991, c. 652; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0330'>330</a>.</p>

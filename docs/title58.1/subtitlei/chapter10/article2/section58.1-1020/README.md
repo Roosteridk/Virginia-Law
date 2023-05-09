@@ -1,3 +1,0 @@
-# § 58.1-1020 Assessment of tax by Department.
-
-<p>In case any person subject to the tax imposed by this article fails to make such a return, or makes an incorrect return, the Department, from the best information available to it, shall assess the amount of tax due from such person and mail notice thereof to the taxpayer. Collection of such assessment may be enforced by legal process.</p><p>Code 1950, § 58-757.21; 1960, c. 392, § 21; 1984, c. 675.</p>

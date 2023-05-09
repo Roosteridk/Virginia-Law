@@ -1,3 +1,0 @@
-# § 45.2-855  Noise levels and ear protection.
-
-<p>Each mine operator shall provide approved hearing protection to miners. Every miner shall wear approved hearing protection in any area of excess noise levels in accordance with the mine's hearing conservation program approved under 30 C.F.R. Part 62.</p><p>1978, c. 729, § 45.1-99.1; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.176; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0003'>3</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-984 Adoption of flood plain ordinances.
-
-<p>Any locality may by ordinance regulate the activity on, use of, or development of a flood plain in a manner consistent with any state or federal flood plain management programs and requirements. Nothing in this section shall be construed to limit a locality's authority to regulate a flood plain pursuant to § <a href='/vacode/15.2-2283/'>15.2-2283</a> or any other provision of law.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0166'>166</a>.</p>

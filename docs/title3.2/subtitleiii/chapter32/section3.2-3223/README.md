@@ -1,3 +1,0 @@
-# § 3.2-3223 Marketing agreements not deemed monopolistic or in restraint of trade.
-
-<p>The making of marketing agreements between producers' cooperative marketing associations and distributors and producer-distributors under the provisions of this chapter shall not be deemed a combination in restraint of trade or an illegal monopoly; or an attempt to lessen competition or fix prices arbitrarily, nor shall the marketing contract or agreements between the association and the distributors and producer-distributors, or any agreements authorized in this chapter, be considered illegal or in restraint of trade.</p><p>Code 1950, § 3-382; 1966, c. 702, § 3.1-461; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

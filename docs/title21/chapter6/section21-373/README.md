@@ -1,3 +1,0 @@
-# § 21-373 Disposition of rolls.
-
-<p>One copy of each of the assessment rolls shall be filed with the drainage record and one copy shall be delivered to the county treasurer, or treasurers of the county or counties in which the lands are located, after the clerk of the circuit court in which the petition was filed has appended thereto an order directing the collection of the assessments, and the clerk is authorized and directed to make and append such order.</p><p>Code 1919, § 1771; 1920, p. 611; 1924, p. 711; 1926, p. 620; 1936, p. 1035.</p>

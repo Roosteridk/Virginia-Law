@@ -1,3 +1,0 @@
-# § 1-600 Virginia coordinate systems designated.
-
-<p>The systems of plane coordinates that have been established by the National Ocean Service/National Geodetic Survey or its successors for defining and stating the positions or locations of points on the surface of the earth within the Commonwealth are to be known and designated as the "Virginia Coordinate System of 1927" and the "Virginia Coordinate System of 1983."</p><p>1946, p. 166; Michie Suppl. 1946, § 2849(1); Code 1950, § 55-287; 1984, c. 726; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

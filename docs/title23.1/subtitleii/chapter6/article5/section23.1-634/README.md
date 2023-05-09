@@ -1,3 +1,0 @@
-# § 23.1-634 Prompt crediting and expeditious refunding of funds.
-
-<p>Each eligible institution acting as an agent for students receiving grants under the Program shall promptly credit disbursed funds to student accounts following the institution's verification of student eligibility and expeditiously distribute any refunds due recipients.</p><p>1985, c. 359, § 23-38.17:1; 2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0094'>94</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0660'>660</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0314'>314</a>.</p>

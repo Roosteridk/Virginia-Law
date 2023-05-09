@@ -1,3 +1,0 @@
-# § 63.2-1949 Authority of city, county, or attorney for the Commonwealth to represent the Department.
-
-<p>In order to carry out the responsibilities of the Department imposed under this chapter, any city or county attorney is authorized to represent the Department in any civil proceeding necessary for the establishment, modification, enforcement, or collection of support obligations and any attorney for the Commonwealth is authorized to represent the Department in any civil or criminal proceeding necessary for the establishment, modification, enforcement, or collection of support obligations.</p><p>1988, c. 906, § 63.1-274.4; 1990, c. 85; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

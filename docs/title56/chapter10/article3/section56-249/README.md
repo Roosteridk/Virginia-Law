@@ -1,3 +1,0 @@
-# § 56-249 Reports by utilities.
-
-<p>The Commission, with or without an investigation, may require any public utility to furnish to it in such form, at such times, and in such detail as the Commission shall require, such accounts, reports and other information of whatsoever kind or character as it may deem proper and in such form and detail as it may prescribe, in order to show completely the entire operation of the public utility in furnishing the unit of its product or service to the public.</p><p>Code 1919, § 4070.</p>

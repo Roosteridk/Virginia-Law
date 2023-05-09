@@ -1,3 +1,0 @@
-# § 8.7-205 Title under warehouse receipt defeated in certain cases.
-
-<p>A buyer in the ordinary course of business of fungible goods sold and delivered by a warehouseman who is also in the business of buying and selling such goods takes the goods free of any claim under a warehouse receipt even though the receipt is negotiable and has been duly negotiated.</p><p>1964, c. 219; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0200'>200</a>.</p>

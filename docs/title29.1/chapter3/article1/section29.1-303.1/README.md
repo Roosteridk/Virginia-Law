@@ -1,3 +1,0 @@
-# § 29.1-303.1 Trip hunting licenses.
-
-<p>Nonresidents or residents of the Commonwealth may purchase a trip hunting license in lieu of the hunting license required by § <a href='/vacode/29.1-303/'>29.1-303</a>. The duration for which the license shall be valid shall be established by the Board. The fee for the trip hunting license shall be established by the Board and may be revised pursuant to § <a href='/vacode/29.1-103/'>29.1-103</a>.</p><p>1988, c. 250; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0120'>120</a>; 2009, c. 9; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0351'>351</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0147'>147</a>.</p>

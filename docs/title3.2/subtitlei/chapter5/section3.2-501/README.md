@@ -1,3 +1,0 @@
-# § 3.2-501 Declaration by Governor.
-
-<p>The provisions of this chapter shall be effective from the time that the Governor makes a request pursuant to Section 301 of Public Law 93-288, 42 U.S.C. § 5141, until the Governor declares that the effects of the disaster have been abated.</p><p>1978, c. 837, § 3.1-22.16; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

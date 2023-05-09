@@ -1,3 +1,0 @@
-# § 64.2-717 Representation by person having substantially identical interest.
-
-<p>Unless otherwise represented, a minor, incapacitated, or unborn individual, or a person whose identity or location is unknown and not reasonably ascertainable, may be represented by and bound by another having a substantially identical interest with respect to the particular question or dispute, but only to the extent there is no conflict of interest with respect to the particular question or dispute between the representative and the person represented.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-543.04; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,3 +1,0 @@
-# § 24.2-673 Candidates having highest number of votes to receive certificate of election.
-
-<p>Except in the case of a recount pursuant to the provisions of Chapter 8 (§ <a href='http://law.lis.virginia.gov/vacode/24.2-800/'>24.2-800</a> et seq.) of this title, in all elections for the choice of any officer, unless it is otherwise expressly provided, the person having the highest number of votes for any office shall be deemed to have been elected to such office and shall receive the certificate of election.</p><p>Code 1950, § 24-276; 1970, c. 462, § 24.1-148; 1993, c. 641.</p>

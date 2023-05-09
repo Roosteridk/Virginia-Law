@@ -1,3 +1,0 @@
-# § 20-94 Effect of cohabitation after knowledge of adultery, sodomy or buggery; lapse of five years.
-
-<p>When the suit is for divorce for adultery, sodomy, or buggery, the divorce shall not be granted, if it appear that the parties voluntarily cohabited after the knowledge of the fact of adultery, sodomy or buggery, or that it occurred more than five years before the institution of the suit, or that it was committed by the procurement or connivance of the party alleging such act.</p><p>Code 1919, § 5110; 1975, c. 644.</p>

@@ -1,3 +1,0 @@
-# § 53.1-163 Parolee considered as escapee after issuance of warrant.
-
-<p>Any parolee for whose arrest a warrant has been issued by the Board or by the Chairman shall after the issuance of the warrant be treated as an escaped prisoner. The time from the issuing of such warrant to the date of his arrest shall not be counted as any part of the time to be served under his sentence.</p><p>Code 1950, § 53-260; 1970, c. 648; 1973, c. 253; 1982, c. 636.</p>

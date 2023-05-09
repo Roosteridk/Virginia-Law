@@ -1,3 +1,0 @@
-# § 3.2-2308 Persons eligible to vote.
-
-<p>Each producer who sold soybeans during the past three years next preceding the date of the referendum held pursuant to this chapter shall be eligible to vote in such referendum, provided that he shall so certify on forms that shall be prepared by the Board. Any person meeting such requirements shall be eligible to vote in the referendum, but no person shall be required to be a qualified voter in other respects.</p><p>1970, c. 431, § 3.1-684.5; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

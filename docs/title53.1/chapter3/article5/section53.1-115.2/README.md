@@ -1,3 +1,0 @@
-# § 53.1-115.2 Establishment of stores in regional jails and regional jail farms.
-
-<p>The superintendent of a regional jail or regional jail farm may, with the approval of the governing regional jail or jail farm board or jail authority, provide for the establishment and operation of stores or commissaries in regional jail or regional jail farm facilities to deal in such articles as he deems proper. The net profits from the operation of such stores shall be used within each facility respectively for educational, recreational, or other beneficial purposes as may be prescribed by the superintendent.</p><p>1992, c. 185.</p>

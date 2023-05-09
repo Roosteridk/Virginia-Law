@@ -1,3 +1,0 @@
-# § 52-25 Uniform crime reporting system established.
-
-<p>The Superintendent shall establish, organize, equip, staff and maintain within the Department of State Police, at such departmental locations as the Superintendent may direct, a uniform crime reporting system for the purpose of receiving, compiling, classifying, analyzing and publishing crime statistics of offenses known, persons arrested, and persons charged and other information pertaining to the investigation of crime and the apprehension of criminals, as hereinafter provided. The Superintendent shall appoint or designate necessary personnel to carry out the duties and assignments in accordance with rules and regulations pertaining thereto promulgated by the Superintendent.</p><p>1974, c. 577.</p>

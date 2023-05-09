@@ -1,3 +1,0 @@
-# § 3.2-5704 Registration fee.
-
-<p>Except as otherwise provided by § <a href='http://law.lis.virginia.gov/vacode/3.2-5705/'>3.2-5705</a>, each service agency shall pay annually a registration fee of $100. All fees collected pursuant to this section shall be deposited in the state treasury and credited to the Weights and Measures Fund, established by § <a href='http://law.lis.virginia.gov/vacode/3.2-5628/'>3.2-5628</a>.</p><p>1992, c. 242, § 3.1-969.5; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

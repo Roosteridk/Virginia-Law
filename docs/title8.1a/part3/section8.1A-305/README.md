@@ -1,3 +1,0 @@
-# § 8.1A-305 Remedies to be liberally administered.
-
-<p>(a) The remedies provided by the Uniform Commercial Code shall be liberally administered to the end that the aggrieved party may be put in as good a position as if the other party had fully performed but neither consequential or special damages nor penal damages may be had except as specifically provided in the Uniform Commercial Code or by other rule of law.</p><p>(b) Any right or obligation declared by the Uniform Commercial Code is enforceable by action unless the provision declaring it specifies a different and limited effect.</p><p>1964, c. 219, § 8.1-106; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0353'>353</a>.</p>

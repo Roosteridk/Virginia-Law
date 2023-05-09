@@ -1,3 +1,0 @@
-# § 18.2-448 Certain matters not to constitute defenses.
-
-<p>It shall be no defense to any prosecution under § <a href='http://law.lis.virginia.gov/vacode/18.2-447/'>18.2-447</a> that a person whom the actor sought to influence was not qualified to act in the desired way, whether because he had not yet assumed office, or lacked jurisdiction, or for any other reason. Also it shall be no defense to a prosecution under § <a href='http://law.lis.virginia.gov/vacode/18.2-447/'>18.2-447</a> that a resident of this Commonwealth charged with committing an act of bribery was temporarily absent from this Commonwealth at the time such act was committed.</p><p>Code 1950, § 18.1-282.3; 1968, c. 552; 1975, cc. 14, 15.</p>

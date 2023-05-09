@@ -1,1 +1,0 @@
-# 7 EMPLANING SERVICE FEE [Repealed]

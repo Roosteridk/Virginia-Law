@@ -1,3 +1,0 @@
-# § 36-163 Sale of public land.
-
-<p>Upon designation of an area as a housing revitalization zone, the Commonwealth and any units of local government that own any land within the housing revitalization zone may make available for sale all land within the housing revitalization zone not designated or targeted for some public use with the condition that it be developed.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0789'>789</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0795'>795</a>.</p>

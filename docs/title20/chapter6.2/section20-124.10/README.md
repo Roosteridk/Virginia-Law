@@ -1,3 +1,0 @@
-# § 20-124.10 Contents of temporary custody or visitation order.
-
-<p>Any order entered pursuant to § <a href='http://law.lis.virginia.gov/vacode/20-124.8/'>20-124.8</a> shall provide that (i) the nondeploying parent or guardian shall reasonably accommodate the leave schedule of the deploying parent or guardian, (ii) the nondeploying parent shall facilitate opportunities for telephonic and electronic mail contact between the deploying parent or guardian and the child during the deployment period, and (iii) the deploying parent or guardian shall provide timely information regarding his leave schedule to the nondeploying parent or guardian.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0750'>750</a>.</p>

@@ -1,3 +1,0 @@
-# § 46.2-2058 When taxicab operator a self-insurer.
-
-<p>If the operator of any taxicab or other motor vehicle performing a taxicab service is a self-insurer under an ordinance of the city or county where the home office of the operator is located, such operator shall not be required to obtain and keep on file with the Department insurance as required by law.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

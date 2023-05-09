@@ -1,3 +1,0 @@
-# § 32.1-174 Revocation of permits.
-
-<p>The Commissioner may revoke any permit issued pursuant to this article whenever he determines that:</p><p>1. The waterworks can no longer be depended upon to furnish pure water;</p><p>2. The capacity of the waterworks is inadequate for the purpose of furnishing pure water;</p><p>3. The owner has failed to abide by an order issued by the Commissioner;</p><p>4. The owner has abandoned the waterworks and discontinued supplying pure water; or</p><p>5. The owner has failed to pay the waterworks operation fee required by § <a href='http://law.lis.virginia.gov/vacode/32.1-171.1/'>32.1-171.1</a>.</p><p>Code 1950, §§ 62.1-53, 62.1-55; 1964, c. 475; 1968, c. 659; 1977, c. 7; 1979, c. 711; 1992, c. 804.</p>

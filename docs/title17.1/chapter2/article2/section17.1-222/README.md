@@ -1,3 +1,0 @@
-# § 17.1-222 Failure to make report.
-
-<p>The Executive Secretary, at the direction of the Court, shall report every clerk who fails to make the report mentioned in § <a href='http://law.lis.virginia.gov/vacode/17.1-221/'>17.1-221</a> to the chief judge of the clerk's court.</p><p>Code 1919, § 3406, § 17-58; 1938, p. 130; 1964, c. 10; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

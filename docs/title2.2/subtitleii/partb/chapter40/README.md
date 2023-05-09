@@ -1,1 +1,0 @@
-# 40 Administrative Process Act

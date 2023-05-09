@@ -1,3 +1,0 @@
-# § 6.2-1037 Effect of surrender or revocation of certificate.
-
-<p>If a trust company surrenders its certificate or its certificate is revoked, the trust company, its assets, and the assets it holds in trust shall nevertheless continue to be subject to the provisions of this article, including the provisions of § <a href='http://law.lis.virginia.gov/vacode/6.2-1036/'>6.2-1036</a>.</p><p>1993, c. 432, § 6.1-32.29; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

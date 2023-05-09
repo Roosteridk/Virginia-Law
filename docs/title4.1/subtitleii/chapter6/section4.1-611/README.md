@@ -1,3 +1,0 @@
-# § 4.1-611 Seed-to-sale tracking system.
-
-<p>To ensure that no retail marijuana or retail marijuana products grown or processed by a marijuana establishment are sold or otherwise transferred except as authorized by law, the Board shall develop and maintain a seed-to-sale tracking system that tracks retail marijuana from either the seed or immature plant stage until the retail marijuana or retail marijuana product is sold to a customer at a retail marijuana store.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0550'>550</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0551'>551</a>.</p>

@@ -1,3 +1,0 @@
-# § 16.1-132 Right of appeal.
-
-<p>Any person convicted in a district court of an offense not felonious shall have the right, at any time within ten days from such conviction, and whether or not such conviction was upon a plea of guilty, to appeal to the circuit court. There shall also be an appeal of right from any order or judgment of a district court forfeiting any recognizance or revoking any suspension of sentence.</p><p>1956, c. 555.</p>

@@ -1,3 +1,0 @@
-# § 2.2-4351 Defect or impropriety in the invoice or goods and/or services received.
-
-<p>In instances where there is a defect or impropriety in an invoice or in the goods or services received, the state agency shall notify the supplier of the defect or impropriety, if the defect or impropriety would prevent payment by the payment date. The notice shall be sent within fifteen days after receipt of the invoice or the goods or services.</p><p>1984, c. 736, § 11-62.4; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

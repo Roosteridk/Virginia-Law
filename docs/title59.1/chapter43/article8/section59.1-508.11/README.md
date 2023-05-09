@@ -1,3 +1,0 @@
-# § 59.1-508.11 Specific performance.
-
-<p>(a) Specific performance may be ordered:</p><p>(1) if the agreement provides for that remedy, other than an obligation for the payment of money;</p><p>(2) if the contract was not for personal services and the agreed performance is unique; or</p><p>(3) in other proper circumstances.</p><p>(b) An order for specific performance may contain any conditions considered just and must provide adequate safeguards consistent with the contract to protect the confidentiality of information, information, and informational rights of both parties.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0101'>101</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0996'>996</a>.</p>

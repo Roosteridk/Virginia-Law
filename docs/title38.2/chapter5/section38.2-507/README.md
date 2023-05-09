@@ -1,3 +1,0 @@
-# § 38.2-507 Stock operations and advisory board contracts.
-
-<p>No person shall issue or deliver or permit agents, officers, or employees to issue or deliver capital stock, benefit certificates or shares in any corporation, securities, any special or advisory board contracts or any contract promising returns and profits as an inducement to insurance.</p><p>Code 1950, § 38.1-52; 1952, c. 317, § 38.1-52.6; 1977, c. 529; 1978, c. 441; 1979, c. 324; 1980, c. 404; 1986, c. 562.</p>

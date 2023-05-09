@@ -1,3 +1,0 @@
-# § 55.1-619 When form of certificate of acknowledgment accepted.
-
-<p>The form of a certificate of acknowledgment used by a person whose authority is recognized under § <a href='/vacode/55.1-616/'>55.1-616</a> shall be accepted in the Commonwealth if:</p><p>1. The certificate is in a form prescribed by the laws or regulations of the Commonwealth;</p><p>2. The certificate is in a form prescribed by the laws or regulations applicable in the place in which the acknowledgment is taken; or</p><p>3. The certificate contains the words "acknowledged before me" or their substantial equivalent.</p><p>1970, c. 719, § 55-118.4; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

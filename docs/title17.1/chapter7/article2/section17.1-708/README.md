@@ -1,3 +1,0 @@
-# § 17.1-708 Meetings.
-
-<p>The Conference shall meet at least once in each calendar year at the call of the president and at such other times as may be designated by him or by the executive committee for the purpose of discussing and considering means and methods of improving the administration of justice in this Commonwealth. If any active member shall for any cause be unable to attend, he shall promptly notify the president. Unless excused from attendance, it shall be the duty of each active member to attend and remain throughout the proceedings of the Conference.</p><p>1950, p. 70, § 17-230; 1964, c. 9; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

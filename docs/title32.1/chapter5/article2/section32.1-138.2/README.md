@@ -1,3 +1,0 @@
-# § 32.1-138.2 Certain contract provisions prohibited.
-
-<p>No contract or agreement for nursing home care shall contain any provisions which restrict or limit the ability of a resident to apply for and receive Medicaid or which require a specified period of residency prior to applying for Medicaid. The resident may be required to notify the facility when an application for Medicaid has been made. No contract or agreement may require a deposit or other prepayment from Medicaid recipients. No contract or agreement shall contain provisions authorizing the facility to refuse to accept retroactive Medicaid benefits.</p><p>1987, c. 221.</p>

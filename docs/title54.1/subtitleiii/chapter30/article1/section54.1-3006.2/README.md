@@ -1,3 +1,0 @@
-# § 54.1-3006.2 Nurse aide education program.
-
-<p>All approved nurse aide education programs shall provide each student applying to or enrolled in such program with a copy of applicable Virginia law regarding criminal history records checks for employment in certain health care facilities, and a list of crimes which pose a barrier to such employment.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0637'>637</a>.</p>

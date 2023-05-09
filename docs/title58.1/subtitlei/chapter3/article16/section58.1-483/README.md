@@ -1,3 +1,0 @@
-# § 58.1-483 Withholding state income taxes of federal employees by federal agencies.
-
-<p>The Tax Commissioner is hereby designated as the proper official to make request for and to enter into agreements with the Secretary of the Treasury of the United States to provide for compliance with this article by the head of each department or agency of the United States in withholding state income taxes from wages of federal employees and paying the same to the Commonwealth. The Tax Commissioner is hereby authorized, empowered and directed to make request for and to enter into such agreements.</p><p>Code 1950, § 58-151.20; 1962, c. 612; 1984, c. 675.</p>

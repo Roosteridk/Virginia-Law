@@ -1,3 +1,0 @@
-# § 15.2-2322 Adoption of impact fee and schedule.
-
-<p>After adoption of a road improvement program, the locality may adopt an ordinance establishing a system of impact fees to fund or recapture all or any part of the cost of providing reasonable road improvements benefiting new development. The ordinance shall set forth the schedule of impact fees.</p><p>1989, c. 485, § 15.1-498.5; 1997, c. 587; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0896'>896</a>.</p>

@@ -1,3 +1,0 @@
-# § 63.2-1507 Cooperation by state entities.
-
-<p>All law-enforcement departments and other state and local departments, agencies, authorities and institutions shall cooperate with each child-protective services coordinator of a local department and any multi-discipline teams in the detection and prevention of child abuse.</p><p>1975, c. 341, § 63.1-248.17; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

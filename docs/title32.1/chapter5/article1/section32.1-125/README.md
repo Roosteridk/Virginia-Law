@@ -1,3 +1,0 @@
-# § 32.1-125 Establishment or operation of hospitals and nursing homes prohibited without license or certification; licenses not transferable.
-
-<p>A. No person shall own, establish, conduct, maintain, manage or operate in this Commonwealth any hospital or nursing home unless such hospital or nursing home is licensed or certified as provided in this article.</p><p>B. No license issued hereunder shall be assignable or transferable.</p><p>Code 1950, § 32-299; 1979, c. 711; 1989, c. 618.</p>

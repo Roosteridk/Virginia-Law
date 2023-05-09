@@ -1,3 +1,0 @@
-# § 66-27 Authority of Director to make grants to localities.
-
-<p>The Director is authorized to make grants to counties and cities pursuant to the provisions of this chapter to promote efficiency and economy in the delivery of youth services and to provide support to localities seeking to respond positively to the growing rate of juvenile delinquency.</p><p>Code 1950, § 53-335; 1979, c. 698; 1982, c. 636, § 53.1-252; 1989, c. 733.</p>

@@ -1,3 +1,0 @@
-# § 58.1-2710 Penalty for false statements.
-
-<p>Any person who willfully and knowingly makes a false statement orally, or in writing, or in the form of a receipt for the sale of motor fuel, for the purpose of obtaining or attempting to obtain or to assist any other person, partnership or corporation to obtain or attempt to obtain a credit or refund or reduction of liability for taxes under this chapter shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 58-629.2; 1952, c. 281; 1984, c. 675.</p>

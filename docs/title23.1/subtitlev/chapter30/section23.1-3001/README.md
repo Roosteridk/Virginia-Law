@@ -1,3 +1,0 @@
-# § 23.1-3001 Eastern Virginia Medical School established.
-
-<p>Eastern Virginia Medical School is established as a public instrumentality, public body politic and corporate, and political subdivision of the Commonwealth. The primary offices and facilities of the Medical School shall be located in the Hampton Roads area of the Commonwealth.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

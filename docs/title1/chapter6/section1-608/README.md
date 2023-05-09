@@ -1,3 +1,0 @@
-# § 1-608 Limitation on use of name of systems.
-
-<p>The use of the terms "Virginia Coordinate System of 1927" or "Virginia Coordinate System of 1983" on any map, report of survey, or other document shall be limited to coordinates based on the Virginia coordinate systems as defined in this chapter.</p><p>1946, p. 168; Michie Suppl. 1946, § 2849(7); Code 1950, § 55-295; 1984, c. 726; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

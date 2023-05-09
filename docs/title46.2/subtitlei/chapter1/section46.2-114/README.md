@@ -1,3 +1,0 @@
-# § 46.2-114 Disposition of fines and forfeitures.
-
-<p>All fines or forfeitures collected on conviction of any person charged with a violation of any of the provisions of this title punishable as felonies, misdemeanors, or traffic infractions shall be paid into the state treasury to be credited to the Literary Fund unless a different form of payment is required specifically by this title.</p><p>Code 1950, § 46-20; 1958, c. 541, § 46.1-18; 1989, c. 727; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0408'>408</a>.</p>

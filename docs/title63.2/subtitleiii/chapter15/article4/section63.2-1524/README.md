@@ -1,3 +1,0 @@
-# § 63.2-1524 Court may order certain examinations.
-
-<p>The court may order psychological, psychiatric and physical examinations of the child alleged to be abused or neglected and of the parents, guardians, caretakers or siblings of a child suspected of being neglected or abused.</p><p>1975, c. 341, § 63.1-248.14; 1976, c. 186; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

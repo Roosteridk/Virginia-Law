@@ -1,3 +1,0 @@
-# § 58.1-452 Fraudulent returns; criminal liability; penalty.
-
-<p>In addition to other penalties provided by law, any officer of any corporation who makes a fraudulent return or statement with intent to evade the payment of the taxes prescribed by this chapter shall be guilty of a Class 6 felony. A prosecution under this section shall be commenced within five years next after the commission of the offense.</p><p>Code 1950, § 58-151.089; 1971, Ex. Sess., c. 171; 1984, c. 675; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0180'>180</a>.</p>

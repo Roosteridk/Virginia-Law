@@ -1,3 +1,0 @@
-# § 38.2-2609 Qualifications of agents.
-
-<p>No person shall sell, solicit, or negotiate home protection contracts in this Commonwealth unless (i) he has a valid license granting the authority to transact such insurance in this Commonwealth, (ii) he has a valid license to sell real estate in this Commonwealth, issued pursuant to Chapter 21 (§ <a href='/vacode/54.1-2100/'>54.1-2100</a> et seq.) of Title 54.1, or (iii) he is the builder of the home or one of his authorized agents.</p><p>1981, c. 530, § 38.1-939; 1984, c. 640; 1986, c. 562; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0706'>706</a>.</p>

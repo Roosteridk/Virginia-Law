@@ -1,3 +1,0 @@
-# § 18.2-296 Search warrants for machine guns.
-
-<p>Warrant to search any house or place and seize any machine gun possessed in violation of this article may issue in the same manner and under the same restrictions as provided by law for stolen property, and any court of record, upon application of the attorney for the Commonwealth, a police officer or conservator of the peace, may order any machine gun, thus or otherwise legally seized, to be confiscated and either destroyed or delivered to a peace officer of the Commonwealth or a political subdivision thereof.</p><p>Code 1950, § 18.1-266; 1960, c. 358; 1975, cc. 14, 15.</p>

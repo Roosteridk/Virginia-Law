@@ -1,3 +1,0 @@
-# § 32.1-326 Director may make payments to or for eligible persons in state-owned medical facilities.
-
-<p>The Director of Medical Assistance Services is authorized, subject to the state plan provided for in § <a href='http://law.lis.virginia.gov/vacode/32.1-325/'>32.1-325</a> and any other regulations of the Board, to make payments to or on behalf of eligible persons in state-owned mental hospitals, nursing or geriatric units or other state-owned medical facilities.</p><p>1984, c. 781.</p>

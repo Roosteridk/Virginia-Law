@@ -1,3 +1,0 @@
-# § 8.01-485 When venditioni exponas may issue; proceedings thereon.
-
-<p>When it appears by the return on an execution that property taken to satisfy it remains unsold, a writ of venditioni exponas may issue, whereupon the like proceedings shall be had as might have been had on the first execution; except, that if it issue upon a return of no sale for want of bidders, or of a sufficient bid, the advertisement shall state the fact, and that the sale will be made peremptorily.</p><p>Code 1950, § 8-418; 1977, c. 617.</p>

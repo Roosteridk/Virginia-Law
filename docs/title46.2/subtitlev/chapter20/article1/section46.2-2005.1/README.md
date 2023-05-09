@@ -1,3 +1,0 @@
-# § 46.2-2005.1 Determination for issuance for license, permit, or certificate.
-
-<p>If the Department finds the applicant for a license, permit, or certificate has met all the requirements of this chapter, it shall issue a license, permit, or certificate to the applicant, subject to such terms, limitations, and restrictions as the Department may deem proper.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

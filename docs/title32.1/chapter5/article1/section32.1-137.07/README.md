@@ -1,3 +1,0 @@
-# § 32.1-137.07 Violations of certain provisions; penalty.
-
-<p>If the Commissioner receives a report from the State Corporation Commission that a medical care facility has engaged in a pattern of violations pursuant to § <a href='/vacode/38.2-3445.01/'>38.2-3445.01</a> and the report is substantiated after investigation, the Commissioner may levy a fine upon the medical care facility in an amount not to exceed $1,000 per violation and may take other formal or informal disciplinary action as permitted under this chapter.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1080'>1080</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1081'>1081</a>.</p>

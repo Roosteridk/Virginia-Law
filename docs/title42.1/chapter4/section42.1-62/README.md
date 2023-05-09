@@ -1,3 +1,0 @@
-# § 42.1-62 Additions to Library.
-
-<p>The Supreme Court shall, from time to time, make additions to the State Law Library by purchases, and may lease or purchase computer terminals for the purpose of retrieving available legal reference data, with funds at its disposal for these purposes, and may cause books to be transferred from one law library to another. All law books acquired by the Commonwealth by gift, or by exchange, from the United States, or other states and countries, shall be placed in the Library.</p><p>Code 1950, § 42-15; 1970, c. 606; 1977, c. 397; 2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0537'>537</a>.</p>

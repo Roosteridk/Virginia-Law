@@ -1,3 +1,0 @@
-# § 59.1-119 Who deemed a dealer.
-
-<p>Every person who is regularly engaged in the purchasing or acquiring of secondhand building material of the kind mentioned in § <a href='http://law.lis.virginia.gov/vacode/59.1-117/'>59.1-117</a> for the purpose of resale or installation on the property of another shall be deemed a dealer within the meaning of the provisions of this article.</p><p>Code 1950, § 59-147; 1968, c. 439; 2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0836'>836</a>.</p>

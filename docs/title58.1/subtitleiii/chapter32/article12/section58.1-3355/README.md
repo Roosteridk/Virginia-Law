@@ -1,3 +1,0 @@
-# § 58.1-3355 Notice to State Corporation Commission and Department of deduction from value of real estate for public service corporation easement.
-
-<p>In the event any deduction has been made from the value of real estate for any public service corporation easement under either § <a href='http://law.lis.virginia.gov/vacode/58.1-3351/'>58.1-3351</a> or § <a href='http://law.lis.virginia.gov/vacode/58.1-3354/'>58.1-3354</a>, the commissioner of revenue or director of finance shall, on request, send the State Corporation Commission, the Department of Taxation, and the public service corporation owning said easement the amount of the deduction so made.</p><p>Code 1950, § 58-764.1; 1968, c. 593; 1977, c. 49; 1983, c. 570; 1984, c. 675.</p>

@@ -1,3 +1,0 @@
-# § 8.01-46 Justification and mitigation of damages.
-
-<p>In any action for defamation, the defendant may justify by alleging and proving that the words spoken or written were true, and, after notice in writing of his intention to do so, given to the plaintiff at the time of, or for, pleading to such action, may give in evidence, in mitigation of damages, that he made or offered an apology to the plaintiff for such defamation before the commencement of the action, or as soon afterwards as he had an opportunity of doing so in case the action shall have been commenced before there was an opportunity of making or offering such apology.</p><p>Code 1950, § 8-631; 1977, c. 617.</p>

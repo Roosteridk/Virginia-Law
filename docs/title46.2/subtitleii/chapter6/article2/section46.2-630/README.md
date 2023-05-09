@@ -1,3 +1,0 @@
-# § 46.2-630 Transfer and application for certificate of title forwarded to Department.
-
-<p>The transferee shall write his name and address in ink on the certificate of title and, except as provided in §§ <a href='http://law.lis.virginia.gov/vacode/46.2-619/'>46.2-619</a> and <a href='http://law.lis.virginia.gov/vacode/46.2-631/'>46.2-631</a>, shall within thirty days forward the certificate to the Department with an application for the registration of the motor vehicle, trailer, or semitrailer and for a certificate of title.</p><p>Code 1950, § 46-85; 1958, c. 541, § 46.1-89; 1988, c. 363; 1989, c. 727.</p>

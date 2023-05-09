@@ -1,3 +1,0 @@
-# § 64.2-308.5 Decedent's net probate estate.
-
-<p>The value of the augmented estate includes the value of the decedent's probate estate, reduced by funeral and administration expenses (excluding federal or state transfer taxes), homestead allowance, family allowances, exempt property, and enforceable claims.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0187'>187</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0269'>269</a>.</p>

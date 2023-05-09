@@ -1,3 +1,0 @@
-# § 55.1-346 Applicability.
-
-<p>The procedure authorized by this article for the release of a security interest in real property using an automated electronic recording system may be used to effect the release of a security interest regardless of when the security interest was created, assigned, or satisfied by payment made by the settlement agent. The procedure authorized by this section for the release of a security interest shall constitute an optional method of accomplishing a release of a security interest secured by property in the Commonwealth.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0907'>907</a>, § 55-66.8; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

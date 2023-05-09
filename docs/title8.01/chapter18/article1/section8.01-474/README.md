@@ -1,3 +1,0 @@
-# § 8.01-474 What writ of fieri facias to command.
-
-<p>By a writ of fieri facias, the officer shall be commanded to make the money therein mentioned out of the goods and chattels of the person against whom the judgment is.</p><p>Code 1950, § 8-406; 1977, c. 617.</p>

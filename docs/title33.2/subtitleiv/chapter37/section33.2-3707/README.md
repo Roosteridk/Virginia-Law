@@ -1,3 +1,0 @@
-# § 33.2-3707 Authority to issue bonds.
-
-<p>The Authority may issue bonds and other evidences of debt as may be authorized by this section or other law. The provisions of Article 5 (§ <a href='/vacode/33.2-1920/'>33.2-1920</a> et seq.) of Chapter 19 shall apply, mutatis mutandis, to the issuance of such bonds or other debt. The Authority may issue bonds or other debt in such amounts as it deems appropriate. The bonds may be supported by any funds available.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1235'>1235</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-2119.1 Credit for excessive water and sewer charges.
-
-<p>A locality or authority, as such term is defined in § <a href='http://law.lis.virginia.gov/vacode/15.2-5101/'>15.2-5101</a>, may provide a partial credit for excessive water and sewer charges where high water usage is caused by damaged pipes, leaks, accidents, or other intentional or unintentional causes.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0178'>178</a>; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0736'>736</a>.</p>

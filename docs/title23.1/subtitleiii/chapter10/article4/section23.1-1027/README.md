@@ -1,3 +1,0 @@
-# § 23.1-1027 Covered institutions; duties; tuition, fees, rentals, and other charges.
-
-<p>Each covered institution shall fix, revise, charge, and collect tuition, rates, rentals, fees, and other charges for the services, goods, or facilities furnished by or on behalf of such institution and may adopt policies regarding any such service rendered or the use, occupancy, or operation of any such facility.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0933'>933</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0945'>945</a>, § 23-38.103; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

@@ -1,3 +1,0 @@
-# § 22.1-116.1 Receipt of payment by credit cards; service charge.
-
-<p>School boards may accept payment for services and goods by credit or debit cards. School boards accepting credit or debit card payments may, in addition to any penalties and interest, add to such payment a sum as a service charge for the acceptance of such method of payment.</p><p>2002, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0164'>164</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0238'>238</a>.</p>

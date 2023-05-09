@@ -1,3 +1,0 @@
-# § 58.1-2262 Payment of refund.
-
-<p>Whenever it appears to the satisfaction of the Commissioner that any person is entitled to a refund for taxes paid pursuant to this chapter, the Commissioner shall forthwith certify the amount of the refund to the Comptroller and shall send to the applicant an explanation of the basis of such refund. The amount of the refund shall be paid by check issued by the State Treasurer on warrant of the Comptroller.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0729'>729</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0758'>758</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0325'>325</a>.</p>

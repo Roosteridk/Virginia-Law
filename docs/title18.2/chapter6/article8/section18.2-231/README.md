@@ -1,3 +1,0 @@
-# § 18.2-231 Same; label required.
-
-<p>There shall be firmly attached to or painted at or near the point of outlet from which lubricating oil is drawn or poured out for sale or delivery a sign or label consisting of the word or words in letters not less than one inch in height comprising the brand or trade name of such lubricating oil. But if any lubricating oil shall have no brand or trade name, the above sign or label shall consist of the words "lubricating oil, no brand."</p><p>Code 1950, § 59.1-60; 1968, c. 439; 1975, cc. 14, 15.</p>

@@ -1,3 +1,0 @@
-# § 47.1-21 Commission as notary.
-
-<p>The commission of a notary public shall be four years, except as shall be otherwise provided in this title. The commission of a notary public shall expire in the fourth calendar year after issuance of his commission on the last day of the month in which the notary was born.</p><p>1980, c. 580; 1989, c. 594; 2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0269'>269</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0590'>590</a>.</p>

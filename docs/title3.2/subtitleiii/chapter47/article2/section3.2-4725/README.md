@@ -1,3 +1,0 @@
-# § 3.2-4725 Publication of revocation.
-
-<p>When a license is revoked, a notice of the revocation and the reason for the revocation shall be published once a week for two successive weeks in one or more daily papers selected by the Commissioner and the Department shall post notice of the revocation on its website for a period of two weeks from the date of the revocation.</p><p>Code 1950, § 3-552; 1966, c. 702, § 3.1-710; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

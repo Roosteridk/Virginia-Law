@@ -1,3 +1,0 @@
-# § 18.2-261 Monetary penalty.
-
-<p>Any person licensed by the State Board of Pharmacy who violates any of the provisions of the Drug Control Act (§ <a href='http://law.lis.virginia.gov/vacode/54.1-3400/'>54.1-3400</a> et seq.) or of this article, and who is not criminally prosecuted, shall be subject to the monetary penalty provided in this section. If, by a majority vote, the Board shall determine that the respondent is guilty of the violation complained of, the Board shall proceed to determine the amount of the monetary penalty for such violation, which shall not exceed the sum of $1,000 for each violation. Such penalty may be sued for and recovered in the name of the Commonwealth.</p><p>Code 1950, § 54-524.107; 1970, c. 650; 1975, cc. 14, 15; 1980, c. 678.</p>

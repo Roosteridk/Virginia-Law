@@ -1,3 +1,0 @@
-# § 46.2-644.3 Acquisition of all-terrain vehicle or off-road motorcycle by dealer.
-
-<p>Any dealer licensed under § <a href='http://law.lis.virginia.gov/vacode/46.2-1508/'>46.2-1508</a> who acquires an all-terrain vehicle or off-road motorcycle for resale shall be exempt from the titling requirements of this title.</p><p>Any dealer transferring an all-terrain vehicle or off-road motorcycle titled under this title shall assign the title to the new owner or, in the case of a new all-terrain vehicle or off-road motorcycle, assign the certificate of origin.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0896'>896</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0615'>615</a>.</p>

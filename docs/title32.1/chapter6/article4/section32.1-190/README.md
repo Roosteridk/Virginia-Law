@@ -1,3 +1,0 @@
-# § 32.1-190 Powers of commission; oath and terms of members; vacancies.
-
-<p>Each mosquito control commission district shall be a body politic and corporate and shall have all the powers necessary to carry into effect all of the provisions of this article. Each member of any such commission shall take and subscribe to the oath prescribed by § <a href='http://law.lis.virginia.gov/vacode/49-1/'>49-1</a>. The term of each commission member other than the Commissioner or his designee shall be four years and thereafter until his successor has been duly appointed and qualified. A vacancy other than by expiration of term shall be filled for the unexpired term by the authority originally making the appointment.</p><p>Code 1950, § 32-381; 1979, c. 711.</p>

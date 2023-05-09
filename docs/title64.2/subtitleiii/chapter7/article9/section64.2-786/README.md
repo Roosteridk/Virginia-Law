@@ -1,3 +1,0 @@
-# § 64.2-786 Investment costs.
-
-<p>In investing and managing trust assets, a trustee may only incur costs that are appropriate and reasonable in relation to the assets, the purposes of the trust, and the skills of the trustee.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0772'>772</a>, § 26-45.8; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

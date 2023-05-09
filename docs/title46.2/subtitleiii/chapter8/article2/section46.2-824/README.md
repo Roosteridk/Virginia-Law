@@ -1,3 +1,0 @@
-# § 46.2-824 Right-of-way at uncontrolled "T" intersections.
-
-<p>When vehicles arrive at approximately the same time at an uncontrolled "T" intersection, the driver of the vehicle on the highway that intersects but does not cross the other highway shall yield the right-of-way to any vehicle traveling on the other highway.</p><p>1985, c. 218, § 46.1-221.1; 1989, c. 727.</p>

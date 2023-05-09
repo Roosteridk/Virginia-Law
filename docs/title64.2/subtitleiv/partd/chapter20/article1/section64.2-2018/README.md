@@ -1,3 +1,0 @@
-# § 64.2-2018 Taking of bond by clerk of court.
-
-<p>Whenever this title provides for the appointment of a fiduciary by a circuit court, the clerk of the court also shall have the authority to take the required bond, set the penalty thereof, and pass upon the sufficiency of the surety thereon.</p><p>Code 1950, § 37-144.1; 1958, c. 277; 1968, cc. 383, 477, § 37.1-136; 1976, c. 671; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>, § 37.2-1019; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

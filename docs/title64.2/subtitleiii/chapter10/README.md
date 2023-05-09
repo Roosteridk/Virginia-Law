@@ -1,1 +1,0 @@
-# 10 Uniform Principal and Income Act

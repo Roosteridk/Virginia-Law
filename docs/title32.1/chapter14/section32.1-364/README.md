@@ -1,3 +1,0 @@
-# § 32.1-364 Reports to the Governor and General Assembly.
-
-<p>The Foundation shall submit a report no later than March 31 of each year to the Governor and the General Assembly. The report shall include information regarding programs supported by the Foundation and expenditures from the Fund.</p><p>1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0880'>880</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0962'>962</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0019'>19</a>.</p>

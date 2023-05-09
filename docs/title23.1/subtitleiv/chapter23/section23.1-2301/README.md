@@ -1,3 +1,0 @@
-# § 23.1-2301 Purpose of board.
-
-<p>The board is formed for the purpose of establishing and maintaining a university consisting of colleges, schools, and divisions offering undergraduate and graduate programs in the liberal arts and sciences and courses of study for the professions and such other courses of study as may be appropriate, and in connection with this purpose, the board may maintain and conduct hospitals, infirmaries, dispensaries, laboratories, research centers, power plants, and such other facilities as it deems proper.</p><p>1968, c. 93, § 23-50.7; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

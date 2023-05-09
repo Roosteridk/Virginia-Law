@@ -1,3 +1,0 @@
-# § 50-73.50 Judicial dissolution.
-
-<p>A. On application by or for a partner, the circuit court of the locality in which the registered office is located may decree dissolution of a limited partnership if it is not reasonably practicable to carry on the business in conformity with the partnership agreement.</p><p>B. When the winding up of the affairs of the limited partnership has been completed, the court shall so advise the Commission, which shall enter an order of cancellation of the limited partnership's existence.</p><p>1985, c. 607; 1987, c. 702; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0586'>586</a>.</p>

@@ -1,3 +1,0 @@
-# § 33.2-3303 Staff.
-
-<p>The Authority shall employ an executive director and such staff as it deems necessary to carry out its duties and responsibilities under this chapter. No such person shall contemporaneously serve as a member of the Authority. The Department of Transportation and the Department of Rail and Public Transportation shall make their employees available to assist the Authority, upon request.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0179'>179</a>, § 15.2-6804; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0256'>256</a>.</p>

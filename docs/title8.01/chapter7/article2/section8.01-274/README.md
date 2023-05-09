@@ -1,3 +1,0 @@
-# § 8.01-274 Motion to strike defensive pleading in equity and at law; exceptions abolished.
-
-<p>Exceptions to answers for insufficiency are abolished. The test of the sufficiency of any defensive pleading in any suit in equity or action at law shall be made by a motion to strike; if found insufficient, but amendable, the court may allow amendment on terms. If a second pleading is adjudged insufficient, the court may enter such judgment or decree or take such other action that it deems appropriate.</p><p>Code 1950, § 8-122; 1954, c. 605; 1977, c. 617; 1978, c. 336.</p>

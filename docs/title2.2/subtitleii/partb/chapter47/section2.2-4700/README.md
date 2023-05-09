@@ -1,3 +1,0 @@
-# § 2.2-4700 Authorization to Treasury Board to provide certain assistance.
-
-<p>A. This chapter shall be known, and may be cited, as the "Government Non-Arbitrage Investment Act."</p><p>B. The General Assembly authorizes the Treasury Board to make available to the Commonwealth, to counties, cities and towns in the Commonwealth, and to their agencies, institutions, and authorities or any combination of the foregoing assistance as provided in this chapter in making and accounting for such investments.</p><p>1988, c. 498, § 2.1-234.9:1; 1990, c. 516; 1991, c. 245; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

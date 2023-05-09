@@ -1,3 +1,0 @@
-# § 8.7-201 Who may issue a warehouse receipt; storage under government bond.
-
-<p>(1) A warehouse receipt may be issued by any warehouseman.</p><p>(2) Where goods including distilled spirits and agricultural commodities are stored under a statute requiring a bond against withdrawal or a license for the issuance of receipts in the nature of warehouse receipts, a receipt issued for the goods has like effect as a warehouse receipt even though issued by a person who is the owner of the goods and is not a warehouseman.</p><p>Code 1950, § 61-4; 1964, c. 219.</p>

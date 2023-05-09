@@ -1,3 +1,0 @@
-# § 30-28.12 Creation of Division; appointment, term and qualifications of Director.
-
-<p>There shall be a legislative agency known and designated as the Division of Legislative Services, hereinafter in this chapter sometimes called the Division. The Division shall be in the charge of a Director, who shall be appointed by, subject to confirmation of the General Assembly, and serve at the pleasure of the Committees on Rules of the House of Delegates and the Senate.</p><p>The Director shall be an experienced lawyer and a graduate of the school of law of an approved institution of higher education.</p><p>1966, c. 676; 1970, c. 478; 1973, c. 322.</p>

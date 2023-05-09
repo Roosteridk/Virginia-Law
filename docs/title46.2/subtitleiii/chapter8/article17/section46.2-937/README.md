@@ -1,3 +1,0 @@
-# § 46.2-937 Traffic infractions treated as misdemeanors for arrest purposes.
-
-<p>For purposes of arrest, traffic infractions shall be treated as misdemeanors. Except as otherwise provided by this title, the authority and duties of arresting officers shall be the same for traffic infractions as for misdemeanors.</p><p>1977, c. 585, § 46.1-178.01; 1989, c. 727.</p>

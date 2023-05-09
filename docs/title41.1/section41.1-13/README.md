@@ -1,3 +1,0 @@
-# § 41.1-13 Bill in equity for repeal of grant.
-
-<p>The Commonwealth, or any other party desiring to repeal, in whole or in part, any grant of land because it was obtained by fraud, or issued contrary to law, or to the prejudice of such party's equitable right, may file a bill in equity for that purpose in the circuit court of the county, or the circuit court of the city, in which the land, or some part thereof, lies, exhibiting with the bill a certified copy of the patent, and making all proper parties.</p><p>Code 1950, § 41-75; 1970, c. 291.</p>

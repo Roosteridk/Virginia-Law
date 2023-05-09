@@ -1,3 +1,0 @@
-# § 33.2-112 Sidewalks and walkways for pedestrian traffic.
-
-<p>The Board may construct such sidewalks or walkways on the bridges and along the highways under its jurisdiction as it deems necessary for the protection of pedestrian traffic.</p><p>All provisions of law with respect to the acquisition of lands and interests therein and the construction, reconstruction, alteration, improvement, and maintenance of highways in the primary and secondary state highway systems, including the exercise of the power of eminent domain by the Board and the Commissioner of Highways, shall be applicable to such sidewalks and walkways.</p><p>Code 1950, § 33-121; 1970, c. 322, § 33.1-205; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

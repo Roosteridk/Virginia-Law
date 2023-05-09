@@ -1,3 +1,0 @@
-# § 45.2-2001  Application.
-
-<p>The provisions of this chapter regarding (i) permitting, well regulations, reservoir management, and allocation apply to geothermal resources at temperatures above the minimum temperature set forth by the Department pursuant to § <a href='/vacode/45.2-2004/'>45.2-2004</a> and (ii) leasing requirements, royalties, or severance taxes apply to geothermal resource applications producing more than the volumetric rate set forth by the Department pursuant to § <a href='/vacode/45.2-2004/'>45.2-2004</a>.</p><p>1981, c. 506, § 45.1-179.3; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

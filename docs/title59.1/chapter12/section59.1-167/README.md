@@ -1,3 +1,0 @@
-# § 59.1-167 Conflicting local laws and ordinances prohibited.
-
-<p>Cities, towns, counties and other political subdivisions of this Commonwealth are prohibited from passing any laws or ordinances relating to the inspection and testing of motor fuel and lubricating oil as defined in § <a href='http://law.lis.virginia.gov/vacode/59.1-149/'>59.1-149</a> inconsistent with the provisions of this chapter.</p><p>Code 1950, § 59-60; 1968, c. 439; 1992, c. 885.</p>

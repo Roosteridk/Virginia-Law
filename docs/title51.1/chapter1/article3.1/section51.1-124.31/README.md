@@ -1,3 +1,0 @@
-# § 51.1-124.31 Pooling of assets for investment.
-
-<p>The Board may invest the assets of any retirement system or program it administers on a pooled or consolidated basis. The Board shall maintain a separate accounting of the funds of each of the retirement systems and programs.</p><p>Code 1950, §§ 51-140, 51-141, 51-149, 51-166; 1950, p. 885; 1954, c. 139; 1966, c. 628; 1970, c. 779; 1972, c. 151; 1990, c. 832, § 51.1-115; 1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0004'>4</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0085'>85</a>; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0911'>911</a>.</p>

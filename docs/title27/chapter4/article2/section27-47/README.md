@@ -1,3 +1,0 @@
-# § 27-47 Levy for funds.
-
-<p>All funds necessary to carry out the provisions of this article shall be raised in the case of a city by a general levy on all property therein subject to taxation for local purposes; and in the case of a county one-half thereof shall be raised by a general levy throughout the county and one-half by the levy within the town or magisterial district in which the fire company is located on all property therein subject to taxation for local purpose.</p><p>1928, p. 1003; Michie Code 1942, § 3144g.</p>

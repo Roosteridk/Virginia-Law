@@ -1,3 +1,0 @@
-# § 10.1-418.6 Blackwater State Scenic River.
-
-<p>The Blackwater River in Isle of Wight and Southampton Counties and the Cities of Franklin and Suffolk, from Proctor's Bridge at Route 621 to its confluence with the Nottoway River at the North Carolina line, a distance of approximately 56 miles, is hereby designated as the Blackwater State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0139'>139</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0308'>308</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>.</p>

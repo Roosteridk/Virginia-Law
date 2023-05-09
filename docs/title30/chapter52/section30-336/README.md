@@ -1,3 +1,0 @@
-# § 30-336 Joint Subcommittee to Evaluate Tax Preferences; purpose.
-
-<p>The Joint Subcommittee to Evaluate Tax Preferences (the Joint Subcommittee) is established in the legislative branch of state government. The purpose of the Joint Subcommittee is to oversee the evaluation of Virginia's tax preferences, including but not limited to tax credits, deductions, subtractions, exemptions, and exclusions.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0777'>777</a>.</p>

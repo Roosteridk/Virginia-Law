@@ -1,3 +1,0 @@
-# § 23.1-2621 The Division and the Program; reports.
-
-<p>A. The University shall file such reports on the activities of the Division as may be required by law or requested by the Governor.</p><p>B. Virginia State University shall file such reports on the activities of the Program as may be required by law or requested by the Governor.</p><p>C. The University and Virginia State University shall file such reports on the unified plan as may be required by law or requested by the Governor.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0433'>433</a>, § 23-132.11; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

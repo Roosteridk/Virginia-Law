@@ -1,3 +1,0 @@
-# § 15.2-3506 Conduct of election.
-
-<p>The election authorized by § <a href='http://law.lis.virginia.gov/vacode/15.2-3505/'>15.2-3505</a> shall be conducted in accordance with general law. The ballots used shall be printed and shall contain the following:</p><p>"Shall ____________________ (here insert names of counties, cities or towns proposing <br>to consolidate) consolidate pursuant to the consolidation agreement?</p><p>[ ] Yes</p><p>[ ] No."</p><p>Code 1950, § 15-167; 1950, p. 395; 1962, c. 623, § 15.1-1076; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 3.2-6536 Payment of license tax subsequent to summons.
-
-<p>Payment of the license tax subsequent to a summons to appear before a court for failure to pay the license tax within the time required shall not operate to relieve such owner from the penalties or court costs provided under § <a href='http://law.lis.virginia.gov/vacode/16.1-69.48:1/'>16.1-69.48:1</a> or <a href='http://law.lis.virginia.gov/vacode/17.1-275.7/'>17.1-275.7</a>.</p><p>1984, c. 492, § 29-213.72; 1987, c. 488, § 3.1-796.103; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0756'>756</a>.</p>

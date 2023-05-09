@@ -1,3 +1,0 @@
-# § 22.1-57.3:1 Staggered terms of elected school boards in certain counties.
-
-<p>The school boards of Bath, Pulaski, and Rockbridge Counties shall be elected as provided in § <a href='/vacode/22.1-57.3/'>22.1-57.3</a> except that all members shall be elected for four-year terms and the school board elections shall  alternate biennially between the election of three members and the election of the remaining two members to ensure staggered terms.</p><p>1993, c. 878; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0744'>744</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0074'>74</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0355'>355</a>.</p>

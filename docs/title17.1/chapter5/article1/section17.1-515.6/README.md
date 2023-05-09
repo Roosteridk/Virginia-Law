@@ -1,3 +1,0 @@
-# § 17.1-515.6 Concurrent law-enforcement jurisdiction over Joint Judicial Center in Winchester.
-
-<p>The Frederick County Sheriff's Department shall have, concurrently with the City of Winchester Police Department, jurisdiction to arrest perpetrators of all offenses committed in or upon the premises, buildings, rooms, or offices of the Joint Judicial Center located in the City of Winchester.</p><p>1984, c. 363, § 17-126.6.</p>

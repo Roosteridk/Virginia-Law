@@ -1,3 +1,0 @@
-# § 58.1-201 Oath and bond.
-
-<p>Before entering upon the discharge of his duties, the Tax Commissioner shall take an oath that he will faithfully and honestly execute the duties of the office during his continuance therein, and he shall be bonded in accordance with § <a href='/vacode/2.2-1840/'>2.2-1840</a>, conditioned upon the faithful discharge of his duties.</p><p>Code 1950, § 58-29; 1984, c. 675; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0152'>152</a>.</p>

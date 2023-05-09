@@ -1,3 +1,0 @@
-# § 38.2-3329 Misstatement of age.
-
-<p>Each group life insurance policy shall contain a provision that an equitable adjustment of premiums, benefits, or both shall be made if the age of a person insured has been misstated. The provision shall contain a clear statement of the method of adjustment to be used.</p><p>Code 1950, § 38-429(3); 1952, c. 317, § 38.1-427; 1960, c. 273; 1986, c. 562.</p>

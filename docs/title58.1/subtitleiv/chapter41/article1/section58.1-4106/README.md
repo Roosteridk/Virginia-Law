@@ -1,3 +1,0 @@
-# § 58.1-4106 Injunction.
-
-<p>The Department may apply to the appropriate circuit court for an injunction against any person who has violated or may violate any provision of this chapter or any regulation or final decision of the Department. The order granting or refusing such injunction shall be subject to appeal as in other cases in equity.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1197'>1197</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1248'>1248</a>.</p>

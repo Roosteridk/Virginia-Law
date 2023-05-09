@@ -1,3 +1,0 @@
-# § 46.2-2099.43 Notice to passengers.
-
-<p>The operator of an excursion train shall:</p><p>1. Issue each passenger a ticket with the following statement in twelve point boldface type: "THE RAILROAD COMPANY WHICH OWNS THE TRACKS AND FACILITIES UPON WHICH THIS EXCURSION TRAIN OPERATES SHALL NOT BE LIABLE FOR PERSONAL INJURY OR WRONGFUL DEATH ARISING FROM THE OPERATION OF THE EXCURSION TRAIN, INCLUDING OPERATIONS, MAINTENANCE, AND SIGNALIZATION OF THE TRACKS AND FACILITIES."</p><p>2. Post a notice near any passenger boarding area containing the same statement contained in subdivision 1, in letters that are at least two inches high.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

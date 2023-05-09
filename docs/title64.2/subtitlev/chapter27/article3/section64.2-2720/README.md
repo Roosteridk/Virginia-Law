@@ -1,3 +1,0 @@
-# § 64.2-2720 Selective allocation doctrine.
-
-<p>If a powerholder exercises a power of appointment in a disposition that also disposes of property the powerholder owns, the owned property and the appointive property shall be allocated in the permissible manner that best carries out the powerholder's intent.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

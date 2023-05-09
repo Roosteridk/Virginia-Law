@@ -1,3 +1,0 @@
-# § 8.10-102 Provision for transition.
-
-<p>Transactions validly entered into before the effective date specified in § <a href='http://law.lis.virginia.gov/vacode/8.10-101/'>8.10-101</a> and the rights, duties and interests flowing from them remain valid thereafter and may be terminated, completed, consummated or enforced as required or permitted by any statute or other law amended or repealed by this act as though such repeal or amendment had not occurred.</p><p>1964, c. 219.</p>

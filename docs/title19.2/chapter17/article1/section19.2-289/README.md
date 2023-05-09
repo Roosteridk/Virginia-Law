@@ -1,3 +1,0 @@
-# § 19.2-289 Conviction of petit larceny.
-
-<p>In a prosecution for grand larceny, if it be found that the thing stolen is of less value than $1,000, the jury may find the accused guilty of petit larceny.</p><p>Code 1950, § 19.1-252; 1960, c. 366; 1966, c. 247; 1975, c. 495; 1981, c. 197; 2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0764'>764</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0765'>765</a>; 2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0089'>89</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0401'>401</a>.</p>

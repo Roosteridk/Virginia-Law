@@ -1,3 +1,0 @@
-# § 32.1-254 County and city registrars designated; deputies; special registrars.
-
-<p>A. Each county and city health director shall be the county or city registrar of vital records and health statistics for his jurisdiction and shall appoint one or more deputies in the county or city health department. Any county or city registrar may recommend that the State Registrar appoint a special registrar when necessary to facilitate registration in his county or city.</p><p>B. When there is no duly appointed county or city health director, the State Registrar shall appoint a county or city registrar to serve pending the appointment of a health director.</p><p>Code 1950, § 32-353.10; 1960, c. 451; 1979, c. 711.</p>

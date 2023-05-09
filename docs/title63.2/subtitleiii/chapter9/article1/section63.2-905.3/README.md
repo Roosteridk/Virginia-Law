@@ -1,3 +1,0 @@
-# § 63.2-905.3 Documents provided to foster care youth.
-
-<p>When a child is leaving foster care upon reaching 18 years of age, unless the child has been in foster care for less than six months, the local department shall ensure that the child has, if eligible to receive, (i) a certified birth certificate, (ii) a social security card, (iii) health insurance information, (iv) a copy of the child's health care records, and (v) a driver's license or identification card issued by the Commonwealth.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0631'>631</a>.</p>

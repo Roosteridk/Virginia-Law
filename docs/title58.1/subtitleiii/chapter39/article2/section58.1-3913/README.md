@@ -1,3 +1,0 @@
-# § 58.1-3913 When treasurer to receive taxes and levies without penalty; how payments credited.
-
-<p>Each treasurer shall commence to receive local levies as soon as he receives copies of the commissioner's books and continue to receive the same without penalty up to and including December 5 of each year, or such other date set by the governing body. Unless otherwise provided by ordinance of the governing body, any payment of local levies received shall be credited first against the most delinquent local account, the collection of which is not subject to a defense of an applicable statute of limitations.</p><p>Code 1950, § 58-961; 1956, c. 69; 1979, c. 259; 1984, c. 675.</p>

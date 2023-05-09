@@ -1,3 +1,0 @@
-# § 3.2-4309 Unlawful removal of markings.
-
-<p>It is unlawful, except with the consent of the original packer, or in compliance with the regulations, for any person to remove from any agricultural product any markings that meet the requirements of this article relating to grade, classification, quality, condition, size, variety, quantity and other characteristics, or identify the party responsible for the packing or marking.</p><p>Code 1950, § 3-267; 1966, c. 702, § 3.1-346; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

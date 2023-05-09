@@ -1,3 +1,0 @@
-# § 58.1-2610 Penalty for failure to file timely report.
-
-<p>Any person failing to make a report required under the provisions of this chapter within the time prescribed shall be liable to a penalty of $100 for each day such taxpayer is late in making such report. The State Corporation Commission or Tax Commissioner, as the case may be, may waive all or a part of such penalty for good cause.</p><p>Code 1950, §§ 58-514, 58-539, 58-625; 1978, c. 784; 1983, c. 570; 1984, c. 675; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0971'>971</a>.</p>

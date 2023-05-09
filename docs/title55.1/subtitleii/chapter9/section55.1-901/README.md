@@ -1,3 +1,0 @@
-# § 55.1-901 Applicability; effect of noncompliance.
-
-<p>A. This chapter applies only to transactions involving loans that (i) are made by lenders and (ii) will be secured by first deeds of trust or mortgages on real estate containing not more than four residential dwelling units.</p><p>B. Failure to comply with the provisions of this chapter shall not affect the validity or enforceability of any loan documents.</p><p>1980, c. 730, §§ 6.1-2.11, 6.1-2.14; 1993, c. 530; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>, § 55-525.9; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

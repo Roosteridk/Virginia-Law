@@ -1,3 +1,0 @@
-# § 28.2-1415 Judicial review.
-
-<p>An appeal from any Commission decision granting or denying a permit or from any Commission decision on the review of or appeal from a board decision may be taken by the applicant, any of the freeholders specified in subsection A of § <a href='http://law.lis.virginia.gov/vacode/28.2-1411/'>28.2-1411</a>, or by the county, city or town where the dunes or beaches are located. Judicial review shall be pursuant to the provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>1992, c. 836; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0112'>112</a>.</p>

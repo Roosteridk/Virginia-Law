@@ -1,3 +1,0 @@
-# § 2.2-3009 Policy.
-
-<p>It shall be the policy of the Commonwealth that citizens of the Commonwealth and employees of governmental agencies be freely able to report instances of wrongdoing or abuse committed by governmental agencies or independent contractors of governmental agencies.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0340'>340</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0403'>403</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0292'>292</a>.</p>

@@ -1,3 +1,0 @@
-# § 60.2-529 Employer's benefit charges.
-
-<p>Any employer's benefit charges for a given calendar year shall be the total of the "benefit charges" which, pursuant to the provisions of § <a href='http://law.lis.virginia.gov/vacode/60.2-528/'>60.2-528</a>, are deemed to be the responsibility of such employer.</p><p>Code 1950, § 60-69; 1954, c. 203; 1962, c. 6; 1964, c. 3; 1968, c. 738, § 60.1-81; 1974, c. 466; 1977, c. 330; 1981, c. 606; 1986, c. 480.</p>

@@ -1,3 +1,0 @@
-# § 48-2 Presentment against person causing nuisance.
-
-<p>If upon a full investigation of the complaint mentioned in § <a href='http://law.lis.virginia.gov/vacode/48-1/'>48-1</a> the grand jury is satisfied that the nuisance complained of is of a public nature, it shall proceed to make presentment against such person or persons as they may find have created or caused such nuisance.</p><p>Code 1919, § 1520.</p>

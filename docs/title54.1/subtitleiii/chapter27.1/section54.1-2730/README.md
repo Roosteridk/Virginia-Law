@@ -1,3 +1,0 @@
-# § 54.1-2730 Scope of chapter.
-
-<p>Nothing in this chapter shall preclude or affect in any fashion the ability of any person to provide any assessment, evaluation, advice, counseling, information or services of any nature that are otherwise allowed by law, whether or not such services are provided in connection with the marketing and sale of products.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0391'>391</a>.</p>

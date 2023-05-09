@@ -1,3 +1,0 @@
-# § 23.1-2303 Membership.
-
-<p>A. The board shall consist of 16 members appointed by the Governor.</p><p>B. Notwithstanding § <a href='http://law.lis.virginia.gov/vacode/23.1-1300/'>23.1-1300</a>, members are eligible to serve for a total of two four-year terms which may be served consecutively; however, a member appointed by the Governor to serve an unexpired term is eligible to serve two additional four-year terms.</p><p>1968, c. 93, § 23-50.6; 1972, c. 51; 1981, c. 225; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

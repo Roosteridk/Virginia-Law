@@ -1,3 +1,0 @@
-# § 2.2-2420 Combined issuance of general obligation debt by the Treasury Board.
-
-<p>Bonds and notes issued by the Board may be issued and sold at the same time with other bonds and notes issued by the Board either as separate issues, a combined issue, or a combination of both.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0636'>636</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0656'>656</a>, § 2.1-179.5; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

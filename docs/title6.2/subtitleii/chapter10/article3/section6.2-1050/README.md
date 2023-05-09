@@ -1,3 +1,0 @@
-# § 6.2-1050 Directors.
-
-<p>The affairs of every trust subsidiary incorporated under the laws of the Commonwealth shall be managed by a board of directors. The board shall consist of not fewer than five individuals. A majority of the directors shall be citizens of the Commonwealth. Directors need not be stockholders of the trust subsidiary unless the articles of incorporation so require.</p><p>1974, c. 286, § 6.1-32.4; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

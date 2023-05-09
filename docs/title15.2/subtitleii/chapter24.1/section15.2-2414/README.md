@@ -1,3 +1,0 @@
-# § 15.2-2414 Definitions.
-
-<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Board" means the Board of Housing and Community Development.</p><p>"Department" means the Department of Housing and Community Development.</p><p>"Fund" means the Urban Public-Private Partnership Redevelopment Fund created by this chapter.</p><p>"Local government" or "locality" means any county, city or town in the Commonwealth.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0757'>757</a>.</p>

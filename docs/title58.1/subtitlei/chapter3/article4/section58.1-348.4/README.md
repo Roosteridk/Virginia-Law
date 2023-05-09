@@ -1,3 +1,0 @@
-# § 58.1-348.4 Failure to provide identification number; civil penalty.
-
-<p>A. No income tax return preparer may provide tax preparation services for Virginia income tax returns unless he provides his PTIN, as defined in § <a href='/vacode/58.1-348.3/'>58.1-348.3</a>, when submitting a return and signing as an income tax return preparer.</p><p>B. In addition to all other penalties provided by law, any person who violates subsection A shall pay a civil penalty to the Department in the amount of $50 per offense, but not to exceed $25,000 per calendar year. No penalty shall be imposed if the violation is reasonable and unintentional as determined by the Department.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0150'>150</a>.</p>

@@ -1,3 +1,0 @@
-# § 33.2-3200 Metropolitan planning organizations; membership.
-
-<p>Any metropolitan planning organization may vote, upon the prior written authorization of the Governor, to have its membership expanded to include members of the House of Delegates as selected by the Speaker of the House of Delegates and members of the Senate as selected by the Senate Committee on Rules.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0045'>45</a>, § 33.1-223.2:23; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

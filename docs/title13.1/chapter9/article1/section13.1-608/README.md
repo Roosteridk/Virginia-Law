@@ -1,3 +1,0 @@
-# § 13.1-608 Evidentiary effect of copy of filed document.
-
-<p>A certificate delivered with a copy of any document admitted to the records of the Commission, bearing the signature of the clerk of the Commission or a member of the staff of the office of the clerk, which in either case may be in facsimile, and the seal of the Commission, which may be in facsimile, is conclusive evidence that the document has been admitted to the records of the Commission.</p><p>1985, c. 522; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0765'>765</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0734'>734</a>.</p>

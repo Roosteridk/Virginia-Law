@@ -1,3 +1,0 @@
-# § 8.01-170 If allowance for improvements exceed damages, what to be done.
-
-<p>If the sum determined for the improvements exceed the damages determined by the jury against the defendant as aforesaid, they shall then determine against him, for any time before such five years, the rents and profits accrued against, or damage for waste or other injury done by him, or those under whom he claims, so far as may be necessary to balance his claim for improvements, but in such case he shall not be liable for the excess, if any, of such rents and profits, or damages, beyond the value of the improvements.</p><p>Code 1950, § 8-846; 1977, c. 617.</p>

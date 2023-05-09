@@ -1,3 +1,0 @@
-# § 38.2-1058 Felony for State Treasurer to dispose of securities illegally.
-
-<p>If the State Treasurer disposes of any securities deposited with him under this title, other than as provided in this title, he shall be guilty of a Class 3 felony, and, upon conviction, shall be punished by a fine double the amount of the disposed securities.</p><p>Code 1950, § 38-53; 1952, c. 317, § 38.1-122; 1986, c. 562.</p>

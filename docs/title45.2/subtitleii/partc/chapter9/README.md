@@ -1,1 +1,0 @@
-# 9 Requirements Applicable to Surface Coal Mines

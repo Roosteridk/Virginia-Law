@@ -1,3 +1,0 @@
-# § 54.1-2956.01 Exceptions to respiratory therapist's licensure.
-
-<p>The licensure requirements for respiratory therapists provided in this chapter shall not prohibit the practice of respiratory care as an integral part of a program of study by students enrolled in an accredited respiratory care education program approved by the Board. Any student enrolled in accredited respiratory care education programs shall be identified as "Student RT" and shall only deliver respiratory care under the direct supervision of an appropriate clinical instructor recognized by the education program.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0557'>557</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0302'>302</a>.</p>

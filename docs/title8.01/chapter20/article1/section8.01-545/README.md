@@ -1,3 +1,0 @@
-# § 8.01-545 Amendments; formal defects.
-
-<p>Such amendments shall be allowed of the petition, answer and of any of the other proceedings in the attachment as shall be conducive to the attainment of the ends of substantial justice, and upon such terms as to continuance and costs as may seem proper. An amendment when made shall as against the principal defendant and as to claims against him existing at the time the attachment was issued relate back to the time of the levy of the attachment, unless otherwise directed. No attachment shall be quashed or dismissed for mere formal defects.</p><p>Code 1950, § 8-532; 1977, c. 617.</p>

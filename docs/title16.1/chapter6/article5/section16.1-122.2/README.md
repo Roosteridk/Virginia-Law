@@ -1,3 +1,0 @@
-# § 16.1-122.2 Jurisdiction.
-
-<p>Notwithstanding any provision of law to the contrary, the small claims court shall have jurisdiction, concurrent with that of the general district court, over the civil action specified in § <a href='http://law.lis.virginia.gov/vacode/16.1-77/'>16.1-77</a> (1) when the amount claimed does not exceed $5,000, exclusive of interest.</p><p>1988, c. 799; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0704'>704</a>; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0141'>141</a>.</p>

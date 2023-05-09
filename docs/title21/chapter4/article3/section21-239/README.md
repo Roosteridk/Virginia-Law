@@ -1,3 +1,0 @@
-# § 21-239 Compensation and expenses of members.
-
-<p>The members of the commission, including the chairman, shall receive no salary, but shall be paid their necessary traveling and other expenses incurred in attendance upon meetings of the commission or while otherwise engaged in the discharge of their duties under this chapter, and the sum of $10 per diem for each day or portion thereof in which they are engaged in the performance of such duties, but the total of such per diem compensation so received by any member during any one year shall not exceed $300.</p><p>1946, p. 350; Michie Suppl. 1946, § 1560iii4.</p>

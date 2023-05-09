@@ -1,3 +1,0 @@
-# § 56-248 Commission to prescribe standard units of products or service.
-
-<p>The Commission shall ascertain and prescribe for each kind of public utility suitable standard commercial units of products or service. This section shall not apply to telephone companies.</p><p>Code 1919, § 4070; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0738'>738</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0740'>740</a>.</p>

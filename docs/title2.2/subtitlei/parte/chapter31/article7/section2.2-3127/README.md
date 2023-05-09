@@ -1,3 +1,0 @@
-# § 2.2-3127 Venue.
-
-<p>Any prosecution for a violation involving an officer serving at the state level of government shall be brought in the Circuit Court of the City of Richmond. Any prosecution for a violation involving an employee serving at the state level of government shall be within the jurisdiction in which the employee has his principal place of state employment.</p><p>Any proceeding provided in this chapter shall be brought in a court of competent jurisdiction within the county or city in which the violation occurs if the violation involves an officer or employee serving at the local level of government.</p><p>1987, Sp. Sess., c. 1, § 2.1-639.24; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

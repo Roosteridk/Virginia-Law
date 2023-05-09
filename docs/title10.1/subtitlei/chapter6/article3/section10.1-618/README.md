@@ -1,3 +1,0 @@
-# § 10.1-618 Ballots used in such referendum.
-
-<p>The question shall be submitted by ballots, which shall contain the following question: "Shall a watershed improvement district be created of the lands described below and lying in the county(ies) or city(ies) of __________ and __________?</p><p>[ ] Yes</p><p>[ ] No"</p><p>The ballot shall set forth the boundaries of the proposed district determined by the Board.</p><p>The ballot shall also set forth the method or methods of real estate assessment as determined by the district directors.</p><p>1956, c. 668, § 21-112.5; 1970, c. 480, § 21-112.4:1; 1977, c. 40; 1988, c. 891.</p>

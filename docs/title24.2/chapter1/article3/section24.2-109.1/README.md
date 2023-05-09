@@ -1,3 +1,0 @@
-# § 24.2-109.1 Performance review of general registrars.
-
-<p>The electoral board shall conduct an annual performance review of the general registrar for years ending June 30, 2006, and thereafter. The electoral board shall complete the review by August 1 of each year, retain a copy of the performance review, and provide a summary of the review to the State Board. The performance review shall be conducted in accordance with the format and forms provided by the State Board.</p><p>2004, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0027'>27</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0391'>391</a>; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0235'>235</a>.</p>

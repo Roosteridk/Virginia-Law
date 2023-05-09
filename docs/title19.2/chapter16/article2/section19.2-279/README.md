@@ -1,3 +1,0 @@
-# § 19.2-279 Penalty for failure of such witnesses to testify.
-
-<p>If such witness, after coming into this Commonwealth, fails without good cause to attend and testify as directed in the summons, he shall be punished in the manner provided for the punishment of any witness who disobeys a summons issued from a court of record in this Commonwealth.</p><p>Code 1950, § 19.1-276; 1960, c. 366; 1975, c. 495.</p>

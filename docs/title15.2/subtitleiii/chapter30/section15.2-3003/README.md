@@ -1,3 +1,0 @@
-# § 15.2-3003 Service on special court.
-
-<p>Judges selected for the panel shall continue to perform their regular duties as required by law. Appointment by the Supreme Court to sit on a three-judge court shall relieve the judge of his other duties to the extent necessary to serve on the three-judge court and participate in the proceedings and decision.</p><p>1979, c. 85, § 15.1-1170; 1997, c. 587.</p>

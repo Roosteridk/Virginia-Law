@@ -1,3 +1,0 @@
-# § 32.1-202 Power of counties, cities and towns not limited.
-
-<p>Nothing contained in this article shall in any way limit the power of any county, city or town to regulate by ordinance sanitary conditions in service stations and public gathering places located therein, but no such ordinance may impose requirements less stringent than the regulations of the Board.</p><p>Code 1950, § 32-63; 1979, c. 711.</p>

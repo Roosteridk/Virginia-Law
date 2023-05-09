@@ -1,3 +1,0 @@
-# § 44-54.10 Discipline.
-
-<p>All members of the Virginia Defense Force on training duty or state active duty shall be subject to military discipline. Infractions of military discipline by members of the Virginia Defense Force on training duty or state active duty shall be punishable under the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/44-40/'>44-40</a> and <a href='http://law.lis.virginia.gov/vacode/44-40.01/'>44-40.01</a>.</p><p>1989, c. 414; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0572'>572</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0586'>586</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0339'>339</a>.</p>

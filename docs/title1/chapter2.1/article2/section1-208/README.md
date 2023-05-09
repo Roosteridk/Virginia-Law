@@ -1,3 +1,0 @@
-# § 1-208 City.
-
-<p>"City" means an independent incorporated community which became a city as provided by law before noon on July 1, 1971, or which has within defined boundaries a population of 5,000 or more and which has become a city as provided by law.</p><p>Code 1919, § 5; Code 1950, § 1-13; 1950, p. 21; 1971, Ex. Sess., c. 49, § 1-13.2; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0155'>155</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

@@ -1,3 +1,0 @@
-# § 38.2-6407 Exemptions from chapter.
-
-<p>This chapter does not apply to:</p><p>1. Any insurance policy offered by an insurer under the insurance laws of the Commonwealth; or</p><p>2. A debt cancellation or debt suspension contract offered (i) by a bank or credit union regulated pursuant to Title 6.2 or (ii) in compliance with 12 C.F.R. Part 37, 12 C.F.R. Part 721, or other federal law.</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0799'>799</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0800'>800</a>.</p>

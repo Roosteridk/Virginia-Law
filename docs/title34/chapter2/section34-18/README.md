@@ -1,3 +1,0 @@
-# § 34-18 Rents and profits exempt; increase in value of estate set apart.
-
-<p>The rents and profits of the property set apart shall be exempt in the same manner as the corpus of such property and if the whole real and personal estate set apart be not of greater value than the amount the householder is entitled to exempt at the time it is so set apart, the exemption thereof shall not be affected by any increase in its value afterwards, unless such increase consists of permanent improvements placed upon real estate set apart by means derived from some source other than exempt property.</p><p>Code 1919, § 6544; 1975, c. 466; 1977, c. 496; 1990, c. 942.</p>

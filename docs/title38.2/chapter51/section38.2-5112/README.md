@@ -1,3 +1,0 @@
-# § 38.2-5112 Duty on agents or brokers.
-
-<p>Any person acting, or offering to act, as an agent or surplus lines broker for a risk retention group or purchasing group, which solicits members, sells insurance coverage, purchases coverage for its members located within this Commonwealth or otherwise does business in this Commonwealth shall, before commencing any such activity, comply with the applicable provisions of Chapters 18 and 48 of this title, relating to property and casualty insurance agents and surplus lines brokers.</p><p>1987, c. 585.</p>

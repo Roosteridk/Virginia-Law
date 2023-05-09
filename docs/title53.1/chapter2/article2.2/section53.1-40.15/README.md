@@ -1,3 +1,0 @@
-# § 53.1-40.15 Training of correctional facility employees regarding pregnant inmates.
-
-<p>For correctional officers, and juvenile correctional officers who may have contact with pregnant inmates, the compulsory minimum entry-level training standards established pursuant to § <a href='/vacode/9.1-102/'>9.1-102</a> shall include training on the general care of pregnant women, the impact of restraints on pregnant inmates and fetuses, the impact of being placed in restrictive housing or solitary confinement on pregnant inmates, and the impact of body cavity searches on pregnant inmates.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0526'>526</a>.</p>

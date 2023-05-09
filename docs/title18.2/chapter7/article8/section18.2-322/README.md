@@ -1,3 +1,0 @@
-# § 18.2-322 Expectorating in public places.
-
-<p>No person shall spit, expectorate, or deposit any sputum, saliva, mucus, or any form of saliva or sputum upon the floor, stairways, or upon any part of any public building or place where the public assemble, or upon the floor of any part of any public conveyance, or upon any sidewalk abutting on any public street, alley or lane of any town or city.</p><p>Any person violating any provision of this section shall be guilty of a Class 4 misdemeanor.</p><p>Code 1950, § 32-69; 1975, cc. 14, 15.</p>

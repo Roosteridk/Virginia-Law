@@ -1,3 +1,0 @@
-# § 54.1-2323 Financial records required.
-
-<p>The cemetery company shall file with the Board detailed accounts of all transactions, receipts and accounts receivable subject to the ten percent trust requirement and of all expenditures of income from the perpetual care trust fund at such times as required by the Board.</p><p>1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0708'>708</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0721'>721</a>.</p>

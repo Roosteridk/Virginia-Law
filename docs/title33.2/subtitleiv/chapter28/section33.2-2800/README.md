@@ -1,3 +1,0 @@
-# § 33.2-2800 Charlottesville-Albemarle Regional Transit Authority created.
-
-<p>There is hereby created a political subdivision of the Commonwealth known as the Charlottesville-Albemarle Regional Transit Authority, for purposes of this chapter referred to as "the Authority."</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0645'>645</a>, § 15.2-7023; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

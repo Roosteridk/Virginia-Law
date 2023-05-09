@@ -1,3 +1,0 @@
-# § 3.2-2107 Question to be printed on ballots.
-
-<p>The question to be printed on the ballots used in any referendum authorized in § <a href='http://law.lis.virginia.gov/vacode/3.2-2105/'>3.2-2105</a> on the continuation of the Sheep Industry Board and assessment shall be as follows:</p><p>"Do you favor the continuation of the Sheep Industry Board and the continuation of the levy of an assessment of up to $1 per head for all sheep sold within the Commonwealth?</p><p>_____ Yes</p><p>_____ No."</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0691'>691</a>, § 3.1-1073; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

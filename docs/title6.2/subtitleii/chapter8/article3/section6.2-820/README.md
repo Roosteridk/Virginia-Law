@@ -1,3 +1,0 @@
-# § 6.2-820 Powers of national banks as fiduciaries.
-
-<p>All national banks that have been, or hereafter may be, permitted by law to act as trustee and in other fiduciary capacities, shall have the rights, powers, privileges, and immunities conferred upon trust companies by Chapter 10 (§ <a href='http://law.lis.virginia.gov/vacode/6.2-1000/'>6.2-1000</a> et seq.).</p><p>Code 1950, §§ 6-94, 6-104; 1966, c. 584, § 6.1-17; 1984, c. 172; 1993, c. 432; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0801'>801</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

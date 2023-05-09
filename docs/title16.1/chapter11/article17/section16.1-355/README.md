@@ -1,3 +1,0 @@
-# § 16.1-355 Review of standby guardianship.
-
-<p>A child's parent, stepparent, adult sibling or any adult related to the child by blood, marriage or adoption may petition the court which approved the standby guardian at any time following such approval and prior to any termination of the standby guardianship for review of whether continuation of the standby guardianship is in the best interests of the child. Notice of the filing of a petition shall promptly be given to the standby guardian, the child, if the child is twelve or more years of age, and each parent of the child whose identity and whereabouts are known or could reasonably be ascertained.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0829'>829</a>.</p>

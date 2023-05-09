@@ -1,3 +1,0 @@
-# § 16.1-278.17 Pendente lite support.
-
-<p>In cases involving (i) the custody, visitation or support of a child arising under subdivision A 3 of § <a href='http://law.lis.virginia.gov/vacode/16.1-241/'>16.1-241</a>, (ii) spousal support arising under subsection L of § <a href='http://law.lis.virginia.gov/vacode/16.1-241/'>16.1-241</a>, or (iii) support, maintenance, care, and custody of a child or support and maintenance of a spouse transferred to the juvenile and domestic relations district court pursuant to § <a href='http://law.lis.virginia.gov/vacode/20-79/'>20-79</a>, the court may enter support orders in pendente lite proceedings, provided such proceedings are not ex parte.</p><p>1991, c. 534.</p>

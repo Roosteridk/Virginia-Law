@@ -1,3 +1,0 @@
-# § 22.1-289.2 Compensation of public school employees called to active duty military service.
-
-<p>Public school employees whose active duty service with the regular armed forces of the United States or the National Guard or other reserve component has required their absence from their full-time employment in a school division shall receive supplemental pay as determined by and from the relevant local school division if the military compensation of such employee is less than the regular salary paid to such employee by the school division.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0528'>528</a>.</p>

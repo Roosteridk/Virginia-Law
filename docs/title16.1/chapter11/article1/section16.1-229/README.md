@@ -1,3 +1,0 @@
-# § 16.1-229 This chapter controlling in event of conflict.
-
-<p>Whenever any specific provision of this chapter differs from or is in conflict with any provision or requirement of any other chapters of this title relating to the same or a similar subject, then such specific provision shall be controlling with respect to such subject or requirement.</p><p>Code 1950, § 16.1-142; 1956, c. 555; 1977, c. 559.</p>

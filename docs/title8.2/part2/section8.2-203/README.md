@@ -1,3 +1,0 @@
-# § 8.2-203 Seals inoperative.
-
-<p>The affixing of a seal to a writing evidencing a contract for sale or an offer to buy or sell goods does not constitute the writing a sealed instrument and the law with respect to sealed instruments does not apply to such a contract or offer.</p><p>1964, c. 219.</p>

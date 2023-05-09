@@ -1,3 +1,0 @@
-# § 54.1-2979 No liability for nonnegligent performance of operation.
-
-<p>Subject to the rules of law applicable generally to negligence, no physician licensed by the Board of Medicine shall be either civilly or criminally liable by reason of having performed a vasectomy, salpingectomy, or other surgical sexual sterilization procedure upon any person in this Commonwealth as authorized by this article.</p><p>1981, c. 454, § 54-325.14; 1988, c. 765.</p>

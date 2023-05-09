@@ -1,3 +1,0 @@
-# § 55.1-2141 Quorums.
-
-<p>A. Unless the bylaws provide otherwise, a quorum is present throughout any meeting of the association if persons entitled to cast 20 percent of the votes that may be cast for election of the executive board are present in person or by proxy at the beginning of the meeting.</p><p>B. Unless the bylaws specify a larger percentage, a quorum is deemed present throughout any meeting of the executive board if persons entitled to cast 50 percent of the votes on that board are present at the beginning of the meeting.</p><p>1982, c. 277, § 55-466; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

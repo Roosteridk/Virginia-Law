@@ -1,3 +1,0 @@
-# § 59.1-68.2 Authority of Attorney General.
-
-<p>Notwithstanding any other provisions of the law to the contrary, the Attorney General may investigate and bring an action in the name of the Commonwealth to enjoin any violation of Chapters 2.1 (§ <a href='http://law.lis.virginia.gov/vacode/59.1-21.1/'>59.1-21.1</a> et seq.) through 3.1 (§ <a href='http://law.lis.virginia.gov/vacode/59.1-41.1/'>59.1-41.1</a> et seq.) and of Article 8 (§ <a href='http://law.lis.virginia.gov/vacode/18.2-214/'>18.2-214</a> et seq.), Chapter 6 of Title 18.2.</p><p>1970, c. 780; 1973, c. 537; 1975, c. 43; 1984, c. 582.</p>

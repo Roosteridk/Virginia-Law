@@ -1,3 +1,0 @@
-# § 8.01-571 When defendant not served fails to appear plaintiff required to give bond.
-
-<p>If the principal defendant has not appeared or been served with a copy of the attachment ten days before the judgment therein mentioned, the plaintiff shall not have the benefit of § <a href='http://law.lis.virginia.gov/vacode/8.01-570/'>8.01-570</a> unless and until he shall have given bond with sufficient surety in such penalty as the court shall approve, with condition to perform such future order as may be made upon the appearance of such defendant and his making defense. If the plaintiff fail to give such bond in a reasonable time, the court shall dispose of the estate attached, or the proceeds thereof, as to it shall seem just.</p><p>Code 1950, § 8-542; 1977, c. 617.</p>

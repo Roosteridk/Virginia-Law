@@ -1,3 +1,0 @@
-# § 22.1-88 Of what school funds to consist.
-
-<p>The funds available to the school board of a school division for the establishment, support and maintenance of the public schools in the school division shall consist of state funds appropriated for public school purposes and apportioned to the school board, federal funds appropriated for educational purposes and apportioned to the school board, local funds appropriated to the school board by a local governing body or such funds as shall be raised by local levy as authorized by law, donations or the income arising therefrom, and any other funds that may be set apart for public school purposes.</p><p>Code 1950, § 22-116; 1971, Ex. Sess., c. 162; 1980, c. 559; 1988, c. 576.</p>

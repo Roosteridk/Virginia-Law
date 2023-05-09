@@ -1,3 +1,0 @@
-# § 46.2-746.2:6 Special license plates; members of the Veterans of Foreign Wars of the United States organization.
-
-<p>On receipt of an application therefor and presentation of written evidence that the applicant is a member of the Veterans of Foreign Wars of the United States organization, the Commissioner shall issue special license plates to the applicant.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0273'>273</a>.</p>

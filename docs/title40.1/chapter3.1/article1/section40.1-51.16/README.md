@@ -1,3 +1,0 @@
-# § 40.1-51.16 Appeals.
-
-<p>Any person aggrieved by an order or an act of the Board or Commissioner under this chapter may appeal such order or act to the Board pursuant to the provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.). Final orders of the Board may be appealed pursuant to the Administrative Process Act.</p><p>1972, c. 237; 1986, c. 615; 1988, c. 289.</p>

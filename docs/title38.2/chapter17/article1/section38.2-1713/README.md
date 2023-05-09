@@ -1,3 +1,0 @@
-# § 38.2-1713 Immunity.
-
-<p>There shall be no liability on the part of, and no cause of action of any nature shall arise against, any member insurer or its agents or employees, the Association or its agents or employees, members of the board of directors, or the Commission or its representatives, for any action taken by them in the performance of their powers and duties under this chapter. This immunity shall extend to the participation in any organization of one or more other state associations of similar purposes and to any such organization and its agents or employees.</p><p>1976, c. 330, § 38.1-482.31; 1986, c. 562; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0510'>510</a>.</p>

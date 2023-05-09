@@ -1,3 +1,0 @@
-# § 18.2-33 Felony homicide defined; punishment.
-
-<p>The killing of one accidentally, contrary to the intention of the parties, while in the prosecution of some felonious act other than those specified in §§ <a href='http://law.lis.virginia.gov/vacode/18.2-31/'>18.2-31</a> and <a href='http://law.lis.virginia.gov/vacode/18.2-32/'>18.2-32</a>, is murder of the second degree and is punishable by confinement in a state correctional facility for not less than five years nor more than forty years.</p><p>1975, cc. 14, 15; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0282'>282</a>.</p>

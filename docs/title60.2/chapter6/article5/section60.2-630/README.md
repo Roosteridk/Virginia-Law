@@ -1,3 +1,0 @@
-# § 60.2-630 Authority to set aside or vacate determinations and decisions.
-
-<p>The Commission may, in its discretion, at any time before a determination or decision becomes final pursuant to §§ <a href='http://law.lis.virginia.gov/vacode/60.2-619/'>60.2-619</a>, <a href='http://law.lis.virginia.gov/vacode/60.2-621/'>60.2-621</a>, or § <a href='http://law.lis.virginia.gov/vacode/60.2-622/'>60.2-622</a>, with good cause set aside or modify any such determination or decision.</p><p>1981, c. 74, § 60.1-68.1; 1986, c. 480.</p>

@@ -1,3 +1,0 @@
-# § 36-48.1 Creation of Conservation Areas.
-
-<p>A conservation area as defined in § <a href='http://law.lis.virginia.gov/vacode/36-3/'>36-3</a> may be created by an authority as provided in this chapter and a conservation plan may be adopted to provide for the conservation, rehabilitation, and revitalization of such conservation area. The conservation plan shall (i) outline specific boundaries for the conservation area, (ii) be adopted in accordance with § <a href='http://law.lis.virginia.gov/vacode/36-49.1/'>36-49.1</a>, and (iii) satisfy the requirements as set forth in § <a href='http://law.lis.virginia.gov/vacode/36-51.1/'>36-51.1</a>.</p><p>1964, c. 378; 1978, c. 360; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0784'>784</a>.</p>

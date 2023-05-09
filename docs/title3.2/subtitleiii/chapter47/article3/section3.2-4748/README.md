@@ -1,3 +1,0 @@
-# § 3.2-4748 Hearing before the Commissioner.
-
-<p>Before the Commissioner refuses or revokes a license, the applicant or licensee shall have the right to review in accordance with the provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>1970, c. 400, § 3.1-722.12; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0340'>340</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

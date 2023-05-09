@@ -1,3 +1,0 @@
-# § 2.2-2493 Compensation; expenses.
-
-<p>Members of the Board shall receive no compensation for their services but shall be reimbursed for all reasonable and necessary expenses incurred in the performance of their duties as provided in §§ <a href='/vacode/2.2-2813/'>2.2-2813</a> and <a href='/vacode/2.2-2825/'>2.2-2825</a>.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0594'>594</a>.</p>

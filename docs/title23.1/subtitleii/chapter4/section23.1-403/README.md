@@ -1,3 +1,0 @@
-# § 23.1-403 Access to campus and student directory provided to certain persons and groups.
-
-<p>Any public institution of higher education that provides access to its campus and student directory to persons or groups for occupational, professional, or educational recruitment shall provide access on the same basis to official recruiting representatives of the Armed Forces of the United States and the Commonwealth.</p><p>1982, c. 258, § 23-2.1:1; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

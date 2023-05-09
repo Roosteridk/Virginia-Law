@@ -1,3 +1,0 @@
-# § 62.1-44.15:59 Reporting.
-
-<p>Each VESCP authority shall report to the Department, in a method such as an online reporting system and on a time schedule established by the Department, a listing of each land-disturbing activity for which a plan has been approved by the VESCP under this article.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0102'>102</a>, § 10.1-566.1; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0785'>785</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0819'>819</a>; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0756'>756</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0793'>793</a>.</p>

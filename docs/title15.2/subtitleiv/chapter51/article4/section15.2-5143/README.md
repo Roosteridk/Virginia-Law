@@ -1,3 +1,0 @@
-# § 15.2-5143 Purchase in open market or otherwise.
-
-<p>Provision may be made in the proceedings authorizing refunding revenue bonds for the purchase of the refunded revenue bonds in the open market or pursuant to tenders made from time to time when there is available in the escrow or sinking fund for the payment of the refunded revenue bonds a surplus in an amount or amounts to be fixed in such proceedings.</p><p>1997, c. 587.</p>

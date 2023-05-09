@@ -1,3 +1,0 @@
-# § 58.1-3388 In counties not having general reassessment, or annual or biennial assessment, taxes to be extended on basis of last equalization made.
-
-<p>In every county not having a general reassessment or an annual or biennial assessment of real estate, taxes for each year on real estate shall be extended on the basis of the last equalization made prior to such year, subject to such changes as may have been lawfully made.</p><p>Code 1950, § 58-913; 1979, c. 577; 1984, c. 675.</p>

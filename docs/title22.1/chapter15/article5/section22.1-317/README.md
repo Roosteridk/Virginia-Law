@@ -1,3 +1,0 @@
-# § 22.1-317 Superintendent of Public Instruction to be "designated state official.".
-
-<p>The "designated state official" for this Commonwealth for the purposes of the Interstate Agreement on Qualification of Educational Personnel shall be the Superintendent of Public Instruction. The Superintendent of Public Instruction shall enter into contracts pursuant to Article III of the Agreement only with the approval of the specific text thereof by the Board of Education.</p><p>Code 1950, § 22-349; 1970, c. 193; 1980, c. 559.</p>

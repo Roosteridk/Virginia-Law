@@ -1,3 +1,0 @@
-# § 32.1-69.1:1 Dissemination of information regarding birth defects.
-
-<p>The Commissioner shall develop a publication concerning the role of folic acid in the prevention of birth defects for distribution to physicians, hospitals and other medical facilities, and local health departments for use with patients. The publication shall be distributed by the Virginia Department of Health to the offices of the clerks of the circuit courts and made available to applicants for marriage licenses.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0582'>582</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0802'>802</a>.</p>

@@ -1,3 +1,0 @@
-# § 3.2-1807 Question to be printed on ballots.
-
-<p>The question to be printed on the ballots used in a referendum pursuant to this article shall be as follows:</p><p>"Do you favor additional research, education, publicity, advertising, and other promotion of potatoes and the continuation of the levy of two cents ($0.02) per 100 pounds in accordance with the provisions of the Board law to support the same?</p><p>_____ Yes</p><p>_____ No."</p><p>1982, c. 126, § 3.1-684.31; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

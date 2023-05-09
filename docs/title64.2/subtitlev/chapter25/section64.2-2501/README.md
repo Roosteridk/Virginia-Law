@@ -1,3 +1,0 @@
-# § 64.2-2501 Slayer not to acquire property as result of slaying.
-
-<p>A slayer, or any transferee, assignee, or other person claiming through the slayer, shall not in any way acquire any property or receive any benefits as the result of the death of the decedent, but such property or benefits shall pass as provided in this chapter.</p><p>1981, c. 469, § 55-402; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0822'>822</a>, 830l; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

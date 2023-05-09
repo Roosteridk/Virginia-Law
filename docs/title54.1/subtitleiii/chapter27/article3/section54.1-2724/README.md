@@ -1,3 +1,0 @@
-# § 54.1-2724 Limitations on the employment of dental hygienists.
-
-<p>The Board shall determine by regulation the total number of dental hygienists, including dental hygienists under general supervision and dental hygienists under remote supervision, who may work at one time for a dentist. No dentist shall employ more than two dental hygienists who practice under remote supervision at one time. The State Board of Health may employ the necessary number of hygienists in public school dental clinics, subject to regulations of the Board.</p><p>1950, p. 984, § 54-200.6; 1972, c. 805; 1978, c. 247; 1988, c. 765; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0497'>497</a>.</p>

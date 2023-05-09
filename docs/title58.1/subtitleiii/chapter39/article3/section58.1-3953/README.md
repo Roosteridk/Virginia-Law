@@ -1,3 +1,0 @@
-# § 58.1-3953 Additional proceedings for the collection of taxes; jurisdiction and venue.
-
-<p>The payment of any county, city or town taxes, may, in addition to the other remedies provided in this chapter, be enforced by action at law, suit in equity or by attachment in the same manner, to the same extent and with the same rights of appeal as now exist or may hereafter be provided by law for the enforcement of demands between individuals. The venue for any such proceeding under this section shall be as specified in subdivision 13 a of § <a href='http://law.lis.virginia.gov/vacode/8.01-261/'>8.01-261</a>.</p><p>Code 1950, § 58-1014; 1954, c. 333; 1977, c. 624; 1981, c. 421; 1984, c. 675.</p>

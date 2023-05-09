@@ -1,3 +1,0 @@
-# § 24.2-447 Persons registered prior to this title.
-
-<p>Any person validly registered to vote as of December 1, 1993, shall continue to be registered subject to the provisions of this title.</p><p>Code 1950, § 24-117; 1970, c. 462, § 24.1-69; 1993, c. 641.</p>

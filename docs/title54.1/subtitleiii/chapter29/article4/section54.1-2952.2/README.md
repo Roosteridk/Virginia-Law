@@ -1,3 +1,0 @@
-# § 54.1-2952.2 When physician assistant signature accepted.
-
-<p>Whenever any law or regulation requires a signature, certification, stamp, verification, affidavit, or endorsement by a physician, it shall be deemed to include a signature, certification, stamp, verification, affidavit, or endorsement by a physician assistant.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0468'>468</a>.</p>

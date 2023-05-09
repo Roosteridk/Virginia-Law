@@ -1,3 +1,0 @@
-# § 33.2-2611 Use of revenues by the Commission.
-
-<p>Notwithstanding any other provision of this chapter, all moneys received by the Commission shall be used by the Commission solely for the benefit of those counties and cities that are embraced by the Commission, and such moneys shall be used by the Commission in a manner that is consistent with the purposes stated in this chapter.</p><p>2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0545'>545</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0678'>678</a>.</p>

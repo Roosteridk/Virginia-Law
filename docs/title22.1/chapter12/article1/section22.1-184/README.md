@@ -1,3 +1,0 @@
-# § 22.1-184 School bus emergency drills.
-
-<p>At every public school having public school buses there shall be held, at least once during the first ninety calendar days of each school session and oftener if necessary, a drill in leaving school buses under emergency circumstances.</p><p>Code 1950, § 22-280.2; 1964, c. 174; 1980, c. 559.</p>

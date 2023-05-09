@@ -1,3 +1,0 @@
-# § 33.2-242 Replacing entrances destroyed in the repair or construction of highways.
-
-<p>The Commissioner of Highways shall review the existing access to any parcel of land having an entrance destroyed in the repair or construction of the systems of state highways and shall provide access to the systems of state highways in a manner that will serve the parcel of land and ensure efficient and safe highway operation.</p><p>Code 1950, § 33-117; 1970, c. 322, § 33.1-199; 2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0863'>863</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0928'>928</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

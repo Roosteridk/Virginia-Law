@@ -1,3 +1,0 @@
-# § 15.2-7223 Contracts with political subdivisions.
-
-<p>The Authority is authorized to enter into contracts with the Commonwealth, with the states it operates within, with any one or more political subdivisions within and without the Commonwealth, and with any other person or entity for any legal purpose.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0117'>117</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0210'>210</a>.</p>

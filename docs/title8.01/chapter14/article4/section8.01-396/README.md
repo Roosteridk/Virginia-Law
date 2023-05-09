@@ -1,3 +1,0 @@
-# § 8.01-396 No person incompetent to testify by reason of interest, or because a party.
-
-<p>No person shall be incompetent to testify because of interest, or because of his being a party to any civil action; but he shall, if otherwise competent to testify, and subject to the rules of evidence and practice applicable to other witnesses, be competent to give evidence in his own behalf and be competent and compellable to attend and give evidence on behalf of any other party to such action; but, in any case, the court, for good cause shown, may require any such person to attend and testify ore tenus and, upon his failure to so attend and testify, may exclude his deposition.</p><p>Code 1950, § 8-285; 1977, c. 617.</p>

@@ -1,3 +1,0 @@
-# § 8.01-478 On what property writ of fieri facias levied; when lien commences.
-
-<p>The writ of fieri facias may be levied as well on the current money and bank notes, as on the goods and chattels of the judgment debtor, except such as are exempt from levy under Title 34, and shall bind what is capable of being levied on only from the time it is actually levied by the officer to whom it has been delivered to be executed.</p><p>Code 1950, § 8-411; 1977, c. 617.</p>

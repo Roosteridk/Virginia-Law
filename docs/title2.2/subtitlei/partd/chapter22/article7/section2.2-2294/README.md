@@ -1,3 +1,0 @@
-# § 2.2-2294 Investment in, purchase or assignment of loans; conditions.
-
-<p>The Authority may invest in, purchase or make commitments to invest in or purchase, and take assignments or make commitments to take assignments, of loans made by lenders for the acquisition, construction, rehabilitation, expansion or purchase of a project for eligible business.</p><p>1984, c. 749, § 9-218; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0339'>339</a>.</p>

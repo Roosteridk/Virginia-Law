@@ -1,3 +1,0 @@
-# § 56-412.2 Ordinances conflicting with § 56-412.1.
-
-<p>No city, town or county shall adopt any ordinance, order or resolution in conflict with the provisions of § <a href='http://law.lis.virginia.gov/vacode/56-412.1/'>56-412.1</a> and all ordinances, orders or resolutions of any city, town or county heretofore adopted in conflict with such section are hereby repealed to the extent of such conflict.</p><p>1958, c. 242.</p>

@@ -1,3 +1,0 @@
-# § 59.1-502.15 Electronic message; when effective; effect of acknowledgment.
-
-<p>(a) Receipt of an electronic message is effective when properly addressed and received.</p><p>(b) Receipt of an electronic acknowledgment of an electronic message establishes that the message was received but by itself does not establish that the content sent corresponds to the content received.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0101'>101</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0996'>996</a>.</p>

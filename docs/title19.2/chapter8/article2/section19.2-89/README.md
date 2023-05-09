@@ -1,3 +1,0 @@
-# § 19.2-89 Extradition of persons imprisoned or awaiting trial in another state.
-
-<p>When it is desired to have returned to this Commonwealth a person charged in this Commonwealth with a crime and such person is imprisoned or is held under criminal proceedings then pending against him in another state, the Governor may agree with the executive authority of such other state for the extradition of such person before the conclusion of such proceedings or his term of sentence in such other state, upon condition that such person be returned to such other state at the expense of this Commonwealth as soon as the prosecution in this Commonwealth is terminated.</p><p>Code 1950, § 19.1-53; 1960, c. 366; 1975, c. 495.</p>

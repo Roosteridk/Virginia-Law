@@ -1,3 +1,0 @@
-# § 28.2-312 Rappahannock River and certain of its tributaries; penalty.
-
-<p>It is unlawful for any person to use any haul seine (i) within 100 yards of mean low-water mark or 3 feet of water in depth at mean low water, whichever is closer to the shore, or (ii) over any oyster ground held under lease from the Commonwealth and marked as required by law in the waters of the Rappahannock River east of Downing Bridge at Tappahannock, and in its tributaries east of Downing Bridge. The restriction set forth in clause (i) shall be inapplicable where the written consent of the adjacent landowner has been obtained.</p><p>A violation of this section is a Class 3 misdemeanor.</p><p>Code 1950, § 28-89; 1962, c. 406, § 28.1-81; 1992, c. 836.</p>

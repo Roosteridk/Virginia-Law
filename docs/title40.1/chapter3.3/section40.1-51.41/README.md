@@ -1,3 +1,0 @@
-# § 40.1-51.41 Local ordinances.
-
-<p>A. Existing local ordinances adopted prior to July 1, 1972, shall continue in force; however, in the event of a conflict between a Board regulation, promulgated pursuant to this chapter, and a local ordinance, the Board regulation shall govern, except when the conflicting local ordinance is more stringent.</p><p>B. The governing body of any locality proposing to adopt an ordinance, or an amendment to an existing ordinance, relating to areas covered by asbestos NESHAP after June 30, 1972, shall first obtain the approval of the Board as to the provisions of the ordinance or amendment. The Board shall not approve any local ordinance less stringent than the pertinent regulations of the Board.</p><p>1992, c. 541.</p>

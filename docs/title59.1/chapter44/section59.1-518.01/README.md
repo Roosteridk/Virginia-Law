@@ -1,3 +1,0 @@
-# § 59.1-518.01 Communication with state agencies.
-
-<p>The Attorney General shall establish ongoing communication with the Department for Aging and Rehabilitative Services to ensure that adults, as defined in § <a href='/vacode/63.2-1603/'>63.2-1603</a>, have access to information regarding the prevention of potential patterns of financial exploitation. The Attorney General shall coordinate with the Commissioner of the Department for Aging and Rehabilitative Services to determine an effective and efficient manner of communicating such information, while also ensuring that confidential or privileged information is not exchanged.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0939'>939</a>.</p>

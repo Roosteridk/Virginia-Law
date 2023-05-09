@@ -1,3 +1,0 @@
-# § 6.2-930 Emergency sale of assets.
-
-<p>The FDIC as receiver, with ex parte approval of the receivership court, may sell all or any part of the closed bank's assets. All or any part of such assets may be sold to the Federal Deposit Insurance Corporation in its capacity as a corporation. The FDIC as receiver may also borrow from the FDIC, in its corporate capacity, any amount necessary to facilitate the assumption of deposit liabilities by an existing bank or a newly chartered bank, and may assign any part or all of the assets of the closed bank as security for such loan.</p><p>1983, c. 507, § 6.1-110.6; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

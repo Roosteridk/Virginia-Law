@@ -1,3 +1,0 @@
-# § 58.1-3102 Jurisdiction of commissioners.
-
-<p>The jurisdiction, powers and duties of commissioners shall not extend beyond the bounds of their respective counties or cities.</p><p>Code 1950, § 58-854; 1984, c. 675.</p>

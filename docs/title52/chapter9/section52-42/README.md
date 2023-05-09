@@ -1,3 +1,0 @@
-# § 52-42 Reward fund.
-
-<p>The Department, in cooperation with authorized insurers and insurance professionals, may establish and operate a fund to offer monetary rewards for information sufficient to procure conviction in a court of appropriate jurisdiction of a person or persons responsible for insurance fraud. No law-enforcement officer, employee of the Commission, employee of an insurance company or any insurance professional shall be eligible to receive such reward.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0590'>590</a>.</p>

@@ -1,3 +1,0 @@
-# § 28.2-1405 Local governing body to supply meeting space and services for wetlands board.
-
-<p>Every county, city or town enacting an ordinance pursuant to this chapter shall supply the board with reasonable meeting space and necessary secretarial, clerical, legal, and consulting services. The local governing body is authorized to expend the public funds necessary to comply with the provisions of this section.</p><p>1992, c. 836; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0112'>112</a>.</p>

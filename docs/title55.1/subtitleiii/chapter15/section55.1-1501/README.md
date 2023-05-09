@@ -1,3 +1,0 @@
-# § 55.1-1501 Form of instrument.
-
-<p>Any agreement in which a residential ground rent is created shall:</p><p>1. Be reduced to writing;</p><p>2. Be in recordable form; and</p><p>3. Disclose the date, the names of the parties, the ground rent and any future adjustments to the ground rent, when such rent is payable, the duration of the agreement, and the value of the land at the time the agreement is made. If the parties agree to the amount for which the ground rent may be redeemed, such amount shall also be included in the agreement. Such agreement shall be included as a part of the deed or other instrument of transfer.</p><p>1975, c. 363, § 55-79.02; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

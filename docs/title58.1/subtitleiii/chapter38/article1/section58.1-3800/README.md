@@ -1,3 +1,0 @@
-# § 58.1-3800 Levy.
-
-<p>In addition to the state recordation tax imposed by Chapter 8 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-800/'>58.1-800</a> et seq.) of this title, the governing body of any city or county is hereby authorized to impose a recordation tax, in an amount equal to one-third of the amount of the state recordation tax collectible for the Commonwealth, upon the first recordation of each taxable instrument in such city or county. No tax shall be levied under this section when the state recordation tax imposed under Chapter 8 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-800/'>58.1-800</a> et seq.) is fifty cents.</p><p>Code 1950, § 58-65.1; 1958, c. 590; 1972, c. 186; 1984, c. 675.</p>

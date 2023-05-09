@@ -1,3 +1,0 @@
-# § 38.2-3336 Provisions required by other jurisdictions.
-
-<p>Group life insurance policies issued by any foreign or alien insurer for delivery in this Commonwealth may contain any provision that is prescribed by the laws of its domiciliary jurisdiction and that is not in conflict with the laws of this Commonwealth. Policies issued by any domestic insurer for delivery in any other jurisdiction may contain any provision required by the laws of that jurisdiction.</p><p>Code 1950, § 38-430; 1952, c. 317, § 38.1-430; 1986, c. 562.</p>

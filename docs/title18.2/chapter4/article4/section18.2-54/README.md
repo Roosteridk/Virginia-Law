@@ -1,3 +1,0 @@
-# § 18.2-54 Conviction of lesser offenses under certain indictments.
-
-<p>On any indictment for maliciously shooting, stabbing, cutting or wounding a person or by any means causing him bodily injury, with intent to maim, disfigure, disable or kill him, or of causing bodily injury by means of any acid, lye or other caustic substance or agent, the jury or the court trying the case without a jury may find the accused not guilty of the offense charged but guilty of unlawfully doing such act with the intent aforesaid, or of assault and battery if the evidence warrants.</p><p>Code 1950, § 19.1-251; 1960, c. 366; 1975, cc. 14, 15.</p>

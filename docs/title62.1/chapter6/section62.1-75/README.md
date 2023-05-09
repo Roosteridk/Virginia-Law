@@ -1,3 +1,0 @@
-# § 62.1-75 Powers granted Commission are supplemental.
-
-<p>Any powers herein granted to the Commission shall be regarded as in aid of and supplemental to and in no case a limitation upon any of the powers vested in the Commission by other laws of this Commonwealth or by the laws of the states of Illinois, Indiana, Kentucky, New York, Ohio, Pennsylvania, West Virginia, Tennessee, or by Congress, or by the terms of the compact.</p><p>Code 1950, § 62-67.6; 1968, c. 659.</p>

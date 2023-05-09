@@ -1,3 +1,0 @@
-# § 18.2-57.5 Certain matters not to constitute defenses.
-
-<p>A. Another person's actual or perceived sex, gender, gender identity, or sexual orientation is not in and of itself, or together with an oral solicitation, a defense to any charge brought under this article.</p><p>B. Nothing in this section shall be construed to prevent a defendant from exercising his constitutionally protected rights, including his right to call for evidence in his favor that is relevant and otherwise admissible in a criminal prosecution.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0460'>460</a>.</p>

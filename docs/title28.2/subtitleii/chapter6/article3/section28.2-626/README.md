@@ -1,3 +1,0 @@
-# § 28.2-626 Refund of rent paid under mistake.
-
-<p>Whenever the Commissioner finds that a person has mistakenly paid to the Commonwealth any money that he is not legally obligated to pay, the Commissioner may refund the money. All amounts refunded under this section shall be paid out of the then current appropriations made for the Commissioner's use.</p><p>Code 1950, § 28-127; 1962, c. 406, § 28.1-113; 1992, c. 836.</p>

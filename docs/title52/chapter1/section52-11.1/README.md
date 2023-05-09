@@ -1,3 +1,0 @@
-# § 52-11.1 State Health Commissioner to cooperate.
-
-<p>The State Health Commissioner shall cause to be furnished to the Department of State Police all such assistance requested by the Superintendent of State Police or the authorized officers and agents of the Department of State Police as may be afforded by the technical staff of the Department of Health and the Chief Medical Examiner.</p><p>The State Health Commissioner may, in his discretion, furnish to any other law-enforcement officer or agency, such assistance as is afforded by the technical staff of the Department of Health and the Chief Medical Examiner.</p><p>R.P. 1948, § 52-11.1; 1952, c. 493; 1979, c. 123.</p>

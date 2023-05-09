@@ -1,3 +1,0 @@
-# § 29.1-571 Definition.
-
-<p>"Nonindigenous aquatic nuisance species" means a nonindigenous aquatic freshwater animal species whose presence in state waters poses or is likely to pose a significant threat of harm to (i) the diversity or abundance of any species indigenous to state waters; (ii) the ecological stability of state waters; or (iii) the commercial, industrial, agricultural, municipal, recreational, aquacultural, or other beneficial uses of state waters. Nonindigenous aquatic nuisance species shall include the zebra mussel, quagga mussel, and all species of snakehead fishes of the family Channidae.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0446'>446</a>.</p>

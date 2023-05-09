@@ -1,3 +1,0 @@
-# § 29.1-212 Precaution against fire.
-
-<p>The conservation police officer shall caution persons of the danger from fires and, if possible, extinguish all fires left burning by anyone. When possible, he shall notify any interested persons of fires raging beyond his control, so that the fires may be extinguished.</p><p>Code 1950, § 29-35; 1987, c. 488; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0087'>87</a>.</p>

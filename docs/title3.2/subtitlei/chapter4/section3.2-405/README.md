@@ -1,3 +1,0 @@
-# § 3.2-405 Appeal.
-
-<p>Decisions of the Commissioner may be appealed by persons aggrieved to the Board and thereafter to the circuit court in accordance with the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.). The imposition of any civil penalty shall be suspended pending such appeals.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0773'>773</a>, § 10.1-559.6; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

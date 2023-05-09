@@ -1,3 +1,0 @@
-# § 24.2-201 When term of officer elected to fill vacancy commences and expires.
-
-<p>The term of office of any person chosen at a special election to fill a vacancy in any public office shall commence as soon as he shall qualify and give bond, if bond is required, and shall continue for the unexpired term of such office. Any person so elected shall qualify and give bond, if bond is required, no later than thirty days following the date on which the special election was held.</p><p>Code 1950, § 24-144; 1970, c. 462, § 24.1-75; 1982, c. 146; 1993, c. 641.</p>

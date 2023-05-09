@@ -1,3 +1,0 @@
-# § 45.2-1300  Definitions.
-
-<p>As used in this article, unless the context requires a different meaning:</p><p>"Impound water" means to impound water for use in carrying out any part of the process necessary in the production or preparation of minerals.</p><p>"Refuse" means waste material resulting from a mineral mining operation.</p><p>"Silt" means fine particles resulting from a mineral mining operation, suspended in or deposited by water.</p><p>"Water" means water used in a mining operation.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0390'>390</a>, § 45.1-225.3; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

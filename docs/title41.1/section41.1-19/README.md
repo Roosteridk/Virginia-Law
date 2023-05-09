@@ -1,3 +1,0 @@
-# § 41.1-19 Same; proceedings by governing body of county or city.
-
-<p>The governing body of the county or city in which any waste or unappropriated land lies may, without deposit of costs, initiate proceedings under this chapter to have such lands sold under the provisions hereof.</p><p>Code 1950, § 41-88; 1952, c. 185; 1970, c. 291.</p>

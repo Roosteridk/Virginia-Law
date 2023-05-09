@@ -1,3 +1,0 @@
-# § 46.2-2151 Considerations for determination of issuance of certificate.
-
-<p>In determining whether the certificate of fitness required by this article shall be granted, the Department may, among other things, consider the provisions of § <a href='http://law.lis.virginia.gov/vacode/46.2-2108.6/'>46.2-2108.6</a>, the applicant's character and fitness, and the applicant's compliance with federal, state, and local taxes.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0881'>881</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0889'>889</a>.</p>

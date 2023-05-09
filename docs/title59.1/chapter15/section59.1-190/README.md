@@ -1,3 +1,0 @@
-# § 59.1-190 Rebuilt batteries.
-
-<p>To every storage battery which has been rebuilt and offered for sale in this Commonwealth, there shall be, in addition to the label or stamp required by § <a href='http://law.lis.virginia.gov/vacode/59.1-189/'>59.1-189</a>, permanently affixed to the container and above label or stamp required by § <a href='http://law.lis.virginia.gov/vacode/59.1-189/'>59.1-189</a>, the word "rebuilt," together with the name and address of the person, firm or corporation rebuilding such battery.</p><p>Code 1950, § 59-163; 1968, c. 439.</p>

@@ -1,3 +1,0 @@
-# § 19.2-225 Allegation of intent.
-
-<p>Where an intent to injure, defraud or cheat is required to constitute an offense, it shall be sufficient, in an indictment or accusation therefor, to allege generally an intent to injure, defraud or cheat without naming the person intended to be injured, defrauded or cheated; and it shall be sufficient, and not be deemed a variance, if there appear to be an intent to injure, defraud or cheat the United States, or any state, or any county, corporation, officer or person.</p><p>Code 1950, § 19.1-170; 1960, c. 366; 1975, c. 495.</p>

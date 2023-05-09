@@ -1,3 +1,0 @@
-# § 63.2-328 Bond.
-
-<p>Before entering upon the discharge of his duties, every local director shall enter bond with surety to be approved by the court or judge, in such sum as the court or judge may fix, conditioned upon the faithful discharge of his duties.</p><p>Code 1950, § 63-81; 1968, c. 578, § 63.1-64; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

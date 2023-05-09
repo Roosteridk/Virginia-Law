@@ -1,3 +1,0 @@
-# § 53.1-50 Vouchers, certificates and warrants not to be questioned.
-
-<p>No voucher, certificate or warrant issued on the Comptroller by any such department, institution or agency shall be questioned by him or by the State Treasurer on the ground that §§ <a href='http://law.lis.virginia.gov/vacode/53.1-47/'>53.1-47</a> through <a href='http://law.lis.virginia.gov/vacode/53.1-49/'>53.1-49</a> and § <a href='http://law.lis.virginia.gov/vacode/53.1-52/'>53.1-52</a> have not been complied with by such department, institution or agency.</p><p>Code 1950, § 53-71; 1982, c. 636.</p>

@@ -1,3 +1,0 @@
-# § 58.1-1016 Administration and enforcement of tax.
-
-<p>The Department shall administer and enforce the tax imposed by this article. It shall have the power to enter upon the premises of any person and to examine, or cause to be examined, by any agent or representative designated by it for that purpose, any books, papers, records, invoices, or memoranda, etc., bearing upon the amount of taxes payable, and to secure other information directly or indirectly concerned in the enforcement of this chapter.</p><p>Code 1950, § 58-757.15; 1960, c. 392, § 15; 1984, c. 675.</p>

@@ -1,3 +1,0 @@
-# § 23.1-2508 Cadets a military corps; arsenal.
-
-<p>A. The cadets shall be a military corps under the command of the superintendent and constitute the guard of the Institute.</p><p>B. The arsenal and all its grounds and buildings shall belong to the Institute, and the board shall guard and preserve the arsenal, all its grounds and buildings, and all arms and other property in its grounds and buildings.</p><p>Code 1919, §§ 838, 847, § 23-109; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

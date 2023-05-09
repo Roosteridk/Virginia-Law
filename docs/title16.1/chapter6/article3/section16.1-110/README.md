@@ -1,3 +1,0 @@
-# § 16.1-110 Bankruptcy of appellant does not release surety.
-
-<p>No surety in any appeal bond given by the appellant shall be released by the appellant's being adjudicated a bankrupt at any time subsequent to the judgment rendered in the court not of record, but such surety shall be entitled to make any defense on the trial of the appeal that the appellant could have made, except the defense of bankruptcy.</p><p>1956, c. 555.</p>

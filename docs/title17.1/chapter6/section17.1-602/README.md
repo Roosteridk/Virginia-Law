@@ -1,3 +1,0 @@
-# § 17.1-602 When successful plaintiff not to recover costs.
-
-<p>In any personal action not on contract, if a verdict is returned for the plaintiff, on an issue or otherwise, for less damages than ten dollars, he shall not recover in respect to such verdict any costs, unless the court enter of record that the object of the action was to try a right, besides the mere right to recover damages for the trespass or grievance in respect to which the action was brought, or that the trespass or grievance was willful or malicious.</p><p>Code 1950, § 14-176; 1964, c. 386, § 14.1-179; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

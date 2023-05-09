@@ -1,3 +1,0 @@
-# § 59.1-504.7 Modification of computer program.
-
-<p>A licensee that modifies a computer program, other than by using a capability of the program intended for that purpose in the ordinary course, does not invalidate any warranty regarding performance of an unmodified copy but does invalidate any warranties, express or implied, regarding performance of the modified copy. A modification occurs if a licensee alters code in, deletes code from, or adds code to the computer program.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0101'>101</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0996'>996</a>.</p>

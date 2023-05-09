@@ -1,3 +1,0 @@
-# § 8.01-224 Defense of governmental immunity not available to certain persons in actions for damages from blasting, etc.
-
-<p>The defense of governmental immunity shall not be available to any person, firm or corporation in any cause of action for damages to the property of others proximately or directly resulting from blasting or the use of explosives in the performance of work for or on behalf of any governmental agency.</p><p>Code 1950, § 8-654.5; 1970, c. 642; 1977, c. 617.</p>

@@ -1,3 +1,0 @@
-# § 58.1-3148 City charters not affected by particular provisions.
-
-<p>Nothing contained in this chapter in conflict with any special provision of the charter of any city, dealing specifically with the subject, shall be construed to supercede or repeal such provision.</p><p>Code 1950, §§ 58-936, 58-937; 1984, c. 675.</p>

@@ -1,3 +1,0 @@
-# § 65.2-528 Time limitations on persons under disability.
-
-<p>No limitation of time provided in this title for the giving of notice or making claim under this title shall run against any person who is incapacitated or under eighteen years of age, so long as he has no guardian, trustee, or conservator.</p><p>Code 1950, § 65-76; 1968, c. 660, § 65.1-79; 1991, c. 355; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0801'>801</a>.</p>

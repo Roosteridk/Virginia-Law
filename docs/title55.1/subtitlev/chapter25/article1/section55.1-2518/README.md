@@ -1,3 +1,0 @@
-# § 55.1-2518 Property held by courts.
-
-<p>All intangible property held for the owner by any state or federal court that has remained unclaimed by the owner for more than one year after it became payable is presumed abandoned.</p><p>1983, c. 190, § 55-210.9:1; 1985, c. 294; 2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0733'>733</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0745'>745</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

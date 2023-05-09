@@ -1,3 +1,0 @@
-# § 15.2-2603 Disposition of unclaimed funds due on matured bonds or coupons.
-
-<p>Any locality having bonds outstanding on which principal, premium or interest has matured for a period of more than five years may pay any money being held to pay the matured principal, premium or interest into the general fund of the locality. The locality shall maintain a record of the bonds for which the funds were held. Thereafter the owners of the matured bonds may look only to the locality for payment.</p><p>Code 1950, § 15-666.17; 1958, c. 640; 1962, c. 623, § 15.1-174; 1991, c. 668, § 15.1-227.6; 1997, c. 587.</p>

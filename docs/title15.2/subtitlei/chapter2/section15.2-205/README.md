@@ -1,3 +1,0 @@
-# § 15.2-205 Use of provisions of chapter not authorized for certain purposes.
-
-<p>Notwithstanding any provision of law to the contrary, the statutes within this chapter shall not be used as authorization for ordering or holding any election or referendum the results of which would cause or result in the abolition of any office set forth in Article VII, Section 4 of the Constitution of Virginia until the abolition of any such office has first been provided for by a general law or special act on such question alone and approved in a referendum.</p><p>1977, c. 684, § 15.1-836.1; 1979, c. 297; 1997, c. 587.</p>

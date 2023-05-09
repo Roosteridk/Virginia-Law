@@ -1,3 +1,0 @@
-# § 38.2-3309 Nonforfeiture benefits and cash surrender values.
-
-<p>A. Each individual life insurance policy shall contain a provision for nonforfeiture benefits. The provision shall specify the options to which the policyowner is entitled, in accordance with the requirements of § <a href='http://law.lis.virginia.gov/vacode/38.2-3202/'>38.2-3202</a>.</p><p>B. Each individual life insurance policy shall have a provision for cash surrender values in accordance with the requirements of § <a href='http://law.lis.virginia.gov/vacode/38.2-3203/'>38.2-3203</a>.</p><p>Code 1950, § 38-371(7), (8); 1950, p. 180; 1952, c. 317, § 38.1-398; 1986, c. 562.</p>

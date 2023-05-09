@@ -1,3 +1,0 @@
-# § 56-246 Tests and equipment therefor.
-
-<p>The Commission may purchase such materials, apparatus and standard measuring instruments for such examinations and tests as it may deem necessary, and may provide for the examinations and testing of the service or any part thereof of any public utility in this Commonwealth at such time and under such circumstances as the Commission may deem best.</p><p>Code 1919, § 4069.</p>

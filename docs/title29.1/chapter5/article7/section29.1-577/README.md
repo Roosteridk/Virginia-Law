@@ -1,3 +1,0 @@
-# § 29.1-577 Penalties.
-
-<p>Any person who violates any provision of this article or who knowingly obstructs the Director or his designee in carrying out his lawful duties under this article shall upon such finding by a court of proper jurisdiction (i) be subject to a civil penalty of not more than $25,000, which shall be paid into the Game Protection Fund established pursuant to § <a href='http://law.lis.virginia.gov/vacode/29.1-101/'>29.1-101</a>, and (ii) be liable for the costs of investigation, control, and eradication incurred by any state agency, local government, political subdivision, or authority as a result of such unlawful conduct.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0446'>446</a>.</p>

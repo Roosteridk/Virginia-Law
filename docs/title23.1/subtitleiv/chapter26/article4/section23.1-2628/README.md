@@ -1,3 +1,0 @@
-# § 23.1-2628 Virginia Water Resources Research Center established.
-
-<p>The Virginia Water Resources Research Center (the Water Center) is established to develop, implement, and coordinate water and related land research programs in the Commonwealth and transfer the results of research and new technology to potential users. The Water Center shall be located at the University.</p><p>1982, c. 379, § 23-135.7:8; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

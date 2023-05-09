@@ -1,3 +1,0 @@
-# § 38.2-3341 Standard provisions required.
-
-<p>No industrial life insurance policy shall be delivered or issued for delivery in this Commonwealth, unless it contains in substance the provisions prescribed in this article or provisions that are, in the Commission's opinion, more favorable to policyowners.</p><p>Code 1950, §§ 38-434, 38-435; 1952, c. 317, § 38.1-410; 1986, c. 562.</p>

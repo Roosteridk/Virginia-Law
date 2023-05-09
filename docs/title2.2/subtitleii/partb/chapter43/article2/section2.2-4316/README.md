@@ -1,3 +1,0 @@
-# § 2.2-4316 Comments concerning specifications.
-
-<p>Every public body awarding public contracts shall establish procedures whereby comments concerning specifications or other provisions in Invitations to Bid or Requests for Proposal can be received and considered prior to the time set for receipt of bids or proposals or award of the contract.</p><p>1982, c. 647, § 11-50; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

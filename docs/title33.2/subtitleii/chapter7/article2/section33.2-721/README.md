@@ -1,3 +1,0 @@
-# § 33.2-721 Compensation of clerk of board.
-
-<p>The clerk of the local governing body of a county shall receive for the duties to be performed by him under the provisions of this article compensation to be fixed and allowed to him by the local governing body.</p><p>Code 1950, § 33-160; 1956, c. 582; 1970, c. 322, § 33.1-245; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

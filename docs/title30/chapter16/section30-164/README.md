@@ -1,3 +1,0 @@
-# § 30-164 Construction of chapter.
-
-<p>Nothing contained in this chapter shall be construed to supersede, repeal or limit any power, duty or function of the Governor or any department or agency of the Commonwealth, or any political subdivision thereof, as prescribed or defined by law.</p><p>1972, c. 766, § 9-135; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,3 +1,0 @@
-# § 67-1507 (Repealed effective October 1, 2021) Annual report.
-
-<p>On or before October 15 of each year, beginning in 2016, the Authority shall submit an annual summary of its activities and recommendations to the Governor and Chairmen of the House Committees on Appropriations and on Labor and Commerce, and the Chairmen of the Senate Committees on Finance and Appropriations and on Commerce and Labor.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0090'>90</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0398'>398</a>.</p>

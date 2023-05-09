@@ -1,1 +1,0 @@
-# 29 Electric Utility Consumption Tax

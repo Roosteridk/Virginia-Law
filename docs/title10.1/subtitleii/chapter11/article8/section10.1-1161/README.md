@@ -1,3 +1,0 @@
-# § 10.1-1161 Notice of issuance, amendment or rescission of proclamation.
-
-<p>When any proclamation is issued, amended or rescinded the Secretary of the Commonwealth shall promptly give notice thereof through a newspaper or newspapers of general circulation in the area or areas affected. In addition, the Secretary may, in his discretion, give such additional notice as he deems necessary.</p><p>Code 1950, § 10-75; 1952, c. 417; 1956, c. 75; 1988, c. 891.</p>

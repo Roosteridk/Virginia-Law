@@ -1,3 +1,0 @@
-# § 46.2-1610 Disposition of fees.
-
-<p>All fees collected under this chapter shall be paid by the Commissioner into the state treasury and set aside as a special fund to be used to meet the expenses of the vehicle identification number and salvage vehicle inspection programs.</p><p>1987, c. 696, § 46.1-550.15; 1989, c. 727; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0615'>615</a>.</p>

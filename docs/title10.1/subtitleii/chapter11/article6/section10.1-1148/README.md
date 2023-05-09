@@ -1,3 +1,0 @@
-# § 10.1-1148 Fires caused by violation of provisions of article; liability to Commonwealth.
-
-<p>Individuals and corporations causing fires by violation of any provision of this article shall be liable to the Commonwealth for (i) all damages the Commonwealth sustained by such fire or fires, and (ii) the full amount of all expenses incurred by the Commonwealth, in fighting or extinguishing such fire.</p><p>Code 1950, § 10-67; 1964, c. 79; 1988, c. 891.</p>

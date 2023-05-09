@@ -1,3 +1,0 @@
-# § 38.2-1612 Examination and regulation of Association by Commission; annual financial report.
-
-<p>The Association shall be subject to examination and regulation by the Commission. The board of directors shall submit, not later than May 1 of each year, a financial report for the preceding calendar year in a form approved by the Commission.</p><p>1970, c. 766, § 38.1-769; 1986, c. 562; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0245'>245</a>.</p>

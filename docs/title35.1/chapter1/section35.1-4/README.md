@@ -1,3 +1,0 @@
-# § 35.1-4 Applicability of Administrative Process Act.
-
-<p>The Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.) shall govern the procedures for rendering all case decisions, as defined in § <a href='http://law.lis.virginia.gov/vacode/2.2-4001/'>2.2-4001</a>, and for issuing all orders and regulations promulgated pursuant to the authority of this title.</p><p>Code 1950, §§ 35-24, 35-42, 35-52; 1970, c. 273; 1981, c. 468.</p>

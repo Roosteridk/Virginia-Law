@@ -1,3 +1,0 @@
-# § 22.1-161.4 Disposition of proceeds from sale of bonds; separate fund.
-
-<p>All proceeds received from the sale of the bonds issued under the provisions of this chapter shall be paid to the treasurer or chief financial officer of the county, city or town, who shall promptly deposit such funds in a bank or banks as prescribed by general law. He shall account for such money through a fund, separate from all other funds, in the system of accounting.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0250'>250</a>.</p>

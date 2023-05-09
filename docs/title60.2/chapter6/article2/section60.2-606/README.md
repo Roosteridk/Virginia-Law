@@ -1,3 +1,0 @@
-# § 60.2-606 Benefits when wages irregular.
-
-<p>If the remuneration payable to an individual is not based upon a fixed period or duration of time or if the individual's wages are payable at irregular intervals or in such manner as not to extend regularly over the period of employment, the wages for any week or for any calendar quarter for the purpose of computing an individual's right to unemployment benefits only shall be determined in such manner as may by regulation be prescribed. Such regulations shall, so far as possible, secure results reasonably similar to those which would prevail if the individual's wages were payable at regular intervals.</p><p>Code 1950, § 60-45.1; 1968, c. 738, § 60.1-50; 1986, c. 480.</p>

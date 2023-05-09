@@ -1,3 +1,0 @@
-# § 46.2-942 Admissibility of results of speedometer test in prosecution for exceeding speed limit.
-
-<p>In the trial of any person charged with exceeding any maximum speed limit in the Commonwealth, the court shall receive as evidence a sworn report of the results of a calibration test of the accuracy of the speedometer in the motor vehicle operated by the defendant or the arresting officer at the time of the alleged offense. The report shall be considered by the court or jury in both determining guilt or innocence and in fixing punishment.</p><p>1966, c. 687, § 46.1-193.1; 1970, c. 11; 1975, c. 202; 1989, c. 727.</p>

@@ -1,3 +1,0 @@
-# § 13.1-937 Application to existing corporations.
-
-<p>Unless otherwise provided, the provisions of this chapter shall apply to all domestic and foreign corporations existing at the time this chapter takes effect and their members. The charter of every corporation heretofore or hereafter organized in this Commonwealth shall be subject to the provisions of this chapter. In the case of foreign corporations, the certificate of authority to transact business in this Commonwealth issued by the Commission under any prior act of this Commonwealth shall continue in effect subject to the provisions hereof.</p><p>Code 1950, §§ 13.1-203, 13.1-290, 13.1-290.1; 1956, c. 428; 1966, c. 387; 1975, c. 500; 1985, c. 522.</p>

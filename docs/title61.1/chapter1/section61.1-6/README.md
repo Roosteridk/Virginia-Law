@@ -1,3 +1,0 @@
-# § 61.1-6 Fraudulent negotiation of receipt for mortgaged goods.
-
-<p>Any person who deposits goods to which he has not title, upon which there is a lien or security interest, and who takes for such goods a negotiable receipt which he afterwards negotiates for value with intent to deceive, and without disclosing his want of title or the existence of the lien or security interest, shall be guilty of a misdemeanor, and upon conviction shall be punished as provided in § <a href='http://law.lis.virginia.gov/vacode/18.2-12/'>18.2-12</a>.</p><p>Code 1950, § 61-58; 1968, c. 69.</p>

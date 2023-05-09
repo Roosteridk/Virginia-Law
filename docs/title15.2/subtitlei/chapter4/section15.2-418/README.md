@@ -1,3 +1,0 @@
-# § 15.2-418 Certain officers not affected.
-
-<p>The following officers shall not, except as herein otherwise provided, be affected by the adoption of the county board form:</p><p>1. Jury commissioners;</p><p>2. County electoral boards;</p><p>3. Registrars;</p><p>4. Judges and clerks of election;</p><p>5. Magistrates; and</p><p>6. Commissioners of accounts.</p><p>Code 1950, § 15-383; 1950, p. 126; 1962, c. 623, § 15.1-720; 1971, Ex. Sess., c. 158; 1973, c. 545; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 63.2-316 Submission of budget to governing bodies.
-
-<p>The local boards shall submit annually to the boards of supervisors or city councils of their respective counties and cities a budget, containing an estimate and supporting data setting forth the amount of money needed to carry out the provisions of this title, and a copy thereof shall be forwarded to the Commissioner, subject to the provisions of § <a href='http://law.lis.virginia.gov/vacode/63.2-205/'>63.2-205</a>.</p><p>Code 1950, § 63-69; 1952, c. 409; 1968, c. 578, § 63.1-54; 1975, c. 368; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

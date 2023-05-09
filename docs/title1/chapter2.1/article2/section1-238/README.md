@@ -1,3 +1,0 @@
-# § 1-238 Reenacted.
-
-<p>"Reenacted," when used in the title or enactment of a bill or act of the General Assembly, means that the changes enacted to a section of the Code of Virginia or an act of the General Assembly are in addition to the existing substantive provisions in that section or act, and are effective prospectively unless the bill expressly provides that such changes are effective retroactively on a specified date.</p><p>The provisions of this section are declaratory of existing public policy and law.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0720'>720</a>, § 1-13.39:3; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

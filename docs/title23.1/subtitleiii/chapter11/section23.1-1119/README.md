@@ -1,3 +1,0 @@
-# § 23.1-1119 Payment of interest on bonds of the Commonwealth held by public institutions of higher education and private institutions of higher education.
-
-<p>The Comptroller shall draw upon the state treasury in favor of the proper authorities of any public institution of higher education or private institution of higher education for all accrued interest, upon all obligations of the Commonwealth or the James River and Kanawha Company guaranteed by the Commonwealth that are held by or for such institution. No interest shall be paid upon any such bonds.</p><p>Code 1919, § 990, § 23-5; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

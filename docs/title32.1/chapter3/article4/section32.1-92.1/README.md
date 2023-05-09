@@ -1,3 +1,0 @@
-# § 32.1-92.1 Funding of certain abortions where pregnancy results from rape or incest.
-
-<p>From the moneys appropriated to the Department from the general fund, the Board shall fund abortions for women who otherwise meet the financial eligibility criteria of the State Medical Assistance Plan in any case in which a pregnancy occurs as a result of rape or incest and which is reported to a law-enforcement or public health agency.</p><p>1982, c. 644.</p>

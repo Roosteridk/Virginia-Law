@@ -1,3 +1,0 @@
-# § 13.1-1099.14 Protected series may not be party to entity transaction.
-
-<p>A protected series may not:</p><p>1. Be a party to a merger;</p><p>2. Convert to a different type of entity;</p><p>3. Domesticate as a protected series under the laws of a foreign jurisdiction; or</p><p>4. Be a party to or be formed, organized, established, or created in a transaction substantially like an interest exchange, a conversion, or a domestication.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0636'>636</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0487'>487</a>.</p>

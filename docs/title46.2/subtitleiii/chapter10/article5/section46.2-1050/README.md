@@ -1,3 +1,0 @@
-# § 46.2-1050 Mufflers on motorcycles.
-
-<p>It shall be unlawful for any person to operate or cause to be operated any motorcycle not equipped with a muffler or other sound dissipative device in good working order and in constant operation.</p><p>No person shall remove or render inoperative, or cause to be removed or rendered inoperative, other than for purposes of maintenance, repair or replacement, any muffler or sound dissipative device on a motorcycle.</p><p>1976, c. 65, § 46.1-302.3; 1989, c. 727.</p>

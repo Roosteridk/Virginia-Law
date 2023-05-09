@@ -1,3 +1,0 @@
-# § 8.01-243.2 Limitations of actions by confined persons; exhaustion.
-
-<p>No person confined in a state or local correctional facility shall bring or have brought on his behalf any personal action relating to the conditions of his confinement until all available administrative remedies are exhausted. Such action shall be brought by or on behalf of such person within one year after cause of action accrues or within six months after all administrative remedies are exhausted, whichever occurs later.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0596'>596</a>; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0047'>47</a>.</p>

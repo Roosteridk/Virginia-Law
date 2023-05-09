@@ -1,3 +1,0 @@
-# § 2.2-2326 Sovereign immunity.
-
-<p>No provisions of this article nor act of the Authority, including the procurement of insurance or self-insurance, shall be deemed a waiver of any sovereign immunity to which the Authority or its directors, officers, employees, or agents are otherwise entitled.</p><p>1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0852'>852</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0881'>881</a>, § 2.1-548.67; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

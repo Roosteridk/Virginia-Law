@@ -1,3 +1,0 @@
-# § 58.1-2530 Double taxation respecting same direct gross premium income negated.
-
-<p>This chapter shall not be construed as requiring the inclusion in the base for measuring the tax imposed by this chapter for any year any direct gross premium income which had been previously included in the base for measuring the tax imposed by this chapter respecting any license year or part thereof, and the tax paid thereon.</p><p>Code 1950, § 58-502.9; 1968, c. 13; 1984, c. 675.</p>

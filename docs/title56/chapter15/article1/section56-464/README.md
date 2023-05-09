@@ -1,3 +1,0 @@
-# § 56-464 Right of eminent domain.
-
-<p>If the company and such owner cannot agree on the terms of such contract, the company may acquire such right-of-way in the manner provided by the laws of this Commonwealth for the exercise of the right of eminent domain. The title which may be acquired by a telegraph or telephone company under this section shall be only to a right-of-way for the purpose stated in § <a href='http://law.lis.virginia.gov/vacode/56-463/'>56-463</a>; and no right-of-way acquired by any such company under this or the preceding sections of this chapter shall be to the exclusion of other like companies from having or acquiring a like right-of-way over the same lands.</p><p>Code 1919, § 4040.</p>

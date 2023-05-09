@@ -1,3 +1,0 @@
-# § 46.2-680 Vehicles transporting oyster shells.
-
-<p>No person shall be required to obtain the registration certificate, license plates, or decals for or pay a registration fee for any motor vehicle properly registered in Maryland and used for the purpose of hauling oyster shells for a distance of less than three miles on a public highway of this Commonwealth to navigable waters to be further transported by water to Maryland.</p><p>1974, c. 359, § 46.1-45.3; 1989, c. 727; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0142'>142</a>.</p>

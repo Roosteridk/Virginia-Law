@@ -1,3 +1,0 @@
-# § 46.2-418 Nonpayment of judgments of Virginia and other states.
-
-<p>The Commissioner shall take action as required in § <a href='http://law.lis.virginia.gov/vacode/46.2-417/'>46.2-417</a> on receiving proper evidence that the person has failed for a period of thirty days to satisfy any judgment, in amount and on a cause of action as stated in §§ <a href='http://law.lis.virginia.gov/vacode/46.2-364/'>46.2-364</a> and <a href='http://law.lis.virginia.gov/vacode/46.2-417/'>46.2-417</a>, rendered by a court of competent jurisdiction of the Commonwealth, any other state of the United States, the United States, Canada or its provinces.</p><p>Code 1950, § 46-430; 1958, c. 541, § 46.1-443; 1989, c. 727.</p>

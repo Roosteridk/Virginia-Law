@@ -1,3 +1,0 @@
-# § 62.1-192 Injunction and damages.
-
-<p>Any owner of any such fastland or beach, bluff, or bed of stream, between high- and low-watermark on which any such deposit exists or from which it extends towards the middle line of the water, as aforesaid, may, by appropriate proceedings brought by such owner, have an injunction against any person or corporation removing and carrying away or attempting to remove and carry away any such deposit or extension thereof without authority of the Commonwealth; and may, in such proceeding, or by separate action, recover against such violation of this chapter damages in treble the value of the material removed.</p><p>Code 1950, § 62-180; 1968, c. 659.</p>

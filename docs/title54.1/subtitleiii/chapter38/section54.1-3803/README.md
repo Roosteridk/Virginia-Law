@@ -1,3 +1,0 @@
-# § 54.1-3803 Nominations.
-
-<p>Nominations of professional members may be made from a list of at least three names for each vacancy submitted to the Governor by the Virginia Veterinary Medical Association. The Governor may notify such organization of any professional vacancy other than by expiration. In no case shall the Governor be bound to make any appointment from among the nominees.</p><p>1986, c. 464, § 54-777.1; 1988, c. 765.</p>

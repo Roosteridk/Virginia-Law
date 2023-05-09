@@ -1,3 +1,0 @@
-# § 60.2-123 Representation.
-
-<p>Any individual or employing unit appearing before an officer of the Commission may be represented by counsel or other duly authorized agent. However, no such counsel or agent representing a claimant shall either charge or receive for such services more than an amount approved by the Commission.</p><p>1981, c. 249, § 60.1-124.1; 1986, c. 480.</p>

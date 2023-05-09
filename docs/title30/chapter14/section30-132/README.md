@@ -1,3 +1,0 @@
-# § 30-132 Employment of assistants; location of offices.
-
-<p>A. The Auditor of Public Accounts may employ, with the approval of the Joint Legislative Audit and Review Commission, the necessary assistants to enable him to carry out the provisions of this chapter.</p><p>B. The office of the Auditor of Public Accounts shall be located in the City of Richmond, and he shall be provided with suitable offices for the conduct of the business of his department.</p><p>Code 1950, §§ 2-142, 2-143; 1966, c. 677, §§ 2.1-171, 2.1-172; 1972, c. 582; 1973, c. 507; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

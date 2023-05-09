@@ -1,3 +1,0 @@
-# § 58.1-1903 Certain agreements prohibited.
-
-<p>No person shall require or request that an individual enter into an agreement or sign a document that results in the misclassification of the individual as an independent contractor or otherwise does not accurately reflect the relationship with the employer.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0681'>681</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0682'>682</a>.</p>

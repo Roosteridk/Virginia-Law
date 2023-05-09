@@ -1,3 +1,0 @@
-# § 58.1-1729 Payment prerequisite to issue of writ, etc.; effect of failure to collect.
-
-<p>No clerk shall issue any writ, or docket any removed or appealed warrant, or any notice mentioned in this article until the tax imposed under this article has been paid; however, his failure to collect the tax shall not invalidate the proceeding.</p><p>Code 1950, §§ 58-76, 58.1-3811; 1964, c. 290; 1984, c. 675; 1985, c. 221.</p>

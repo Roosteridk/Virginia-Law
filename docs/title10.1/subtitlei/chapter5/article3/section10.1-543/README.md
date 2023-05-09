@@ -1,3 +1,0 @@
-# § 10.1-543 Acquisition, improvement and disposition of property.
-
-<p>Districts are authorized to (i) obtain options upon and to acquire, by purchase, exchange, lease, gift, grant, bequest, devise, or otherwise, any property, real or personal, or rights or interests therein; (ii) maintain, administer, and improve any properties acquired, to receive income from such properties and to expend such income in carrying out the purposes and provisions of this article; and (iii) sell, lease, or otherwise dispose of any of their property or interests therein in furtherance of the provisions of this chapter.</p><p>Code 1950, § 21-58; 1988, c. 891.</p>

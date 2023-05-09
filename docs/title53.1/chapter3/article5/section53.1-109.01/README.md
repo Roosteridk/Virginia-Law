@@ -1,3 +1,0 @@
-# § 53.1-109.01 Authority for regional jail officers to carry weapons.
-
-<p>It shall be lawful for any regional jail officer who has been designated by the superintendent, and who has completed the basic course in firearms for jailers and custodial officers pursuant to subdivision 7 of § <a href='http://law.lis.virginia.gov/vacode/9.1-102/'>9.1-102</a>, to carry and use sufficient weapons to prevent escapes, suppress rebellion, and defend or protect himself or others in the course of his assigned duties.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0131'>131</a>.</p>

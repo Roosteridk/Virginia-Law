@@ -1,3 +1,0 @@
-# § 21-289 Jurisdiction.
-
-<p>Jurisdiction to enforce the provisions of the two preceding sections and to grant any remedy or relief authorized by this article shall be in the circuit court of any county and in the corporation court of any city in whole or in part embraced within the district, or within which are located any waters of the district. The remedies, relief and jurisdiction authorized by this section shall be concurrent and cumulative.</p><p>1946, p. 364; Michie Suppl. 1946, § 1560iii22.</p>

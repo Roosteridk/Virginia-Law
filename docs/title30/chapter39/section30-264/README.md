@@ -1,3 +1,0 @@
-# § 30-264 Staff to Joint Reapportionment Committee.
-
-<p>The Division of Legislative Services shall serve as staff to the Joint Reapportionment Committee.</p><p>1986, c. 593, § 24.1-40.11; 1991, 1st Sp. Sess., c. 10; 1992, c. 425, § 24.1-40.7:1; 1993, c. 641, § 24.2-301; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1000'>1000</a>; 2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0777'>777</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0778'>778</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0862'>862</a>; 2020, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?202+ful+CHAP0056'>56</a>.</p>

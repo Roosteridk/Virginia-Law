@@ -1,3 +1,0 @@
-# § 56-99.2 Commission authority over rates, rules, classifications and practices of railroad companies.
-
-<p>Notwithstanding any other provision of law, the State Corporation Commission shall have the authority to administer and prescribe the rates, rules, classifications and practices of railroad companies exclusively in accordance with the provisions of Subtitle IV of Title 49 of the United States Code, as amended by the Staggers Rail Act of 1980, Public Law 96-448. The Commission shall also have the authority to establish, by rule or regulation, standards and procedures to administer the rates, rules, classifications and practices of railroad companies exclusively in accordance with federal law.</p><p>1983, c. 443.</p>

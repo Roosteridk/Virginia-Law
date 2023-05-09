@@ -1,3 +1,0 @@
-# § 38.2-1339 Exemptions.
-
-<p>Nothing in this article shall exempt any domestic insurer from the provisions of Article 5 (§ <a href='/vacode/38.2-1322/'>38.2-1322</a> et seq.), Article 5.1 (§ <a href='/vacode/38.2-1334.3/'>38.2-1334.3</a> et seq.), or Article 5.2 (§ <a href='/vacode/38.2-1334.11/'>38.2-1334.11</a> et seq.).</p><p>1977, c. 414, § 38.1-178.15; 1986, c. 562; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0248'>248</a>; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0643'>643</a>.</p>

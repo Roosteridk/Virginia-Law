@@ -1,3 +1,0 @@
-# § 2.2-2522 Staffing.
-
-<p>The Office of the Secretary of the Commonwealth shall serve as staff to the Commission, and shall provide to the members copies of resumes and correspondence it receives related to appointments to higher education governing boards. All agencies of the Commonwealth shall provide assistance to the Commission, upon request.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0933'>933</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0945'>945</a>.</p>

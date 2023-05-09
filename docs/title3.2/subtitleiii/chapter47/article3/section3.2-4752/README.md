@@ -1,3 +1,0 @@
-# § 3.2-4752 Reciprocal agreements with other states and federal government.
-
-<p>The Commissioner may enter into reciprocal agreements with appropriate officials of other states or of the federal government for the purpose of exchanging any information of violations of this article or laws of other states or the federal government that have similar purposes as this article.</p><p>1972, c. 646, § 3.1-722.15; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

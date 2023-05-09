@@ -1,3 +1,0 @@
-# § 48-15 Immunity to witnesses.
-
-<p>On motion of the attorney for the Commonwealth or other attorney representing the prosecution for violation of this chapter, the court may grant immunity to any witness called to testify in behalf of the prosecution.</p><p>Code 1919, § 1528.</p>

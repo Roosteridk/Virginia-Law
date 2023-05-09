@@ -1,3 +1,0 @@
-# § 15.2-204 Uniform charter powers.
-
-<p>Cities and towns shall have all powers set forth in Article 1 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-1100/'>15.2-1100</a> et seq.) of Chapter 11, known as the uniform charter powers. Such powers do not need to be set out or incorporated by reference in a city or town charter.</p><p>Counties shall have all powers set forth in Article 1 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-1100/'>15.2-1100</a> et seq.) of Chapter 11 only when such powers are specifically conferred upon the county.</p><p>1997, c. 587.</p>

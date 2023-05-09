@@ -1,3 +1,0 @@
-# § 3.2-5901.1 State Animal Welfare Inspector.
-
-<p>The Commissioner shall employ and direct at least two licensed veterinary technicians, each of whom shall be known as the State Animal Welfare Inspector (the Inspector) and shall have the duty to carry out the tasks assigned to him pursuant to Chapter 65 (§ <a href='/vacode/3.2-6500/'>3.2-6500</a> et seq.). The Inspector shall have the power to carry out the laws of the Commonwealth and the regulations of the Board and the Commissioner.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1284'>1284</a>.</p>

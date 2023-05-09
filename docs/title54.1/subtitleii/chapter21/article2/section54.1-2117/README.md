@@ -1,3 +1,0 @@
-# § 54.1-2117 Participation by Board in proceedings.
-
-<p>Upon service of the complaint as provided in subdivision B 1 of § <a href='http://law.lis.virginia.gov/vacode/54.1-2114/'>54.1-2114</a>, the Board, the Director, or duly authorized representatives of the Board shall then have the right to request leave of court to intervene.</p><p>1977, c. 69, § 54-765.6; 1987, c. 555; 1988, c. 765; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0409'>409</a>.</p>

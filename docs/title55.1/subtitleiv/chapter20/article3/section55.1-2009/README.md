@@ -1,3 +1,0 @@
-# § 55.1-2009 Deeds of individual apartments.
-
-<p>The deed of each individual apartment shall express the particulars prescribed under subdivisions 1 and 2 of § <a href='/vacode/55.1-2008/'>55.1-2008</a> relative to the apartments concerned and shall also express all encumbrances on such apartments.</p><p>1962, c. 627, § 8, § 55-79.8; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

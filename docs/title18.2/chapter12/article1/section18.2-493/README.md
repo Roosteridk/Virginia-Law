@@ -1,3 +1,0 @@
-# § 18.2-493 Definitions.
-
-<p>As used in this article, unless the text indicates otherwise:</p><p>(a) "Person" shall mean any person, firm or corporation.</p><p>(b) "Owner" shall mean any person who holds a written bill of sale under which title or ownership to a container was transferred to such person, or any manufacturer of a container who has not sold or transferred ownership thereof by written bill of sale.</p><p>(c) "Liquefied petroleum gas" shall mean any material which is composed predominately of any of the following hydrocarbons or mixtures of the same: propane, propylene, butanes (normal butane and isobutane) and butylenes.</p><p>Code 1950, § 18.1-400.1; 1970, c. 442; 1975, cc. 14, 15.</p>

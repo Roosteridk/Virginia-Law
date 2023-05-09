@@ -1,3 +1,0 @@
-# § 54.1-3025 Certification by competency evaluation.
-
-<p>All applicants except those certified by endorsement shall be required to pass a clinical competency evaluation. Such evaluation shall be in written or oral form and shall include the following areas:</p><p>1. Basic nursing skills;</p><p>2. Personal care skills;</p><p>3. Recognition of mental health and social services needs;</p><p>4. Basic restorative services; and</p><p>5. Resident or patient rights.</p><p>1989, c. 278.</p>

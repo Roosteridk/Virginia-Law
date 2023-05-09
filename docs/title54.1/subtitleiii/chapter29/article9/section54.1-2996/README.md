@@ -1,3 +1,0 @@
-# § 54.1-2996 Validity of unregistered documents.
-
-<p>Failure to register a document with the registry maintained by the Department of Health pursuant to this article shall not affect the document's validity. Failure to notify the Department of Health of the revocation of a document filed with the registry shall not affect the validity of a revocation that meets the statutory requirements for the revocation to be valid.</p><p>2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0301'>301</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0696'>696</a>.</p>

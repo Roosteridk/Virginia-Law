@@ -1,3 +1,0 @@
-# § 27-8 Who may form a fire company; limit on number of persons in combined companies.
-
-<p>Any number of persons, not less than 20, may form themselves into a company for extinguishing fires. In any county in which two or more companies for extinguishing fires join together and singly use one fire station, the number of persons in the combined companies shall be not less than 20.</p><p>Code 1919, § 3121; 1946, p. 110; 1970, c. 187; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0142'>142</a>; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

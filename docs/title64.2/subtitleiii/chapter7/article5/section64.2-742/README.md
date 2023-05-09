@@ -1,3 +1,0 @@
-# § 64.2-742 Rights of beneficiary's creditor or assignee.
-
-<p>To the extent a beneficiary's interest is not subject to a spendthrift provision, the court may authorize a creditor or assignee of the beneficiary to reach the beneficiary's interest by attachment of present or future distributions to or for the benefit of the beneficiary or other means. The court may limit the award to such relief as is appropriate under the circumstances.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-545.01; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0216'>216</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

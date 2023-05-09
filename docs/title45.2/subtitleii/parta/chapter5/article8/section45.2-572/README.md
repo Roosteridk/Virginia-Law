@@ -1,3 +1,0 @@
-# § 45.2-572  Violations; penalty.
-
-<p>Any person who willfully violates any provision of the Act or any regulation adopted pursuant to the Act, unless otherwise specified in the Act, is guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 45-17; 1954, c. 191; 1966, c. 594, § 45.1-105; 1975, c. 520; 1978, c. 118; 1980, c. 388; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.94; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

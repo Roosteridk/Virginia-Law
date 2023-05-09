@@ -1,3 +1,0 @@
-# § 15.2-504 General powers of board.
-
-<p>The board shall be the policy-determining body of the county and shall be vested with all rights and powers conferred on boards of supervisors by general law, consistent with the form of county organization and government provided in this chapter.</p><p>Code 1950, § 15-274; 1962, c. 623, § 15.1-590; 1997, c. 587.</p>

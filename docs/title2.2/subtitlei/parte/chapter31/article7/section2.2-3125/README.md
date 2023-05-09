@@ -1,3 +1,0 @@
-# § 2.2-3125 Limitation of actions.
-
-<p>The statute of limitations for the criminal prosecution of a person for violation of any provision of this chapter shall be one year from the time the Attorney General, if the violation is by a state officer or employee, or the attorney for the Commonwealth, if the violation is by a local officer or employee, has actual knowledge of the violation or five years from the date of the violation, whichever event occurs first. Any prosecution for malfeasance in office shall be governed by the statute of limitations provided by law.</p><p>1987, Sp. Sess., c. 1, § 2.1-639.22; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

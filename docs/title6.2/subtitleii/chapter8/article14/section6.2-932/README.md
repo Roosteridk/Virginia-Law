@@ -1,3 +1,0 @@
-# § 6.2-932 Payment of claims filed after prescribed period.
-
-<p>Any claim filed after the 180-day claim period prescribed by § <a href='http://law.lis.virginia.gov/vacode/6.2-931/'>6.2-931</a>, and subsequently accepted by the FDIC as receiver or allowed by the receivership court, shall be entitled to share in the distribution of assets only to the extent of the undistributed assets in the hands of the FDIC as receiver on the date such claim is accepted or allowed.</p><p>1983, c. 507, § 6.1-110.8; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

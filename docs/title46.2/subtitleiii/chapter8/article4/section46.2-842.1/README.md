@@ -1,3 +1,0 @@
-# § 46.2-842.1 Drivers to give way to certain overtaking vehicles on divided highways.
-
-<p>It shall be unlawful to fail to give way to overtaking traffic when driving a motor vehicle to the left and abreast of another motor vehicle on a divided highway. The driver of the overtaken vehicle shall move to the right to allow the overtaking vehicle to pass as soon as the overtaken vehicle can safely do so. A violation of this section shall not be construed as negligence per se in any civil action.</p><p>1989, c. 708, § 46.1-211.1; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0815'>815</a>.</p>

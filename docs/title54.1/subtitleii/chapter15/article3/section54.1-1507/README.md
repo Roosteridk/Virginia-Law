@@ -1,3 +1,0 @@
-# § 54.1-1507 Practice of opticians restricted.
-
-<p>No person shall practice or offer to practice as an optician in the Commonwealth unless he holds a license issued under this chapter.</p><p>1954, c. 237, § 54-398.3; 1974, c. 534; 1988, c. 765, § 54.1-1704; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

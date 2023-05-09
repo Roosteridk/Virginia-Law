@@ -1,3 +1,0 @@
-# § 21-398 Sale of bonds and disposition of proceeds.
-
-<p>The board of viewers, after widely advertising the sale of the bonds in such publications as they deem necessary, may sell the bonds upon the approval of the court or the judge thereof, to the highest bidder, or bidders, and devote the proceeds to the payment for the work as it progresses, and to the payment of the interest on the bonds for the three years next following the date of issue, and to the payment of outstanding indebtedness and the other expenses of the project provided for in this chapter, including a reasonable attorney's fee to counsel for conducting the proceedings, the amount of such fee to be fixed by the court.</p><p>Code 1919, § 1774; 1920, p. 612; 1926, p. 623; 1954, c. 642.</p>

@@ -1,3 +1,0 @@
-# § 29.1-510 Big game; small game.
-
-<p>For the purpose of the hunting and trapping laws of the Commonwealth, big game shall include bear and deer and small game shall include other game animals and all game birds.</p><p>Code 1950, § 29-132; 1954, c. 228; 1958, c. 165; 1960, c. 537; 1962, c. 469; 1974, c. 302; 1987, c. 488; 1988, c. 158.</p>

@@ -1,3 +1,0 @@
-# § 38.2-4701 License required; application; fee.
-
-<p>No person shall act as an insurance premium finance company in this Commonwealth until that person has obtained a license from the Commission as provided in this chapter. Application for a license shall be made in writing in the form prescribed by the Commission and shall be accompanied by a nonrefundable application fee of $500.</p><p>1964, c. 147, § 38.1-736; 1981, c. 107; 1986, c. 562.</p>

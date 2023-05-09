@@ -1,3 +1,0 @@
-# § 38.2-2017 No rule prohibiting or regulating payment of dividends, etc., to be adopted.
-
-<p>No rate service organization subject to this chapter shall adopt any rule prohibiting or regulating the payment of dividends, savings or unabsorbed premium deposits allowed or returned by insurers to their policyholders, members or subscribers.</p><p>Code 1950, §§ 38-253.12, 38-253.58; 1952, c. 317, § 38.1-267; 1986, c. 562.</p>

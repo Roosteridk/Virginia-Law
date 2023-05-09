@@ -1,3 +1,0 @@
-# § 18.2-109 Receipt or transfer of possession of stolen vehicle, aircraft or boat.
-
-<p>Any person who, with intent to procure or pass title to a vehicle, aircraft, boat or vessel, which he knows or has reason to believe has been stolen, shall receive or transfer possession of the same from one to another or who shall with like intent have in his possession any vehicle, aircraft, boat or vessel which he knows or has reason to believe has been stolen, and who is not an officer of the law engaged at the time in the performance of his duty as an officer, shall be guilty of a Class 6 felony.</p><p>Code 1950, § 18.1-165; 1960, c. 358; 1975, cc. 14, 15.</p>

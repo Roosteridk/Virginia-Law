@@ -1,3 +1,0 @@
-# § 51.1-128 Cessation of membership.
-
-<p>Membership in the retirement system shall cease (i) upon the withdrawal of the member's accumulated contributions except as provided in subsection C of § <a href='http://law.lis.virginia.gov/vacode/51.1-153/'>51.1-153</a>, (ii) upon retirement, (iii) upon death, or (iv) as provided by Board policy for dormant accounts.</p><p>An employee shall lose all rights to any benefits under this chapter arising from service rendered prior to the date of cessation of membership.</p><p>1952, c. 157, §§ 51-111.29, 51-111.43; 1954, c. 643; 1960, c. 604; 1966, c. 174; 1978, c. 841; 1984, c. 430; 1990, c. 832; 1992, c. 811.</p>

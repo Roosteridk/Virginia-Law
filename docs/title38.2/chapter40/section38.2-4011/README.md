@@ -1,3 +1,0 @@
-# § 38.2-4011 Maintenance of reserve for an emergency fund.
-
-<p>When the reserve for an emergency fund accumulated in accordance with the provisions of § <a href='http://law.lis.virginia.gov/vacode/38.2-4010/'>38.2-4010</a> equals the maximum amount provided in subsection B of that section, it shall be maintained at not less than that amount. However, no burial society shall be required, in any one year, to set aside more than five percent of its net receipts from premiums, dues or assessments from certificates of life insurance, other than certificates issued on a legal reserve basis.</p><p>Code 1950, § 38-462; 1952, c. 317, § 38.1-535; 1986, c. 562.</p>

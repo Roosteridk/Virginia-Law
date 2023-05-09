@@ -1,3 +1,0 @@
-# § 21-420 How additional assessments made.
-
-<p>If additional or new assessments are so levied, such assessments shall be made on the same basis as the original assessments, and shall be levied only after all persons interested shall have been given full hearing by the board of viewers on the question of benefits and any other question on which they shall desire to be heard. Notice of such hearing shall be given by publication once a week for two consecutive weeks in a newspaper of general circulation published in a county in which such project is located in whole or in part, and the determination of the board of viewers shall be final.</p><p>1934, p. 5; Michie Code 1942, § 1777a; 1954, c. 642.</p>

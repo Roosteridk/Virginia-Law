@@ -1,1 +1,0 @@
-# 16 Advisory Council on Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections and Pediatric Acute-onset Neuropsychiatric Syndrome

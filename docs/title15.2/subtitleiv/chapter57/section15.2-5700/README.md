@@ -1,3 +1,0 @@
-# § 15.2-5700 Short title; application.
-
-<p>This chapter shall be known and may be cited as the "Park Authorities Act." The chapter shall apply to all localities of the Commonwealth.</p><p>Code 1950, § 15-714.1; 1950, p. 1244; 1952, c. 401; 1962, c. 623, § 15.1-1228; 1997, c. 587.</p>

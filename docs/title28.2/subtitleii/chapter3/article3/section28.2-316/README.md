@@ -1,3 +1,0 @@
-# § 28.2-316 Trawling boat not granted license for other fishing device; penalty.
-
-<p>It is unlawful for any vessel, boat or other craft equipped for trawling and having a trawl net on board to be licensed for any other net or fishing device.</p><p>A violation of this section is a Class 1 misdemeanor.</p><p>Code 1950, § 28-69; 1962, c. 406, § 28.1-68; 1992, c. 836.</p>

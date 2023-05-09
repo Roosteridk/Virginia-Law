@@ -1,3 +1,0 @@
-# § 56-11 Debts and claims against corporation so sold.
-
-<p>The debts due to and by, and claims against, the corporation whose works and property are so sold, shall be subject to the provisions contained in § <a href='http://law.lis.virginia.gov/vacode/56-13/'>56-13</a>, and the corporation, notwithstanding its dissolution, shall, as to such debts and claims, have the power and perform the duties prescribed by that section and be served with process as therein provided.</p><p>Code 1919, § 3897; 1920, p. 20.</p>

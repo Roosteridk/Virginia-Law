@@ -1,3 +1,0 @@
-# § 2.2-1212 Required online safety and disaster awareness training.
-
-<p>All state employees shall annually complete an online safety and disaster awareness training module that includes information on public health safety provided by the Department pursuant to subdivision A 19 of § <a href='/vacode/2.2-1201/'>2.2-1201</a>. Each state agency shall maintain records showing that each employee has completed the training required by this section and the date on which such training was completed.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0004'>4</a>.</p>

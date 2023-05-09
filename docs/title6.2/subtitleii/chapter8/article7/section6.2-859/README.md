@@ -1,3 +1,0 @@
-# § 6.2-859 Notice of subsequent merger.
-
-<p>An out-of-state state bank that maintains a branch in the Commonwealth under this article shall give 30 days' prior written notice of any merger, consolidation, or other transaction involving the bank that would cause the branch in the Commonwealth to be maintained by another bank.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0301'>301</a>, § 6.1-44.25; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

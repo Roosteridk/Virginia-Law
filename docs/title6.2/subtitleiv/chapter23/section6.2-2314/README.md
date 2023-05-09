@@ -1,3 +1,0 @@
-# § 6.2-2314 Provisions confer cumulative remedy.
-
-<p>The provisions of this chapter shall not (i) preclude any other remedy existing for the enforcement of the claims of a company against the person in whose name the box is rented, nor (ii) bar the right of the company to recover the unpaid portion of the debt from the proceeds of the sale of the property deposited with it.</p><p>Code 1950, § 6-272; 1966, c. 584, § 6.1-341; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

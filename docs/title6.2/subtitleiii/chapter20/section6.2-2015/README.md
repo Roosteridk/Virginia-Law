@@ -1,3 +1,0 @@
-# § 6.2-2015 Fees and contributions.
-
-<p>For establishing and maintaining a DMP, a licensee may charge or receive fees or contributions in an amount not to exceed the following: (i) $75 for a set-up fee; and (ii) a monthly maintenance fee of 15 percent of the total amount disbursed, but in no event more than $60 per month.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0790'>790</a>, § 6.1-363.17; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

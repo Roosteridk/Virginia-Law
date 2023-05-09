@@ -1,3 +1,0 @@
-# § 45.2-1041  Satisfaction of lien.
-
-<p>Any lien acquired under this article shall be satisfied to the extent of the value of the consideration received at the time of transfer of ownership. Any unsatisfied portion shall remain as a lien on the property and shall be satisfied in accordance with this section. If an owner fails to satisfy a lien as provided in this article, the Director may proceed to enforce the lien by a petition filed in a circuit court having jurisdiction wherein the property or some portion thereof is located.</p><p>1979, c. 290, § 45.1-269; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

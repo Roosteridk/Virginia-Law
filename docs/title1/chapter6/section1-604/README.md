@@ -1,3 +1,0 @@
-# § 1-604 Tract of land lying in both coordinate zones.
-
-<p>When any tract of land to be defined by a single description extends from one into the other of the two coordinate zones established in this chapter, the positions of all points on its boundaries may be referred to either of the two zones, with the zone that is used being specifically named in the description.</p><p>1946, p. 167; Michie Suppl. 1946, § 2849(4); Code 1950, § 55-291; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

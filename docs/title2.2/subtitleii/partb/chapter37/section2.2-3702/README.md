@@ -1,3 +1,0 @@
-# § 2.2-3702 Notice of chapter.
-
-<p>Any person elected, reelected, appointed or reappointed to any body not excepted from this chapter shall (i) be furnished by the public body's administrator or legal counsel with a copy of this chapter within two weeks following election, reelection, appointment or reappointment and (ii) read and become familiar with the provisions of this chapter.</p><p>1976, c. 467, § 2.1-341.1; 1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0703'>703</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0726'>726</a>; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0393'>393</a>.</p>

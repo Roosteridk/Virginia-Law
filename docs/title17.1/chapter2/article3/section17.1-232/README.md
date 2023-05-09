@@ -1,3 +1,0 @@
-# § 17.1-232 What to be recorded in judgment docket.
-
-<p>Abstracts of all judgments authorized or required by law to be docketed or recorded shall be recorded in a book to be known as the judgment docket.</p><p>Code 1919, § 3393, § 17-64; 1920, p. 314; 1932, p. 334; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0832'>832</a>.</p>

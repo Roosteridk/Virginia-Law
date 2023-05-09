@@ -1,3 +1,0 @@
-# § 8.01-563 Principal defendant may claim exemption.
-
-<p>The principal defendant, if a householder or head of a family, may claim that the amount so found owing from his codefendant, or the personal property in his possession, shall be exempt from liability for the plaintiff's claim; and if it shall appear that the principal defendant is entitled to such exemption, then the court shall render a judgment against the defendant only for the excess, if any, beyond the exemption to which the principal defendant is entitled.</p><p>Code 1950, § 8-551; 1977, c. 617.</p>

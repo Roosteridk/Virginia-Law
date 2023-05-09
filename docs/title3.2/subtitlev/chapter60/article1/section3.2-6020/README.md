@@ -1,3 +1,0 @@
-# § 3.2-6020 Appraisement of condemned cattle.
-
-<p>All condemned cattle shall be appraised at their fair cash value by three persons, one of whom shall be appointed by the Board or State Veterinarian or his representative, one by the owner, and the third by the two thus selected. Their appraisement shall be made in writing and shall be returned to the Board.</p><p>Code 1950, § 3-585; 1966, c. 702, § 3.1-750; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

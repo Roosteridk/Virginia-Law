@@ -1,3 +1,0 @@
-# § 32.1-285.1 Death of infants under eighteen months of age; autopsies required; definition of Sudden Infant Death Syndrome.
-
-<p>An autopsy shall be performed in the case of any infant death which is suspected to be attributable to Sudden Infant Death Syndrome (SIDS).</p><p>For the purposes of this section, "Sudden Infant Death Syndrome" (SIDS), a diagnosis of exclusion, means the sudden and unexpected death of an infant less than eighteen months of age whose death remains unexplained after a thorough postmortem examination which includes an autopsy.</p><p>1993, c. 965.</p>

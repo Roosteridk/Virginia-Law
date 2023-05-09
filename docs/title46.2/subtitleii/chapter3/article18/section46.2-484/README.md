@@ -1,3 +1,0 @@
-# § 46.2-484 Department of Motor Vehicles to be "licensing authority" within meaning of compact; duties of Department.
-
-<p>As used in the compact, the term "licensing authority" with reference to this Commonwealth shall mean the Department of Motor Vehicles. The Department shall furnish to the appropriate authorities of any other party state any information or documents reasonably necessary to facilitate the administration of Articles III, IV, and V of the compact.</p><p>1968, c. 166, § 46.1-167.9; 1989, c. 727 .</p>

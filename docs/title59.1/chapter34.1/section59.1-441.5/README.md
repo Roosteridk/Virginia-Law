@@ -1,3 +1,0 @@
-# § 59.1-441.5 Production of records.
-
-<p>Every legal services plan seller shall, upon written request of the Commissioner, make available to the Commissioner its legal services plan contract records for inspection and copying to enable the Commissioner to reasonably determine compliance with this chapter. Every legal services plan seller shall maintain a true copy of each subscription contract executed between the subscriber and the legal services plan, and each contract shall be maintained for its term.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0784'>784</a>.</p>

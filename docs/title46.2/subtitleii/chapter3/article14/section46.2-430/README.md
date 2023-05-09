@@ -1,3 +1,0 @@
-# § 46.2-430 Power over nonresidents.
-
-<p>Whenever by the laws of the Commonwealth the Commissioner may suspend or revoke: (i) the license of a resident driver, or (ii) the registration cards and license plates of a resident owner, he may:</p><p>1. Suspend or revoke the privilege of operating a motor vehicle in the Commonwealth by a nonresident driver, and</p><p>2. Suspend the privilege of driving a vehicle owned by a nonresident regardless of whether the vehicle is registered in the Commonwealth.</p><p>Code 1950, § 46-450; 1958, c. 541, § 46.1-462; 1984, c. 780; 1989, c. 727.</p>

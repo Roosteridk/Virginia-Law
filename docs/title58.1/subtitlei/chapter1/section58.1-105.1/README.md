@@ -1,3 +1,0 @@
-# § 58.1-105.1 Certified mail; subsequent mail or notices may be sent by regular mail.
-
-<p>Whenever in this title the Commissioner or the Department is required to send any mail or notice by certified mail and such mail or notice is sent certified mail, return receipt requested, then any subsequent, identical mail or notice that is sent by the Commissioner or the Department may be sent by regular mail.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0566'>566</a>.</p>

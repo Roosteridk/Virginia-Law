@@ -1,3 +1,0 @@
-# § 13.1-786 Termination of status.
-
-<p>A benefit corporation may terminate its status as such and cease to be subject to this article by amending its articles to delete the provision required by § <a href='http://law.lis.virginia.gov/vacode/13.1-784/'>13.1-784</a> to be set forth in the articles of incorporation, which amendment shall be adopted in accordance with the procedures set forth in § <a href='http://law.lis.virginia.gov/vacode/13.1-707/'>13.1-707</a>, or if no shares have yet been issued, in accordance with § <a href='http://law.lis.virginia.gov/vacode/13.1-709/'>13.1-709</a>.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0698'>698</a>.</p>

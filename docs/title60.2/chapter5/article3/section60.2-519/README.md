@@ -1,3 +1,0 @@
-# § 60.2-519 Interest on past-due taxes.
-
-<p>Taxes unpaid on the date on which they are due and payable, as prescribed by the Commission pursuant to § <a href='http://law.lis.virginia.gov/vacode/60.2-511/'>60.2-511</a>, shall bear interest at the rate of one and one-half percent per month from and after such date until payment plus accrued interest is received by the Commission. Interest collected pursuant to this article shall be paid into the Special Unemployment Compensation Administration Fund continued by § <a href='http://law.lis.virginia.gov/vacode/60.2-314/'>60.2-314</a>.</p><p>Code 1950, § 60-77; 1968, c. 738, § 60.1-92; 1982, c. 363; 1986, c. 480.</p>

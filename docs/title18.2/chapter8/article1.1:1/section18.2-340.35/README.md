@@ -1,3 +1,0 @@
-# § 18.2-340.35 Assistance from Department of State Police.
-
-<p>The Department of State Police shall assist in the conduct of investigations by the Department.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0837'>837</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0884'>884</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0553'>553</a>.</p>

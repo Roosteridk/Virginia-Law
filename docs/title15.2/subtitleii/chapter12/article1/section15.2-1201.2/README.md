@@ -1,3 +1,0 @@
-# § 15.2-1201.2 Discount for early payment of taxes.
-
-<p>Counties may by ordinance establish a discount for the early payment of any tax or assessment imposed by the county. For purposes of this section, "early payment" may include payment of real property taxes in full on or before the due date of such tax.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0216'>216</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0585'>585</a>.</p>

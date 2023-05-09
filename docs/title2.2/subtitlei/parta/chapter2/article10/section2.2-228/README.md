@@ -1,3 +1,0 @@
-# § 2.2-228 Position established; agencies for which responsible.
-
-<p>The position of Secretary of Transportation (the "Secretary") is created. The Secretary shall be responsible to the Governor for the following agencies: Department of Transportation, Department of Rail and Public Transportation, Department of Aviation, Department of Motor Vehicles, the Virginia Port Authority, and the Motor Vehicle Dealer Board. The Governor, by executive order, may assign any state executive agency to the Secretary, or reassign any agency listed in this section to another Secretary.</p><p>1990, cc. 1, 317, §§ 2.1-51.41, 2.1-51.43; 1992, c. 167; 1993, c. 757; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,3 +1,0 @@
-# § 58.1-916 Final accounting not granted without compliance.
-
-<p>Unless the provisions of either § <a href='http://law.lis.virginia.gov/vacode/58.1-914/'>58.1-914</a> or § <a href='http://law.lis.virginia.gov/vacode/58.1-915/'>58.1-915</a> have been complied with, no such executor or administrator shall be entitled to a final accounting or discharge in any court in this Commonwealth.</p><p>Code 1950, § 58-238.21; 1978, c. 838; 1984, c. 675.</p>

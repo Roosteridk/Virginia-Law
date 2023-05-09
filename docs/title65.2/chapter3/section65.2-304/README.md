@@ -1,3 +1,0 @@
-# § 65.2-304 Indemnity of principal from subcontractor.
-
-<p>When the principal contractor is liable to pay compensation under § <a href='http://law.lis.virginia.gov/vacode/65.2-302/'>65.2-302</a> or § <a href='http://law.lis.virginia.gov/vacode/65.2-303/'>65.2-303</a>, he shall be entitled to indemnity from any person who would have been liable to pay compensation to the worker independently of such sections or from an intermediate contractor and shall have a cause of action therefor.</p><p>A principal contractor when sued by a worker of a subcontractor shall have the right to join that subcontractor or any intermediate contractor as a party.</p><p>Code 1950, § 65-30; 1968, c. 660, § 65.1-33; 1991, c. 355.</p>

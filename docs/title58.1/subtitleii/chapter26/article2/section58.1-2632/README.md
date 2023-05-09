@@ -1,3 +1,0 @@
-# § 58.1-2632 Applicability of other provisions to corporations commencing business, acquiring other business, or consolidated or merged.
-
-<p>All provisions of this article applicable to the license tax of any corporation subject to §§ <a href='http://law.lis.virginia.gov/vacode/58.1-2629/'>58.1-2629</a>, <a href='http://law.lis.virginia.gov/vacode/58.1-2630/'>58.1-2630</a> or § <a href='http://law.lis.virginia.gov/vacode/58.1-2631/'>58.1-2631</a>, including such provisions relating to the assessment, payment and collection of the tax and the method and time of reporting, except as may be otherwise provided, shall be applicable to the license tax of such corporation for the year covered by such sections.</p><p>Code 1950, § 58-509; 1984, c. 675.</p>

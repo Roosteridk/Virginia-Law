@@ -1,3 +1,0 @@
-# § 55.1-2530 Securities received in name of owner.
-
-<p>Whenever the administrator receives securities under this chapter in the name of the owner, he shall take appropriate action to transfer the record of ownership of such securities into the title of the State Treasurer of the Commonwealth of Virginia as soon as practical.</p><p>1981, c. 47, § 55-210.18:1; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

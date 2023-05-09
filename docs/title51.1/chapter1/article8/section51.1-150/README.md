@@ -1,3 +1,0 @@
-# § 51.1-150 Deposits.
-
-<p>For the purpose of meeting disbursements for retirement allowances and other payments, cash, not exceeding ten percent of the total amount in the accounts of the retirement system, may be kept on deposit to the credit of the State Treasurer in one or more banks or trust companies, located in Virginia, organized under the laws of Virginia or of the United States and qualified as state depositories.</p><p>1952, c. 157, § 51-111.52; 1990, c. 832.</p>

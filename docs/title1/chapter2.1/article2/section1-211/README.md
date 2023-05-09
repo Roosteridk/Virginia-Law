@@ -1,3 +1,0 @@
-# § 1-211 Constitutional references.
-
-<p>Whenever any act of the General Assembly in effect at noon on July 1, 1971, refers to any section, article, or provision of the prior Constitution of Virginia, such reference shall apply to any comparable section, article, or provision of the Constitution of Virginia then in effect unless the construction would be contrary to the legislative intent of the act.</p><p>1971, Ex. Sess., c. 49, § 1-13.41; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

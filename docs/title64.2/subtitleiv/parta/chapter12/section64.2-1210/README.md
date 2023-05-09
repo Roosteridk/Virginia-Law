@@ -1,3 +1,0 @@
-# § 64.2-1210 Accounts and debts and demands to be reported.
-
-<p>The commissioner of accounts shall report every account stated under this part, including a statement of the cash on hand and in bank accounts and the investments held by the fiduciary at the terminal date of the account, and, where applicable, reports of debts and demands under § <a href='http://law.lis.virginia.gov/vacode/64.2-551/'>64.2-551</a>, along with any matters specially stated deemed pertinent by the commissioner of accounts or that an interested person may require.</p><p>Code 1919, § 5426; 1936, p. 250; Code 1950, § 26-31; 1989, c. 492; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

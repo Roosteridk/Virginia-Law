@@ -1,3 +1,0 @@
-# § 64.2-779.26 Definitions.
-
-<p>As used in this article, unless the context requires a different meaning:</p><p>"Breach of trust" includes a violation by a trust director or trustee of a duty imposed on that trust director or trustee by the terms of the trust, this article, or law of the Commonwealth other than this article pertaining to trusts.</p><p>"Directed trust" means a trust for which the terms of the trust grant a power of direction.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0768'>768</a>.</p>

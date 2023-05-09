@@ -1,3 +1,0 @@
-# § 22.1-189 Compliance with article prerequisite to receiving state school funds.
-
-<p>No school division in which any school pupils or personnel are transported at public expense to or from any public school in any vehicle shall receive any state school funds unless it complies with all applicable requirements of this article and submits satisfactory evidence to the Superintendent of Public Instruction of the effectuation of all requisite insurance.</p><p>Code 1950, § 22-284; 1980, c. 559.</p>

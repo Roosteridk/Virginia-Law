@@ -1,3 +1,0 @@
-# § 65.2-507 Same employment; when both injuries permanent.
-
-<p>If an employee receives a permanent injury as specified in § <a href='http://law.lis.virginia.gov/vacode/65.2-503/'>65.2-503</a>, after having sustained another permanent injury in the same employment, he shall be entitled to compensation for both injuries, but the total compensation shall be paid by extending the period and not by increasing the amount of weekly compensation.</p><p>Code 1950, § 65-57; 1968, c. 660, § 65.1-60; 1972, c. 619; 1991, c. 355.</p>

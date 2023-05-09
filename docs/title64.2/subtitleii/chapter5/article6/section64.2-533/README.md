@@ -1,3 +1,0 @@
-# § 64.2-533 Administration of assets for payment of debts.
-
-<p>The circuit court in which a report of the accounts of a decedent's personal representative and of the debts and demands against the decedent's estate is or may be filed may administer the real estate of the decedent in the possession of the decedent's personal representative that is an asset for the payment of the decedent's debts and demands against the decedent's estate, or any circuit court may administer such real estate.</p><p>Code 1950, § 64-172; 1968, c. 656, § 64.1-182; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

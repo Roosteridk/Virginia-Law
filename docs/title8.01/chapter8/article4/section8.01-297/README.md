@@ -1,3 +1,0 @@
-# § 8.01-297 Process on convict defendant.
-
-<p>In all actions against one who has been convicted of a felony and is confined in a local or regional jail or State correctional institution, process shall be served on such convict and, subject to § <a href='http://law.lis.virginia.gov/vacode/8.01-9/'>8.01-9</a>, a guardian ad litem shall be appointed for him. Such service may be effected by delivery to the officer in charge of such jail or institution whose duty it shall be to deliver forthwith such process to the convict.</p><p>Code 1950, § 8-55; 1954, c. 543; 1977, c. 617.</p>

@@ -1,3 +1,0 @@
-# § 19.2-356 Payment of fine or costs as condition of probation or suspension of sentence.
-
-<p>If a defendant is placed on probation, or imposition or execution of sentence is suspended, or both, the court may make payment of any fine, or costs, or fine and costs, either on a certain date or on an installment basis, a condition of probation or suspension of sentence.</p><p>Code 1950, § 19.1-347.3; 1971, Ex. Sess., c. 250; 1975, c. 495; 1987, c. 238.</p>

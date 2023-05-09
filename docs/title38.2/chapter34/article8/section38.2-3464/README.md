@@ -1,3 +1,0 @@
-# § 38.2-3464 Rules and regulations; orders.
-
-<p>The Commission, after notice and opportunity for all interested parties to be heard, may issue any rules and regulations necessary or appropriate for the administration and enforcement of this article.</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0666'>666</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0684'>684</a>.</p>

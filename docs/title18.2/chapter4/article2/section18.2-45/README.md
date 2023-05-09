@@ -1,3 +1,0 @@
-# § 18.2-45 Persons suffering death from mob attempting to lynch another person.
-
-<p>Every person suffering death from a mob attempting to lynch another person shall come within the provisions of this article, and his personal representative shall be entitled to relief in the same manner and to the same extent as if he were the originally intended victim of such mob.</p><p>Code 1950, § 18.1-34; 1960, c. 358; 1975, cc. 14, 15.</p>

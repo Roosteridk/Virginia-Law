@@ -1,1 +1,0 @@
-# 18 Property Owners' Association Act

@@ -1,3 +1,0 @@
-# § 10.1-1333 Permitting process for clean coal projects.
-
-<p>To the extent authorized by federal law, the Department of Environmental Quality shall implement permit processes that facilitate the construction of clean coal projects in the Commonwealth by, among such other actions as it deems appropriate, giving priority to processing permit applications for clean coal projects.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0939'>939</a>, § 67-401; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?211+ful+CHAP0387'>387</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0356'>356</a>.</p>

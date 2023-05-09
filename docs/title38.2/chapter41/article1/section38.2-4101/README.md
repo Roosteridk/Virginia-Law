@@ -1,3 +1,0 @@
-# § 38.2-4101 Lodge system.
-
-<p>A. A society is operating on the lodge system if it has a supreme governing body and subordinate lodges into which members are elected, initiated or admitted in accordance with its laws, rules and rituals. Subordinate lodges shall be required by the laws of the society to hold regular meetings at least once each month in furtherance of the purposes of the society.</p><p>B. A society may, at its option, organize and operate lodges for children under the minimum age for adult membership. Membership and initiation in local lodges shall not be required of such children, nor shall they have a voice or vote in the management of the society.</p><p>Code 1950, §§ 38-255, 38.1-570; 1952, c. 317, § 38.1-638.2; 1968, c. 654; 1986, c. 562.</p>

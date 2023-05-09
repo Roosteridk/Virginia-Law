@@ -1,3 +1,0 @@
-# § 15.2-1110 Swimming pools, lakes and other waters.
-
-<p>A municipal corporation may regulate and inspect the operation, maintenance, and use of public swimming pools, lakes and other natural or artificial waters and private pools and lakes operated by clubs and associations; and without liability to the owner thereof, may prevent the use thereof when such waters are found to be polluted, adulterated, impure or dangerous or contribute or are likely to contribute to the contraction or spread of infectious, contagious or dangerous diseases.</p><p>Code 1950, § 15-77.22; 1958, c. 328; 1962, c. 623, § 15.1-858; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 42.1-74.1 Book or other library property defined.
-
-<p>The terms "book or other library property" as used in this chapter shall include any book, plate, picture, photograph, engraving, painting, drawing, map, newspaper, magazine, pamphlet, broadside, manuscript, document, letter, public record, microform, sound recording, audiovisual materials in any format, magnetic or other tapes, electronic data processing records, artifacts, or other documentary, written, or printed material, regardless of physical form or characteristics, belonging to, on loan to, or otherwise in the custody of any library, museum, repository of public or other records institution as specified in § <a href='http://law.lis.virginia.gov/vacode/42.1-72/'>42.1-72</a>.</p><p>1975, c. 318.</p>

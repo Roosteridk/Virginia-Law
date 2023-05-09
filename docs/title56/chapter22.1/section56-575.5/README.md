@@ -1,3 +1,0 @@
-# § 56-575.5 Service contracts.
-
-<p>In addition to any authority otherwise conferred by law, any public entity may contract with a private entity for the delivery of services to be provided as part of a qualifying project in exchange for such service payments and other consideration as such public entity may deem appropriate.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0571'>571</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0865'>865</a>.</p>

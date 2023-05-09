@@ -1,3 +1,0 @@
-# § 6.2-898 Examinations.
-
-<p>The Commission, as often as it deems necessary in the public interest, shall examine or cause to be examined each bank incorporated under the laws of, and doing business in, the Commonwealth. Such examination shall be conducted at least once in every three-year period.</p><p>Code 1950, § 6-106; 1966, c. 584, § 6.1-84; 1976, c. 658; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0080'>80</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

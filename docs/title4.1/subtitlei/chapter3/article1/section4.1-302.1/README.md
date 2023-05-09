@@ -1,3 +1,0 @@
-# § 4.1-302.1 Use of alcohol vaporizing devices prohibited; penalty.
-
-<p>A. No person shall purchase, offer for sale or use, sell or use any vaporized form of an alcoholic beverage produced by an alcohol vaporizing device.</p><p>B. Any person convicted of a violation of this section shall be guilty of a Class 1 misdemeanor.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0714'>714</a>.</p>

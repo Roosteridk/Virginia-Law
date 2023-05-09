@@ -1,3 +1,0 @@
-# § 13.1-303 Investment in other stock.
-
-<p>At any regular meeting or any regularly called special meeting of a stock cooperative association at which at least a majority of all its stockholders shall be present or represented, any such association may by a majority vote of the stockholders present or represented subscribe for shares and invest its capital or reserve fund in the capital stock of any corporation or cooperative association; provided that it shall not so invest a total amount in excess of twenty-five percent of the amount of its capital stock.</p><p>Code 1950, § 13-240; 1956, c. 428; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0217'>217</a>.</p>

@@ -1,3 +1,0 @@
-# § 8.01-339 No person eligible for whom request is made.
-
-<p>No person shall be eligible to serve on any jury when he, or any person for him, solicits or requests a jury commissioner to place his name in a jury box or in any way designate such person as a juror.</p><p>Code 1950, § 8-208.4; 1973, c. 439; 1977, c. 617.</p>

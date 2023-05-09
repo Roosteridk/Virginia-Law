@@ -1,3 +1,0 @@
-# § 53.1-202.5 Department to provide programs.
-
-<p>The Department shall ensure that educational, vocational, counseling, and substance abuse programs for earning sentence credits are available at all state correctional facilities.</p><p>2020, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?202+ful+CHAP0050'>50</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?202+ful+CHAP0052'>52</a>.</p>

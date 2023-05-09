@@ -1,3 +1,0 @@
-# § 38.2-6111 Examinations.
-
-<p>A. The Commission shall examine the affairs of each dental plan organization as provided for in § <a href='http://law.lis.virginia.gov/vacode/38.2-1317/'>38.2-1317</a>.</p><p>B. Instead of making its own examination, the Commission may accept the report of an examination of a foreign dental plan organization certified by the insurance supervisory official, similar regulatory agency, or the state health commissioner of another state.</p><p>C. The Commission may coordinate its examinations with the State Health Commissioner to ensure an appropriate level of regulatory oversight and to avoid any undue duplication of effort or regulation.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0668'>668</a>.</p>

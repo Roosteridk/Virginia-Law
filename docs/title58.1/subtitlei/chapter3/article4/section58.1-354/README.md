@@ -1,3 +1,0 @@
-# § 58.1-354 Separate individual income assessment sheets or forms; how kept.
-
-<p>The assessment of individual income taxes shall be made on separate sheets or forms to be prescribed by the Department, all copies of which shall be kept by the commissioner of the revenue, the treasurer and the Department, respectively, in such manner as shall preclude inspection by unauthorized persons.</p><p>Code 1950, § 58-151.099; 1971, Ex. Sess., c. 171; 1972, c. 565; 1984, c. 675.</p>

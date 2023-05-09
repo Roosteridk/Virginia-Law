@@ -1,3 +1,0 @@
-# § 33.2-402 Designating existing highway as limited access highway; extinguishing easements of access.
-
-<p>The Board may designate all or any part of an existing highway as a limited access highway. When an existing highway is so designated, the Board shall where necessary extinguish all existing easements of access, light, or air.</p><p>Code 1950, § 33-39; 1950, p. 476; 1958, c. 571; 1970, c. 322, § 33.1-59; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

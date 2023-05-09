@@ -1,3 +1,0 @@
-# § 51.5-96 Requiring performance of duties by officers and employees.
-
-<p>The Department may require of its officers and employees the performance of such duties to effectuate this article as it deems proper.</p><p>Code 1950, § 63-204.21; 1968, c. 578, § 63.1-162; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

@@ -1,3 +1,0 @@
-# § 56-66 No authority to capitalize permit, franchise or contract for consolidation.
-
-<p>The Commission shall have no power to authorize the capitalization of any franchise or permit whatsoever or the right to own, operate or enjoy any such franchise or permit, in excess of the amount (exclusive of any tax or annual charge) actually paid to the Commonwealth or to a political subdivision thereof as the consideration for the grant of such franchise, permit or right. No contract for consolidation shall be capitalized, and no public service company hereafter shall issue any bonds, notes or other evidences of indebtedness against or as a lien upon any contract for consolidation or merger.</p><p>1934, p. 224; Michie Code 1942, § 4073(8); 1987, c. 204.</p>

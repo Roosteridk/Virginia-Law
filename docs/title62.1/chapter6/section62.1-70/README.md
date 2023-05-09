@@ -1,3 +1,0 @@
-# § 62.1-70 Governor to execute Ohio River Valley Water Sanitation Compact.
-
-<p>The Governor of Virginia is hereby authorized and requested to execute, on behalf of the Commonwealth of Virginia, the Ohio River Valley Water Sanitation Compact which the Commonwealth of Virginia has been invited to join. The compact is in the words and figures set out in § <a href='http://law.lis.virginia.gov/vacode/62.1-71/'>62.1-71</a>.</p><p>Code 1950, § 62-67.1; 1968, c. 659.</p>

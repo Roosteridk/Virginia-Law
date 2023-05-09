@@ -1,3 +1,0 @@
-# § 38.2-4006 Annual meeting.
-
-<p>Each burial society shall hold, within the city or county in which the principal office is located in this Commonwealth, a stated annual meeting of its members, or representatives of local boards or subordinate bodies, subject to any regulations, restrictions and provisions the constitution or bylaws of the society may provide.</p><p>Code 1950, §§ 38-145, 38-455; 1952, c. 317, §§ 38.1-531, 38.1-555; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 5.1-153 Metropolitan Washington Airports Authority created.
-
-<p>There is hereby created the Metropolitan Washington Airports Authority, hereafter referred to as the Authority, a public body corporate and politic and independent of all other bodies, having the powers and jurisdiction hereinafter enumerated, and such other and additional powers as shall be conferred upon it by the legislative authorities of both the Commonwealth of Virginia and the District of Columbia.</p><p> 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0342'>342</a>.</p>

@@ -1,3 +1,0 @@
-# § 53.1-111 Work of prisoners.
-
-<p>All prisoners convicted and sentenced or transferred to a jail or jail farm shall be required to work on the jail or jail farm or on any other property as the board may direct, unless for good cause shown the court sentencing and committing such prisoners shall order otherwise.</p><p>Code 1950, § 53-206.8; 1956, c. 681; 1970, c. 648; 1979, c. 700; 1982, c. 636.</p>

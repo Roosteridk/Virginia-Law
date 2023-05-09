@@ -1,3 +1,0 @@
-# § 10.1-652 Program applicability.
-
-<p>The Stream Restoration Assistance Program shall apply only to natural nontidal streams which have been damaged as a result of naturally occurring flooding events. Streams which have been damaged by land-disturbing activities, vehicular traffic, or other human causes shall not be eligible for assistance under the Program.</p><p>1981, c. 450, § 21-11.24; 1988, c. 891.</p>

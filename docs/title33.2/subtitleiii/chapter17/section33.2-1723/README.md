@@ -1,3 +1,0 @@
-# § 33.2-1723 Contributions.
-
-<p>The Board, in addition to the revenues that may be received from the sale of revenue bonds and from the collection of tolls and other revenues derived under the provisions of this chapter, may receive and accept from any federal agency or other public or private body contributions of either money or property or other things of value, to be held, used, and applied for the purposes provided in this chapter.</p><p>Code 1950, § 33-249; 1970, c. 322, § 33.1-289; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,3 +1,0 @@
-# § 10.1-1422.06 Beneficiation facility as manufacturer for grant purposes.
-
-<p>For the purpose of any state or local economic development incentive grant, including a grant awarded pursuant to the provisions of Chapter 51 (§ <a href='/vacode/2.2-5100/'>2.2-5100</a> et seq.) of Title 2.2, a beneficiation facility or recycling center as defined in § <a href='/vacode/10.1-1414/'>10.1-1414</a> shall be considered a manufacturer.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0615'>615</a>.</p>

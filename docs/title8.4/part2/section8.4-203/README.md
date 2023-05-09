@@ -1,3 +1,0 @@
-# § 8.4-203 Effect of instructions.
-
-<p>Subject to Title 8.3A concerning conversion of instruments (§ <a href='http://law.lis.virginia.gov/vacode/8.3A-420/'>8.3A-420</a>) and restrictive endorsements (§ <a href='http://law.lis.virginia.gov/vacode/8.3A-206/'>8.3A-206</a>), only a collecting bank's transferor can give instructions that affect the bank or constitute notice to it, and a collecting bank is not liable to prior parties for any action taken pursuant to the instructions or in accordance with any agreement with its transferor.</p><p>1964, c. 219; 1992, c. 693.</p>

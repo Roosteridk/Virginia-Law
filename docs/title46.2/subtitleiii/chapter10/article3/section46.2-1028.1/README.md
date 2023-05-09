@@ -1,3 +1,0 @@
-# § 46.2-1028.1 Illuminated identification systems on certain emergency vehicles.
-
-<p>Any firefighting vehicle, ambulance, rescue or life-saving vehicle, or vehicle used by police, firefighting, or rescue personnel as a command center at the scene of incidents may be equipped with and use an illuminated identification system of a type approved by the Superintendent to enable aircraft more easily to read number decals and other identifying markings on the roofs of such vehicle. Any such illuminated identification system may be used when the vehicle is in motion or stationary.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0333'>333</a>.</p>

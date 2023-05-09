@@ -1,3 +1,0 @@
-# § 58.1-3806 Collection of tax; compensation for clerk.
-
-<p>The tax imposed by this article shall be collected by the clerk of court in whose office wills are admitted to probate or grants of administration are issued.</p><p>The clerk who collects the tax and pays the revenues collected into the treasury of the county or city shall be entitled to compensation for such service in an amount equal to five percent of the amount collected and remitted. Such compensation shall be paid out of the county or city treasury.</p><p>Code 1950, § 58-67.1; 1960, c. 60; 1984, c. 675.</p>

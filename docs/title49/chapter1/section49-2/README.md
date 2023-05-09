@@ -1,3 +1,0 @@
-# § 49-2 Form of oath for out-of-state commissioners.
-
-<p>Where a person residing in another state is appointed a commissioner by the Governor, he shall only be required to take and subscribe the following oath or affirmation:</p><p>"I, ____________________, swear (or affirm) that I will faithfully perform the duties of commissioner to the best of my ability. So help me God."</p><p>Code 1919, § 272.</p>

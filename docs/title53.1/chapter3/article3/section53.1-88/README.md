@@ -1,3 +1,0 @@
-# § 53.1-88 Governing body to examine statements, accounts and invoices and issue warrants.
-
-<p>The governing body of each city or county or its duly authorized representative shall examine all statements of account and invoices laid before it by the sheriff pursuant to §§ <a href='http://law.lis.virginia.gov/vacode/53.1-126/'>53.1-126</a> and <a href='http://law.lis.virginia.gov/vacode/53.1-133.5/'>53.1-133.5</a>. After satisfying itself that the statements and invoices are correct, the governing body shall cause warrants to be issued on the county or city treasurer, or other disbursing officer, for the payment of such accounts and invoices.</p><p>Code 1950, § 53-178; 1982, c. 636; 1992, c. 859.</p>

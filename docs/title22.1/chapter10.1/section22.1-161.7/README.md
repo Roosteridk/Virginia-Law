@@ -1,3 +1,0 @@
-# § 22.1-161.7 Tax to pay principal and interest on bonds.
-
-<p>For the payment of the principal of and the interest on any bonds issued under the provisions of this chapter, the governing body of the county, city or town is hereby authorized and required to levy and collect annually, at the same time and in the same manner as other taxes of the county, city or town are assessed, levied and collected, a tax upon all locally taxable property within the county, city or town over and above all other taxes authorized or limited by law sufficient to pay such principal and interest as the same respectively become due and payable.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0250'>250</a>.</p>

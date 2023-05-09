@@ -1,3 +1,0 @@
-# § 15.2-959 Housing research.
-
-<p>Any locality which does not have a redevelopment and housing authority as authorized by Chapter 1 (§ <a href='http://law.lis.virginia.gov/vacode/36-1/'>36-1</a> et seq.) of Title 36, shall be authorized to engage in research, studies, and experimentation in housing alternatives, including the rehabilitation of existing housing stock and the construction of additional housing.</p><p>1988, c. 862, § 15.1-37.3:9; 1993, c. 791; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0393'>393</a>; 1997, c. 587.</p>

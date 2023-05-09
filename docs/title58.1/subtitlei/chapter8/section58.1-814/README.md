@@ -1,3 +1,0 @@
-# § 58.1-814 City or county recordation tax.
-
-<p>In addition to the state recordation tax imposed by this chapter, the council of any city and the governing body of any county may, pursuant to Chapter 38 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-3800/'>58.1-3800</a> et seq.) of this title, impose a city or county recordation tax in an amount equal to one-third of the amount of state recordation tax.</p><p>Code 1950, § 58-65.1; 1958, c. 590; 1972, c. 186; 1984, c. 675.</p>

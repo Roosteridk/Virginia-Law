@@ -1,3 +1,0 @@
-# § 46.2-378 Extent to which reports may be used as evidence.
-
-<p>No report submitted pursuant to this article shall be used as evidence in any trial, civil or criminal, arising out of an accident, except that the Department shall furnish, on demand of any person who has or claims to have made such a report, or upon demand of any court, a certificate showing that a specified accident report has or has not been made to the Department, solely to prove compliance or noncompliance with the requirement that the report be made to the Department.</p><p>Code 1950, § 46-408; 1958, c. 541, § 46.1-408; 1989, c. 727.</p>

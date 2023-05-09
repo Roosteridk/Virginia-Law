@@ -1,3 +1,0 @@
-# § 1-309 Boundary with Maryland eastward from Assateague Island.
-
-<p>The boundary line between the Commonwealth and Maryland eastward from Assateague Island shall be and remain as follows: Beginning at a point on the Maryland-Virginia line located on Assateague Island designated as station "Pope Island Life Saving Station (1907)" defined by latitude 38°01'36.93" and longitude 75 degrees14'47.105"; thence running N 84°05'43.5" E (true) - 1,100.00 feet to station "Atlantic"; thence due east (true) to the Maryland-Virginia jurisdictional limit.</p><p>1970, c. 342, § 7.1-7.1; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

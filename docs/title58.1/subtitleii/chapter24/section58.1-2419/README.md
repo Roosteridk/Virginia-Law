@@ -1,3 +1,0 @@
-# § 58.1-2419 Tax on sale to be separately stated.
-
-<p>In every transaction subject to the provisions of this chapter, the tax imposed by this chapter shall be separately stated from the sale price of such motor vehicle and shall be paid by the purchaser in accordance with the provisions of this chapter.</p><p>Code 1950, § 58-685.24; 1966, c. 587; 1974, c. 477; 1984, c. 675; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0405'>405</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0639'>639</a>.</p>

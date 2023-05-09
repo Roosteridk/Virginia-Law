@@ -1,3 +1,0 @@
-# § 15.2-510 Tenure of office; removal.
-
-<p>The county executive shall not be appointed for a definite tenure, but may be removed at the pleasure of the board. If the board determines to remove the county executive, he shall be given, if he so demands, a written statement of the reasons alleged for the proposed removal and the right to a hearing thereon at a public meeting of the board prior to the date on which his final removal takes effect. Pending and during such hearing, the board may suspend him from office, provided that the period of suspension be limited to thirty days. The action of the board in suspending or removing the county executive is not subject to review.</p><p>Code 1950, § 15-279; 1962, c. 623, § 15.1-596; 1997, c. 587.</p>

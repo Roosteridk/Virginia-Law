@@ -1,3 +1,0 @@
-# § 58.1-212 Office of Tax Commissioner; sessions and investigations elsewhere.
-
-<p>The office of the Tax Commissioner shall be in the City of Richmond and suitable space shall be provided by the Governor for its offices. The Tax Commissioner, however, may hold sessions and conduct investigations and hearings at any other place when necessary for the proper performance of the duties prescribed by law.</p><p>Code 1950, § 58-32; 1960, c. 339; 1984, c. 675.</p>

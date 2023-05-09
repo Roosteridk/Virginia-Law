@@ -1,3 +1,0 @@
-# § 18.2-441 Giving bribes to, or receiving bribes by, commissioners, jurors, etc.
-
-<p>If any person give, offer or promise to give any money or other thing of value to a commissioner appointed by a court, auditor, arbitrator, umpire or juror (although not impaneled), with intent to bias his opinion or influence his decision in relation to any matter in which he is acting or is to act, or if any such commissioner, auditor, arbitrator, umpire or juror corruptly take or receive such money or other thing, he shall be guilty of a Class 4 felony.</p><p>Code 1950, § 18.1-282; 1960, c. 358; 1975, cc. 14, 15.</p>

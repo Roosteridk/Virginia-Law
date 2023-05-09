@@ -1,3 +1,0 @@
-# § 22.1-24 Administration of "National School Lunch Act.".
-
-<p>The Superintendent of Public Instruction is hereby designated as the "State Educational Agency" for the disbursement of funds received by the Commonwealth of Virginia under the provisions of Public Law 396, 79th Congress, known as the "National School Lunch Act" and any successor act or amendment thereto; and as such is authorized, empowered and directed to exercise the powers and perform the duties conferred and imposed by such act of Congress.</p><p>Code 1950, § 22-27; 1980, c. 559.</p>

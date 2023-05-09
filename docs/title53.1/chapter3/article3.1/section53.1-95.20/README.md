@@ -1,3 +1,0 @@
-# § 53.1-95.20 Duty to prescribe rules and regulations.
-
-<p>It shall be the duty of an authority created pursuant to this article to prescribe rules and regulations, not inconsistent with standards of the State Board of Local and Regional Jails, for the operation of the project or projects constructed under the provisions of this article.</p><p>1990, c. 837; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0759'>759</a>.</p>

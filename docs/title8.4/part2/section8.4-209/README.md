@@ -1,3 +1,0 @@
-# § 8.4-209 When bank gives value for purposes of holder in due course.
-
-<p>For purposes of determining its status as a holder in due course, a bank has given value to the extent it has a security interest in an item, if the bank otherwise complies with the requirements of § <a href='http://law.lis.virginia.gov/vacode/8.3A-302/'>8.3A-302</a> on what constitutes a holder in due course.</p><p>Code 1950, §§ 6-378, 6-379; 1964, c. 219; 1992, c. 693.</p>

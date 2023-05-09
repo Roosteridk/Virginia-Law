@@ -1,3 +1,0 @@
-# § 54.1-2404 Itemized statements required upon request.
-
-<p>Upon the request of any of his patients, any health care provider licensed or certified by any of the boards within the Department, except in the case of health care services as defined in Chapter 43 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-4300/'>38.2-4300</a> et seq.) of Title 38.2, shall provide to such patient an itemized statement of the charges for the services rendered to the requesting patient regardless of whether a bill for the services which are the subject of the request has been or will be submitted to any third party payor including medical assistance services or the state/local hospitalization program.</p><p>1990, c. 590.</p>

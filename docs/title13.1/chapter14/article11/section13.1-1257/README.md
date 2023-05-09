@@ -1,3 +1,0 @@
-# § 13.1-1257 Authorization for merger.
-
-<p>Unless the governing instrument provides otherwise, a domestic business trust may merge with or into one or more business trusts or other business entities formed or organized or existing under the laws of Virginia or any other state or the United States or any foreign country or other foreign jurisdiction.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0621'>621</a>.</p>

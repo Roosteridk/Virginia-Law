@@ -1,3 +1,0 @@
-# § 8.01-87 Validation of certain partitions prior to act of 1922.
-
-<p>All partitions heretofore had, when the proceedings conformed to the law as it existed prior to the amendment of § 5281 of the Code of 1919 by an act approved March 27, 1922, although they did not conform to such section as it read under the amendment of 1922, as aforesaid, are hereby validated; but nothing in this validating section shall be construed as intended to affect vested rights.</p><p>Code 1950, § 8-696; 1977, c. 617.</p>

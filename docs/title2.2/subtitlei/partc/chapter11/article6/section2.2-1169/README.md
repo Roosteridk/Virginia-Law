@@ -1,3 +1,0 @@
-# § 2.2-1169 Mail handling, messenger and parcel service.
-
-<p>The Division shall operate a central service unit to provide all state departments, divisions, institutions and agencies in the Richmond area with mail handling, messenger and parcel service. These services may, if deemed appropriate, be extended to state departments, divisions, institutions and agencies in other areas of the Commonwealth.</p><p>1972, c. 503, § 2.1-243.1; 1976, c. 759; 1977, c. 672, § 2.1-528; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

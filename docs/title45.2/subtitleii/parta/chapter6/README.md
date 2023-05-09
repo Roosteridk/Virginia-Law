@@ -1,1 +1,0 @@
-# 6 Coal Mining Property, Interests, Adjacent Owners, and Dams

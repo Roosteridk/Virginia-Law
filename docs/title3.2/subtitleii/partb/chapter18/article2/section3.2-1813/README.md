@@ -1,3 +1,0 @@
-# § 3.2-1813 Records to be kept by handlers.
-
-<p>Every handler shall keep a complete record of the potatoes subject to the provisions of this article that have been packed, processed, or handled by him for a period of time not less than three years from the time the potatoes were packed, processed, or handled. The records shall be open to the inspection of the Commissioner and shall be established and maintained as required by the Commissioner.</p><p>1982, c. 126, § 3.1-684.34; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

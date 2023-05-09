@@ -1,3 +1,0 @@
-# § 11-4.3 When acceleration of payment or repossession of consumer goods not allowed.
-
-<p>Notwithstanding any provisions in a contract, other evidence of indebtedness or security agreement arising from a sale or financing of consumer goods as defined in § <a href='http://law.lis.virginia.gov/vacode/8.9A-102/'>8.9A-102</a> of this Code, no acceleration of payment or repossession on account of late payment or nonpayment of an installment shall be permitted if payment, together with any late payment penalty permitted under § <a href='http://law.lis.virginia.gov/vacode/6.2-400/'>6.2-400</a>, is made within ten days of the date on which the installment was due.</p><p>1974, c. 572.</p>

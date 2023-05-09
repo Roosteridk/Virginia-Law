@@ -1,3 +1,0 @@
-# § 59.1-207.49 Enforcement; penalties.
-
-<p>Any violation of this chapter shall constitute a prohibited practice under the provisions of § <a href='/vacode/59.1-200/'>59.1-200</a> and shall be subject to the enforcement provisions of the Virginia Consumer Protection Act (§ <a href='/vacode/59.1-196/'>59.1-196</a> et seq.). However, if a supplier makes a good faith effort to comply with the requirements of this chapter, the supplier shall not be subject to either a civil penalty under § <a href='/vacode/59.1-206/'>59.1-206</a> or damages under § <a href='/vacode/59.1-204/'>59.1-204</a>.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0704'>704</a>.</p>

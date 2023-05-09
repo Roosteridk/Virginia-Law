@@ -1,3 +1,0 @@
-# § 10.1-1231 Brownfield restoration and land renewal policy and programs.
-
-<p>It shall be the policy of the Commonwealth to encourage remediation and restoration of brownfields by removing barriers and providing incentives and assistance whenever possible. The Department of Environmental Quality and the Economic Development Partnership and other appropriate agencies shall establish policies and programs to implement these policies, including a Voluntary Remediation Program, the Brownfields Restoration and Redevelopment Fund, and other measures as may be appropriate.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0378'>378</a>.</p>

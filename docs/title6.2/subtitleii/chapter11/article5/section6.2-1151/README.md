@@ -1,3 +1,0 @@
-# § 6.2-1151 Applicability of Virginia Stock and Nonstock Corporation Acts.
-
-<p>Except as otherwise provided in this chapter, a foreign savings institution conducting a savings institution business in the Commonwealth shall comply with the provisions of the Virginia Stock Corporation Act (§ <a href='http://law.lis.virginia.gov/vacode/13.1-601/'>13.1-601</a> et seq.) and the Virginia Nonstock Corporation Act (§ <a href='http://law.lis.virginia.gov/vacode/13.1-801/'>13.1-801</a> et seq.) governing the admission and transaction of business by foreign corporations in the Commonwealth.</p><p>1985, c. 425, § 6.1-194.43; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

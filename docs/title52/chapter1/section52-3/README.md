@@ -1,3 +1,0 @@
-# § 52-3 Oath, bond, and salary of Superintendent.
-
-<p>The Superintendent of State Police, before entering upon the discharge of his duties, shall take an oath that he will faithfully and impartially discharge and perform all the duties of his office and shall be bonded in accordance with § <a href='/vacode/2.2-1840/'>2.2-1840</a>. The Superintendent shall receive such salary as may be appropriated for the purpose.</p><p>1942, p. 340; Michie Code 1942, § 585(71a); R. P. 1948, § 52-3; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0152'>152</a>.</p>

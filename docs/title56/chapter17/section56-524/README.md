@@ -1,3 +1,0 @@
-# § 56-524 Penalties.
-
-<p>Any person violating any of the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/56-512/'>56-512</a>, <a href='http://law.lis.virginia.gov/vacode/56-515/'>56-515</a> or § <a href='http://law.lis.virginia.gov/vacode/56-517/'>56-517</a> shall be guilty of a misdemeanor and upon conviction of same shall be fined not less than $10 nor more than $1,000, and may be imprisoned in jail for not more than 12 months.</p><p>1952, c. 696.</p>

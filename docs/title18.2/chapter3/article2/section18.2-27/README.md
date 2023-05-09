@@ -1,3 +1,0 @@
-# § 18.2-27 Attempts to commit misdemeanors; how punished.
-
-<p>Every person who attempts to commit an offense which is a misdemeanor shall be punishable by the same punishment prescribed for the offense the commission of which was the object of the attempt.</p><p>Code 1950, § 18.1-19; 1960, c. 358; 1972, c. 52; 1975, cc. 14, 15.</p>

@@ -1,3 +1,0 @@
-# § 8.01-527 If bond forfeited, where returned; its effect; clerk to endorse time of return.
-
-<p>If the condition of such forthcoming bond be not performed, the officer, unless payment be made of the amount due on the execution or warrant, including his fee, commission, and charges as aforesaid, shall, after the bond is forfeited, return it forthwith, with the execution or warrant, to such court, or the clerk's office of such court as is prescribed by § 15.1-80. The clerk shall endorse on the bond the date of its return; and against such of the obligors therein as may be alive when it is forfeited and so returned, it shall have the force of a judgment. But no execution shall issue thereon under this section.</p><p>Code 1950, § 8-451; 1977, c. 617.</p>

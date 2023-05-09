@@ -1,3 +1,0 @@
-# § 54.1-704 Temporary licenses.
-
-<p>The Board may issue a temporary license to any person who is eligible for examination. Persons issued a temporary license shall be subject to the regulations of the Board.</p><p>The Board shall promulgate regulations consistent with this section to permit individuals to be granted temporary licenses for a specified period of time.</p><p>1984, c. 220, § 54-83.22:2; 1988, c. 765; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0726'>726</a>.</p>

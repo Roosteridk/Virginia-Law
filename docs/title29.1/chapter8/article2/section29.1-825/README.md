@@ -1,3 +1,0 @@
-# § 29.1-825 Equitable remedies not impaired.
-
-<p>The remedy at law provided by §§ <a href='http://law.lis.virginia.gov/vacode/29.1-823/'>29.1-823</a> and <a href='http://law.lis.virginia.gov/vacode/29.1-824/'>29.1-824</a> shall not in any manner impair the right to applicable equitable relief. Such right to equitable relief is hereby preserved, notwithstanding the provisions of such sections.</p><p>1988, c. 592.</p>

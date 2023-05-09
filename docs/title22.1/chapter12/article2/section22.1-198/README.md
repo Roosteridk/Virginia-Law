@@ -1,3 +1,0 @@
-# § 22.1-198 Applicability of article not dependent upon approval of vehicles or allocability of state aid.
-
-<p>The provisions of this article apply to all vehicles whether or not the regulations of the Board of Education established pursuant to § <a href='http://law.lis.virginia.gov/vacode/22.1-177/'>22.1-177</a> have been complied with and irrespective of whether or not any state aid for transporting school pupils and personnel in the particular vehicle has been, is, or will be allocable.</p><p>Code 1950, § 22-294; 1980, c. 559.</p>

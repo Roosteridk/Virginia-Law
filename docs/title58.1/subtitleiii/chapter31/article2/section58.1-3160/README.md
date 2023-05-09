@@ -1,3 +1,0 @@
-# § 58.1-3160 Monthly report of treasurer to board.
-
-<p>At the end of each month each county treasurer shall report to the county finance board the amount of money on deposit with each depository.</p><p>Code 1950, § 58-949; 1984, c. 675.</p>

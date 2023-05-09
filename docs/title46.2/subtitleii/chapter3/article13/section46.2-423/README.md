@@ -1,3 +1,0 @@
-# § 46.2-423 Creditor's consent to license notwithstanding default in payment.
-
-<p>If the judgment creditor consents in writing, in whatever form the Commissioner prescribes, that the judgment debtor be allowed a driver's license and motor vehicle registration, the Commissioner may allow the same, notwithstanding default in the payment of the judgment or any installment thereof, for six months from the date of consent and thereafter until it is revoked in writing, if the judgment debtor furnishes proof of his financial responsibility in the future as provided in this chapter.</p><p>Code 1950, § 46-435; 1958, c. 541, § 46.1-448; 1989, c. 727.</p>

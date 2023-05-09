@@ -1,3 +1,0 @@
-# § 60.2-313 Expenses incurred by Auditor of Public Accounts, Comptroller and State Treasurer.
-
-<p>All expenses incurred by the Auditor of Public Accounts in auditing the books, records and accounts of the Commission and in rendering other services to the Commission and all expense incurred by the Comptroller and the State Treasurer in performing the services required by this title, may be treated as administrative expenses of the Commission and accordingly paid by the Commission.</p><p>Code 1950, § 60-101; 1968, c. 738, § 60.1-118; 1986, c. 480.</p>

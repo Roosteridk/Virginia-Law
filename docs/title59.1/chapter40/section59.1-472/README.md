@@ -1,3 +1,0 @@
-# § 59.1-472 Returned devices; subsequent sale or lease; disclosure.
-
-<p>No assistive device returned due to a nonconformity under the provisions of § <a href='http://law.lis.virginia.gov/vacode/59.1-471/'>59.1-471</a> by a consumer or assistive device lessor in this Commonwealth or any other state, may be sold or leased again in this Commonwealth unless full disclosure of the reason for such return is made to any prospective buyer or lessee.</p><p>1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0067'>67</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0242'>242</a>.</p>

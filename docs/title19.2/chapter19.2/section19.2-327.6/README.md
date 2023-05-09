@@ -1,3 +1,0 @@
-# § 19.2-327.6 Claims of relief.
-
-<p>An action under this chapter or the performance of any attorney representing the petitioner under this chapter shall not form the basis for relief in any habeas corpus or appellate proceeding. Nothing in this chapter shall create any cause of action for damages against the Commonwealth or any of its political subdivisions or any officers, employees or agents of the Commonwealth or its political subdivisions.</p><p>2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0873'>873</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0874'>874</a>.</p>

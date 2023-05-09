@@ -1,3 +1,0 @@
-# § 32.1-187 Counties, cities and towns may create mosquito control districts.
-
-<p>The governing body of any county, city or town, either alone or jointly with one or more other counties, cities or towns, may create one or more mosquito control districts. A mosquito control district may comprise the whole or any part of the county, city or town or combination thereof creating such district, except that no mosquito control district in a county shall include the territory within an incorporated town within such county except by agreement with such town.</p><p>Code 1950, § 32-379; 1950, p. 87; 1979, c. 711.</p>

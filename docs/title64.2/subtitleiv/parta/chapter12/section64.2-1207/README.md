@@ -1,3 +1,0 @@
-# § 64.2-1207 Settlement for year to include unsettled portion of preceding year.
-
-<p>When a commissioner of accounts has the account of a fiduciary for any year before him for settlement, the settlement shall also include any time prior to such year for which the fiduciary has not settled.</p><p>Code 1919, § 5424; Code 1950, § 26-28; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,3 +1,0 @@
-# § 2.2-614.5 Electric vehicle charging stations.
-
-<p>Each agency, as defined in § <a href='/vacode/2.2-128/'>2.2-128</a>, may locate and operate a retail fee-based electric vehicle charging station on any property or facility that such agency controls if the electric vehicle charging services are offered at prevailing market rates. For the purposes of this section, "prevailing market rates" means rates that include applicable taxes and are similar to those generally available to consumers in competitive areas for the same services.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0248'>248</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0490'>490</a>.</p>

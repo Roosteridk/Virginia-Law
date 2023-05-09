@@ -1,3 +1,0 @@
-# § 3.2-6533 Effect of dog or cat not wearing a license tag as evidence.
-
-<p>Any dog or cat not wearing a collar bearing a valid license tag shall prima facie be deemed to be unlicensed, and in any proceedings under this chapter the burden of proof of the fact that such dog or cat has been licensed, or is otherwise not required to bear a tag at the time, shall be on the owner of the dog or cat.</p><p>1984, c. 492, § 29-213.59; 1987, c. 488, § 3.1-796.89; 1993, c. 817; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0836'>836</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

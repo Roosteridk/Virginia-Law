@@ -1,3 +1,0 @@
-# § 58.1-3127.1 Treasurer to collect all amounts to be received by any department or agency of political subdivision.
-
-<p>All amounts to be received or expended by any department or agency, or department or agency head, of a political subdivision of the Commonwealth by virtue of a federal grant, gift, or forfeiture or other disposition of federal funds shall be made payable to the treasury or treasurer of the political subdivision and shall not be made payable to such department or agency, or department or agency head. Accounting and disbursement provisions of § <a href='http://law.lis.virginia.gov/vacode/58.1-3127/'>58.1-3127</a> shall apply to such amounts.</p><p>1989, c. 167.</p>

@@ -1,3 +1,0 @@
-# § 30-17 Alteration, secretion or destruction of pending bills or resolutions.
-
-<p>If any person shall fraudulently erase, alter, secrete or destroy any bill, resolution or amendment to any bill pending before the General Assembly, or either branch thereof, or before any committee of either or of both branches, or any enrolled bill of the General Assembly, or either branch thereof, or shall fraudulently, or with improper intent, endeavor to influence any officer or employee of the General Assembly, or of either branch thereof, to erase, alter, secrete or destroy any such bill, amendment or enrolled bill, he shall be confined in the penitentiary not less than one nor more than five years.</p><p>Code 1919, § 310.</p>

@@ -1,3 +1,0 @@
-# § 13.1-1232 Right of action.
-
-<p>A beneficial owner may bring a derivative proceeding in the right of a business trust to the same extent, and in the same manner, that a shareholder may bring a derivative proceeding under Chapter 9 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-601/'>13.1-601</a> et seq.) of this title.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0621'>621</a>.</p>

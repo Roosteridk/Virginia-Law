@@ -1,3 +1,0 @@
-# § 58.1-4047 Certain provisions in Article 1 (§ 58.1-4000 et seq.) to apply, mutatis mutandis.
-
-<p>Except as provided in this article, the provisions of Article 1 (§ <a href='/vacode/58.1-4000/'>58.1-4000</a> et seq.) shall apply to sports betting under this article. The Board shall promulgate regulations to interpret and clarify the applicability of Article 1 to this article.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1218'>1218</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1256'>1256</a>.</p>

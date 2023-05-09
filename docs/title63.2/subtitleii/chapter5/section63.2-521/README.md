@@ -1,3 +1,0 @@
-# § 63.2-521 Change of residence.
-
-<p>Any recipient of Temporary Assistance for Needy Families or medical assistance who moves from one county or city in this Commonwealth to another county or city therein, shall thereafter be treated as if the grant of Temporary Assistance for Needy Families or medical assistance had been made by the county or city into which he moves, and the local board of the county or city from which he moves shall transfer all necessary records relating to the recipient to the local board of the county or city into which such recipient moves.</p><p>Code 1950, §§ 63-130, 63-152, 63-194; 1952, c. 449; 1968, c. 578, § 63.1-121; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

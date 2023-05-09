@@ -1,3 +1,0 @@
-# § 33.2-3814 Tort liability.
-
-<p>No pecuniary liability of any kind shall be imposed on the Commonwealth or on any other political subdivision of the Commonwealth because of any act, agreement, contract, tort, malfeasance, or nonfeasance by or on the part of the authority, its agents, servants, or employees.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0353'>353</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0354'>354</a>.</p>

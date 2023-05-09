@@ -1,3 +1,0 @@
-# § 59.1-505.11 Financing arrangements; effect on licensor's rights.
-
-<p>(a) The creation of a financier's interest does not place any obligations on or alter the rights of a licensor.</p><p>(b) A financier's interest does not attach to any intellectual property rights of the licensor unless the licensor expressly consents to such attachment in a license or another record.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0101'>101</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0996'>996</a>.</p>

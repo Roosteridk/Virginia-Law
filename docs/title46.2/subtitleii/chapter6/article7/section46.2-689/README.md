@@ -1,3 +1,0 @@
-# § 46.2-689 Refund of certain registration fees.
-
-<p>Upon application on a form prescribed by the Commissioner, any person registering any vehicle whose fees are set under § <a href='http://law.lis.virginia.gov/vacode/46.2-697/'>46.2-697</a> shall be refunded that portion of the registration fee for a gross weight in excess of that set forth § <a href='http://law.lis.virginia.gov/vacode/46.2-1126/'>46.2-1126</a>.</p><p>1984, c. 342, § 46.1-154.01; 1989, c. 727.</p>

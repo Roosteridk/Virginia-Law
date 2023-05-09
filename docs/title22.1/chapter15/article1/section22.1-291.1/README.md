@@ -1,3 +1,0 @@
-# § 22.1-291.1 Planning time for school teachers.
-
-<p>Each school board shall ensure that all elementary school teachers in its employment are provided at least an average of 30 minutes per day during the students' school week as planning time.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0404'>404</a>; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0650'>650</a>; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0482'>482</a>.</p>

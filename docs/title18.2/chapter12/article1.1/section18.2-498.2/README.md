@@ -1,3 +1,0 @@
-# § 18.2-498.2 Definitions.
-
-<p>When used in this article, the term:</p><p>1. "Person" includes any natural person, any trust or association of persons, formal or otherwise, or any corporation, partnership, company or other legal or commercial entity.</p><p>2. "Commercial dealing" shall mean any offer, acceptance, agreement, or solicitation to sell or offer to sell or distribute goods, services or construction, to the Commonwealth of Virginia, or any local government within the Commonwealth or any department or agency thereof.</p><p>1980, c. 472.</p>

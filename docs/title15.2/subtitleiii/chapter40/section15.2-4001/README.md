@@ -1,3 +1,0 @@
-# § 15.2-4001 Investigation by Commission on Local Government; certification of findings to governing body.
-
-<p>If it appears from the most recent United States census that a city may not meet the requirements for city status under Article VII, Section 1 of the Constitution of Virginia, the Commission on Local Government shall commence an investigation of the population, assets, liabilities, rights and obligations of such city and certify the findings to the governing body.</p><p>1971, Ex. Sess., c. 140, § 15.1-965.2; 1997, c. 587.</p>

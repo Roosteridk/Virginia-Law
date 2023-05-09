@@ -1,3 +1,0 @@
-# § 53.1-100 Oath and bond of superintendent and guards.
-
-<p>Before entering upon the duties of their office, the superintendent and guards shall take and subscribe the oath prescribed by § <a href='http://law.lis.virginia.gov/vacode/49-1/'>49-1</a>. The governing body of the county or city maintaining a farm may require the superintendent or guards or both to give bond in such penalty and with such security as the governing body may prescribe, conditioned upon the faithful discharge of the duties of their offices.</p><p>Code 1950, § 53-199; 1982, c. 636.</p>

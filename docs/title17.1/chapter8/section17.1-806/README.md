@@ -1,3 +1,0 @@
-# § 17.1-806 Sentencing guidelines modifications; effective date.
-
-<p>After adoption of the initial guidelines, any modification to the discretionary sentencing guidelines adopted by the Commission shall be contained in the annual report required under § <a href='http://law.lis.virginia.gov/vacode/17.1-803/'>17.1-803</a> and shall, unless otherwise provided by law, become effective on the next following July 1.</p><p>1994, 2nd Sp. Sess., cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?943+ful+CHAP0001'>1</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?943+ful+CHAP0002'>2</a>, § 17-238; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

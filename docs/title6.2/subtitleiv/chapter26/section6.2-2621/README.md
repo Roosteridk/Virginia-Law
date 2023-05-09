@@ -1,3 +1,0 @@
-# § 6.2-2621 Violation of the Virginia Consumer Protection Act.
-
-<p>Notwithstanding the provisions of § <a href='/vacode/59.1-199/'>59.1-199</a>, any violation of the provisions of this chapter shall constitute a prohibited practice in accordance with § <a href='/vacode/59.1-200/'>59.1-200</a> and shall be subject to any and all of the enforcement provisions of the Virginia Consumer Protection Act (§ <a href='/vacode/59.1-196/'>59.1-196</a> et seq.).</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1198'>1198</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1250'>1250</a>.</p>

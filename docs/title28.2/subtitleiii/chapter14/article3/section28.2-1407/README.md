@@ -1,3 +1,0 @@
-# § 28.2-1407 Administrative procedures.
-
-<p>The Commission may, in conjunction with local wetlands boards and other affected state and federal agencies, develop administrative procedures to expedite the processing of applications for permits required under this chapter. Whenever an application is received by the Commission for a permit over which a local board has jurisdiction under a coastal primary sand dune zoning ordinance, the Commission shall forward a copy of the application to that board within seven days.</p><p>1992, c. 836.</p>

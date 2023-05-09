@@ -1,3 +1,0 @@
-# § 18.2-172.2 Maliciously affixing another's signature to writing; penalty.
-
-<p>Any person who maliciously affixes a facsimile or likeness of the signature of another person to any writing without the permission of that person and with the intent to create the false impression that the writing was signed by that person is guilty of a Class 1 misdemeanor.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0595'>595</a>.</p>

@@ -1,3 +1,0 @@
-# § 8.01-611 Notice of time and place of taking account.
-
-<p>The court, ordering an account to be taken, may direct that notice of the time and place of taking it be published once a week for two successive weeks in a newspaper meeting the requirements of § <a href='http://law.lis.virginia.gov/vacode/8.01-324/'>8.01-324</a>, and may also require notice to be served on the parties in the manner set forth in the Rules of Court for the taking of depositions.</p><p>Code 1950, § 8-251; 1977, c. 617.</p>

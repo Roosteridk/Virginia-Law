@@ -1,3 +1,0 @@
-# § 62.1-44.20 Right to entry to obtain information, etc.
-
-<p>Any duly authorized agent of the Board may, at reasonable times and under reasonable circumstances, enter any establishment or upon any property, public or private, for the purpose of obtaining information or conducting surveys or investigations necessary in the enforcement of the provisions of this chapter.</p><p>Code 1950, § 62.1-34; 1968, c. 659; 1970, c. 638.</p>

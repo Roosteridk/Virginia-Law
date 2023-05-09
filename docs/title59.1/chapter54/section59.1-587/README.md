@@ -1,3 +1,0 @@
-# § 59.1-587 Food delivery platform; agreements required.
-
-<p>No food delivery platform shall submit an order on behalf of a consumer to a restaurant or arrange for the delivery of an order from a restaurant without first obtaining an agreement with the restaurant expressly authorizing the food delivery platform to submit orders to and deliver food prepared by the restaurant.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0485'>485</a>.</p>

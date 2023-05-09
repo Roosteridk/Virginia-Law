@@ -1,3 +1,0 @@
-# § 36-28 Planning, zoning and building laws.
-
-<p>All housing projects of an authority shall be subject to the planning, zoning, sanitary and building laws, ordinances and regulations applicable to the locality in which the housing project is situated. In the planning and location of any housing project, an authority shall take into consideration the relationship of the project to any larger plan or long-range program for the development of the area in which the housing authority functions.</p><p>1938, p. 453; Michie Code 1942, § 3145(13).</p>

@@ -1,3 +1,0 @@
-# § 56-525 Injunction against violation of chapter.
-
-<p>In addition to the remedies herein provided, the Governor is hereby authorized to apply to the Circuit Court of the City of Richmond or to any court mentioned in § <a href='http://law.lis.virginia.gov/vacode/56-516/'>56-516</a> for, and such court shall have jurisdiction upon hearing and for cause shown to grant, a temporary or permanent injunction restraining any person, organization, association or corporation from violating any provision of this chapter irrespective of whether or not there exists an adequate remedy at law.</p><p>1952, c. 696.</p>

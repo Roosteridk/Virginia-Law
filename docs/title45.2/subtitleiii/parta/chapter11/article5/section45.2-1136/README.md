@@ -1,3 +1,0 @@
-# § 45.2-1136  Duty to train team.
-
-<p>It is the duty and responsibility of the Department to see that every mine rescue team is properly trained by a qualified instructor of the Department or another person who has a certificate of training from the Department or MSHA.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0390'>390</a>, § 45.1-161.292:41; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

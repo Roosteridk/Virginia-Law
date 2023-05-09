@@ -1,3 +1,0 @@
-# § 61.1-46.1 Maximum charges for tobacco auction warehouse services.
-
-<p>Notwithstanding any other provisions of law to the contrary, on and after July 1, 1970, no tobacco auction warehouse shall charge the grower for services rendered in the sale and handling of flue-cured tobacco any amount or sum in excess of the following:</p><p>(a) Warehouse charges: ten cents per 100 pounds or fraction thereof;</p><p>(b) Auction fee: twenty-five cents per basket and commission of 2 1/2 percent of the gross amount of each sale.</p><p>1970, c. 140.</p>

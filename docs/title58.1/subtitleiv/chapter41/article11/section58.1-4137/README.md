@@ -1,3 +1,0 @@
-# § 58.1-4137 Offering of on-premises mobile casino gaming without approval; penalties.
-
-<p>Any person who offers on-premises mobile casino gaming in violation of this article or regulations promulgated thereunder is guilty of a Class 6 felony and subject to a fine of not more than $25,000 and, in the case of a person other than a natural person, to a fine of not more than $100,000.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1197'>1197</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1248'>1248</a>.</p>

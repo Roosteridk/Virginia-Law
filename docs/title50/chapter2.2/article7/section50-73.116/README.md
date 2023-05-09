@@ -1,3 +1,0 @@
-# § 50-73.116 Continued use of partnership name.
-
-<p>Continued use of a partnership name, or a dissociated partner's name as part thereof, by partners continuing the business does not of itself make the dissociated partner liable for an obligation of the partners or the partnership continuing the business.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0292'>292</a>.</p>

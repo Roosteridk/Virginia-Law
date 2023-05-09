@@ -1,3 +1,0 @@
-# § 15.2-6306 Principal and branch offices.
-
-<p>The board of each authority created by proclamation of the Governor pursuant to § <a href='http://law.lis.virginia.gov/vacode/15.2-6302/'>15.2-6302</a> shall establish a principal office within one of the counties included in the authority. The board may also establish such branch offices as may be considered by the board to be appropriate to the efficient operation of the authority.</p><p>Code 1950, § 15-943; 1954, c. 645; 1962, c. 623, § 15.1-1326; 1997, c. 587; 2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0869'>869</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0887'>887</a>.</p>

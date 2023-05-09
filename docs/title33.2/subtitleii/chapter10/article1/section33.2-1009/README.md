@@ -1,3 +1,0 @@
-# § 33.2-1009 Acquisition of residue parcels declared to be in public interest.
-
-<p>The acquisition of such residue parcels in addition to the lands necessary for the immediate use for highway rights-of-way or purposes incidental to the construction, reconstruction, or improvement of public highways is hereby declared to be in the public interest and constitutes a public use as the term public uses is used in Article I, Section 11 of the Constitution of Virginia.</p><p>Code 1950, § 33-117.3; 1960, c. 546; 1964, c. 262; 1970, c. 322, § 33.1-92; 1971, Ex. Sess., c. 1; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,3 +1,0 @@
-# § 30-120 Senate and House Committees on Standards of Conduct.
-
-<p>Either house of the General Assembly may establish, in its rules, a Committee on Standards of Conduct to be appointed as provided in its rules and consisting of three members, one of whom shall be a member of the minority party. The Committee shall consider any request by a member of its house for an advisory opinion as to whether the facts in a particular case would constitute a violation of the provisions of this chapter and may consider other matters assigned to it pursuant to the rules of its house.</p><p>1987, Sp. Sess., c. 1, § 2.1-639.53; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

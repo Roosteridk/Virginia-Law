@@ -1,3 +1,0 @@
-# § 24.2-1003 Campaigning at registration locations.
-
-<p>Any person who gives or tenders any campaign materials to, or solicits or attempts to influence the vote of, any person while he is at any registration location as defined in Article 3 (§ <a href='http://law.lis.virginia.gov/vacode/24.2-411/'>24.2-411</a> et seq.) of Chapter 4 of this title knowing that such person is there for the purpose of registration, shall be guilty of a Class 3 misdemeanor. Nothing in this section shall prohibit the distribution of campaign materials outside any building in which a registration activity is being conducted.</p><p>1984, c. 480, § 24.1-49.01; 1993, c. 641; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP1015'>1015</a>.</p>

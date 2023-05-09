@@ -1,3 +1,0 @@
-# § 23.1-2505 Enrollment.
-
-<p>The board shall prescribe the terms upon which cadets may be admitted, their number, the course of their instruction, and the nature and duration of their service.</p><p>Code 1919, § 844, § 23-104; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1047'>1047</a>.</p>

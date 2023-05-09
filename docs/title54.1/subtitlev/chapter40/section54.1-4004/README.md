@@ -1,3 +1,0 @@
-# § 54.1-4004 Memorandum to be given pledgor; fee; lost ticket charge.
-
-<p>Every pawnbroker shall at the time of each loan deliver to the person pawning or pledging anything, a memorandum or note, signed by him, containing the information required by § <a href='http://law.lis.virginia.gov/vacode/54.1-4009/'>54.1-4009</a>. A lost-ticket fee of five dollars may be charged, provided that the pawner is notified of the fee on the ticket.</p><p>Code 1950, § 54-846; 1968, c. 438; 1983, c. 238; 1988, c. 765; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0848'>848</a>.</p>

@@ -1,3 +1,0 @@
-# § 29.1-517 Trapping and shooting of fur-bearing animals during closed season.
-
-<p>A landowner may trap or shoot fur-bearing animals upon his own land during closed season when these animals are causing damage to crops or property, or are posing a threat to human health or safety, or are otherwise causing a nuisance.</p><p>Code 1950, § 29-139; 1964, c. 207; 1987, c. 488; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0421'>421</a>; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0087'>87</a>; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0349'>349</a>.</p>

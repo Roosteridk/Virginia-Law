@@ -1,3 +1,0 @@
-# § 28.2-1514 Historical evidence.
-
-<p>In any administrative proceeding before the Commission under this chapter, or in any proceeding for the resolution of conflicting claims to inventoried property under Article 4 (§ <a href='http://law.lis.virginia.gov/vacode/28.2-1509/'>28.2-1509</a> et seq.) of this chapter, the Commission or court may consider any relevant and credible evidence including, but not limited to, deeds, grants, maps, plats or other historical documents.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0850'>850</a>.</p>

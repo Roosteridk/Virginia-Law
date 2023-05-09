@@ -1,3 +1,0 @@
-# § 13.1-568 Injunctions.
-
-<p>The Commission shall have all the power and authority of a court of record as provided in Article IX, Section 3 of the Constitution of Virginia to issue temporary and permanent injunctions against violations or attempted violations of this chapter or any order issued pursuant to this chapter. For the violation of any injunction or order issued under this chapter it shall have the same power to punish for contempt as a court of equity.</p><p>1972, c. 561; 1992, c. 468.</p>

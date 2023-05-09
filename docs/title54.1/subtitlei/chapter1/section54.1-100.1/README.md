@@ -1,3 +1,0 @@
-# § 54.1-100.1 Department of Commerce continued as Department of Professional and Occupational Regulation.
-
-<p>The Department of Professional and Occupational Regulation, formerly known as the Department of Commerce, is continued, and wherever "Department of Commerce" is used in this Code, it shall mean the Department of Professional and Occupational Regulation. The Board for Professional and Occupational Regulation, formerly known as the Board of Commerce, is continued, and wherever "Board of Commerce" is used in this Code, it shall mean the Board for Professional and Occupational Regulation.</p><p>1993, c. 499.</p>

@@ -1,3 +1,0 @@
-# § 54.1-3919 Composition of Board; quorum.
-
-<p>The Board of Bar Examiners shall be responsible for the examination of applicants and otherwise ascertaining the qualifications of applicants for admission to the bar and shall be composed of five attorneys who are residents of the Commonwealth. Three members of the Board shall constitute a quorum for holding examinations or the transaction of other business. The word "Board" when used in this chapter shall mean the Board of Bar Examiners.</p><p>Code 1950, §§ 54-53, 54-55; 1988, c. 765; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0796'>796</a>.</p>

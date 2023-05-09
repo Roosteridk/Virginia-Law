@@ -1,3 +1,0 @@
-# § 3.2-4732 Copies of records to be kept by commission merchant.
-
-<p>Every commission merchant shall retain a copy of all records, including sales tags or tickets, account of sales, or other records covering each transaction for a period of three years from the date of the transaction. The copy shall at all times be available for, and open to, confidential inspection by the Commissioner, and the interested consignor or his authorized representative.</p><p>Code 1950, § 3-558; 1966, c. 702, § 3.1-716; 1968, c. 306; 1979, c. 389; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

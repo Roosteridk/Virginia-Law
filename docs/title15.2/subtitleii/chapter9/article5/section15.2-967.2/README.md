@@ -1,3 +1,0 @@
-# § 15.2-967.2 Electric vehicle charging stations.
-
-<p>Any locality may locate and operate a retail fee-based electric vehicle charging station on property the locality owns or leases. A locality may provide that the use of such station is restricted to employees of the locality and authorized visitors and may install signage that provides notice of such restriction.</p><p>2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0295'>295</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0446'>446</a>.</p>

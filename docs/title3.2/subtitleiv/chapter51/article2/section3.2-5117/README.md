@@ -1,3 +1,0 @@
-# § 3.2-5117 Penalty for violation; misdemeanor.
-
-<p>Any person violating any of the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/3.2-5106/'>3.2-5106</a> through <a href='http://law.lis.virginia.gov/vacode/3.2-5116/'>3.2-5116</a> is guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 3-301.1; 1966, c. 702, § 3.1-381; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

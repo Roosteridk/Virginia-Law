@@ -1,3 +1,0 @@
-# § 58.1-1904 Unlawful acts.
-
-<p>It shall be unlawful for an employer or any other party to discriminate in any manner or take adverse action against any person in retaliation for exercising rights protected under this chapter.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0681'>681</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0682'>682</a>.</p>

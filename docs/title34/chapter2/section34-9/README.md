@@ -1,3 +1,0 @@
-# § 34-9 How real estate set apart as exempt may be encumbered or aliened.
-
-<p>Real estate set apart as aforesaid may be sold and conveyed as other real estate held by the householder and the proceeds invested in other property, or it may in like manner be exchanged for other property, but in no case shall the purchaser be bound to see to the application of the purchase money.</p><p>Code 1919, § 6535.</p>

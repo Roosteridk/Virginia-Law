@@ -1,3 +1,0 @@
-# § 58.1-219 Examination of books and records of taxpayers.
-
-<p>The Tax Commissioner may, in any case, in lieu of proceeding under § <a href='http://law.lis.virginia.gov/vacode/58.1-216/'>58.1-216</a>, cause the books and records of any taxpayer containing information concerning the tax liability of such taxpayer to be examined by one of his authorized auditors or agents in order that the tax and revenue laws of the Commonwealth may be enforced; but, in any such case, if any taxpayer refuses to submit his books and records for examination, as aforesaid, the Department may proceed under § <a href='http://law.lis.virginia.gov/vacode/58.1-216/'>58.1-216</a>.</p><p>Code 1950, § 58-39; 1984, c. 675.</p>

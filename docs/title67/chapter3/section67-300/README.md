@@ -1,3 +1,0 @@
-# § 67-300 (Repealed effective October 1, 2021) Offshore wind energy resources; policy.
-
-<p>It is the policy of the Commonwealth to support federal efforts to examine the feasibility of offshore wind energy being utilized in an environmentally responsible fashion.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0939'>939</a>; 2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0607'>607</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0756'>756</a>; 2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0451'>451</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0452'>452</a>.</p>

@@ -1,3 +1,0 @@
-# § 10.1-2002 Board of trustees; appointment of members.
-
-<p>The Museum shall be governed by a board of trustees consisting of 15 members appointed by the Governor. Two of the members appointed to the Board shall be members of the Virginia Academy of Science. The appointments shall be subject to confirmation by the General Assembly if in session and, if not, then at its next succeeding session. The Board of Trustees shall be referred to as the "Board."</p><p>1988, cc. 707, 891; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0502'>502</a>.</p>

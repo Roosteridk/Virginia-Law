@@ -1,3 +1,0 @@
-# § 16.1-315 Joint or regional citizen detention commissions authorized.
-
-<p>The governing bodies of three or more counties, cities or towns (hereinafter referred to as "political subdivisions") may, by concurrent ordinances or resolutions, provide for the establishment of a joint or regional citizen juvenile detention home, group home or other residential care facility commission. Such commission shall be a public body corporate, with such powers as are set forth in this article.</p><p>Code 1950, § 16.1-202.2; 1974, c. 645; 1977, c. 559.</p>

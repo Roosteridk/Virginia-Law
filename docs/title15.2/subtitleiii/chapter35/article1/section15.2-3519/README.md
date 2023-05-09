@@ -1,3 +1,0 @@
-# § 15.2-3519 Repeal of certain charters.
-
-<p>At the session of the General Assembly that follows the elections provided for in either § <a href='http://law.lis.virginia.gov/vacode/15.2-3508/'>15.2-3508</a> or § <a href='http://law.lis.virginia.gov/vacode/15.2-3509/'>15.2-3509</a>, the governing body of the resulting consolidated county, city or town shall request its delegate or senator in the General Assembly to introduce a bill to repeal all obsolete charters of the local governments that have been consolidated.</p><p>1997, c. 587.</p>

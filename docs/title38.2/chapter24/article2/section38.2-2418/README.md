@@ -1,3 +1,0 @@
-# § 38.2-2418 Recordation of instrument of revocation.
-
-<p>Any instrument of revocation issued pursuant to § <a href='http://law.lis.virginia.gov/vacode/38.2-2417/'>38.2-2417</a> shall be recorded in the deed book in the office of the clerk in which the power of attorney was recorded, upon the acknowledgment prescribed by law for the acknowledgment of deeds for recordation. The admission to record the instrument of revocation shall constitute notice to all concerned of the revocation of the power previously conferred.</p><p>Code 1950, § 38-341; 1952, c. 317, § 38.1-655; 1986, c. 562; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0357'>357</a>.</p>

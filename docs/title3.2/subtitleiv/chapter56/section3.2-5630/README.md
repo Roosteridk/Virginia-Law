@@ -1,3 +1,0 @@
-# § 3.2-5630 Violations of pricing requirements.
-
-<p>It shall be a violation of the Virginia Consumer Protection Act (§ <a href='http://law.lis.virginia.gov/vacode/59.1-196/'>59.1-196</a> et seq.) for a retail merchant to fail to comply with the provisions of § <a href='http://law.lis.virginia.gov/vacode/3.2-5627/'>3.2-5627</a>.</p><p>1991, c. 605, § 3.1-949.3; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-5384 Records and reports.
-
-<p>The Authority shall keep and preserve complete records of its operations and transactions, which records shall be open to inspection by the participating subdivisions at all times. It shall make reports to such subdivisions annually and at such other times as they may require.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0676'>676</a>.</p>

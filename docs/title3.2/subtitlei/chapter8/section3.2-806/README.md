@@ -1,3 +1,0 @@
-# § 3.2-806 Access to plants or plant products; state and local police cooperation upon request.
-
-<p>The Commissioner shall have access to plants or plant products or any other article or substance suspected of being infested with a noxious weed for inspection and shall be provided with full information as to origin and destination of same by the person in possession of any plants or other articles.</p><p>State and local police, upon request in specific instances, shall cooperate with the Commissioner in the enforcement of this chapter. This chapter shall supersede any ordinances in the Commonwealth insofar as carrying out its intent.</p><p>1970, c. 175, § 3.1-296.19; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

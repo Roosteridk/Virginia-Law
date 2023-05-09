@@ -1,3 +1,0 @@
-# § 8.2-511 Tender of payment by buyer; payment by check.
-
-<p>(1) Unless otherwise agreed tender of payment is a condition to the seller's duty to tender and complete any delivery.</p><p>(2) Tender of payment is sufficient when made by any means or in any manner current in the ordinary course of business unless the seller demands payment in legal tender and gives any extension of time reasonably necessary to procure it.</p><p>(3) Subject to the provisions of this act on the effect of an instrument on an obligation (§ <a href='http://law.lis.virginia.gov/vacode/8.3A-310/'>8.3A-310</a>), payment by check is conditional and is defeated as between the parties by dishonor of the check on due presentment.</p><p>1964, c. 219; 1992, c. 693.</p>

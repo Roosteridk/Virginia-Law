@@ -1,3 +1,0 @@
-# § 63.2-1611 Policy of Commonwealth; Department designated agency to coordinate state efforts.
-
-<p>The General Assembly declares that it is the policy of this Commonwealth to support the efforts of public and private community groups seeking to provide assistance to and treatment for the victims of domestic violence and to provide recognition to the need to combat all phases of domestic violence in this Commonwealth. To this end the Department is designated as the state agency responsible for coordinating state efforts in this regard.</p><p>1980, c. 597, § 63.1-315; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

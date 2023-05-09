@@ -1,3 +1,0 @@
-# § 3.2-3925 Fees.
-
-<p>A. A nonrefundable annual licensing fee shall be required with each application for a pesticide business license.</p><p>B. If a person fails to apply for renewal of a pesticide business license prior to expiration, the applicant shall pay the licensing fee and a late fee of 20 percent of the licensing fee as a condition of renewal.</p><p>1989, c. 575, § 3.1-249.47; 1993, c. 773; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

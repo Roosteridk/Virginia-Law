@@ -1,3 +1,0 @@
-# § 8.01-588 Bonds generally.
-
-<p>A general receiver shall annually give before the court a bond with surety to be approved by it, in such penalty as the court directs, sufficient at least to cover the probable amount under his control in any one year.</p><p>This section shall apply to the clerk if the clerk is appointed such receiver, and his official bond as clerk shall not cover money or property under his control as general receiver.</p><p>Code 1950, § 8-731; 1977, c. 617; 1988, c. 841.</p>

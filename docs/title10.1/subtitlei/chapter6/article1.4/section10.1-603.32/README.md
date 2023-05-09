@@ -1,3 +1,0 @@
-# § 10.1-603.32 Collection of money due to Fund.
-
-<p>The Authority is empowered to collect, or to authorize others to collect on its behalf, amounts due to the Fund under any loan to a local government, including, if appropriate, taking the action required by § <a href='/vacode/15.2-2659/'>15.2-2659</a> to obtain payment of any amounts in default. Proceedings to recover amounts due to the Fund may be instituted by the Authority in the name of the Fund in the appropriate circuit court.</p><p>2022, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0739'>739</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0782'>782</a>.</p>

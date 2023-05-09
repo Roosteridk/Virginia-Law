@@ -1,3 +1,0 @@
-# § 21-255 Approval of disposal methods.
-
-<p>The method proposed to be used by a commission for treating and disposing of sewage and industrial wastes so as to prevent the pollution of the waters of the district, and any substantial change in such methods, shall, before being finally adopted or used by the commission, be approved by the State Health Commissioner as effective and satisfactory for the purpose intended.</p><p>1946, p. 360; Michie Suppl. 1946, § 1560iii14.</p>

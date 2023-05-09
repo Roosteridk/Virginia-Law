@@ -1,3 +1,0 @@
-# § 45.2-2003  Findings; clarification of nature of the resource.
-
-<p>Geothermal resources are found and hereby declared to be sui generis, being neither mineral resources nor water resources. No mineral estate shall be construed to include geothermal resources unless such inclusion is explicit in the terms of the deed or other instrument of conveyance.</p><p>1981, c. 506, § 45.1-179.5; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

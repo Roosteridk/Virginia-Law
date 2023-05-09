@@ -1,3 +1,0 @@
-# § 54.1-2336 Trustee may rely on certifications and affidavits.
-
-<p>The trustee may rely upon all certifications and affidavits made pursuant to or required by the provisions of this chapter and shall not be liable to any person for such reasonable reliance.</p><p>1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0708'>708</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0721'>721</a>.</p>

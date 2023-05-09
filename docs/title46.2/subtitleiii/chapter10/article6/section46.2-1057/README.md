@@ -1,3 +1,0 @@
-# § 46.2-1057 Windshields.
-
-<p>It shall be unlawful for any person to drive on a highway in the Commonwealth any motor vehicle or reconstructed motor vehicle, other than a motorcycle or autocycle, registered in the Commonwealth that was manufactured, assembled, or reconstructed after July 1, 1970, unless the motor vehicle is equipped with a windshield.</p><p>1970, c. 22, § 46.1-293.1; 1989, c. 727; 2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0053'>53</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0256'>256</a>.</p>

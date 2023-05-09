@@ -1,3 +1,0 @@
-# § 24.2-677 State Board to open and record returns; application of Freedom of Information Act.
-
-<p>The State Board, on receipt of the certified abstracts of the votes given in the several counties and cities, shall open the abstracts and record and carefully preserve them.</p><p>The provisions of Chapter 37 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-3700/'>2.2-3700</a> et seq.) of Title 2.2, the Virginia Freedom of Information Act, shall not apply to the certified abstracts of the votes or any other documents used by the Board in ascertaining the results of any election until the results have been finally determined by the Board.</p><p>Code 1950, § 24-283; 1970, c. 462, § 24.1-152; 1971, Ex. Sess., c. 206; 1975, c. 515; 1980, c. 639; 1993, c. 641.</p>

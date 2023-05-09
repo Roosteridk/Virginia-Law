@@ -1,3 +1,0 @@
-# § 19.2-182.14 Escape of persons placed or committed; penalty.
-
-<p>Any person placed in the temporary custody of the Commissioner pursuant to § <a href='http://law.lis.virginia.gov/vacode/19.2-182.2/'>19.2-182.2</a> or committed to the custody of the Commissioner pursuant to § <a href='http://law.lis.virginia.gov/vacode/19.2-182.3/'>19.2-182.3</a> who escapes from such custody shall be guilty of a Class 6 felony.</p><p>1993, c. 295.</p>

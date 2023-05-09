@@ -1,3 +1,0 @@
-# § 8.01-17 When party whose powers cease is defendant.
-
-<p>When the party whose powers cease is defendant, the plaintiff may continue his suit against him to final judgment or decree; provided that a successor in interest may be substituted in accordance with the Rules of Court; and provided further that upon motion the court may order that the suit proceed against the former party as well as the successor.</p><p>Code 1950, § 8-152; 1954, c. 333; 1977, c. 617.</p>

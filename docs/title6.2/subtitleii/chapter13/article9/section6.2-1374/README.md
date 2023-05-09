@@ -1,3 +1,0 @@
-# § 6.2-1374 Lines of credit.
-
-<p>Notwithstanding the requirements of § <a href='http://law.lis.virginia.gov/vacode/6.2-1354/'>6.2-1354</a>, the credit committee or a loan officer may approve an application for a line of credit. When a line of credit has been approved, advances may be made as requested without further loan application or approval if the aggregate outstanding balance on all advances does not exceed the limit specified.</p><p>1976, c. 204, § 6.1-212.1; 1986, c. 147; 1990, c. 373, § 6.1-225.55; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

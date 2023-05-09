@@ -1,3 +1,0 @@
-# § 5.1-1.2 Appointment of Director; term; vacancies.
-
-<p>The Department shall be under the direction of a director, hereinafter referred to in this title as "Director," who shall be appointed by the Governor, subject to confirmation by the General Assembly if in session when such appointment is made, and, if not in session, then at its next succeeding session. He shall hold his office at the pleasure of the Governor for a term coincident with that of each Governor making the appointment or until his successor shall be appointed and qualified. Vacancies shall be filled for the unexpired term in the same manner as original appointments are made.</p><p>1979, c. 272.</p>

@@ -1,3 +1,0 @@
-# § 3.2-5625 Misleading containers prohibited; contents of container not to fall below standard.
-
-<p>No commodity in package form shall be so wrapped, nor shall it be in a container so made, formed, or filled, as to mislead the purchaser as to the quantity of the contents of the package, and the contents of a container shall not fall below such reasonable standard of fill as may have been prescribed for the commodity in question by the Board.</p><p>Code 1950, § 3-708.28; 1962, c. 298; 1966, c. 702, § 3.1-946; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

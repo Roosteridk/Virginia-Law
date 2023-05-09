@@ -1,3 +1,0 @@
-# § 13.1-1099 Effectiveness of notice.
-
-<p>Notice to a person under subsection B, C, D, or E of § <a href='/vacode/13.1-1098/'>13.1-1098</a> is effective against the person whether or not the process, notice, or demand identifies the person if the process, notice, or demand identifies the person so long as the process, notice, or demand names as a party and identifies:</p><p>1. The series limited liability company or a protected series of the series limited liability company; or</p><p>2. The foreign series limited liability company or a foreign protected series of the foreign series limited liability company.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0636'>636</a>.</p>

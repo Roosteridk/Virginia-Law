@@ -1,3 +1,0 @@
-# § 55.1-128 Prospective application.
-
-<p>Sections <a href='/vacode/55.1-124/'>55.1-124</a> through <a href='/vacode/55.1-129/'>55.1-129</a> apply to a nonvested property interest or a power of appointment that is created on or after July 1, 2000. For purposes of this section, a nonvested property interest or a power of appointment created by the exercise of a power of appointment is created when the power is irrevocably exercised or when a revocable exercise becomes irrevocable.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0714'>714</a>, § 55-12.5; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

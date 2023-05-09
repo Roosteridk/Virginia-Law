@@ -1,3 +1,0 @@
-# § 22.1-264 Misdemeanor to make false statements as to age.
-
-<p>Any person who makes a false statement concerning the age of a child between the ages set forth in § <a href='http://law.lis.virginia.gov/vacode/22.1-254/'>22.1-254</a> for the purpose of evading the provisions of this article shall be guilty of a Class 4 misdemeanor.</p><p>Code 1950, § 22-275.18; 1959, Ex. Sess., c. 72; 1968, c. 178; 1976, cc. 283, 681, 713; 1980, c. 559.</p>

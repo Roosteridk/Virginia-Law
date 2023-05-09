@@ -1,3 +1,0 @@
-# § 15.2-1909 Such resolution to contain statement as to issuance of bonds.
-
-<p>If in order to pay the amount fixed by the body determining just compensation it will be necessary for the city or county to issue and sell its bonds, such resolution filed shall so state, and shall further state that the council or other governing body proposes promptly to take the necessary and appropriate action required by law to issue and sell such bonds whenever authorized by § <a href='http://law.lis.virginia.gov/vacode/15.2-1910/'>15.2-1910</a>.</p><p>1938, p. 48; Michie Code 1942, § 4387a; Code 1950, § 25-48; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

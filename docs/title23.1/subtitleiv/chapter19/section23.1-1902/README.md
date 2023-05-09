@@ -1,3 +1,0 @@
-# § 23.1-1902 Powers and duties.
-
-<p>A. The board shall (i) make all provisions for teachers, staff members, and agents, fix their salaries, and prescribe their duties and (ii) generally direct the affairs of the University.</p><p>B. The board may take, hold, receive, and enjoy any gift, grant, devise, or bequest to the University for the uses and purposes designated by the donor, or if not so designated, for the general purposes of the board.</p><p>C. The board may confer degrees.</p><p>1968, c. 532, §§ 23-174.5, 23-174.6, 23-174.7; 1979, c. 146; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

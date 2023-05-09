@@ -1,3 +1,0 @@
-# § 21-413 Maturity, interest and registration of refunding bonds.
-
-<p>The refunding bonds so authorized shall mature at one time or in installments, not more than forty years from their date, shall bear interest at not to exceed six percent per annum, may be made callable on any interest payment date and may be made registerable as to principal, all as provided in the resolution of the board of viewers authorizing the issuance thereof.</p><p>1934, p. 4; Michie Code 1942, § 1777a; 1954, c. 642.</p>

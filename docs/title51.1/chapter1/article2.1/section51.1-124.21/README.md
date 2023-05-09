@@ -1,3 +1,0 @@
-# § 51.1-124.21 Application of State and Local Government Conflict of Interests Act.
-
-<p>The provisions of the State and Local Government Conflict of Interests Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-3100/'>2.2-3100</a> et seq.) shall apply to the members of the Board and the employees of the Virginia Retirement System.</p><p>1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0004'>4</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0085'>85</a>.</p>

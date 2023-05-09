@@ -1,3 +1,0 @@
-# § 33.2-1033 Contents of petition for condemnation.
-
-<p>The contents of such petition shall comply with all statutory requirements prescribed for the exercise of the power of eminent domain by the Commissioner of Highways and shall contain the reasons why it is practical to acquire such land and remove any remains that may be interred therein.</p><p>Code 1950, § 33-75.3; 1960, c. 308; 1970, c. 322, § 33.1-135; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

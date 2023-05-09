@@ -1,3 +1,0 @@
-# § 59.1-501.9 Choice of law.
-
-<p>(a) The parties in their agreement may choose the applicable law. However, the choice is not enforceable in a consumer contract to the extent it would vary a statute, administrative rule, or regulation that may not be varied by agreement under the law of Virginia.</p><p>(b) In the absence of an enforceable agreement on choice of law, the contract is governed by the law of Virginia.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0101'>101</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0996'>996</a>; 2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0762'>762</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0763'>763</a>.</p>

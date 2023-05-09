@@ -1,3 +1,0 @@
-# § 15.2-926.1 Bounties for coyotes.
-
-<p>Any locality may by ordinance permit the killing of coyotes within its boundaries at any time and may pay, out of any available funds, a bounty for each coyote killed within its boundaries. The ordinance may prescribe the conditions to be met and the evidence to be submitted before any such payment is made, as well as the amount of the bounty to be paid.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0487'>487</a>.</p>

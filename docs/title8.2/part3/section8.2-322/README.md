@@ -1,3 +1,0 @@
-# § 8.2-322 Delivery "ex-ship.".
-
-<p>(1) Unless otherwise agreed a term for delivery of goods "ex-ship" (which means from the carrying vessel) or in equivalent language is not restricted to a particular ship and requires delivery from a ship which has reached a place at the named port of destination where goods of the kind are are usually discharged.</p><p>(2) Under such a term unless otherwise agreed</p><p>(a) the seller must discharge all liens arising out of the carriage and furnish the buyer with a direction which puts the carrier under a duty to deliver the goods; and</p><p>(b) the risk of loss does not pass to the buyer until the goods leave the ship's tackle or are otherwise properly unloaded.</p><p>1964, c. 219.</p>

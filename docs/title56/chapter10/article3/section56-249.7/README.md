@@ -1,3 +1,0 @@
-# § 56-249.7 Certain directors and officers of utility to file shareholder information.
-
-<p>The directors and officers of any public utility as defined in § <a href='http://law.lis.virginia.gov/vacode/56-232/'>56-232</a> shall file with the Commission a record of all officers and directorships and all sources of income in excess of $25,000 per year arising from voting securities in all other corporations which to the knowledge of the director or officer furnishes fuel with a value in excess of $50,000 per year to the public utility. Such records for the past year shall be filed or made current on or before September 1 of each year.</p><p>1985, c. 522.</p>

@@ -1,3 +1,0 @@
-# § 33.2-3605 Continuing responsibilities of the Commonwealth Transportation Board and Department of Transportation.
-
-<p>The Board shall allocate funding to, and the Department shall perform or cause to be performed, all maintenance and operation of bridges, tunnels, and roadways and shall perform such other required services and activities with respect to such bridges, tunnels, and roadways as were being performed on July 1, 2019.</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0837'>837</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0846'>846</a>.</p>

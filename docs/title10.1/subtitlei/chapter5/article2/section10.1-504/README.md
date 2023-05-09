@@ -1,3 +1,0 @@
-# § 10.1-504 Chairman; quorum.
-
-<p>The Board shall designate its chairman and may, from time to time, change such designation. Five members of the Board shall constitute a quorum, and the concurrence of a majority of those present and voting shall be required for all determinations.</p><p>Code 1950, § 21-8; 1964, c. 512; 1988, c. 891; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0756'>756</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0793'>793</a>.</p>

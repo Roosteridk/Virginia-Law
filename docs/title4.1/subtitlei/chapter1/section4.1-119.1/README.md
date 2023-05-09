@@ -1,3 +1,0 @@
-# § 4.1-119.1 Human trafficking hotline; posted notice required.
-
-<p>Within each government store, except for government stores established on a distiller's licensed premises pursuant to subsection D of § <a href='/vacode/4.1-119/'>4.1-119</a>, the Authority shall post notice of the existence of a human trafficking hotline to alert possible witnesses or victims of human trafficking to the availability of a means to report crimes or gain assistance. The notice required by this section shall (i) be posted in a place readily visible and accessible to the public and (ii) meet the requirements specified in subsection C of § <a href='/vacode/40.1-11.3/'>40.1-11.3</a>.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0388'>388</a>.</p>

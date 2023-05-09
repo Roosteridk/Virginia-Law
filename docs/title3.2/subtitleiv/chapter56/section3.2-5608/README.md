@@ -1,3 +1,0 @@
-# § 3.2-5608 Testing and inspection of standards procured by cities and counties.
-
-<p>The Commissioner shall annually test the standards of weights and measures procured by any city or county for which the appointment of a sealer of weights and measures is provided by this chapter, and shall approve the same when found to be correct.</p><p>Code 1950, § 3-708.9; 1962, c. 298; 1966, c. 702, § 3.1-927; 1993, c. 604; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

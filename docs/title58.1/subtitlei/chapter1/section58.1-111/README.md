@@ -1,3 +1,0 @@
-# § 58.1-111 Taxpayer refusing to file return; estimated tax.
-
-<p>Whenever any taxpayer liable under the law to file a state tax return with the Department shall fail or refuse on demand to file a correct and proper return, the Department may make an estimate of the amount of taxes due the Commonwealth by such taxpayer, from any information in its possession, and assess the taxes, penalties and interest due the Commonwealth by such taxpayer.</p><p>Code 1950, § 58-40; 1984, c. 675.</p>

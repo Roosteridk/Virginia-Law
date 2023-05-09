@@ -1,3 +1,0 @@
-# § 60.2-317 Moneys in fund continuously available to Commission.
-
-<p>The moneys in the Special Unemployment Compensation Administration Fund shall be continuously available to the Commission for expenditure in accordance with the provisions of this article.</p><p>Code 1950, § 60-105; 1968, c. 738, § 60.1-122; 1986, c. 480.</p>

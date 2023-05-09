@@ -1,3 +1,0 @@
-# § 16.1-274.1 Admission of evidence of juvenile's age.
-
-<p>In any proceeding in a district court or circuit court where a juvenile is alleged to have committed a delinquent act, the Commonwealth shall be permitted to introduce evidence establishing the age of the juvenile at any time prior to adjudication of the case.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0913'>913</a>; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0755'>755</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0914'>914</a>.</p>

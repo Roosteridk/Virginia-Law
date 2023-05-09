@@ -1,3 +1,0 @@
-# § 55.1-1420 When defendant barred of relief.
-
-<p>Should the defendant to a proceeding filed pursuant to § <a href='/vacode/55.1-1419/'>55.1-1419</a>, or other person on his behalf, not pay the rent in arrear, with interest and costs, nor file a complaint for relief against such forfeiture, within 12 months after execution executed, he shall be barred of all right to be restored to such lands or tenements.</p><p>Code 1919, § 5531; Code 1950, § 55-240; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

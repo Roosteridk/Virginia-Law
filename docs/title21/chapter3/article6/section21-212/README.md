@@ -1,3 +1,0 @@
-# § 21-212 Effect of nonappointment of members of commission on withdrawal.
-
-<p>In the event that the members of the commission shall not be appointed within two months after the creation of the district then the date of the first appointment of such members shall be deemed to be the date of the creation of such district for all the purposes of withdrawal provided by this article.</p><p>1940, p. 621; 1942, p. 604; Michie Code 1942, § 1560kk1.</p>

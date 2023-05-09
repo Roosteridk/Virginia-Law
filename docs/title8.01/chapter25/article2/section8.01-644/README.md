@@ -1,3 +1,0 @@
-# § 8.01-644 Application for mandamus or prohibition.
-
-<p>Except as provided in § <a href='http://law.lis.virginia.gov/vacode/2.2-3713/'>2.2-3713</a>, application for a writ of mandamus or a writ of prohibition shall be on petition verified by oath, after the party against whom the writ is prayed has been served with a copy of the petition and notice of the intended application a reasonable time before such application is made.</p><p>Code 1950, § 8-704; 1977, c. 617; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0634'>634</a>.</p>

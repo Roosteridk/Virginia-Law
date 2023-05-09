@@ -1,3 +1,0 @@
-# § 13.1-546.1 Professional law corporations may qualify as executor, administrator or in other fiduciary capacity.
-
-<p>A professional corporation engaged in the practice of law, as a part of the practice of law, may act as an executor, trustee or administrator of an estate, or guardian for an infant, or in any other fiduciary capacity. Any officer, employee or agent of a professional corporation engaged in the practice of law who is duly licensed as an attorney in the Commonwealth may perform necessary fiduciary responsibilities on behalf of the corporation.</p><p>1989, c. 154.</p>

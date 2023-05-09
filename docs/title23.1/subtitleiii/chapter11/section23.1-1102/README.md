@@ -1,3 +1,0 @@
-# § 23.1-1102 Purpose of institutions.
-
-<p>In addition to any other purposes provided by law or otherwise, the purpose of every institution is to acquire, install, modify, and erect projects.</p><p>1933, p. 85, § 23-17; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0672'>672</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0689'>689</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

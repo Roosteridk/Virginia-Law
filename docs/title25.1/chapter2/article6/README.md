@@ -1,1 +1,0 @@
-# 6 Provisions Applicable to Determinations of Just Compensation

@@ -1,3 +1,0 @@
-# § 3.2-1908 Record to be kept by processor.
-
-<p>Every processor shall keep a complete record of the amount of peanuts, subject to tax, bought by him for a period of not less than three years. Such record shall be open to the inspection of the Tax Commissioner and his duly authorized agents.</p><p>Code 1950, § 3-525.13; 1966, c. 702, § 3.1-659; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

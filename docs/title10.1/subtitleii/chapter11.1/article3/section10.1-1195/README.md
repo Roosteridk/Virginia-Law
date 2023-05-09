@@ -1,3 +1,0 @@
-# § 10.1-1195 Watershed planning and permitting advisory panels.
-
-<p>The Task Force may name qualified persons to advisory panels to assist it in carrying out its responsibilities. Panels shall include members representing different areas of interest and expertise in watershed planning and watershed permitting including representatives of local governments, planning district commissions, industry, development interests, education, environmental and public interest groups and the scientific community found in baccalaureate institutions of higher education in the Commonwealth.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0793'>793</a>.</p>

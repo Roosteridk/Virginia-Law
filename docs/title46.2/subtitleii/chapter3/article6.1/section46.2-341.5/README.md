@@ -1,3 +1,0 @@
-# § 46.2-341.5 Regulations consistent with Commercial Motor Vehicle Safety Act.
-
-<p>The Department is authorized to promulgate regulations and establish procedures to enable it to issue commercial driver's licenses, maintain and exchange driver records, and impose licensing sanctions consistent with the provisions of this article and with the minimum standards of the federal Commercial Motor Vehicle Safety Act and the federal regulations promulgated thereunder.</p><p>1989, c. 705, § 46.1-372.5.</p>

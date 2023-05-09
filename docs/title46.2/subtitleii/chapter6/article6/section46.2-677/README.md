@@ -1,3 +1,0 @@
-# § 46.2-677 Self-propelled wheelchairs.
-
-<p>No person shall be required to obtain the registration certificate, license plates, or decals for or pay any registration fee for any self-propelled wheelchair or self-propelled wheelchair conveyance provided it is:</p><p>1. Operated by a person who is capable of operating it properly and safely but who, by reason of physical disability, is otherwise unable to move about as a pedestrian; and</p><p>2. Not operated on a public highway in this Commonwealth except to the extent necessary to cross the highway.</p><p>1973, c. 194, § 46.1-45.2; 1980, c. 37; 1986, c. 220; 1987, cc. 151, 342, 388; 1989, c. 727; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0142'>142</a>.</p>

@@ -1,3 +1,0 @@
-# § 3.2-4905 Disposition of funds collected.
-
-<p>All fees and assessments received by the Commissioner under this chapter shall be paid into the Feed, Lime, Fertilizer and Animal Remedies Fund, established in § <a href='http://law.lis.virginia.gov/vacode/3.2-3617/'>3.2-3617</a>, to be used in carrying out the provisions of this chapter.</p><p>Code 1950, § 3-646.13; 1956, c. 517; 1966, c. 702, § 3.1-843; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0910'>910</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

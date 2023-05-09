@@ -1,3 +1,0 @@
-# § 3.2-2008 Records to be kept by processors, livestock auction markets, and other first buyers.
-
-<p>Every processor, livestock auction market, and other first buyers of feeder pigs shall keep a complete record of the number of slaughter hogs and feeder pigs subject to tax purchased by him for at least three years. Such record shall be open to the inspection of the Tax Commissioner.</p><p>Code 1950, § 3-598.15; 1966, c. 658, § 3.1-763.9; 1979, c. 72; 1982, c. 99; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

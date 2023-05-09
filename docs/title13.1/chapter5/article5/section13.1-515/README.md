@@ -1,3 +1,0 @@
-# § 13.1-515 Advertising.
-
-<p>The Commission may require, subject to the limitations of § 222 of the Investment Advisers Act of 1940, in any particular case, any person who has published or circulated any advertisement or sales literature regarding a security, other than a federal covered security as defined in § 18(b)(2) of the Securities Act of 1933, or an investment advisory service to file copies thereof with the Commission.</p><p>1956, c. 428; 1987, c. 678; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0279'>279</a>.</p>

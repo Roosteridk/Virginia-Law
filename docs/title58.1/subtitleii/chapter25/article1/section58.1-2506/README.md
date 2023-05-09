@@ -1,3 +1,0 @@
-# § 58.1-2506 Reports to the Department.
-
-<p>Every company subject to the provisions of this chapter shall, on or before March 1 of each year, report under oath to the Department, upon forms to be furnished or approved by and in such detail as may be prescribed by the Department, the direct gross premium income derived from its business in the Commonwealth during the preceding year ending December 31.</p><p>Code 1950, § 58-497; 1952, c. 190; 1978, c. 4; 1984, c. 675; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0419'>419</a>; 2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0850'>850</a>.</p>

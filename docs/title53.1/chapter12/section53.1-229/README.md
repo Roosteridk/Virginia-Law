@@ -1,3 +1,0 @@
-# § 53.1-229 Powers vested in Governor.
-
-<p>In accordance with the provisions of Article V, Section 12 of the Constitution of Virginia, the power to grant pardons or reprieves is vested in the Governor.</p><p>Code 1950, § 53-228; 1970, c. 648; 1982, c. 636; 2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0344'>344</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0345'>345</a>.</p>

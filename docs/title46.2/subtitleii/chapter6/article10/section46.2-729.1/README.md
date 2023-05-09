@@ -1,3 +1,0 @@
-# § 46.2-729.1 Presidential inauguration license plates.
-
-<p>Notwithstanding any other provisions of law, presidential inauguration license plates duly issued by the District of Columbia may be displayed on any motor vehicle duly registered and licensed in Virginia in lieu of license plates assigned to that motor vehicle. Such presidential license plates shall not be displayed except for the period beginning January 1 through the last day of March in the year of such inauguration.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0774'>774</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0816'>816</a>.</p>

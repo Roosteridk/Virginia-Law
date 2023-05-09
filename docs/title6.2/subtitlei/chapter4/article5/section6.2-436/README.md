@@ -1,3 +1,0 @@
-# § 6.2-436 Compliance with federal law.
-
-<p>Every person subject to the provisions of 15 U.S.C. § 1601 et seq. and Consumer Financial Protection Bureau Regulation Z (12 C.F.R. Part 1026) shall comply with such statutes and regulations when offering or extending consumer credit as defined therein. A lender who fails to comply with this section shall not be subject to any liability or penalty beyond those imposed by such federal statutes and regulations.</p><p>1987, c. 622, § 6.1-330.79; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0501'>501</a>.</p>

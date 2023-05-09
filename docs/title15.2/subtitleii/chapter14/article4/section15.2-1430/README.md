@@ -1,3 +1,0 @@
-# § 15.2-1430 Bonds of persons convicted.
-
-<p>Upon conviction for the violation of any ordinance, the court trying the case may require bond of the person so convicted with proper security in the penalty of not more than $5,000, conditioned not to violate the ordinance for the breach of which he has been convicted for the period of not more than one year.</p><p>Code 1950, § 15-77.65; 1958, c. 328; 1962, c. 623, § 15.1-902; 1997, c. 587.</p>

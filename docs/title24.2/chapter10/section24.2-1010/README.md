@@ -1,3 +1,0 @@
-# § 24.2-1010 Unauthorized possession or duplication of voting equipment key or electronic activation device.
-
-<p>Any unauthorized person found in possession of any voting equipment key or electronic activation device of the type used to prepare or operate voting equipment or any unauthorized person who duplicates a voting equipment key or electronic activation device shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 24-318; 1970, c. 462, § 24.1-275; 1991, c. 710; 1993, c. 641; 2004, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0993'>993</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1010'>1010</a>.</p>

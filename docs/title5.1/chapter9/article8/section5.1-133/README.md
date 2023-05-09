@@ -1,3 +1,0 @@
-# § 5.1-133 Unlawful to charge other than published tariff.
-
-<p>No common carrier or restricted common carrier by aircraft shall charge or demand or collect or receive a greater or less or different compensation for transportation or for any service in connection therewith between the points enumerated in such tariff than the rates, fares, and charges specified in the tariff in effect at the time; and no such carrier shall refund or remit in any manner or by any device, directly or indirectly, or through any agent or broker or otherwise, any portion of the rates, fares, or charges so specified, or extend to any person any privileges or facilities for transportation except such as specified in its tariffs.</p><p>Code 1950, § 56-188; 1970, c. 708.</p>

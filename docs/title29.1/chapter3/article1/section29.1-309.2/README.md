@@ -1,3 +1,0 @@
-# § 29.1-309.2 Special lifetime trapping license for senior citizens.
-
-<p>Any resident who is 65 years of age or older may apply for and receive from the Department, for a fee of $10 or as subsequently revised by the Board pursuant to § <a href='http://law.lis.virginia.gov/vacode/29.1-103/'>29.1-103</a>, a special lifetime trapping license. Such a person shall provide proof of his age acceptable to the Director.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0145'>145</a>; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0009'>9</a>.</p>

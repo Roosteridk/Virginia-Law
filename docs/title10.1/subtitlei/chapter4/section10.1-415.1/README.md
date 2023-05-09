@@ -1,3 +1,0 @@
-# § 10.1-415.1 Rockfish State Scenic River.
-
-<p>The Rockfish River in Albemarle and Nelson Counties from the Route 693 bridge in Schuyler to its confluence with the James River, a distance of approximately 9.75 miles, is hereby designated as the Rockfish State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>1990, cc. 381, 422; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0240'>240</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>.</p>

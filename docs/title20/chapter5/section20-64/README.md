@@ -1,3 +1,0 @@
-# § 20-64 Proceedings instituted by petition.
-
-<p>Proceedings under this chapter may be instituted upon petition, verified by oath or affirmation, filed by the spouse or child or by any probation officer or by any state or local law-enforcement officer or by the Department of Social Services upon information received, or by any other person having knowledge of the facts, and the petition shall set forth the facts and circumstances of the case.</p><p>1944, p. 211; Michie Suppl. 1946, § 1937; 1974, c. 464; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

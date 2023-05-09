@@ -1,3 +1,0 @@
-# § 6.2-846 Regulations; fees.
-
-<p>The Commission may adopt such regulations and may provide for the payment of such reasonable application and administration fees as it finds necessary and appropriate in order to implement the provisions of this article.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0301'>301</a>, § 6.1-44.12; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

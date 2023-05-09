@@ -1,3 +1,0 @@
-# § 54.1-3440 Persons to whom nonrestricted permit is granted.
-
-<p>No person shall be granted a nonrestricted permit as a manufacturer unless he is of good moral character and properly equipped as to land, buildings, equipment and safeguards against diversion to carry out the functions of a manufacturer with due regard to the protection of the public safety.</p><p>1970, c. 650, § 54-524.41; 1976, c. 614; 1988, c. 765.</p>

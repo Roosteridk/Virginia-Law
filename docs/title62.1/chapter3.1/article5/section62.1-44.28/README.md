@@ -1,3 +1,0 @@
-# § 62.1-44.28 Decisions of the Board in hearings pursuant to §§ 62.1-44.15 and 62.1-44.25.
-
-<p>To be valid and operative, the decision by the Board rendered pursuant to hearings under subdivisions (8a), (8b), and (8c) of §§ <a href='http://law.lis.virginia.gov/vacode/62.1-44.15/'>62.1-44.15</a> and <a href='http://law.lis.virginia.gov/vacode/62.1-44.25/'>62.1-44.25</a> must be reduced to writing and contain the explicit findings of fact and conclusions of law upon which the decision of the Board is based and certified copies thereof must be mailed by certified mail to the parties affected by it.</p><p>1970, c. 638.</p>

@@ -1,3 +1,0 @@
-# § 15.2-1636.4 Real estate transfer and license fees in cities.
-
-<p>Such officers as may be authorized by law to collect city licenses shall collect all such license fees and apply them to the credit of their respective city treasuries. The treasurers of the several cities shall hereafter collect all state license fees and apply them to the credit of the Commonwealth.</p><p>Code 1950, § 14-73; 1964, c. 386, § 14.1-60; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

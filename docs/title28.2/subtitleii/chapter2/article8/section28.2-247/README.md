@@ -1,3 +1,0 @@
-# § 28.2-247 Graduate Marine Science Consortium to submit report.
-
-<p>At the end of each grant cycle, the Graduate Marine Science Consortium shall submit a report to the House Committee on Chesapeake and Its Tributaries; the House Committee on Appropriations; the Senate Committee on Agriculture, Conservation and Natural Resources; the Senate Committee on Finance and Appropriations; the Marine Resources Commission; and the Virginia Department of Agriculture and Consumer Services describing the projects funded and moneys expended.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0719'>719</a>.</p>

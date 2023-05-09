@@ -1,3 +1,0 @@
-# § 48-4 Service of copy of presentment; defense by person interested.
-
-<p>Upon any such presentment the court shall order a copy thereof to be served upon the person or persons presented, or whose property is presented, in the manner prescribed by law as to the service of notices. To any such proceeding, if it be in rem, any person interested, or for and in behalf of the owner of such premises, may make defense.</p><p>Code 1919, § 1520.</p>

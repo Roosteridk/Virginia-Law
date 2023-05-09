@@ -1,3 +1,0 @@
-# § 2.2-4705 Liberal construction; inconsistent laws inapplicable.
-
-<p>A. This chapter, being necessary for the welfare of the people of the Commonwealth, shall be liberally construed to effect the purposes thereof.</p><p>B. Insofar as the provisions of this chapter are inconsistent with the provisions of any general or special laws or charters, or parts thereof, the provisions of this chapter shall control.</p><p>1988, c. 498, §§ 2.1-234.9:6, 2.1-234.9:7; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

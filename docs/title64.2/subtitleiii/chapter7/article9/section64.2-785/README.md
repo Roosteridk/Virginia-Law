@@ -1,3 +1,0 @@
-# § 64.2-785 Loyalty and impartiality.
-
-<p>A. A trustee shall invest and manage the trust assets solely in the interest of the beneficiaries.</p><p>B. If a trust has two or more beneficiaries, the trustee shall act impartially in investing and managing the trust assets, taking into account any differing interests of the beneficiaries.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0772'>772</a>, § 26-45.7; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

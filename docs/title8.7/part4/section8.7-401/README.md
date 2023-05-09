@@ -1,3 +1,0 @@
-# § 8.7-401 Irregularities in issue of receipt or bill or conduct of issuer.
-
-<p>The obligations imposed by this title on an issuer apply to a document even if:</p><p>(a) the document may not comply with the requirements of this title or of any other law or regulation regarding its issue, form or content; or</p><p>(b) the issuer may have violated laws regulating the conduct of his business; or</p><p>(c) the goods covered by the document were owned by the bailee at the time the document was issued; or</p><p>(d) the person issuing the document does not come within the definition of warehouseman if it purports to be a warehouse receipt.</p><p>Code 1950, § 61-23; 1964, c. 219; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0200'>200</a>.</p>

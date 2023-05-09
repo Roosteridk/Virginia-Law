@@ -1,3 +1,0 @@
-# § 45.2-109  Using or revealing proprietary information.
-
-<p>Notwithstanding any provision of law to the contrary, neither the State Geologist nor any employee or agent of the Division shall make use of or reveal any proprietary information or statistic gathered from any source for any purpose other than that of this chapter, except with the express written consent of the source of such information or statistic. The State Geologist shall not reveal such information to the Director or any other employee of the Department who is not employed within the Division.</p><p>1984, c. 590, § 45.1-385; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

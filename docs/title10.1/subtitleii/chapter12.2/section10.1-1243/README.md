@@ -1,3 +1,0 @@
-# § 10.1-1243 Notice.
-
-<p>A. A copy of an environmental covenant shall be provided by the persons and in the manner required by the agency to:</p><p>1. Each person that signed the covenant;</p><p>2. Each person holding a recorded interest in the real property subject to the covenant;</p><p>3. Each person in possession of the real property subject to the covenant;</p><p>4. Each municipality or other unit of local government in which real property subject to the covenant is located; and</p><p>5. Any other person the agency requires.</p><p>B. The validity of a covenant is not affected by failure to provide a copy of the covenant as required under this section.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0691'>691</a>.</p>

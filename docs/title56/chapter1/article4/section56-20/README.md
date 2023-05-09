@@ -1,3 +1,0 @@
-# § 56-20 Payment for damage occasioned by crossing works of public service corporations.
-
-<p>If any such crossing as is provided for in §§ <a href='http://law.lis.virginia.gov/vacode/56-17/'>56-17</a> to <a href='http://law.lis.virginia.gov/vacode/56-19/'>56-19</a> cause damage to the works of any company, or to the owner or occupant of any lands, the company exercising the privileges granted by such sections shall make proper compensation for such damage.</p><p>Code 1919, § 3884.</p>

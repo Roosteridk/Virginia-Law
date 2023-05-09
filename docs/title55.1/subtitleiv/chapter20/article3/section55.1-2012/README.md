@@ -1,3 +1,0 @@
-# § 55.1-2012 Bylaws governing administration of buildings.
-
-<p>The administration of every building established as a horizontal property regime shall be governed by bylaws approved and adopted by the council of co-owners. The bylaws may be amended from time to time by the council or the governing board provided for in the council's bylaws.</p><p>1962, c. 627, § 11, § 55-79.11; 1966, c. 683; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

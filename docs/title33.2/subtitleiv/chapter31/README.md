@@ -1,1 +1,0 @@
-# 31 Washington Metropolitan Area Transit Authority Compact of 1966

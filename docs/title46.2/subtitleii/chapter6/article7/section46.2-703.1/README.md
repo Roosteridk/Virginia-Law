@@ -1,3 +1,0 @@
-# § 46.2-703.1 Additional fee for fleets of vehicles registered under § 46.2-703.
-
-<p>In addition to any other fees required to be paid for vehicles registered under the provisions of § <a href='http://law.lis.virginia.gov/vacode/46.2-703/'>46.2-703</a>, the Department shall charge an administrative fee of one dollar per year per fleet for each application processed. All fees collected under this section shall be used exclusively for the administration and support of reciprocity activities described in § <a href='http://law.lis.virginia.gov/vacode/46.2-703/'>46.2-703</a>.</p><p>1993, c. 83.</p>

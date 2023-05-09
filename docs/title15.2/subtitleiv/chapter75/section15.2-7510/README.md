@@ -1,3 +1,0 @@
-# § 15.2-7510 Exemption from taxes or assessments.
-
-<p>The land bank entity is hereby declared to be performing a public function on behalf of the locality with respect to which the land bank entity is created and to be a public instrumentality of such locality. Accordingly, the land bank entity shall not be required to pay any taxes upon any property acquired or used by the land bank entity under the provisions of the Act.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0159'>159</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0383'>383</a>.</p>

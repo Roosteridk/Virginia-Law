@@ -1,3 +1,0 @@
-# § 8.9A-521.1 Format of statements and records.
-
-<p>A filing office that accepts written records may not refuse to accept a written initial financing statement, an amendment to a financing statement, or other written record in a form and format promulgated by the State Corporation Commission except for a reason set forth in § <a href='http://law.lis.virginia.gov/vacode/8.9A-516/'>8.9A-516</a>(b).</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0155'>155</a>.</p>

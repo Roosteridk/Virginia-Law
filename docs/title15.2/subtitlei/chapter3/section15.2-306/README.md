@@ -1,3 +1,0 @@
-# § 15.2-306 Limitation as to frequency of elections.
-
-<p>If any election has been held in a county to determine whether such county shall adopt a form of county government provided for in Chapters 4 through 8 of this title, or if any election has been held in a county which has adopted such form of county government to determine whether such county shall change to another form of county government or to determine whether such county shall change to some other form of county government provided for by Article VII of the Constitution of Virginia and the other provisions of general law of the Commonwealth, no further election of the nature referred to in this section shall be held in the county within three years thereafter.</p><p>1997, c. 587.</p>

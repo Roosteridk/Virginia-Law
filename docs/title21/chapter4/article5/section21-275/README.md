@@ -1,3 +1,0 @@
-# § 21-275 Negotiability.
-
-<p>Any provisions of law to the contrary notwithstanding, any bonds or temporary bonds issued pursuant to the authority of this chapter shall be deemed to be fully negotiable within the meaning and for all the purposes of Title 8.3A.</p><p>1946, p. 357; Michie Suppl. 1946, § 1560iii8.</p>

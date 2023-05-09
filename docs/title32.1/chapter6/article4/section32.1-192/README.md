@@ -1,3 +1,0 @@
-# § 32.1-192 Further powers of commission.
-
-<p>Each mosquito control commission is empowered to employ all necessary personnel and to perform all acts necessary to control and eliminate mosquitoes in the district but such actions shall be subject to private property rights in the areas in which the work of the commission is performed.</p><p>Code 1950, § 32-383; 1979, c. 711.</p>

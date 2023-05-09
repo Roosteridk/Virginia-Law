@@ -1,3 +1,0 @@
-# § 61.1-44 Manufactured tobacco; false branding.
-
-<p>If any person use, or permit to be used, on any cask, box or keg of manufactured tobacco, any brand or mark indicating a place or a manufacturer different from the place in which, or the manufacturer by whom, it was really manufactured, he shall be guilty of a misdemeanor and shall be punished as provided in § <a href='http://law.lis.virginia.gov/vacode/18.2-12/'>18.2-12</a>.</p><p>None of the provisions of this chapter, other than this section, shall be construed to apply to manufactured tobacco.</p><p>Code 1950, § 61-136; 1968, c. 69.</p>

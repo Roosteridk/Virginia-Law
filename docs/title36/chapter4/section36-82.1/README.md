@@ -1,3 +1,0 @@
-# § 36-82.1 Appeals.
-
-<p>Any person aggrieved by the Department's application of the rules and regulations of the Industrialized Building Safety Law shall be heard by the State Building Code Technical Review Board established by § <a href='http://law.lis.virginia.gov/vacode/36-108/'>36-108</a>. The Technical Review Board shall have the power and duty to render its decision in any such appeal, which decision shall be final if no further appeal is made.</p><p>1986, c. 37; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0077'>77</a>.</p>

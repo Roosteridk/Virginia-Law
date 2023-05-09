@@ -1,3 +1,0 @@
-# § 4.1-628 Hearings; allowances to witnesses.
-
-<p>Witnesses subpoenaed to appear on behalf of the Board shall be entitled to the same allowance for expenses as witnesses for the Commonwealth in criminal cases in accordance with § <a href='/vacode/17.1-611/'>17.1-611</a>. Such allowances shall be paid out of the fund from which other costs incurred by the Board are paid upon certification to the Comptroller.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0550'>550</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0551'>551</a>.</p>

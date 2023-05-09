@@ -1,3 +1,0 @@
-# § 8.01-620 General jurisdiction of circuit court to award injunctions.
-
-<p>Every circuit court shall have jurisdiction to award injunctions, including cases involving violations of the Uniform Statewide Building Code, whether the judgment or proceeding enjoined be in or out of the circuit, or the party against whose proceedings the injunction be asked resides in or out of the circuit.</p><p>Code 1950, § 8-610; 1977, c. 617; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0310'>310</a>.</p>

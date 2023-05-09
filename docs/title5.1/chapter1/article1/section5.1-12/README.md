@@ -1,3 +1,0 @@
-# § 5.1-12 Federally certificated airlines and interstate service.
-
-<p>This article shall not apply to any aircraft operated by any air carrier operating under Federal Aviation Regulation Part 121 or Part 135 if operating with an exemption from Title IV of the Federal Aviation Act to provide scheduled passenger service.</p><p>Code 1950, § 5-14; 1966, c. 576; 1980, c. 721; 1988, c. 45; 1991, c. 535.</p>

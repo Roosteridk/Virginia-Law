@@ -1,3 +1,0 @@
-# § 2.2-5107 (Expires July 1, 2026) Grant payments.
-
-<p>The Comptroller shall not draw any warrants to issue checks for grants or disburse funds under this chapter without a specific legislative appropriation as specified in conditions and restrictions on expenditures in the appropriation act and following receipt of a certification from the Partnership and the Virginia Department of Taxation of the amount of personal income taxes paid by the eligible company on account of the new jobs.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0776'>776</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0777'>777</a>.</p>

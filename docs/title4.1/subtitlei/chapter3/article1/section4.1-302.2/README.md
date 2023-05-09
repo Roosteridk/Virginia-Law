@@ -1,3 +1,0 @@
-# § 4.1-302.2 Sale, purchase, use of powdered or crystalline alcohol prohibited; penalty.
-
-<p>A. No person shall purchase or possess, offer for sale or use, sell, or use any powdered or crystalline alcohol product.</p><p>B. As used in this section, "powdered or crystalline alcohol" means a product that is manufactured into a powdered or crystalline form and that contains any amount of alcohol.</p><p>C. A violation of this section is a Class 1 misdemeanor.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0025'>25</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0735'>735</a>.</p>

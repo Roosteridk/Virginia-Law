@@ -1,3 +1,0 @@
-# § 30-255 Governor to execute agreement.
-
-<p>The Governor of the Commonwealth of Virginia is authorized and directed to: (i) execute and deliver, on behalf of the Commonwealth, all agreements and modifications of agreements that relate to the Chesapeake Bay Commission; and (ii) take those actions that may be necessary to effectuate the Agreement.</p><p>1980, c. 662, § 62.1-69.20; 1985, c. 149; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1000'>1000</a>.</p>

@@ -1,3 +1,0 @@
-# § 3.2-4609 Denial, suspension or revocation of registration.
-
-<p>The Commissioner may deny, suspend or revoke registration provided for in § <a href='http://law.lis.virginia.gov/vacode/3.2-4602/'>3.2-4602</a> after a hearing, in any case in which he finds that there has been a failure or refusal to comply with the provisions of this chapter or regulations adopted hereunder. All regulations, actions, and hearings for a denial, suspension or revocation of the registration shall be subject to the provisions of Chapter 40 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.) of Title 2.2.</p><p>Code 1950, § 3-717; 1964, c. 214; 1966, c. 702, § 3.1-998; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

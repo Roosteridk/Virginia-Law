@@ -1,3 +1,0 @@
-# § 50-73.39:1 No right to distribution upon withdrawal.
-
-<p>Except as otherwise provided in writing in the partnership agreement, neither a general partner nor a limited partner has any right to receive any distribution on account of (i) the partner's withdrawal or (ii) other event of dissolution or ceasing, for any other reason, to be partner.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0581'>581</a>.</p>

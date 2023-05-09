@@ -1,3 +1,0 @@
-# § 22.1-59 Qualifications of superintendent.
-
-<p>The Board of Education shall prescribe by regulation the minimum qualifications for the position of division superintendent of schools and a copy of such regulations shall be furnished to all applicants.</p><p>Code 1950, § 22-31; 1980, c. 559.</p>

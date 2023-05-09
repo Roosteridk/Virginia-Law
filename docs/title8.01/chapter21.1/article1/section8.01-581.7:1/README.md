@@ -1,3 +1,0 @@
-# § 8.01-581.7:1 Limitation on panel opinion.
-
-<p>Unless the parties otherwise agree, any opinion of the panel shall be rendered no later than six months from the designation of the panel unless the judge shall extend the period one time, not to exceed ninety days, upon a showing of extraordinary circumstances. If the opinion of the panel is not rendered within the time provided, any panel opinion rendered subsequently shall be inadmissible as evidence unless the failure of the panel to render a decision within the time provided was caused by delay on the plaintiff's part.</p><p>1981, c. 327; 1993, c. 928.</p>

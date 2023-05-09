@@ -1,3 +1,0 @@
-# § 10.1-1171 Exceptions.
-
-<p>A. This article shall not apply to any tract of land in excess of 500 acres under the sole ownership of an individual, corporation, partnership, trust, association, or any other business unit, device, or arrangement.</p><p>B. This article shall not apply to any acre or part of an acre on which the landowner is receiving federal financial assistance for growing timber.</p><p>1981, c. 371, §§ 10-90.33, 10-90.34, 10-90.35; 1988, c. 891; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0733'>733</a>.</p>

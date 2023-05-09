@@ -1,3 +1,0 @@
-# § 54.1-909 License as limited branch pilot.
-
-<p>Any apprentice may apply to the Board for a license as a limited branch pilot. The Board may grant him a license after proper examination if in the opinion of the Board the applicant is qualified. The Board may endorse on the license such limitations as it deems proper, and a limited branch pilot shall perform his duties of piloting and conducting vessels within the limitations imposed by his license.</p><p>Code 1950, §§ 54-542, 54-543, 54-556; 1988, c. 765; 2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0326'>326</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0559'>559</a>.</p>

@@ -1,3 +1,0 @@
-# § 58.1-3007 Notice prior to increase of local tax levy; hearing.
-
-<p>Before any local tax levy shall be increased in any county, city, town, or district, such proposed increase shall be published in a newspaper having general circulation in the locality affected at least seven days before the increased levy is made and the citizens of the locality shall be given an opportunity to appear before, and be heard by, the local governing body on the subject of such increase.</p><p>Code 1950, §§ 58-846.1, 58-851; 1954, c. 465; 1959, Ex. Sess., c. 52; 1966, c. 231; 1970, c. 325; 1975, cc. 47, 48, 541; 1976, c. 567; 1979, c. 576; 1981, c. 143; 1984, c. 675.</p>

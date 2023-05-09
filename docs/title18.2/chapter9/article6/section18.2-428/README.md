@@ -1,3 +1,0 @@
-# § 18.2-428 Giving certain false information to another by telephone.
-
-<p>If any person maliciously advises or informs another over any telephone in this Commonwealth of the death of, accident to, injury to, illness of, or disappearance of some third party, knowing the same to be false, he shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 18.1-238.1; 1962, c. 225; 1975, cc. 14, 15.</p>

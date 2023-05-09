@@ -1,3 +1,0 @@
-# § 40.1-51.19:4.1 Variances.
-
-<p>Upon application pursuant to the provisions of subdivision 9 of § <a href='http://law.lis.virginia.gov/vacode/40.1-6/'>40.1-6</a>, the Commissioner may allow variances from a specific statutory requirement of this article provided the applicant proves by clear and convincing evidence his hobby or model boiler meets substantially equivalent construction and operating criteria and standards.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0879'>879</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0898'>898</a>.</p>

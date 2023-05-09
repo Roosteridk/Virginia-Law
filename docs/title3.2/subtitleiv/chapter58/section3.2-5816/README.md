@@ -1,3 +1,0 @@
-# § 3.2-5816 Certain acts forbidden to persons not licensed as public weighmasters.
-
-<p>No person shall assume the title "licensed public weighmaster," or any title of similar import, perform the duties or acts to be performed by a licensed public weighmaster under this chapter, hold himself out as a licensed public weighmaster, issue any weight certificate, ticket, memorandum, or statement for which a fee is charged or engage in the full-time or part-time business of public weighing, unless he holds a valid license as a licensed public weighmaster.</p><p>Code 1950, § 3-709.17; 1962, c. 126; 1966, c. 702, § 3.1-986; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

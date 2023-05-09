@@ -1,3 +1,0 @@
-# § 45.2-2002  Ownership.
-
-<p>Ownership rights to a geothermal resource are in the owner of the surface property underlain by the geothermal resource unless such rights have been otherwise explicitly reserved or conveyed. Nothing in this section shall divest the people or the Commonwealth of any rights, title, or interest they might have in any geothermal resource.</p><p>1981, c. 506, § 45.1-179.4; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

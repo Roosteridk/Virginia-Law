@@ -1,3 +1,0 @@
-# § 58.1-2711 Assistance of Department of Taxation.
-
-<p>At the request of the Department, the Department of Taxation shall furnish the Department the amount of deduction from income taken by any person conducting business as a motor carrier as defined in § <a href='http://law.lis.virginia.gov/vacode/58.1-2700/'>58.1-2700</a> on account of the purchase of motor fuel, diesel fuel or liquefied gases.</p><p>Code 1950, § 58-634.1; 1956, c. 475; 1984, c. 675; 1990, c. 245; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0744'>744</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0803'>803</a>; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0575'>575</a>.</p>

@@ -1,3 +1,0 @@
-# § 59.1-9.8 Forum; restraining orders and injunctions; penalties.
-
-<p>Actions and proceedings for violations of this chapter shall be brought in the circuit courts of this Commonwealth. Those courts may issue temporary restraining orders and injunctions to prevent and restrain violations of this chapter, and may award the damages and impose the civil penalties provided herein. They may also grant mandatory injunctions reasonably necessary to eliminate violations of this chapter.</p><p>1974, c. 545.</p>

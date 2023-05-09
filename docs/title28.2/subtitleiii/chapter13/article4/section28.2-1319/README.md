@@ -1,3 +1,0 @@
-# § 28.2-1319 Injunctions.
-
-<p>Upon the petition of the Commission or a wetlands board to the circuit court of the county or city where any act is done or threatened which is unlawful under this chapter, the court may enjoin the unlawful act and order the defendant to take any steps necessary to restore, protect, and preserve the wetlands involved. This remedy shall be exclusive of and in addition to any criminal penalty which may be imposed under § <a href='http://law.lis.virginia.gov/vacode/28.2-1318/'>28.2-1318</a>.</p><p>1973, c. 65, § 62.1-13.18:1; 1992, c. 836.</p>

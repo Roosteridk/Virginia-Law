@@ -1,3 +1,0 @@
-# § 55.1-412 Words "creditors" and "purchasers," how construed.
-
-<p>The words "creditors" and "purchasers," when used in any previous section of this chapter, shall not be restricted to the protection of creditors of and purchasers from the grantor, but shall also extend to and embrace all creditors and purchasers who, but for the deed or writing, would have had title to the property conveyed or a right to subject it to their debts.</p><p>Code 1919, § 5200; Code 1950, § 55-103; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

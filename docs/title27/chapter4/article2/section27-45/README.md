@@ -1,3 +1,0 @@
-# § 27-45 Payments for partial disability.
-
-<p>Should a volunteer fire fighter be injured under circumstances set forth in § <a href='http://law.lis.virginia.gov/vacode/27-43/'>27-43</a>, so as to be prevented from attending to his usual occupation for a period greater than two weeks, but not permanently and totally disabled, he shall be paid in like manner the sum of twenty-five dollars per week until able to return to his usual occupation, provided, that the payments shall not continue in any event for a period greater than ten weeks.</p><p>1928, p. 1002; Michie Code 1942, § 3144e; 1977, c. 326.</p>

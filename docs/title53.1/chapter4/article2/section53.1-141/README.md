@@ -1,3 +1,0 @@
-# § 53.1-141 Division into probation and parole districts.
-
-<p>The Director of the Department shall divide the Commonwealth into as many separate probation and parole districts as he deems necessary to carry out the purposes of this article. The Director may change the area embraced in any probation and parole district to conform to conditions and demands as they arise.</p><p>Code 1950, § 53-242; 1970, c. 648; 1974, cc. 44, 45; 1979, c. 700; 1982, c. 636; 1984, c. 514.</p>

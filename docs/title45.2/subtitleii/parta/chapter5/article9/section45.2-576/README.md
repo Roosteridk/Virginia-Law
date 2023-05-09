@@ -1,3 +1,0 @@
-# § 45.2-576  Virginia Coal Mine Safety Board; purpose.
-
-<p>The Virginia Coal Mine Safety Board (the Board) is established as an advisory board in the executive branch of state government. The purpose of the Board is to advise the Chief on matters relating to the health and safety of persons working in the coal industry in the Commonwealth.</p><p>1990, c. 963, § 45.1-5.2; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.98; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0438'>438</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

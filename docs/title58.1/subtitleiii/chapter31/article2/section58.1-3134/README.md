@@ -1,3 +1,0 @@
-# § 58.1-3134 Warrants must be presented within two years.
-
-<p>No warrant or order drawn on any treasurer by the governing body, school board, local board of social services or circuit court shall be paid by the treasurer, unless the warrant or order is presented to be paid and registered in the warrant book within two years from the date of the drawing of the warrant.</p><p>Code 1950, § 58-923; 1972, c. 73; 1984, c. 675; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

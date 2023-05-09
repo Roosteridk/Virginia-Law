@@ -1,3 +1,0 @@
-# § 8.01-383 Power to grant new trial; how often.
-
-<p>In any civil case or proceeding, the court before which a trial by jury is had, may grant a new trial, unless it be otherwise specially provided. A new trial may be granted as well where the damages awarded are too small as where they are excessive. Not more than two new trials shall be granted to the same party in the same cause on the ground that the verdict is contrary to the evidence, either by the trial court or the appellate court, or both.</p><p>Code 1950, § 8-224; 1977, c. 617.</p>

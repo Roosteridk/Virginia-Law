@@ -1,3 +1,0 @@
-# § 62.1-44.15:83 Requests for public hearing, hearings, and final decisions procedures.
-
-<p>A. The issuance of a certification pursuant to this article shall be a permit action.</p><p>B. The Department shall assess an administrative charge to the applicant to cover the direct costs of services rendered associated with its responsibilities pursuant to this section.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0636'>636</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0356'>356</a>.</p>

@@ -1,3 +1,0 @@
-# § 19.2-130.1 Bail terms set by court on a capias to be honored by magistrate.
-
-<p>A magistrate who is to set the terms of bail of a person arrested and brought before him pursuant to § <a href='http://law.lis.virginia.gov/vacode/19.2-234/'>19.2-234</a> shall, unless circumstances exist that require him to set more restrictive terms, set the terms of bail in accordance with the order of the court that issued the capias, if such an order is affixed to or made a part of the capias by the court.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0312'>312</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0375'>375</a>; 2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0112'>112</a>.</p>

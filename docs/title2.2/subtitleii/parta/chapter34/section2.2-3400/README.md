@@ -1,3 +1,0 @@
-# § 2.2-3400 Definitions.
-
-<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Agency" means any state board, department, commission, agency or other unit of state government except a county, city, town or any agency thereof.</p><p>"Deaf person" means any person whose hearing is so seriously impaired as to prohibit the person from understanding oral communications spoken in a normal conversational tone.</p><p>1978, c. 602, § 2.1-570; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

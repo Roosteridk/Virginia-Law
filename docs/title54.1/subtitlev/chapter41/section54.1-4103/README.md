@@ -1,3 +1,0 @@
-# § 54.1-4103 Prohibited purchases.
-
-<p>A. No dealer shall purchase precious metals or gems from any seller who is under the age of eighteen.</p><p>B. No dealer shall purchase precious metals or gems from any seller who the dealer believes or has reason to believe is not the owner of such items, unless the seller has written and duly authenticated authorization from the owner permitting and directing such sale.</p><p>1981, c. 581, § 54-859.18; 1988, c. 765.</p>

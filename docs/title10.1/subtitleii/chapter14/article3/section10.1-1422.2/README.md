@@ -1,3 +1,0 @@
-# § 10.1-1422.2 Recycling residues; testing.
-
-<p>The Department shall develop and implement a plan for the testing of recycling residues generated in the Commonwealth to determine whether they are nonhazardous. The costs of conducting such tests shall be borne by the person wishing to dispose of such residues.</p><p>1990, c. 781.</p>

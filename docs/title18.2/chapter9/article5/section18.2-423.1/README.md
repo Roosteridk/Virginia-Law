@@ -1,3 +1,0 @@
-# § 18.2-423.1 Placing swastika on certain property with intent to intimidate; penalty; prima facie evidence of intent.
-
-<p>It shall be unlawful for any person or persons, with the intent of intimidating another person or group of persons, to place or cause to be placed a swastika on any church, synagogue or other building or place used for religious worship, or on any school, educational facility or community center owned or operated by a church or religious body.</p><p>A violation of this section shall be punishable as a Class 6 felony.</p><p>For the purposes of this section, any such placing of a swastika shall be prima facie evidence of an intent to intimidate another person or group of persons.</p><p>1983, c. 337.</p>

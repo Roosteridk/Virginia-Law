@@ -1,1 +1,0 @@
-# 3 Regulation of Certain Private and Out-of-State Institutions of Higher Education

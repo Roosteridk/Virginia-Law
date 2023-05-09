@@ -1,3 +1,0 @@
-# § 46.2-2077 Considerations for determination of issuance of certificate.
-
-<p>In addition to the requirements of § <a href='http://law.lis.virginia.gov/vacode/46.2-2011/'>46.2-2011</a>, in determining whether a certificate of public convenience and necessity required by this article shall be granted, the Department may consider the present transportation facilities over the proposed route or within the proposed service area, the volume of traffic over such route or in such service area, and the condition of the highway over the proposed route or service area.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

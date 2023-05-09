@@ -1,3 +1,0 @@
-# § 38.2-2111 Special regulations to be added to policy.
-
-<p>If the policy is issued by any insurer having special regulations for the payment of assessments by the insured, the regulations shall be printed upon and made a part of the policy. If the policy is issued by an insurer having other regulations appropriate to or required by its form of organization, those other regulations shall be either (i) written or printed upon the policy or (ii) attached to the policy by endorsement.</p><p>Code 1950, §§ 38-180, 38-513; 1952, c. 317, § 38.1-370; 1986, c. 562.</p>

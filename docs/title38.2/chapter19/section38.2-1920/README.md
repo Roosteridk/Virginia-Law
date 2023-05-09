@@ -1,3 +1,0 @@
-# § 38.2-1920 Excess rate for a specific risk.
-
-<p>Subject to the Commission's approval, a rate in excess of that provided by an applicable filing may be used for a specific risk upon the filing of (i) written application of the insurer stating its reasons for the increased rate and (ii) the written consent of the insured or prospective insured.</p><p>1973, c. 504, § 38.1-279.47; 1986, c. 562.</p>

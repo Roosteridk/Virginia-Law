@@ -1,3 +1,0 @@
-# § 59.1-295 Statement of purpose.
-
-<p>The purpose of this chapter is to safeguard the public interest against fraud, deceit, and financial hardship, and to foster and encourage competition, fair dealing and prosperity in the field of health club services by prohibiting false and misleading advertising, and dishonest, deceptive, and unscrupulous practices by which the public has been injured in connection with contracts for health club services.</p><p>1984, c. 738; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0459'>459</a>.</p>

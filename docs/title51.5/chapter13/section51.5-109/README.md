@@ -1,3 +1,0 @@
-# § 51.5-109 Director; appointment; compensation; qualifications.
-
-<p>The Governor shall appoint a Director of the Department who shall serve at the pleasure of the Governor and shall be paid such compensation as the Governor may fix.</p><p>The Director may be either a person who is deaf or hard-of-hearing or one with normal hearing, but shall be a trained professional who is experienced in problems of the deaf and hard-of-hearing and skilled in the use of manual communication, commonly referred to as sign language.</p><p>1972, c. 543, § 63.1-85.2; 1978, c. 603; 1983, c. 440; 1984, c. 670; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

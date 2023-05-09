@@ -1,3 +1,0 @@
-# § 38.2-2523 Notice of loss and adjustment.
-
-<p>Each policyholder after sustaining loss or damage from any cause specified in the policy shall notify the mutual assessment property and casualty insurer within the time prescribed in the policy. The insurer shall promptly proceed to ascertain and adjust the loss or damage in the manner provided by the policy, law and bylaws of the company.</p><p>Code 1950, § 38-530; 1952, c. 317, § 38.1-678; 1986, c. 562.</p>

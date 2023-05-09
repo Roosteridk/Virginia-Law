@@ -1,3 +1,0 @@
-# § 15.2-3103 Compensation of commissioners, etc.
-
-<p>The circuit court for each locality shall allow a reasonable compensation to the commissioners of such localities respectively, and to the surveyor and his assistants, to be paid by the localities.</p><p>Code 1950, § 15-41; 1954, c. 536; 1962, c. 623, § 15.1-1029; 1979, c. 456; 1997, c. 587.</p>

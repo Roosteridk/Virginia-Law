@@ -1,3 +1,0 @@
-# § 29.1-506 Prescribing seasons and bag limits for taking fish and game.
-
-<p>After careful study of each species of wild bird, animal and fish within the jurisdiction of the Board in cities and counties of the Commonwealth, the Board shall have the power to prescribe the seasons and bag limits for hunting, fishing, trapping or otherwise taking such wild birds, animals and fish by regulation adopted as provided in this article.</p><p>Code 1950, § 29-129.1; 1950, p. 411; 1952, c. 619; 1960, c. 537; 1970, c. 239; 1987, c. 488.</p>

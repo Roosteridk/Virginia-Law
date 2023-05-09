@@ -1,3 +1,0 @@
-# § 45.2-553  Inspections; Mine Rescue Coordinator.
-
-<p>A. The Director shall (i) inspect, or cause to be inspected, the rescue station of each state-designated mine rescue team four times each year; (ii) ensure that all rescue stations are adequately equipped; and (iii) ensure that all team members are adequately trained.</p><p>B. The Director shall designate an employee of the Department as the Mine Rescue Coordinator, who shall perform the duties assigned to him by the Director.</p><p>1985, c. 496, § 45.1-33.5:3; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.75; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

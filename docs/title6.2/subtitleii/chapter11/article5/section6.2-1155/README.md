@@ -1,3 +1,0 @@
-# § 6.2-1155 Unapproved foreign savings institutions.
-
-<p>The Commissioner is authorized to obtain an injunction or to take any other action necessary to prevent any foreign savings institution from doing any business of a savings institution in the Commonwealth without appropriate approval.</p><p>1985, c. 425, § 6.1-194.47; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

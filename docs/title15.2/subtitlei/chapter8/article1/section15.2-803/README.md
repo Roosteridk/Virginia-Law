@@ -1,3 +1,0 @@
-# § 15.2-803 General powers of board of supervisors.
-
-<p>The board shall be the policy-determining body of the county and shall be vested with all rights and powers conferred on boards of supervisors by general law, not inconsistent with the form of county organization and government herein provided.</p><p>The board shall be the governing body of the urban county and of each of the districts established under Article 4 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-855/'>15.2-855</a> et seq.) of this chapter for the provision of certain services to residents of such districts.</p><p>Code 1950, § 15-384.18; 1960, c. 382; 1962, c. 623, § 15.1-730; 1997, c. 587.</p>

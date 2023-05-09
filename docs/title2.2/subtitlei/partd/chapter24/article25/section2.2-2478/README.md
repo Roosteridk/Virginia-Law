@@ -1,3 +1,0 @@
-# § 2.2-2478 Advisory Board on Service and Volunteerism; purpose.
-
-<p>The Advisory Board on Service and Volunteerism (the Board) is established as an advisory board, within the meaning of § <a href='/vacode/2.2-2100/'>2.2-2100</a>, in the executive branch of state government to advise the Governor and Cabinet Secretaries on matters related to promotion and development of national service in the Commonwealth and to meet the provisions of the federal National and Community Service Trust Act of 1993.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0026'>26</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0452'>452</a>.</p>

@@ -1,3 +1,0 @@
-# § 23.1-2206 Payment of bonds of the University.
-
-<p>For the payment of the bonds, with the interest on such bonds, issued pursuant to the act entitled "An act to authorize the rector and board of visitors of the University of Virginia to issue bonds to pay off and discharge their floating debt and maturing obligations," approved March 28, 1871, the current revenue of the University and the property held by the Commonwealth for the purposes of the University shall continue liable.</p><p>Code 1919, § 818, § 23-66; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

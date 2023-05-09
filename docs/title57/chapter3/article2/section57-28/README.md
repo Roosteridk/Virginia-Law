@@ -1,3 +1,0 @@
-# § 57-28 Cities and counties may establish.
-
-<p>Any city and county, or any number of cities and counties, may jointly purchase or otherwise acquire land for the purpose of improving and establishing a jointly owned cemetery or cemeteries, and the governing bodies of the cities and counties purchasing or acquiring land for joint cemetery purposes shall have the power to plan any such cemetery and amend and revise any plans so made, to determine the perpetual upkeep requirements of such cemetery and of perpetual upkeep lots therein, to fix the purchase price of all lots therein, and to designate pauper lots and lots with and without perpetual care.</p><p>1944, p. 326; Michie Suppl. 1946, § 53a.</p>

@@ -1,3 +1,0 @@
-# § 6.2-2505 Violations; enforcement.
-
-<p>Any violation of the provisions of this chapter shall constitute a prohibited practice under the provisions of § <a href='http://law.lis.virginia.gov/vacode/59.1-200/'>59.1-200</a> and shall be subject to any and all of the enforcement provisions of the Virginia Consumer Protection Act (§ <a href='http://law.lis.virginia.gov/vacode/59.1-196/'>59.1-196</a> et seq.).</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0399'>399</a>, § 6.1-479; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

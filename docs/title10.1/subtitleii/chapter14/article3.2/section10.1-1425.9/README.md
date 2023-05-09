@@ -1,3 +1,0 @@
-# § 10.1-1425.9 Duties of the Department of Education.
-
-<p>With the assistance of the Department of Waste Management, the Department of Education shall develop by July 1, 1992, guidelines for public schools regarding (i) the use of recycled materials, (ii) the collection of recyclable materials, and (iii) the reduction of solid waste generated in such school's offices, classrooms and cafeterias.</p><p>1990, c. 616.</p>

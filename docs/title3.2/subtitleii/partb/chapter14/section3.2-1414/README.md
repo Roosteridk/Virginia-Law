@@ -1,3 +1,0 @@
-# § 3.2-1414 Falsification of records; misdemeanor.
-
-<p>It is a Class 1 misdemeanor:</p><p>1. For any handler knowingly to report falsely to the Tax Commissioner the quantity of corn handled by him during any period.</p><p>2. For any handler to falsify the records of the corn handled by him.</p><p>3. For any handler to preserve the records of the corn handled by him for less than three years from the time such corn was handled.</p><p>1980, c. 395, § 3.1-1049; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

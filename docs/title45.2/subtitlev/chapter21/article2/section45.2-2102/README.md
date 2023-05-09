@@ -1,3 +1,0 @@
-# § 45.2-2102  Virginia Nuclear Energy Consortium Authority established.
-
-<p>There is hereby established a political subdivision of the Commonwealth known as the Virginia Nuclear Energy Consortium Authority. The Authority's exercise of powers conferred by this article shall be deemed to be the performance of an essential governmental function and matters of public necessity for which public moneys may be spent and private property acquired.</p><p>2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0057'>57</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0394'>394</a>, § 67-1401; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

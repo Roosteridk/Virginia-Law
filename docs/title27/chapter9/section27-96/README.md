@@ -1,3 +1,0 @@
-# § 27-96 Statewide standards.
-
-<p>The purposes of this chapter are to provide for statewide standards for optional local enforcement to safeguard life and property from the hazards of fire or explosion arising from the improper maintenance of life safety and fire prevention and protection materials, devices, systems and structures, and the unsafe storage, handling, and use of substances, materials and devices, including fireworks, explosives and blasting agents, wherever located.</p><p>1986, c. 429; 1988, c. 340; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0856'>856</a>.</p>

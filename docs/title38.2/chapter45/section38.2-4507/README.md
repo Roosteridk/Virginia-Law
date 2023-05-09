@@ -1,3 +1,0 @@
-# § 38.2-4507 Change of participants.
-
-<p>A. Any participating dentist or optometrist may resign from a plan at any time but will continue to be liable on each subscription contract then in effect. However, this liability shall not extend beyond the end of each such subscription contract's current contract year.</p><p>B. Dentists or optometrists may be admitted to a plan at any time and will then automatically become liable on all its outstanding contracts.</p><p>1980, c. 682, § 38.1-897; 1986, c. 562.</p>

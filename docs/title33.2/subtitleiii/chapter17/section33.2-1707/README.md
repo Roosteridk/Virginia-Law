@@ -1,3 +1,0 @@
-# § 33.2-1707 Highway connections.
-
-<p>Upon the letting of a contract for the construction of a project under the provisions of this chapter, the Board shall proceed with the construction of any highways that may be necessary to connect the project with state highways in the Commonwealth and to complete the construction of the connecting highways on or before the date the project is opened for traffic.</p><p>Code 1950, § 33-235; 1970, c. 322, § 33.1-275; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

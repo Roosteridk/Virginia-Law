@@ -1,3 +1,0 @@
-# § 53.1-94 Same when paid by county or city; same when by Compensation Board.
-
-<p>The circuit court, before certifying any allowance pursuant to § <a href='http://law.lis.virginia.gov/vacode/53.1-93/'>53.1-93</a>, shall inquire into the condition of the jail. If it appears that a guard was necessary because of the insecurity of the jail, it shall order the allowance to be certified to the governing body of the county or city. If otherwise, and the guard was necessary, the allowance shall be paid out of the budget of the sheriff as approved by the Compensation Board.</p><p>Code 1950, §§ 19-284, 19.1-309, 53-183.3; 1960, c. 366; 1972, c. 145; 1982, c. 636; 1985, c. 321.</p>

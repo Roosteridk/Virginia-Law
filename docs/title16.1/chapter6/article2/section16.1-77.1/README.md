@@ -1,3 +1,0 @@
-# § 16.1-77.1 When general district court may give judgment on forthcoming bond.
-
-<p>A general district court may, on motion, after 10 days' notice of the time and place thereof, give judgment on any forthcoming bond taken by a sheriff or other officer upon a fieri facias issued by such court.</p><p>Code 1950, § 8-457; 1977, c. 624; 1983, c. 616; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0869'>869</a>.</p>

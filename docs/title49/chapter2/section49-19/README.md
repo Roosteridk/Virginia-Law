@@ -1,3 +1,0 @@
-# § 49-19 Remedy on bonds.
-
-<p>Suits, or motions as provided by § <a href='http://law.lis.virginia.gov/vacode/8.01-227/'>8.01-227</a>, may be prosecuted from time to time upon any bond mentioned in §§ <a href='http://law.lis.virginia.gov/vacode/49-12/'>49-12</a> and <a href='http://law.lis.virginia.gov/vacode/49-13/'>49-13</a>, in the name of the Commonwealth, for the benefit of the Commonwealth, a county or any persons injured by any breach of the condition of such bond, as often as any such breach may be alleged, until damages shall be recovered for such breaches equal to the penalty of the bond.</p><p>Code 1919, § 286.</p>

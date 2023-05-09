@@ -1,3 +1,0 @@
-# § 32.1-102.6:1 Revocation of a certificate.
-
-<p>The Commissioner shall revoke a certificate of public need for:</p><p>1. Failure to comply with the requirements of subsection A of § <a href='/vacode/32.1-102.4/'>32.1-102.4</a> regarding schedules for completion of a project or maximum capital expenditures for a project; or</p><p>2. Willfully or recklessly misrepresented intentions or facts in obtaining a certificate.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1271'>1271</a>.</p>

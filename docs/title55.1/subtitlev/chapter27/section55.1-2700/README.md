@@ -1,3 +1,0 @@
-# § 55.1-2700 Who is entitled to drift property.
-
-<p>When any property other than abandoned watercraft has drifted on any of the waters of the Commonwealth and is deposited and left on the lands of any person other than the owner of such property, and there is no indicia of ownership, the owner of such land shall, as against all persons other than the owner of such property, be deemed and treated, and have the same rights and remedies relating thereto, as such owner of such property.</p><p>Code 1919, § 3569; Code 1950, § 55-207; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

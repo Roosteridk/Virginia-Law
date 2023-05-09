@@ -1,3 +1,0 @@
-# § 8.01-669 Definitions.
-
-<p>As used in Chapters 26, 26.1 and 26.2, unless the context otherwise requires, the term:</p><p>"Judgment" includes a decree, order, finding, or award.</p><p>"Petitioner" means a party who petitions to the Court of Appeals or the Supreme Court for an appeal.</p><p>"Appellant" means any aggrieved party who has an appeal of right or who has been granted an appeal by the Court of Appeals or the Supreme Court.</p><p>"Appellate court" means either the Court of Appeals or the Supreme Court, or both as the context may indicate.</p><p>1977, c. 617; 1984, c. 703.</p>

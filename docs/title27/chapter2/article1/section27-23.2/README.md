@@ -1,3 +1,0 @@
-# § 27-23.2 Advances by city or county to fire zone or district.
-
-<p>The governing body of any city or county in the Commonwealth may advance funds, not otherwise specifically allocated or obligated, from the general fund to a fire zone or district to assist the fire zone or district to exercise the powers set forth in § <a href='http://law.lis.virginia.gov/vacode/27-23.1/'>27-23.1</a>.</p><p>1970, c. 187; 1985, c. 343; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0142'>142</a>; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

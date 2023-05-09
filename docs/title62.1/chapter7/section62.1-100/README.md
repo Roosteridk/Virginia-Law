@@ -1,3 +1,0 @@
-# § 62.1-100 Rules of Commission; reports; employment of experts, etc.
-
-<p>The Commission shall have the power to make such reasonable rules and regulations as may be necessary to administer the provisions of this chapter and to require licensees hereunder to render to it from time to time such reports as may be reasonably necessary. It shall have the power to employ expert engineers or other experts or persons to examine and report upon projects as proposed in applications for licenses, or the structures thereof, or upon plans submitted after the issuance of licenses covering additional details or succeeding stages of construction.</p><p>Code 1950, § 62-89; 1968, c. 659.</p>

@@ -1,3 +1,0 @@
-# § 10.1-418.5 South Mayo State Scenic River.
-
-<p>The South Mayo River in Henry County from the Patrick County line to the North Carolina line, a distance of approximately 6.9 miles, is hereby designated as the South Mayo State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0014'>14</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0336'>336</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>.</p>

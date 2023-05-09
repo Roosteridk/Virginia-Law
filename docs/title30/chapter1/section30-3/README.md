@@ -1,3 +1,0 @@
-# § 30-3 How convened in extra session.
-
-<p>Whenever two-thirds of the members of both houses of the General Assembly shall, after their adjournment sine die, desire to convene the same in conformity to the Constitution, they shall make application in writing to the Governor over their own signatures, and this shall be deemed by him a proper application. He shall thereupon convene the General Assembly, at such time and place as shall be designated by the application; or, if the time and place be not so designated, then at such convenient and reasonable time and place as he shall appoint.</p><p>Code 1919, § 296.</p>

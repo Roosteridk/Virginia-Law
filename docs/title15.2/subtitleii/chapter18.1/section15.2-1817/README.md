@@ -1,3 +1,0 @@
-# § 15.2-1817 Real estate taxation.
-
-<p>The conveyed property under the project shall be subject to real property taxation under Chapter 32 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-3200/'>58.1-3200</a> et seq.) of Title 58.1.</p><p>2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0562'>562</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0660'>660</a>.</p>

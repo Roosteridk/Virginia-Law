@@ -1,3 +1,0 @@
-# § 15.2-3523 Parties.
-
-<p>In any proceedings instituted under the provisions of this article for the creation of a consolidated city, any voter, person having an interest or property owner of any locality which is a party to the consolidation agreement may by petition become party to the proceedings. Any locality having a common boundary, or other person affected by the proceedings may appear and shall be made party to the case.</p><p>1979, c. 85, § 15.1-1130.4; 1997, c. 587.</p>

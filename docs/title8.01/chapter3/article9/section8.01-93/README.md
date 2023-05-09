@@ -1,3 +1,0 @@
-# § 8.01-93 Partition of goods, etc., by sale, if necessary.
-
-<p>When an equal division of goods or chattels cannot be made in kind among those entitled, a court of equity may direct the sale of the same, and the distribution of the proceeds according to the rights of the parties.</p><p>Code 1950, § 8-702; 1977, c. 617.</p>

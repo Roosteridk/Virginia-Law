@@ -1,3 +1,0 @@
-# § 58.1-466 Additional withholding.
-
-<p>The Tax Commissioner is authorized to provide by regulations, under such conditions and to such extent as he deems proper, for withholding in addition to that otherwise required under this article in cases in which the employer and the employee agree to such additional withholding. Such additional withholding shall for all purposes be considered tax required to be deducted and withheld under this article.</p><p>Code 1950, § 58-151.7; 1962, c. 612; 1984, c. 675.</p>

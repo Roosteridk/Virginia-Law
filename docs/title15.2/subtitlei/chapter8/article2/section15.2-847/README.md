@@ -1,3 +1,0 @@
-# § 15.2-847 Budget; board to fix salaries and allowances.
-
-<p>Each year at least two weeks before the board must prepare its proposed annual budget, the urban county executive shall prepare and submit to the board a budget presenting a financial plan for conducting the county's affairs for the ensuing year. The budget shall be set up in the manner prescribed by general law. Hearings thereon shall be held and notice thereof given and the budget adopted in accordance with such general law. The board shall establish the salary and allowances of all county employees.</p><p>Code 1950, § 15-384.66; 1960, c. 382; 1962, c. 623, § 15.1-779; 1966, c. 464; 1968, c. 797; 1975, c. 143; 1997, c. 587.</p>

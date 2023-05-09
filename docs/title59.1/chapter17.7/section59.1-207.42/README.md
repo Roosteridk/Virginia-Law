@@ -1,3 +1,0 @@
-# § 59.1-207.42 Advertising comparison price of goods or services.
-
-<p>No supplier shall in any manner knowingly advertise a comparison price which is based on another supplier's price unless:</p><p>1. The supplier can substantiate that the comparison price is the price offered for sale by another supplier in the regular course of business for goods or services of substantially the same kind and quality, and with substantially the same service in the defined trade area;</p><p>2. The trade area to which the advertisement refers is clearly defined and disclosed; and</p><p>3. A clear and conspicuous disclosure is made in the advertisement that the price used as a basis of comparison is another supplier's price, and not the supplier's own price.</p><p>1992, c. 768.</p>

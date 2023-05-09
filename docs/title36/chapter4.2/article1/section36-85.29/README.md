@@ -1,3 +1,0 @@
-# § 36-85.29 Inspection of service records.
-
-<p>The Board is authorized to inspect the pertinent service records of a manufacturer, dealer, supplier, or broker relating to a written warranty claim or complaint made to the Board against such manufacturer, dealer, supplier, or broker. Every regulant shall send to the Board upon request and within ten days, a true copy of every document or record pertinent to any complaint or claim for service.</p><p>1991, c. 555; 1992, c. 223.</p>

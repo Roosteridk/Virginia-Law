@@ -1,3 +1,0 @@
-# § 6.2-1102 Associations operating share accumulation loan plans; continued operation.
-
-<p>Notwithstanding any other provision of law with respect to the rates of interest that may be charged, an association that on September 1, 1959, was operating on a share accumulation loan plan whereby its earnings were equitably distributed to both its borrowers and its shareholders may continue to operate upon the same plan, but no additional loans shall be made or shares issued under such plan after July 1, 1974.</p><p>Code 1950, §§ 6-201.2; 1960, c. 402; 1966, c. 584, § 6.1-127; 1972, c. 796, § 6.1-195.2; 1974, c. 565; 1985, c. 425, § 6.1-194.91; 1986, cc. 500, 509; 1990, c. 3; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,3 +1,0 @@
-# § 38.2-504 Defamation.
-
-<p>No person shall make, publish, disseminate, or circulate, directly or indirectly, or aid, abet or encourage the making, publishing, disseminating or circulating of any oral or written statement or any pamphlet, circular, article or literature that is false, and maliciously critical of, or derogatory to, any person with respect to the business of insurance or with respect to any person in the conduct of his insurance business and that is calculated to injure that person.</p><p>Code 1950, § 38.1-52; 1952, c. 317, § 38.1-52.3; 1977, c. 529; 1978, c. 441; 1979, c. 324; 1980, c. 404; 1986, c. 562.</p>

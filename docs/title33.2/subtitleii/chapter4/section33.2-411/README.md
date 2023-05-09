@@ -1,3 +1,0 @@
-# § 33.2-411 Raising or lowering floodgates.
-
-<p>The owner or occupier of a dam shall raise or lower the floodgates on such dam when there is an impending flood in order to reduce the level of the water in the pond, and when it comes to the attention of the Commissioner of Highways that this has not been done, or that the owner is unable to reach the spillway in order to do so, the Commissioner of Highways may perform this duty.</p><p>Code 1950, § 33-92; 1970, c. 322, § 33.1-178; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

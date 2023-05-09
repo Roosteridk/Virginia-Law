@@ -1,3 +1,0 @@
-# § 38.2-1334 Revocation, suspension, or nonrenewal of insurer's license.
-
-<p>Whenever it appears to the Commission that any person has committed a violation of this article that makes the continued operation of an insurer contrary to the interests of policyholders or the public, the Commission after giving notice and an opportunity to be heard, may suspend, revoke or refuse to renew the insurer's license to transact business in this Commonwealth for whatever period it finds is required for the protection of policyholders or the public. Any such action shall be supported by specific findings of fact and conclusions of law.</p><p>1973, c. 505, § 38.1-178.9; 1986, c. 562.</p>

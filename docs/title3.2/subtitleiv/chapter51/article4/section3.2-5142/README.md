@@ -1,3 +1,0 @@
-# § 3.2-5142 Punishment for hindering Commissioner.
-
-<p>Any person who shall willfully hinder or obstruct the Commissioner in the exercise of the powers conferred upon him by this chapter is guilty of a Class 2 misdemeanor.</p><p>Code 1950, § 3-337; 1966, c. 702, § 3.1-416; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

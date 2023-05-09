@@ -1,3 +1,0 @@
-# § 64.2-1620 Laws applicable to financial institutions and entities.
-
-<p>This chapter does not supersede any other law applicable to financial institutions or other entities, and the other law controls if inconsistent with this chapter.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0455'>455</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0632'>632</a>, § 26-93; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

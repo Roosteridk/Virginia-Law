@@ -1,3 +1,0 @@
-# § 19.2-141 How recognizance taken for incapacitated or insane person or one under disability.
-
-<p>A recognizance which would be taken of a person but for his being a minor, insane or otherwise mentally incapacitated, may be taken of another person and without further surety, if such other person is deemed sufficient, for the performance by such minor, insane or otherwise incapacitated person, of the conditions of the recognizance.</p><p>Code 1950, § 19.1-134; 1960, c. 366; 1975, c. 495; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0801'>801</a>.</p>

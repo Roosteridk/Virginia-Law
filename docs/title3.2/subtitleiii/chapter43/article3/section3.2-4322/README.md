@@ -1,3 +1,0 @@
-# § 3.2-4322 Definitions.
-
-<p>As used in this article, unless the context requires a different meaning:</p><p>"Grain" means corn (maize), wheat, rye, oats, barley, flaxseed, soybeans, and such other grains as the usages of the trade may warrant and permit.</p><p>"Handler" means a person who buys grain for resale as grain or grain products.</p><p>Code 1950, § 3-269.1; 1966, c. 433, § 3.1-348.1; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

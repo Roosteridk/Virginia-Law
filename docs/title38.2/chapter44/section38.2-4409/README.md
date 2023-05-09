@@ -1,3 +1,0 @@
-# § 38.2-4409 Payments under plan.
-
-<p>The legal services organization shall not indemnify any subscriber for legal services rendered by any participating provider or nonparticipating attorney.</p><p>1978, c. 658, § 38.1-798; 1986, c. 562; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0224'>224</a>.</p>

@@ -1,3 +1,0 @@
-# § 8.2-512 Payment by buyer before inspection.
-
-<p>(1) Where the contract requires payment before inspection nonconformity of the goods does not excuse the buyer from so making payment unless</p><p>(a) the nonconformity appears without inspection; or</p><p>(b) despite tender of the required documents the circumstances would justify injunction against honor under § <a href='http://law.lis.virginia.gov/vacode/8.5A-109/'>8.5A-109</a> (b).</p><p>(2) Payment pursuant to subsection (1) does not constitute an acceptance of goods or impair the buyer's right to inspect or any of his remedies.</p><p>1964, c. 219; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0343'>343</a>.</p>

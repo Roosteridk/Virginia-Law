@@ -1,3 +1,0 @@
-# § 2.2-2321 Grants from Commonwealth.
-
-<p>The Commonwealth may make grants of money or property to the Authority for the purpose of enabling it to carry out its corporate purposes and for the exercise of its powers. This section shall not be construed to limit any other power the Commonwealth may have to make grants to the Authority.</p><p>1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0852'>852</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0881'>881</a>, § 2.1-548.62; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

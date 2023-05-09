@@ -1,3 +1,0 @@
-# § 64.2-734 Modification to achieve settlor's tax objectives.
-
-<p>To achieve the settlor's tax objectives, the court may modify the terms of a trust in a manner that is not contrary to the settlor's probable intention. The court may provide that the modification has retroactive effect.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-544.16; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

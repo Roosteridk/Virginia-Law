@@ -1,3 +1,0 @@
-# § 18.2-265.5 Advertisement of drug paraphernalia prohibited; penalty.
-
-<p>It shall be unlawful for any person to place in any newspaper, magazine, handbill or other publication any advertisement, knowing or under circumstances where one reasonably should know, that the purpose of the advertisement, in whole or in part, is to promote the sale of objects designed or intended by such person for use as drug paraphernalia. A violation of this section shall be punishable as a Class 1 misdemeanor.</p><p>1983, c. 535.</p>

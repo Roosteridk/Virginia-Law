@@ -1,3 +1,0 @@
-# § 10.1-1007 Sale of speleothems; penalties.
-
-<p>It shall be unlawful for any person to sell or offer for sale any speleothems in this Commonwealth, or to export them for sale outside the Commonwealth. Any violation of this section shall be punished as a Class 1 misdemeanor.</p><p>1979, c. 252, § 10-150.17; 1982, c. 81; 1988, c. 891.</p>

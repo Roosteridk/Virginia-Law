@@ -1,3 +1,0 @@
-# § 21-309 Subsequent appearance of unknown owners.
-
-<p>If at any time during the pendency of the drainage proceeding the owner or owners of the lands shall appear in person, they may be made parties defendant of their own motion and without the necessity of personal service, and shall thereafter be considered as parties to the proceeding, but they shall have no right to except to or appeal from any order or judgment theretofore rendered as to which the time for filing exceptions or notice shall have expired.</p><p>Code 1919, § 1740; 1926, p. 609.</p>

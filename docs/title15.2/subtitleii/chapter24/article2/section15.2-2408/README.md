@@ -1,3 +1,0 @@
-# § 15.2-2408 Notice to landowner of amount of assessment.
-
-<p>When the assessment or apportionment is not fixed by agreement, notice thereof, and of the amount so assessed or apportioned, shall be given to each of the abutting owners who shall be cited to appear before governing body, committee, officer or board having charge of the matter, not less than ten days thereafter, at the time and place designated, to show cause, if he can, against such assessment or apportionment.</p><p>Code 1950, § 15-673; 1962, c. 623, § 15.1-243; 1997, c. 587.</p>

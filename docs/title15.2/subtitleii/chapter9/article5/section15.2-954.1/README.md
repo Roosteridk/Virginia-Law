@@ -1,3 +1,0 @@
-# § 15.2-954.1 Volunteer firefighter or volunteer emergency medical services personnel tuition reimbursement.
-
-<p>Notwithstanding any other provision to the contrary, any locality may by ordinance establish and administer a tuition reimbursement program for eligible volunteer firefighters or volunteer emergency medical services personnel, or both, for the purposes of recruitment and retention.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0208'>208</a>; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

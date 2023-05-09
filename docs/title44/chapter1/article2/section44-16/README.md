@@ -1,3 +1,0 @@
-# § 44-16 Records of Adjutant General.
-
-<p>The Adjutant General shall keep a record of all officers and enlisted personnel, and shall also keep all records and papers required by law or regulations to be filed therein.</p><p>1930, p. 951; Michie Code 1942, § 2673(13); R. P. 1948, § 44-15; 1970, c. 662; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0572'>572</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0586'>586</a>.</p>

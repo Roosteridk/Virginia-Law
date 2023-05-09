@@ -1,3 +1,0 @@
-# § 25.1-207 Inclusion in petition of request for right of entry.
-
-<p>The petition may also include (i) facts and circumstances on the basis of which the petitioner desires to obtain the right of entry as provided in § <a href='http://law.lis.virginia.gov/vacode/25.1-223/'>25.1-223</a> or as provided in any charter and (ii) a prayer asking for such right of entry.</p><p>Code 1919, § 4364; Code 1950, §§ 25-8, 25-9; 1962, c. 426, § 25-46.7; 1980, c. 441; 1981, c. 316; 1991, c. 520; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-625 Department of public works.
-
-<p>The county engineer, who shall be head of the department of public works, shall be responsible for the construction and maintenance of county roads and bridges, county stormwater systems within public rights-of-way and public easements and all other public works. He shall exercise the powers conferred and perform the duties imposed by general law upon the county engineer and in addition shall perform such other duties as the board imposes upon him.</p><p>Code 1950, § 15-321; 1962, c. 623, § 15.1-641; 1997, c. 587.</p>

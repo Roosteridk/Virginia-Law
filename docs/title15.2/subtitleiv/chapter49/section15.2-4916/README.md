@@ -1,3 +1,0 @@
-# § 15.2-4916 Authorities acting jointly.
-
-<p>The powers herein conferred upon authorities created under this chapter may be exercised by two or more authorities acting jointly. Two or more localities may jointly create an authority, in which case each of the directors of such authority shall be appointed by the governing body of the respective locality which the director represents.</p><p>1966, c. 651, § 15.1-1387; 1982, c. 463; 1997, c. 587.</p>

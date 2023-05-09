@@ -1,3 +1,0 @@
-# § 46.2-2086 Interruption of service.
-
-<p>All interruptions of regular service that are likely to continue for more than twenty-four hours shall be promptly reported in writing to the Department with a full statement of cause of such interruption and its probable duration; however, any interruption of regular service that results from an act of God need not be reported to the Department unless it continues for more than seventy-two hours.</p><p>All interruptions of regular service shall be promptly reported to the agents of the carrier on the routes involved.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

@@ -1,3 +1,0 @@
-# § 28.2-1204.1 Submerged aquatic vegetation.
-
-<p>The Commission shall, in consultation with the Virginia Institute of Marine Science, develop guidelines containing criteria for use in:</p><p>1. Defining existing beds of submerged aquatic vegetation; and</p><p>2. Delineating areas where there is potential for submerged aquatic vegetation restoration.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0547'>547</a>.</p>

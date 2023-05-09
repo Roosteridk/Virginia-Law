@@ -1,3 +1,0 @@
-# § 3.2-5224 Regulations governing equipment, standards and procedures.
-
-<p>The Board shall have authority to adopt and enforce regulations governing the equipment, standards, and procedures used in the receiving, weighing, measuring, sampling, and testing of milk or other fluid dairy products when the results are to be used for the purpose of inspection, check testing, or as a basis for payment in buying or selling.</p><p>1970, c. 176, § 3.1-535.1; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

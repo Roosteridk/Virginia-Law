@@ -1,3 +1,0 @@
-# § 17.1-200 Clerk of Supreme Court; appointment; removal.
-
-<p>There shall be a clerk of the Supreme Court, who shall be appointed by and shall hold office at the pleasure of the Court. In addition to his regular duties as clerk, he shall perform such other duties and services as the Court may require, without additional compensation.</p><p>Code 1919, § 3378, § 17-33; 1934, p. 427; 1938, p. 131; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

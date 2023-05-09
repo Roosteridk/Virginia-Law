@@ -1,3 +1,0 @@
-# § 5.1-2.21 Same; disposal of airport or facility.
-
-<p>The joint authority shall not dispose of any airport, airport navigational facility or real property under its jurisdiction except by majority vote of each component agency or authority; provided, however, that this restriction shall not be construed to apply to any disposition of property contemplated or permitted by § <a href='http://law.lis.virginia.gov/vacode/5.1-2.2:1/'>5.1-2.2:1</a>.</p><p>1980, c. 750.</p>

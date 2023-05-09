@@ -1,3 +1,0 @@
-# § 59.1-533 Definitions.
-
-<p>As used in this chapter:</p><p>"Influenza vaccine" means a vaccine, intended to be administered by injection, that contains inactivated influenza viruses, that is prepared for the applicable influenza season.</p><p>"Influenza vaccine shortage period" means the period of time during which a proclamation of the Governor provides that an influenza vaccine shortage exists.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0861'>861</a>.</p>

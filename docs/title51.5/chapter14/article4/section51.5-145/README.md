@@ -1,3 +1,0 @@
-# § 51.5-145 Responsibility of the Department for adult services.
-
-<p>The Department shall have responsibility for the planning and oversight of adult services in the Commonwealth. Services shall be delivered by local departments of social services, as set out in Article 1 (§ <a href='http://law.lis.virginia.gov/vacode/63.2-1600/'>63.2-1600</a> et seq.) of Chapter 16 of Title 63.2, and pursuant to regulations and subject to the oversight of the Commissioner.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

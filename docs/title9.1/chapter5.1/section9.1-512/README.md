@@ -1,3 +1,0 @@
-# § 9.1-512 Informal counseling not prohibited.
-
-<p>Nothing in this chapter shall be construed to prohibit the informal counseling of a correctional officer by a supervisor in reference to a minor infraction of policy or procedure that does not result in disciplinary action being taken against the correctional officer.</p><p>2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0761'>761</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0762'>762</a>.</p>

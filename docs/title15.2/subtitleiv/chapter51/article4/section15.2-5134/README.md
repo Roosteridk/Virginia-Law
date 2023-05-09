@@ -1,3 +1,0 @@
-# § 15.2-5134 Disposition of unclaimed funds due on matured bonds or coupons.
-
-<p>Any authority having bonds outstanding on which principal, premium or interest has matured for a period of more than five years may pay any money being held to pay the matured principal, premium or interest into the general fund of the authority. Thereafter, the owners of the matured bonds may look only to the authority for payment. The authority shall maintain a record of the bonds for which the funds were held.</p><p>1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 56-345.1 Notice; consolidation, merger, abandonments, or discontinuances.
-
-<p>Any railroad company operating in the Commonwealth that submits an application to the federal government for consolidation, merger, abandonment, or discontinuance shall, contemporaneously with such application, notify the Commission and the Governor of such action.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0114'>114</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0157'>157</a>.</p>

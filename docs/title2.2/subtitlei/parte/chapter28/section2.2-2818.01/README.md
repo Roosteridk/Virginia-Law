@@ -1,3 +1,0 @@
-# § 2.2-2818.01 Employer contributions.
-
-<p>Notwithstanding any other provisions of law, the Department shall have the sole responsibility and authority to establish and enforce employer contribution rates for any plan established pursuant to § <a href='http://law.lis.virginia.gov/vacode/2.2-2818/'>2.2-2818</a>.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0600'>600</a>.</p>

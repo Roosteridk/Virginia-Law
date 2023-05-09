@@ -1,3 +1,0 @@
-# § 21-272 Form and contents.
-
-<p>Bonds shall be authorized by resolution of the commission, and shall be issued from time to time in one or more series, be in such form, bear such date or dates, mature at such time or times not more than forty years from the date of issuance thereof, bear interest at such rate or rates not exceeding six per centum per annum, be in such denominations, carry such registration privileges, be executed in such manner, be payable in such medium of payment, at such place or places, be subject to acceleration of maturity on such contingencies and terms, and be subject to such terms of redemption with or without premium, as such resolution shall provide.</p><p>1946, p. 356; Michie Suppl. 1946, § 1560iii8.</p>

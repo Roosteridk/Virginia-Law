@@ -1,3 +1,0 @@
-# § 64.2-1206 Settlement of fiduciaries' accounts.
-
-<p>Every fiduciary referred to in this part shall account before the commissioner of accounts of the jurisdiction wherein he qualified as provided in this part. Every account shall be signed by all fiduciaries. A statement in a separate document, signed by the fiduciary and attached to an account, that a fiduciary has received, read, and agrees with the account shall be treated as a signature to the account.</p><p>1993, c. 689, § 26-17.3; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0842'>842</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

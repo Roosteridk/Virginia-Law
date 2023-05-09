@@ -1,3 +1,0 @@
-# § 38.2-1412 Scope of article.
-
-<p>This article sets forth requirements for qualifying as a Category 1 investment. If an investment or portion thereof does not comply either with this article or Article 3 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-1443/'>38.2-1443</a> et seq.) of this chapter, then that investment or portion of it shall be classified as a Category 2 investment or a prohibited investment, as provided in this chapter.</p><p>1983, c. 457, § 38.1-217.15; 1986, c. 562.</p>

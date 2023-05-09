@@ -1,3 +1,0 @@
-# § 46.2-344 Temporary driver's permit.
-
-<p>The Department, upon determining, after an examination, that an applicant is mentally, physically, and otherwise qualified to receive a license, may issue to him a temporary driver's permit entitling him, while having the permit in his immediate possession, to drive a motor vehicle on the highways. The temporary driver's permit shall be valid until receipt of the driver's license but in no case shall be valid for more than 90 days from the date of issuance.</p><p>Code 1950, § 46-372; 1958, c. 541, § 46.1-377; 1984, c. 780; 1989, c. 727; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0872'>872</a>.</p>

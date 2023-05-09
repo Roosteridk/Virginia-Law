@@ -1,1 +1,0 @@
-# 10 Privileges of United States Reserve, National Guard, and Naval Militia

@@ -1,3 +1,0 @@
-# § 8.2-318 When lack of privity no defense in action against manufacturer or seller of goods.
-
-<p>Lack of privity between plaintiff and defendant shall be no defense in any action brought against the manufacturer or seller of goods to recover damages for breach of warranty, express or implied, or for negligence, although the plaintiff did not purchase the goods from the defendant, if the plaintiff was a person whom the manufacturer or seller might reasonably have expected to use, consume, or be affected by the goods; however, this section shall not be construed to affect any litigation pending on June 29, 1962.</p><p>Code 1950, § 8-654.3; 1962, c. 476; 1964, c. 219.</p>

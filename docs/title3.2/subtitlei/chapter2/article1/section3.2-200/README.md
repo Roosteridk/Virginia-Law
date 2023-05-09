@@ -1,3 +1,0 @@
-# § 3.2-200 Agricultural Vitality Program continued as Office of Farmland Preservation.
-
-<p>The Agricultural Vitality Program within the Department is continued and hereafter shall be known as the Office of Farmland Preservation.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0521'>521</a>, § 3.1-18.9; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,3 +1,0 @@
-# § 13.1-560 Registration required.
-
-<p>It shall be unlawful for any person to sell or offer to sell a franchise in this Commonwealth unless the franchise is registered under the provisions of this chapter or exempted from registration by rule or order of the Commission.</p><p>1972, c. 561; 1978, c. 670; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0668'>668</a>; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0148'>148</a>.</p>

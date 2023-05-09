@@ -1,3 +1,0 @@
-# § 23.1-1401 Membership.
-
-<p>The board shall consist of 14 members appointed by the Governor, of whom at least six shall be alumni of the University.</p><p>1976, c. 21, § 23-49.25; 1978, c. 376; 1992, c. 103; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0040'>40</a>; 2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0190'>190</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0597'>597</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

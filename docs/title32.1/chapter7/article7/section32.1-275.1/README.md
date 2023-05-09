@@ -1,3 +1,0 @@
-# § 32.1-275.1 Matching of birth and death certificates; marking of certificates and copies.
-
-<p>To protect the integrity of vital records and prevent the fraudulent use of birth certificates of deceased persons, the State Registrar is hereby authorized to match birth and death certificates, in accordance with regulations promulgated by the Board, to prove beyond a reasonable doubt the fact of death, and to post the facts of death to the appropriate birth certificate. Copies issued from birth certificates marked deceased shall be similarly marked.</p><p>1983, c. 240.</p>

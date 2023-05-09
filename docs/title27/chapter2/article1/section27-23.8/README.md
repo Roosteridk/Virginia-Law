@@ -1,3 +1,0 @@
-# § 27-23.8 Trial board for members of fire departments in certain counties.
-
-<p>Chapter 8 of the Acts of 1950, approved February 9, 1950, as amended, by Chapter 409 of the Acts of 1954, approved April 3, 1954, relating to trial board for members of fire departments in any county having a population of more than 2,000 per square mile is incorporated in this Code by this reference.</p><p>1970, c. 187.</p>

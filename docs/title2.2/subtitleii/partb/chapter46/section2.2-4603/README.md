@@ -1,3 +1,0 @@
-# § 2.2-4603 Investment authority.
-
-<p>Subject to the procedures set forth in this chapter, any local official handling public funds may invest and reinvest any money subject to his control and jurisdiction in the local government investment pool established by § <a href='http://law.lis.virginia.gov/vacode/2.2-4602/'>2.2-4602</a>.</p><p>1980, c. 538, § 2.1-234.4; 1988, c. 834; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

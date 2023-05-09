@@ -1,3 +1,0 @@
-# § 22.1-23.2 Consolidation of surveys, etc.
-
-<p>The Superintendent of Public Instruction shall identify any survey, questionnaire, inquiry, or other communication that requires a response from a school board or division superintendent as required by this title, Board regulations, the Superintendent, the Department, or other state agencies and shall, in collaboration with any identified requesting entity, work to consolidate, as much as practicable, all such surveys, questionnaires, inquiries, and other communications in order to reduce the administrative burden of such response.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0768'>768</a>.</p>

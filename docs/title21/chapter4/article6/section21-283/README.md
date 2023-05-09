@@ -1,3 +1,0 @@
-# § 21-283 Plans, maps, etc., to be available to commission.
-
-<p>Each county, city or town in whole or in part embraced within a district shall, at the request of the commission, make available to the commission or the agents or employees thereof, any or all maps, plans, specifications, records, books, accounts or other data or things deemed necessary by the commission in the exercise of its powers and duties under this chapter.</p><p>1946, p. 362; Michie Suppl. 1946, § 1560iii21.</p>

@@ -1,3 +1,0 @@
-# § 18.2-256 Conspiracy.
-
-<p>Any person who conspires to commit any offense defined in this article or in the Drug Control Act (§ <a href='http://law.lis.virginia.gov/vacode/54.1-3400/'>54.1-3400</a> et seq.) is punishable by imprisonment or fine or both which may not be less than the minimum punishment nor exceed the maximum punishment prescribed for the offense, the commission of which was the object of the conspiracy.</p><p>Code 1950, § 54-524.104; 1970, c. 650; 1972, c. 798; 1975, cc. 14, 15; 1978, c. 130.</p>

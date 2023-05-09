@@ -1,3 +1,0 @@
-# § 54.1-3604 Nominations.
-
-<p>Nominations for professional members may be made from a list of at least three names for each vacancy submitted to the Governor by the Virginia Psychological Association, the Virginia Academy of Clinical Psychologists, the Virginia Applied Psychology Academy and the Virginia Academy of School Psychologists. The Governor may notify such organizations of any professional vacancy other than by expiration. In no case shall the Governor be bound to make any appointment from among the nominees.</p><p>1986, c. 464, § 54-937.1; 1988, c. 765; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0937'>937</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0980'>980</a>.</p>

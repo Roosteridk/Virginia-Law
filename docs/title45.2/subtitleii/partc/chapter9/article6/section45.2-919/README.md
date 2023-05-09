@@ -1,3 +1,0 @@
-# § 45.2-919  Lighting.
-
-<p>A. Lights shall be provided on or in surface structures as needed.</p><p>B. Roads, paths, and walks outside of surface structures shall be kept free from obstructions and shall be well-illuminated if used at night.</p><p>1966, c. 594, § 45.1-38; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.272; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

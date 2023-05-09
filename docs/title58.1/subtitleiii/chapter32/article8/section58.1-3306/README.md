@@ -1,3 +1,0 @@
-# § 58.1-3306 Librarian of Virginia to furnish abstracts of grants.
-
-<p>An abstract shall be made out by the Librarian of Virginia on or before January 15 of each year, or as soon thereafter as practicable, for the commissioner of the revenue of each county or city, of all grants issued for lands therein from his office within the year ending December 31 next preceding. The Librarian of Virginia shall transmit every such abstract to the commissioner of the revenue for the proper county or city.</p><p>Code 1950, § 58-800; 1984, c. 675; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0427'>427</a>.</p>

@@ -1,3 +1,0 @@
-# § 1-204 Age of majority.
-
-<p>For the purposes of all laws of the Commonwealth including common law, case law, and the acts of the General Assembly, unless an exception is specifically provided in this Code, a person shall be an adult, shall be of full age, and shall reach the age of majority when he becomes 18 years of age.</p><p>1972, cc. 824, 825, § 1-13.42; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

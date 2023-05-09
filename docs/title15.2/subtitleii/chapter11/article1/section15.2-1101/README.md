@@ -1,3 +1,0 @@
-# § 15.2-1101 Exercise of powers outside boundaries.
-
-<p>If a municipal corporation seeks to exercise the powers set forth in this article outside its boundaries, such powers shall, except as to existing nonconforming use, be subject to the zoning regulations of the locality in which the power is sought to be exercised, provided that, except as to existing nonconforming uses, such locality also observes the zoning regulations of the municipality as to any of such locality's property located within the corporate limits.</p><p>Code 1950, § 15-77.2; 1958, c. 328; 1962, c. 623, § 15.1-838; 1979, c. 297; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 8.01-85 Disposition of share in proceeds of person under disability.
-
-<p>The court making an order for sale shall, if a party to the sale be a person under a disability, order any dividend of the sale to be disposed as the proceeds of a sale under the provisions of § <a href='/vacode/8.01-76/'>8.01-76</a> are required to be invested.</p><p>Code 1950, § 8-694; 1952, c. 249; 1968, c. 381; 1977, c. 617; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0124'>124</a>.</p>

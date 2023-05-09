@@ -1,3 +1,0 @@
-# § 8.01-627 To what clerk order for injunction directed.
-
-<p>Every order, awarding an injunction made under § <a href='http://law.lis.virginia.gov/vacode/8.01-620/'>8.01-620</a> or § <a href='http://law.lis.virginia.gov/vacode/8.01-626/'>8.01-626</a>, shall be directed to the clerk of the court which has venue under § <a href='http://law.lis.virginia.gov/vacode/8.01-261/'>8.01-261</a> and the proceedings thereupon shall be as if the order has been made by such court.</p><p>Code 1950, § 8-619; 1977, c. 617.</p>

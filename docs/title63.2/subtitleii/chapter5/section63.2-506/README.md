@@ -1,3 +1,0 @@
-# § 63.2-506 Public assistance not transferable or subject to execution.
-
-<p>Except as provided in § <a href='http://law.lis.virginia.gov/vacode/63.2-512/'>63.2-512</a>, no public assistance given under this subtitle shall be transferable or assignable, at law or in equity, and none of the money paid or payable as public assistance under this subtitle shall be subject to execution, levy, attachment, garnishment or other legal process, or to the operation of any bankruptcy or insolvency laws.</p><p>Code 1950, § 63-102; 1968, c. 578, § 63.1-88; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

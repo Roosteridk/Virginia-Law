@@ -1,3 +1,0 @@
-# § 1-200 The common law.
-
-<p>The common law of England, insofar as it is not repugnant to the principles of the Bill of Rights and Constitution of this Commonwealth, shall continue in full force within the same, and be the rule of decision, except as altered by the General Assembly.</p><p>Code 1919, § 2, § 1-10; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

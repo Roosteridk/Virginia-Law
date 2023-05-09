@@ -1,3 +1,0 @@
-# § 33.2-1910 Compensation and expenses of members.
-
-<p>The commission members shall receive no salary but shall be entitled to reimbursement of all reasonable and necessary expenses and compensation allowed members of the Commonwealth Transportation Board for the performance of their official duties as provided in §§ <a href='http://law.lis.virginia.gov/vacode/2.2-2813/'>2.2-2813</a> and <a href='http://law.lis.virginia.gov/vacode/2.2-2825/'>2.2-2825</a>.</p><p>1964, c. 631, § 15.1-1351; 1997, c. 587, § 15.1-4510; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1000'>1000</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

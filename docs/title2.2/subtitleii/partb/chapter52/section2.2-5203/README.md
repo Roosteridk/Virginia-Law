@@ -1,3 +1,0 @@
-# § 2.2-5203 Duties of agencies represented on state and local advisory team.
-
-<p>The state agencies represented on the state and local advisory team shall provide administrative support for the team in the development and implementation of the collaborative system of services and funding authorized by this chapter. This support shall also include, but not be limited to, the provision of timely fiscal information, data for client- and service-tracking, and assistance in training local agency personnel on the system of services and funding established by this chapter.</p><p>1992, cc. 837, 880, § 2.1-749; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

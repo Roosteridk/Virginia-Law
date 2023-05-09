@@ -1,3 +1,0 @@
-# § 30-242 Terms.
-
-<p>Legislators serving as members of the Commission shall serve terms coterminous with their current terms of office. The nonlegislative members shall serve at the pleasure of their respective appointing authorities for a term of not more than four years. Nonlegislative members may be reappointed at the end of the four-year term.</p><p>1980, c. 662, § 62.1-69.7; 1985, c. 149; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1000'>1000</a>.</p>

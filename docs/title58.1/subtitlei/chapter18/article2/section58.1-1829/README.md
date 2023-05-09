@@ -1,3 +1,0 @@
-# § 58.1-1829 Costs in proceedings under §§ 58.1-1825 through 58.1-1828.
-
-<p>If the final order of the court in any proceeding under §§ <a href='http://law.lis.virginia.gov/vacode/58.1-1825/'>58.1-1825</a> through <a href='http://law.lis.virginia.gov/vacode/58.1-1828/'>58.1-1828</a> grants the relief prayed for, no costs shall be taxed against the applicant; but in no event shall any costs be taxed against the Commonwealth in any proceeding under such sections.</p><p>Code 1950, §§ 58-1139, 58-1157; 1984, c. 675.</p>

@@ -1,1 +1,0 @@
-# 3.1 Short-Term Rental Property

@@ -1,3 +1,0 @@
-# § 18.2-46.8 Venue.
-
-<p>Venue for any violation of this article may be had in the county or city where such crime is alleged to have occurred or where any act in furtherance of an act prohibited by this article was committed.</p><p>2002, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0588'>588</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0623'>623</a>.</p>

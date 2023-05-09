@@ -1,3 +1,0 @@
-# § 38.2-3430.10 Effective date.
-
-<p>The provisions of this article shall be effective on July 1, 1997, with the exception of § <a href='http://law.lis.virginia.gov/vacode/38.2-3430.3/'>38.2-3430.3</a> which shall be effective on January 1, 1998.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0807'>807</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0913'>913</a>.</p>

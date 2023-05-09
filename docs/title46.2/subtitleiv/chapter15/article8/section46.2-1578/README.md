@@ -1,3 +1,0 @@
-# § 46.2-1578 Appeals to Court of Appeals; bond.
-
-<p>Either party may appeal from the decision of the court under § <a href='http://law.lis.virginia.gov/vacode/46.2-1577/'>46.2-1577</a> to the Court of Appeals. These appeals shall be taken and prosecuted in the same manner and with like effect as is provided by law in other cases appealed as a matter of right to the Court of Appeals.</p><p>1988, c. 865, § 46.1-550.5:37; 1989, c. 727; 1990, c. 197; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0573'>573</a>.</p>

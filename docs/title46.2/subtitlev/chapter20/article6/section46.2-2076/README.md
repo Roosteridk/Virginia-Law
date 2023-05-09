@@ -1,3 +1,0 @@
-# § 46.2-2076 Application; notice requirements.
-
-<p>In addition to the requirements of § <a href='http://law.lis.virginia.gov/vacode/46.2-2001.3/'>46.2-2001.3</a>, an applicant for a common carrier certificate of public convenience and necessity issued under this article shall cause a notice of such application, on the form and in the manner prescribed by the Department, on the mayor or principal officer of any city or town and on the chairman of the board of supervisors of every county into or through which the applicant may desire to provide service.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

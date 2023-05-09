@@ -1,3 +1,0 @@
-# § 8.3A-301 Person entitled to enforce instrument.
-
-<p>"Person entitled to enforce" an instrument means (i) the holder of the instrument, (ii) a nonholder in possession of the instrument who has the rights of a holder, or (iii) a person not in possession of the instrument who is entitled to enforce the instrument pursuant to § <a href='http://law.lis.virginia.gov/vacode/8.3A-309/'>8.3A-309</a> or § <a href='http://law.lis.virginia.gov/vacode/8.3A-418/'>8.3A-418</a> (d). A person may be a person entitled to enforce the instrument even though the person is not the owner of the instrument or is in wrongful possession of the instrument.</p><p>Code 1950, § 6-403; 1964, c. 219, § 8.3-301; 1992, c. 693.</p>

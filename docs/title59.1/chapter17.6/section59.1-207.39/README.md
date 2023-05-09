@@ -1,3 +1,0 @@
-# § 59.1-207.39 Regulations.
-
-<p>The Division is authorized to promulgate reasonable regulations in order to implement the provisions of this chapter. These regulations shall be adopted, amended, or repealed in accordance with the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>1991, c. 300; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

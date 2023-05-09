@@ -1,3 +1,0 @@
-# § 2.2-1168 Division of Support Services may be established.
-
-<p>The Director of the Department may establish a Division of Support Services (the "Division") and assign to this Division or to any other division any or all of the duties described in this article or otherwise imposed upon the Department.</p><p>1977, c. 672, § 2.1-527; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,3 +1,0 @@
-# § 54.1-2705 Investigation of applicant for license.
-
-<p>The Board shall investigate the qualifications and truthfulness on registration of any applicant for a license to practice dentistry or dental hygiene, and for such purposes shall have power to send for witnesses, papers and documents, and administer oaths. The cost of such inquiry shall be borne by the applicant.</p><p>Code 1950, § 54-176; 1972, c. 805; 1975, c. 479; 1988, c. 765.</p>

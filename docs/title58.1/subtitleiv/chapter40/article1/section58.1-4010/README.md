@@ -1,3 +1,0 @@
-# § 58.1-4010 Authority of persons licensed as lottery sales agents; annual fee.
-
-<p>A. Notwithstanding any other provision of law, any person licensed as provided in this chapter is hereby authorized to act as a lottery sales agent.</p><p>B. The rules and regulations of the lottery shall provide for an initial licensing fee and an annual license review fee to be collected from each lottery sales agent. Such fee, as promulgated by rule and regulation of the Board, shall be designed to recover all or such portion of the installation and annual operational costs borne by the Department in providing services to the agent.</p><p>1987, c. 531; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0630'>630</a>.</p>

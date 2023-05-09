@@ -1,3 +1,0 @@
-# § 9.1-302 Breach of procedures.
-
-<p>Evidence gathered through the conduct of an interrogation that violates the provisions of this chapter shall not be admissible in any administrative hearing against a firefighter or emergency medical services personnel.</p><p>1987, c. 509, § 2.1-116.9:5; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>; 2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0831'>831</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0841'>841</a>.</p>

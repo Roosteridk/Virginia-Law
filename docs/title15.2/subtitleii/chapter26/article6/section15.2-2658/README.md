@@ -1,3 +1,0 @@
-# § 15.2-2658 Bonds invalidated only for substantial defects, etc.; matters of form disregarded.
-
-<p>No court in which a proceeding to invalidate or sustain bonds is brought shall invalidate the bonds unless it finds substantial defects, material errors, and omissions in the bond issue. Matters of form shall be disregarded.</p><p>Code 1950, § 15-666.62; 1958, c. 640; 1962, c. 623, § 15.1-221; 1991, c. 668, § 15.1-227.60; 1997, c. 587.</p>

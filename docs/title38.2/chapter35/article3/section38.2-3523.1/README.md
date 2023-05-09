@@ -1,3 +1,0 @@
-# § 38.2-3523.1 Review of records.
-
-<p>The Commission may review the records of any insurer to determine that the insurer's policies have been issued in compliance with the requirements set forth in this article. Insurers issuing coverage not complying with the provisions of § <a href='http://law.lis.virginia.gov/vacode/38.2-3521.1/'>38.2-3521.1</a> and not complying with the provisions of § <a href='http://law.lis.virginia.gov/vacode/38.2-3522.1/'>38.2-3522.1</a> shall be deemed to have committed a knowing and willful violation of this article, and shall be punished as set forth in subsection A of § <a href='http://law.lis.virginia.gov/vacode/38.2-218/'>38.2-218</a>.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0154'>154</a>.</p>

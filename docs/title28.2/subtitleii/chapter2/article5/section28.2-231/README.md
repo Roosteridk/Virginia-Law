@@ -1,3 +1,0 @@
-# § 28.2-231 Exhibition of license; display to officers; penalty.
-
-<p>Any person engaged in fishing shall have the required license available for inspection and shall present such license when requested by an officer. Failure to present the license upon request of any officer is a Class 1 misdemeanor and prima facie evidence that the person is fishing without a license.</p><p>Code 1950, §§ 28-137, 28-157; 1960, c. 517; 1962, c. 406, §§ 28.1-120, 28.1-133; 1964, c. 393; 1966, c. 684; 1970, c. 726; 1979, c. 274; 1991, c. 285; 1992, c. 836.</p>

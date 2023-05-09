@@ -1,3 +1,0 @@
-# § 8.4-107 Time of receipt of items.
-
-<p>(a) For the purpose of allowing time to process items, prove balances and make the necessary entries on its books to determine its position for the day, a bank may fix an afternoon hour of 2 p.m. or later as a cutoff hour for the handling of money and items and the making of entries on its books.</p><p>(b) An item or deposit of money received on any day after a cutoff hour so fixed or after the close of the banking day may be treated as being received at the opening of the next banking day.</p><p>1964, c. 219; 1992, c. 693.</p>

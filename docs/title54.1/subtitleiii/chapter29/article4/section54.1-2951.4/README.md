@@ -1,3 +1,0 @@
-# § 54.1-2951.4 Exception to physician assistant license requirement; physician assistant student.
-
-<p>The provisions of § <a href='/vacode/54.1-2902/'>54.1-2902</a> shall not be construed as prohibiting a physician assistant student who is enrolled in a physician assistant education program accredited by the Accreditation Review Commission on Education for the Physician Assistant or its successor agency from engaging in acts that constitute practice as a physician assistant.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0210'>210</a>.</p>

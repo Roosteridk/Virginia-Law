@@ -1,3 +1,0 @@
-# § 15.2-2128 Denial of application for sewage system by governing body of county or town which has adopted master plan for sewerage.
-
-<p>Notwithstanding any other provision of general law relating to the approval of sewage systems, the governing body of any county or town which has adopted a master plan for a sewage system is authorized to deny an application for a sewage system if such denial appears to it to be in the best interest of the inhabitants of the county or town.</p><p>1968, c. 300, § 15.1-327.1; 1997, c. 587.</p>

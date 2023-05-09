@@ -1,3 +1,0 @@
-# § 18.2-251.3 Possession and distribution of gamma-butyrolactone; 1, 4-butanediol; enhanced penalty.
-
-<p>Any person who knowingly manufactures, sells, gives, distributes or possesses with the intent to distribute the substances gamma-butyrolactone; or 1, 4-butanediol, when intended for human consumption shall be guilty of a Class 3 felony.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0348'>348</a>.</p>

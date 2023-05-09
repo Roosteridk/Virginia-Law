@@ -1,3 +1,0 @@
-# § 46.2-749.78 Special license plates; United We Stand.
-
-<p>On receipt of an application and payment of the fee prescribed by this section, the Commissioner shall issue special license plates whose design incorporates the flag of the United States of America and the legend: United We Stand.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0893'>893</a>; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0852'>852</a>.</p>

@@ -1,3 +1,0 @@
-# § 63.2-323 Emergency payments.
-
-<p>In emergency situations or in the event of delay or error in a state issuance of payments for public assistance and social services to eligible recipients, or expenditures for administration and services, emergency payments shall be issued by local boards as authorized by Board regulations. In emergency situations that result from lost or stolen checks, the Department shall assume liability for losses incurred by local boards due to fraudulent acts by recipients; however, the local board shall make diligent efforts to recoup any such lost funds in accordance with Board regulations.</p><p>1975, c. 336, § 63.1-58.1; 1978, c. 296; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

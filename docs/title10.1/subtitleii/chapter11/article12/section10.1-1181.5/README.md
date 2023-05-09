@@ -1,3 +1,0 @@
-# § 10.1-1181.5 Judicial review.
-
-<p>Any person aggrieved by a final order or decision under this article shall be entitled to judicial review thereof in accordance with the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.). The commencement of a proceeding for judicial review under this section shall not, unless specifically ordered by the court, operate as a stay of the order or decision of the State Forester.</p><p>1993, c. 948.</p>

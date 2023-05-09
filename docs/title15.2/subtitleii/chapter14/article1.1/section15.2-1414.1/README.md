@@ -1,3 +1,0 @@
-# § 15.2-1414.1 Each member to be paid annual salary.
-
-<p>Each member of the board of supervisors of each county shall be allowed and paid out of the county levy an annual salary, to be fixed as herein provided, for his services in attending the meetings of the board and in discharging the duties imposed by law upon him.</p><p>Code 1950, § 14-55; 1964, c. 386, § 14.1-45; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

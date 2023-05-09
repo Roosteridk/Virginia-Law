@@ -1,3 +1,0 @@
-# § 8.01-500 Officer receiving money to notify person entitled to receive it.
-
-<p>Every officer collecting or receiving money to be applied on any execution or other legal process, or on any claim, whether judgment has been rendered thereon or not, shall notify in writing by mail or otherwise, within thirty days after such money is received, the person entitled to receive such money, if known. Any officer failing without good cause to comply with this section within the time prescribed shall be fined not less than twenty dollars nor more than fifty dollars for each offense.</p><p>Code 1950, § 8-430; 1977, c. 617.</p>

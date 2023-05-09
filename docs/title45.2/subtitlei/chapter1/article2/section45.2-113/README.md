@@ -1,3 +1,0 @@
-# § 45.2-113  Immunity from prosecution for trespass.
-
-<p>No criminal action for trespass shall lie against the State Geologist or any agent or employee of the State Geologist pursuant to any lawful act done in the performance of his duties, including entry upon the lands of any person for the purpose of performing such duties.</p><p>1984, c. 590, § 45.1-389; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

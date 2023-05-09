@@ -1,3 +1,0 @@
-# § 24.2-409.1 Department of Elections to transmit information pertaining to persons convicted of a felony in federal court.
-
-<p>Upon receipt of a notice of a felony conviction sent by a United States attorney pursuant to the National Voter Registration Act (52 U.S.C. § 20501 et seq.), the Department shall notify the appropriate general registrar of the conviction.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0072'>72</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0073'>73</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0740'>740</a>.</p>

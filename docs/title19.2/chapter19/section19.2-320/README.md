@@ -1,3 +1,0 @@
-# § 19.2-320 Petitioner for writ of error to comply with Rules of Court.
-
-<p>Any party for whom a writ of error lies may apply therefor by complying with the provisions of the Rules of the Supreme Court of Virginia relative to the appeal of criminal cases to the Court of Appeals, or where an appeal is taken to the Supreme Court, with the Rules of the Supreme Court relative to appeal of criminal cases to the Supreme Court.</p><p>Code 1950, § 19.1-284; 1960, c. 366; 1975, c. 495; 1984, c. 703.</p>

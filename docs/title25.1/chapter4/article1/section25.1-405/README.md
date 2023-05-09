@@ -1,3 +1,0 @@
-# § 25.1-405 Funds for implementing provisions of chapter.
-
-<p>Funds appropriated or otherwise available to any state agency for the acquisition of real property or any interest therein for a particular program or project shall be available also to fund any payment required to implement the provisions of this chapter as applied to that program or project.</p><p>1972, c. 738, § 25-244; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

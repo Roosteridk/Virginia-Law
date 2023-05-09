@@ -1,3 +1,0 @@
-# § 58.1-3618 College alumni associations and foundations.
-
-<p>Incorporated alumni associations operated exclusively on a nonprofit basis for the benefit of colleges or other institutions of learning located in Virginia, and incorporated charitable foundations conducted not for profit, the total income from which is used exclusively for literary, scientific or educational purposes, are hereby classified as charitable and cultural organizations.</p><p>Code 1950, § 58-12.25; 1974, c. 469; 1984, c. 675.</p>

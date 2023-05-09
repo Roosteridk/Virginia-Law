@@ -1,3 +1,0 @@
-# § 56-249.4 How reports shall be filed; reports open to public; rules and regulations.
-
-<p>A. The information filed pursuant to § <a href='http://law.lis.virginia.gov/vacode/56-249.3/'>56-249.3</a> shall be filed with the Commission in affidavit form within forty-five days following the close of the reference month.</p><p>B. All such information and reports filed pursuant to this section and § <a href='http://law.lis.virginia.gov/vacode/56-249.3/'>56-249.3</a> shall be open to the public and available for inspection.</p><p>C. The Commission shall promulgate all rules and regulations necessary to implement this section and § <a href='http://law.lis.virginia.gov/vacode/56-249.3/'>56-249.3</a>.</p><p>1977, c. 125; 1982, c. 107.</p>

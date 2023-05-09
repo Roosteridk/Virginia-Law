@@ -1,3 +1,0 @@
-# § 46.2-1532.1 Certain disclosures required by manufacturers and distributors.
-
-<p>Motor vehicle manufacturers and distributors shall affix or cause to be affixed in a conspicuous place to every motor vehicle offered for sale as a new vehicle a statement disclosing the place of assembly or manufacture of the vehicle. For disclosures of place of assembly, the assembly plant shall be the same as that designated by the vehicle identification number.</p><p>The provisions of this section shall apply only to motor vehicles manufactured for the 1991 or subsequent model years.</p><p>1990, c. 786; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0072'>72</a>.</p>

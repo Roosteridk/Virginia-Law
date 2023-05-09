@@ -1,3 +1,0 @@
-# § 32.1-137.02 Hospital discharge procedures.
-
-<p>Before a hospital discharges a patient, it shall, to the extent allowed pursuant to state and federal law, inform and educate the patient, and his family when it is involved in decision making or ongoing care, about his follow-up care, treatment, and services.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0180'>180</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0813'>813</a>.</p>

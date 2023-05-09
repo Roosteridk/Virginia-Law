@@ -1,3 +1,0 @@
-# § 3.2-1216 Records to be kept by producer.
-
-<p>Every producer shall maintain a complete record of the apples grown by him and shall preserve the records for at least three years from the time such apples are grown. The records shall be established and maintained as required by the Tax Commissioner and shall be open to the inspection of the Tax Commissioner.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0864'>864</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0875'>875</a>, § 3.1-636.11; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

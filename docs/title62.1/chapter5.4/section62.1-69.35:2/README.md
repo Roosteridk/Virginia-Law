@@ -1,3 +1,0 @@
-# § 62.1-69.35:2 Chairman's executive summary of activity and work of the advisory committee.
-
-<p>The chairman of the advisory committee shall submit to the Governor and the General Assembly an annual executive summary of the interim activity and work of the advisory committee no later than the first day of each regular session of the General Assembly. The executive summary shall be submitted as provided in the procedures of the Division of Legislative Automated Systems for the processing of legislative documents and reports and shall be posted on the General Assembly's website.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0885'>885</a>.</p>

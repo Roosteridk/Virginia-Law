@@ -1,3 +1,0 @@
-# § 38.2-221 Enforcement of penalties.
-
-<p>The Commission may impose, enter judgment for, and enforce any civil penalty or other penalty pronounced against any person for violating any of the provisions of this title, subject to the hearing provisions of § <a href='http://law.lis.virginia.gov/vacode/12.1-28/'>12.1-28</a>. The power and authority conferred upon the Commission by this section shall be in addition to and not in substitution for the power and authority conferred upon the courts by general law to impose civil penalties for violations of the laws of this Commonwealth.</p><p>Code 1950, § 38-26; 1952, c. 317, § 38.1-41; 1986, c. 562.</p>

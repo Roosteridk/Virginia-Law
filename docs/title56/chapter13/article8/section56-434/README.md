@@ -1,3 +1,0 @@
-# § 56-434 When cattle guards may be discontinued.
-
-<p>Every railroad company, after erecting the fences mentioned in § <a href='http://law.lis.virginia.gov/vacode/56-429/'>56-429</a>, may discontinue all cattle guards enclosed by such fences, except such as are provided for at public or private crossings, and in lieu thereof the owners of contiguous lands may connect their fences with those of the company at such place or places as they may desire.</p><p>Code 1919, § 3951.</p>

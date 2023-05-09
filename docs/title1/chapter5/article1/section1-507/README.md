@@ -1,3 +1,0 @@
-# § 1-507 Governor to prescribe size of flag.
-
-<p>The Governor shall regulate the size and dimensions of the flag proper for forts, arsenals and public buildings, for ships-of-war and merchant marine, for troops in the field, respectively, and for any other purpose, according to his discretion by proclamation.</p><p>Code 1950, § 7-33; 1966, c. 102, § 7.1-33; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

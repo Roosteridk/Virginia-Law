@@ -1,3 +1,0 @@
-# § 58.1-4001 Establishment of state lottery.
-
-<p>This chapter establishes a lottery to be operated by the Commonwealth which will produce revenue consonant with the probity of the Commonwealth and the general welfare of its people, to be used for the public purpose.</p><p>1987, c. 531.</p>

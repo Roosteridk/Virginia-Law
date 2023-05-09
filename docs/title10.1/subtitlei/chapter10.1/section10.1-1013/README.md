@@ -1,3 +1,0 @@
-# § 10.1-1013 Standing.
-
-<p>An action affecting a conservation easement may be brought by:</p><p>1. An owner of an interest in real property burdened by the easement;</p><p>2. A holder of the easement;</p><p>3. A person having an express third-party right of enforcement;</p><p>4. The Attorney General of the Commonwealth;</p><p>5. The Virginia Outdoors Foundation;</p><p>6. The Virginia Historic Landmarks Board;</p><p>7. The local government in which the real property is located; or</p><p>8. Any other governmental agency or person with standing under other statutes or common law.</p><p>1988, cc. 720, 891.</p>

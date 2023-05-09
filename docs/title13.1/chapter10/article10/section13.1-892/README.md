@@ -1,3 +1,0 @@
-# § 13.1-892 Amendment of bylaws by board of directors or members.
-
-<p>A corporation's board of directors may amend or repeal the corporation's bylaws except to the extent that:</p><p>1. The articles of incorporation or § <a href='http://law.lis.virginia.gov/vacode/13.1-893/'>13.1-893</a> reserves that power exclusively to the members; or</p><p>2. The members in repealing, adopting, or amending a bylaw expressly provide that the board of directors may not amend, repeal, or reinstate that bylaw.</p><p>1985, c. 522; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0925'>925</a>.</p>

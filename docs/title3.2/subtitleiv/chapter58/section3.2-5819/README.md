@@ -1,3 +1,0 @@
-# § 3.2-5819 Falsification or presealing of weight certificate by licensed weighmaster; delegation of authority to unlicensed person.
-
-<p>Any licensed public weighmaster who falsifies a weight certificate, or who delegates his authority to any person not licensed as a licensed public weighmaster, or who preseals a weight certificate with his official seal before performing the act of weighing, is guilty of a Class 2 misdemeanor.</p><p>Code 1950, § 3-709.20; 1962, c. 126; 1966, c. 702, § 3.1-989; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

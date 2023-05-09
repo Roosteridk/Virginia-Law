@@ -1,3 +1,0 @@
-# § 43-18 Lien of general contractor to inure to benefit of subcontractor.
-
-<p>The perfected lien of a general contractor on any building or structure shall inure to the benefit of any subcontractor, and of any person performing labor or furnishing materials to a subcontractor who has not perfected a lien on such building or structure, provided such subcontractor, or person performing labor or furnishing materials shall give written notice of his claim against the general contractor, or subcontractor, as the case may be, to the owner or his agent before the amount of such lien is actually paid off or discharged.</p><p>Code 1919, § 6434.</p>

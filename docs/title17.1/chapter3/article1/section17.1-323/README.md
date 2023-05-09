@@ -1,3 +1,0 @@
-# § 17.1-323 Clerk to deliver opinions to Reporter.
-
-<p>In those cases which the Reporter is directed to report, copies of the reasons stated in writing, under Section 6 of Article VI of the Constitution of Virginia, shall be delivered by the clerk of the Court to the Reporter.</p><p>Code 1919, § 5883, § 17-116; 1938, p. 134; 1971, Ex. Sess., c. 1; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

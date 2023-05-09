@@ -1,3 +1,0 @@
-# § 3.2-5624 Certain packages to show price per single unit of weight, measure, or count.
-
-<p>In addition to the declarations required by § <a href='http://law.lis.virginia.gov/vacode/3.2-5623/'>3.2-5623</a> of this chapter, any commodity in package form, the package being one of a lot containing random weights, measures, or counts of the same commodity and bearing the total selling price of the package, shall bear on the outside of the package a plain and conspicuous declaration of the price per single unit of weight, measure, or count.</p><p>Code 1950, § 3-708.27; 1962, c. 298; 1966, c. 702, § 3.1-945; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

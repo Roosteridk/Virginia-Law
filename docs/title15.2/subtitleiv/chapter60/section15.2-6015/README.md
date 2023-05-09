@@ -1,3 +1,0 @@
-# § 15.2-6015 City of Norton deemed contributing jurisdiction of Wise County.
-
-<p>For the purpose of this chapter the City of Norton shall be deemed a contributing jurisdiction of Wise County and moneys collected from Wise County may be used in the City of Norton.</p><p>1988, c. 833, § 15.1-1650; 1997, c. 587.</p>

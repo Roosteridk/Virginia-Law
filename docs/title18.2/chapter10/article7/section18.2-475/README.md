@@ -1,3 +1,0 @@
-# § 18.2-475 Officers, etc., voluntarily allowing person convicted, charged, or adjudicated delinquent of felony to escape; penalty.
-
-<p>If any sheriff, jailer, or other officer, or any guard or other person summoned or employed by any such sheriff, jailer, or other officer, voluntarily allows a prisoner or person committed to the Department of Juvenile Justice convicted of, charged with, or adjudicated delinquent of a felony to escape from his custody, he is guilty of a Class 4 felony.</p><p>Code 1950, § 18.1-286; 1960, c. 358; 1975, cc. 14, 15; 1983, c. 360; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0707'>707</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0782'>782</a>.</p>

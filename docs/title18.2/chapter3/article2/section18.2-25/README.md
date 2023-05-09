@@ -1,3 +1,0 @@
-# § 18.2-25 Attempts to commit Class 1 felony offenses; how punished.
-
-<p>If any person attempts to commit an offense that is punishable as a Class 1 felony, he is guilty of a Class 2 felony.</p><p>Code 1950, § 18.1-16; 1960, c. 358; 1975, cc. 14, 15; 1985, c. 280; 2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0344'>344</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0345'>345</a>.</p>

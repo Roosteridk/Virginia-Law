@@ -1,3 +1,0 @@
-# § 53.1-74 When court may adopt jail of another county or city.
-
-<p>When a county or city is without an adequate jail, or its jail is to be removed, rebuilt or repaired, the circuit court thereof shall adopt as its jail the jail of another county or city until it can obtain an adequate jail. All persons committed or ordered committed to the jail of the first mentioned county or city, at or after such adoption and before an adequate jail be so obtained, shall be conveyed to the jail so adopted.</p><p>Code 1950, § 53-139; 1982, c. 636.</p>

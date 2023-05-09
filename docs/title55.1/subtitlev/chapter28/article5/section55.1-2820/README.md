@@ -1,3 +1,0 @@
-# § 55.1-2820 When unlawful for animals to run at large.
-
-<p>It is unlawful for the owner or manager of any domesticated livestock to permit any such animal, as to which the boundaries of lots or tracts of land have been or may be constituted a lawful fence, to run at large beyond the limits of his own lands within the county, magisterial district, or portion of such county in which such boundaries have been constituted and are a lawful fence.</p><p>Code 1950, § 8-886; 1977, c. 624, § 55-316; 1979, c. 486; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

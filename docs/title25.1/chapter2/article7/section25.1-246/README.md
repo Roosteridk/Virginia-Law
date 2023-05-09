@@ -1,3 +1,0 @@
-# § 25.1-246 When sheriff to remove forcible resistance to entry.
-
-<p>In any case in which the petitioner may be entitled under the laws of this Commonwealth to enter upon property for purposes of making examinations or surveys as are authorized by law, to enter upon property in accordance with the provisions of this chapter, or to condemn any property, the sheriff, whenever required, shall attend and remove, if necessary, any forcible resistance to any such entry or taking.</p><p>Code 1919, § 4386; Code 1950, § 25-44; 1962, c. 426, § 25-46.33; 1971, Ex. Sess., c. 155; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

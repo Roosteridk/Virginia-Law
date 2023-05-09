@@ -1,3 +1,0 @@
-# § 58.1-406 Allocation and apportionment of income.
-
-<p>Any corporation having income from business activity which is taxable both within and without the Commonwealth shall allocate and apportion its Virginia taxable income as provided in §§ <a href='http://law.lis.virginia.gov/vacode/58.1-407/'>58.1-407</a> through <a href='http://law.lis.virginia.gov/vacode/58.1-420/'>58.1-420</a>.</p><p>Code 1950, § 58-151.035; 1971, Ex. Sess., c. 171; 1976, c. 436; 1979, c. 371; 1984, c. 675.</p>

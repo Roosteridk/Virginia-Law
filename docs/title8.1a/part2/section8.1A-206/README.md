@@ -1,3 +1,0 @@
-# § 8.1A-206 Presumptions.
-
-<p>Whenever the Uniform Commercial Code creates a "presumption" with respect to a fact, or provides that a fact is "presumed," the trier of fact must find the existence of the fact unless and until evidence is introduced that supports a finding of its nonexistence.</p><p>1964, c. 219, § 8.1-201 (31); 1973, c. 509; 1984, c. 613; 1991, c. 536; 1992, c. 693; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1007'>1007</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0353'>353</a>.</p>

@@ -1,3 +1,0 @@
-# § 54.1-2329 Identification of specific funds.
-
-<p>Specific funds deposited in the trust account shall be identified in the records of the seller by the contract number and by the name of the buyer. The trustee may commingle the deposits in any preneed trust account for the purposes of the management thereof and the investment of funds therein.</p><p>1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0708'>708</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0721'>721</a>.</p>

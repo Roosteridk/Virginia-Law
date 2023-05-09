@@ -1,3 +1,0 @@
-# § 2.2-4007.07 State Air Pollution Control Board; variances.
-
-<p>The provisions of §§ <a href='http://law.lis.virginia.gov/vacode/2.2-4007/'>2.2-4007</a> through <a href='http://law.lis.virginia.gov/vacode/2.2-4007.06/'>2.2-4007.06</a> shall not apply to the issuance by the State Air Pollution Control Board of variances to its regulations.</p><p>2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0873'>873</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0916'>916</a>.</p>

@@ -1,3 +1,0 @@
-# § 2.2-2217 Conveyance, lease or transfer of property by a city or county to the Authority.
-
-<p>Any city or county within the Commonwealth in order to provide for the construction, reconstruction, improvement, repair or management of any project, or in order to accomplish any of the purposes of this article may, with or without consideration or for a nominal consideration, lease, sell, convey or otherwise transfer to the Authority any real, personal or mixed property located within such city or county.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0758'>758</a>, § 9-266.14; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

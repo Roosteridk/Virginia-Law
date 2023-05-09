@@ -1,3 +1,0 @@
-# § 54.1-2136 Preconditions to brokerage relationship.
-
-<p>Prior to entering into any brokerage relationship provided for in this article, a licensee shall advise the prospective client of (i) the type of brokerage relationship proposed by the broker and (ii) the broker's compensation and whether the broker will share such salary or compensation with another broker who may have a brokerage relationship with another party to the transaction.</p><p>1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0741'>741</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0813'>813</a>.</p>

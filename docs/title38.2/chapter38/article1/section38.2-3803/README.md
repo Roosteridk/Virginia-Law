@@ -1,3 +1,0 @@
-# § 38.2-3803 Licensing of additional companies prohibited.
-
-<p>Any company that was not licensed and doing business in this Commonwealth on July 1, 1952, shall not be issued a license to do the business of insurance in this Commonwealth. On or after July 1, 1952, only a renewal of a license held by the company for the preceding year will be issued.</p><p>1952, c. 317, § 38.1-499; 1986, c. 562.</p>

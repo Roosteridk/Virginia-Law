@@ -1,3 +1,0 @@
-# § 15.2-2634 Limitation on amount of outstanding bonds.
-
-<p>Subject to §§ <a href='http://law.lis.virginia.gov/vacode/15.2-2601/'>15.2-2601</a> and <a href='http://law.lis.virginia.gov/vacode/15.2-2635/'>15.2-2635</a>, no municipality may issue any bonds or other interest-bearing indebtedness which, including existing indebtedness, at any time exceeds ten percent of the assessed valuation of the real estate in the municipality subject to taxation, as shown by the last preceding assessment for taxes.</p><p>Code 1950, § 15-666.19; 1958, c. 640; 1962, c. 623, § 15.1-176; 1971, Ex. Sess., c. 224; 1985, c. 56; 1991, c. 668, § 15.1-227.35; 1997, c. 587.</p>

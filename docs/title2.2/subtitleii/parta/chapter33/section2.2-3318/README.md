@@ -1,3 +1,0 @@
-# § 2.2-3318 Virginia and American History Month.
-
-<p>January nineteenth through February twenty-second, both inclusive of each year, shall be designated as Virginia and American History Month in special tribute to the founders, builders, and preservers of the Commonwealth and Nation.</p><p>1960, c. 354, § 2-22.4; 1966, c. 677, § 2.1-28; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

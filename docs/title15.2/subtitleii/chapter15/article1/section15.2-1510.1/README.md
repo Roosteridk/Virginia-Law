@@ -1,3 +1,0 @@
-# § 15.2-1510.1 Public announcement of severance packages for certain officials.
-
-<p>Severance benefits provided to any departing official appointed by a local governing body or school board shall be publicly announced by the local governing body or school board, respectively, prior to such departure.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0254'>254</a>; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0257'>257</a>.</p>

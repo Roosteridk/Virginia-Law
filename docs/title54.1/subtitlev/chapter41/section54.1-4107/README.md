@@ -1,3 +1,0 @@
-# § 54.1-4107 Private action on bond or letter of credit.
-
-<p>Any person aggrieved by the misconduct of any dealer which violated the provisions of this chapter may maintain an action for recovery in any court of proper jurisdiction against the dealer and his surety. Recovery against the surety shall be only for that amount of the judgment which is unsatisfied by the dealer.</p><p>1981, c. 581, § 54-859.22; 1988, c. 765.</p>

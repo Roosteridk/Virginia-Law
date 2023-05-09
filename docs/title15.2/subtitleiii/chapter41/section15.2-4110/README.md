@@ -1,3 +1,0 @@
-# § 15.2-4110 Proceedings final for five years.
-
-<p>In the event the special court determines the city to be ineligible for town status or in the event that town status is declined under the provisions of § <a href='http://law.lis.virginia.gov/vacode/15.2-4109/'>15.2-4109</a>, no subsequent proceedings shall be brought under the provisions of this chapter within five years of the date of the final order.</p><p>1988, c. 881, § 15.1-965.20; 1997, c. 587.</p>

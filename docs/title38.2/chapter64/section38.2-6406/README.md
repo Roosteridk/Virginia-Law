@@ -1,3 +1,0 @@
-# § 38.2-6406 GAP waivers not insurance.
-
-<p>GAP waivers governed under this chapter are not insurance and are exempt from the insurance laws of the Commonwealth. Persons marketing, soliciting, negotiating, selling, or offering to sell GAP waivers that comply with this chapter are exempt from the Commonwealth's licensing requirements.</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0799'>799</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0800'>800</a>.</p>

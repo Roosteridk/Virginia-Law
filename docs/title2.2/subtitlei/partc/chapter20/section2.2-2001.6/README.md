@@ -1,3 +1,0 @@
-# § 2.2-2001.6 Eligibility for veteran status under state and local laws; change in treatment of certain discharges.
-
-<p>Any person who was separated from active military, naval, or air service with an other than honorable discharge due solely to such person's sexual orientation or gender identity or expression may petition the Department to have his discharge recorded with the Department as honorable. Persons whose discharge status is changed pursuant to such petition shall be afforded the same rights, privileges, and benefits authorized by state law and local ordinances as any other veteran who was honorably discharged.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1172'>1172</a>, § 2.2-2001.5.</p>

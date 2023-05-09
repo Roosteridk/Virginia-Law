@@ -1,3 +1,0 @@
-# § 6.2-1182 Adjustable real estate loans.
-
-<p>A state savings institution may adjust the interest rate, payment, balance, or term to maturity on any real estate loan as authorized by the loan contract, and may receive a portion of the consideration for making a real estate loan in the form of a percentage of the amount by which the current market value of the property, during the loan term or at maturity, exceeds the original appraised value.</p><p>1985, c. 425, § 6.1-194.65; 1991, c. 230, § 6.1-194.151; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

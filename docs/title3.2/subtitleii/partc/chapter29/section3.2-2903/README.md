@@ -1,3 +1,0 @@
-# § 3.2-2903 Agricultural Council officers and compensation.
-
-<p>A. The Agricultural Council shall elect from its membership a chairman, vice-chairman, and such other officers as it deems appropriate.</p><p>B. Members of the Agricultural Council shall be paid their necessary traveling expenses incurred in connection with the performance of their duties. Such compensation and expenses shall be paid from the Virginia Agricultural Foundation Fund.</p><p>Code 1950, § 3-16.8; 1966, c. 536, § 3.1-22.4; 1979, c. 69; 1984, c. 734; 1985, cc. 146, 448; 1992, c. 121; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0650'>650</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

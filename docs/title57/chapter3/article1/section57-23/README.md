@@ -1,3 +1,0 @@
-# § 57-23 Appointment, change or removal of trustees.
-
-<p>On the application of the governing body of a city or town, the attorney for the Commonwealth of a county, ten citizens of a magisterial district, or the proper authorities of any such association or society, for whose use such cemetery is held, the circuit court of the county in which the cemetery is situated may, from time to time, appoint, change, and remove the trustees, as provided in § <a href='http://law.lis.virginia.gov/vacode/57-8/'>57-8</a>, whenever it may seem to the court proper to effect or promote the purposes of the trust.</p><p>Code 1919, § 51.</p>

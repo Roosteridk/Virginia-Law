@@ -1,3 +1,0 @@
-# § 16.1-278.6 Status offenders.
-
-<p>If a child is alleged to be a status offender, including but not limited to those cases in which the juvenile is alleged to have committed a curfew violation or a violation of the law regarding tobacco, the juvenile court or the circuit court may enter any order of disposition authorized by § <a href='http://law.lis.virginia.gov/vacode/16.1-278.4/'>16.1-278.4</a>.</p><p>1991, c. 534; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0463'>463</a>.</p>

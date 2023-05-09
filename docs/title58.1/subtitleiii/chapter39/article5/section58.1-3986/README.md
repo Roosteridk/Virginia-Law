@@ -1,3 +1,0 @@
-# § 58.1-3986 Correction of double assessments; time for filing.
-
-<p>When it is shown to the satisfaction of the court that there has been a double assessment in any case, one of which assessments is proper and the other erroneous, and that a proper single tax has been paid thereon, the court may order such erroneous assessment to be corrected and grant redress therefor, whether such erroneously assessed tax has been paid or not, even though the application for such relief or redress be not made to the court within the time hereinbefore required.</p><p>Code 1950, § 58-1147; 1981, c. 178; 1982, c. 359; 1984, c. 675.</p>

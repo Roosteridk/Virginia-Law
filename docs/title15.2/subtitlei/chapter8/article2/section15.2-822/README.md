@@ -1,3 +1,0 @@
-# § 15.2-822 Designation of officer or employee to exercise power or perform duty.
-
-<p>Whenever it is not designated herein what officer or employee of the county shall exercise any power or perform any duty conferred upon or required of the county, or any officer thereof, by general law, then any such power shall be exercised or duty performed by that officer or employee of the county so designated by ordinance or resolution of the board.</p><p>Code 1950, § 15-384.51; 1960, c. 382; 1962, c. 623, § 15.1-764; 1997, c. 587.</p>

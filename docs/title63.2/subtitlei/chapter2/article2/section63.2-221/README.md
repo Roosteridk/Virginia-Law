@@ -1,3 +1,0 @@
-# § 63.2-221 Board to investigate institutions at direction of Governor.
-
-<p>Whenever the Governor considers it proper or necessary to investigate the management of any institution licensed by or required to be inspected by the Board under the provisions of this title, he may direct the Board, or any committee or agent thereof, to make the investigation. The Board, committee or agent designated by the Governor shall have power to administer oaths and to summon officers, employees or other persons to attend as witnesses and to enforce their attendance and to compel them to produce documents and give evidence.</p><p>Code 1950, § 63-33; 1968, c. 465, § 63.1-28.1; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

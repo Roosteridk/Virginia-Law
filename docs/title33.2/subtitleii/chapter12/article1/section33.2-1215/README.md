@@ -1,3 +1,0 @@
-# § 33.2-1215 Identification of advertising structure or advertisement.
-
-<p>The Commissioner of Highways shall require that each advertising structure and each advertisement not posted or displayed on an advertising structure bear an identification number furnished by the Commissioner of Highways and, if erected, maintained, or displayed by a licensed outdoor advertiser, also bear its name. The Commissioner of Highways shall make suitable provisions for the details thereof.</p><p>Code 1950, § 33-316; 1970, c. 322, § 33.1-368; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,3 +1,0 @@
-# § 20-116 Effect of divorce from bed and board and what court may decree.
-
-<p>In granting a divorce from bed and board, the court may decree that the parties be perpetually separated and protected in their persons and property. Such decree shall operate upon property thereafter acquired, and upon the personal rights and legal capacities of the parties, as a decree for a divorce from the bond of matrimony, except that neither party shall marry again during the life of the other.</p><p>Code 1919, § 5112.</p>

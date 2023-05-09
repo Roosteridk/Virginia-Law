@@ -1,3 +1,0 @@
-# § 19.2-303.1 Fixing period of suspension of sentence.
-
-<p>In any case where a court suspends the imposition or execution of a sentence, it may fix the period of suspension for up to the statutory maximum period for which the defendant might originally have been sentenced to be imprisoned. The limitation on the period of suspension shall not apply to the extent that an additional period of suspension is necessary for the defendant to participate in a court-ordered program.</p><p>1982, c. 636; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0538'>538</a>.</p>

@@ -1,3 +1,0 @@
-# § 22.1-192 Injury and damage covered by policy.
-
-<p>Every policy of insurance issued in pursuance of the provisions of this article, in addition to compliance with other requirements of this article and with the requirements of other applicable laws, shall cover:</p><p>1. Injury, including death, to school pupils and personnel, except the driver when not a pupil, riding as passengers on any of the vehicles so insured when used to transport such persons at public expense;</p><p>2. Injury, including death, to any persons not passengers on any such vehicle;</p><p>3. Damage, including destruction, to property of any person other than the insured.</p><p>Code 1950, § 22-288; 1962, c. 181; 1980, c. 559.</p>

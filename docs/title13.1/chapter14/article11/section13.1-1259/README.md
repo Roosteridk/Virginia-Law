@@ -1,3 +1,0 @@
-# § 13.1-1259 Exchange of securities; termination or amendment of merger.
-
-<p>In connection with a merger, rights or securities of, or interests in, a business trust or other business entity that is a constituent party to the merger may be exchanged for or converted into cash, property, rights, or securities of, or interests in, the successor business trust or any other business entity, whether or not a party to the transaction. Notwithstanding prior approval, an agreement of merger may be terminated or amended under a provision for the termination or amendment contained in the agreement of merger.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0621'>621</a>.</p>

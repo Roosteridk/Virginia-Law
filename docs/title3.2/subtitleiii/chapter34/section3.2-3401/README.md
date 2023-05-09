@@ -1,3 +1,0 @@
-# § 3.2-3401 Licensing of agents.
-
-<p>The Commissioner may license as inspectors persons not in the employ of the Department. No person who is not an employee of the Department may act as a licensed inspector under this chapter unless samples from commodities graded or inspected by him are regularly graded or inspected by an employee of the Department, or of the U.S. Department of Agriculture.</p><p>Code 1950, § 3-30; 1966, c. 702, § 3.1-30; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

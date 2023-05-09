@@ -1,3 +1,0 @@
-# § 38.2-603 Pretext interviews.
-
-<p>No insurance institution, agent, or insurance-support organization shall use or authorize the use of pretext interviews to obtain information in connection with an insurance transaction. However, a pretext interview may be undertaken to obtain information from a person or institution that does not have a generally or statutorily recognized privileged relationship with the person about whom the information relates for the purpose of investigating a claim where, based upon specific information available for review by the Commission, there is a reasonable basis for suspecting criminal activity, fraud, material misrepresentation, or material nondisclosure in connection with the claim.</p><p>1981, c. 389, § 38.1-57.6; 1986, c. 562.</p>

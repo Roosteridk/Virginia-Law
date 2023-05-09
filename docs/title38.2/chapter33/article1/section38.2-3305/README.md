@@ -1,3 +1,0 @@
-# § 38.2-3305 Incontestability.
-
-<p>A. Each individual life insurance policy shall contain a provision that the policy shall be incontestable after it has been in force during the lifetime of the insured for two years from its date of issue except for nonpayment of premiums.</p><p>B. Provisions relating to benefits in event of disability, and provisions granting additional insurance specifically against death by accident or accidental means, may be excepted in the incontestability provision.</p><p>Code 1950, § 38-371(3); 1950, p. 179; 1952, c. 317, § 38.1-394; 1986, c. 562.</p>

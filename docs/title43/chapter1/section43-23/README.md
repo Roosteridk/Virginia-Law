@@ -1,3 +1,0 @@
-# § 43-23 Priority among liens perfected under this chapter.
-
-<p>There shall be no priority among the liens created and perfected under this chapter, except that the lien of a subcontractor shall be preferred to that of his general contractor; the lien of persons performing labor or furnishing materials for a subcontractor, shall be preferred to that of such subcontractor; and liens filed by persons performing manual labor shall have priority over materialmen to the extent of the labor performed during the thirty days immediately preceding the date of the performance of the last labor.</p><p>Code 1919, § 6437; 1920, p. 485.</p>

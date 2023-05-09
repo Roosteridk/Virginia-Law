@@ -1,3 +1,0 @@
-# § 46.2-928 Pedestrians not to use roadway except when necessary; keeping to left.
-
-<p>Pedestrians shall not use the roadways for travel, except when necessary to do so because of the absence of sidewalks which are reasonably suitable and passable for their use. If they walk on the hard surface, or the main travelled portion of the roadway, they shall keep to the extreme left side or edge thereof, or where the shoulders of the highway are of sufficient width to permit, they may walk on either shoulder thereof.</p><p>Code 1950, § 46-247; 1950, p. 850; 1958, c. 541, § 46.1-234; 1968, c. 165; 1989, c. 727.</p>

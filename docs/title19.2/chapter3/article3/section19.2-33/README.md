@@ -1,3 +1,0 @@
-# § 19.2-33 Office of magistrate.
-
-<p>The office of magistrate shall be vested with all the authority, duties and obligations previously vested in the office of justice of the peace prior to January 1, 1974.</p><p>Code 1950, § 19.1-381; 1973, c. 545; 1975, c. 495.</p>

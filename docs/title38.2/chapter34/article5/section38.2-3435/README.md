@@ -1,3 +1,0 @@
-# § 38.2-3435 Exclusions.
-
-<p>The provisions of this article shall not apply to:</p><p>1. Any health insurance issuer offering group health insurance coverage for any plan year if, on the first day of such plan year, such plan has less than two participants who are current employees; or</p><p>2. Any health insurance issuer offering group health insurance coverage for any of the excepted benefits.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0807'>807</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0913'>913</a>; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0024'>24</a>.</p>

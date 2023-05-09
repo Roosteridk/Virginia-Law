@@ -1,3 +1,0 @@
-# § 38.2-2021 Examination of policies or other evidences of insurance.
-
-<p>Any rate service organization subject to this chapter for the classes of insurance for which it files rates may provide for the examination of policies, daily reports, binders, renewal certificates, endorsements or other evidences of insurance, or evidences of the cancellation of insurance, and may make reasonable rules governing their submission and the correction of any errors or omissions in them.</p><p>Code 1950, §§ 38-205, 38-253.15, 38-253.60; 1952, c. 317, § 38.1-271; 1986, c. 562.</p>

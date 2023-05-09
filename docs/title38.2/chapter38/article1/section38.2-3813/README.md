@@ -1,3 +1,0 @@
-# § 38.2-3813 Suits against company.
-
-<p>A suit or an action at law may be instituted against any company in any county or city in this Commonwealth.</p><p>Code 1950, § 38-495; 1950, p. 242; 1952, c. 317, § 38.1-512; 1986, c. 562.</p>

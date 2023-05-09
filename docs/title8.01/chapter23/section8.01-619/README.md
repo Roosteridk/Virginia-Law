@@ -1,3 +1,0 @@
-# § 8.01-619 Recordation of reports of such settlements.
-
-<p>The circuit court clerk shall record reports of receivers and commissioners when approved by the court, in a fiduciary book and properly index same to show the name of the receiver or commissioner and also the style of the suit in which the report is made; and such book shall be kept as a public record in the office of the clerk.</p><p>Code 1950, § 8-261; 1977, c. 617.</p>

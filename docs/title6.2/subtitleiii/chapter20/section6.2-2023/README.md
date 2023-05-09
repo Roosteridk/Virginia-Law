@@ -1,3 +1,0 @@
-# § 6.2-2023 Private right of action.
-
-<p>Any person who suffers loss by reason of a violation of any provision of this chapter may bring a civil action to enforce such provision. Any person who is successful in such action shall recover reasonable attorney fees, expert witness fees, and court costs incurred by bringing such action.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0790'>790</a>, § 6.1-363.24; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

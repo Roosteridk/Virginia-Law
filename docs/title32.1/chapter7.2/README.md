@@ -1,1 +1,0 @@
-# 7.2 Health Care Data Reporting

@@ -1,3 +1,0 @@
-# § 32.1-369 Uses of Breast and Cervical Cancer Prevention and Treatment Fund.
-
-<p>Moneys deposited to the Breast and Cervical Cancer Prevention and Treatment Fund shall be used to support the treatment of breast and cervical cancer for women under Medicaid pursuant to the federal Breast and Cervical Cancer Prevention and Treatment Act of 2000, P.L. 106-354. Up to 10 percent of the Fund may be used annually to conduct screening activities for breast and cervical cancer under the Every Woman's Life Program administered by the Virginia Department of Health.</p><p>2009, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0026'>26</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0521'>521</a>.</p>

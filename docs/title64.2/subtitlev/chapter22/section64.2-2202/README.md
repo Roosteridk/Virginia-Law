@@ -1,3 +1,0 @@
-# § 64.2-2202 Requirement of survival by 120 hours under donative dispositions in governing instruments.
-
-<p>Except as provided in § <a href='http://law.lis.virginia.gov/vacode/64.2-2205/'>64.2-2205</a> for purposes of a donative provision of a governing instrument, an individual who is not established by clear and convincing evidence to have survived an event, including the death of another individual, by 120 hours is deemed to have predeceased the event.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0475'>475</a>, § 64.1-104.3; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

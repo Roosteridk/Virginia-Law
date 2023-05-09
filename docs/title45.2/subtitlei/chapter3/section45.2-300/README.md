@@ -1,3 +1,0 @@
-# § 45.2-300 (Effective October 1, 2021) Governor authorized to execute Interstate Compact to Conserve Oil and Gas.
-
-<p>The Governor is hereby authorized and requested to execute, on behalf of the Commonwealth with any other state legally joining therein, a compact that is in form substantially as provided in § <a href='/vacode/45.2-301/'>45.2-301</a>.</p><p>1982, c. 570, § 45.1-381; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

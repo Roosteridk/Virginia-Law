@@ -1,3 +1,0 @@
-# § 33.2-204 Offices.
-
-<p>The main office of the Board, the Department of Transportation, and the Department of Rail and Public Transportation shall be located in the City of Richmond. In the discretion of the Commissioner of Highways, other offices of the Department of Transportation may be established in the various highway construction districts of the Commonwealth as may be necessary to carry out the provisions of this title.</p><p>Code 1950, § 33-6; 1970, c. 322, § 33.1-7; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0585'>585</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0646'>646</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

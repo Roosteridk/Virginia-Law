@@ -1,3 +1,0 @@
-# § 19.2-302 Construction and administration of §§ 19.2-300 and 19.2-301.
-
-<p>Nothing contained in § <a href='http://law.lis.virginia.gov/vacode/19.2-300/'>19.2-300</a> or <a href='http://law.lis.virginia.gov/vacode/19.2-301/'>19.2-301</a> shall be construed to conflict with or repeal any statute in regard to the Department of Behavioral Health and Developmental Services, and such sections shall be administered with due regard to the authority of, and in cooperation with, the Commissioner of Behavioral Health and Developmental Services.</p><p>Code 1950, § 53-278.4; 1950, p. 898; 1975, c. 495; 2009, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0813'>813</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0840'>840</a>.</p>

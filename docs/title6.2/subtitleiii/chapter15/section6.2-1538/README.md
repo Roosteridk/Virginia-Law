@@ -1,3 +1,0 @@
-# § 6.2-1538 Copies of orders or licenses.
-
-<p>On application of any person, and payment of the costs, the Commission shall furnish such person with a certified copy of any order entered or license issued by it. Such copy shall be prima facie evidence in any court or proceeding of the fact of the entry of the order or of the issuance of the license.</p><p>Code 1950, § 6-334; 1966, c. 584, § 6.1-305; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

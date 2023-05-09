@@ -1,3 +1,0 @@
-# § 64.2-414 When wills deemed to speak.
-
-<p>A. A will shall be construed, with reference to the real and personal estate comprised in it, to speak and take effect as if it had been executed immediately before the death of the testator, unless a contrary intention shall appear by the will.</p><p>B. Every will reexecuted or republished, or revived by any codicil, shall be deemed to have been made at the time it was reexecuted, republished, or revived.</p><p>Code 1950, §§ 64-62, 64-71; 1968, c. 656, §§ 64.1-62, 64.1-72; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

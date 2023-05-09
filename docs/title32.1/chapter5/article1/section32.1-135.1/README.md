@@ -1,3 +1,0 @@
-# § 32.1-135.1 Certain advertisements prohibited.
-
-<p>No hospital licensed under the provisions of this chapter shall include in any advertisement death rate statistics in such manner as to suggest the relative quality of health or hospital services.</p><p>1988, c. 85.</p>

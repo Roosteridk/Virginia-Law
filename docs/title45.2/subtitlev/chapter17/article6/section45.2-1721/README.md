@@ -1,3 +1,0 @@
-# § 45.2-1721 (Effective October 1, 2021, until July 1, 2029) Annual report.
-
-<p>On or before October 15 of each year, beginning in 2020, the Authority shall submit an annual summary of its activities and recommendations to the Governor and the Chairmen of the House Committee on Appropriations, the Senate Committee on Finance and Appropriations, the House Committee on Labor and Commerce, and the Senate Committee on Commerce and Labor.</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0555'>555</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0556'>556</a>, § 67-1604; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

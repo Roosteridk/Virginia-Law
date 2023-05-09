@@ -1,3 +1,0 @@
-# § 51.1-124.10 Falsification of records; penalty.
-
-<p>Any person who knowingly makes any false statement or falsifies or permits the falsification of any Retirement System record in any attempt to defraud the Retirement System shall be guilty of a Class 1 misdemeanor.</p><p>1952, c. 157, § 51-111.14; 1990, c. 832, § 51.1-108; 1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0004'>4</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0085'>85</a>.</p>

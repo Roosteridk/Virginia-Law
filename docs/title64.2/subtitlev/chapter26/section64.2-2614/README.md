@@ -1,3 +1,0 @@
-# § 64.2-2614 Application to existing relationships.
-
-<p>Except as otherwise provided in § <a href='http://law.lis.virginia.gov/vacode/64.2-2611/'>64.2-2611</a>, an interest in or power over property existing on July 1, 2003, as to which the time for delivering or filing a disclaimer under law superseded by this chapter has not expired may be disclaimed after the effective date of this chapter.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0253'>253</a>, § 64.1-196.15; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

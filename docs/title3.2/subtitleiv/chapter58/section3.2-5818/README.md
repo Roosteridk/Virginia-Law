@@ -1,3 +1,0 @@
-# § 3.2-5818 Requesting false weighing or false weight certificate; issuance of weight certificate by unlicensed person.
-
-<p>Any person who requests a licensed public weighmaster to weigh any property, produce, commodity, or article falsely or incorrectly, or who requests a false or incorrect weight certificate, or any person who issues a weight certificate simulating the weight certificate prescribed in this chapter and who is not a licensed public weighmaster, is guilty of a Class 4 misdemeanor; and upon a second or subsequent conviction such person is guilty of a Class 2 misdemeanor.</p><p>Code 1950, § 3-709.19; 1962, c. 126; 1966, c. 702, § 3.1-988; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,3 +1,0 @@
-# § 58.1-608.4 Suspension of exemption.
-
-<p>Any organization or entity exempt from the tax imposed by this chapter, or imposed pursuant to the authority granted in § <a href='http://law.lis.virginia.gov/vacode/58.1-605/'>58.1-605</a> or § <a href='http://law.lis.virginia.gov/vacode/58.1-606/'>58.1-606</a>, that knows or should have known that an associate, employee, volunteer, other individual or entity has used its tax exemption certificate/letter to make unlawful purchases in the aggregate in excess of $1,000 in any calendar year, shall have its tax exemption suspended in accordance with § <a href='http://law.lis.virginia.gov/vacode/58.1-623.1/'>58.1-623.1</a>.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0775'>775</a>.</p>

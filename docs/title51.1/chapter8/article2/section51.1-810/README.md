@@ -1,3 +1,0 @@
-# § 51.1-810 Time credited to service record.
-
-<p>The time of service of any member of a police department having a police pension and retirement board prior to June 22, 1940, shall be computed to the credit of the member's service record; however, the pension amount payable shall be determined by that proportion of the amounts provided for by this chapter, which the time of service of such member serving in the police department at the time of his retirement, or disability, bears to twenty years.</p><p>1940, p. 738; Michie Code 1942, § 3035g; Code 1950, § 51-118; 1990, c. 832.</p>

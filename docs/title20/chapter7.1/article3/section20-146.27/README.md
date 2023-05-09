@@ -1,3 +1,0 @@
-# § 20-146.27 Enforcement of registered determination.
-
-<p>A. A court of this Commonwealth may grant any relief normally available under the law of this Commonwealth to enforce a registered child custody determination made by a court of another state.</p><p>B. A court of this Commonwealth shall recognize and enforce, but may not modify, except in accordance with Article 2 (§ <a href='http://law.lis.virginia.gov/vacode/20-146.12/'>20-146.12</a> et seq.) of this chapter, a registered child custody determination of a court of another state.</p><p>1979, c. 229, § 20-138; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0305'>305</a>.</p>

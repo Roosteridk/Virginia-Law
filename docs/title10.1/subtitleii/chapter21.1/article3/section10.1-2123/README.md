@@ -1,3 +1,0 @@
-# § 10.1-2123 Definitions.
-
-<p>As used in this article, unless the context requires a different meaning:</p><p>"Board" means the State Water Control Board.</p><p>"Department" means the Department of Environmental Quality.</p><p>"Director" means the Director of the Department of Environmental Quality.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0021'>21</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0625'>625</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0626'>626</a>; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0756'>756</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0793'>793</a>.</p>

@@ -1,3 +1,0 @@
-# § 36-55 Bonds to be legal investments and security.
-
-<p>Bonds or other obligations issued by an authority in connection with projects authorized under this chapter shall be security for public deposits and legal investments to the same extent and for the same persons, institutions, associations, corporations and other bodies and officers as bonds or other obligations issued by an authority in connection with the development of slum clearance or housing projects.</p><p>1946, p. 280; Michie Suppl. 1946, § 3145(8h); 1964, c. 378.</p>

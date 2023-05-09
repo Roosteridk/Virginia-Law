@@ -1,3 +1,0 @@
-# § 24.2-650 Officers to sign only official papers, etc.
-
-<p>No officer of election shall sign or otherwise mark any paper, form, or item, other than one furnished by the State Board, his electoral board, or general registrar, at his polling place during the hours that the polls are open.</p><p>1976, c. 616, § 24.1-132.1; 1993, c. 641.</p>

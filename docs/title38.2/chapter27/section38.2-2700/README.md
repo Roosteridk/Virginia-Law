@@ -1,3 +1,0 @@
-# § 38.2-2700 Purposes of chapter.
-
-<p>The purposes of this chapter are:</p><p>1. To assure stability in the property insurance market of this Commonwealth;</p><p>2. To assure the availability of basic property insurance for qualified property;</p><p>3. To encourage maximum use of the voluntary insurance market provided by licensed insurers in obtaining basic property insurance; and</p><p>4. To provide for the equitable distribution among licensed insurers of the responsibility for insuring qualified property for which basic property insurance cannot be obtained through the voluntary insurance market.</p><p>1968, c. 559, § 38.1-746; 1986, c. 562.</p>

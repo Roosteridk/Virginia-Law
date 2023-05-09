@@ -1,3 +1,0 @@
-# § 59.1-434.6 Production of records.
-
-<p>Every provider, upon written request of the Commissioner, shall make available to the Commissioner its home service contract records for inspection and copying to enable the Commissioner to reasonably determine compliance with this chapter. Every provider shall maintain a true copy of each contract executed between the provider and a purchaser, and each contract shall be maintained for its term.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0727'>727</a>.</p>

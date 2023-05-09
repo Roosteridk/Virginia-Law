@@ -1,3 +1,0 @@
-# § 51.1-1211 Falsification of records; penalty.
-
-<p>Any person who knowingly makes any false statement or falsifies or permits the falsification of any record related to eligibility for membership in the Fund in any attempt to defraud the Fund shall be guilty of a Class 1 misdemeanor.</p><p>1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0664'>664</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0860'>860</a>.</p>

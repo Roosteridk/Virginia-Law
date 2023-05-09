@@ -1,3 +1,0 @@
-# § 40.1-58.1 Application of article to public employers and employees.
-
-<p>As used in this article, the words, "person," "persons," "employer," "employees," "union," "labor union," "association," "organization" and "corporation" shall include but not be limited to public employers, public employees and any representative of public employees in this Commonwealth. The application of this article to public employers, public employees and their representatives shall not be construed as modifying in any way the application of § <a href='http://law.lis.virginia.gov/vacode/40.1-55/'>40.1-55</a> to government employees.</p><p>1973, c. 79.</p>

@@ -1,3 +1,0 @@
-# § 1-248 Supremacy of federal and state law.
-
-<p>The Constitution and laws of the United States and of the Commonwealth shall be supreme. Any ordinance, resolution, bylaw, rule, regulation, or order of any governing body or any corporation, board, or number of persons shall not be inconsistent with the Constitution and laws of the United States or of the Commonwealth.</p><p>Code 1919, § 5; Code 1950, § 1-13; 1950, p. 22, § 1-13.17; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

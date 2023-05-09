@@ -1,3 +1,0 @@
-# § 59.1-434 Enforcement; penalties.
-
-<p>Any violation of this chapter shall constitute a prohibited practice under the provisions of § <a href='http://law.lis.virginia.gov/vacode/59.1-200/'>59.1-200</a> and shall be subject to any and all of the enforcement provisions of the Virginia Consumer Protection Act (§ <a href='http://law.lis.virginia.gov/vacode/59.1-196/'>59.1-196</a> et seq.) of this title.</p><p>1991, cc. 608, 630.</p>

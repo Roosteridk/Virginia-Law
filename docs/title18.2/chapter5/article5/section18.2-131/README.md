@@ -1,3 +1,0 @@
-# § 18.2-131 Trespass upon licensed shooting preserve.
-
-<p>It shall be unlawful for any person to trespass on a licensed shooting preserve. Any person convicted of such trespass shall be guilty of a Class 4 misdemeanor and shall be responsible for all damage. Owners or keepers of dogs trespassing on preserves shall be responsible for all damage done by such dogs.</p><p>Code 1950, § 29-49; 1975, cc. 14, 15.</p>

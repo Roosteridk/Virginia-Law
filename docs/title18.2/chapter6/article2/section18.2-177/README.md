@@ -1,3 +1,0 @@
-# § 18.2-177 Illegal use of insignia.
-
-<p>Any person who shall willfully wear, exhibit, display, print, or use, for any purpose, the badge, motto, button, decoration, charm, emblem, rosette, or other insignia of any such association or organization mentioned in § <a href='http://law.lis.virginia.gov/vacode/2.2-411/'>2.2-411</a>, duly registered under Article 2 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-411/'>2.2-411</a> et seq.) of Chapter 4, Title 2.2, unless he shall be entitled to use and wear the same under the constitution and bylaws, rules and regulations of such association or organization, shall be guilty of a Class 4 misdemeanor.</p><p>Code 1950, § 2.1-80; 1966, c. 677; 1975, cc. 14, 15.</p>

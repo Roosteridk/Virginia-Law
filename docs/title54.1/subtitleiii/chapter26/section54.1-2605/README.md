@@ -1,3 +1,0 @@
-# § 54.1-2605 Practice of assistant speech-language pathologists.
-
-<p>A person who has met the qualifications prescribed by the Board may practice as an assistant speech-language pathologist in accordance with regulations of the Board and may perform limited duties that are otherwise restricted to the practice of a speech-language pathologist under the supervision and direction of a licensed speech-language pathologist.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0661'>661</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0077'>77</a>.</p>

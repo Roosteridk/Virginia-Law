@@ -1,3 +1,0 @@
-# § 21-282 Interim certificates.
-
-<p>Pending the preparation, execution and delivery of definitive bonds of the commission to the purchaser of such bonds, interim certificates or other obligations may be issued by the commission to the purchaser. Such interim certificates or obligations shall be in such form and contain such terms, conditions and provisions as the commission issuing the same may determine.</p><p>1946, p. 359; Michie Suppl. 1946, § 1560iii10.</p>

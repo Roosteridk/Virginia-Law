@@ -1,3 +1,0 @@
-# § 10.1-1026 Cooperation of state agencies.
-
-<p>All state officers, agencies, commissions, boards, departments, institutions and foundations shall cooperate with and assist the Foundation in carrying out its purpose and, to that end, may accept any gift or conveyance of real property or interest therein or other property in the name of the Commonwealth from the Foundation. Such property shall be held in possession or used as provided in the terms of the trust, contract or instrumentality by which it was conveyed.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1053'>1053</a>.</p>

@@ -1,3 +1,0 @@
-# § 24.2-105.2 Acceptance of payments.
-
-<p>Any credit or debit card used to pay for any voter list must be in the name of a person or organization authorized to receive such list pursuant to § <a href='http://law.lis.virginia.gov/vacode/24.2-405/'>24.2-405</a>.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0510'>510</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0554'>554</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0719'>719</a>.</p>

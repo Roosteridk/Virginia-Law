@@ -1,3 +1,0 @@
-# § 38.2-2023 What to be filed with Commission by advisory organization.
-
-<p>Each advisory organization shall file with the Commission:</p><p>1. A copy of its constitution, its articles of agreement or association or its certificate of incorporation, and of its bylaws, rules and regulations governing its activities;</p><p>2. A list of its members; and</p><p>3. The name and address of a resident of this Commonwealth upon whom may be served notices or orders of the Commission or process issued at its direction.</p><p>Code 1950, §§ 38-218.1, 38-253.17, 38-253.64; 1952, c. 317, § 38.1-273; 1986, c. 562.</p>

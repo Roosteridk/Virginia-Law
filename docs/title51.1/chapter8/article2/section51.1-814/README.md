@@ -1,3 +1,0 @@
-# § 51.1-814 Employing such presumption in determining eligibility for benefits.
-
-<p>The presumption established in § <a href='http://law.lis.virginia.gov/vacode/51.1-813/'>51.1-813</a> shall be employed in determining eligibility for death, retirement, sickness, and other benefits, provided pursuant to any other provision of law, the charter of any city or town, or otherwise, for any member of a county, city, or town police department or sheriff or deputy sheriff who dies or becomes totally or partially disabled.</p><p>1976, c. 772, § 51-122.1; 1990, c. 832.</p>

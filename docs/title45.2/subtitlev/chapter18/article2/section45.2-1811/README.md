@@ -1,3 +1,0 @@
-# § 45.2-1811  Operation.
-
-<p>The Authority shall, through moneys derived from sources other than state funds, to the extent such moneys are available, operate in cooperation with the National Oceanic and Atmospheric Administration to upgrade wind resource and other metocean assessment equipment at Chesapeake Light Tower and other structures.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0507'>507</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0681'>681</a>, § 67-1203; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

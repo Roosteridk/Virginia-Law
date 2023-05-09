@@ -1,3 +1,0 @@
-# § 27-11 Duty of members on alarm of fire or call of a medical emergency.
-
-<p>Every member of the fire company shall, upon any alarm of fire or call of a medical emergency, attend according to the ordinances of the county, city, or town, or the bylaws, rules, or regulations of the fire department or the fire company's regulations, and endeavor to extinguish such fire or assist in the medical emergency.</p><p>Code 1919, § 3123; 1970, c. 187; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0142'>142</a>; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

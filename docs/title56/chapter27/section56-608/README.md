@@ -1,3 +1,0 @@
-# § 56-608 Certain contracts deemed prudent and reasonable.
-
-<p>The transportation and storage quantities of the contracts entered into by a natural gas utility for the acquisition of upstream pipeline capacity to meet the reasonably anticipated service requirements of the qualifying projects and other service requirements to be served through the eligible infrastructure shall be deemed prudent and reasonable.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0051'>51</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0202'>202</a>.</p>

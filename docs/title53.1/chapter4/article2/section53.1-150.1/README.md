@@ -1,3 +1,0 @@
-# § 53.1-150.1 Contribution by persons on parole.
-
-<p>Any person who is granted parole and who is required to receive substance abuse treatment as a condition of parole shall contribute towards the cost of such treatment based upon his ability to pay, as established pursuant to regulations promulgated by the Director. The regulations shall provide that (i) any fees collected for such treatment shall be paid directly to the service provider and (ii) any person may be exempt from the payment of such fees on the grounds of unreasonable hardship.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0807'>807</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0759'>759</a>.</p>

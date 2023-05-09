@@ -1,3 +1,0 @@
-# § 30-160 Commission to refer cases of crime or official misconduct to appropriate authorities.
-
-<p>Whenever it appears to the Commission that there is reasonable cause, for official investigation or prosecution of a crime, or for the removal of a public officer for misconduct, the Commission shall refer the matter and such information as has come to its attention to the officials authorized and having the duty and authority to conduct investigations or to prosecute criminal offenses, or to remove such public officer, or to the judge of an appropriate court of record with recommendation that a special grand jury be convened.</p><p>1972, c. 766, § 9-130; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

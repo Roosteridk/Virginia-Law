@@ -1,3 +1,0 @@
-# § 38.2-5602 Operation of medical savings accounts.
-
-<p>Medical savings accounts may be established in the Commonwealth, and may be converted to health savings accounts, pursuant to applicable federal law and regulation.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0650'>650</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0372'>372</a>; 2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0503'>503</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0572'>572</a>.</p>

@@ -1,3 +1,0 @@
-# § 22.1-273.3 Parent educational information regarding tobacco and nicotine vapor products.
-
-<p>Each school board shall annually provide educational information to parents of pupils in grades kindergarten through 12 regarding the health dangers of tobacco and nicotine vapor products. Such information shall be consistent with guidelines set forth by the Department of Education.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0679'>679</a>.</p>

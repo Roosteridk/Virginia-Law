@@ -1,3 +1,0 @@
-# § 27-33 Report of investigation.
-
-<p>The fire marshal shall make report to the governing body by whom he was appointed of any investigation made by him as soon thereafter as practicable, returning therewith the evidence taken by him and submitting such recommendations therein as he may think the public interest demands.</p><p>Code 1919, § 3138.</p>

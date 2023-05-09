@@ -1,3 +1,0 @@
-# § 45.2-700  Scope of chapter.
-
-<p>The provisions of this chapter and Chapter 8 (§ <a href='/vacode/45.2-800/'>45.2-800</a> et seq.) shall apply to the operation of any underground coal mine in the Commonwealth and shall supplement the provisions of Chapter 5 (§ <a href='/vacode/45.2-500/'>45.2-500</a> et seq.).</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.105; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

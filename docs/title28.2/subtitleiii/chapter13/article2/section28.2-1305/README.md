@@ -1,3 +1,0 @@
-# § 28.2-1305 Local governing body to supply meeting space and services for wetlands board.
-
-<p>Every county, city, or town creating a wetlands board shall supply the board with reasonable meeting space and necessary secretarial, clerical, legal, and consulting services. The local governing body is authorized to expend the public funds necessary to comply with the provisions of this section.</p><p>1972, c. 711, § 62.1-13.8; 1992, c. 836.</p>

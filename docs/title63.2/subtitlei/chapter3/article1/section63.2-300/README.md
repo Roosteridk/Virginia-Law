@@ -1,3 +1,0 @@
-# § 63.2-300 Local boards established by local governments.
-
-<p>There shall be a local board in each county and city of the Commonwealth. However, any combination of counties and cities may establish one local board for those jurisdictions as hereinafter provided in this article.</p><p>Code 1950, § 63-51; 1952, c. 409; 1956, c. 126; 1968, cc. 578, 584, § 63.1-38; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

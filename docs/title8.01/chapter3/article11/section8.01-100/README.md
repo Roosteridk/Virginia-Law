@@ -1,3 +1,0 @@
-# § 8.01-100 Liability of clerk for false certificate or failure to give bond.
-
-<p>If any clerk make a certificate as to the bond, which is untrue, he and the sureties on his official bond shall be liable to any person injured thereby.</p><p>Code 1950, § 8-661; 1977, c. 617; 1978, c. 718.</p>

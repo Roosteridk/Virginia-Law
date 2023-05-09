@@ -1,3 +1,0 @@
-# § 38.2-4412 Subscriber to be advised in writing as to benefits and limitations thereon.
-
-<p>A legal services organization shall, prior to and during the term of the subscription contract, fully, fairly, and currently advise the subscriber in writing of the benefits available under the contract and all limitations on the benefits available under the contract.</p><p>1978, c. 658, § 38.1-801; 1986, c. 562.</p>

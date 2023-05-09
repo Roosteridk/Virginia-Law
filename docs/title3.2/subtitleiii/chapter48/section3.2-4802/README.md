@@ -1,3 +1,0 @@
-# § 3.2-4802 Publications.
-
-<p>The Commissioner may publish, in such forms as he may deem proper, information concerning the sales of commercial feeds, together with such data on their production and use as he may consider appropriate.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0743'>743</a>, § 3.1-828.16; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

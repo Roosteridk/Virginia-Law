@@ -1,3 +1,0 @@
-# § 29.1-505.1 Conspiracy; penalty.
-
-<p>If any person conspires with another to commit any offense defined in this title or any of the regulations of the Board, and one or more such persons does any act to effect the object of the conspiracy, he shall be guilty of conspiracy to commit the underlying offense and shall be subject to the same punishment prescribed for the offense the commission of which was the object of the conspiracy.</p><p>1989, c. 362; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0958'>958</a>.</p>

@@ -1,3 +1,0 @@
-# § 28.2-562 Maps to be filed; evidential value.
-
-<p>All maps of the bays, rivers, and creeks of this Commonwealth made by the Commission showing the location of oyster-planting grounds shall be filed in the office of the Commission.</p><p>Any such map and the areas of the individual assignments of platted oyster-planting grounds shall be evidence in all the courts of this Commonwealth of all the oyster-planting grounds leased by the Commonwealth to private individuals at the time the survey and map were made.</p><p>Code 1950, § 28-122; 1962, c. 406, § 28.1-107; 1984, c. 4; 1992, c. 836.</p>

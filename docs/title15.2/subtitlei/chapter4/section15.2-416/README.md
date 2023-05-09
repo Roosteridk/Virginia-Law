@@ -1,3 +1,0 @@
-# § 15.2-416 Official bonds.
-
-<p>The county officers shall give such bonds as required by general law, except that the treasurer's bond shall be in such penalty as the court or judge requires, but not less than fifteen percent of the amount to be received annually by him. In addition thereto, the board may fix and require bonds in excess of the amounts so required, and to require bonds of other county officers and employees in their discretion, conditioned on the faithful discharge of their duties and the proper accounting for all funds coming into their possession.</p><p>Code 1950, § 15-379; 1962, c. 623, § 15.1-715; 1997, c. 587.</p>

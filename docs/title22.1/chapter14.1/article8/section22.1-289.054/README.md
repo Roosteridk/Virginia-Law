@@ -1,3 +1,0 @@
-# § 22.1-289.054 Visitation by parents or guardians in child day programs.
-
-<p>A custodial parent or guardian shall be admitted to any child day program. For purposes of this section, "child day program" is one in which a person or organization has agreed to assume responsibility for the supervision, protection, and well-being of a child under the age of 13 for less than a 24-hour period, regardless of whether it is licensed. Such right of admission shall apply only while the child is in the child day program.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0860'>860</a> <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP,861'>,861</a>.</p>

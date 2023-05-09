@@ -1,3 +1,0 @@
-# § 8.01-62 Action may embrace liability under both State and federal acts.
-
-<p>The motion for judgment or other pleading in any such action may embrace a cause of action growing out of any statute of the United States or this Commonwealth for such injury or death, without being demurrable on this account, and without the plaintiff being required to elect under which statute he claims. Sections <a href='http://law.lis.virginia.gov/vacode/8.01-57/'>8.01-57</a> through <a href='http://law.lis.virginia.gov/vacode/8.01-61/'>8.01-61</a> shall not apply to electric railways operated wholly within this Commonwealth.</p><p>Code 1950, § 8-646; 1954, c. 614; 1977, c. 617.</p>

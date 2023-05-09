@@ -1,3 +1,0 @@
-# § 45.2-2117  State and local authority.
-
-<p>Nothing in this article shall be construed to alter the authority of any state or local governing body, including any authority conferred under Chapter 22 (§ <a href='/vacode/15.2-2200/'>15.2-2200</a> et seq.) of Title 15.2, relating to any matter that is the subject of this article.</p><p>1982, c. 269, § 45.1-284; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

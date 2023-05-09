@@ -1,3 +1,0 @@
-# § 2.2-207 Annual legislative report.
-
-<p>Within sixty days prior to the beginning of each regular legislative session, the Secretary and the Secretary of Education shall jointly present a report to the General Assembly summarizing private sector and education partnership programs and recommendations to promote efficiency and growth in business and education partnerships.</p><p>1993, cc. 248, 752, § 2.1-51.40:1; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

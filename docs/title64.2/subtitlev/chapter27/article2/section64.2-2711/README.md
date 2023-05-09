@@ -1,3 +1,0 @@
-# § 64.2-2711 Rules of classification.
-
-<p>A. As used in this section, "adverse party" means a person with a substantial beneficial interest in property which would be affected adversely by a powerholder's exercise or nonexercise of a power of appointment in favor of the powerholder, the powerholder's estate, a creditor of the powerholder, or a creditor of the powerholder's estate.</p><p>B. If a powerholder may exercise a power of appointment only with the consent or joinder of an adverse party, the power is nongeneral.</p><p>C. Only a power of appointment whose permissible appointees are defined and limited can be nonexclusionary.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

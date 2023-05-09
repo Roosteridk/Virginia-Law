@@ -1,3 +1,0 @@
-# § 29.1-412 Permits required.
-
-<p>It shall be unlawful to exercise any privilege of the permits provided in this article without first having obtained the required permit.</p><p>Any person who violates any provision of this article shall be guilty of a Class 4 misdemeanor, and the permit shall be revoked.</p><p>Code 1950, §§ 29-103, 29-116; 1962, c. 469; 1968, c. 242; 1987, c. 488.</p>

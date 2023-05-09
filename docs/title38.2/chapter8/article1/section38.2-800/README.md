@@ -1,3 +1,0 @@
-# § 38.2-800 Definition.
-
-<p>For the purposes of this article, "insurer" includes health services plans, health maintenance organizations, legal services plans, dental or optometric services plans, and unlicensed insurers approved by the Commission to issue surplus lines coverage as respectively provided for in Chapters 42, 43, 44, 45, and 48 of this title.</p><p>1986, c. 562; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0157'>157</a>.</p>

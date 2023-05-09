@@ -1,3 +1,0 @@
-# § 63.2-1906 Department may disclose information to Internal Revenue Services.
-
-<p>Upon approval of the Department of Health and Human Services, the Department may disclose to and keep the Internal Revenue Services of the Treasury of the United States advised of the names of all persons who are under legal obligation to support any dependent child or dependent children or their custodial parents and who are not doing so, to the end that the Internal Revenue Services may have available to it the names of such persons for review in connection with income tax returns and claims of dependencies made by persons filing income tax returns.</p><p>1988, c. 906, § 63.1-274.3; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-3231 Agreements between towns and counties authorized; effect; provisions.
-
-<p>Towns in counties, or parts of counties, not immune from annexation may voluntarily enter into agreements with such counties for the purpose of defining the town's annexation rights in the future. Upon the execution of such an agreement by both the town and the county, the town shall permanently renounce its right to become a city. Any such agreement shall provide for the regular and orderly growth of the town in conjunction with the county and for an equitable sharing of resources and liabilities. It shall also provide that the town may annex at regular intervals by the adoption of an ordinance.</p><p>1979, c. 85, § 15.1-1058.1; 1997, c. 587.</p>

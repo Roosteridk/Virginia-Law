@@ -1,3 +1,0 @@
-# § 32.1-111.13 Annual financial reports.
-
-<p>The Virginia Association of Volunteer Rescue Squads shall submit an annual financial report on the use of funds received from the special emergency medical services fund to the Advisory Board Executive Committee on such forms and providing such information as may be required by the Advisory Board Executive Committee for such purpose.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0899'>899</a>; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0517'>517</a>; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

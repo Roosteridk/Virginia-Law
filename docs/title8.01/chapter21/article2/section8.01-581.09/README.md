@@ -1,3 +1,0 @@
-# § 8.01-581.09 Confirmation of an award.
-
-<p>Upon application of a party any time after an award is made, the court shall confirm an award, unless within the time limits hereinafter imposed grounds are urged for vacating or modifying or correcting the award, in which case the court shall proceed as provided in §§ <a href='http://law.lis.virginia.gov/vacode/8.01-581.010/'>8.01-581.010</a> and <a href='http://law.lis.virginia.gov/vacode/8.01-581.011/'>8.01-581.011</a>.</p><p>1986, c. 614; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0303'>303</a>.</p>

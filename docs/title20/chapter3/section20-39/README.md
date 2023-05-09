@@ -1,3 +1,0 @@
-# § 20-39 Prohibition continues notwithstanding dissolution of previous marriage.
-
-<p>In the cases mentioned in § <a href='http://law.lis.virginia.gov/vacode/20-38.1/'>20-38.1</a>, in which the relationship is founded on a marriage, the prohibition shall continue in force, notwithstanding the dissolution of such marriage by death or by divorce, unless the divorce be for a cause which made the marriage originally unlawful or void.</p><p>Code 1919, § 5086; 1976, c. 356.</p>

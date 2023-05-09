@@ -1,3 +1,0 @@
-# § 38.2-3537 Time of payment of claims.
-
-<p>Each group accident and sickness insurance policy shall contain a provision that all benefits payable under the policy other than benefits for loss of time shall be payable within sixty days after receipt of proof of loss. The provision shall also state that, subject to proof of loss, all accrued benefits payable under the policy for loss of time shall be paid at least monthly during the continuance of the period for which the insurer is liable, and that any balance remaining unpaid at the termination of such period will be paid as soon as possible.</p><p>1986, c. 562.</p>

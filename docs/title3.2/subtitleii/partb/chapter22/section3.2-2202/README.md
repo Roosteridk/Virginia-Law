@@ -1,3 +1,0 @@
-# § 3.2-2202 Small Grains Board membership terms.
-
-<p>The terms for appointments to the Small Grains Board shall be for three years. The Governor shall fill any vacancy occurring before the expiration of any term for the unexpired term. If possible, such vacancies shall be filled from the production area or classification from which the vacancy occurred as described in § <a href='http://law.lis.virginia.gov/vacode/3.2-2210/'>3.2-2210</a>.</p><p>1991, c. 587, § 3.1-684.52; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

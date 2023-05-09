@@ -1,3 +1,0 @@
-# § 33.2-299.4 Cooperation with federal agencies.
-
-<p>The Authority is empowered to cooperate with, and act as an agent for, the United States or any agency, department, corporation, or instrumentality thereof in the maintenance, development, improvement, and use of rail facilities of the Commonwealth and in any other matter within the purposes, duties, and powers of the Authority.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1230'>1230</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1275'>1275</a>.</p>

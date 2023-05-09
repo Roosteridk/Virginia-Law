@@ -1,3 +1,0 @@
-# § 34-7 Real estate, subject to encumbrances, may be set apart; if sold, how surplus disposed of.
-
-<p>Such real estate may be selected and set apart as aforesaid, subject to any paramount encumbrances thereon. If a sale be had to satisfy the encumbrances, the surplus of the proceeds, if any, not exceeding the amount to which the householder is entitled under § <a href='http://law.lis.virginia.gov/vacode/34-4/'>34-4</a>, shall be paid to the householder and invested by him in such other property as he may select.</p><p>Code 1919, § 6533.</p>

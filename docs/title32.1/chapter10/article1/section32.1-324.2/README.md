@@ -1,3 +1,0 @@
-# § 32.1-324.2 Director to facilitate communication.
-
-<p>In carrying out his duties under this chapter, the Director shall report to the Governor and members of the General Assembly the activities of facilitating communication between the Department and providers and recipients of health care services.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0965'>965</a>.</p>

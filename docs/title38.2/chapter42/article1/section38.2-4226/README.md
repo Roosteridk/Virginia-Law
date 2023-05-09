@@ -1,3 +1,0 @@
-# § 38.2-4226 Taxation.
-
-<p>Except as provided by Chapter 4 of this title, the license tax paid by a nonstock corporation under Chapter 25 of Title 58.1 shall be in lieu of all other state and local license fees or license taxes and state income taxes of the nonstock corporation.</p><p>Code 1950, § 32-195.15; 1956, c. 268, § 38.1-828; 1969, Ex. Sess., c. 26; 1979, c. 721; 1980, c. 682; 1986, c. 562; 1987, cc. 565, 655.</p>

@@ -1,3 +1,0 @@
-# § 17.1-301 Presiding justice when Chief Justice absent.
-
-<p>In the absence of the Chief Justice, the justice longest in continuous service present shall be the presiding justice. If two or more justices have served for the same period, the justice senior in years of these present shall be the presiding justice.</p><p>Code 1919, § 5863, § 17-95; 1938, p. 134; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

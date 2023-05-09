@@ -1,3 +1,0 @@
-# § 38.2-3349 Table of nonforfeiture options.
-
-<p>Each industrial life insurance policy shall contain a table showing the nonforfeiture options available under the policy each year upon default in the payment of premiums during at least the first twenty years of the policy, or during the premium-paying period if less than twenty years. There shall also be a provision that the insurer will furnish, upon request, an extension of the table beyond the years shown in the policy.</p><p>Code 1950, § 38-434(8); 1952, c. 317, § 38.1-417; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 46.2-2072 Operational restrictions.
-
-<p>No nonprofit/tax-exempt passenger carrier shall operate over the same or an adjacent route and on a similar schedule as a public transportation authority or a common carrier holding a certificate of public convenience and necessity issued pursuant to this chapter.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

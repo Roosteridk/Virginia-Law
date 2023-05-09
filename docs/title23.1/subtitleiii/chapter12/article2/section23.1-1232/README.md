@@ -1,3 +1,0 @@
-# § 23.1-1232 Moneys received deemed trust funds.
-
-<p>All moneys that the Authority receives pursuant to this article, whether as proceeds from the sale of bonds or as revenues, are trust funds to be held and applied solely as provided in this article. Any officer with whom, or any bank or trust company with which, such moneys are deposited shall act as trustee of such moneys and shall hold and apply the same for the purposes of this article, the resolution authorizing the bonds of any issue, or the trust agreement securing such bonds.</p><p>1972, c. 686, § 23-30.51; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

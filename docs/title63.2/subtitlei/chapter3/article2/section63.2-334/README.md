@@ -1,3 +1,0 @@
-# § 63.2-334 Cooperation with private agencies.
-
-<p>The local director shall foster cooperation between all public and private charitable and social agencies in the county or city to the end that public resources may be conserved and the social services needs of the county or city be adequately met.</p><p>Code 1950, § 63-97; 1968, c. 578, § 63.1-67.5; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

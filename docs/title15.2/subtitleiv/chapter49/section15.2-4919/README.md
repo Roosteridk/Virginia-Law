@@ -1,3 +1,0 @@
-# § 15.2-4919 Provisions of chapter controlling over other statutes and charters.
-
-<p>Any provision of this chapter which is found to be in conflict with any other statute or charter shall be controlling and shall supersede such other statute or charter to the extent of such conflict.</p><p>1966, c. 651, § 15.1-1390; 1997, c. 587; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0709'>709</a>.</p>

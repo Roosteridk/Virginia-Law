@@ -1,3 +1,0 @@
-# § 38.2-3816 Policies companies may issue; reserves required; provisions concerning increase of rates and extra assessments.
-
-<p>Any company may issue contracts of life, accident and sickness insurance or combinations of them. The reserves for such policies or contracts shall be based upon the American Experience Table of Mortality, with an interest assumption of no more than four percent, or some higher standard, or upon any minimum standard allowed by law in this Commonwealth for legal reserve life insurers. It may provide in its laws or bylaws and membership contracts that the rates shall not be increased or extra assessments made.</p><p>Code 1950, § 38-488; 1952, c. 317, § 38.1-516; 1986, c. 562.</p>

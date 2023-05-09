@@ -1,3 +1,0 @@
-# § 38.2-500 Declaration of purpose.
-
-<p>The purpose of this chapter is to regulate trade practices in the business of insurance in accordance with the intent of Congress as expressed in the McCarran-Ferguson Act, 15 U.S.C. §§ 1011 through 1015, by defining and prohibiting all practices in this Commonwealth that constitute unfair methods of competition or unfair or deceptive acts or practices.</p><p>1952, c. 317, § 38.1-49; 1986, c. 562.</p>

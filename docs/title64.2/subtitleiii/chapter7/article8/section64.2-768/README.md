@@ -1,3 +1,0 @@
-# § 64.2-768 Trustee's skills.
-
-<p>A trustee who has special skills or expertise, or is named trustee in reliance upon the trustee's representation that the trustee has special skills or expertise, shall use those special skills or expertise.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-548.06; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

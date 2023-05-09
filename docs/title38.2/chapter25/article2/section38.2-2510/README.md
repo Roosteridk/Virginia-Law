@@ -1,3 +1,0 @@
-# § 38.2-2510 Officers.
-
-<p>Unless the certificate or articles of incorporation provides otherwise, the directors shall elect from their number a president. The directors shall also elect a secretary, treasurer, and any additional officers they consider necessary, who may or may not be members. The offices of secretary and treasurer may be held by one person. Unless otherwise provided in the certificate or articles of incorporation, the term of those officers shall be not less than one year nor more than three years or until their successors are elected or selected and qualified.</p><p>1952, c. 317, § 38.1-667.1; 1986, c. 562.</p>

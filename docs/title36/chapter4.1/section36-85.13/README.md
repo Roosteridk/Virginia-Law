@@ -1,3 +1,0 @@
-# § 36-85.13 Staff, equipment or supplies.
-
-<p>The Administrator may employ permanent or temporary technical, clerical and other assistants as is necessary or advisable for the proper administration of this law. The Administrator may purchase equipment and supplies deemed necessary for the staff.</p><p>1986, c. 37.</p>

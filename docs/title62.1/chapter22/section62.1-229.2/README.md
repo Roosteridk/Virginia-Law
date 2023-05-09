@@ -1,3 +1,0 @@
-# § 62.1-229.2 Loans for remediation of contaminated properties.
-
-<p>Loans may be made from the Fund, in the Board's discretion, to local governments, public authorities, partnerships or corporations for necessary remediation activities undertaken at a brownfield site, as defined in § <a href='http://law.lis.virginia.gov/vacode/10.1-1230/'>10.1-1230</a>, for the purpose of reducing ground water contamination or reducing risk to public health. The Board shall develop guidelines for the administration of such loans.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0587'>587</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0407'>407</a>.</p>

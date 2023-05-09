@@ -1,3 +1,0 @@
-# § 58.1-3204 Lands acquired from United States, etc., when beneficial ownership held prior to January 1.
-
-<p>All persons or corporations who receive deeds from the United States or its agencies for lands in the Commonwealth of Virginia by virtue of contracts therefor by which the beneficial ownership was held prior to January 1 of that year shall be assessable by the commissioners of the revenue for taxes and levies on such lands for the then current year, as if the deed for the lands had been recorded on or before January 1 of that year.</p><p>Code 1950, § 58-761; 1984, c. 675.</p>

@@ -1,3 +1,0 @@
-# § 8.01-512.5 Hearing on claim of exemption from garnishment.
-
-<p>A judgment debtor shall have the right to a hearing on his claim of exemption from garnishment no later than seven business days from the date that the claim is filed with the court.</p><p>The clerk shall notify the parties of the date, time and place of the hearing and the exemption being claimed. The garnishee shall comply with the garnishment summons unless and until ordered otherwise in writing by the court. The order shall take effect upon receipt by the garnishee. The clerk is required to provide a copy of the order or other hearing disposition to the garnishee only if the garnishment summons is dismissed or is modified by the judge.</p><p>1984, c. 1.</p>

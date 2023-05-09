@@ -1,3 +1,0 @@
-# § 46.2-843 Limitations on overtaking and passing.
-
-<p>The driver of a vehicle shall not drive to the left side of the center line of a highway in overtaking and passing another vehicle proceeding in the same direction unless such left side is clearly visible and is free of oncoming traffic for a sufficient distance ahead to permit such overtaking and passing to be made safely.</p><p>No person operating a truck or combination of vehicles shall pass or attempt to pass any truck or combination of vehicles going in the same direction on an upgrade if such passing will impede the passage of following traffic.</p><p>Code 1950, § 46-228; 1958, c. 541, § 46.1-212; 1989, c. 727.</p>

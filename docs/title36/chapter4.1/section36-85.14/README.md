@@ -1,3 +1,0 @@
-# § 36-85.14 Fees.
-
-<p>The Board may establish inspection fees to be paid by manufacturers to cover the costs of monitoring inspections. Such fees shall be in the amount and manner as set out in the Federal Regulations. The SAA shall participate in the fee distribution program established by HUD and is authorized to enter into and execute a Cooperative Agreement with HUD for such participation.</p><p>1986, c. 37.</p>

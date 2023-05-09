@@ -1,3 +1,0 @@
-# § 64.2-1107 Relation to Electronic Signatures in Global and National Commerce Act.
-
-<p>This chapter modifies, limits, and supersedes the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. § 7001 et seq., but does not modify, limit, or supersede § 101 of that act, 15 U.S.C. § 7001(a), or authorize electronic delivery of any of the notices described in § 103 of that act, 15 U.S.C. § 7001(b).</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0184'>184</a>, § 55-268.19; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

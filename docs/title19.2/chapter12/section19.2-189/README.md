@@ -1,3 +1,0 @@
-# § 19.2-189 Commitment of accused for further examination.
-
-<p>If the accused be committed, it shall be by an order of the judge stating that he is committed for further examination on a day specified in the order. And on that day he may be brought before such judge by his verbal order to the officer by whom he was committed, or by a written order to a different person.</p><p>Code 1950, § 19.1-107; 1960, c. 366; 1968, c. 639; 1975, c. 495.</p>

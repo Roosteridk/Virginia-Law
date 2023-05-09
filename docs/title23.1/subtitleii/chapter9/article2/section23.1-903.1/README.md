@@ -1,3 +1,0 @@
-# § 23.1-903.1 Study abroad programs.
-
-<p>A. As used in this section, "study abroad program" means a program sponsored, offered, or approved for credit by an institution of higher education in which program participants travel outside the United States in connection with an educational experience.</p><p>B. The Council shall develop guidelines for study abroad programs.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0572'>572</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-2255 Administration and enforcement of regulations.
-
-<p>The administration and enforcement of subdivision regulations insofar as they pertain to public improvements as authorized in §§ <a href='http://law.lis.virginia.gov/vacode/15.2-2241/'>15.2-2241</a> through <a href='http://law.lis.virginia.gov/vacode/15.2-2245/'>15.2-2245</a> shall be vested in the governing body of the locality in which the improvements are or will be located.</p><p>Except as provided above, the governing body shall be responsible for administering and enforcing the provisions of the subdivision regulations through its local planning commission or otherwise.</p><p>Code 1950, §§ 15-788.1, 15-967.9; 1962, c. 407, § 15.1-474; 1975, c. 641; 1997, c. 587.</p>

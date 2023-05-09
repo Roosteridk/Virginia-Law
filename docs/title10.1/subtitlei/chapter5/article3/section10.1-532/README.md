@@ -1,3 +1,0 @@
-# § 10.1-532 Employment of officers, agents and employees.
-
-<p>The district directors may employ a secretary-treasurer, whose qualifications shall be approved by the Board, technical experts, and such other officers, agents and employees, permanent and temporary, as they may require, and shall determine their qualifications, duties and compensation.</p><p>Code 1950, § 21-47; 1964, c. 512; 1970, c. 480; 1988, c. 891.</p>

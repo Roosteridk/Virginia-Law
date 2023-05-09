@@ -1,3 +1,0 @@
-# § 23.1-1214 Exemption of bonds from taxation.
-
-<p>The bonds issued by the Authority under the provisions of this article, the transfer of such bonds, and the income from such bonds, including any profit made on the sale of such bonds, is exempt from taxation by the Commonwealth and any locality or political subdivision of the Commonwealth.</p><p>1964, c. 607, § 23-30.33; 1966, c. 685; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

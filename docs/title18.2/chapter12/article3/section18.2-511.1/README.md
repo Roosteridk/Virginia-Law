@@ -1,3 +1,0 @@
-# § 18.2-511.1 Smoking in proximity to a medical oxygen source in a health care facility; penalty.
-
-<p>Any person who smokes or uses an open flame within 25 feet of a medical oxygen source in a health care facility, as defined in § <a href='http://law.lis.virginia.gov/vacode/15.2-2820/'>15.2-2820</a>, when the area is posted as an area where smoking and open flame are prohibited is guilty of a Class 2 misdemeanor.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0430'>430</a>; 2009, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0153'>153</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0154'>154</a>.</p>

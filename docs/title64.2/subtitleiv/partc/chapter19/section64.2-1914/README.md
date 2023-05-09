@@ -1,3 +1,0 @@
-# § 64.2-1914 Custodian's expenses, compensation, and bond.
-
-<p>A. A custodian is entitled to reimbursement from custodial property for reasonable expenses incurred in the performance of the custodian's duties.</p><p>B. A custodian, other than one who is a transferor under § <a href='http://law.lis.virginia.gov/vacode/64.2-1903/'>64.2-1903</a>, has a noncumulative election during each calendar year to charge reasonable compensation for services performed during that year.</p><p>C. Except upon petition as provided in subsection F of § <a href='http://law.lis.virginia.gov/vacode/64.2-1917/'>64.2-1917</a>, a custodian need not give a bond.</p><p>1988, c. 516, § 31-51; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

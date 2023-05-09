@@ -1,3 +1,0 @@
-# § 8.01-420.5 Estoppel effect of judicial determination of employment status.
-
-<p>A final, unappealed order entered by a circuit court of this Commonwealth that a person is or is not an employee of another for the purpose of obtaining jurisdiction shall estop either of said parties from asserting otherwise in any subsequent action between such parties upon the same claim or cause of action before a court of this Commonwealth or the Virginia Workers' Compensation Commission.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0333'>333</a>.</p>

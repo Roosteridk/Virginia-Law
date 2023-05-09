@@ -1,3 +1,0 @@
-# § 29.1-309 Fees to trap.
-
-<p>The license fee to trap shall be as follows or as such fee may be subsequently revised by the Board pursuant to § <a href='http://law.lis.virginia.gov/vacode/29.1-103/'>29.1-103</a>:</p><p>1. County or city resident license, ten dollars.</p><p>2. State resident license, thirty-five dollars.</p><p>3. State nonresident license, $150.</p><p>Code 1950, § 29-56; 1952, c. 608; 1974, c. 363; 1979, c. 287; 1980, c. 494; 1983, c. 191; 1987, c. 488; 1988, c. 250; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0077'>77</a>; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0009'>9</a>.</p>

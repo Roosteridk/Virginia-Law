@@ -1,3 +1,0 @@
-# § 58.1-604.3 Exemptions.
-
-<p>The use tax imposed by this section shall not apply to any property brought into this Commonwealth by a resident of another state, if such state does not impose a similar use tax on Virginia contractors, nor shall the tax apply to the use in this Commonwealth of any motor vehicle, machine or machinery previously purchased at retail for use in another state and actually placed into substantial use in another state before being brought, imported or caused to be brought into this Commonwealth by the owner thereof for use in constructing or repairing its own buildings, structures or other property.</p><p>1988, c. 379.</p>

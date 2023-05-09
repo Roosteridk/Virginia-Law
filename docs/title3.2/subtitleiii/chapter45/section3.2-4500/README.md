@@ -1,3 +1,0 @@
-# § 3.2-4500 Definitions.
-
-<p>As used in this article, unless the context requires a different meaning:</p><p>"Container" means any closed package of any description that is used to contain apples and includes boxes, baskets, and bags of any size or material.</p><p>"Packer" means any person who first packs apples in a container for shipment or sale.</p><p>Code 1950, § 3-512.1; 1954, c. 697; 1966, c. 702, § 3.1-611; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0793'>793</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

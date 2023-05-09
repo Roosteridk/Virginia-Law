@@ -1,3 +1,0 @@
-# § 59.1-68.8 Enforcement.
-
-<p>The Attorney General of Virginia, with respect to state agencies only, shall have concurrent power and authority to investigate and prosecute any violation of § <a href='http://law.lis.virginia.gov/vacode/59.1-68.7/'>59.1-68.7</a>. In addition, the attorneys for the Commonwealth of the several counties and cities shall retain the power and authority to prosecute any and all violations of § <a href='http://law.lis.virginia.gov/vacode/59.1-68.7/'>59.1-68.7</a> occurring within their jurisdiction.</p><p>1980, c. 471.</p>

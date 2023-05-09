@@ -1,3 +1,0 @@
-# § 21-371 Assessment rolls to show time collectible; amount of assessment to depend on benefits.
-
-<p>Each of such assessment rolls shall specify the times when collectible, and be numbered in their order, and the amount assessed against the several tracts of land shall be in accordance with the benefits received, as shown by the classification of ratio of assessments made by the board of reviewers.</p><p>Code 1919, § 1771; 1920, p. 611; 1924, p. 711; 1926, p. 620; 1936, p. 1035.</p>

@@ -1,3 +1,0 @@
-# § 8.9A-605 Unknown debtor or secondary obligor.
-
-<p>A secured party does not owe a duty based on its status as secured party:</p><p>(1) to a person that is a debtor or obligor, unless the secured party knows:</p><p>(A) that the person is a debtor or obligor;</p><p>(B) the identity of the person; and</p><p>(C) how to communicate with the person; or</p><p>(2) to a secured party or lienholder that has filed a financing statement against a person, unless the secured party knows:</p><p>(A) that the person is a debtor; and</p><p>(B) the identity of the person.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1007'>1007</a>.</p>

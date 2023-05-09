@@ -1,3 +1,0 @@
-# § 53.1-33.1 Mandatory testing for human immunodeficiency virus.
-
-<p>The Department shall offer to test each inmate, who does not have a record of a positive test result, for infection with human immunodeficiency virus within 60 days of the scheduled discharge of the inmate from a state correctional facility. Prior to administering a test for human immunodeficiency virus, the Department shall inform, or cause to be informed, the inmate to be tested of the purpose of the test. Any inmate may choose not to be tested.</p><p>2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0398'>398</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0415'>415</a>.</p>

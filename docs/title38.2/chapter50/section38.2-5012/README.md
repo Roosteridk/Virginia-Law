@@ -1,3 +1,0 @@
-# § 38.2-5012 Enforcement, etc., of orders and awards.
-
-<p>The Commission has full authority to enforce its orders and protect itself from deception. While the language of this section is permissive and provides that a party may enforce an award in court, it must be read and considered in pari materia with the Commission's power pursuant to § <a href='http://law.lis.virginia.gov/vacode/65.2-202/'>65.2-202</a> to punish for disobedience of its orders.</p><p>1987, c. 540.</p>

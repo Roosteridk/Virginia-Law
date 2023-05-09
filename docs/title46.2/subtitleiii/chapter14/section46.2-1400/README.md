@@ -1,3 +1,0 @@
-# § 46.2-1400 Ridesharing arrangement defined.
-
-<p>"Ridesharing arrangement" means the transportation of persons in a motor vehicle when such transportation is incidental to the principal purpose of the driver, which is to reach a destination and not to transport persons for profit. The term includes ridesharing arrangements known as carpools, vanpools, and bus pools. "Ridesharing arrangement" does not include a prearranged ride as defined in § <a href='http://law.lis.virginia.gov/vacode/46.2-2000/'>46.2-2000</a>.</p><p>1981, c. 218, § 46.1-556; 1989, c. 727; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0002'>2</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0003'>3</a>.</p>

@@ -1,3 +1,0 @@
-# § 3.2-1711 Referenda results; action of Governor.
-
-<p>If the Governor finds any referenda in order, and that at least a simple majority of those voting are in opposition to the continuation of the equine infectious anemia test assessment, he shall so proclaim and upon such proclamation the assessment shall be discontinued. If the Governor finds that at least a simple majority of those voting are in favor of the continuation of the assessment, the Governor shall not so proclaim.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0497'>497</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0588'>588</a>, § 3.1-22.66; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,3 +1,0 @@
-# § 46.2-475 Policy must comply with law.
-
-<p>No policy required under this chapter shall be issued or delivered in the Commonwealth unless it complies with §§ <a href='http://law.lis.virginia.gov/vacode/38.2-2218/'>38.2-2218</a> through <a href='http://law.lis.virginia.gov/vacode/38.2-2225/'>38.2-2225</a>, with all other applicable and not inconsistent laws of the Commonwealth, and with the terms and conditions of this chapter.</p><p>Code 1950, § 46-495; 1958, c. 541, § 46.1-507; 1989, c. 727.</p>

@@ -1,3 +1,0 @@
-# § 64.2-779.37 Jurisdiction over trust director.
-
-<p>A. By accepting appointment as a trust director of a trust subject to this article, the trust director submits to personal jurisdiction of the courts of the Commonwealth regarding any matter related to a power or duty of the trust director.</p><p>B. This section does not preclude other methods of obtaining jurisdiction over a trust director.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0768'>768</a>.</p>

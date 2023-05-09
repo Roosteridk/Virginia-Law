@@ -1,3 +1,0 @@
-# § 62.1-44.19:8 Control of discharges to toxic-impaired water.
-
-<p>Owners of establishments that discharge toxics to toxic-impaired waters shall evaluate the options described in §§ <a href='http://law.lis.virginia.gov/vacode/10.1-1425.10/'>10.1-1425.10</a> and <a href='http://law.lis.virginia.gov/vacode/10.1-1425.11/'>10.1-1425.11</a> in determining the appropriate means to control such discharges. Prior to issuing or reissuing any permit for the discharge of toxics to toxic-impaired waters, the Board shall review and consider the owner's evaluation of the options in determining the conditions and limitations of the permit.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0519'>519</a>.</p>

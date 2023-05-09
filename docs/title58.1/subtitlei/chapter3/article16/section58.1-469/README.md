@@ -1,3 +1,0 @@
-# § 58.1-469 Included and excluded wages.
-
-<p>If the remuneration paid by an employer to an employee for services performed during one-half or more of any payroll period of not more than thirty-one consecutive days constitutes wages, all the remuneration paid by such employer to such employee for such period shall be deemed to be wages; but if the remuneration paid by an employer to an employee for services performed during more than one-half of any such payroll period does not constitute wages, then none of the remuneration paid by such employer to such employee for such period shall be deemed to be wages.</p><p>Code 1950, § 58-151.9; 1962, c. 612; 1984, c. 675.</p>

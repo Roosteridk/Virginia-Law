@@ -1,3 +1,0 @@
-# § 6.2-712 A savings institution holding company seeking to acquire a bank or bank holding company deemed a bank holding company.
-
-<p>For purposes of this chapter, any savings institution holding company seeking to acquire a bank or bank holding company, shall be deemed to be a bank holding company, for purposes of determining whether such savings institution holding company is permitted to acquire the bank or bank holding company in question.</p><p>1987, c. 634, § 6.1-399.1; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

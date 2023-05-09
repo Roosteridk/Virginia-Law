@@ -1,3 +1,0 @@
-# § 46.2-1123 Weight of vehicles and loads.
-
-<p>The maximum gross weight and axle weight to be permitted on the road surface of any highway shall be in accordance with the provisions of this article. Any notice by the Department of Transportation to truckers as to the provisions of this article shall include all limits as provided in this article.</p><p>Code 1950, § 46-334; 1952, c. 454; 1956, cc. 141, 476; 1958, c. 541, § 46.1-339; 1962, c. 84; 1964, c. 354; 1974, c. 145; 1981, c. 187; 1982, c. 671; 1983, c. 515; 1987, c. 695; 1989, c. 727.</p>

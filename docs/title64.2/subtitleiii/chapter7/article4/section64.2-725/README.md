@@ -1,3 +1,0 @@
-# § 64.2-725 Evidence of oral trust.
-
-<p>Except as required by a statute other than this chapter, a trust need not be evidenced by a trust instrument, but the creation of an oral trust and its terms may be established only by clear and convincing evidence.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-544.07; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

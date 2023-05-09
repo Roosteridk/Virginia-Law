@@ -1,3 +1,0 @@
-# § 19.2-152.5 Community criminal justice boards.
-
-<p>Each city, county or combination thereof establishing a pretrial services agency shall also establish a community criminal justice board pursuant to § <a href='http://law.lis.virginia.gov/vacode/9.1-178/'>9.1-178</a>.</p><p>1994, 2nd Sp. Sess., cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?943+ful+CHAP0001'>1</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?943+ful+CHAP0002'>2</a>; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0133'>133</a>.</p>

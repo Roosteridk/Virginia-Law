@@ -1,3 +1,0 @@
-# § 46.2-1573.37 Late model and factory repurchase franchises.
-
-<p>Franchised late model or factory repurchase motorcycle dealers shall have the same rights and obligations as provided for franchised new motorcycle dealers in this article, mutatis mutandis.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP1043'>1043</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP1052'>1052</a>, § 46.2-1993.74; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0615'>615</a>.</p>

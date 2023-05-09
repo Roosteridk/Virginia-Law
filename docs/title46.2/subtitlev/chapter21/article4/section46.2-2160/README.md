@@ -1,3 +1,0 @@
-# § 46.2-2160 Bill of lading kept in vehicle; preserved in office.
-
-<p>With every motor vehicle transporting household goods there shall be carried with such property on the same vehicle a copy of the bill of lading of all such property, which shall indicate the consignor, consignee, origin, destination and weight of each shipment on the motor vehicle. The original or a copy of the bill of lading shall be preserved in the office of such carrier for a period of at least three years.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

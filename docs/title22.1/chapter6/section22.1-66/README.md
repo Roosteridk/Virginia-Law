@@ -1,3 +1,0 @@
-# § 22.1-66 Vacancy in office.
-
-<p>The office of any division superintendent, whether full-time or part-time, shall be deemed vacant upon his engaging in any other business or employment during his term of office as such superintendent unless such superintendent was granted prior approval by the school board or school boards appointing him, or upon his resignation or his removal from office.</p><p>Code 1950, § 22-38; 1971, Ex. Sess., c. 225; 1974, c. 191; 1980, c. 559.</p>

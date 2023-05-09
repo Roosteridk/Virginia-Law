@@ -1,3 +1,0 @@
-# § 35.1-23 State institutions with dining accommodations to request inspections.
-
-<p>The head of every state institution with dining accommodations shall request the Commissioner to inspect such dining accommodations not less often than annually. Upon receipt of any such request, the Commissioner shall cause the dining accommodations to be so inspected and a report to be filed with the institution.</p><p>1981, c. 468.</p>

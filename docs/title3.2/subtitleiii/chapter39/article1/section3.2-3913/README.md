@@ -1,3 +1,0 @@
-# § 3.2-3913 Exclusion of medicinal and toilet preparations.
-
-<p>This chapter shall not apply to any preparation, drug, or chemical intended solely for medicinal use or for toilet purposes.</p><p>Code 1950, § 3-208.45; 1966, c. 702, § 3.1-247; 1989, c. 575, § 3.1-249.75; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

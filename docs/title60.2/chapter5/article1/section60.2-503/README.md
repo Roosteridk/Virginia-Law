@@ -1,3 +1,0 @@
-# § 60.2-503 Authority to terminate elections.
-
-<p>If any nonprofit organization is delinquent in making payments in lieu of taxes as required under subsection C of § <a href='http://law.lis.virginia.gov/vacode/60.2-501/'>60.2-501</a>, the Commission may terminate such organization's election to make payments in lieu of taxes as of the beginning of the next taxable year, and such termination shall be effective for that and the next taxable year.</p><p>1974, c. 466, § 60.1-89; 1981, cc. 248, 252; 1986, c. 480.</p>

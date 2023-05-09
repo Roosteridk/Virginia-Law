@@ -1,3 +1,0 @@
-# § 8.01-267.6 Separate trials; special interrogatories.
-
-<p>In any combined action under this chapter, the court, on motion of any party, may order separate or bifurcated trials of any one or more claims, cross-claims, counterclaims, third-party claims, or separate issues, always preserving the right of trial by jury.</p><p>Additionally, the court may submit special interrogatories to the jury to resolve specific issues of fact.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0555'>555</a>.</p>

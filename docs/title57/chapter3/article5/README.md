@@ -1,1 +1,0 @@
-# 5 Acquisition of Abandoned Lots in Cities and Certain Towns

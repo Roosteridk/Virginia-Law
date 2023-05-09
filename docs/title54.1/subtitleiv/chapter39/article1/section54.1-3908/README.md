@@ -1,3 +1,0 @@
-# § 54.1-3908 Liability for words used in proceedings concerning conduct.
-
-<p>No person shall be held liable in any civil action for words written or spoken in any complaint regarding, proceeding concerning, or investigation of, the professional conduct of any member of the Virginia State Bar, unless it is shown that such statements were false and were made willfully and maliciously.</p><p>Code 1950, § 54-47; 1988, c. 765; 1992, c. 574; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0399'>399</a>.</p>

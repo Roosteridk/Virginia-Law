@@ -1,3 +1,0 @@
-# § 38.2-1808 All agreements to be expressed in contract.
-
-<p>No agent shall make any contract of insurance or agreement with respect to the insurance that is not plainly expressed in the policy or contract issued.</p><p>Code 1950, § 38.1-294; 1952, c. 317; 1979, c. 513, § 38.1-327.8; 1986, c. 562; 1987, c. 521.</p>

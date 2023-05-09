@@ -1,3 +1,0 @@
-# § 15.2-5347 How payable.
-
-<p>The principal and interest on such bonds shall be payable from such sources as the authority may determine, including (without limiting the generality of the foregoing) (i) its revenues generally, (ii) exclusively from the revenues and receipts of a particular hospital project, or (iii) exclusively from the revenues and receipts of certain designated hospital projects, whether they are financed in whole or in part from the proceeds of such bonds. The bonds may be additionally secured by a pledge of any grant or contribution from any locality or from any government or governmental authority.</p><p>Code 1950, § 32-262; 1973, c. 462, § 15.1-1582; 1979, c. 719; 1997, c. 587.</p>

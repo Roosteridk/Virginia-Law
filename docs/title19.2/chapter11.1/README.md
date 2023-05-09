@@ -1,1 +1,0 @@
-# 11.1 Disposition of Persons Acquitted by Reason of Insanity

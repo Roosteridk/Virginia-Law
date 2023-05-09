@@ -1,3 +1,0 @@
-# § 19.2-276 Penalty for failure to attend and testify.
-
-<p>If the witness who is summoned as above provided, after being paid or tendered by some properly authorized person reimbursement for reasonable travel and lodging expenses as provided in § <a href='http://law.lis.virginia.gov/vacode/2.2-2823/'>2.2-2823</a> for each day he is required to travel and attend as a witness, fails without good cause to attend and testify as directed in the summons, he shall be punished in the manner provided for the punishment of any witness who disobeys a Virginia circuit court summons.</p><p>Code 1950, § 19.1-273; 1960, c. 366; 1975, c. 495; 1987, c. 125.</p>

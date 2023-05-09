@@ -1,3 +1,0 @@
-# § 44-54.8 Administration of oaths.
-
-<p>All commissioned officers of the Virginia Defense Force and such other persons or officials as the Adjutant General prescribes are hereby authorized and empowered to administer oaths and affirmations in all matters pertaining to and concerning the Virginia Defense Force, including but not limited to the enlistment of soldiers and the appointment of officers therein.</p><p>1989, c. 414; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0572'>572</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0586'>586</a>.</p>

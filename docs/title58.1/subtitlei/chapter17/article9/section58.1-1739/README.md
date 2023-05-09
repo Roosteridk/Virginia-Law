@@ -1,3 +1,0 @@
-# § 58.1-1739 Forwarding of tax information to law-enforcement officials.
-
-<p>The Tax Commissioner may, in his discretion, upon request duly received from the official charged with the duty of enforcement of motor vehicle tax laws of any other state, forward to such official any information that he may have in his possession relative to the registration and payment of any tax collected pursuant to this article.</p><p>2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0405'>405</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0639'>639</a>.</p>

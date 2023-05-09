@@ -1,3 +1,0 @@
-# § 29.1-351.1 Penalty for violations.
-
-<p>Unless otherwise specified, any person who violates any of the provisions of this article shall be guilty of a Class 2 misdemeanor.</p><p>Code 1950, § 29-90; 1954, c. 305; 1956, c. 318; 1987, c. 488.</p>

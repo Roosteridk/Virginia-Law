@@ -1,3 +1,0 @@
-# § 59.1-537 Enforcement; penalties.
-
-<p>Any violation of this chapter shall constitute a prohibited practice under the provisions of § <a href='http://law.lis.virginia.gov/vacode/59.1-200/'>59.1-200</a> and shall be subject to any and all of the enforcement provisions of Chapter 17 (§ <a href='http://law.lis.virginia.gov/vacode/59.1-196/'>59.1-196</a> et seq.) of this title except that, § <a href='http://law.lis.virginia.gov/vacode/59.1-204/'>59.1-204</a> notwithstanding, nothing in this chapter shall create a private cause of action in favor of any person aggrieved by a violation of this chapter.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0861'>861</a>.</p>

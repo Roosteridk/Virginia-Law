@@ -1,3 +1,0 @@
-# § 19.2-390.03 Development and dissemination of model policy on fingerprinting and reports to the Central Criminal Records Exchange.
-
-<p>The Department of State Police shall develop a model policy on the collection of fingerprints and reporting of criminal history record information to the Central Criminal Records Exchange as required by § <a href='/vacode/19.2-390/'>19.2-390</a>. The Department shall disseminate such policy to all law-enforcement agencies within the Commonwealth.</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0782'>782</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0783'>783</a>.</p>

@@ -1,3 +1,0 @@
-# § 22.1-57.3:1.2 Pittsylvania County school board; staggered terms.
-
-<p>The school board of Pittsylvania County shall be elected as provided in § <a href='/vacode/22.1-57.3/'>22.1-57.3</a>, except that all members shall be elected for four-year terms and the school board elections shall alternate biennially  between the election of the members from four districts and the election of the members from the remaining three districts to ensure staggered terms.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0776'>776</a>; § 1; § 1; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0355'>355</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-539 Submission of budget by executive; hearings; notice; adoption.
-
-<p>Each year at least two weeks before the board must prepare its proposed annual budget, the county executive shall prepare and submit to the board a budget presenting a financial plan for conducting the county's affairs for the ensuing year. The budget shall be set up in the manner prescribed by general law. Hearings thereon shall be held and notice thereof given and the budget adopted in accordance with general law.</p><p>Code 1950, § 15-300; 1962, c. 623, § 15.1-617; 1997, c. 587.</p>

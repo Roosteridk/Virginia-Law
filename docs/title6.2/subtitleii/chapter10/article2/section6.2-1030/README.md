@@ -1,3 +1,0 @@
-# § 6.2-1030 Discount by officer, director, or employee of refused paper.
-
-<p>No officer, director, or employee of a trust company may purchase or discount any note or paper at a rate of interest in excess of what the trust company might charge knowing that the trust company has refused to purchase or discount such paper.</p><p>Code 1950, § 6-44; 1966, c. 584, § 6.1-53; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-950 Appropriations.
-
-<p>A locality may make appropriations for the purposes for which it is empowered to levy taxes and make assessments, for the support of the locality, for the performance of its functions, and the accomplishment of all other lawful purposes and objectives, subject to such limitations as may be imposed by law.</p><p>Code 1950, § 15-77.6; 1958, c. 328; 1962, c. 623, § 15.1-842; 1997, c. 587.</p>

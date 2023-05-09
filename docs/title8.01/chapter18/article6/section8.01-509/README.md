@@ -1,3 +1,0 @@
-# § 8.01-509 Order for sale and application of debtor's estate.
-
-<p>The court to which the commissioner returns his report may make any order it may deem right, as to the sale and proper application of the estate conveyed and delivered under §§ <a href='http://law.lis.virginia.gov/vacode/8.01-506/'>8.01-506</a> and <a href='http://law.lis.virginia.gov/vacode/8.01-507/'>8.01-507</a>.</p><p>Code 1950, § 8-439; 1977, c. 617.</p>

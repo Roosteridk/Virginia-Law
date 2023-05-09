@@ -1,3 +1,0 @@
-# § 19.2-81.5 Cooperation with a law-enforcement officer.
-
-<p>Upon receipt of a request and documentation of an indictment or issuance of a warrant from a law-enforcement agency, any public agency within the Commonwealth may disclose to the requesting law-enforcement agency from agency records, to the extent permitted by federal law, the address of an individual who has been indicted or for whom a warrant for arrest for a crime punishable by incarceration has been issued.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0436'>436</a>.</p>

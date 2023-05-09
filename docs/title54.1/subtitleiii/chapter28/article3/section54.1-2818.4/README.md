@@ -1,3 +1,0 @@
-# § 54.1-2818.4 Immunity from liability for services after organ and tissue donation.
-
-<p>Unless such act, decision, or omission resulted from bad faith or malicious intent, any funeral service establishment, funeral service licensee, crematory, or registered crematory that receives a body following donation of organs, tissues, or eyes shall be immune from civil liability for any failure to restore such decedent's form or features in a manner acceptable for viewing prior to the final disposition of the remains.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0811'>811</a>.</p>

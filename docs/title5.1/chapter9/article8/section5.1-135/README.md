@@ -1,3 +1,0 @@
-# § 5.1-135 No transportation except when rates have been filed and published.
-
-<p>No common carrier or restricted common carrier by aircraft, unless otherwise provided by this chapter, shall engage in the transportation of passengers or property unless the rates, fares, and charges upon which the same are transported by such carrier have been filed and published in accordance with the provisions of this chapter.</p><p>Code 1950, § 56-190; 1970, c. 708.</p>

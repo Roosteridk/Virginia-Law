@@ -1,3 +1,0 @@
-# § 24.2-515.1 Schedule for primaries in the year 2001 and each tenth year thereafter.
-
-<p>Primaries for the nomination of candidates for the offices listed in Section 4 of Article VII of the Constitution of Virginia to be voted on at the general election in November 2001 and each tenth year thereafter shall be held on the third Tuesday in June next preceding such election notwithstanding any special primary schedule enacted for any other office.</p><p>1993, c. 355, § 24.1-174.1; 1993, c. 641; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0239'>239</a>.</p>

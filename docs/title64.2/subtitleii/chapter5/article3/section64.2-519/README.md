@@ -1,3 +1,0 @@
-# § 64.2-519 Suits upon judgment and contracts of decedent and actions for personal injury or wrongful death.
-
-<p>A personal representative may sue or be sued (i) upon any judgment for or against the decedent, (ii) upon any contract of or with the decedent, or (iii) in any action for personal injury or wrongful death against or on behalf of the estate.</p><p>Code 1950, § 64-134; 1968, c. 656, § 64.1-144; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0223'>223</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

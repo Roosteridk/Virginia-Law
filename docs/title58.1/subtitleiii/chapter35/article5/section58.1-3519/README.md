@@ -1,3 +1,0 @@
-# § 58.1-3519 Commissioner to assess property if taxpayer fails to file return.
-
-<p>If any taxpayer, liable to file a return of any of the subjects of taxation mentioned in this chapter, neglects or refuses to file such return for any year within the time prescribed, the commissioner of the revenue shall, from the best information he can obtain, enter the fair market value of such property and assess the same as if it had been reported to him.</p><p>Code 1950, § 58-838; 1952, c. 711; 1954, c. 488; 1962, c. 578; 1984, c. 675.</p>

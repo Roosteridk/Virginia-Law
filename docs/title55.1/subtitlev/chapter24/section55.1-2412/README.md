@@ -1,3 +1,0 @@
-# § 55.1-2412 Lands may be committed to claimant while claim pending.
-
-<p>Pending the petition, the court may commit the lands, or any part thereof, to the claimant, after he has given bond with good security to pay the Commonwealth the rents and profits of such land, if judgment is subsequently entered for the Commonwealth.</p><p>Code 1919, § 500; Code 1950, § 55-179; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

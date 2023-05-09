@@ -1,3 +1,0 @@
-# § 8.01-584 How dividends and interest collected and invested.
-
-<p>The general receiver shall collect the dividends and interest on all the securities in which investments have been or may be made, under the orders or decrees of his court, or under the provisions of § <a href='http://law.lis.virginia.gov/vacode/8.01-582/'>8.01-582</a>, when and as often as the same may become due and payable thereon, and shall invest the same in like securities, unless the court has ordered or decreed some other investment or disposition to be made thereof; and in such case he shall invest or dispose of the same as the court shall have ordered or decreed.</p><p>Code 1950, § 8-727; 1977, c. 617.</p>

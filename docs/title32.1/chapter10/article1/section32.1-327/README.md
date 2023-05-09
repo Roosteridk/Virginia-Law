@@ -1,3 +1,0 @@
-# § 32.1-327 Claim against indigent's estate for payments made.
-
-<p>In accordance with applicable federal law and regulations, including those under Title XIX of the Social Security amendments of 1965, the Department may make claim against the estate of an indigent or medically indigent person for the amount of any medical assistance payments made on his behalf by the Department. The Department may waive its claim if it determines that enforcement of the claim would result in substantial hardship to the heirs or dependents of the individual against whose estate the claim exists.</p><p>1984, c. 781.</p>

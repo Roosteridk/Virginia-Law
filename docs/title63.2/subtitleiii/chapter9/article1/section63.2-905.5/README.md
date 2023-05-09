@@ -1,3 +1,0 @@
-# § 63.2-905.5 Survey of children aging out of foster care.
-
-<p>The Department shall, in coordination with the Commission on Youth, develop a process and standardized survey to gather feedback from children aging out of foster care. The survey shall include requests for information regarding the child's experience with and opinion of the Commonwealth's foster care services, recommendations for improvement of such services, the amount of time the child spent in the foster care system, and any other information deemed relevant by the Department of Social Services or the Commission on Youth.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0187'>187</a>.</p>

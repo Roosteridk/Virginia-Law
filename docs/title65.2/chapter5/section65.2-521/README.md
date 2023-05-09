@@ -1,3 +1,0 @@
-# § 65.2-521 Time of payment.
-
-<p>The Commission, upon application of either party, may, in its discretion, having regard to the welfare of the employee and the convenience of the employer, authorize compensation to be paid bi-weekly, monthly, or quarterly instead of weekly.</p><p>Code 1950, § 65-70; 1968, c. 660, § 65.1-73; 1991, c. 355.</p>

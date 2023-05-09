@@ -1,3 +1,0 @@
-# § 55.1-1233 Tenant to surrender possession of dwelling unit.
-
-<p>At the termination of the term of tenancy, whether by expiration of the rental agreement or by reason of default by the tenant, the tenant shall promptly vacate the premises, removing all items of personal property and leaving the premises in good and clean order, reasonable wear and tear excepted. If the tenant fails to vacate, the landlord may bring an action for possession and damages, including reasonable attorney fees.</p><p>1974, c. 680, § 55-248.20; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0760'>760</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

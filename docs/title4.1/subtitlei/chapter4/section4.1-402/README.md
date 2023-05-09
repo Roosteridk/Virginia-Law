@@ -1,3 +1,0 @@
-# § 4.1-402 Applicability.
-
-<p>This chapter shall apply to all agreements in effect on or after February 18, 1989, and any renewal or amendment of such agreements. For the purposes of this chapter, an agreement shall be deemed to be in effect or renewed or continued in effect when any of the following acts occur after February 18, 1989:</p><p>1. The shipment, preparation for shipment or acceptance of any order by a winery or its agents for any wine to a wine wholesaler within the Commonwealth; and</p><p>2. The payment by a wine wholesaler and the acceptance of payment by any winery or its agents for the shipment of an order of wine intended for sale in the Commonwealth.</p><p>Code 1950, § 4-118.38; 1985, c. 542, § 4-118.58; 1989, c. 10; 1993, c. 866.</p>

@@ -1,3 +1,0 @@
-# § 38.2-227 Public policy regarding punitive damages.
-
-<p>It is not against the public policy of the Commonwealth for any person to purchase insurance providing coverage for punitive damages arising out of the death or injury of any person as the result of negligence, including willful and wanton negligence, but excluding intentional acts. This section declares existing policy.</p><p>1983, c. 353, § 38.1-42.2; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 64.2-522 Personal representatives to pay over sale proceeds and rents to persons entitled.
-
-<p>An executor or administrator shall faithfully pay the rents and profits or proceeds of sale of real estate that lawfully come into his possession, or into the possession of any person for him, to such persons entitled thereto.</p><p>Code 1950, § 64-141; 1968, c. 656, § 64.1-151; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

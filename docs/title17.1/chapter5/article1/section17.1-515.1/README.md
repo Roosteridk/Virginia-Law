@@ -1,3 +1,0 @@
-# § 17.1-515.1 Territorial jurisdiction of the Circuit Court for the City of Lynchburg.
-
-<p>The territorial jurisdiction of the Circuit Court for the City of Lynchburg shall extend to the corporate limits of the city and to a space of one mile without and around the city limits, except that the same shall not extend further into the County of Amherst than the corporate limits. Any judgment, order, or decree of the Circuit Court for the City of Lynchburg heretofore made in any case in which the court would have had jurisdiction had this section then been in operation shall have the same effect as if it had been at that time in force.</p><p>Code 1919, § 5904, § 17-125; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0164'>164</a>.</p>

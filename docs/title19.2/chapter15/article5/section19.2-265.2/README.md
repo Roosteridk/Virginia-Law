@@ -1,3 +1,0 @@
-# § 19.2-265.2 Judicial notice of laws (Supreme Court Rule 2:202 derived in part from this section).
-
-<p>A. Whenever, in any criminal case it becomes necessary to ascertain what the law, statutory or otherwise, of this Commonwealth, of another state, of the United States, of another country, or of any political subdivision or agency of the same is, or was, at any time, the court shall take judicial notice thereof whether specially pleaded or not.</p><p>B. The court, in taking such notice, shall consult any book, record, register, journal, or other official document or publication purporting to contain, state, or explain such law, and may consider any evidence or other information or argument that is offered on the subject.</p><p>1978, c. 328.</p>

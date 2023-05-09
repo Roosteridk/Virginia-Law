@@ -1,3 +1,0 @@
-# § 58.1-2673 Correction after hearing or investigation; proceedings for enforcement.
-
-<p>If, from the evidence introduced at such hearing or its own investigations, the Commission is of opinion that the assessment or tax is excessive, it shall reduce the same or if it is insufficient, it shall increase the same. If the decision of the Commission is in favor of the taxpayer, in whole or in part, appropriate relief shall be granted, including the right to recover from the Commonwealth or local authorities, or both, as the case may be, any excess of taxes that may have been paid. The order of the Commission shall be enforced by mandamus, or other proper process, issuing from the Commission.</p><p>Code 1950, § 58-675; 1984, c. 675.</p>

@@ -1,3 +1,0 @@
-# § 18.2-258.2 Assisting individuals in unlawfully procuring prescription drugs; penalty.
-
-<p>Unless otherwise specifically authorized by law, any person who, for compensation, knowingly assists another in unlawfully procuring prescription drugs from a pharmacy or other source he knows is not licensed, registered or permitted by the licensing authority of the Commonwealth, any other state or territory of the United States, or the United States, is guilty of a Class 1 misdemeanor and, upon a second or subsequent conviction, a Class 6 felony.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0620'>620</a>.</p>

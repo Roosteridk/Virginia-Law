@@ -1,3 +1,0 @@
-# § 55.1-2017 Rule against perpetuities; rule restricting unreasonable restraints on alienation.
-
-<p>The rules of property law known as the rule against perpetuities and the rule restricting unreasonable restraints on alienation shall not be applied to defeat any of the provisions of this chapter or of any provisions of any master deed or lease, bylaws, or other document executed in accordance with this chapter as to the horizontal property regime. This exemption shall not apply to estates in the individual apartments.</p><p>1966, c. 683, § 55-79.36; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

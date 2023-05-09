@@ -1,3 +1,0 @@
-# § 38.2-2910 Annual examination into affairs of Association.
-
-<p>The Commission shall examine the affairs of the Association at least annually. The examination shall be conducted and the report of the examination filed in the manner prescribed in §§ <a href='http://law.lis.virginia.gov/vacode/38.2-1317/'>38.2-1317</a> through <a href='http://law.lis.virginia.gov/vacode/38.2-1321/'>38.2-1321</a>. The expenses of each examination shall be borne and paid by the Association.</p><p>1988, cc. 769, 783.</p>

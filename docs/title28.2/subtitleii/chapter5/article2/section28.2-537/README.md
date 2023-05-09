@@ -1,3 +1,0 @@
-# § 28.2-537 Restriction on size of clams; penalty.
-
-<p>It is unlawful for any person to harvest or ship clams smaller in size than the legal size established by the Commission.</p><p>Any person who violates this section is guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 28-137; 1960, c. 517; 1962, c. 406, § 28.1-120; 1964, c. 393; 1966, c. 684; 1970, c. 726; 1979, c. 274; 1991, c. 285; 1992, c. 836.</p>

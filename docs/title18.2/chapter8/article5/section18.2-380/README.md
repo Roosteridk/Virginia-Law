@@ -1,3 +1,0 @@
-# § 18.2-380 Punishment for first offense.
-
-<p>Any person, firm, association or corporation convicted for the first time of an offense under §§ <a href='http://law.lis.virginia.gov/vacode/18.2-374/'>18.2-374</a>, <a href='http://law.lis.virginia.gov/vacode/18.2-375/'>18.2-375</a>, <a href='http://law.lis.virginia.gov/vacode/18.2-376/'>18.2-376</a>, <a href='http://law.lis.virginia.gov/vacode/18.2-377/'>18.2-377</a>, <a href='http://law.lis.virginia.gov/vacode/18.2-378/'>18.2-378</a> or § <a href='http://law.lis.virginia.gov/vacode/18.2-379/'>18.2-379</a>, shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 18.1-235.1; 1968, c. 662; 1975, cc. 14, 15; 1983, c. 412; 1985, c. 279.</p>

@@ -1,3 +1,0 @@
-# § 46.2-807 Path of travel at circular intersections.
-
-<p>A vehicle passing through a circular intersection shall be driven only to the right of the central island, unless otherwise directed by traffic control devices.</p><p>Code 1950, § 46-220.1; 1952, c. 671; 1958, c. 541, § 46.1-204; 1989, c. 727; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0128'>128</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0400'>400</a>.</p>

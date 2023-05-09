@@ -1,3 +1,0 @@
-# § 10.1-411.5 Pound State Scenic River.
-
-<p>The Pound River in Wise and Dickenson Counties, from the northern boundary of the Town of Pound near Old Mill Village Road northeastward to the Pound River Campground at Little Laurel Branch in Dickenson County, a distance of approximately 17 miles, is hereby designated as the Pound State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0316'>316</a>.</p>

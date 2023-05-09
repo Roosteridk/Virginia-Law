@@ -1,3 +1,0 @@
-# § 2.2-4407 Mandatory deposit of public funds in qualified public depositories.
-
-<p>Public deposits required to be secured pursuant to this chapter shall be deposited in a qualified public depository.</p><p>1973, c. 172, § 2.1-366; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0640'>640</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0674'>674</a>.</p>

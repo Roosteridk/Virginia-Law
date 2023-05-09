@@ -1,3 +1,0 @@
-# § 51.1-124.2 Virginia Supplemental Retirement System continued as Virginia Retirement System.
-
-<p>The Virginia Supplemental Retirement System, a body corporate and a retirement system for teachers, state employees, and employees of participating political subdivisions, shall be continued as the Virginia Retirement System. Wherever the term "Virginia Supplemental Retirement System" appears in the Code of Virginia, it shall mean the Virginia Retirement System.</p><p>1952, c. 157, § 51-111.11; 1960, c. 604; 1982, c. 478; 1990, c. 832, § 51.1-100; 1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0004'>4</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0085'>85</a>.</p>

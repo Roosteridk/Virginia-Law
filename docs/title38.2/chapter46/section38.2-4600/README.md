@@ -1,3 +1,0 @@
-# § 38.2-4600 Class of insurance and insurance companies to which chapter applies.
-
-<p>Except as otherwise provided, this chapter applies to title insurance as defined in § <a href='http://law.lis.virginia.gov/vacode/38.2-123/'>38.2-123</a>, and to title insurance companies as defined in § <a href='http://law.lis.virginia.gov/vacode/38.2-4601/'>38.2-4601</a>.</p><p>1952, c. 317, § 38.1-720; 1986, c. 562.</p>

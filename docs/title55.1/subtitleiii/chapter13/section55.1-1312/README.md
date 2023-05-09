@@ -1,3 +1,0 @@
-# § 55.1-1312 Authority of local governments over manufactured home parks.
-
-<p>The governing body of any locality may adopt ordinances to enforce the obligations imposed on landlords by § <a href='/vacode/55.1-1303/'>55.1-1303</a>.</p><p>1984, c. 460, § 55-248.49; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0077'>77</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

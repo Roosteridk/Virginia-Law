@@ -1,3 +1,0 @@
-# § 21-207 Withdrawal must be within one year.
-
-<p>The transfer and vesting of rights, powers and duties shall be no longer operative if the county or city electing to withdraw shall not entitle itself to withdraw from the district within one year after the creation of the district.</p><p>1940, p. 620; 1942, p. 602; Michie Code 1942, § 1560kk1.</p>

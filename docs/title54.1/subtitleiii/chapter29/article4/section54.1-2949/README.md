@@ -1,3 +1,0 @@
-# § 54.1-2949 License required.
-
-<p>It shall be unlawful for a person to practice or to hold himself out as practicing as a physician assistant or to use in connection with his name the words or letters "Physician Assistant" or "PA" unless he holds a license as such issued by the Board.</p><p>1988, c. 765; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0144'>144</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0450'>450</a>.</p>

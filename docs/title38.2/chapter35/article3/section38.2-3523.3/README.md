@@ -1,3 +1,0 @@
-# § 38.2-3523.3 Requirements for those marketing group accident and sickness insurance.
-
-<p>Insurance marketed to certificate holders of a group which does not qualify under § <a href='http://law.lis.virginia.gov/vacode/38.2-3521.1/'>38.2-3521.1</a> or § <a href='http://law.lis.virginia.gov/vacode/38.2-3522.1/'>38.2-3522.1</a> must be marketed by a person holding a valid life and health insurance agent license as required by Chapter 18 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-1800/'>38.2-1800</a> et seq.) of this title.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0154'>154</a>; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0086'>86</a>.</p>

@@ -1,3 +1,0 @@
-# § 59.1-452 Production of records.
-
-<p>Every travel club, upon written request of the Commissioner, shall make available to the Commissioner its travel-services records for inspection and copying to enable the Commissioner to reasonably determine compliance with this chapter. Every club promoter shall maintain a true copy of each agreement between the travel club and a purchaser, and such agreement shall be maintained for its term plus two years.</p><p>1993, c. 760.</p>

@@ -1,3 +1,0 @@
-# § 8.4A-505 Preclusion of objection to debit of customer's account.
-
-<p>If a receiving bank has received payment from its customer with respect to a payment order issued in the name of the customer as sender and accepted by the bank, and the customer received notification reasonably identifying the order, the customer is precluded from asserting that the bank is not entitled to retain the payment unless the customer notifies the bank of the customer's objection to the payment within one year after the notification was received by the customer.</p><p>1990, c. 9.</p>

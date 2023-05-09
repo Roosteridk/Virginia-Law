@@ -1,3 +1,0 @@
-# § 15.2-1230 Monthly financial reports of officers and offices.
-
-<p>The governing body of any county may require monthly financial reports from any officer or office of the county or of any district thereof and may investigate bills and receipts of any county or district officer, and for these purposes may subpoena witnesses, administer oaths and require the production of books, papers and other evidence. Any witness who fails or refuses to obey any such lawful order of the governing body shall be guilty of a misdemeanor.</p><p>Code 1950, § 15-263; 1962, c. 623, § 15.1-556; 1997, c. 587.</p>

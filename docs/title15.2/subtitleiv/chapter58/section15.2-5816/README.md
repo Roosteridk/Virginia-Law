@@ -1,3 +1,0 @@
-# § 15.2-5816 Cooperation between the Authority and other political subdivisions.
-
-<p>The Authority may enter into agreements with any other political subdivision of the Commonwealth for joint or cooperative action in accordance with § <a href='http://law.lis.virginia.gov/vacode/15.2-1300/'>15.2-1300</a>.</p><p>1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0613'>613</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0629'>629</a>, § 15.1-227.86; 1997, c. 587.</p>

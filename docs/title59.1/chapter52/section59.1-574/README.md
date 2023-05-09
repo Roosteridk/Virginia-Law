@@ -1,3 +1,0 @@
-# § 59.1-574 Local regulation prohibited unless identical.
-
-<p>No locality may establish or continue any regulation relating to cosmetic animal testing that is not identical to the provisions set forth in this chapter.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0113'>113</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0114'>114</a>.</p>

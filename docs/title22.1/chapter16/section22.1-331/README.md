@@ -1,3 +1,0 @@
-# § 22.1-331 Violations.
-
-<p>Any person who opens, operates or conducts any school without a license required by this chapter shall be guilty of a Class 2 misdemeanor. Each day such person permits the school to be open and operate without such a license shall constitute a separate offense.</p><p>Code 1950, § 22-330.31; 1970, c. 665; 1980, c. 559; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0991'>991</a>.</p>

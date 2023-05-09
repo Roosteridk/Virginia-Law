@@ -1,3 +1,0 @@
-# § 45.2-1908 (Effective October 1, 2021; Expires July 1, 2025) Annual report.
-
-<p>On or before October 15 of each year, the Authority shall submit an annual summary of its activities and recommendations to the Governor and the Chairmen of the House Committee on Appropriations, the Senate Committee on Finance and Appropriations, the House Committee on Labor and Commerce, and the Senate Committee on Commerce and Labor.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0090'>90</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0398'>398</a>, § 67-1507; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

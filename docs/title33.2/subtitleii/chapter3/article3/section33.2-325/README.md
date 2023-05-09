@@ -1,3 +1,0 @@
-# § 33.2-325 Certain school roads in secondary state highway system.
-
-<p>All roads leading from the state highways, either primary or secondary, to public schools in the counties of the Commonwealth to which school buses are operated shall continue to constitute portions of the secondary state highway system insofar as these roads lead to or are on school property and as such shall be improved and maintained.</p><p>Code 1950, § 33-45; 1952, c. 505; 1964, c. 380; 1970, c. 322, § 33.1-68; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

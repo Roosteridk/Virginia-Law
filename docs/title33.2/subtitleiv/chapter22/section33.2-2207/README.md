@@ -1,3 +1,0 @@
-# § 33.2-2207 Consent of Commonwealth to use subaqueous soil of the Chesapeake Bay.
-
-<p>The Commonwealth hereby consents to the use by the Commission, in any manner whatsoever in the performance of its duties, of all lands lying under the waters of the Chesapeake Bay that are within the Commonwealth and are deemed by the Commission to be necessary for the construction or operation of the project.</p><p>1954, c. 693; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

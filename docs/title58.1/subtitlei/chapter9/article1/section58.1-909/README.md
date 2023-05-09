@@ -1,3 +1,0 @@
-# § 58.1-909 Liability of personal representative.
-
-<p>The tax and interest imposed by this chapter shall be paid by the personal representative. If any personal representative distributes either in whole or in part any of the property of an estate to the heirs, next of kin, distributees, legatees or devisees without having paid or secured the tax due pursuant to this chapter, he shall be personally liable for the tax so due, or so much thereof as may remain due and unpaid, to the full extent of any property belonging to such person or estate which may come into his custody or control.</p><p>Code 1950, § 58-238.10; 1978, c. 838; 1984, c. 675.</p>

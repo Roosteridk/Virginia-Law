@@ -1,3 +1,0 @@
-# § 16.1-69.39:1 Legal service to district court employees and magistrates.
-
-<p>All legal services for personnel of the district courts or magistrates in civil matters, including civil litigation, arising out of the performance of their duties, shall be provided by the office of the Attorney General. If, in the opinion of the Attorney General, it is impractical or uneconomical for such service to be rendered by his office, the Committee on District Courts may employ special counsel for such purpose, whose compensation shall be fixed by the Committee. The compensation for such special counsel shall be paid out of the funds appropriated for the administration of the district courts.</p><p>1977, c. 94; 1980, c. 197.</p>

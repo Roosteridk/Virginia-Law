@@ -1,3 +1,0 @@
-# § 18.2-308.8 Importation, sale, possession or transfer of Striker 12's prohibited; penalty.
-
-<p>It shall be unlawful for any person to import, sell, possess or transfer the following firearms: the Striker 12, commonly called a "streetsweeper," or any semi-automatic folding stock shotgun of like kind with a spring tension drum magazine capable of holding twelve shotgun shells. A violation of this section shall be punishable as a Class 6 felony.</p><p>1993, c. 888.</p>

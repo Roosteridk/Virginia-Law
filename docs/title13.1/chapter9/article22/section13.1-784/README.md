@@ -1,3 +1,0 @@
-# § 13.1-784 Formation of benefit corporations.
-
-<p>A benefit corporation shall be formed in accordance with Article 3 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-618/'>13.1-618</a> et seq.), and its articles, as initially filed with the Commission or as amended, shall state that it is a benefit corporation.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0698'>698</a>.</p>

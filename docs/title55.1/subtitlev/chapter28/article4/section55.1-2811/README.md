@@ -1,3 +1,0 @@
-# § 55.1-2811 Lien on animals.
-
-<p>If the court enters judgment for the owner or tenant of the grounds enclosed by a lawful fence pursuant to § <a href='/vacode/55.1-2810/'>55.1-2810</a>, the landowner shall have a lien upon such animal. Upon entry of the judgment, the court shall issue a writ of fieri facias pursuant to § <a href='/vacode/8.01-478/'>8.01-478</a>, and the animal found to have trespassed shall be levied upon by the officer to whom such execution was issued, who shall sell such animal, as provided in Chapter 18 (§ <a href='/vacode/8.01-466/'>8.01-466</a> et seq.) of Title 8.01.</p><p>Code 1950, § 8-877; 1977, c. 624, § 55-307; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

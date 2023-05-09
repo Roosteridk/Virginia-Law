@@ -1,3 +1,0 @@
-# § 2.2-809 When accounts on Comptroller's books to be balanced; general ledger of accounts.
-
-<p>All unsettled accounts on the books of the Comptroller shall be balanced on the last day of each fiscal year, and the balances brought forward on the first day of the new fiscal year. For this purpose there shall be a general ledger of accounts, which shall be kept to show the balances due to or from the Commonwealth.</p><p>Code 1950, § 2-169; 1966, c. 677, § 2.1-202; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

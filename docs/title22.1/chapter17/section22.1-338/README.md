@@ -1,3 +1,0 @@
-# § 22.1-338 Education Commission to file bylaws with State Council of Higher Education.
-
-<p>Pursuant to paragraph I of Article III of the compact for education set forth in § <a href='http://law.lis.virginia.gov/vacode/22.1-336/'>22.1-336</a>, the Education Commission of the States shall file a copy of its bylaws and amendments thereto with the State Council of Higher Education for Virginia.</p><p>Code 1950, § 22-347; 1968, c. 564; 1980, c. 559.</p>

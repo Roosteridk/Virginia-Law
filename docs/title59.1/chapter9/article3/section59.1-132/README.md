@@ -1,3 +1,0 @@
-# § 59.1-132 Tag to be affixed to watch.
-
-<p>Any person, firm, partnership, association or corporation engaged in the business of buying or selling watches, or any agent or servant thereof, who may sell or exchange, or offer for sale or exchange, expose for sale or exchange, possess with the intent to sell or exchange, or display with the intent to sell or exchange any secondhand watch, shall affix and keep affixed to the same a tag with the words "secondhand" clearly and legibly written or printed thereon, and the tag shall be so placed that the words "secondhand" shall be in plain sight at all times.</p><p>Code 1950, § 59-157; 1968, c. 439.</p>

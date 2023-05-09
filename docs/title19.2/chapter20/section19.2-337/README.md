@@ -1,3 +1,0 @@
-# § 19.2-337 Claims not presented in time to be disallowed.
-
-<p>If by reason of the failure of a person to present his claim in due time a sum be not included in such execution which would have been included if so presented, such claim, unless there be good cause for the failure, shall be disallowed.</p><p>Code 1950, § 19.1-321; 1960, c. 366; 1975, c. 495.</p>

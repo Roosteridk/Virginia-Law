@@ -1,3 +1,0 @@
-# § 46.2-848 Signals required on backing, stopping, or turning.
-
-<p>Every driver who intends to back, stop, turn, or partly turn from a direct line shall first see that such movement can be made safely and, whenever the operation of any other vehicle may be affected by such movement, shall give the signals required in this article, plainly visible to the driver of such other vehicle, of his intention to make such movement.</p><p>Code 1950, § 46-233; 1958, c. 541, § 46.1-216; 1960, c. 113; 1989, c. 727.</p>

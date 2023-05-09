@@ -1,3 +1,0 @@
-# § 2.2-4323.1 Purchase of flags of the United States and the Commonwealth by public bodies.
-
-<p>Notwithstanding any provision of law to the contrary, whenever a state or local public body or school division purchases a flag of the United States or a flag of the Commonwealth for public use, such flag shall be made in the United States from articles, materials, or supplies that are grown, produced, and manufactured in the United States, if available.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0289'>289</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0297'>297</a>.</p>

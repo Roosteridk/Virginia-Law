@@ -1,3 +1,0 @@
-# § 33.2-1012 Limitations in Title 25.1 not applicable to Commissioner of Highways.
-
-<p>Except as to procedure, the Commissioner of Highways shall not be subject to any limitations in Title 25.1 in exercising the power of eminent domain pursuant to this title.</p><p>Code 1950, § 33-57.3; 1964, Ex. Sess., c. 23; 1970, c. 322, § 33.1-95; 1972, c. 765; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,3 +1,0 @@
-# § 58.1-3816.1 Discount for collection of taxes.
-
-<p>Any county, city or town which requires local businesses, or any class thereof, to collect, account for and remit to such locality a local tax imposed on the consumer, may allow such businesses a commission for such service in the form of a deduction from the tax remitted. Such commission shall be provided for by ordinance, which shall set the rate thereof, not to exceed five percent of the amount of tax due and accounted for. No deduction shall be allowed if the amount due was delinquent.</p><p>Code 1950, § 58-851.5:1; 1984, c. 168.</p>

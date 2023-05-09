@@ -1,3 +1,0 @@
-# § 58.1-3516.2 Payment of taxes on leased property by lessee; information to be furnished by lessor.
-
-<p>The lessor shall provide to every taxpayer that leases any motor vehicle pursuant to a contract that requires the lessee to pay the taxes thereon as provided for under this chapter, a written notice in bold print regarding the taxes to be paid by the lessee, and the lessor shall forward any such tax bill (or, in the case of a multi-vehicle tax bill issued to the lessor, a copy or facsimile of that portion of such bill that pertains to the lessee's vehicle) to the lessee within ten business days of receipt.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0398'>398</a>.</p>

@@ -1,3 +1,0 @@
-# § 6.2-431 Certain cards excepted.
-
-<p>Except as set forth in § <a href='http://law.lis.virginia.gov/vacode/6.2-428/'>6.2-428</a>, the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/6.2-424/'>6.2-424</a> through <a href='http://law.lis.virginia.gov/vacode/6.2-430/'>6.2-430</a> shall not apply to any credit card issued by any telephone company that is subject to supervision or regulation by the Commission.</p><p>1970, c. 324, § 11-34; 1990, c. 587; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

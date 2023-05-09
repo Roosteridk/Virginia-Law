@@ -1,3 +1,0 @@
-# § 37.2-510 Community services board; withdrawal of county or city.
-
-<p>No county or city participating in a joint community services board shall withdraw from it without providing two years' notice to the other participating counties or cities, unless the other counties or cities agree to an earlier withdrawal.</p><p>1968, c. 477, § 37.1-200; 1970, c. 346; 1972, c. 629; 1980, c. 582; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

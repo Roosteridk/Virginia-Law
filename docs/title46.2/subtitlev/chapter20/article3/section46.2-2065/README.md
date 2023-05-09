@@ -1,3 +1,0 @@
-# § 46.2-2065 Local regulation of qualifications of operators; stands.
-
-<p>The governing body of any county, city, or town may prescribe such reasonable regulations as to the character and qualifications of operators of any such vehicle as they deem proper and may provide for the designation and allocation, by the sheriff or chief of police, of stands for such vehicles and the persons who may use the same.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

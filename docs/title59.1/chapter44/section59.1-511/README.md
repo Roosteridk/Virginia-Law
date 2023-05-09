@@ -1,3 +1,0 @@
-# § 59.1-511 Calling time restrictions.
-
-<p>No telephone solicitor shall initiate, or cause to be initiated, a telephone solicitation call at any time other than between 8:00 a.m. and 9:00 p.m. local time at the called person's location, unless the telephone solicitor has obtained the prior consent of the called person.</p><p>2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0528'>528</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0553'>553</a>; 2004, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0202'>202</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0224'>224</a>.</p>

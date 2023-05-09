@@ -1,3 +1,0 @@
-# § 58.1-4040 Underage betting prohibited; penalty.
-
-<p>A. No person shall knowingly accept or redeem a sports bet by, or knowingly offer to accept or redeem a sports bet on behalf of, a person under the age of 21 years.</p><p>B. Any person convicted of violating this section is guilty of a Class 1 misdemeanor.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1218'>1218</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1256'>1256</a>.</p>

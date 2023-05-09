@@ -1,3 +1,0 @@
-# § 53.1-38 When ineligible for furloughs.
-
-<p>Any prisoner who is convicted of a felony included within the provisions of Chapter 4 (§ <a href='http://law.lis.virginia.gov/vacode/18.2-30/'>18.2-30</a> et seq.) of Title 18.2 or arson, burglary or robbery committed while on administrative furlough, shall, after conviction therefor, be ineligible for further furlough during the remainder of the sentence or sentences imposed upon him prior to furlough.</p><p>Code 1950, § 53-37.2; 1976, c. 210; 1982, c. 636.</p>

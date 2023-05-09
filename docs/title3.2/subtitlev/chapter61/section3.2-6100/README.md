@@ -1,3 +1,0 @@
-# § 3.2-6100 Definitions.
-
-<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Brand" means any recorded identification mark applied to any position on the hide of a live animal by means of heat, freezing, acid or chemical, except tattoo marks in the ear or numbers used to keep production records, record of age or identification marks used by any governmental agency.</p><p>"Livestock market" means a place where a person assembles livestock for public sale if such person is required to procure a license or permit from the Department to operate such market.</p><p>1974, c. 642, § 3.1-796.29; 1975, c. 283; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

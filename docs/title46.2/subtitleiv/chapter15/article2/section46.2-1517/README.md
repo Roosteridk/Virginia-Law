@@ -1,3 +1,0 @@
-# § 46.2-1517 Changes in form of ownership, make, name.
-
-<p>Any change in the form of ownership or the addition or deletion of a partner shall require a new application, license, and fee.</p><p>Any addition or deletion of a franchise or change in the name of a dealer shall require immediate notification to the Department and the Board, and the Board shall endorse the change on the license without a fee. The change of an officer or director of a corporation shall be made at the time of license renewal.</p><p>1988, c. 865, § 46.1-525.08; 1989, c. 727; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0767'>767</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0816'>816</a>.</p>

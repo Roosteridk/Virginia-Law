@@ -1,3 +1,0 @@
-# § 23.1-3219 Authority of Art and Architectural Review Board.
-
-<p>The Art and Architectural Review Board shall not control, manage, or supervise in any way the board in the exercise of its powers and duties, except that in the matter of additions, repairs, and alterations to the exterior of the Museum building the Art and Architectural Review Board shall continue to exercise the powers now conferred on it by law.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0367'>367</a>, § 23-253.6; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

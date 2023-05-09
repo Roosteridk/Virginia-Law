@@ -1,3 +1,0 @@
-# § 2.2-3129 Records of attendance.
-
-<p>Each state agency shall maintain records indicating the specific attendees, each attendee's job title, and dates of their attendance for each orientation course offered pursuant to § <a href='http://law.lis.virginia.gov/vacode/2.2-3128/'>2.2-3128</a> for a period of not less than five years after each course is given. These records shall be public records subject to inspection and copying consistent with § <a href='http://law.lis.virginia.gov/vacode/2.2-3704/'>2.2-3704</a>.</p><p>2004, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0134'>134</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0392'>392</a>.</p>

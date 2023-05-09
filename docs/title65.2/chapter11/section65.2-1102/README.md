@@ -1,3 +1,0 @@
-# § 65.2-1102 Disability defined.
-
-<p>For the purpose of this chapter, disability shall mean: (i) the partial or total loss or loss of use of an arm, hand, leg, foot, eye, finger, toe, or any combination of two or more thereof in an industrial accident and (ii) actual incapacity for work at the claimant's average weekly wage.</p><p>1975, c. 365, § 65.1-140; 1980, c. 599; 1991, c. 355.</p>

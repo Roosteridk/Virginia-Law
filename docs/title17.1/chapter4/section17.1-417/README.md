@@ -1,3 +1,0 @@
-# § 17.1-417 Support staff.
-
-<p>Each judge of the Court of Appeals shall be entitled to the services of such support staff as shall be authorized by and paid from the appropriation to the Court of Appeals.</p><p>1983, c. 413, § 17-116.014; 1984, c. 701; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0035'>35</a>.</p>

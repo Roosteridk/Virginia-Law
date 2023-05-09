@@ -1,3 +1,0 @@
-# § 38.2-1334.10 Sanctions.
-
-<p>Any insurer failing, without just cause, to timely file the ORSA summary report as required in this article shall be subject to the enforcement and penalty provisions set forth in Chapter 2 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-200/'>38.2-200</a> et seq.).</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0248'>248</a>.</p>

@@ -1,3 +1,0 @@
-# § 40.1-51.24 Department authorized to enter certain agreements.
-
-<p>The Department is hereby authorized to:</p><p>1. Make and enter into all contracts and agreements necessary or incidental to the performance of the Department's duties and the execution of its powers under this chapter including, but not limited to, contracts with the United States, other states, agencies, and governmental subdivisions of the Commonwealth.</p><p>2. Accept grants from the United States government, its agencies and instrumentalities, and any other source. To these ends, the Department shall have the power to comply with such conditions and execute such agreements as may be necessary and desirable.</p><p>1992, c. 541.</p>

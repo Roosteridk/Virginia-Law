@@ -1,3 +1,0 @@
-# § 32.1-196 Disposition of funds not needed for mosquito control.
-
-<p>Whenever funds accumulated by a mosquito control district are determined by the commission for such district to be no longer needed for the control of mosquitoes, such commission may transfer such funds as follows: (1) funds contributed by the Board, to the state treasury, (2) funds contributed by a county, city or town, to the treasury of such county, city or town, and (3) funds contributed by levy of a special tax upon property, to the treasury of the county, city or town wherein such property lies.</p><p>Code 1950, § 32-386.1; 1970, c. 391; 1979, c. 711.</p>

@@ -1,3 +1,0 @@
-# § 19.2-340.1 Disposition of fines in criminal cases.
-
-<p>When a law-enforcement officer of (i) the Department of State Police or (ii) any other division of the state government makes an arrest or issues a summons for a violation of a provision of the Code of Virginia, the person arrested or summoned shall be charged with a violation of that Code provision and shall not be charged with a substantially similar local ordinance. All fines collected upon conviction of any person so arrested or summoned shall be credited to the Literary Fund.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0749'>749</a>.</p>

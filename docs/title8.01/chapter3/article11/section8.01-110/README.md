@@ -1,3 +1,0 @@
-# § 8.01-110 Appointment of special commissioner to execute deed, etc.; effect of deed.
-
-<p>A court in a suit wherein it is proper to decree the execution of any deed or writing may appoint a special commissioner to execute the same on behalf of any party in interest and such instrument shall be as valid as if executed by the party on whose behalf it is so executed.</p><p>Code 1950, § 8-670; 1977, c. 617.</p>

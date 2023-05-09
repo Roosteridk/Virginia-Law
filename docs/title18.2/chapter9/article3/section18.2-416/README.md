@@ -1,3 +1,0 @@
-# § 18.2-416 Punishment for using abusive language to another.
-
-<p>If any person shall, in the presence or hearing of another, curse or abuse such other person, or use any violent abusive language to such person concerning himself or any of his relations, or otherwise use such language, under circumstances reasonably calculated to provoke a breach of the peace, he shall be guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 18.1-255; 1960, c. 358; 1975, cc. 14, 15.</p>

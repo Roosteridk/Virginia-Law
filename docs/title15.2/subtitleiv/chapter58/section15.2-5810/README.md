@@ -1,3 +1,0 @@
-# § 15.2-5810 Bonds are tax exempt.
-
-<p>The Authority shall not be required to pay any taxes or assessments of any kind whatsoever and its bonds, their transfer, the interest payable on them, and any income derived from them, including any profit realized in their sale or exchange, shall be exempt at all times from every kind and nature of taxation by this Commonwealth or by any of its political subdivisions, municipal corporations, or public agencies of any kind.</p><p>1992, c. 823, § 15.1-227.80; 1997, c. 587.</p>

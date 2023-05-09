@@ -1,3 +1,0 @@
-# § 15.2-3507 Result of election.
-
-<p>The ballots shall be counted, returns made and canvassed as in other elections and the results certified by the electoral boards to the judge or judges of the circuit courts for the localities. If it appears by the report of the electoral boards that a majority of the voters of each locality proposing to consolidate voting on the question submitted are in favor of the consolidation, the judge or judges shall enter of record such fact and shall notify the Secretary of the Commonwealth of such fact.</p><p>Code 1950, § 15-168; 1962, c. 623, § 15.1-1077; 1970, c. 751; 1978, c. 642; 1997, c. 587.</p>

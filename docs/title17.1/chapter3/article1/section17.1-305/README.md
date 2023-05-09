@@ -1,3 +1,0 @@
-# § 17.1-305 Special sessions.
-
-<p>The Supreme Court by an order entered of record, may direct a special session to be held at such time as it may deem proper.</p><p>A special session may also be held, by order of the Chief Justice in vacation, on the written request of the Governor to him, or whenever it is proper in the opinion of the Chief Justice. The time of holding the special session shall be designated in the order, which shall be directed to the clerk, who shall enter it in his record book and give notice thereof to each justice of the Court.</p><p>Code 1919, §§ 5884, 5885, §§ 17-100, 17-101; 1971, Ex. Sess., c. 51; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

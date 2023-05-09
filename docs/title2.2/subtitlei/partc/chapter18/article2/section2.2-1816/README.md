@@ -1,3 +1,0 @@
-# § 2.2-1816 How public moneys transferred to depositories.
-
-<p>All transfers of public moneys from one depository to another for any purpose shall be made by electronic funds transfer at the direction of the State Treasurer or his duly authorized deputies who shall order the transferor bank to make payment to the transferee bank for deposit to the credit of the State Treasurer.</p><p>Code 1950, § 2-188; 1966, c. 677, § 2.1-219; 1974, c. 232; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,1 +1,0 @@
-# 13 Mineral Mining Retaining Dams; Adjacent Owners

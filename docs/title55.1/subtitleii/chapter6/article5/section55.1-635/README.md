@@ -1,3 +1,0 @@
-# § 55.1-635 Acknowledgments before foreign officials who failed to affix seals.
-
-<p>All certificates of acknowledgment to deeds and other writings made and certified prior to July 1, 1995, before officials in any foreign country authorized by law to take and certify such acknowledgments, to which such officials failed to affix their official seals, shall be held and are hereby declared valid and effective in all respects if otherwise valid according to the law then in force.</p><p>1918, p. 108; Michie Code 1942, § 5209f; Code 1950, § 55-129; 1976, c. 685; 1984, c. 35; 1989, c. 602; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0048'>48</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

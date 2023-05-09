@@ -1,3 +1,0 @@
-# § 36-85.22 Set-up requirements; effect on insurance policies.
-
-<p>Manufactured homes shall be set-up in accordance with the Code.</p><p>In the event that a manufactured home is insured against damage caused by windstorm and subsequently sustains windstorm damage of a nature that indicated the manufactured home was not set-up in the manner required by this section, the insurer issuing the homeowner's insurance policy on the manufactured home shall not be relieved from meeting the obligations specified in the insurance policy with respect to such damage on the basis that the manufactured home was not properly set-up.</p><p>1991, c. 555; 1992, c. 223.</p>

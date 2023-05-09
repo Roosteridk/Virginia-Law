@@ -1,3 +1,0 @@
-# § 6.2-1101 Construction and application of chapter.
-
-<p>A. It is the intention of the General Assembly that this chapter shall be liberally construed to effect the purposes set out herein.</p><p>B. The provisions of this chapter shall apply to federal savings institutions and foreign savings institutions doing business in the Commonwealth insofar as the Commonwealth has the power to enact legislation with regard to them.</p><p>Code 1950, § 6-201.3; 1960, c. 402; 1966, c. 584, § 6.1-128; 1972, c. 796, § 6.1-195.3; 1985, c. 425, §§ 6.1-194.89, 6.1-194.90; 1991, c. 230, §§ 6.1-194.153, 6.1-194.154; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

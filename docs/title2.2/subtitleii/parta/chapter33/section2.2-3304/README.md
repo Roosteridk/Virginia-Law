@@ -1,3 +1,0 @@
-# § 2.2-3304 Display of flags on Mother's Day.
-
-<p>The Governor may issue annually a proclamation calling upon state officials to display the flag of the United States and of the Commonwealth on all public buildings, and the people of the Commonwealth to display such flags at their homes and other suitable places on the second Sunday in May, known as "Mother's Day," as a public expression of love and reverence for the mothers of the Commonwealth.</p><p>Code 1950, § 2-21; 1966, c. 677, § 2.1-24; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

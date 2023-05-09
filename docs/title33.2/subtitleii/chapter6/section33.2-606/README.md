@@ -1,3 +1,0 @@
-# § 33.2-606 Permission required to erect or maintain toll bridges over navigable water.
-
-<p>No toll bridge erected after March 19, 1928, shall be constructed, maintained, or operated across, in, or over any navigable waters in or of the Commonwealth, anything in the charter of any company to the contrary notwithstanding, unless a permit is first obtained from the Board. The Board may grant or withhold such permit or prescribe its terms and conditions, as it may deem for the best interest of the Commonwealth, except so far as such terms and conditions are provided for in this chapter.</p><p>Code 1950, § 33-221; 1970, c. 322, § 33.1-261; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

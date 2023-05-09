@@ -1,3 +1,0 @@
-# § 3.2-5637 Type registering weighbeams or automatic weight recorders required.
-
-<p>Type registering weighbeams or automatic weight recorders shall be installed and used with proper tickets for weighing livestock at all livestock auction markets.</p><p>Code 1950, §§ 3-708.41, 59-114.1; 1952, c. 387; 1954, c. 93; 1962, c. 298; 1966, c. 702, § 3.1-959; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

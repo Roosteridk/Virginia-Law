@@ -1,3 +1,0 @@
-# § 13.1-343 Application of general corporation laws.
-
-<p>The provisions of the Virginia Stock Corporation Act (§ <a href='http://law.lis.virginia.gov/vacode/13.1-601/'>13.1-601</a> et seq.) and of the Virginia Nonstock Corporation Act (§ <a href='http://law.lis.virginia.gov/vacode/13.1-801/'>13.1-801</a> et seq.) shall, to the extent that they are not in conflict with or inconsistent with the provisions of this Act, apply to associations subject to this Act, each of which shall establish and maintain a registered office and a registered agent and file the annual reports required by such Acts.</p><p>Code 1950, § 13-250; 1956, c. 428.</p>

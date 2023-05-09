@@ -1,3 +1,0 @@
-# § 33.2-1931 Resolution or ordinance.
-
-<p>A county or city may withdraw from the transportation district by resolution or ordinance, as may be appropriate, adopted by a majority vote of its governing body. The withdrawal of any county or city shall not be effective until the resolution or ordinance of withdrawal is filed with the transportation district commission and with the Secretary of the Commonwealth.</p><p>1964, c. 631, § 15.1-1368; 1997, c. 587, § 15.1-4530; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

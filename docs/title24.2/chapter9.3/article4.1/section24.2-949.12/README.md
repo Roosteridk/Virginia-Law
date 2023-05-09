@@ -1,3 +1,0 @@
-# § 24.2-949.12 Certain contributions received from federal political action and out-of-state political committees; political committee responsibilities.
-
-<p>Prior to accepting contributions of $10,000 or more in the aggregate in any calendar year from any one federal political action committee or out-of-state political committee, a political committee shall (i) request the federal political action committee's or out-of-state political committee's State Board of Elections registration number from the committee and (ii) verify that number with the State Board.</p><p>2006, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0771'>771</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0805'>805</a>, § 24.2-910.4.</p>

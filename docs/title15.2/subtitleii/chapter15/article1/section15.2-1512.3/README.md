@@ -1,3 +1,0 @@
-# § 15.2-1512.3 Telecommuting by local government employees.
-
-<p>Each local government is authorized and encouraged to establish and implement a telecommuting policy under which eligible employees of such local government may telecommute to the maximum extent possible without diminished employee performance or service delivery.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0405'>405</a>.</p>

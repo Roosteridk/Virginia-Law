@@ -1,3 +1,0 @@
-# § 8.01-479 Time for enforcement.
-
-<p>Property levied on, on or before the return day, may be advertised and sold within a reasonable time thereafter, and the lien given by this section may also be enforced after the return day of the writ by proceedings under § <a href='http://law.lis.virginia.gov/vacode/8.01-506/'>8.01-506</a> and following of this chapter, if such proceedings be commenced before that day.</p><p>Code 1950, § 8-412; 1977, c. 617; 1984, c. 557.</p>

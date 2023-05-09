@@ -1,3 +1,0 @@
-# § 32.1-122.08 Continuation of regulations.
-
-<p>Regulations promulgated by the Virginia Health Planning Board prior to July 1, 2002, concerning health planning and resources development shall remain in force and effect until any such regulation is amended, modified, or repealed by the Board.</p><p>1989, cc. 617, 633; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0083'>83</a>.</p>

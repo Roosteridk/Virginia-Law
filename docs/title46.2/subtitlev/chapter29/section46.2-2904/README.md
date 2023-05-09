@@ -1,3 +1,0 @@
-# § 46.2-2904 Certified escort vehicle driver training.
-
-<p>Every applicant for a Virginia escort vehicle driver certificate shall undergo and successfully complete an eight-hour training course presented by a business, organization, governmental entity, or individual that has been approved by the Department and that offers a course approved by the Department.</p><p>2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0312'>312</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0477'>477</a>.</p>

@@ -1,3 +1,0 @@
-# § 18.2-52 Malicious bodily injury by means of any caustic substance or agent or use of any explosive or fire.
-
-<p>If any person maliciously causes any other person bodily injury by means of any acid, lye or other caustic substance or agent or use of any explosive or fire, he shall be guilty of a felony and shall be punished by confinement in a state correctional facility for a period of not less than five years nor more than thirty years. If such act is done unlawfully but not maliciously, the offender shall be guilty of a Class 6 felony.</p><p>Code 1950, § 18.1-67; 1960, c. 358; 1975, cc. 14, 15, 604; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0439'>439</a>.</p>

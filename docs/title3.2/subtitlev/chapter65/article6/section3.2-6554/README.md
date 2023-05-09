@@ -1,3 +1,0 @@
-# § 3.2-6554 Disposal of dead companion animals.
-
-<p>The owner of any companion animal shall forthwith cremate, bury, or sanitarily dispose of the animal upon its death. If, after notice, any owner fails to do so, the animal control officer or other officer shall bury or cremate the companion animal, and he may recover on behalf of the local jurisdiction from the owner his cost for this service.</p><p>1984, c. 492, § 29-213.90; 1987, c. 488, § 3.1-796.121; 1993, c. 174; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0817'>817</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

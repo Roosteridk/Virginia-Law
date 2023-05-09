@@ -1,3 +1,0 @@
-# § 10.1-535 Bonds of officers and employees; records and accounts.
-
-<p>The district directors shall (i) provide for the execution of surety bonds for all employees and officers who shall be entrusted with funds or property; (ii) provide for the keeping of a full and accurate record of all proceedings and of all resolutions, regulations, and orders issued or adopted; and (iii) provide for an annual audit of the accounts of receipts and disbursements by the Auditor of Public Accounts or a certified public accountant approved by him.</p><p>Code 1950, § 21-50; 1970, c. 480; 1988, c. 891.</p>

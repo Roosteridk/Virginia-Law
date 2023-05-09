@@ -1,3 +1,0 @@
-# § 21-169 Relief from pollution to be purpose of commission.
-
-<p>The purposes of every commission shall be the relief of the tidal waters of the district from pollution and the consequent improvement of conditions affecting the public health and the natural oyster beds, rocks and shoals.</p><p>1938, p. 516; Michie Code 1942, § 1560mm.</p>

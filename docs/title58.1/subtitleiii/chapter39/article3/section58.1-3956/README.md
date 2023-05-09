@@ -1,3 +1,0 @@
-# § 58.1-3956 Collection in foreign jurisdiction.
-
-<p>When after the rendition of such a judgment or decree against a defendant it seems to the attorney for the county, city or town having charge thereof that there may not be found within the Commonwealth sufficient property of the defendant out of which the same may be enforced, but that the same could be enforced in some other jurisdiction, it shall be his duty to institute in some appropriate court, state or federal, in such foreign jurisdiction, any appropriate proceedings to enforce therein the payment of such judgment.</p><p>Code 1950, § 58-1018; 1984, c. 675.</p>

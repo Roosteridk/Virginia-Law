@@ -1,3 +1,0 @@
-# § 5.1-1.7 Suits to enjoin violations of title.
-
-<p>The Department may seek to enjoin any act in violation of any provision of this title, or of any rule or regulation promulgated under any provision of this title, by application for injunctive relief to the circuit court of the jurisdiction where the violation occurs, which shall give priority on its docket to suits brought by the Department.</p><p>1979, c. 272.</p>

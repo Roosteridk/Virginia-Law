@@ -1,3 +1,0 @@
-# § 38.2-2913 Liability.
-
-<p>There shall be no liability imposed on the part of, and no civil cause of action of any nature shall arise against, the Association or the stabilization reserve fund, their boards of directors, agents, and employees; any service carrier or its employees; any participating insurer or its employees; any licensed producer; the Commission, its authorized representatives, members or employees; or any committee established by the Association's board of directors or its members or employees for any statements or actions made in good faith in carrying out the provisions of this chapter.</p><p>1988, cc. 769, 783.</p>

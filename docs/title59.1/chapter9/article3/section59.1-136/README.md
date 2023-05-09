@@ -1,3 +1,0 @@
-# § 59.1-136 Pawnbrokers' auction sales exempted.
-
-<p>The provisions of this article shall not apply to pawnbrokers' auction sales of unredeemed pledges when public notice of the fact that watches are rebuilt or are secondhand is given prior to the sale.</p><p>Code 1950, § 59-161; 1968, c. 439.</p>

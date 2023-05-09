@@ -1,3 +1,0 @@
-# § 6.2-1301 Effect of ownership of a share account.
-
-<p>Ownership of a share account confers membership and voting rights as set forth in the credit union bylaws and represents an interest in the capital of the credit union upon dissolution or conversion to another type of institution.</p><p>1990, c. 373, § 6.1-225.2; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0063'>63</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>; 2022, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0675'>675</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0676'>676</a>.</p>

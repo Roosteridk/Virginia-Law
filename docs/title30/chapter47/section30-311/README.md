@@ -1,3 +1,0 @@
-# § 30-311 Staff; cooperation from other state agencies.
-
-<p>Administrative staff support shall be provided by the staffs of the House Committee on Appropriations and the Senate Committee on Finance and Appropriations. Additional assistance as needed shall be provided by the Auditor of Public Accounts, the Division of Legislative Services, the Virginia Economic Development Authority, or the Virginia Public Building Authority.</p><p>2009, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0246'>246</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0311'>311</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0830'>830</a>.</p>

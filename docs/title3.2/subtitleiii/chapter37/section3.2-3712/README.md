@@ -1,3 +1,0 @@
-# § 3.2-3712 Appeal from Commissioner's actions.
-
-<p>Any person aggrieved by any action of the Commissioner under provisions of this chapter shall have the right to review in accordance with the provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>1974, c. 647, § 3.1-126.10; 1986, c. 615; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0649'>649</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

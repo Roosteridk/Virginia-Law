@@ -1,3 +1,0 @@
-# § 46.2-1162 Inspection of certain trailers.
-
-<p>Any trailer required to be inspected under the provisions of this article may, only if the size or configuration of the trailer and the size and configuration of the facilities of the inspection station prevent the trailer from being inspected inside the inspection station, be inspected outside the inspection station. The provisions of this section shall apply only to trailers as defined in § <a href='http://law.lis.virginia.gov/vacode/46.2-100/'>46.2-100</a> and shall not apply to recreational vehicles commonly known as "motor homes" or to any vehicle required to be equipped with head lights.</p><p>1982, c. 159, § 46.1-317.2; 1989, c. 727.</p>

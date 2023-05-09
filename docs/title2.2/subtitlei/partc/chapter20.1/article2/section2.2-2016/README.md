@@ -1,3 +1,0 @@
-# § 2.2-2016 Division of Project Management established.
-
-<p>There is established within VITA a Division of Project Management (the Division). The CIO and the Division shall exercise the powers and duties conferred in this article.</p><p>2003, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0981'>981</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP1021'>1021</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0296'>296</a>.</p>

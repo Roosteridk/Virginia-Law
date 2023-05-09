@@ -1,3 +1,0 @@
-# § 50-73.10:1 Unlawful to transact or offer to transact business as a limited partnership unless authorized; penalty.
-
-<p>It shall be unlawful for any person to transact business in the Commonwealth as a limited partnership or to offer or advertise to transact business in the Commonwealth as a limited partnership unless the alleged limited partnership is either a domestic limited partnership or a foreign limited partnership authorized to transact business in the Commonwealth. Any person who violates this section shall be guilty of a Class 1 misdemeanor.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0631'>631</a>.</p>

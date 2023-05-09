@@ -1,3 +1,0 @@
-# § 3.2-4610 Inspection certificate prima facie evidence of facts stated.
-
-<p>Every inspection certificate issued by the Commissioner under the provisions of this chapter shall be received in all courts of the Commonwealth as prima facie evidence of the facts stated therein.</p><p>Code 1950, § 3-721; 1964, c. 214; 1966, c. 702, § 3.1-1002; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,3 +1,0 @@
-# § 58.1-3150 Duties of depository officers.
-
-<p>No treasurer or executive officer of any depository shall permit any public deposit to remain in any depository which is not a "qualified public depository" as defined in § <a href='http://law.lis.virginia.gov/vacode/2.2-4401/'>2.2-4401</a> and which is not secured pursuant to the Virginia Security for Public Deposits Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4400/'>2.2-4400</a> et seq.).</p><p>Code 1950, § 58-948; 1984, c. 675; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0364'>364</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0390'>390</a>.</p>

@@ -1,3 +1,0 @@
-# § 23.1-2625 Executive director.
-
-<p>The board shall appoint an executive director for the Center who, subject to the approval of the board, shall:</p><p>1. Exercise all powers and perform all duties imposed upon him by law;</p><p>2. Carry out the specific duties imposed upon him by the board; and</p><p>3. Employ such personnel and contract for such services as may be required to carry out the purposes of this article.</p><p>1977, c. 543, §§ 23-135.7:4, 23-135.7:5; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

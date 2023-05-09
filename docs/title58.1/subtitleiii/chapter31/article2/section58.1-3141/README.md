@@ -1,3 +1,0 @@
-# § 58.1-3141 Treasurer or other person shall not use public money except as provided by law.
-
-<p>No treasurer or any other person handling public money shall knowingly apply, disburse or use any part of the public money held by him in any manner or for any purpose other than the manner and purposes provided by law. Any violation of this section, when amount so applied, disbursed or used exceeds fifty dollars, shall constitute embezzlement.</p><p>Code 1950, § 58-929; 1984, c. 675.</p>

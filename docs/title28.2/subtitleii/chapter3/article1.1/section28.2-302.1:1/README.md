@@ -1,3 +1,0 @@
-# § 28.2-302.1:1 Fisherman Identification Program.
-
-<p>The Commission shall establish the Fisherman Identification Program, which shall be consistent with the National Saltwater Angler Registry Program. Those persons who purchase a license under this article shall not be required to register with the Fisherman Identification Program.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0484'>484</a>.</p>

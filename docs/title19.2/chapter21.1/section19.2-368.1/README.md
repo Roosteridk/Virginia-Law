@@ -1,3 +1,0 @@
-# § 19.2-368.1 Findings; legislative intent.
-
-<p>The General Assembly finds that many innocent persons suffer personal physical injury or death as a result of criminal acts or in their efforts to prevent crime or apprehend persons committing or attempting to commit crimes. Such persons or their dependents may thereby suffer disability, incur financial hardships or become dependent upon public assistance. The General Assembly finds and determines that there is a need for governmental financial assistance for such victims of crime. Therefore, it is the intent of the General Assembly that aid, care and support be provided by the Commonwealth as a matter of moral responsibility for such victims of crime.</p><p>1976, c. 605.</p>

@@ -1,3 +1,0 @@
-# § 6.2-2046 Civil penalties.
-
-<p>In addition to the authority conferred under §§ <a href='/vacode/6.2-2043/'>6.2-2043</a> and <a href='/vacode/6.2-2044/'>6.2-2044</a>, the Commission may impose a civil penalty not exceeding $1,000 upon any person who it determines, in proceedings commenced in accordance with the Commission's Rules, has violated any of the provisions of this chapter. For the purposes of this section, each separate violation shall be subject to the civil penalty herein prescribed. In the case of a violation of § <a href='/vacode/6.2-2027/'>6.2-2027</a>, each debt settlement services agreement entered into shall constitute a separate violation.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0785'>785</a>.</p>

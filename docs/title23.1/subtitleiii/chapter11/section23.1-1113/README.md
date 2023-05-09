@@ -1,3 +1,0 @@
-# § 23.1-1113 Bonds; surplus to be paid into state treasury.
-
-<p>When any institution fully meets and discharges its bonds, interest thereon, interest on any unpaid installments of interest on its bonds, and all costs and expenses in connection with any action or proceedings by or on behalf of the bondholders and pays in full or otherwise discharges all of its liabilities incurred pursuant to this chapter, such institution shall pay into the state treasury all such sums of money it receives pursuant to the provisions of this chapter or that are derived from any project erected pursuant to this chapter as may be in its possession or control.</p><p>1933, p. 91, § 23-28; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

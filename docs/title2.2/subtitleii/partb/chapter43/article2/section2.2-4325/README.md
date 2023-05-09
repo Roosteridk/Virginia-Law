@@ -1,3 +1,0 @@
-# § 2.2-4325 Preference for Virginia coal used in state facilities.
-
-<p>In determining the award of any contract for coal to be purchased for use in state facilities with state funds, the Department of General Services shall procure using competitive sealed bidding and shall award to the lowest responsive and responsible bidder offering coal mined in Virginia so long as its bid price is not more than four percent greater than the bid price of the low responsive and responsible bidder offering coal mined elsewhere.</p><p>1987, cc. 81, 91, § 11-47.1; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

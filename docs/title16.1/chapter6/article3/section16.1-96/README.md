@@ -1,3 +1,0 @@
-# § 16.1-96 What abstract to contain.
-
-<p>An abstract of a judgment rendered in a court not of record shall contain the information required by § <a href='http://law.lis.virginia.gov/vacode/8.01-449/'>8.01-449</a> for entry in the judgment dockets of courts of record, except that it shall not be necessary to include any information as to executions which have been issued thereon.</p><p>1956, c. 555.</p>

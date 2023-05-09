@@ -1,3 +1,0 @@
-# § 33.2-926 Chapter 20 of Title 15.2 not affected.
-
-<p>No provision of Articles 1 (§ <a href='http://law.lis.virginia.gov/vacode/33.2-900/'>33.2-900</a> et seq.), 2 (§ <a href='http://law.lis.virginia.gov/vacode/33.2-908/'>33.2-908</a> et seq.), or this article shall affect the provisions of Chapter 20 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-2000/'>15.2-2000</a> et seq.) of Title 15.2.</p><p>Code 1950, § 33-76.24; 1950, p. 737; 1970, c. 322, § 33.1-167; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,3 +1,0 @@
-# § 10.1-1242 Relationship to other land use law.
-
-<p>This chapter does not authorize a use of real property that is otherwise prohibited by zoning, by law other than this chapter regulating use of real property, or by a recorded instrument that has priority over the environmental covenant. An environmental covenant may prohibit or restrict uses of real property that are authorized by zoning or by law other than this chapter.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0691'>691</a>.</p>

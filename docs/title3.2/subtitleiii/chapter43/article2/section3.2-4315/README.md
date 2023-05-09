@@ -1,3 +1,0 @@
-# § 3.2-4315 Department may prepare and distribute labels, tags, and seals with Virginia Quality Label.
-
-<p>The Department may prepare labels, tags and seals impressed with the Virginia Quality Label and the shield of the United States. The Department may furnish the labels, tags, and seals at reasonable prices to any producer, processor, packer, or dresser whose agricultural and food product has been subject to such continuous official state or federal-state inspection service.</p><p>Code 1950, § 3-274; 1966, c. 702, § 3.1-353; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0317'>317</a>.</p>

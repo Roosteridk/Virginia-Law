@@ -1,3 +1,0 @@
-# § 15.2-1214 County may provide motor vehicle liability insurance to protect operators of motor vehicles owned or leased by county, school board, etc.
-
-<p>The governing body of any county may provide motor vehicle liability insurance for the purpose of protecting all operators of motor vehicles owned or leased by the county, the county school board, or any sanitary district, authority, or other governmental unit established by the governing body, and may make such appropriations and expenditures from any available funds for the purpose of paying such insurance. All previous expenditures for any such purpose by any county are ratified.</p><p>1966, c. 140, § 15.1-19.1; 1997, c. 587.</p>

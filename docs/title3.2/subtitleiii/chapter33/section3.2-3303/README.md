@@ -1,3 +1,0 @@
-# § 3.2-3303 Milk Commission powers preserved.
-
-<p>Nothing in this chapter shall be construed to diminish or limit the powers and responsibilities of the Milk Commission established by Chapter 32 of this title or to invalidate any action of the Milk Commission previously taken including any regulation adopted by the Milk Commission.</p><p> 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0706'>706</a>, § 3.1-461.4; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

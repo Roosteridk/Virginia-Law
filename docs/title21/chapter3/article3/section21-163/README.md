@@ -1,3 +1,0 @@
-# § 21-163 Oath and bond of members of commission.
-
-<p>Each member of the commission shall, before entering upon the discharge of his duties under this chapter, take and subscribe the oath of office required by Article II, Section 7 of the Constitution of Virginia and shall be bonded in accordance with § <a href='/vacode/2.2-1840/'>2.2-1840</a>, conditioned upon the faithful discharge of his duties.</p><p>1938, p. 514; 1942, p. 601; Michie Code 1942, § 1560kk; 1944, p. 73; 1946, p. 529; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0152'>152</a>.</p>

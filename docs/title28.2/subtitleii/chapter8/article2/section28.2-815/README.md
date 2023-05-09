@@ -1,3 +1,0 @@
-# § 28.2-815 Application for special permit.
-
-<p>Application for the special permit provided for in §§ <a href='http://law.lis.virginia.gov/vacode/28.2-810/'>28.2-810</a> and <a href='http://law.lis.virginia.gov/vacode/28.2-811/'>28.2-811</a> shall be made on forms provided by the Commissioner of Marine Resources before the removal, transportation or relaying of shellfish from condemned areas. This permit shall not be transferable.</p><p>Code 1950, § 28-162.1; 1960, c. 517; 1962, c. 406, § 28.1-179; 1966, c. 684; 1968, c. 745; 1979, c. 274; 1981, c. 52; 1986, c. 184; 1988, c. 600; 1992, c. 836.</p>

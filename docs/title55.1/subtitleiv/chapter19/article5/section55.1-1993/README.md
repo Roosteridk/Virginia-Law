@@ -1,3 +1,0 @@
-# § 55.1-1993 Properties subject to more than one declaration.
-
-<p>If the unit is subject to more than one declaration, the unit owners' association or its common interest community manager may charge the fee authorized by § <a href='/vacode/55.1-1992/'>55.1-1992</a> for each of the applicable associations, provided, however, that no association shall charge an inspection fee unless the association has architectural control over the unit.</p><p>2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0851'>851</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0871'>871</a>, § 55-79.97:2; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

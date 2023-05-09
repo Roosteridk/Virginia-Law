@@ -1,3 +1,0 @@
-# § 58.1-3219.16 Absence from residence.
-
-<p>The fact that surviving spouses who are otherwise qualified for tax exemption pursuant to this article are residing in hospitals, nursing homes, convalescent homes, or other facilities for physical or mental care for extended periods of time shall not be construed to mean that the real estate for which tax exemption is sought does not continue to be the sole dwelling of such persons during such extended periods of other residence, so long as such real estate is not used by or leased to others for consideration.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0248'>248</a>.</p>

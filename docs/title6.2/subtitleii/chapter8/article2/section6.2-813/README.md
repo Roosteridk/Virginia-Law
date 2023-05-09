@@ -1,3 +1,0 @@
-# § 6.2-813 Participation by banks in school thrift or savings plans.
-
-<p>A bank may contract with the principal of any elementary or secondary school, if authorized to do so by the school board in any locality where the bank has a location, for the bank to participate in a school thrift or savings plan. A participating bank may accept deposits at the school either by its own collector or by any representative of the school who becomes the agent of the bank for such purpose.</p><p>Code 1950, § 6-23.1; 1954, c. 160; 1966, c. 584, § 6.1-10; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

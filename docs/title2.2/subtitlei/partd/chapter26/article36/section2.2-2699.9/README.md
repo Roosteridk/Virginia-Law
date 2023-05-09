@@ -1,3 +1,0 @@
-# § 2.2-2699.9 Virginia Council on Environmental Justice.
-
-<p>The Virginia Council on Environmental Justice is established as an advisory council, within the meaning of § <a href='/vacode/2.2-2100/'>2.2-2100</a>, in the executive branch of state government. The purpose of the Council is to advise the Governor and provide recommendations that maintain a foundation of environmental justice principles intended to protect vulnerable communities from disproportionate impacts of pollution.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0113'>113</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1274'>1274</a>.</p>

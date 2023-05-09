@@ -1,3 +1,0 @@
-# § 8.01-260 Proper venue; preferred forum in certain actions; permissible forums for other actions.
-
-<p>Except for those actions expressly excluded from the operation of this chapter, and subject to the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/8.01-264/'>8.01-264</a> and <a href='http://law.lis.virginia.gov/vacode/8.01-265/'>8.01-265</a>, the venue for any action shall be deemed proper only if laid in accordance with the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/8.01-261/'>8.01-261</a> and <a href='http://law.lis.virginia.gov/vacode/8.01-262/'>8.01-262</a>.</p><p>1977, c. 617.</p>

@@ -1,3 +1,0 @@
-# § 55.1-413 Lien of subsequent purchaser for purchase money paid before notice.
-
-<p>As against any person claiming under the deed or other writing that has not been recorded before payment by a subsequent purchaser for valuable consideration of the whole or a part of his purchase money, such subsequent purchaser, notwithstanding such deed or other writing recorded before he becomes a complete purchaser, shall have a lien on the property purchased by him for so much of his purchase money as he may have paid before notice of such lien.</p><p>Code 1919, § 5200; Code 1950, § 55-104; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

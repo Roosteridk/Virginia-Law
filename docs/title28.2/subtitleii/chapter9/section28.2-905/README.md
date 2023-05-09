@@ -1,3 +1,0 @@
-# § 28.2-905 Resistance to officer or authorized person, etc.; penalty.
-
-<p>Any person found guilty of resisting or impeding an officer or other person authorized to make arrests, seizures, examinations or other performances of duties under this subtitle, shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 28-215; 1962, c. 406, § 28.1-191; 1992, c. 836.</p>

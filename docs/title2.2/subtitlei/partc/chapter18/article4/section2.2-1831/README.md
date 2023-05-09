@@ -1,3 +1,0 @@
-# § 2.2-1831 Sources or components of "general fund revenues.".
-
-<p>Any revised general fund revenue forecast presented to the General Assembly for purposes of this article shall consist of the same revenue sources or components as those on which the total general fund revenues appropriated are based.</p><p>1992, c. 316, § 2.1-191.4; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

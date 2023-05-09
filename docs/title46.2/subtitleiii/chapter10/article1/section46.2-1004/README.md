@@ -1,3 +1,0 @@
-# § 46.2-1004 Trademark or name and instructions required.
-
-<p>Each device or other equipment mentioned in § <a href='/vacode/46.2-1002/'>46.2-1002</a> and offered for sale in the Commonwealth shall bear a trademark or name or be identified in keeping with the Superintendent's regulations and shall be accompanied by printed instructions as to the proper mounting, use, and candlepower or lumens of any bulbs to be used therewith and any particular methods of mounting or adjustments necessary to meet the requirements of this title and any regulation of the Superintendent.</p><p>Code 1950, § 46-312; 1958, c. 541, § 46.1-309; 1989, c. 727; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0393'>393</a>.</p>

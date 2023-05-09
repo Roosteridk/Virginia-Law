@@ -1,3 +1,0 @@
-# § 46.2-1311 Applicability of county ordinances within towns.
-
-<p>Any traffic ordinance adopted by the governing body of a county shall not apply within the limits of any town in which the traffic is regulated by town ordinances.</p><p>1958, c. 541, § 46.1-185; 1989, c. 727.</p>

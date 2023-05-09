@@ -1,3 +1,0 @@
-# § 22.1-254.02 Students transferring from a public school.
-
-<p>When a student transfers from a school division, such school division to the extent practicable, shall obtain written or electronic documentation of such transfer, in order to make an informed status classification of such student in an information management system prescribed by the Board of Education.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0422'>422</a>.</p>

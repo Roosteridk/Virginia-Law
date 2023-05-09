@@ -1,3 +1,0 @@
-# § 15.2-834 Department of public works.
-
-<p>The director of public works shall be head of the department of public works. He shall have charge of the construction and maintenance of county drains and all other public works and construction and care of public buildings, storerooms and warehouses. He shall have the custody of such equipment and supplies as the board authorizes. He shall exercise the powers conferred and perform the duties imposed upon him by the board.</p><p>Code 1950, § 15-384.54; 1960, c. 382; 1962, c. 623, § 15.1-767; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 36-27.01 Plan for alternative housing of persons displaced by condemnation, conversion, etc.
-
-<p>In any condemnation proceeding which involves the taking or conversion of properties populated by low and moderate income families in multi-family housing projects owned or controlled by the redevelopment and housing authority, or with respect to the development or redevelopment of any property owned or controlled by it, the authority shall adopt a plan of relocation identifying alternative housing for the persons who will be displaced. No conversion of multi-family housing complexes to industrial use shall be authorized prior to the identification of alternative housing required herein.</p><p>1983, c. 518.</p>

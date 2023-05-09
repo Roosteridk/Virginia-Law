@@ -1,3 +1,0 @@
-# § 55.1-2410 Trial by jury; judgment of court.
-
-<p>Upon a petition filed pursuant to § <a href='/vacode/55.1-2409/'>55.1-2409</a>, the court may impanel a jury to ascertain any facts that may be disputed and may set aside the verdict. The escheator may initiate a new inquest in accordance with § <a href='/vacode/55.1-2405/'>55.1-2405</a>.</p><p>Code 1919, § 498; Code 1950, § 55-177; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

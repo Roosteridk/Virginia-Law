@@ -1,3 +1,0 @@
-# § 38.2-4007 Adoption of bylaws.
-
-<p>Each burial society now authorized to do business in this Commonwealth shall, before the adoption of any bylaw or amendment, mail the proposed bylaw or amendment to the members and directors of the society, together with a notice of the time and place when the proposed bylaw or amendment will be considered.</p><p>Code 1950, §§ 38-145, 38-456; 1952, c. 317, §§ 38.1-532, 38.1-555; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 15.2-1203 Governing body may require treasurer to pay claims.
-
-<p>The governing body of any county may require the treasurer of the county to pay all claims or other obligations for which the governing body has appropriated funds. The treasurer of the county shall, before paying any funds as authorized by this section, first comply with § <a href='http://law.lis.virginia.gov/vacode/58.1-3132/'>58.1-3132</a>.</p><p>Code 1950, § 15-551.7; 1950, p. 415; 1962, c. 623, § 15.1-121; 1964, c. 413; 1997, c. 587.</p>

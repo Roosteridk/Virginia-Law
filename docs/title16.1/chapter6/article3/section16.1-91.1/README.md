@@ -1,3 +1,0 @@
-# § 16.1-91.1 Costs to be included in judgment on forthcoming bond.
-
-<p>The judge of a general district court, on giving judgment on a forthcoming bond, shall include in the costs of the judgment the clerk's fee as stated in subdivision A 21 of § <a href='http://law.lis.virginia.gov/vacode/17.1-275/'>17.1-275</a>; and the clerk shall not receive any fee or reward for any service he is required to perform by the provisions of § <a href='http://law.lis.virginia.gov/vacode/8.01-529/'>8.01-529</a>, except that specified in subdivision A 21 of § <a href='http://law.lis.virginia.gov/vacode/17.1-275/'>17.1-275</a>.</p><p>Code 1950, § 8-460; 1962, c. 10; 1977, c. 624.</p>

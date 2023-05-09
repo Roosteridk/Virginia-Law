@@ -1,3 +1,0 @@
-# § 5.1-37 Public waters and submerged lands.
-
-<p>The powers herein granted to counties, cities and towns include the power to establish, maintain and operate airports and landing areas and other air navigation facilities in, over and upon any public waters of this Commonwealth, or any submerged land under such public waters, within the limits or jurisdiction of or bordering on such counties, cities or towns.</p><p>Code 1950, § 5-26; 1966, c. 576.</p>

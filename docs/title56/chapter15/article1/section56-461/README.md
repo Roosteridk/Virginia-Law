@@ -1,3 +1,0 @@
-# § 56-461 Cost to Commonwealth in connection with construction of line to be paid by company.
-
-<p>The actual costs and expenses of the Commonwealth in the investigation by the Commonwealth Transportation Board of the application of any company for a permit, and in the supervision of the construction or installation of any of the works of the company, under the provisions of this chapter, shall be borne by such company, and paid before commencing the use of any road or street in either state highway system, under any permit of the Commonwealth Transportation Board, under the provisions of this chapter, which sum shall be paid into the state treasury to the credit of the state highway fund.</p><p>Code 1919, § 4037; 1926, p. 909.</p>

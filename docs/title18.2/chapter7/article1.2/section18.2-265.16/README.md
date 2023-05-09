@@ -1,3 +1,0 @@
-# § 18.2-265.16 Compliance with statutory provisions; civil immunity.
-
-<p>Absent gross negligence, recklessness, or willful misconduct, any pharmacy or retail distributor utilizing the system or written log in compliance with this article shall be immune from civil liability as a result of actions or omissions in carrying out such statutory duties.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0160'>160</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0252'>252</a>.</p>

@@ -1,3 +1,0 @@
-# § 22.1-289.021 Records and reports.
-
-<p>Every licensed or registered child day program and family day system shall keep such records and make such reports to the Superintendent as he may require. The forms to be used in the making of such reports shall be prescribed and furnished by the Superintendent.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0860'>860</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0861'>861</a>.</p>

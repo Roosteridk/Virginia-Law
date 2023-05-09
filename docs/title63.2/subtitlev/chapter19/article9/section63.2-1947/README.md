@@ -1,3 +1,0 @@
-# § 63.2-1947 Assistance by Office of the Attorney General.
-
-<p>The attorney for the Commonwealth or other attorney who has responsibility for representing a local department and local board may, with the prior consent of the Attorney General, obtain the assistance of the Office of the Attorney General in the conduct of litigation arising under this chapter.</p><p>1988, c. 906, § 63.1-274.8; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

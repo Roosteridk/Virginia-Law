@@ -1,3 +1,0 @@
-# § 6.2-510 Commission to investigate complaints; records to be open to public.
-
-<p>The Commission shall receive, investigate, and mediate complaints of violations of this chapter and shall keep all records pertaining to such complaints, investigations, and mediations open to the public. Nothing in this section shall toll the operation of subsection E of § <a href='http://law.lis.virginia.gov/vacode/6.2-505/'>6.2-505</a>.</p><p>1977, c. 589, § 59.1-21.26; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

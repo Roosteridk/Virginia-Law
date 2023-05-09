@@ -1,3 +1,0 @@
-# § 10.1-1502 Expenses of Commissioners and alternates.
-
-<p>The Commissioners and alternates shall be reimbursed out of moneys appropriated for such purposes all sums which they necessarily expend in the discharge of their duties as members of the Southeast Interstate Low-Level Radioactive Waste Commission.</p><p>1982, c. 518, § 32.1-238.8; 1988, c. 891.</p>

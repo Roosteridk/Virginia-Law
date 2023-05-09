@@ -1,3 +1,0 @@
-# § 37.2-302 Term of office and vacancy therein.
-
-<p>The Commissioner shall hold office at the pleasure of the Governor for a term coincident with that of the Governor making the appointment or until his successor shall be appointed and qualified. Vacancies shall be filled in the same manner as original appointments are made.</p><p>Code 1950, § 37-55; 1968, c. 477, § 37.1-41; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

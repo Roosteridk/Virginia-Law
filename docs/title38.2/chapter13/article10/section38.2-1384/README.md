@@ -1,3 +1,0 @@
-# § 38.2-1384 Assessment against insurers whose policies are valued.
-
-<p>The Commission is hereby authorized to assess against every insurer whose policies are valued a sum equal to the cost of valuation, which shall be collected by the Commission and paid directly into the state treasury and credited to the "Bureau of Insurance Special Fund -- State Corporation Commission" for the maintenance of the Bureau of Insurance as provided in subsection B of § <a href='http://law.lis.virginia.gov/vacode/38.2-400/'>38.2-400</a>.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0571'>571</a>.</p>

@@ -1,3 +1,0 @@
-# § 45.2-1403  Flame safety lamps.
-
-<p>No flame safety lamp shall be used for detecting methane. The Director shall determine whether flame safety lamps shall constitute approved devices for detecting oxygen deficiency. If flame safety lamps are approved for such purpose, the Director shall establish standards for their use and maintenance.</p><p>Code 1950, § 45-69.7; 1954, c. 191; 1966, c. 594, § 45.1-64; 1993, c. 442; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.297; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

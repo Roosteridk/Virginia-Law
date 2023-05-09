@@ -1,3 +1,0 @@
-# § 21-175 Approval of disposal methods.
-
-<p>The method proposed to be used by a commission for treating and disposing of sewage and industrial wastes so as to prevent the pollution of the tidal waters of the district, and any substantial change in such method, shall, before being finally adopted or used by the commission, be approved by the State Health Commissioner as effective and satisfactory for the purpose intended.</p><p>1938, p. 523; Michie Code 1942, § 1560uu.</p>

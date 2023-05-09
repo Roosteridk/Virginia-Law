@@ -1,3 +1,0 @@
-# § 56-513 Replacement of utility employees unwilling to work for Commonwealth.
-
-<p>In the event that any person or persons then employed by the utility in any such necessary positions shall fail to indicate an intention to work for the Commonwealth in operating the utility, when inquiry is made of such person by the Governor or his agent, the Governor shall immediately institute measures to employ another person or other persons to perform the required duties of anyone not indicating such intention. No person who upon such inquiry fails to indicate intention to work for the Commonwealth may thereafter claim the right to employment by the Commonwealth provided in § <a href='http://law.lis.virginia.gov/vacode/56-512/'>56-512</a>.</p><p>1952, c. 696.</p>

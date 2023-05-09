@@ -1,3 +1,0 @@
-# § 58.1-4128 Prohibition on persons under 21 years of age placing wagers and sports betting on youth sports; penalty.
-
-<p>A. No person shall wager on or conduct any wagering on the outcome of a game pursuant to the provisions of this chapter unless such person is 21 years of age or older. No person shall accept any wager from a person under age 21.</p><p>B. No person shall wager on or conduct any wagering on the outcome of a youth sports game. No person shall accept any wager from a person on a youth sports game.</p><p>C. Violation of this section is a Class 1 misdemeanor.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1197'>1197</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1248'>1248</a>.</p>

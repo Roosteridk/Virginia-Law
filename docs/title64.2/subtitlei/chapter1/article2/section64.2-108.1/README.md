@@ -1,3 +1,0 @@
-# § 64.2-108.1 References to former sections, articles, or chapters.
-
-<p>When any will, trust instrument, power of attorney, or other instrument refers to a section of the Code that, at the time the reference was made in the will, trust instrument, power of attorney, or other instrument, had been repealed and transferred in the same or a modified form to a new section, article, or chapter in Title 64.2, the reference shall be construed to refer to the latter in the absence of any intent to the contrary.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0089'>89</a>.</p>

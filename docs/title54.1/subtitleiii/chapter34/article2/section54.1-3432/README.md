@@ -1,3 +1,0 @@
-# § 54.1-3432 Supervision by pharmacist.
-
-<p>Every pharmacy shall be under the personal supervision of a pharmacist on the premises of the pharmacy.</p><p>Code 1950, § 54-478; 1958, c. 551; 1970, c. 650, § 54-524.51; 1988, c. 765.</p>

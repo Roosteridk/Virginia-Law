@@ -1,3 +1,0 @@
-# § 15.2-5801 Creation of Authority.
-
-<p>There is hereby established a body corporate and politic known as the Virginia Baseball Stadium Authority. The Authority is a political subdivision of the Commonwealth.</p><p>1992, c. 823, § 15.1-227.71; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0613'>613</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0629'>629</a>; 1997, c. 587.</p>

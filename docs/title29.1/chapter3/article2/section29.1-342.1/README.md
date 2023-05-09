@@ -1,3 +1,0 @@
-# § 29.1-342.1 Waterfowl blinds in locality where bird hunting with firearms prohibited.
-
-<p>The Department shall not license any stationary waterfowl blind in any area of Hunting Creek, Little Hunting Creek, or Dogue Creek in which the local governing body prohibits by ordinance the hunting of birds with a firearm.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0307'>307</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0308'>308</a>.</p>

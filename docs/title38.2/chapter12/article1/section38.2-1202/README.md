@@ -1,3 +1,0 @@
-# § 38.2-1202 Insuring power of reciprocals.
-
-<p>A reciprocal licensed to transact the business of insurance in this Commonwealth may write the classes of insurance enumerated in Article 2 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-101/'>38.2-101</a> et seq.) of Chapter 1 of this title, except life insurance, annuities, and title insurance.</p><p>Code 1950, § 38-543; 1952, c. 317, § 38.1-690; 1986, c. 562.</p>

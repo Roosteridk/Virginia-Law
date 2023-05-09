@@ -1,3 +1,0 @@
-# § 24.2-949.11 Out-of-state political committees; additional requirements.
-
-<p>Prior to accepting contributions of $10,000 or more in the aggregate in any calendar year from any other out-of-state political committee, an out-of-state political committee shall (i) request its State Board of Elections registration number from that other out-of-state political committee and (ii) verify that number with the State Board.</p><p>2006, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0771'>771</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0805'>805</a>, § 24.2-910.3.</p>

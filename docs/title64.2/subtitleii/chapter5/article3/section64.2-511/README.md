@@ -1,3 +1,0 @@
-# § 64.2-511 Powers of executor before qualification.
-
-<p>A person named in a will as executor shall not exercise the powers of executor until he qualifies as such by taking an oath and giving bond in the court or before the clerk where the will or an authenticated copy thereof is admitted to record, except that he may provide for the burial of the testator, pay reasonable funeral expenses, and preserve the estate from waste.</p><p>Code 1950, § 64-128; 1968, c. 656, § 64.1-136; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

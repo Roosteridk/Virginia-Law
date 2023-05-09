@@ -1,3 +1,0 @@
-# § 29.1-513 Daily and season bag limits as promulgated by Board regulations.
-
-<p>It shall be lawful to hunt wild birds and wild animals specified in this article within any applicable daily and season bag limits during the open seasons as may be provided by Board regulations.</p><p>Code 1950, § 29-135; 1960, c. 590; 1987, c. 488.</p>

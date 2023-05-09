@@ -1,3 +1,0 @@
-# § 59.1-134 Advertisement or display.
-
-<p>Any person, firm, partnership, association or corporation, or any agent or servant thereof, who advertises or displays in any manner a secondhand watch for sale or exchange shall state clearly in such advertisement or display that the watch is a secondhand watch.</p><p>Code 1950, § 59-159; 1968, c. 439.</p>

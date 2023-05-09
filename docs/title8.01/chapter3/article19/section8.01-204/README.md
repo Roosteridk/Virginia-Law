@@ -1,3 +1,0 @@
-# § 8.01-204 Notice of sale of real estate; when sale to be made.
-
-<p>When a levy is so made upon real estate, the officer making it shall post notice thereof, and of the time and place of sale, at such public places as may seem to him expedient, and at the front door of the courthouse of the political subdivision in which the real estate is, on a court day. The time of selling real estate shall be not less than sixty nor more than ninety days from the time of posting the notice at the courthouse door. And the sale shall take place at the premises or at the door of the courthouse, as the officer may deem most advisable.</p><p>Code 1950, § 8-767; 1977, c. 617.</p>

@@ -1,3 +1,0 @@
-# § 2.2-4311.1 Compliance with federal, state, and local laws and federal immigration law; required contract provisions.
-
-<p>All public bodies shall provide in every written contract that the contractor does not, and shall not during the performance of the contract for goods and services in the Commonwealth, knowingly employ an unauthorized alien as defined in the federal Immigration Reform and Control Act of 1986.</p><p>2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0598'>598</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0702'>702</a>.</p>

@@ -1,3 +1,0 @@
-# § 58.1-3933 Subsequent collection by treasurer of delinquent taxes on subjects other than real estate.
-
-<p>After delinquent taxes appear in the lists required by § <a href='http://law.lis.virginia.gov/vacode/58.1-3921/'>58.1-3921</a>, the governing body may require the treasurer to continue to collect the delinquent taxes on subjects other than real estate until the expiration of the applicable statute of limitations.</p><p>Code 1950, § 58-990; 1973, c. 467; 1984, c. 675; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0496'>496</a>.</p>

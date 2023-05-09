@@ -1,3 +1,0 @@
-# § 46.2-334.1 Knowledge test; waiting period prior to reexamination.
-
-<p>Any person under the age of eighteen who applies for a driver's license under § <a href='http://law.lis.virginia.gov/vacode/46.2-334/'>46.2-334</a> and fails the motor vehicle knowledge test administered pursuant to that section shall not be eligible for retesting for at least fifteen days.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP1035'>1035</a>.</p>

@@ -1,1 +1,0 @@
-# 3 Applications for Licenses and Permits; Fees; Taxes

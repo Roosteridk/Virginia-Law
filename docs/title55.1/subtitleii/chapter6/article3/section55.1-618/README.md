@@ -1,3 +1,0 @@
-# § 55.1-618 What person taking acknowledgment shall certify.
-
-<p>The person taking an acknowledgment shall certify that:</p><p>1. The person acknowledging appeared before him and acknowledged he executed the instrument; and</p><p>2. The person acknowledging was known to the person taking the acknowledgment or that the person taking the acknowledgment had satisfactory evidence that the person acknowledging was the person described in and who executed the instrument.</p><p>1970, c. 719, § 55-118.3; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

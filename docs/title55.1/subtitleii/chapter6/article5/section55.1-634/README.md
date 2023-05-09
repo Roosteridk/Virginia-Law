@@ -1,3 +1,0 @@
-# § 55.1-634 Acknowledgments taken by notaries in service during World War I.
-
-<p>All certificates of acknowledgment to deeds and other writings taken and certified in the Commonwealth prior to June 18, 1920, by notaries public who served in the army, navy, or marine corps of the United States during World War I shall be held and are hereby declared valid and effective in all respects if otherwise valid according to the law then in force.</p><p>1920, p. 69; Michie Code 1942, § 5209a; Code 1950, § 55-128; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

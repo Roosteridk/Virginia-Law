@@ -1,3 +1,0 @@
-# § 15.2-5332 Regulating practice and nursing in hospital.
-
-<p>An authority shall have power to determine and regulate the conditions under which the privilege of practicing within any hospital operated by the authority may be available to physicians, to promulgate reasonable rules governing the conduct of physicians and nurses while on duty in such hospital, and to establish and maintain a training school for nurses.</p><p>Code 1950, § 32-245; 1979, c. 719, § 15.1-1566; 1997, c. 587.</p>

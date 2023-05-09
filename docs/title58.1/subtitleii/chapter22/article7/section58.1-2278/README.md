@@ -1,3 +1,0 @@
-# § 58.1-2278 Equipment requirements.
-
-<p>A. All fuel dispensed at retail shall be dispensed from metered pumps that indicate the total amount of fuel measured through the pumps. Each pump shall be marked to indicate the type of fuel dispensed.</p><p>B. A highway vehicle that transports fuel in a tank that is separate from the fuel supply tank of the vehicle shall not have a connection from the transporting tank to the motor or to the supply tank of the vehicle.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0729'>729</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0758'>758</a>.</p>

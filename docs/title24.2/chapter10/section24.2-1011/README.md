@@ -1,3 +1,0 @@
-# § 24.2-1011 Ballot not to be carried away.
-
-<p>It shall be unlawful for any person to carry the official ballot furnished him by the officers of the election further than the voting booth, and should he, after receiving the ballot, conclude not to vote, he shall immediately return the ballot to the officers. Any person who (i) carries an official ballot or copy thereof beyond or away from the voting booth, except to the officers of election, or (ii) votes any ballot except the ballot received from the officers of election, shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 24-236; 1970, c. 462, § 24.1-269; 1993, c. 641.</p>

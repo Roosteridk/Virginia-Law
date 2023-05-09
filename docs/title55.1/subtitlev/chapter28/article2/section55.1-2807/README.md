@@ -1,3 +1,0 @@
-# § 55.1-2807 Statutes declaring watercourses lawful fences continued.
-
-<p>All acts declaring any river, stream, or watercourse, or any part thereof, or any boundary in any county, a lawful fence, or authorizing any court so to declare the same, or enacting a special fence law for any county or any part thereof, and all acts relating to the making or repairing of division fences in any county or in any part thereof that may be in force on the day before the Code of 1887 took effect, shall continue in force.</p><p>Code 1950, § 8-873; 1977, c. 624, § 55-303; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

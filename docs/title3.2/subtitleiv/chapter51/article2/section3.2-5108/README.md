@@ -1,3 +1,0 @@
-# § 3.2-5108 Sleeping arrangements.
-
-<p>The sleeping places for persons employed in any food establishment shall be separate and apart from the room in which food products are manufactured or stored, and no person shall sleep in any place where flour, meal, or any manufactured products thereof are manufactured or stored.</p><p>Code 1950, § 3-296; 1966, c. 702, § 3.1-375; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

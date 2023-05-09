@@ -1,3 +1,0 @@
-# § 56-59 Order required before acting as surety, guarantor, etc.
-
-<p>No public service company shall henceforth assume any obligation or liability as guarantor, endorser, surety or otherwise in respect to the securities of any other person, firm, association or corporation, when such securities are payable at periods of twelve months or more after the date thereof, without having first secured from the Commission an order authorizing it so to do.</p><p>1934, p. 222; Michie Code 1942, § 4073(4).</p>

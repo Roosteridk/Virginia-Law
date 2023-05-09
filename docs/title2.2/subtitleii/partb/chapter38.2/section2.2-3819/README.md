@@ -1,3 +1,0 @@
-# § 2.2-3819 Digitally certified government records.
-
-<p>Agencies may make digitally certified copies of electronic records available, provided that such records are created in accordance with the standards developed pursuant to § <a href='http://law.lis.virginia.gov/vacode/2.2-3818/'>2.2-3818</a>. An agency may charge a fee not to exceed $5 for a digitally certified copy of a record provided pursuant to this chapter.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0738'>738</a>.</p>

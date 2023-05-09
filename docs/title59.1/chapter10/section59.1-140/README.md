@@ -1,3 +1,0 @@
-# § 59.1-140 Effect of chapter upon municipal regulation.
-
-<p>Nothing contained in this chapter shall:</p><p>Affect any existing ordinance, rule or regulation of any city or municipality in this Commonwealth that is not less restrictive than this chapter; or affect, modify or limit the power of such cities or municipalities to make ordinances, rules or regulations not less restrictive than this chapter, governing the storage, possession, sale and use of explosives within their respective corporate limits.</p><p>Code 1950, § 59-225; 1960, c. 578; 1968, c. 439.</p>

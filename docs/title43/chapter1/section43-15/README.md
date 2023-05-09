@@ -1,3 +1,0 @@
-# § 43-15 Inaccuracies in memorandum or description not affecting lien.
-
-<p>No inaccuracy in the memorandum filed, or in the description of the property to be covered by the lien, shall invalidate the lien, if the property can be reasonably identified by the description given and the memorandum conforms substantially to the requirements of §§ <a href='http://law.lis.virginia.gov/vacode/43-5/'>43-5</a>, <a href='http://law.lis.virginia.gov/vacode/43-8/'>43-8</a> and <a href='http://law.lis.virginia.gov/vacode/43-10/'>43-10</a>, respectively, and is not wilfully false.</p><p>Code 1919, § 6431.</p>

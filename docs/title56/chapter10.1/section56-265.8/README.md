@@ -1,3 +1,0 @@
-# § 56-265.8 Proceedings before Commission on or before July 1, 1950.
-
-<p>The provisions of this chapter shall not apply to or in any way affect any proceeding before the State Corporation Commission on or before July 1, 1950, and shall not confer on said Commission any jurisdiction not now vested in it with respect to any such proceeding.</p><p>1950, p. 601.</p>

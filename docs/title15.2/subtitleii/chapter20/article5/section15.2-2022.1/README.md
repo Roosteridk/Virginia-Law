@@ -1,3 +1,0 @@
-# § 15.2-2022.1 Turns into or out of certain residential areas; resident permits.
-
-<p>Notwithstanding the provisions of subsection A of § <a href='/vacode/15.2-2000/'>15.2-2000</a>, or any other provision of law, a county operating under the urban county executive form of government may by ordinance develop a program to issue resident permits or stickers to residents of a designated area that will allow such residents to make turns into or out of the designated area during certain times of the day when such turns would otherwise be restricted.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0305'>305</a>.</p>

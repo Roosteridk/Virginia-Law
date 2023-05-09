@@ -1,3 +1,0 @@
-# § 27-51 Exits from public halls, theaters and opera houses.
-
-<p>All owners or lessees of public halls, theaters or opera houses situated in any city or town, or in any county which has elected to come under the provisions of Article 1 (§ <a href='http://law.lis.virginia.gov/vacode/27-6.01/'>27-6.01</a> et seq.) of Chapter 2 of this title, shall provide suitable and sufficient exits from such buildings. The doors to the exits shall remain unlocked during all performances or public gatherings in the buildings, and shall in all cases open outwardly, and not inwardly.</p><p>Code 1919, § 3142; R. P. 1948, § 27-36.</p>

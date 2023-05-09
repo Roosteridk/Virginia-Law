@@ -1,3 +1,0 @@
-# § 46.2-115 Inapplicability of title on Tangier Island; adoption of local ordinances; penalties.
-
-<p>Except for this section, no provisions of this title shall apply in the Town of Tangier.</p><p>The council of the Town of Tangier may adopt such ordinances paralleling any provision of this title and adapt their provisions to suit the Town's unique situation. No penalty for any violation of any such ordinance, however, shall exceed the penalty imposed for a violation of the parallel provision of this title.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0670'>670</a>.</p>

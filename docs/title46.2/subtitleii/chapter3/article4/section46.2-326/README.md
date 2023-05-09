@@ -1,3 +1,0 @@
-# § 46.2-326 Designation of examiners; conduct of examination; reports.
-
-<p>The Commissioner shall designate persons within the Commonwealth to act for the Department in examining driver's license applicants. Any person so designated shall conduct examinations of driver's license applicants under this title and report his findings and recommendations to the Department.</p><p>Code 1950, § 46-366; 1958, c. 541, § 46.1-371; 1984, c. 780; 1989, cc. 705, 727.</p>

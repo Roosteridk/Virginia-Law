@@ -1,3 +1,0 @@
-# § 46.2-1111 Extension of loads beyond line of fender or body.
-
-<p>No vehicle shall carry any load extending more than six inches beyond the line of the fender or body. Nor shall such load exceed a total outside width as prescribed by §§ <a href='http://law.lis.virginia.gov/vacode/46.2-1105/'>46.2-1105</a> through <a href='http://law.lis.virginia.gov/vacode/46.2-1109/'>46.2-1109</a>.</p><p>Notwithstanding the foregoing provisions of this section, watercraft carried on vehicles may extend more than six inches beyond the line of the fender or body of such vehicle if the total width of watercraft and the carrier upon which it is carried does not exceed seventy-six inches.</p><p>Code 1950, § 46-330; 1958, c. 541, § 46.1-334; 1960, c. 280; 1979, c. 526; 1989, c. 727.</p>

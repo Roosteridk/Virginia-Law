@@ -1,3 +1,0 @@
-# § 58.1-1506 Time for payment of tax.
-
-<p>A. Except as provided in subsection B, the tax on the sale or use of an aircraft required to be licensed by this Commonwealth shall be paid by the purchaser or user of such aircraft and collected by the Commissioner prior to the time the owner applies to the Department of Aviation for, and obtains, a license therefor.</p><p>B. The tax on the gross receipts from each aircraft licensed for commercial use shall be paid by the dealer to the Commissioner on or before the twentieth day of each month.</p><p>Code 1950, §§ 58-685.30, 58-685.32; 1974, c. 431; 1975, c. 424; 1977, c. 396; 1980, c. 109; 1984, cc. 370, 675.</p>

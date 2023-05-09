@@ -1,3 +1,0 @@
-# § 18.2-273 Report of conviction to Department of Motor Vehicles.
-
-<p>The clerk of every court of record and the judge of every court not of record shall, within thirty days after final conviction of any person in his court under the provisions of this article, report the fact thereof and the name, post-office address and street address of such person, together with the license plate number on the vehicle operated by such person to the Commissioner of the Department of Motor Vehicles who shall preserve a record thereof in his office.</p><p>Code 1950, § 18.1-61; 1960, c. 358; 1975, cc. 14, 15.</p>

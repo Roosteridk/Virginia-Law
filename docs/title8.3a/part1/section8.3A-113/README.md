@@ -1,3 +1,0 @@
-# § 8.3A-113 Date of instrument.
-
-<p>(a) An instrument may be antedated or postdated. The date stated determines the time of payment if the instrument is payable at a fixed period after date. Except as provided in § <a href='http://law.lis.virginia.gov/vacode/8.4-401/'>8.4-401</a> (c), an instrument payable on demand is not payable before the date of the instrument.</p><p>(b) If an instrument is undated, its date is the date of its issue or, in the case of an unissued instrument, the date it first comes into possession of a holder.</p><p>Code 1950, §§ 6-358, 6-363, 6-364, 3-369; 1964, c. 219, § 8.3-114; 1992, c. 693.</p>

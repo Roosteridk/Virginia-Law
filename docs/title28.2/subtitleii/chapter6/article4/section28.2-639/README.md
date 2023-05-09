@@ -1,3 +1,0 @@
-# § 28.2-639 Certain public oyster rocks in Rappahannock River.
-
-<p>Russ' Rock and Little Carter's Rock are declared to be public oyster rocks, beds, and shoals and unassignable to any person for private use, in the same manner and to the same extent as if the rocks, beds, and shoals had been within the original Baylor survey.</p><p>Code 1950, § 28-203; 1962, c. 406, § 28.1-149; 1992, c. 836.</p>

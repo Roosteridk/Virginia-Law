@@ -1,3 +1,0 @@
-# § 45.2-2112  Abandoning exploration hole; affidavits required.
-
-<p>Within 45 days after the abandonment of any exploration hole, the permittee shall notify the Director that such exploration hole has been plugged and abandoned, giving the location of the hole. The permittee shall submit an affidavit setting forth the time and manner in which the hole was plugged and filled. One copy of the affidavit shall be retained by the permittee, one shall be sent to the State Geologist, and the third shall be sent to the Director.</p><p>1982, c. 269, § 45.1-276; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

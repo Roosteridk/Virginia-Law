@@ -1,3 +1,0 @@
-# § 63.2-607.1 Eligibility for TANF; drug-related felonies.
-
-<p>A person who is otherwise eligible to receive TANF assistance shall be exempt from the application of § 115(a)(1) of the federal Personal Responsibility and Work Opportunity Reconciliation Act of 1996, P.L. 104-193, and shall not be denied such assistance solely because he has been convicted of a drug-related felony.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0221'>221</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0361'>361</a>.</p>

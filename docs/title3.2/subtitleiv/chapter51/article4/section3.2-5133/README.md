@@ -1,3 +1,0 @@
-# § 3.2-5133 Failure to obey such notice and warning a misdemeanor.
-
-<p>Any person owning or operating any place where any food or drink products are manufactured, stored, deposited, or sold, failing to obey such notice and warning, or permitting filthy or unsanitary conditions to exist after a notice of previous violation has been issued, provided the violation occurred within 90 days after notice and warning has been issued, is guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 3-328; 1956, c. 528; 1966, c. 702, § 3.1-407; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

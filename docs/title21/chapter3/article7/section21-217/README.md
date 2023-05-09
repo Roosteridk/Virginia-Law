@@ -1,3 +1,0 @@
-# § 21-217 Powers conferred on counties, cities and towns in addition to other powers.
-
-<p>The powers conferred by this chapter on counties, cities and towns are in addition and supplemental to the powers conferred by any other law, and may be exercised by resolution of the governing bodies thereof without regard to the terms, conditions, requirements, restrictions or other provisions contained in any other law, general or special, or in any charter, except that where fees, rents and charges are fixed by a city or town, that power shall be exercised by ordinance.</p><p>1938, p. 527; Michie Code 1942, § 1560bbb.</p>

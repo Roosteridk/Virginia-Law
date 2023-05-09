@@ -1,3 +1,0 @@
-# § 3.2-6004 Regulation for the separation and caring for diseased animals.
-
-<p>The Board may adopt regulations and the State Veterinarian may give and enforce directions and orders as to separating, feeding, and caring for diseased or exposed animals as necessary to prevent the animals affected with disease, or capable of communicating disease, from coming in contact with livestock or poultry not so affected.</p><p>Code 1950, § 3-572; 1966, c. 702, § 3.1-730; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

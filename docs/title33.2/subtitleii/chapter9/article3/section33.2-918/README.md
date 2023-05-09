@@ -1,3 +1,0 @@
-# § 33.2-918 Petition for public hearing on proposed abandonment.
-
-<p>If one or more landowners affected by a proposed abandonment file a petition for a public hearing with the governing body within 30 days after notice is posted and published, the governing body shall hold a public hearing in the county for the consideration of the proposed abandonment.</p><p>Code 1950, § 33-76.17; 1950, p. 735; 1970, c. 322, § 33.1-160; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

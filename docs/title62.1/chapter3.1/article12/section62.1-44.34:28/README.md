@@ -1,3 +1,0 @@
-# § 62.1-44.34:28 Council to submit annual report.
-
-<p>The Council shall submit a report annually to the Secretaries of Natural and Historic Resources and Transportation and Public Safety, which includes (i) an evaluation of the emergency response preparedness activities undertaken and the emergency response activities conducted during the year and (ii) a description of the activities of the Council during the year.</p><p>1990, c. 598; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0401'>401</a>.</p>

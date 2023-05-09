@@ -1,3 +1,0 @@
-# § 58.1-1104 To what extent dairies taxable on intangible personal property.
-
-<p>That part of the dairy business which consists of the purchase, pasteurization and sale of milk and cream and the production and sale of buttermilk, as well as that part of the dairy business which consists of the manufacture of butter, condensed milk, evaporated milk, ice cream mix, ice cream, milk powder and cheese, is hereby declared to be subject to the intangible personal property tax under § <a href='http://law.lis.virginia.gov/vacode/58.1-1100/'>58.1-1100</a> and shall therefore not be taxable as a merchant under state or local law.</p><p>Code 1950, § 58-416; 1982, c. 633; 1984, c. 675.</p>

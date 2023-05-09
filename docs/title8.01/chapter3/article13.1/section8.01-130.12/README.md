@@ -1,3 +1,0 @@
-# § 8.01-130.12 When distress not unlawful because of irregularity, etc.
-
-<p>When distress is made for rent justly due and any irregularity or unlawful act is afterwards done by the party distraining, or his agent, the distress itself shall not be deemed to be unlawful, nor is the party making it therefore deemed a trespasser ab initio. The party aggrieved by such irregularity or unlawful act may, by action, recover full satisfaction for the special damage he has sustained thereby.</p><p>Code 1919, § 5527; Code 1950, § 55-236; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

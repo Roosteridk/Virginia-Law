@@ -1,3 +1,0 @@
-# § 18.2-40 Lynching deemed murder.
-
-<p>Every lynching shall be deemed murder. Any and every person composing a mob and any and every accessory thereto, by which any person is lynched, shall be guilty of murder, and upon conviction, shall be punished as provided in Article 1 (§ <a href='http://law.lis.virginia.gov/vacode/18.2-30/'>18.2-30</a> et seq.) of this chapter.</p><p>Code 1950, § 18.1-29; 1960, c. 358; 1975, cc. 14, 15.</p>

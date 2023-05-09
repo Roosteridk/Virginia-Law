@@ -1,3 +1,0 @@
-# § 46.2-1124 Maximum single axle weight, generally; maximum weight per inch of tire width.
-
-<p>The single axle weight of any vehicle or combination shall not exceed 20,000 pounds, nor shall it exceed 650 pounds per inch, width of tire, measured in contact with the surface of the highway.</p><p>Code 1950, § 46-334; 1952, c. 454; 1956, cc. 141, 476; 1958, c. 541, § 46.1-339; 1962, c. 84; 1964, c. 354; 1974, c. 145; 1981, c. 187; 1982, c. 671; 1983, c. 515; 1987, c. 695; 1989, c. 727.</p>

@@ -1,3 +1,0 @@
-# § 24.2-662 Procedure when paper ballots exceed names on pollbooks.
-
-<p>If the ballots in the container exceed the number of names on the pollbooks of persons who voted on paper ballots, all ballots shall be replaced in the ballot container. Then, after the container is well shaken, an officer of election, being blindfolded, shall withdraw a sufficient number of ballots to reduce the number of ballots left in the container to the number of such names on the pollbooks. The drawn ballots shall be set aside and not counted.</p><p>Code 1950, § 24-263; 1970, c. 462, § 24.1-139; 1983, c. 461; 1993, c. 641; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP1015'>1015</a>.</p>

@@ -1,3 +1,0 @@
-# § 2.2-504 Contingent and traveling expenses.
-
-<p>The Attorney General may expend for the contingent expenses of his office the sums appropriated for his office by the General Assembly. The Attorney General, the deputy and assistant Attorneys General, and other employees of the office shall be reimbursed for actual travel expenses in the performance of their duties in accordance with § <a href='http://law.lis.virginia.gov/vacode/2.2-2823/'>2.2-2823</a>.</p><p>Code 1950, § 2-97; 1966, c. 677, § 2.1-133; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,3 +1,0 @@
-# § 19.2-185 Testimony may be reduced to writing and subscribed.
-
-<p>When the judge deems it proper the testimony of the witnesses may be reduced to writing, and, if required by him, shall be signed by them respectively.</p><p>The judge of the court of record to which the case may be or has been certified may order the testimony of the witnesses at the preliminary hearing to be reduced to writing.</p><p>Code 1950, § 19.1-105; 1960, c. 366; 1968, c. 639; 1975, c. 495.</p>

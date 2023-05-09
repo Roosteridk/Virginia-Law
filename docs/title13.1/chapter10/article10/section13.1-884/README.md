@@ -1,3 +1,0 @@
-# § 13.1-884 Authority to amend articles of incorporation.
-
-<p>A. A corporation may amend its articles of incorporation at any time to add or change a provision that is required or permitted in the articles or to delete a provision not required in the articles. Whether a provision is required or permitted in the articles of incorporation is determined as of the effective date of the amendment.</p><p>B. A member of the corporation does not have a vested property right resulting from any provision in the articles of incorporation, including provisions relating to management, control, capital structure, purpose, or duration of the corporation.</p><p>Code 1950, § 13.1-235; 1956, c. 428; 1985, c. 522.</p>

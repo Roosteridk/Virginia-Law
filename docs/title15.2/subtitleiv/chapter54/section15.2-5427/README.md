@@ -1,3 +1,0 @@
-# § 15.2-5427 Liability of members or officers.
-
-<p>No member of any authority or officer of any governing body of any member governmental unit creating such authority, or person or persons acting in their behalf, while acting within the scope of their authority shall be subject to any personal liability by reason of his carrying out of any of the powers expressly given in this chapter.</p><p>1979, c. 416, § 15.1-1630; 1997, c. 587.</p>

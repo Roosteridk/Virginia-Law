@@ -1,3 +1,0 @@
-# § 32.1-291.25 Relation to Electronic Signatures in Global and National Commerce Act.
-
-<p>This Act modifies, limits, and supersedes the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. § 7001 et seq., but does not modify, limit or supersede § 101(a) of that act, 15 U.S.C. § 7001, or authorize electronic delivery of any of the notices described in § 103(b) of that act, 15 U.S.C. § 7003(b).</p><p>2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0092'>92</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0907'>907</a>.</p>

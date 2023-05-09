@@ -1,3 +1,0 @@
-# § 38.2-134 Definitions to include other insurance of same general kind.
-
-<p>The definition of any class of insurance enumerated in this article shall include insurance against other loss, damage or liability of the same general nature or character, or of a similar kind, if the insurance may reasonably and properly be included in the definition and is not specifically included in the definition of some other class of insurance.</p><p>1952, c. 317, § 38.1-24; 1986, c. 562.</p>

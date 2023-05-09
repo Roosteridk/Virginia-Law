@@ -1,3 +1,0 @@
-# § 38.2-6013 Unfair trade practices.
-
-<p>A violation of this chapter shall be considered an unfair trade practice under Chapter 5 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-500/'>38.2-500</a> et seq.) of this title and subject to the penalties contained in that chapter.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0814'>814</a>, § 38.2-5707; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0717'>717</a>.</p>

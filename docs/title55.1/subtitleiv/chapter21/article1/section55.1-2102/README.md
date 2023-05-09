@@ -1,3 +1,0 @@
-# § 55.1-2102 Variation by agreement.
-
-<p>Except as expressly provided in this chapter, provisions of this chapter shall not be varied by agreement, and rights conferred by this chapter shall not be waived. A declarant shall not act under a power of attorney, or use any other device, to evade the limitations or prohibitions of this chapter or the declaration.</p><p>1982, c. 277, § 55-427; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

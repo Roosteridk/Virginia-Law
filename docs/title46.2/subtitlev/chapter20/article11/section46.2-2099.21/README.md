@@ -1,3 +1,0 @@
-# § 46.2-2099.21 Exemptions from operation of article.
-
-<p>This article shall not be construed to include:</p><p>1. Persons engaged in operating boats exclusively for fishing;</p><p>2. Persons engaged in operating boats that have (i) an approved passenger capacity of twenty-five or less persons and (ii) are operated as special or charter parties under this chapter; or</p><p>3. The City of Hampton when acting as a sight-seeing carrier by boat or special or charter party carrier by boat.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0813'>813</a>.</p>

@@ -1,1 +1,0 @@
-# 14 VIRGINIA PAINT LAW [Repealed]

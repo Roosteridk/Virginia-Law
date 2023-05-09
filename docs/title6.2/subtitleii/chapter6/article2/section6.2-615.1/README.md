@@ -1,3 +1,0 @@
-# § 6.2-615.1 Payment of multiple-fiduciary account.
-
-<p>Any multiple-fiduciary account may be paid, on request, (i) to any one or more fiduciaries, including any successor fiduciary upon proof showing that the successor fiduciary is duly authorized to act, or (ii) at the direction of any one or more of the fiduciaries. In determining the trustees duly authorized to act, the financial institution may rely on a certification of trust provided pursuant to § <a href='/vacode/64.2-804/'>64.2-804</a>.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0259'>259</a>.</p>

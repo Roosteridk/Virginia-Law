@@ -1,3 +1,0 @@
-# § 38.2-2109 Execution of policies.
-
-<p>The policy shall be executed by the proper officers of the insurer or insurers, whose signatures on the policy may be in facsimile.</p><p>Code 1950, § 38-179; 1950, p. 993; 1952, c. 317, § 38.1-368; 1977, c. 313; 1986, c. 562.</p>

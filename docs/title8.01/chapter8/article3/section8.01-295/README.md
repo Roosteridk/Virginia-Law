@@ -1,3 +1,0 @@
-# § 8.01-295 Territorial limits within which sheriff may serve process in his official capacity; process appearing to be duly served.
-
-<p>The sheriff may execute such process throughout the political subdivision in which he serves and in any contiguous county or city. If the process appears to be duly served, and is good in other respects, it shall be deemed valid although not directed to an officer, or if directed to any officer, though executed by some other person. This section shall not be construed to require the sheriff to serve such process in any jurisdiction other than in his own.</p><p>Code 1950, § 8-50; 1977, c. 617; 1982, c. 674.</p>

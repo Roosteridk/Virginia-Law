@@ -1,3 +1,0 @@
-# § 67-203 Submission of Plan.
-
-<p>Upon completion, the Division shall submit the Plan, including periodic updates thereto, to the Governor, the Commissioners of the State Corporation Commission, and the General Assembly. The Plan shall be submitted as provided in the procedures of the Division of Legislative Automated Systems for the processing of legislative documents. The Plan's executive summary shall be posted on the General Assembly's website.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0939'>939</a>.</p>

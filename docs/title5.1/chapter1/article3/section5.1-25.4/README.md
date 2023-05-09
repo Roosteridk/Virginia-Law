@@ -1,3 +1,0 @@
-# § 5.1-25.4 Injunctions.
-
-<p>If any person commences the erection of a structure of the nature described in § <a href='http://law.lis.virginia.gov/vacode/5.1-25.1/'>5.1-25.1</a> without securing the permit therein required, the Department shall have power to apply forthwith to the circuit court of the jurisdiction in which the structure is located or is to be located, for injunctive relief.</p><p>1968, c. 744; 1979, c. 272.</p>

@@ -1,3 +1,0 @@
-# § 33.2-265 Comprehensive roadside management program.
-
-<p>The Department shall promulgate regulations for a comprehensive roadside management program. Such program shall include opportunities for participation by individuals, communities, and local governments and shall address items, including safety, landscape materials, services, funding, recognition, and appropriate signing.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0679'>679</a>, § 33.1-223.2:9; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

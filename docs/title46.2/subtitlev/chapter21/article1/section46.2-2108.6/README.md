@@ -1,3 +1,0 @@
-# § 46.2-2108.6 Considerations for determination of issuance of permit, or certificate.
-
-<p>In determining whether a permit or certificate of fitness required by this chapter shall be issued, the Department may, among other things, consider compliance with financial responsibility, bonding, and other requirements of this chapter.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0881'>881</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0889'>889</a>; 2017, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0790'>790</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0815'>815</a>.</p>

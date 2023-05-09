@@ -1,3 +1,0 @@
-# § 55.1-2240 Filing fee.
-
-<p>The Board may by regulation establish reasonable fees for registration. All fees shall be remitted by the Board to the State Treasurer and shall be placed to the credit of the Common Interest Community Management Information Fund established pursuant to § <a href='/vacode/54.1-2354.2/'>54.1-2354.2</a>.</p><p>Code 1950, § 55-392; 1981, c. 462; 1985, c. 517, § 55-392.1; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0851'>851</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0871'>871</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

@@ -1,3 +1,0 @@
-# § 29.1-410 Disposition of funds.
-
-<p>The funds derived from the sale of the special permits shall be used by the Director for game and fish management purposes within the national forests in this Commonwealth, or, in the discretion of the Board, shall be paid into the United States treasury as a cooperative deposit for use of the United States Forest Service for game and fish management purposes within the national forests in Virginia.</p><p>Code 1950, § 29-119; 1987, c. 488.</p>

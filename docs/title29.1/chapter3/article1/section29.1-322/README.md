@@ -1,3 +1,0 @@
-# § 29.1-322 Residents of counties bordering on streams.
-
-<p>The residents of counties bordering a nontidal stream shall have the right to hunt, trap and fish when not otherwise prohibited by law or regulation in such stream opposite the shoreline of the county for which such resident has a county license. The residents of counties bordering a tidal stream shall have the right to hunt, trap and fish out to the low-water mark or as far as the county limits of the county for which he has a license extend.</p><p>Code 1950, § 29-60; 1987, c. 488.</p>

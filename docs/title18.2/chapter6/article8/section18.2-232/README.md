@@ -1,3 +1,0 @@
-# § 18.2-232 Same; punishment for violation of §§ 18.2-226 through 18.2-231.
-
-<p>Any person, firm, association or corporation or any officer, agent or employee thereof who shall violate any provision of §§ <a href='http://law.lis.virginia.gov/vacode/18.2-226/'>18.2-226</a> through <a href='http://law.lis.virginia.gov/vacode/18.2-231/'>18.2-231</a>, shall be guilty of a Class 3 misdemeanor; and a second or any subsequent offense shall be punishable as a Class 1 misdemeanor.</p><p>Code 1950, § 59.1-61; 1968, c. 439; 1975, cc. 14, 15.</p>

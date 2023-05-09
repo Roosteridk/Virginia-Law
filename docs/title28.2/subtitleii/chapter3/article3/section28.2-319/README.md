@@ -1,3 +1,0 @@
-# § 28.2-319 Forfeiture of fishing gear, etc.
-
-<p>Any net, pot, or other fishing device or gear used in violation of any of the provisions of this article shall be seized and forfeited to the Commonwealth. The forfeiture shall be enforced as provided in Chapter 22.1 (§ <a href='http://law.lis.virginia.gov/vacode/19.2-386.1/'>19.2-386.1</a> et seq.) of Title 19.2. The officer or other person seizing the property shall immediately give notice to the attorney for the Commonwealth.</p><p>Code 1950, § 28-75; 1962, c. 406, § 28.1-72.1; 1981, c. 525; 1992, c. 836; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0283'>283</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0756'>756</a>.</p>

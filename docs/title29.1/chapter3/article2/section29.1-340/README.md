@@ -1,3 +1,0 @@
-# § 29.1-340 Hunting waterfowl from unlicensed blinds and without season license.
-
-<p>It shall be unlawful to hunt migratory waterfowl on the public waters and shores east of Interstate Route 95 in the Commonwealth from unlicensed stationary or floating blinds. For the purposes of this article, "public waters" means public waters that are navigable in fact. Any person hunting waterfowl or applying to license a stationary blind in public waters shall also have a season license to hunt and a state and federal duck stamp.</p><p>Code 1950, § 29-81; 1958, c. 38; 1964, c. 478; 1987, c. 488; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0415'>415</a>.</p>

@@ -1,3 +1,0 @@
-# § 3.2-5503 Pyroligneous or acetic acid not to be sold as vinegar.
-
-<p>The product made by the destructive distillation of wood known as pyroligneous acid, or acetic acid derived from other sources than fruit, grain, sugar or syrup, or a product in which any such acid shall be used, mixed or compounded, shall not be sold, offered or had in possession for sale as vinegar.</p><p>Code 1950, § 3-693; 1966, c. 702, § 3.1-902; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

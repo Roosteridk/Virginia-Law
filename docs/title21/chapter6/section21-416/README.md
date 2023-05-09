@@ -1,3 +1,0 @@
-# § 21-416 Collection of assessments on retired bonds.
-
-<p>All uncollected assessments levied for payment of principal of and interest on bonds of such project refunded and retired by the issuance of refunding bonds hereunder may be continued in force, and the proceeds of the collection thereof pledged and applied to the payment of principal of and interest on the refunding bonds issued in lieu of such original bonds, and if the outstanding bonds are retired at less than their par value in such manner as to reduce the bonded indebtedness of the project the assessments theretofore levied for the payment of such indebtedness may in the discretion of the board of viewers be proportionately reduced.</p><p>1934, p. 4; Michie Code 1942, § 1777a; 1954, c. 642.</p>

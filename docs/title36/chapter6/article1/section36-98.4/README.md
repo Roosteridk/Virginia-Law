@@ -1,3 +1,0 @@
-# § 36-98.4 Agritourism event buildings.
-
-<p>The Board shall appoint an Agritourism Event Structure Technical Advisory Committee, consisting of nine members. The nine members shall be appointed one each from the following: Virginia Farm Bureau Federation, the Virginia Agribusiness Council, the Virginia Wineries Association, the Virginia Craft Brewers Guild, a craft beverage manufacturer, the Virginia Association of Counties, the Virginia Fire Prevention Association, the Virginia Fire Services Board, and the Virginia Building and Code Officials Association.</p><p>2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0262'>262</a>.</p>

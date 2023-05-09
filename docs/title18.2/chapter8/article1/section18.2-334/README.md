@@ -1,3 +1,0 @@
-# § 18.2-334 Exception to article; private residences.
-
-<p>Nothing in this article shall be construed to make it illegal to participate in a game of chance conducted in a private residence, provided such private residence is not commonly used for such games of chance and there is no operator as defined in subsection 4 of § <a href='http://law.lis.virginia.gov/vacode/18.2-325/'>18.2-325</a>.</p><p>Code 1950, § 18.1-327; 1960, c. 358; 1975, cc. 14, 15; 1992, c. 423.</p>

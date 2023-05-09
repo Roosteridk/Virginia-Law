@@ -1,3 +1,0 @@
-# § 21-141 Short title.
-
-<p>This chapter may be known, designated and cited as the "Sanitation Districts Law of Nineteen Hundred and Thirty-Eight."</p><p>1938, p. 510; Michie Code 1942, § 1560hh.</p>

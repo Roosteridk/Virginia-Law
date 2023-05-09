@@ -1,3 +1,0 @@
-# § 6.2-928 Posting of notice; effect of posting notice.
-
-<p>Immediately upon closing any bank with the intention of proceeding under the provisions of this article, the Commissioner shall post an appropriate notice of closing at the main entrance of the bank. Upon the posting of said notice, (i) no judgment lien, attachment lien, or voluntary lien shall thereafter attach to any asset of the bank and (ii) no director, officer, or agent of the bank thereafter shall have authority to act on behalf of the bank or to convey, transfer, assign, pledge, mortgage, or encumber any asset thereof.</p><p>1983, c. 507, § 6.1-110.4; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

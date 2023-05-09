@@ -1,3 +1,0 @@
-# § 51.1-1170 Coordination of benefits.
-
-<p>The Board shall develop guidelines and procedures for the coordination of benefits and case management for participating employees entitled to benefits under the Act and supplemental disability benefits under this article. Such guidelines shall also address disability benefits for participating employees whose disability results from multiple injuries or illnesses, one or more of which is a work-related injury.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0701'>701</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0823'>823</a>.</p>

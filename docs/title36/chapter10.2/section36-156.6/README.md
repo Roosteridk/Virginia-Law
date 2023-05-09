@@ -1,3 +1,0 @@
-# § 36-156.6 Annual reports.
-
-<p>On or before December 1 of each year, the Department shall report to the Secretary of Commerce and Trade, the Governor, and the Chairmen of the House Committee on Appropriations and the Senate Committee on Finance and Appropriations on such other matters regarding the Fund as the Department may deem appropriate, including the amount of funding committed to projects from the Fund, or other items as may be requested by any of the foregoing persons to whom such report is to be submitted.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0956'>956</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0957'>957</a>.</p>

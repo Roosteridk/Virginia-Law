@@ -1,3 +1,0 @@
-# § 23.1-2639 Institutions receiving money allotted to Commonwealth under act of Congress.
-
-<p>The Comptroller shall receive from the U.S. Secretary of the Interior such sums of money as are allotted to the Commonwealth under and in accordance with the act of Congress approved August 30, 1890, and shall pay one-third to the treasurer of Virginia State University and two-thirds to the treasurer of the University, who shall receive and disburse the sums as required by section two of such act of Congress.</p><p>Code 1919, § 853, § 23-137; 1920, p. 493; 1979, c. 147; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

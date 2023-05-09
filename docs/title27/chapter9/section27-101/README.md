@@ -1,3 +1,0 @@
-# § 27-101 Injunction upon application.
-
-<p>Every court having jurisdiction under existing or any future law is empowered to and shall, upon the application of the local enforcing agency or State Fire Marshal, issue either a mandatory or restraining injunction in aid of the enforcement of, or in prevention of the violation of, any of the provisions of this law or any valid rule or regulation made in pursuance thereof. The procedure for obtaining any such injunction shall be in accordance with the laws then current governing injunctions generally except that the enforcing agency shall not be required to give bond as a condition precedent to obtaining an injunction.</p><p>1986, c. 429.</p>

@@ -1,3 +1,0 @@
-# § 15.2-1750 Governmental units authorized to appropriate or lend funds.
-
-<p>The governmental units which are parties of the agreement creating the academy or which arrange to have personnel trained at the academy are authorized to appropriate or lend funds; pay fees or charges for services; convey by sale, lease or gift real or personal property, or any interest therein; provide services to the academy; or enter into such other contracts with the academy as may be appropriate to carry out any other power granted to those localities or the academy.</p><p>1993, c. 935, § 15.1-159.7:4; 1997, c. 587.</p>

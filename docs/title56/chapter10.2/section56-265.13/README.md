@@ -1,3 +1,0 @@
-# § 56-265.13 Chapter not applicable to certain hotel corporations.
-
-<p>No provision of this chapter shall apply to a corporation the principal business of which is the operation of a hotel and which may extend the use of its surplus water and sewerage facilities to a limited number of patrons.</p><p>1954, c. 669.</p>

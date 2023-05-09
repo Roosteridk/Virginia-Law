@@ -1,3 +1,0 @@
-# § 15.2-966 Establishment and operation of educational television stations.
-
-<p>Any locality may provide for the establishment, ownership, maintenance and operation of educational television stations within or outside the locality. The operation of any such station shall be under the direction of the school board of the locality establishing the station.</p><p>The facilities of any such station may be made available to any educational institution upon terms as may be agreed upon by the operating board of the station and the governing body of the institution.</p><p>Code 1950, § 15-15.3; 1960, c. 533; 1962, c. 623, § 15.1-23; 1997, c. 587.</p>

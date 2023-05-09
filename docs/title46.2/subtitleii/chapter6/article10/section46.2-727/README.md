@@ -1,3 +1,0 @@
-# § 46.2-727 Bicentennial license plates and decals; fees.
-
-<p>Bicentennial license plates and decals issued to any properly registered passenger motor vehicle from January 1, 1976, through December 31, 1981, may continue in use for a period determined by the Commissioner if the proper fee is paid as required in § <a href='http://law.lis.virginia.gov/vacode/46.2-694/'>46.2-694</a>.</p><p>1975, c. 206, § 46.1-105.5; 1980, c. 24; 1989, c. 727.</p>

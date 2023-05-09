@@ -1,3 +1,0 @@
-# § 66-23 Authority of superintendents with regard to application for operator's licenses and employment certificates.
-
-<p>The superintendents of facilities established by the Department shall have the authority, commensurate with that of a parent in like cases, to give consent for those children placed in their respective facilities to (i) application for a motor vehicle operator's license and (ii) issuance of an employment certificate.</p><p>Code 1950, § 53-334; 1977, c. 643; 1981, c. 487; 1982, c. 636, § 53.1-248; 1989, c. 733; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0164'>164</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0456'>456</a>.</p>

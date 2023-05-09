@@ -1,3 +1,0 @@
-# § 40.1-81.1 Records to be kept by employers.
-
-<p>Every employer employing minors under sixteen years of age shall keep a time book or time cards or other appropriate records for such minor employees which shall show the beginning and ending time of work each day together with the amount of time designated as a free-from-duty meal period, which is deductible from the schedule of hours of work. The record for the preceding twelve months for each such minor employee shall be kept on the premises for a period of thirty-six months from the date of the latest work period recorded for the minor employee involved.</p><p>1972, c. 480; 1982, c. 134; 1991, c. 511.</p>

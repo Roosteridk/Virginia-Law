@@ -1,3 +1,0 @@
-# § 53.1-97 Appointment of superintendent and guards.
-
-<p>The governing body of the county or city establishing and maintaining a farm may appoint a superintendent of the farm and necessary guards therefor who shall serve at the pleasure of the appointing authority.</p><p>Code 1950, § 53-197; 1982, c. 636.</p>

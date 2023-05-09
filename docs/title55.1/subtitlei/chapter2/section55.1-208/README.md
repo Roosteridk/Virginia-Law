@@ -1,3 +1,0 @@
-# § 55.1-208 How estate of a married person to pass at death.
-
-<p>When a married person, having title to any estate, dies intestate, such estate, or any part of such estate, shall pass according to the provisions of Chapter 2 (§ <a href='/vacode/64.2-200/'>64.2-200</a> et seq.) of Title 64.2, subject to his debts.</p><p>Code 1919, § 5138; Code 1950, § 55-46; 1990, c. 831; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

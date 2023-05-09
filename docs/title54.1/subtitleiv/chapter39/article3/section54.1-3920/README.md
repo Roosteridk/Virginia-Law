@@ -1,3 +1,0 @@
-# § 54.1-3920 Appointment and terms of members.
-
-<p>The members of the Board shall be appointed by the Supreme Court for five-year terms. Vacancies shall be filled by the Court for the full term of five years.</p><p>Code 1950, § 54-54; 1988, c. 765.</p>

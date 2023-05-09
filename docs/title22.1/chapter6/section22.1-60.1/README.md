@@ -1,3 +1,0 @@
-# § 22.1-60.1 Evaluation of superintendent.
-
-<p>Each local school board shall evaluate the division superintendent annually consistent with the performance objectives set forth in Guidelines for Uniform Performance Standards and Evaluation Criteria for Teachers, Administrators, and Superintendents as required by § <a href='http://law.lis.virginia.gov/vacode/22.1-253.13:5/'>22.1-253.13:5</a>.</p><p>1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP1030'>1030</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP1037'>1037</a>; 2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0331'>331</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0450'>450</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-608 Designation of officers to perform certain duties.
-
-<p>Whenever it is not designated herein what officer or employee of the county shall exercise any power or perform any duty conferred upon or required of the county, or any officer thereof, by general law, then any such power shall be exercised or duty performed by that officer or employee of the county so designated by the board.</p><p>Code 1950, § 15-310; 1962, c. 623, § 15.1-629; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 21-431 Payment of damages and costs.
-
-<p>If the leave prayed for be granted by the court, it shall be made a matter of record and the applicant shall, before he proceeds therein, pay or secure to the satisfaction of the parties entitled thereto the compensation, if any, ascertained by the commissioners and all the costs of the proceeding, including the sum of two dollars per day to each of the commissioners for each day that they may be engaged in executing the order aforesaid. And he shall make and keep open such cut, drain or culvert as he is allowed to make, at his own expense.</p><p>Code 1919, § 5296.</p>

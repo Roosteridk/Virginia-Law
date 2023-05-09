@@ -1,3 +1,0 @@
-# § 3.2-5217 Penalties.
-
-<p>Any violation of the provisions of this article or the regulations adopted hereunder, or failure to comply with such provisions or regulations, is a Class 1 misdemeanor and punished as provided by law. Each day of such failure or violation shall be a separate offense as such.</p><p>1970, c. 48, § 3.1-562.10; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

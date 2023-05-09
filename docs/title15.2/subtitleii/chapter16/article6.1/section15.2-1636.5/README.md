@@ -1,3 +1,0 @@
-# § 15.2-1636.5 Membership; compensation.
-
-<p>The Compensation Board shall consist of the Auditor of Public Accounts, the State Tax Commissioner, as ex officio members, and one member, who may or may not be an officer or employee of the Commonwealth, who shall be appointed and designated as chairman of the Board by the Governor and who shall hold office at the pleasure of the Governor. The ex officio members of the Board shall not receive any compensation for their services as such members. The member designated by the Governor as chairman shall receive such compensation as shall be fixed by law.</p><p>Code 1950, § 14-60; 1964, c. 386, § 14.1-48; 1983, c. 382; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

@@ -1,3 +1,0 @@
-# § 10.1-550 State agencies to cooperate.
-
-<p>Agencies of the Commonwealth which have jurisdiction over or administer any state-owned lands, and agencies of any political subdivision of the Commonwealth which have jurisdiction over or administer any publicly owned lands lying within the boundaries of any district, shall cooperate to the fullest extent with the district directors in the effectuation of programs and operations undertaken pursuant to this chapter. The district directors shall be given free access to enter and perform work upon such public-owned lands.</p><p>Code 1950, § 21-5; 1970, c. 480; 1988, c. 891.</p>

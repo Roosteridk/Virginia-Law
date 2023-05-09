@@ -1,3 +1,0 @@
-# § 56-554 Definitions.
-
-<p>For the purposes of this chapter:</p><p>"Hazardous liquid" means "hazardous liquid" and "highly volatile liquid" as defined in 49 C.F.R. § 195.2.</p><p>"Person" means an individual, corporation, partnership, association or other business entity or a trustee, receiver, assignee, or personal representative of any of these.</p><p>"Pipeline operator" means a person who owns and operates pipeline facilities as defined in 49 C.F.R. § 195.2.</p><p>"Interstate pipeline" and "intrastate pipeline" shall have the same meanings as defined in 49 C.F.R. § 195.2.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0512'>512</a>.</p>

@@ -1,3 +1,0 @@
-# § 19.2-78 Uniform of officer making arrest.
-
-<p>All officers whose duties are to make arrests acting under the authority of any law of this Commonwealth or any subdivision thereof, who shall make any arrest, search or seizure on any public road or highway of this Commonwealth shall be dressed at the time of making any such arrest, search or seizure in such uniform as he may customarily wear in the performance of his duties which will clearly show him to casual observation to be an officer.</p><p>Nothing in this section shall render unlawful any arrest, search or seizure by an officer who is not in such customary uniform.</p><p>Code 1950, §§ 19.1-95, 19.1-96; 1960, c. 366; 1975, c. 495.</p>

@@ -1,3 +1,0 @@
-# § 18.2-323.02 Prohibition against concealment of dead body; penalty.
-
-<p>Any person who transports, secretes, conceals or alters a dead body, as defined in § <a href='http://law.lis.virginia.gov/vacode/32.1-249/'>32.1-249</a>, with malicious intent and to prevent detection of an unlawful act or to prevent the detection of the death or the manner or cause of death is guilty of a Class 6 felony.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0436'>436</a>.</p>

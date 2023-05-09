@@ -1,3 +1,0 @@
-# § 2.2-404 Certifying records for use in other states.
-
-<p>Whenever any record of any court in the Commonwealth or of any department of the government is to be used in another state in the United States, the Secretary of the Commonwealth shall authenticate the same in the manner and give the certificates required by the laws of the state when such record is to be used, as far as practicable.</p><p>Code 1950, § 2-61; 1966, c. 677, § 2.1-69; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

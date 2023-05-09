@@ -1,3 +1,0 @@
-# § 22.1-43 Abolition of school board selection commission.
-
-<p>If the majority of votes cast in the referendum held as provided in § <a href='http://law.lis.virginia.gov/vacode/22.1-42/'>22.1-42</a> shall be for the proposition, the school board selection commission of the county shall be abolished. If the majority of the votes cast shall be against the proposition, the school board selection commission shall be retained.</p><p>Code 1950, § 22-79.5; 1970, c. 126; 1980, c. 559.</p>

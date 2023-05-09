@@ -1,3 +1,0 @@
-# § 5.1-1.3 Oath and bond of Director; salary.
-
-<p>The Director, before entering upon the discharge of his duties, shall take an oath that he will faithfully and impartially discharge and perform all the duties of his office, and he shall be bonded in accordance with § <a href='/vacode/2.2-1840/'>2.2-1840</a>. The Director shall receive such salary as may be appropriated for the purpose.</p><p>1979, c. 272; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0152'>152</a>.</p>

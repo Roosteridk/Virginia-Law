@@ -1,3 +1,0 @@
-# § 2.2-813.2 Biannual disclosure by Comptroller of other obligations of the Commonwealth.
-
-<p>To assist in the managing, planning, and budgeting of the state's financial resources, the Comptroller, in conjunction with the Secretary of Finance, shall report biannually to the Governor and the members of the General Assembly each off-balance sheet financial obligation of the Commonwealth, itemized by agency, board, institution, or authority of the Commonwealth, and such other obligations of the Commonwealth that are estimated by the Comptroller to be incurred.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0062'>62</a>.</p>

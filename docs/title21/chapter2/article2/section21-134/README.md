@@ -1,3 +1,0 @@
-# § 21-134 Deposit of proceeds.
-
-<p>The governing body may direct the treasurer to deposit the proceeds of the bond issue in such bank or banks as it may approve, to the credit of such treasurer, to be paid out on his checks therefor, and at the rate of interest to be specified, and all interest accrued therefrom shall be accounted for by the treasurer, and shall be expended for the purposes for which the bonds were issued, and insofar as not necessary therefor, shall be paid into the sinking fund to redeem the principal thereof at maturity.</p><p>1946, p. 182; Michie Suppl. 1946, § 1560z6.</p>

@@ -1,3 +1,0 @@
-# § 22.1-289.012 Local government to report business licenses issued to child day centers and family day homes.
-
-<p>The commissioner of the revenue or other local business license official shall report to the Department on a semiannual basis the name, address, and contact information of any child day center or family day home to which a business license was issued.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0860'>860</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0861'>861</a>.</p>

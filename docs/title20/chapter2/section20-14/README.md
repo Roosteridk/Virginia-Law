@@ -1,3 +1,0 @@
-# § 20-14 By whom license to be issued.
-
-<p>Every license for a marriage shall be issued by the clerk or deputy clerk of a circuit court of any county or city. If from any cause neither the clerk nor his deputy is able to issue the license, it may be issued by the judge of the circuit court of such county, or city, who shall make return thereof to the clerk as soon as there may be one.</p><p>Code 1919, § 5072; 1924, p. 398; 1948, p. 107; 1968, c. 318; 1977, c. 102; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0355'>355</a>.</p>

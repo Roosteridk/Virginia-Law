@@ -1,3 +1,0 @@
-# § 55.1-2812 Impounding animals.
-
-<p>Whenever any animal is found trespassing upon any grounds enclosed by a lawful fence, the owner or tenant of such enclosed grounds shall have the right to take up and impound such animal until the damages provided for pursuant to this article have been paid, or until such animal is taken under execution by the officer as provided by § <a href='/vacode/55.1-2811/'>55.1-2811</a>. The costs of taking up and impounding such animal shall be estimated as a part of the actual damage.</p><p>Code 1950, § 8-878; 1977, c. 624, § 55-308; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

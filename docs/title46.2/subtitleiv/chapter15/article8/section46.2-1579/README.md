@@ -1,3 +1,0 @@
-# § 46.2-1579 Equitable remedies not impaired.
-
-<p>The remedy at law provided by §§ <a href='http://law.lis.virginia.gov/vacode/46.2-1577/'>46.2-1577</a> and <a href='http://law.lis.virginia.gov/vacode/46.2-1578/'>46.2-1578</a> shall not in any manner impair the right to applicable equitable relief. That right to equitable relief is hereby preserved, notwithstanding the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/46.2-1577/'>46.2-1577</a> and <a href='http://law.lis.virginia.gov/vacode/46.2-1578/'>46.2-1578</a>.</p><p>1988, c. 865, § 46.1-550.5:38; 1989, c. 727.</p>

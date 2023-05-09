@@ -1,3 +1,0 @@
-# § 64.2-424 When direction to purchase annuity binding on legatee.
-
-<p>If a testator directs in his will that an annuity sufficient to provide income of at least $100 per month be purchased for a legatee, the legatee who is to receive the income from the annuity shall not have the right to instead take the sum directed to be used to purchase such annuity, except to the extent that the will expressly provides for such right or that an assignable annuity be purchased.</p><p>Code 1950, § 64-68.1; 1956, c. 448; 1968, c. 656, § 64.1-69; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0532'>532</a>.</p>

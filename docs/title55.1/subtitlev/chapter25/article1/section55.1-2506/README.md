@@ -1,3 +1,0 @@
-# § 55.1-2506 Contents of safe deposit box or other safekeeping repository.
-
-<p>All tangible and intangible property held in a safe deposit box or any other safekeeping repository in the Commonwealth in the ordinary course of the holder's business and all proceeds resulting from the lawful sale of this property shall be presumed abandoned if unclaimed by the owner for more than five years after the lease or rental period on the box or other repository has expired.</p><p>1985, c. 294, § 55-210.3:3; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

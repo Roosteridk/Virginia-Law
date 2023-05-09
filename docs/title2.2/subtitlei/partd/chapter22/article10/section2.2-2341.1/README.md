@@ -1,3 +1,0 @@
-# § 2.2-2341.1 Control over the use of certain vehicles.
-
-<p>Notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/46.2-916.3/'>46.2-916.3</a>, the Authority shall be solely responsible for regulating the operation of golf carts and utility vehicles within the Area of Operation. Regulations of the Authority shall provide that golf carts and utility vehicles may only be used by Authority staff and contractors engaged by the Authority while such staff and contractors are conducting the official business of the Authority.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0436'>436</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0482'>482</a>.</p>

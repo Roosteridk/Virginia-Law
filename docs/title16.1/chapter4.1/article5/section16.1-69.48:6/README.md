@@ -1,3 +1,0 @@
-# § 16.1-69.48:6 Fees for offenses related to sex trafficking.
-
-<p>The court shall order any person convicted of a misdemeanor violation of § <a href='/vacode/18.2-346.01/'>18.2-346.01</a> or of § <a href='/vacode/18.2-348/'>18.2-348</a> or <a href='/vacode/18.2-349/'>18.2-349</a> to pay a $100 fee, which shall be deposited into the Virginia Prevention of Sex Trafficking Fund to be used in accordance with § <a href='/vacode/9.1-116.4/'>9.1-116.4</a>.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0728'>728</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0188'>188</a>.</p>

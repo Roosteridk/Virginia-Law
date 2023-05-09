@@ -1,3 +1,0 @@
-# § 21-227 Court proceedings.
-
-<p>Wherever in this chapter the circuit court of any county, or the corporation court of any city, is authorized to accept any petitions or papers, make any order, hold any hearing, hear, consider and determine any question or do any other act or thing, such court, or a judge thereof in vacation, may do and perform the same.</p><p>1946, p. 365; Michie Suppl. 1946, § 1560iii26.</p>

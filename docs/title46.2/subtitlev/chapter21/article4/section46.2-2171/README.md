@@ -1,3 +1,0 @@
-# § 46.2-2171 Changes in tariffs.
-
-<p>No change shall be made in any rate or charge, or any rule, regulation, or practice affecting such rate or charge, or the value of the service thereunder, specified in any effective tariff of a household goods carrier, except after thirty days' notice of the proposed change. Such notice shall plainly state the change proposed to be made and the time when such change will take effect. The Department may, in its discretion and for good cause shown, allow such change upon notice less than that herein specified or modify the requirements of this section with respect to posting and filing of tariffs.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

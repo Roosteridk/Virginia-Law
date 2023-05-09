@@ -1,3 +1,0 @@
-# § 62.1-193.3 Administration, enforcement and penalty.
-
-<p>The Board of Agriculture and Consumer Services shall adopt rules and regulations to administer and enforce the provisions of this chapter. The Commissioner of Agriculture and Consumer Services or his authorized agent may seize any cleaning agent held for sale or distribution in violation of this chapter. The seized cleaning agents shall be considered forfeited.</p><p>Any person who knowingly sells, manufactures or distributes any cleaning agent in violation of the provisions of this chapter shall be guilty of a Class 1 misdemeanor. Any person who knowingly uses any cleaning agent in violation of the provisions of this chapter shall be guilty of a Class 4 misdemeanor.</p><p>1987, cc. 66, 67.</p>

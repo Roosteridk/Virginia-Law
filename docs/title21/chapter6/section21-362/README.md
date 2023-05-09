@@ -1,3 +1,0 @@
-# § 21-362 Notice to railroad.
-
-<p>The clerk of the circuit court shall have notice served upon the railroad company of the time and place of hearing of the final report of viewers under § <a href='http://law.lis.virginia.gov/vacode/21-361/'>21-361</a>, and the railroad company shall have the right to file objections to the report, and to appeal from the findings of the court in the same manner as any landowner, as provided in §§ <a href='http://law.lis.virginia.gov/vacode/21-292/'>21-292</a> through <a href='http://law.lis.virginia.gov/vacode/21-361/'>21-361</a>.</p><p>Code 1919, § 1767.</p>

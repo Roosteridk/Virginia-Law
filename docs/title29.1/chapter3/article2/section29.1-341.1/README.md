@@ -1,3 +1,0 @@
-# § 29.1-341.1 Number of stationary blinds permitted; when erected.
-
-<p>Notwithstanding the provisions of § <a href='/vacode/29.1-340/'>29.1-340</a>, clubs holding stationary waterfowl blind licenses in Virginia Beach may continue to renew stationary blinds in the public waters. In areas other than Virginia Beach, individuals who do not own riparian rights shall be permitted to license no more than two stationary blinds in the public waters in any one season. Stationary blinds shall be erected not later than November 1 of each year.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0422'>422</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0415'>415</a>.</p>

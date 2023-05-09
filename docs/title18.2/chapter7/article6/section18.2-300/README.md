@@ -1,3 +1,0 @@
-# § 18.2-300 Possession or use of "sawed-off" shotgun or rifle.
-
-<p>A. Possession or use of a "sawed-off" shotgun or "sawed-off" rifle in the perpetration or attempted perpetration of a crime of violence is a Class 2 felony.</p><p>B. Possession or use of a "sawed-off" shotgun or "sawed-off" rifle for any other purpose, except as permitted by this article and official use by those persons permitted possession by § <a href='http://law.lis.virginia.gov/vacode/18.2-303/'>18.2-303</a>, is a Class 4 felony.</p><p>Code 1950, § 18.1-268.2; 1968, c. 661; 1975, cc. 14, 15; 1978, c. 710; 1992, c. 580.</p>

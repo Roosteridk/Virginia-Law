@@ -1,3 +1,0 @@
-# § 6.2-1516 Reinstatement of license.
-
-<p>The Commission may reinstate any suspended license, or issue a new license to a person any license of whom has been revoked, if no fact or condition then exists that clearly would have warranted the Commission to refuse originally to issue a license under this chapter.</p><p>Code 1950, § 6-295; 1966, c. 584, § 6.1-265; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

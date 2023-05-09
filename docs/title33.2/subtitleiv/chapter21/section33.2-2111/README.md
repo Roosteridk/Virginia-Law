@@ -1,3 +1,0 @@
-# § 33.2-2111 Cooperation between districts and other political subdivisions.
-
-<p>Any district created pursuant to this chapter may enter into agreements with counties, cities, and towns or other political subdivisions of the Commonwealth, with the Metropolitan Washington Airports Authority, or with the Washington Metropolitan Area Transit Authority for joint or cooperative action in accordance with the standards and procedures set forth in § <a href='http://law.lis.virginia.gov/vacode/15.2-1300/'>15.2-1300</a>.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0611'>611</a>, § 33.1-441; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

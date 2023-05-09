@@ -1,3 +1,0 @@
-# § 15.2-3915 Transition of county to independent city requires no action of town council.
-
-<p>A county may become an independent city in accordance with the foregoing provisions of this chapter without the necessity of any action being taken by the council of any town situated in such county and without the necessity of separate referenda in any such town on the question of the transition of the county to a city.</p><p>1979, c. 85, § 15.1-977.16; 1997, c. 587.</p>

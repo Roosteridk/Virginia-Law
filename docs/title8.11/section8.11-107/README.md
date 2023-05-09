@@ -1,3 +1,0 @@
-# § 8.11-107 Transition provisions as to priorities.
-
-<p>Except as otherwise provided in this title, Titles 8.1 through 8.9 as amended through 1972 shall apply to any questions of priority if the positions of the parties were fixed prior to the effective date of this act of 1973. In other cases questions of priority shall be determined by this act of 1973.</p><p>1973, c. 509.</p>

@@ -1,3 +1,0 @@
-# § 45.2-1112  Technical specialists.
-
-<p>The Director may appoint technical specialists in the areas of roof control, electricity, ventilation, and other mine specialties. Each technical specialist shall have all the qualifications of a mine inspector plus any specialized knowledge required in his field. A technical specialist shall advise the Director and mine operators in the areas of his specialty and shall have the power of an inspector to issue a closure order only in a case of imminent danger.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0390'>390</a>, § 45.1-161.292:14; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

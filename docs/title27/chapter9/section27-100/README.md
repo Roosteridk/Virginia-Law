@@ -1,3 +1,0 @@
-# § 27-100 Violation a misdemeanor.
-
-<p>It shall be unlawful for any owner or any other person, firm, or corporation, on or after the effective date of any Code provisions, to violate any provisions of the Fire Prevention Code. Any such violation shall be deemed a Class 1 misdemeanor, and any owner, or any other person, firm, or corporation convicted of such violation shall be punished in accordance with the provisions of § <a href='http://law.lis.virginia.gov/vacode/18.2-11/'>18.2-11</a>.</p><p>1986, c. 429.</p>

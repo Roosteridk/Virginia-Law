@@ -1,3 +1,0 @@
-# § 10.1-413.1 Moormans State Scenic River.
-
-<p>The Moormans River in Albemarle County, from the Charlottesville Reservoir to its junction with the Mechums River, is hereby designated as the Moormans State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>1988, cc. 21, 300, 891; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0240'>240</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>.</p>

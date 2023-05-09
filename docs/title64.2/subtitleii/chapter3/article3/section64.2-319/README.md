@@ -1,3 +1,0 @@
-# § 64.2-319 Perfection of title of personal representative, heir or devisee.
-
-<p>If the title to any property to which this article applies is held by the surviving spouse at the time of the decedent's death, the personal representative or an heir or devisee of the decedent may institute an action to perfect title to the property. The personal representative has no fiduciary duty to discover or attempt to discover whether any property held by the surviving spouse is property to which this article applies, unless a written demand is made by an heir, devisee, or creditor of the decedent.</p><p>1982, c. 456, § 64.1-201; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

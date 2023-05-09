@@ -1,3 +1,0 @@
-# § 42.1-57 Authority of Library Board to accept and distribute federal funds.
-
-<p>The Library Board is empowered, subject to approval of the Governor, to accept grants of federal funds for libraries and to allocate such funds to libraries under any plan approved by the Board and the appropriate federal authorities. Such allocations shall not be subject to the restrictions of this chapter.</p><p>Code 1950, § 42-32.1; 1964, c. 325; 1970, c. 606; 1972, c. 167.</p>

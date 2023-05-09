@@ -1,3 +1,0 @@
-# § 54.1-1115.01 Responsibility for contracting with persons lacking the proper credential.
-
-<p>Any contractor that directly employs or otherwise contracts with a person who is not credentialed by the Board for work requiring a credential under this chapter shall be solely responsible for any monetary penalty or other sanction resulting from the act of employing or contracting with a person who lacks the proper credential based upon such person's failure to obtain or maintain the required credential.</p><p>2017, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0132'>132</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0135'>135</a>.</p>

@@ -1,3 +1,0 @@
-# § 63.2-1938 Commissioner may release lien or order or return seized property.
-
-<p>The Commissioner may at any time release a support lien, or order to withhold and deliver, on all or part of the property of the debtor, or return seized property without liability, if assurance of payment is deemed adequate by the Commissioner, or if such action will facilitate the collection of the debt, but such release or return shall not operate to prevent future action to collect from the same or other property.</p><p>1974, c. 413, § 63.1-265; 1976, c. 357; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

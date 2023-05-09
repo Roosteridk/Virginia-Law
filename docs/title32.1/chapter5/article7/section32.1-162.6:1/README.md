@@ -1,3 +1,0 @@
-# § 32.1-162.6:1 Possession or administration of cannabis oil.
-
-<p>Hospice and hospice facility employees who are authorized to possess, distribute, or administer medications to patients shall be permitted to store, dispense, or administer cannabis oil to a patient who has been issued a valid written certification for the use of cannabis oil in accordance with subsection B of § <a href='/vacode/54.1-3408.3/'>54.1-3408.3</a> and has registered with the Board of Pharmacy.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0846'>846</a>.</p>

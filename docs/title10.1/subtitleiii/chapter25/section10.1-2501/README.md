@@ -1,3 +1,0 @@
-# § 10.1-2501 Administration of the Fund.
-
-<p>All moneys received by the State Treasurer for the civil penalties and civil charges referred to in § <a href='http://law.lis.virginia.gov/vacode/10.1-2500/'>10.1-2500</a>, and all reimbursements received under § <a href='http://law.lis.virginia.gov/vacode/10.1-2502/'>10.1-2502</a> shall be and hereby are credited to the Fund. Interest earned on the Fund shall be credited to the Fund. The Fund shall be established on the books of the State Comptroller. Any moneys remaining in the Fund at the end of the biennium shall not revert to the general fund but shall remain in the Fund.</p><p>1991, c. 718; 1992, c. 887.</p>

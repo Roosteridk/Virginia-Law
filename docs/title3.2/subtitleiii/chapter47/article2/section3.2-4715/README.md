@@ -1,3 +1,0 @@
-# § 3.2-4715 Certified copy of license; fee; posting of license during sale periods.
-
-<p>A certified copy of an issued license may be obtained by the holder of the original upon payment of a fee of $1, and the original or a certified copy of the license shall be posted during sale periods in a conspicuous place on the premises where the business is conducted.</p><p>Code 1950, § 3-553; 1966, c. 702, § 3.1-711; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,3 +1,0 @@
-# § 53.1-95.1 Limits on state expenditures.
-
-<p>The Governor may withhold approval for state expenditures, by reimbursement or otherwise, for the purposes set out in this article as provided in the current general appropriation act.</p><p>1986, c. 394.</p>

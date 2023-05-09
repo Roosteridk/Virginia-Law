@@ -1,3 +1,0 @@
-# § 46.2-1527.11 No waiver by the Board of disciplinary action against licensee or registrant.
-
-<p>Nothing contained in this article shall limit the authority of the Board to take disciplinary action against any licensee or registrant for any violation of this chapter or any regulation promulgated under this chapter.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0331'>331</a>.</p>

@@ -1,3 +1,0 @@
-# § 8.01-233 When action deemed brought on counterclaim or cross-claim; when statute of limitations tolled; defendant's consent required for dismissal.
-
-<p>A. A defendant who pleads a counterclaim or cross-claim shall be deemed to have brought an action at the time he files such pleading.</p><p>B. If the subject matter of the counterclaim or cross-claim arises out of the same transaction or occurrence upon which the plaintiff's claim is based, the statute of limitations with respect to such pleading shall be tolled by the commencement of the plaintiff's action.</p><p>Code 1950, § 8-244; 1954, c. 611; 1977, c. 617.</p>

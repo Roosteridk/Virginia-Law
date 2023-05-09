@@ -1,3 +1,0 @@
-# § 55.1-1913 Complementarity of condominium instruments; controlling construction.
-
-<p>The condominium instruments shall be construed together and shall be deemed to incorporate one another to the extent that any requirement of this chapter as to the content of one shall be deemed satisfied if the deficiency can be cured by reference to any of the others. In the event of any conflict between the condominium instruments, the declaration shall control; but particular provisions shall control more general provisions, except that a construction consistent with the statute shall in all cases control over any inconsistent construction.</p><p>1974, c. 416, § 55-79.51; 1975, c. 415; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

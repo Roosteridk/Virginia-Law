@@ -1,3 +1,0 @@
-# § 15.2-3827 Transfer of assessments to city books.
-
-<p>When the commissioner of the revenue of a city created under this chapter applies to the commissioner of the revenue of the county or other officer assessing real estate, he shall furnish from his books a transcript of the assessment of all real estate and personal property, and on his books he shall note that all such assessments have been transferred to the city books.</p><p>Code 1950, § 15-99; 1962, c. 623, § 15.1-1000; 1997, c. 587.</p>

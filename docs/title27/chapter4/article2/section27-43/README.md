@@ -1,3 +1,0 @@
-# § 27-43 Payment on death.
-
-<p>Should any volunteer fire fighter be killed while actually engaged in fighting fire, or while going to a fire in answer to an alarm or returning therefrom, the governing body of the county, city or town in which his company is located shall pay to his personal representative, for the benefit of his estate, the sum of $1,000.</p><p>1928, p. 1002; Michie Code 1942, § 3144c; 1970, c. 187; 1977, c. 326.</p>

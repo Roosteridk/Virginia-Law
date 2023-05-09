@@ -1,3 +1,0 @@
-# § 42.1-15 Duties of Librarian of Virginia.
-
-<p>The Librarian of Virginia shall have charge of The Library of Virginia. He shall see that the Library is properly kept and that its contents are properly preserved and cared for.</p><p>He shall be secretary of the Board, and shall perform all duties belonging to that position. He shall keep a record of all proceedings of the Board and such financial records as are required by the Commonwealth.</p><p>Code 1950, § 42-50; 1970, c. 606; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0064'>64</a>; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0427'>427</a>.</p>

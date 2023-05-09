@@ -1,3 +1,0 @@
-# § 15.2-3303 Notice of determination by court; effect on other proceedings.
-
-<p>The clerk of the circuit court shall give notice of the court's determination of a county's or tier-city's eligibility for immunity to any court in which proceedings were stayed pending a determination of county or tier-city immunity. If county or tier-city immunity is granted by order of the court, any suits stayed pending a determination of such immunity shall be dismissed. If county or tier-city immunity is not granted by order of the court, such stays shall be dissolved.</p><p>1979, c. 85, § 15.1-977.22; 1984, c. 695; 1997, c. 587.</p>

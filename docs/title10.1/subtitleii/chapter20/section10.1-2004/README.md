@@ -1,3 +1,0 @@
-# § 10.1-2004 Annual meeting; Officers of Board; executive committee.
-
-<p>The Board shall designate one regular meeting to be held annually each fiscal year. At each regular annual meeting, the Board shall select a chairman and a vice-chairman from its membership, and appoint an executive committee to consist of not less than three nor more than five of its membership, including the chairman and vice-chairman for the transaction of business in the recess of the Board.</p><p>1988, cc. 707, 891; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0163'>163</a>.</p>

@@ -1,3 +1,0 @@
-# § 18.2-136.1 Enforcement of §§ 18.2-131 through 18.2-135.
-
-<p>Conservation police officers, sheriffs and all other law-enforcement officers shall enforce the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/18.2-131/'>18.2-131</a>, <a href='http://law.lis.virginia.gov/vacode/18.2-132/'>18.2-132</a>, <a href='http://law.lis.virginia.gov/vacode/18.2-133/'>18.2-133</a>, <a href='http://law.lis.virginia.gov/vacode/18.2-134/'>18.2-134</a> and <a href='http://law.lis.virginia.gov/vacode/18.2-135/'>18.2-135</a>.</p><p>1975, cc. 14, 15.</p>

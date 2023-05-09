@@ -1,3 +1,0 @@
-# § 54.1-4416 Board's powers with respect to hearings under this chapter.
-
-<p>The Board may, in hearings arising under this chapter, determine the place in Virginia where the hearings shall be held; subpoena witnesses; take depositions of witnesses in the manner provided for in civil actions in courts of record; pay the witnesses fees and mileage and other expense reimbursements for their attendance as is provided for witnesses in civil actions in courts of record; and administer oaths.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0832'>832</a>; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0804'>804</a>.</p>

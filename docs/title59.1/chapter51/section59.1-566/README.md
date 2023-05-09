@@ -1,3 +1,0 @@
-# § 59.1-566 Registration not endorsement.
-
-<p>No registered operator shall use or exploit the fact of registration under this chapter so as to lead the public to believe that such registration in any manner constitutes an endorsement or approval by the Commonwealth.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0318'>318</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0703'>703</a>.</p>

@@ -1,3 +1,0 @@
-# § 19.2-359 Official receipts to be given for fines.
-
-<p>Every officer collecting a fine, fine and costs or costs when no fine is imposed shall give an official receipt therefor to the person making the payment, and the clerk of the court shall use the official receipt in receipting to a court not of record for payments made to the clerk; and when the fine, fine and costs or costs are collected by execution, the clerk shall receipt to the officer making payment to him upon the official receipts.</p><p>Code 1950, § 19.1-348; 1960, c. 366; 1975, c. 495.</p>

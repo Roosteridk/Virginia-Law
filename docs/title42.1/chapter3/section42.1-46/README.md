@@ -1,3 +1,0 @@
-# § 42.1-46 Library policy of the Commonwealth.
-
-<p>It is hereby declared to be the policy of the Commonwealth, as a part of its provision of essential service to communities and for public education, to promote the establishment and development of public library service throughout its various political subdivisions.</p><p>Code 1950, § 42-23; 1970, c. 606; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0054'>54</a>.</p>

@@ -1,3 +1,0 @@
-# § 18.2-160.2 Trespassing on public transportation; penalty.
-
-<p>Any person who enters or remains upon or within a vehicle operated by a public transportation service without the permission of, or after having been forbidden to do so by, the owner, lessee, or authorized operator thereof is guilty of a Class 4 misdemeanor.</p><p>"Public transportation service" means passenger transportation service provided by bus, rail or other surface conveyance that provides transportation to the general public on a regular and continuing basis.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0461'>461</a>.</p>

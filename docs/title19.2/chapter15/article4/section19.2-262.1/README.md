@@ -1,3 +1,0 @@
-# § 19.2-262.1 Joinder of defendants.
-
-<p>On motion of the Commonwealth, for good cause shown, the court shall order persons charged with participating in contemporaneous and related acts or occurrences or in a series of acts or occurrences constituting an offense or offenses, to be tried jointly unless such joint trial would constitute prejudice to a defendant. If the court finds that a joint trial would constitute prejudice to a defendant, the court shall order severance as to that defendant or provide such other relief justice requires.</p><p>1993, cc. 462, 489; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0518'>518</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-1636.6:1 Statement of receipts and expenses of officers.
-
-<p>The Compensation Board shall as soon as practicable annually furnish the board of supervisors or other governing body of each county and city with the statement showing receipts and expenses of office and of officers making report under this article.</p><p>Code 1950, § 14-158; 1964, c. 386, § 14.1-158; 1972, c. 202; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

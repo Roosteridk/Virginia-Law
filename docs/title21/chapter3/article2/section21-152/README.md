@@ -1,3 +1,0 @@
-# § 21-152 Approval of State Health Commissioner.
-
-<p>The State Health Commissioner is authorized, upon being satisfied that the creation of a proposed sanitation district will provide a practical means for abating or preventing the pollution of the tidal waters of the proposed sanitation district, to approve, as above referred to, the creation of the proposed sanitation district.</p><p>1938, p. 513; Michie Code 1942, § 1560jj.</p>

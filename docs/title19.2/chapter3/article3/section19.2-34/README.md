@@ -1,3 +1,0 @@
-# § 19.2-34 Number of magistrates.
-
-<p>There shall be appointed as many magistrates as are necessary for the effective administration of justice. The positions of all employees of the magistrate system shall be authorized by the Committee on District Courts established pursuant to § <a href='http://law.lis.virginia.gov/vacode/16.1-69.33/'>16.1-69.33</a>.</p><p>Code 1950, § 19.1-382; 1973, c. 545; 1974, c. 484; 1975, c. 495; 1976, c. 138; 1977, c. 198; 1981, c. 4; 1992, c. 55; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0551'>551</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0691'>691</a>.</p>

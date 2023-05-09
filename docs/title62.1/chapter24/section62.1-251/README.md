@@ -1,3 +1,0 @@
-# § 62.1-251 Cancellation or suspension of permit.
-
-<p>Whenever the Board finds that the holder of a permit is willfully violating any provision of such permit or any other provision of this chapter, the Board may cancel or suspend the permit or impose conditions on its future use in order to prevent future violations. The finding of the Board shall be made in accordance with the Administrative Process Act, § <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.</p><p>1989, c. 721.</p>

@@ -1,3 +1,0 @@
-# § 54.1-2508 Chairman; meetings of Board; quorum.
-
-<p>The chairman of the Board of Health Professions shall be elected by the Board from its members. The Board shall meet at least annually and may hold additional meetings as necessary to perform its duties. A majority of the Board shall constitute a quorum for the conduct of business.</p><p>1977, c. 579, § 54-953; 1980, c. 678; 1986, c. 564; 1988, c. 765; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0361'>361</a>.</p>

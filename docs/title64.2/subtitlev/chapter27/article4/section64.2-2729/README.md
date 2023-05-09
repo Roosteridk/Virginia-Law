@@ -1,3 +1,0 @@
-# § 64.2-2729 Method of release.
-
-<p>A powerholder of a releasable power of appointment may release the power in whole or in part:</p><p>1. By substantial compliance with a method provided in the terms of the instrument creating the power; or</p><p>2. If the terms of the instrument creating the power do not provide a method or the method provided in the terms of the instrument is not expressly made exclusive, by a record manifesting the powerholder's intent by clear and convincing evidence.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

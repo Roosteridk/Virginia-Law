@@ -1,3 +1,0 @@
-# § 55.1-309 Deeds good between parties.
-
-<p>Any deed, or a part of a deed, that fails to take effect by virtue of this chapter shall, nevertheless, be as valid and effectual and as binding upon the parties, so far as the rules of law and equity permit, as if this chapter had not been enacted.</p><p>Code 1919, § 5169; Code 1950, § 55-51; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

@@ -1,3 +1,0 @@
-# § 63.2-502 False application or false swearing; penalty.
-
-<p>Any person who knowingly makes any false application for public assistance or who knowingly swears or affirms falsely to any matter or thing required by the provisions of this title or as to any information required by the Commissioner, incidental to the administration of the provisions of this title, to be sworn to or affirmed, shall be guilty of perjury and, upon conviction therefor, shall be punished in accordance with the provisions of § <a href='http://law.lis.virginia.gov/vacode/18.2-434/'>18.2-434</a>.</p><p>1975, c. 585, § 63.1-107.1; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

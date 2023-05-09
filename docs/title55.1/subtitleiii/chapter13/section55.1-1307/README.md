@@ -1,3 +1,0 @@
-# § 55.1-1307 Charge for utility service.
-
-<p>Notwithstanding the provisions of § <a href='/vacode/56-245.3/'>56-245.3</a>, a landlord who purchases from a publicly regulated utility any electricity, gas, or other utility service, including water and sewer services, for resale or pass-through to a tenant may not charge for the resale or pass-through of such service an amount that exceeds the amount permitted under the provisions of § <a href='/vacode/55.1-1212/'>55.1-1212</a>.</p><p>1992, c. 709, § 55-248.45:1; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0303'>303</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

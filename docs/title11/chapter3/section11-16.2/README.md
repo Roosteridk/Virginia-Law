@@ -1,3 +1,0 @@
-# § 11-16.2 Exemption; authorized sports betting.
-
-<p>This chapter shall not apply to any sports betting or related activity that is lawful under Article 2 (§ <a href='/vacode/58.1-4030/'>58.1-4030</a> et seq.) of Chapter 40 of Title 58.1.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1218'>1218</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1256'>1256</a>, § 11-16.1.</p>

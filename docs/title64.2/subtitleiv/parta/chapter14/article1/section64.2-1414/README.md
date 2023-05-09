@@ -1,3 +1,0 @@
-# § 64.2-1414 Effect of orders of qualification of bank as committee or guardian.
-
-<p>If a bank qualifies as committee or guardian and the order of qualification fails to specify that the bank is to be guardian or committee of the person, it shall be deemed a qualification solely as committee, conservator, or guardian of the estate.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>, § 26-7.5; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

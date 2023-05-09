@@ -1,3 +1,0 @@
-# § 22.1-212.30 Board regulations; procedure.
-
-<p>Any local school board may apply to the Board for the local school division or any school therein to be designated as an SDI. Such application shall consist of a plan of innovation for the local school division. The Board shall include in regulations promulgated pursuant to § 22.1-212.29:</p><p>1. The procedure and timeline for application, review, amendment, approval, renewal, and revocation of SDI designation;</p><p>2. The procedure for the ongoing evaluation of an SDI; and</p><p>3. Any other process or procedure that the Board deems appropriate.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0760'>760</a>.</p>

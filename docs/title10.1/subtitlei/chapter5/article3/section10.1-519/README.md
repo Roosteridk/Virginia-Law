@@ -1,3 +1,0 @@
-# § 10.1-519 Renewal of petition after disapproval or denial.
-
-<p>After six months have expired from the date of the disapproval or denial of any petition for a soil and water conservation district, subsequent petitions covering the same or substantially the same territory may be filed with the Board as provided in this chapter.</p><p>Code 1950, § 21-30; 1964, c. 512; 1970, c. 480; 1988, c. 891.</p>

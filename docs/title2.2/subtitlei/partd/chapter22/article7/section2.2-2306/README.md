@@ -1,3 +1,0 @@
-# § 2.2-2306 Bondholder protection.
-
-<p>Subsequent amendments to this article shall not limit the rights vested in the Authority with respect to any agreements made with, or remedies available to, the holders of bonds issued under this article prior to the enactment of the amendments until the bonds, together with all interest thereon, and all costs and expenses in connection with any proceeding by or on behalf of the holders, are fully met and discharged.</p><p>1984, c. 749, § 9-231; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

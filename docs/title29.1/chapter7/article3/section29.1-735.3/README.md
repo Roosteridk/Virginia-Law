@@ -1,3 +1,0 @@
-# § 29.1-735.3 Regulation of parasail operators.
-
-<p>The Board shall promulgate regulations applicable to the commercial operations of parasail operators on waters of the Commonwealth. Such regulations shall take into consideration the operating standards and guidelines of the Professional Association of Parasail Operators.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0625'>625</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0958'>958</a>.</p>

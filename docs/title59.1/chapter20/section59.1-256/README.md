@@ -1,3 +1,0 @@
-# § 59.1-256 Purpose of chapter.
-
-<p>The purpose of this chapter is to establish fair and open procedures for the bidding and negotiation for the right to exhibit motion pictures within the Commonwealth in order to prevent unfair and deceptive acts or practices and unreasonable restraints of trade in the business of motion picture distribution within the Commonwealth, to promote fair and effective competition in that business, and to ensure that exhibitors have the opportunity to view a motion picture and know its contents before committing themselves to exhibiting it in their communities.</p><p>1978, c. 764.</p>

@@ -1,3 +1,0 @@
-# § 8.01-525.12 Clerk to preserve assignment; fees.
-
-<p>The clerk of the court wherein any assignment is filed, as otherwise provided by law, shall maintain the court records of such assignment, together with all reports of the trustee, and shall keep an index of all such assignments. For filing the assignment, the fee as prescribed in § <a href='/vacode/17.1-275/'>17.1-275</a> shall be charged.</p><p>1936, p. 524; Michie Code 1942, § 5278j; Code 1950, § 55-167; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0432'>432</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

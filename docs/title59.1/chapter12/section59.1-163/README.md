@@ -1,3 +1,0 @@
-# § 59.1-163 Penalty for violation.
-
-<p>Any person selling any motor fuel or lubricating oil which does not comply with the specifications provided in this chapter, or violating any of the provisions of the chapter, shall be guilty of a Class 1 misdemeanor. Any dealer in any motor fuel who receives motor fuel meeting the requirements of this chapter and who thereafter adulterates any such motor fuel or mixes it with inferior motor fuel, so that the resulting product does not meet the requirements of this chapter, shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 59-56; 1968, c. 439; 1992, c. 885; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0650'>650</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-6210 Proceeds held.
-
-<p>The secretary-treasurer may invest and reinvest funds of the Authority pending their need. All moneys received by the Authority pursuant to § <a href='http://law.lis.virginia.gov/vacode/15.2-6208/'>15.2-6208</a>, together with any matching funds received from state or federal sources, shall be applied and used only in the county or town from which the funds were received, unless the governing body of the county or town consents to their use in another county, city, or town.</p><p>1993, c. 982, § 15.1-1671; 1997, c. 587; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0861'>861</a>.</p>

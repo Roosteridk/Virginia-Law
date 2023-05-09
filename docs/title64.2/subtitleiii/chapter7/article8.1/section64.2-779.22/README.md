@@ -1,3 +1,0 @@
-# § 64.2-779.22 Settlor.
-
-<p>A. For purposes of law of the Commonwealth other than this article and subject to subsection B, a settlor of a first trust is deemed to be the settlor of the second trust with respect to the portion of the income or principal of the first trust subject to the exercise of the decanting power.</p><p>B. In determining settlor intent with respect to a second trust, the intent of a settlor of the first trust, a settlor of the second trust, and the authorized fiduciary may be considered.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0592'>592</a>.</p>

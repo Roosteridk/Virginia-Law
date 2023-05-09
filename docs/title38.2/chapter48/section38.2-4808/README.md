@@ -1,3 +1,0 @@
-# § 38.2-4808 Effect of payment to surplus lines broker.
-
-<p>A. No surplus lines broker may accept a payment of premium for issuance of surplus lines insurance before placing the insurance with an eligible nonadmitted insurer.</p><p>B. A payment of premium to a surplus lines broker shall be deemed to be payment to the insurer notwithstanding any policy conditions or stipulations to the contrary.</p><p>1986, c. 562; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0205'>205</a>.</p>

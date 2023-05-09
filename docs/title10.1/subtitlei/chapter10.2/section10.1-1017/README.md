@@ -1,3 +1,0 @@
-# § 10.1-1017 Foundation created.
-
-<p>There is hereby created the Virginia Land Conservation Foundation, hereinafter referred to as the Foundation, a body politic and corporate to have such powers and duties as hereinafter provided.</p><p>1992, c. 426; 1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0900'>900</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0906'>906</a>.</p>

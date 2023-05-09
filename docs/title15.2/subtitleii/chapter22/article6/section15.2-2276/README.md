@@ -1,3 +1,0 @@
-# § 15.2-2276 Duty of clerk when plat vacated.
-
-<p>The clerk in whose office any plat so vacated has been recorded shall write in plain legible letters across such plat, or the part thereof so vacated, the word "vacated," and also make a reference on the plat to the volume and page in which the instrument of vacation is recorded.</p><p>Code 1950, §§ 15-794, 15-967.20; 1962, c. 407, § 15.1-485; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 22.1-57.3:2.1 Appointment and terms of school board members for City of Williamsburg .
-
-<p>Notwithstanding any provisions of this article to the contrary, the terms of school board members representing the City of Williamsburg shall be for terms of four years, with terms commencing on January 1.</p><p>1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0125'>125</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0218'>218</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0355'>355</a>.</p>

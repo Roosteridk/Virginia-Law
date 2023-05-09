@@ -1,3 +1,0 @@
-# § 38.2-810 How process or notice served.
-
-<p>Service of process or notice upon any unlicensed nonresident broker or agent in any suit, action or proceeding arising out of or in connection with the acts enumerated in § <a href='http://law.lis.virginia.gov/vacode/38.2-809/'>38.2-809</a> in this Commonwealth shall be made in the manner prescribed in § <a href='http://law.lis.virginia.gov/vacode/13.1-758/'>13.1-758</a>.</p><p>1958, c. 180, § 38.1-70.3; 1986, c. 562.</p>

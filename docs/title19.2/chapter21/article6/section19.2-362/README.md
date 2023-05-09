@@ -1,3 +1,0 @@
-# § 19.2-362 Court not to remit fine or penalty, other than fine for contempt, except as provided in § 19.2-358.
-
-<p>No court shall remit any fine or penalty, except for a contempt, which the court during the same term may remit either wholly or in part, and except as provided in § <a href='http://law.lis.virginia.gov/vacode/19.2-358/'>19.2-358</a>. This section shall not impair the judicial power of the court to set aside a verdict or judgment, or to grant a new trial.</p><p>Code 1950, § 19.1-351; 1960, c. 366; 1971, Ex. Sess., c. 250; 1975, c. 495.</p>

@@ -1,3 +1,0 @@
-# § 3.2-3914 Registration required.
-
-<p>Every pesticide manufactured, distributed, sold, offered for sale, used, or offered for use shall be registered in accordance with regulations adopted by the Board. Registration shall lapse unless the registrant pays an annual fee set forth in regulations adopted by the Board.</p><p>Code 1950, § 3-208.19; 1966, c. 702, § 3.1-221; 1976, c. 627; 1981, c. 260; 1989, c. 575, § 3.1-249.35; 1993, c. 773; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

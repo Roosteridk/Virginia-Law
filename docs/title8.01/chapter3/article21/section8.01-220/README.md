@@ -1,3 +1,0 @@
-# § 8.01-220 Action for alienation of affection, breach of promise, criminal conversation and seduction abolished.
-
-<p>A. Notwithstanding any other provision of law to the contrary, no civil action shall lie or be maintained in this Commonwealth for alienation of affection, breach of promise to marry, or criminal conversation upon which a cause of action arose or occurred on or after June 28, 1968.</p><p>B. No civil action for seduction shall lie or be maintained where the cause of action arose or accrued on or after July 1, 1974.</p><p>Code 1950, § 20-37.2; 1968, c. 716; 1974, c. 606; 1977, c. 617.</p>

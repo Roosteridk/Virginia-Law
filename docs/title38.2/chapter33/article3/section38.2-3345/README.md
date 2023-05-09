@@ -1,3 +1,0 @@
-# § 38.2-3345 Incontestability.
-
-<p>Each industrial life insurance policy shall contain a provision that the policy shall be incontestable after it has been in force for two years from the date of issue during the lifetime of the insured, except for nonpayment of premiums, and except as to provisions and conditions (i) relating to benefits in the event of certain specific types of disability and (ii) granting additional insurance specifically against death by accident or accidental means.</p><p>Code 1950, § 38-434(3); 1952, c. 317, § 38.1-413; 1986, c. 562.</p>

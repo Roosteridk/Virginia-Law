@@ -1,3 +1,0 @@
-# § 54.1-3911 Transmission of certain information to the House Committee for Courts of Justice and the Senate Committee on the Judiciary.
-
-<p>The Virginia State Bar is authorized to transmit to the House Committee for Courts of Justice and the Senate Committee on the Judiciary, upon request of the chairman of either Committee, any evidence that it has in its possession with reference to any pending disciplinary proceeding involving a licensed attorney whose name has been placed before the Committee for consideration for election as a judge of a court of this Commonwealth and the record of any previous disciplinary action taken against the attorney.</p><p>1985, c. 264, § 54-49.1; 1988, c. 765.</p>

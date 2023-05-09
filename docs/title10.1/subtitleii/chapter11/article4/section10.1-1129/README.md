@@ -1,3 +1,0 @@
-# § 10.1-1129 Purchasing real estate outside of boundaries.
-
-<p>Before any governing body purchases any real estate outside of the county, city or town which it represents pursuant to the provisions of § <a href='http://law.lis.virginia.gov/vacode/10.1-1128/'>10.1-1128</a>, it shall first secure the approval of the governing body of the county, city or town in which the real estate is located.</p><p>Code 1950, § 10-49; 1988, c. 891.</p>

@@ -1,3 +1,0 @@
-# § 16.1-348 Availability of judge.
-
-<p>The chief judge of every juvenile and domestic relations district court shall establish and require that a judge be available seven days a week, 24 hours a day, for the purpose of performing the duties established by this article. Such judge shall have the authority to perform the duties established by this article.</p><p>1990, c. 975; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>; 2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0500'>500</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0897'>897</a>.</p>

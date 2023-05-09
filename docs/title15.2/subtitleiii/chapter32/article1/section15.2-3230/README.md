@@ -1,3 +1,0 @@
-# § 15.2-3230 Article not applicable to consolidation of two cities.
-
-<p>The provisions of this article shall not apply to the consolidation of two cities.</p><p>Code 1950, § 15-152.28; 1952, c. 328; 1962, c. 623, § 15.1-1058; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 8.01-60 Contracts exempting from liability void; set-off of insurance.
-
-<p>Any contract, rule, regulation or device whatsoever the purpose or intent of which shall be to enable any common carrier to exempt itself from any liability created by § <a href='http://law.lis.virginia.gov/vacode/8.01-57/'>8.01-57</a>, shall to that extent be void; but in any action brought against any such common carrier under or by virtue of such section, such common carrier may set off therein any sum it has contributed or paid to any insurance, relief, benefit or indemnity company that may have been paid to the injured employee or the person entitled thereto on account of the injury or death for which such action was brought.</p><p>Code 1950, § 8-644; 1977, c. 617.</p>

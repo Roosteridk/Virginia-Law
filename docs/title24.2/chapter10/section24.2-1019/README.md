@@ -1,3 +1,0 @@
-# § 24.2-1019 Complaints and allegations concerning election law offenses.
-
-<p>Any complaint or allegation concerning unlawful conduct under this title shall be filed with the attorney for the Commonwealth of the county or city in which the alleged violation occurred. In the case of a complaint or allegation concerning the filing of a false statement in a voter registration application, the violation shall be deemed to have occurred in the county or city where the applicant sought to be registered.</p><p>1983, c. 461, § 24.1-282; 1993, c. 641; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0374'>374</a>.</p>

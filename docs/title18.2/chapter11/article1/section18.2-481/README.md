@@ -1,3 +1,0 @@
-# § 18.2-481 Treason defined; how proved and punished.
-
-<p>Treason shall consist only in:</p><p>(1) Levying war against the Commonwealth;</p><p>(2) Adhering to its enemies, giving them aid and comfort;</p><p>(3) Establishing, without authority of the legislature, any government within its limits separate from the existing government;</p><p>(4) Holding or executing, in such usurped government, any office, or professing allegiance or fidelity to it; or</p><p>(5) Resisting the execution of the laws under color of its authority.</p><p>Such treason, if proved by the testimony of two witnesses to the same overt act, or by confession in court, shall be punishable as a Class 2 felony.</p><p>Code 1950, § 18.1-418; 1960, c. 358; 1975, cc. 14, 15.</p>

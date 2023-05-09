@@ -1,3 +1,0 @@
-# § 22.1-100 Unexpended school and educational funds.
-
-<p>All sums of money derived from the Commonwealth which are unexpended in any year in any school division shall revert to the fund of the Commonwealth from which derived unless the Board of Education directs otherwise. All sums derived from local funds unexpended in any year shall remain a part of the funds of the governing body appropriating the funds for use the next year, but no local funds shall be subject to redivision outside of the locality in which they were raised.</p><p>Code 1950, § 22-138; 1956, Ex. Sess., c. 67; 1980, c. 559.</p>

@@ -1,3 +1,0 @@
-# § 54.1-916 Discretion of pilot piloting vessel.
-
-<p>Any pilot piloting a vessel shall have full discretion as to when the vessel shall be piloted to or from sea, or to or from any port or place within the Commonwealth or situated within any of the waters referred to in § <a href='http://law.lis.virginia.gov/vacode/54.1-910/'>54.1-910</a>. The pilot's discretion shall be exercised in a reasonable way, with a view to the vessel's safety as well as with a view to the safety of the Commonwealth's waters and ports.</p><p>Code 1950, § 54-558; 1988, c. 765.</p>

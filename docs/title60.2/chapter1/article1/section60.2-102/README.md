@@ -1,3 +1,0 @@
-# § 60.2-102 Limitations on payment of benefits; nonliability of Commonwealth and Commission.
-
-<p>Benefits shall be deemed to be due and payable under this title only to the extent provided in this title and to the extent that moneys are available to the credit of the Unemployment Compensation Fund. Neither the Commonwealth nor the Commission shall be liable for any amount in excess of such sums.</p><p>Code 1950, § 60-24; 1968, c. 738, § 60.1-28; 1986, c. 480.</p>

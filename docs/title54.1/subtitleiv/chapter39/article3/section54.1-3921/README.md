@@ -1,3 +1,0 @@
-# § 54.1-3921 Board to elect one of its members president; appointment of secretary and treasurer.
-
-<p>The Board shall elect one of its members to serve as its president, and may appoint a qualified member of the Virginia State Bar to act as secretary and treasurer of the Board.</p><p>Code 1950, § 54-56; 1972, c. 444; 1988, c. 765.</p>

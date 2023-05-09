@@ -1,3 +1,0 @@
-# § 59.1-512 Identification of telephone solicitor required.
-
-<p>A telephone solicitor who makes a telephone solicitation call shall identify himself by his first and last names and the name of the person on whose behalf the telephone solicitation call is being made promptly upon making contact with the called person.</p><p>2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0528'>528</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0553'>553</a>.</p>

@@ -1,3 +1,0 @@
-# § 46.2-341.17 Penalty for violation of this article.
-
-<p>Unless otherwise provided in this article or by the laws of the Commonwealth, any person who violates any provision of this article shall be guilty of a Class 2 misdemeanor.</p><p>1989, c. 705, § 46.1-372.16.</p>

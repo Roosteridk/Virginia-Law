@@ -1,3 +1,0 @@
-# § 6.2-1818.1 Refinancing of short-term loans.
-
-<p>Subject to subsection F of § <a href='/vacode/6.2-1818.2/'>6.2-1818.2</a>, a licensee may refinance a short-term loan, provided that the refinanced loan is also a short-term loan.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1215'>1215</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1258'>1258</a>.</p>

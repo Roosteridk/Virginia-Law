@@ -1,3 +1,0 @@
-# § 46.2-873.2 Maximum speed limit on rural rustic roads.
-
-<p>The maximum speed limit on any highway designated a rural rustic road pursuant to § <a href='http://law.lis.virginia.gov/vacode/33.2-332/'>33.2-332</a> shall be 35 miles per hour; however, all speed limits on rural rustic roads in effect on July 1, 2008, shall remain in effect unless and until changed subsequent to a traffic engineering study.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0165'>165</a>.</p>

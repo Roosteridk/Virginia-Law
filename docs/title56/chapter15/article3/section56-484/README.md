@@ -1,3 +1,0 @@
-# § 56-484 Foreign companies to obtain license.
-
-<p>Every telephone or telegraph company, not incorporated by the laws of this Commonwealth, shall, as a condition precedent to the enjoyment of any right or privilege granted by this chapter, first obtain from the Commission a license to do business in this Commonwealth, and pay the fees and taxes imposed by law for such license.</p><p>Code 1919, § 4036.</p>

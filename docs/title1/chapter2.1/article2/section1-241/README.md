@@ -1,3 +1,0 @@
-# § 1-241 Seal.
-
-<p>"Seal," when required to be affixed by any court or public office to any paper, includes an impression or print of such official seal made upon the paper. When the seal of any natural person is required, it shall be sufficient for the person to place a mark intended as a seal.</p><p>Code 1919, § 5; Code 1950, § 1-13; 1950, p. 23, § 1-13.25; 1975, c. 500; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

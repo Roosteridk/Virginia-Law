@@ -1,1 +1,0 @@
-# 1.1 Medical Care Facilities Certificate of Public Need

@@ -1,3 +1,0 @@
-# § 46.2-822 Right-of-way at circular intersections.
-
-<p>At circular intersections, vehicles already in the circle shall have the right-of-way over vehicles approaching and entering the circle, unless otherwise directed by traffic control devices.</p><p>Code 1950, § 46-238; 1952, c. 666; 1956, c. 533; 1958, c. 541, § 46.1-221; 1985, c. 218; 1989, c. 727; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0128'>128</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0400'>400</a>.</p>

@@ -1,3 +1,0 @@
-# § 58.1-1619 Penalty and interest for failure to pay tax when due.
-
-<p>Any person who fails to pay the tax herein levied within the time required by this chapter shall pay, in addition to the tax a penalty of five percent of the amount of tax due. Six months from the date at which the tax herein levied became due and payable, interest shall be assessed upon the entire amount due in accordance with § <a href='http://law.lis.virginia.gov/vacode/58.1-15/'>58.1-15</a>. Such penalty and interest shall be assessed and collected as a part of the tax.</p><p>Code 1950, § 58-838.14; 1977, c. 396; 1984, c. 675.</p>

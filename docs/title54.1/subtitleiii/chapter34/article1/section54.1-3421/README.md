@@ -1,3 +1,0 @@
-# § 54.1-3421 New drugs.
-
-<p>A. No person shall sell, deliver, offer for sale, hold for sale or give away any new drug unless an application with respect to the drug has been approved and the approval has not been withdrawn under § 505 of the federal Food, Drug, and Cosmetic Act (21 U.S.C. § 355).</p><p>B. This section shall not apply to a drug subject to the federal act intended solely for investigational use and for which a notice of claimed investigational exemption for a new drug has been filed with the U.S. Food and Drug Administration in accordance with 21 C.F.R. Part 312.</p><p>1970, c. 650, § 54-524.95; 1988, c. 765; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0135'>135</a>.</p>

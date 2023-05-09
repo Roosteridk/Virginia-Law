@@ -1,3 +1,0 @@
-# § 63.2-1518 Authority to talk to child or sibling.
-
-<p>Any person required to make a report or conduct an investigation or family assessment, pursuant to this chapter may talk to any child suspected of being abused or neglected or to any of his siblings without consent of and outside the presence of his parent, guardian, legal custodian, or other person standing in loco parentis, or school personnel.</p><p>1975, c. 341, § 63.1-248.10; 1979, c. 453; 1986, c. 308; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0500'>500</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

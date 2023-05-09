@@ -1,3 +1,0 @@
-# § 55.1-2304 Restraints on alienation.
-
-<p>Provided that selling or leasing a lot is not specifically prohibited by recorded covenant, it is unlawful to restrain the owner of a lot in a subdivision from offering such lot for sale or lease or from selling or leasing such lot. Any deed restriction or recorded covenant that creates a right of first refusal in excess of 30 days or creates a sales restraint that denies lot owners the right to post for-sale signs of reasonable size is null and void.</p><p>1978, c. 510, § 55-343; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

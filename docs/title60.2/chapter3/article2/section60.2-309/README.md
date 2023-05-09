@@ -1,3 +1,0 @@
-# § 60.2-309 Special employment service account.
-
-<p>A special employment service account shall be maintained as a part of the Unemployment Compensation Administration Fund for the purposes (i) of maintaining the public employment offices established pursuant to § <a href='http://law.lis.virginia.gov/vacode/60.2-400/'>60.2-400</a>, and (ii) of cooperating with the United States Employment Service.</p><p>Code 1950, § 60-99; 1968, c. 738, § 60.1-116; 1986, c. 480.</p>

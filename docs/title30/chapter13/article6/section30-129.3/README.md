@@ -1,3 +1,0 @@
-# § 30-129.3 Orientation session preparations.
-
-<p>Those conducting the orientation sessions may call on other agencies in the legislative or executive branches for assistance, may invite experts to assist in the sessions, and shall, upon request of a member who holds a professional license or certification, apply for continuing education credits with the appropriate licensing or certifying entity for the sessions.</p><p>2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0792'>792</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0804'>804</a>.</p>

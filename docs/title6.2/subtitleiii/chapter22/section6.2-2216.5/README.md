@@ -1,3 +1,0 @@
-# § 6.2-2216.5 Verification of borrower's income.
-
-<p>Before initiating a motor vehicle title loan transaction with a borrower, a licensee shall make a reasonable attempt to verify the borrower's income. At a minimum, the licensee shall obtain from the borrower one or more recent pay stubs or other written evidence of recurring income, such as a bank statement. The written evidence shall include at least one document that, when presented to the licensee, is dated not earlier than 45 days prior to the borrower's initiation of the title loan transaction.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1215'>1215</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1258'>1258</a>.</p>

@@ -1,3 +1,0 @@
-# § 21-393 Notice of issuance of bonds.
-
-<p>The board of viewers of the county in which the petition was filed shall give notice by publication once a week for three successive weeks in some newspaper published in the county in which the project, or some part thereof, is situated, if there be any such newspaper, and also by posting a written or printed notice at the door of the courthouse and at five conspicuous places in the project, reciting that they propose to issue drainage bonds for the total cost of the improvement, giving the amount of the bonds to be issued, the rate of interest that they are to bear, and the time when payable.</p><p>Code 1919, § 1772; 1926, p. 623; 1954, c. 642.</p>

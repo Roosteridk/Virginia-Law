@@ -1,3 +1,0 @@
-# § 54.1-2963 Selling vitamins or food supplements in connection with a practice of the healing arts.
-
-<p>The Board shall have authority to promulgate regulations regulating the sale of vitamins or food supplements by any practitioner of the healing arts from the office in which he practices.</p><p>1984, c. 325, § 54-278.2; 1988, c. 765.</p>

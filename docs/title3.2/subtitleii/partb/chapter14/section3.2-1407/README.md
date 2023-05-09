@@ -1,3 +1,0 @@
-# § 3.2-1407 Question to be printed on ballots.
-
-<p>The question to be printed on the ballots used in a referendum held pursuant to this chapter shall be as follows:</p><p>"Do you favor additional market development, education, publicity, research, and the promotion of the sale and use of corn and the continuation of the levy of an assessment of one cent per bushel in accordance with the provisions of the Corn Board law?</p><p>_____ For</p><p>_____ Against."</p><p>1980, c. 395, § 3.1-1042; 1989 c. 401; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,3 +1,0 @@
-# § 6.2-2100 Definitions.
-
-<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Check casher" means a person engaged in the business of cashing checks, drafts, or money orders for compensation.</p><p>"Item" means a check, draft, or money order.</p><p>"Registrant" means a person registered under this chapter.</p><p>"Registration" means a registration filed under this chapter.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0221'>221</a>, § 6.1-432; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,3 +1,0 @@
-# § 10.1-510 Petition approved; Board to give notice of hearing.
-
-<p>If the Board approves the petition, within sixty days after such determination, the Board shall provide due notice of the approval in a newspaper of general circulation in each county or city involved. The notice shall include notice of a hearing upon the question of the desirability and necessity, in the interest of the public health, safety, and welfare, of the action proposed by the petition upon (i) the question of the appropriate boundaries to be assigned to such district, (ii) the propriety of the petition and other proceedings taken under this chapter, and (iii) all questions relevant to such inquiries.</p><p>Code 1950, § 21-14; 1964, c. 512; 1970, c. 480; 1988, c. 891.</p>

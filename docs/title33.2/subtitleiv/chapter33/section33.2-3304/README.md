@@ -1,3 +1,0 @@
-# § 33.2-3304 Decisions of Authority.
-
-<p>A majority of the members of the Authority shall constitute a quorum. Decisions of the Authority shall require a quorum and shall be in accordance with voting procedures established by the Authority.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0179'>179</a>, § 15.2-6805; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0256'>256</a>.</p>

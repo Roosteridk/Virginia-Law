@@ -1,3 +1,0 @@
-# § 59.1-339 Preservation of secrecy.
-
-<p>In an action under this chapter, a court shall preserve the secrecy of an alleged trade secret by reasonable means, which may include:</p><p>1. Granting protective orders in connection with discovery proceedings;</p><p>2. Holding in-camera hearings;</p><p>3. Sealing the records of the action; and</p><p>4. Ordering any person involved in the litigation not to disclose an alleged trade secret without prior court approval.</p><p>1986, c. 210.</p>

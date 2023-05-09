@@ -1,3 +1,0 @@
-# § 19.2-22 Same; arrest without a warrant.
-
-<p>A person arrested without a warrant by any conservator of the peace or other law-enforcement officer for any of the acts set forth in § <a href='http://law.lis.virginia.gov/vacode/19.2-19/'>19.2-19</a> committed in the presence of such conservator of the peace or law-enforcement officer, shall be brought forthwith before a magistrate or judge, and proceedings shall be had in accordance with §§ <a href='http://law.lis.virginia.gov/vacode/19.2-20/'>19.2-20</a> and <a href='http://law.lis.virginia.gov/vacode/19.2-21/'>19.2-21</a>.</p><p>1975, c. 495.</p>

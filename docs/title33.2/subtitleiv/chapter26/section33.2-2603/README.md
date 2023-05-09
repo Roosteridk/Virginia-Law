@@ -1,3 +1,0 @@
-# § 33.2-2603 Staff.
-
-<p>The Commission may employ a chief executive officer and such staff as it shall determine to be necessary to carry out its duties and responsibilities under this chapter. No such person shall contemporaneously serve as a member of the Commission. The Department of Transportation and the Department of Rail and Public Transportation shall make their employees available to assist the Commission, upon request.</p><p>2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0545'>545</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0678'>678</a>.</p>

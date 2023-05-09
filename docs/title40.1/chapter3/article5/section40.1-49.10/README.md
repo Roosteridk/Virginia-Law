@@ -1,3 +1,0 @@
-# § 40.1-49.10 Duration of warrant.
-
-<p>Any administrative search warrant issued shall be effective for the time specified therein, but not for a period of more than fifteen days, unless extended or renewed by the judicial officer who signed and issued the original warrant. The warrant shall be executed and shall be returned to the clerk of the circuit court of the city or county wherein the inspection was made within the time specified in the warrant or within the extended or renewed time. The return shall list any records removed or samples taken pursuant to the warrant. After the expiration of such time, the warrant, unless executed, shall be void.</p><p>1987, c. 643; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0354'>354</a>.</p>

@@ -1,3 +1,0 @@
-# § 19.2-237 Process on indictment or presentment for misdemeanor.
-
-<p>On any indictment or presentment for a misdemeanor process shall be issued immediately. If the accused appear and plead to the charge, the trial shall proceed without delay, unless good cause for continuance be shown. If, in any misdemeanor case the accused fails to appear and plead, when required the court may either award a capias or proceed to trial in the same manner as if the accused had appeared, plead not guilty and waived trial by jury, provided, that the court shall not in any such case enforce a jail sentence.</p><p>Code 1950, §§ 19.1-180, 19.1-184; 1960, c. 366; 1975, c. 495; 1979, c. 468.</p>

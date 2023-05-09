@@ -1,3 +1,0 @@
-# § 63.2-1613 Responsibilities of local departments.
-
-<p>Local departments may, to the extent that funds are available:</p><p>1. Promote interagency cooperation at the local level for technical assistance, data collection and service delivery; and</p><p>2. Provide services directly to victims of domestic violence.</p><p>1985, c. 20, § 63.1-317.1; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

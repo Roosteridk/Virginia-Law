@@ -1,3 +1,0 @@
-# § 38.2-2812 Public officers or employees.
-
-<p>No member of the board of directors of the stabilization reserve fund who is a public officer or employee shall forfeit his office or employment, or incur any loss or diminution in the rights and privileges associated with his office or employment, because of membership on the board.</p><p>1976, c. 85, § 38.1-786; 1986, c. 562.</p>

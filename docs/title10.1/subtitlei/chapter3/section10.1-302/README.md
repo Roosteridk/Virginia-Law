@@ -1,3 +1,0 @@
-# § 10.1-302 Payment of cost of camping and recreational facilities.
-
-<p>The cost of camping and recreational facilities financed under this chapter shall be paid solely from the proceeds of revenue bonds issued under the provisions of this chapter, or from proceeds from any grant or contribution which may be made pursuant to the provisions of this chapter.</p><p>Code 1950, § 10-102; 1988, c. 891.</p>

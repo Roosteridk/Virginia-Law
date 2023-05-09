@@ -1,3 +1,0 @@
-# § 54.1-3917 Master retirement program.
-
-<p>The Virginia State Bar through its governing body is authorized to approve and be a party to a master retirement program for the benefit of the members of the Virginia State Bar, their employees and families, including the power to execute, amend and revoke a master plan and trust agreement and to pay from the State Bar Fund in the manner provided in § <a href='http://law.lis.virginia.gov/vacode/54.1-3913/'>54.1-3913</a> the printing and administrative costs incurred in the promulgation and explanation of such program to the members of the Virginia State Bar. Any such program entered into or expenditure made before June 28, 1968, is hereby validated.</p><p>1968, c. 370, § 54-52.2; 1988, c. 765.</p>

@@ -1,3 +1,0 @@
-# § 32.1-200 Regulations.
-
-<p>The Board may adopt such regulations governing toilet facilities, sewage disposal facilities and water supply facilities at public gathering places as may be necessary to protect the public health. Such regulations may include without limitation (i) a requirement that there be toilet facilities, sewage disposal facilities and water supply facilities and standards therefor; (ii) requirements that toilet facilities and all fixtures therein be kept clean and in a good state of repair; and (iii) a system of classifying public gathering places with different regulations for each such classification.</p><p>Code 1950, § 32-63; 1979, c. 711; 1988, c. 60.</p>

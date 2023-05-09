@@ -1,3 +1,0 @@
-# § 3.2-1909 Falsification of records; misdemeanor.
-
-<p>It is a Class 1 misdemeanor:</p><p>1. For any processor knowingly to report falsely to the Tax Commissioner the quantity of peanuts subject to tax bought by him during any period.</p><p>2. For any processor to falsify the records of the peanuts subject to tax bought by him.</p><p>Code 1950, § 3-525.18; 1966, c. 702, § 3.1-664; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

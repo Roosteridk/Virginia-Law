@@ -1,3 +1,0 @@
-# § 38.2-4512 Contracts between participating dentists or optometrists and subscribers.
-
-<p>Participating dentists or optometrists, acting through their agents, may enter into contracts with subscribers to furnish specified dental or optometric services at specified rates to a subscriber or subscriber's members, officers, or employees. Contracts may vary as to services and rates.</p><p>1980, c. 682, § 38.1-902; 1986, c. 562.</p>

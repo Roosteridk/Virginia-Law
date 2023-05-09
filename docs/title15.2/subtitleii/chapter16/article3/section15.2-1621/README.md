@@ -1,3 +1,0 @@
-# § 15.2-1621 Receipts to be given by officers.
-
-<p>Every officer shall deliver to each person who pays him, or from whose property he makes taxes, levies, militia fines or officers' fees, a receipt for all that is so paid or made, with a statement showing how much thereof is for taxes, how much for levies, how much for militia fines and how much for officers' fees, and also the bills for such fees. Any officer failing herein shall forfeit to such person four dollars.</p><p>Code 1950, § 15-519; 1962, c. 623, § 15.1-84; 1997, c. 587.</p>

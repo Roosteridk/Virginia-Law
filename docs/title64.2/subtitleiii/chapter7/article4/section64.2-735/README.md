@@ -1,3 +1,0 @@
-# § 64.2-735 Combination and division of trusts.
-
-<p>After notice to the qualified beneficiaries, a trustee may combine two or more trusts into a single trust or divide a trust into two or more separate trusts, if the result does not materially impair the rights of any beneficiary or adversely affect achievement of the purposes of the trust.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-544.17; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,3 +1,0 @@
-# § 8.8A-111 Clearing corporation rules.
-
-<p>A rule adopted by a clearing corporation governing rights and obligations among the clearing corporation and its participants in the clearing corporation is effective even if the rule conflicts with this act and affects another party who does not consent to the rule.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0216'>216</a>.</p>

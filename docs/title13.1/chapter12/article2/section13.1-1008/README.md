@@ -1,3 +1,0 @@
-# § 13.1-1008 Purposes.
-
-<p>Every limited liability company formed under this chapter has the purpose of engaging in any lawful business, purpose, or activity, whether or not such business, purpose, or activity is carried on for profit, except as otherwise provided by the law of this Commonwealth, unless a more limited purpose is set forth in the articles of organization.</p><p>1991, c. 168; 1992, c. 574; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0288'>288</a>; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0601'>601</a>.</p>

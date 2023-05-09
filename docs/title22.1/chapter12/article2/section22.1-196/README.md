@@ -1,3 +1,0 @@
-# § 22.1-196 Lapsed insurance.
-
-<p>If insurance is obtained but lapses while a vehicle is still being used or is proposed to be used to transport school pupils or personnel, no school funds remaining to be distributed to the school board so in default shall be distributed to it until the terms of this article in this regard have been fully complied with.</p><p>Code 1950, § 22-292; 1980, c. 559.</p>

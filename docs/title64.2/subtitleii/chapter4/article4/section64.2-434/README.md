@@ -1,3 +1,0 @@
-# § 64.2-434 Validity.
-
-<p>A. A will shall be valid as regards form, irrespective particularly of the place where it is made, of the location of the assets, and of the nationality, domicile, or residence of the testator, if it is made in the form of an international will complying with the requirements of this article.</p><p>B. The invalidity of the will as an international will shall not affect its formal validity as a will of another kind.</p><p>C. This article shall not apply to the form of testamentary dispositions made by two or more persons in one instrument.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0443'>443</a>, § 64.1-96.3; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

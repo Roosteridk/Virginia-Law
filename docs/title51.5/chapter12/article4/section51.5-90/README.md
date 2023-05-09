@@ -1,3 +1,0 @@
-# § 51.5-90 Providing blind persons with equipment and merchandise.
-
-<p>The Department shall provide blind persons licensed under this article with such vending stand and other business enterprise equipment and a stock of suitable articles to be vended therefrom as may be necessary.</p><p>Code 1950, § 63-204.15; 1968, c. 578, § 63.1-156; 1989, c. 314; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

@@ -1,3 +1,0 @@
-# § 22.1-132 Boards may impose certain conditions on use of property.
-
-<p>Permits for the use of school property may contain, among other matters, (i) provisions limiting the use of the property while classes are in session and (ii) an undertaking by the lessee to return the property so used in as good condition as when leased, normal wear and tear excepted.</p><p>Code 1950, § 22-164.2; 1980, c. 559.</p>

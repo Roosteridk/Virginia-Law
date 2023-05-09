@@ -1,3 +1,0 @@
-# § 53.1-40.14 Reporting requirement.
-
-<p>The warden or other official in charge of a state correctional facility shall compile a monthly summary of all written reports received pursuant to §§ <a href='/vacode/53.1-25.1/'>53.1-25.1</a>, <a href='/vacode/53.1-40.12/'>53.1-40.12</a>, and <a href='/vacode/53.1-40.13/'>53.1-40.13</a> and shall submit the summary to the Director each month.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0526'>526</a>.</p>

@@ -1,3 +1,0 @@
-# § 46.2-749.48 Special license plates for supporters of Family and Children's Trust Fund; fees.
-
-<p>On receipt of an application and payment of the fee prescribed by this section, the Commissioner shall issue special license plates for supporters of the Family and Children's Trust Fund.</p><p>The annual fee for plates issued pursuant to this section shall be twenty-five dollars plus the prescribed fee for state license plates. For each such twenty-five-dollar fee collected in excess of 1,000 registrations pursuant to this section, fifteen dollars shall be paid into the state treasury and credited to the Family and Children's Trust Fund.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0766'>766</a>.</p>

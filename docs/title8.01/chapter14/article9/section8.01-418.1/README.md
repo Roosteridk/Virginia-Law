@@ -1,3 +1,0 @@
-# § 8.01-418.1 Evidence of subsequent measures taken not admissible to prove negligence (Supreme Court Rule 2:407 derived from this section).
-
-<p>When, after the occurrence of an event, measures are taken which, if taken prior to the event would have made the event less likely to occur, evidence of such subsequently taken measures is not admissible to prove negligence or culpable conduct as a cause of the occurrence of the event; provided, that evidence of subsequent measures taken shall not be required to be excluded when offered for another purpose for which it may be admissible, including, but not limited to, proof of ownership, control, feasibility of precautionary measures if controverted, or for impeachment.</p><p>1978, c. 165.</p>

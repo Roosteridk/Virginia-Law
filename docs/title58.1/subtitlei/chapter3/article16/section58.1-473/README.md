@@ -1,3 +1,0 @@
-# § 58.1-473 Jeopardy assessments.
-
-<p>If the Tax Commissioner, in any case, has reason to believe that the collection of moneys, required by this article to be withheld by the employer, is in jeopardy, he may require the employer to make such return and pay to the Tax Commissioner such amounts required to be withheld at any time the Tax Commissioner may designate therefor subsequent to the time when such amounts should have been deducted from wages and withheld.</p><p>Code 1950, § 58-151.13; 1962, c. 612; 1968, c. 12; 1970, c. 540; 1972, c. 827; 1973, c. 279; 1974, c. 636; 1975, c. 49; 1977, cc. 396, 663; 1981, c. 283; 1984, c. 675.</p>

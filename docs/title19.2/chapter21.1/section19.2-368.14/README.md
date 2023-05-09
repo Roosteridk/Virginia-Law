@@ -1,3 +1,0 @@
-# § 19.2-368.14 Public record; exception.
-
-<p>Except as provided in § <a href='http://law.lis.virginia.gov/vacode/19.2-368.6/'>19.2-368.6</a> concerning juvenile claimants or victims, the record of any proceedings under this chapter shall be a public record; provided, however, that any record or report obtained by the Commission, the confidentiality of which is protected by any other law or regulation, shall remain confidential, subject to such law or regulation.</p><p>1976, c. 605; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0834'>834</a>.</p>

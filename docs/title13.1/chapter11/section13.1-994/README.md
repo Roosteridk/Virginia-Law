@@ -1,3 +1,0 @@
-# § 13.1-994 Earned surplus.
-
-<p>Each year the corporation shall set apart as earned surplus not less than ten percent of its net earnings for the preceding fiscal year until such surplus shall be equal in value to one-half of the amount paid in on the capital stock then outstanding. Whenever the amount of surplus so established shall become impaired, it shall be built up again to the required amount in the manner provided for its original accumulation.</p><p>Code 1950, § 13.1-151; 1960, c. 80; 1985, c. 522.</p>

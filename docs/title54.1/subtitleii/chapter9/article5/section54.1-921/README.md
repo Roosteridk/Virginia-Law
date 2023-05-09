@@ -1,3 +1,0 @@
-# § 54.1-921 Quarantine detention.
-
-<p>If any pilot is permitted to go on board a vessel without being informed of a contagious or infectious disease on board, and is obligated to remain on board, or perform quarantine in consequence thereof he shall be paid for each day's detention in accordance with the rate prescribed for a day's detention by the State Corporation Commission.</p><p>Code 1950, § 54-565; 1988, c. 765.</p>

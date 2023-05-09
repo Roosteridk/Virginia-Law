@@ -1,3 +1,0 @@
-# § 21-368 Assessment rolls to provide for bond interest payments.
-
-<p>The first of these assessment rolls shall provide assessments sufficient for the payment of interest on the bond issue to accrue the third year after their issue, and the instalment of principal to fall due at the expiration of the third year after the date of issue, together with such amounts as shall have to be paid for collecting and handling of the same. The second assessment roll shall make like provision for the fourth year; the third for the fifth year; and in like manner for each succeeding year.</p><p>Code 1919, § 1771; 1920, p. 611; 1924, p. 711; 1926, p. 619; 1936, p. 1034.</p>

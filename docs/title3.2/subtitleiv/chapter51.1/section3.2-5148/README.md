@@ -1,3 +1,0 @@
-# § 3.2-5148 (For expiration date, see Editor's notes) Regulations.
-
-<p>The Board may adopt, in accordance with the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.), regulations necessary or convenient to carry out the purposes of this chapter.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0574'>574</a>.</p>

@@ -1,3 +1,0 @@
-# § 33.2-408 Acquisition of adjacent land.
-
-<p>When the Board has designated a highway as a Virginia byway or as a scenic highway, the Commissioner of Highways may acquire by gift or purchase such land, or interests therein, of primary importance for the preservation of natural beauty adjacent to Virginia byways or scenic highways.</p><p>Code 1950, § 33-43.5; 1966, c. 11; 1970, c. 322, § 33.1-66; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

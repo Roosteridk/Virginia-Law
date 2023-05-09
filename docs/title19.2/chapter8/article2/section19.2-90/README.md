@@ -1,3 +1,0 @@
-# § 19.2-90 Extradition of persons who have left demanding state involuntarily.
-
-<p>The Governor may also surrender on demand of the executive authority of any other state any person in this Commonwealth who is charged in the manner provided in §§ <a href='http://law.lis.virginia.gov/vacode/19.2-109/'>19.2-109</a> to <a href='http://law.lis.virginia.gov/vacode/19.2-111/'>19.2-111</a>, with having violated the laws of the state whose executive authority is making the demand, even though such person left the demanding state involuntarily.</p><p>Code 1950, § 19.1-54; 1960, c. 366; 1975, c. 495.</p>

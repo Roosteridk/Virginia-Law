@@ -1,3 +1,0 @@
-# § 15.2-5305 What constitutes need.
-
-<p>The council may adopt a resolution declaring that there is need for a hospital authority in the city if it finds (i) that there are inadequate hospital facilities and medical accommodations from the operations of private enterprises in the city and the surrounding area, or (ii) that the public health and welfare, including the health and welfare of persons of low income in the city and the surrounding area, require the construction, maintenance or operation of public hospital facilities for such inhabitants.</p><p>Code 1950, § 32-218; 1979, c. 719, § 15.1-1538; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 15.2-2145 Sale of water and use of streets by one city in another.
-
-<p>No city which owns or controls a waterworks system and which is authorized by its charter, or by general law, to sell or supply water to persons, firms or industries residing or located outside of its city limits shall be permitted to sell, supply or dispose of its water to the inhabitants, firms, corporations or industries of any other city, without the consent of such latter city; nor shall it operate any part of its waterworks system or occupy or use the streets, lanes, parks or other public places for such purpose in such latter city without first obtaining consent.</p><p>Code 1950, § 15-748; 1950, p. 851; 1962, c. 623, § 15.1-334; 1970, c. 583; 1997, c. 587.</p>

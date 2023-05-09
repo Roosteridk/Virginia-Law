@@ -1,3 +1,0 @@
-# § 17.1-616 Restriction of costs for witnesses generally; when entry for witness not allowed.
-
-<p>The court may restrict the taxation in the costs for witnesses to so many as may be deemed just. No entry for a witness shall be made against a party recovering costs, after execution has issued for such party. In no case shall there be an entry of a witness for attendance at a term, after sixty days from the end of such term.</p><p>Code 1950, § 14-191; 1964, c. 386, § 14.1-194; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

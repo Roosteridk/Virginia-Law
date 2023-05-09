@@ -1,3 +1,0 @@
-# § 54.1-4101.1 Officers may examine records or property; warrantless search and seizure authorized.
-
-<p>Every dealer or his employee shall admit to his place of business during regular business hours the chief law-enforcement officer or his designee of the jurisdiction in which the dealer is located or any law-enforcement officer of the state or federal government. The dealer or his employee shall permit the officer to (i) examine all records required by this chapter and any article listed in a record which is believed by the officer to be missing or stolen and (ii) search for and take into possession any article known to him to be missing, or known or believed by him to have been stolen.</p><p>1991, c. 174.</p>

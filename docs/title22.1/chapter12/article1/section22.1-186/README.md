@@ -1,3 +1,0 @@
-# § 22.1-186 Payments for transportation of pupils.
-
-<p>The regulations of the Board of Education governing state payments for pupil transportation shall provide for payments to school divisions for pupil transportation provided by the school divisions both through systems operated by the school divisions and through contracts with public transportation facilities.</p><p>Code 1950, § 22-283.1; 1972, c. 699; 1980, c. 559.</p>

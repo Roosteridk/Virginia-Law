@@ -1,3 +1,0 @@
-# § 33.2-602 Toll bridges; when privilege ceases.
-
-<p>When an act is passed to authorize the erection of a toll bridge, if the work is not commenced within one year from the passage of such act or is not completed within two years after such commencement or if, after its completion, there is an abandonment of the toll bridge or a failure for three successive years to keep it in good order, the privileges granted by the act shall cease.</p><p>Code 1950, § 33-215; 1970, c. 322, § 33.1-255; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

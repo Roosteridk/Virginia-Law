@@ -1,3 +1,0 @@
-# § 46.2-327 Copies of applications; record of licenses and learner's permits issued, suspended, or revoked.
-
-<p>The Department shall retain a copy of every application for a driver's license or learner's permit. The Department shall index and maintain a record of all licenses and learner's permits issued, suspended, or revoked.</p><p>Code 1950, § 46-367; 1958, c. 541, § 46.1-372; 1984, c. 780; 1989, c. 727.</p>

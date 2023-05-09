@@ -1,3 +1,0 @@
-# § 3.2-5501 Contents; compliance with definitions.
-
-<p>All vinegar made by fermentation without distillation must carry in solution only the extractive matter derived exclusively from the fruit, grain, sugar or syrup from which it was derived and fermented, and comply with the definitions given in § <a href='http://law.lis.virginia.gov/vacode/3.2-5500/'>3.2-5500</a>.</p><p>Code 1950, § 3-690; 1966, c. 702, § 3.1-899; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

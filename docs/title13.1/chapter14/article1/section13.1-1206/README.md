@@ -1,3 +1,0 @@
-# § 13.1-1206 Unlawful to transact or offer to transact business as a business trust; penalty.
-
-<p>A. It shall be unlawful for any person to transact business in this Commonwealth as a business trust or to offer or advertise to transact business in this Commonwealth as a business trust unless the alleged business trust is either a domestic business trust or a foreign business trust authorized to transact business in this Commonwealth.</p><p>B. Any person who violates the provisions of this section is guilty of a Class 1 misdemeanor.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0621'>621</a>.</p>

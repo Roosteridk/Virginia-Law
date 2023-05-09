@@ -1,3 +1,0 @@
-# § 6.2-2400 Definition.
-
-<p>As used in this chapter:</p><p>"Securitization transaction" means a transaction relating to the issuance or transfer by a special purpose entity of beneficial interests or undivided interests, which entitle their holders to receive payments or other distributions that depend primarily on the cash flow from assets, including financial assets and other credit exposures, in which that special purpose entity has rights or the power to transfer rights.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0600'>600</a>, § 6.1-473; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

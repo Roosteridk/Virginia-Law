@@ -1,3 +1,0 @@
-# § 55.1-2431 Escheat of estates in trust and equitable titles.
-
-<p>An estate vested in a person solely by mortgage or deed of trust shall not escheat or be forfeited to the Commonwealth by reason of the mortgagee or trustee dying without heirs, but any equitable title to lands shall escheat or be forfeited, as the case may be, if the person having the equitable title also had the legal title.</p><p>Code 1919, § 514; Code 1950, § 55-193; 1977, c. 583; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-1306 Policy of General Assembly.
-
-<p>It shall be the policy of the General Assembly to encourage Virginia's counties, cities and towns to exercise the options provided by law to work together for their mutual benefit and the benefit of the Commonwealth.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP1045'>1045</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP1055'>1055</a>, § 15.1-1227.1; 1997, c. 587.</p>

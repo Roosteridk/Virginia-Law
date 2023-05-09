@@ -1,3 +1,0 @@
-# § 6.2-1077 Reacquisition of shares or interests; dividends.
-
-<p>A private trust company shall not purchase, redeem, or otherwise reacquire shares of stock or membership interests that the private trust company has issued, or declare a dividend or other distribution to its stockholders, members, or holders of equity interests, to the extent that such purchase, redemption, reacquisition, dividend, or distribution shall cause the private trust company's paid-in capital, retained surplus and reserves to be reduced below $500,000.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0910'>910</a>, § 6.1-32.30:4; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

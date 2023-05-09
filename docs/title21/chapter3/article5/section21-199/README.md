@@ -1,3 +1,0 @@
-# § 21-199 Bonds constitute legal investments.
-
-<p>Any bonds issued pursuant to the authority of this chapter are hereby made securities in which all public officers and bodies of this Commonwealth and all political subdivisions thereof, all insurance companies and associations, all savings banks and savings institutions, including savings and loan associations, in the Commonwealth, may properly and legally invest funds in their control.</p><p>1938, p. 528; Michie Code 1942, § 1560eee.</p>

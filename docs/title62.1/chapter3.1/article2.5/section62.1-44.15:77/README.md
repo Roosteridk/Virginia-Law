@@ -1,3 +1,0 @@
-# § 62.1-44.15:77 Effect on other governmental authority.
-
-<p>The authorities granted herein are supplemental to other state, regional, and local governmental authority. No authority granted to a local government by this article shall affect in any way the authority of the Board. No authority granted to a local government by this article shall limit in any way any other planning, zoning, or subdivision authority of that local government.</p><p>1988, cc. 608, 891, § 10.1-2113; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0756'>756</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0793'>793</a>.</p>

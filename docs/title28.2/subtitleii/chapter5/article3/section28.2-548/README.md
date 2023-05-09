@@ -1,3 +1,0 @@
-# § 28.2-548 Duty to inspect.
-
-<p>It shall be the duty of the officer in whose district a cargo of oysters is to be loaded to inspect the oysters as they are loaded and to ensure that all measurements are a full measure of oysters as defined in § <a href='http://law.lis.virginia.gov/vacode/28.2-526/'>28.2-526</a> and that the oysters are properly culled.</p><p>Code 1950, §§ 28-103, 28-105; 1954, c. 367; 1960, c. 517; 1962, c. 406, § 28.1-90; 1992, c. 836; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0033'>33</a>; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0038'>38</a>.</p>

@@ -1,3 +1,0 @@
-# § 38.2-4320 Authority of Commonwealth to contract with health maintenance organizations.
-
-<p>This Commonwealth is authorized to enter into contracts with health maintenance organizations on behalf of its employees and the citizens of the Commonwealth, including contracts to furnish health care services to recipients of medical assistance under Title XIX of the Social Security Act, 42 U.S.C. § 1396 et seq.</p><p>1980, c. 720, § 38.1-889; 1986, c. 562.</p>

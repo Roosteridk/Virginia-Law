@@ -1,3 +1,0 @@
-# § 20-31.1 When marriage legitimates children; issue of marriages prohibited by law, etc., legitimate.
-
-<p>If a person, having had a child, shall afterwards intermarry with the mother or father, such child if recognized by both of them, as their own child, jointly or separately, before or after marriage, shall be deemed legitimate.</p><p>The issue of marriages prohibited by law, deemed null or void or dissolved by a court shall nevertheless be legitimate.</p><p>1978, c. 647.</p>

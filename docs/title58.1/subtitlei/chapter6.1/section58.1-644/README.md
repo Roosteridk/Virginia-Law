@@ -1,3 +1,0 @@
-# § 58.1-644 Provisions of Chapter 6 of this title to apply, mutatis mutandis.
-
-<p>The provisions in Chapter 6 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-600/'>58.1-600</a> et seq.) of this title shall apply to this chapter, mutatis mutandis, except as herein provided and except that replacement truck tires shall be subject to the tax imposed pursuant to this chapter.</p><p>1989, c. 630.</p>

@@ -1,3 +1,0 @@
-# § 8.01-599 Warrant or motion for judgment against receiver in general district court, when to be tried.
-
-<p>A warrant or motion for judgment before a general district court under §§ <a href='http://law.lis.virginia.gov/vacode/8.01-597/'>8.01-597</a> and <a href='http://law.lis.virginia.gov/vacode/8.01-598/'>8.01-598</a> may be tried not less than ten days after service of process.</p><p>Code 1950, § 8-743; 1977, c. 617.</p>

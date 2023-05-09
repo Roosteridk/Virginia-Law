@@ -1,3 +1,0 @@
-# § 51.5-162 Independent living services.
-
-<p>Independent living services provided pursuant to this article shall be provided in accordance with the federal Rehabilitation Act of 1973 (29 U.S.C. § 701 et seq.), as amended.</p><p>1985, c. 421, §§ 51.01-24, 51.5-24; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0503'>503</a>; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

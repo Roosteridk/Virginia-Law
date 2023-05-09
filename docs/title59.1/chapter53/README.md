@@ -1,1 +1,0 @@
-# 53 Consumer Data Protection Act

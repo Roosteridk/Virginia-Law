@@ -1,3 +1,0 @@
-# § 38.2-3514 When liability not to be denied because of preexisting disease, physical impairment or defect.
-
-<p>No insurer that has delivered or issued for delivery in this Commonwealth an accident and sickness insurance policy pursuant to the provisions of this article shall deny liability on any claim otherwise covered under such policy because of the existence of a disease or physical impairment or defect, congenital or otherwise, at the time of the making of the application for such policy, unless it is shown that the applicant knew or might reasonably have been expected to know of such disease, impairment or defect.</p><p>1966, c. 184, § 38.1-361.1; 1986, c. 562.</p>

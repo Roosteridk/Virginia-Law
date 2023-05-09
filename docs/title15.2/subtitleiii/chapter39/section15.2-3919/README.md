@@ -1,3 +1,0 @@
-# § 15.2-3919 Legislative, etc., district and judicial circuit not affected.
-
-<p>Any city formed under the provisions of this chapter shall be and remain a part of the congressional, senatorial and legislative districts, respectively, and of the judicial circuit in which, as a county, it was geographically located, unless otherwise changed by general law.</p><p>1979, c. 85, § 15.1-977.19; 1997, c. 587.</p>

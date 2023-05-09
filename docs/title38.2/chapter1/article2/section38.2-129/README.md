@@ -1,3 +1,0 @@
-# § 38.2-129 Home protection insurance.
-
-<p>"Home protection insurance" means any contract or agreement whereby a person undertakes for a specified period of time and for a predetermined fee to furnish, arrange for, or indemnify for service, repair, or replacement of any or all of the structural components, parts, appliances, or systems of any covered residential dwelling caused by wear and tear, deterioration, inherent defect, or by the failure of any inspection to detect the likelihood of failure.</p><p>1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 29.1-114 Hunting from aircraft feral hogs.
-
-<p>Notwithstanding § <a href='/vacode/5.1-17/'>5.1-17</a>, employees of the Department and employees of federal agencies whose responsibilities include fisheries and wildlife management, in the performance of such employees' official duties, may hunt or kill feral hogs in False Cape State Park and Back Bay National Wildlife Refuge from aircraft, with the permission of the landowner. However, no such activity shall occur during waterfowl season.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0116'>116</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0958'>958</a>.</p>

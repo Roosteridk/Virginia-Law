@@ -1,3 +1,0 @@
-# § 58.1-209 Disclosure of social security account numbers.
-
-<p>Notwithstanding any other provision of law, the Department may require disclosure of the social security account number of a taxpayer for any purpose relating to taxes administered by the Department, including verification of the identity of any individual. Such numbers shall be regarded as confidential tax information pursuant to the provisions of § <a href='http://law.lis.virginia.gov/vacode/58.1-3/'>58.1-3</a>.</p><p>Code 1950, § 58-46.3; 1976, c. 663; 1984, c. 675.</p>

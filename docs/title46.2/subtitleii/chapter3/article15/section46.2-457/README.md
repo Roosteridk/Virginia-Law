@@ -1,3 +1,0 @@
-# § 46.2-457 Substitution of new proof; cancellation or return of old.
-
-<p>The Commissioner may cancel any bond or return any certificate of insurance and on the substitution and acceptance by him of other adequate proof of financial responsibility pursuant to this chapter, and on his direction to such effect the State Treasurer shall return any money or securities on deposit with him to the person entitled to it.</p><p>Code 1950, § 46-477; 1958, c. 541, § 46.1-488; 1989, c. 727.</p>

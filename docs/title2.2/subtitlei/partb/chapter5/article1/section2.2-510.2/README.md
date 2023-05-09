@@ -1,3 +1,0 @@
-# § 2.2-510.2 Employment of outside counsel where a conflict of interests exists.
-
-<p>In cases where the Attorney General certifies to the Governor that it would be improper for the Attorney General's office to render legal services due to a conflict of interests, the Attorney General shall negotiate an agreement with outside counsel to render the necessary legal services for the matter. The agreement shall include a reasonable fee for the necessary legal services rendered. Compensation shall be expended from funds appropriated to the Attorney General's office.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0824'>824</a>.</p>

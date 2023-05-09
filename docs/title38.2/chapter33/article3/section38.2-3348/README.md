@@ -1,3 +1,0 @@
-# § 38.2-3348 Reinstatement.
-
-<p>Each industrial life insurance policy shall contain a provision that the policy, if not surrendered for its cash value or if the period of extended term insurance has not expired, may be reinstated within one year from the date of default in payment of premiums upon:</p><p>1. Payment of all overdue premiums and, at the insurer's option, interest on the overdue premiums at an annual rate not exceeding six percent; and</p><p>2. Presentation of evidence satisfactory to the insurer of the insurability of the insured.</p><p>Code 1950, § 38-434(7); 1952, c. 317, § 38.1-416; 1986, c. 562.</p>

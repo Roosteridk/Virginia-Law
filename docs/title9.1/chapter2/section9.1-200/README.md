@@ -1,3 +1,0 @@
-# § 9.1-200 Department of Fire Programs.
-
-<p>There is created a Department of Fire Programs that shall be headed by a Director who shall be appointed by the Governor to serve at his pleasure. The Department shall be the designated state agency to receive and disburse any funds available to the Commonwealth under the Federal Fire Prevention and Control Act (P. L. 93-498).</p><p>1978, c. 606, § 9-153; 1980, c. 728; 1981, c. 154; 1984, c. 720; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

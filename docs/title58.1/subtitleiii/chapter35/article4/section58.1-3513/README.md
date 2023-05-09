@@ -1,3 +1,0 @@
-# § 58.1-3513 When imports deemed to acquire situs.
-
-<p>Goods imported in foreign commerce shall not acquire a situs for property taxation in the Commonwealth or any county, city or town thereof until they lose their status as imports. Such goods shall be deemed to lose their status as imports when the original package or container in which they were imported is broken, or if such goods are not packaged, when such property has reached its second place of rest or storage after being unloaded from the airplane, vehicle or vessel in which it was imported, after initial sale, or after such goods have been committed by the importer to current operational needs.</p><p>Code 1950, § 58-834.2; 1976, c. 716; 1984, c. 675.</p>

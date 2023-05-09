@@ -1,3 +1,0 @@
-# § 21-311 Recordation of petition and orders.
-
-<p>A copy of the petition, duly certified by the clerk of the court in which the same was originally filed, shall be recorded in the deed book in the clerk's office, of each county in which any of the lands affected thereby are located and duly indexed in the names of all the parties, the costs of such recordation to be taxed as a part of the costs of the proceedings. Any orders in the proceedings whereby other persons are made parties, shall be recorded and indexed in like manner.</p><p>Code 1919, § 1742.</p>

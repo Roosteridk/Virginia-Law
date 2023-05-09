@@ -1,3 +1,0 @@
-# § 22.1-116 How and by whom funds for school division kept and disbursed.
-
-<p>The treasurer or comparable officer of each county, city or part thereof constituting a school division or town, if the town constitutes the school division, shall be charged with the responsibility for the receipt, custody and disbursement of the funds of the school board and shall keep such funds in an account or accounts separate and distinct from all other funds.</p><p>Code 1950, §§ 22-132, 22-133; 1959, Ex. Sess., c. 79, § 1; 1960, c. 222; 1980, c. 559.</p>

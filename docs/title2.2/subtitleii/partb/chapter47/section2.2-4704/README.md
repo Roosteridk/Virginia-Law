@@ -1,3 +1,0 @@
-# § 2.2-4704 Alternative method.
-
-<p>This chapter shall be deemed to provide an additional, alternative method for the performance of actions authorized hereby and shall be regarded as supplemental and additional to powers conferred by other laws and shall not be regarded as in derogation of any powers now existing.</p><p>1988, c. 498, § 2.1-234.9:5; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

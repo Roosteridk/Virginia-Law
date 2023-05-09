@@ -1,3 +1,0 @@
-# § 29.1-610 Portion of James River declared a no hunting area.
-
-<p>The James River from Bosher's Dam downstream to the Interstate 95 bridge is a no-hunting area. It is unlawful to take, attempt to take, or pursue wildlife within such area; however, fishing in such area is permitted as otherwise authorized by law.</p><p>1987, c. 488; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0235'>235</a>.</p>

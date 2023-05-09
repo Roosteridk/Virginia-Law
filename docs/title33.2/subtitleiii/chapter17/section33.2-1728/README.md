@@ -1,3 +1,0 @@
-# § 33.2-1728 Chapter provides alternative method.
-
-<p>This chapter shall be deemed to provide an additional and alternative method for actions authorized by this chapter and shall be regarded as supplemental and additional to powers conferred by other laws and shall not be regarded as in derogation of any existing powers.</p><p>Code 1950, § 33-254; 1970, c. 322, § 33.1-294; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

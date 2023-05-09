@@ -1,3 +1,0 @@
-# § 5.1-114 Transfer or lease of certificate.
-
-<p>Any certificate issued under this chapter may be transferred or leased, subject to the approval of the Commission and under such reasonable rules and regulations as may be prescribed by the Commission. An application for such approval shall be made jointly by the transferor and transferee, or lessor and lessee.</p><p>No certificate shall be transferred, leased or otherwise disposed of when any consideration is paid or promised which exceeds the then value of the tangible property sold in connection with the transfer or lease of such certificate.</p><p>Code 1950, § 56-168; 1970, c. 708.</p>

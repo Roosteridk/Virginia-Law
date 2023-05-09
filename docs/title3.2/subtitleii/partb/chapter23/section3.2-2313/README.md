@@ -1,3 +1,0 @@
-# § 3.2-2313 Records to be kept by handlers.
-
-<p>The handler shall keep a complete record of the soybeans handled by him for a period of not less than three years from the time the soybeans were handled. Such records shall be open to the inspection of the Tax Commissioner and shall be established and maintained as required by the Tax Commissioner.</p><p>1970, c. 431, § 3.1-684.15; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

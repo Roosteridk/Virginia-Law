@@ -1,3 +1,0 @@
-# § 23.1-1204 Duties; administration of assets, moneys, or obligations.
-
-<p>The Authority shall manage and administer all assets, moneys, or obligations set aside and transferred to it by the General Assembly or eligible institutions as provided in this article.</p><p>1966, c. 685, § 23-30.26; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0672'>672</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0689'>689</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

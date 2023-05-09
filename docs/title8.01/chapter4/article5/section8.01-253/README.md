@@ -1,3 +1,0 @@
-# § 8.01-253 Limitation of suits to avoid voluntary conveyances, etc.
-
-<p>No gift, conveyance, assignment, transfer, or charge, which is not on consideration deemed valuable in law, or which is upon consideration of marriage, shall be avoided in whole or in part for that cause only, unless within five years from its recordation, and if not so recorded within five years from the time the same was or should have been discovered, suit be brought for that purpose, or the subject thereof, or some part of it, be distrained or levied on by or at the suit of a creditor, as to whom such gift, conveyance, assignment, transfer, or charge, is declared to be void by § <a href='/vacode/55.1-401/'>55.1-401</a>.</p><p>Code 1950, § 8-19; 1977, c. 617.</p>

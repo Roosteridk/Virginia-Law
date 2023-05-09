@@ -1,3 +1,0 @@
-# § 38.2-118 Property damage liability.
-
-<p>"Property damage liability insurance" means insurance against legal liability of the insured, and against loss, damage or expense incident to a claim of such liability, arising out of the loss or destruction of, or damage to, the property of any other person, but not including any class of insurance specified in § <a href='http://law.lis.virginia.gov/vacode/38.2-117/'>38.2-117</a> or § <a href='http://law.lis.virginia.gov/vacode/38.2-119/'>38.2-119</a>.</p><p>1952, c. 317, § 38.1-16; 1986, c. 562.</p>

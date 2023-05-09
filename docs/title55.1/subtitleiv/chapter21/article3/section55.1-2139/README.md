@@ -1,3 +1,0 @@
-# § 55.1-2139 Common elements; notice of pesticide application.
-
-<p>Associations shall post notification of all pesticide applications in or upon the common elements. Such notice shall consist of conspicuous signs placed in or upon the common elements where the pesticide will be applied at least 48 hours prior to the application.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0065'>65</a>, § 55-464.1; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

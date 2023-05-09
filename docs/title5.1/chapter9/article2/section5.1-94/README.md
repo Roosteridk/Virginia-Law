@@ -1,3 +1,0 @@
-# § 5.1-94 Required certificate of public convenience and necessity.
-
-<p>No common carrier by aircraft or restricted common carrier by aircraft (not herein exempted) shall engage in intrastate operation in the airspace of this Commonwealth without first having obtained from the Commission a certificate of public convenience and necessity authorizing such operation.</p><p>Code 1950, § 56-147; 1970, c. 708.</p>

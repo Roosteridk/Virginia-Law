@@ -1,1 +1,0 @@
-# 40 Virginia Lottery Law; Sports Betting

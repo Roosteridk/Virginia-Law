@@ -1,3 +1,0 @@
-# § 18.2-125 Trespass at night upon any cemetery.
-
-<p>If any person, without the consent of the owner, proprietor or custodian, go or enter in the nighttime, upon the premises, property, driveways or walks of any cemetery, either public or private, for any purpose other than to visit the burial lot or grave of some member of his family, he shall be guilty of a Class 4 misdemeanor.</p><p>Code 1950, § 18.1-181; 1960, c. 358; 1975, cc. 14, 15.</p>

@@ -1,3 +1,0 @@
-# § 42.1-72 Injuring or destroying books and other property of libraries.
-
-<p>Any person who willfully, maliciously or wantonly writes upon, injures, defaces, tears, cuts, mutilates, or destroys any book or other library property belonging to or in the custody of any public, county or regional library, The Library of Virginia, other repository of public records, museums or any library or collection belonging to or in the custody of any educational, eleemosynary, benevolent, hereditary, historical library or patriotic institution, organization or society, shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 42-20; 1970, c. 606; 1975, c. 318; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0064'>64</a>.</p>

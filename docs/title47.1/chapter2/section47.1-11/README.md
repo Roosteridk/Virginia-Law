@@ -1,3 +1,0 @@
-# § 47.1-11 Reference materials.
-
-<p>The Secretary shall prepare, from time to time, reference materials for notaries public and electronic notaries public which shall contain the provisions of this title and such other information as the Secretary shall deem useful. Copies of the reference materials shall be made available to persons seeking appointment as notaries public and electronic notaries public as well as to other interested persons. The Secretary may make the materials available in digital format but shall provide written copies of the materials upon request.</p><p>1980, c. 580; 2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0269'>269</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0590'>590</a>.</p>

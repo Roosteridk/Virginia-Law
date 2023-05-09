@@ -1,3 +1,0 @@
-# § 54.1-2500 Definitions.
-
-<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Board" means the Board of Health Professions.</p><p>"Department" means the Department of Health Professions.</p><p>"Director" means the Director of the Department of Health Professions.</p><p>"Health regulatory board" or "regulatory board" means any board included within the Department of Health Professions as provided in § <a href='http://law.lis.virginia.gov/vacode/54.1-2503/'>54.1-2503</a>.</p><p>1977, c. 579, § 54-950; 1980, c. 678; 1983, c. 115; 1985, c. 448; 1986, c. 564; 1987, c. 686; 1988, c. 765.</p>

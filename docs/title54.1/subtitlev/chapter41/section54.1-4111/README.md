@@ -1,3 +1,0 @@
-# § 54.1-4111 Local ordinances.
-
-<p>Nothing in this chapter shall prevent any county, city, or town in this Commonwealth from enacting an ordinance regulating dealers in precious metals and gems which parallels this chapter, or which imposes terms, conditions, and fees that are stricter, more comprehensive, or larger than those imposed by this chapter. In any event, the terms, conditions, and fees imposed by this chapter shall constitute minimum requirements in any local ordinance. Any fee in excess of the one specified in § <a href='http://law.lis.virginia.gov/vacode/54.1-4108/'>54.1-4108</a> shall be reasonably related to the cost of enforcement of such local ordinance.</p><p>1981, c. 581, § 54-859.26; 1988, c. 765.</p>

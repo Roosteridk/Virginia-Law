@@ -1,3 +1,0 @@
-# § 15.2-1732 Appropriations for equipment and maintenance.
-
-<p>Localities may make such appropriations as may be necessary to arm, equip, uniform and maintain such auxiliary police force.</p><p>1968, c. 157, § 15.1-159.3; 1997, c. 587.</p>

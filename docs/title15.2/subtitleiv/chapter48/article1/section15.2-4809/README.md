@@ -1,3 +1,0 @@
-# § 15.2-4809 Cooperation between districts and adjoining localities.
-
-<p>Any district created under the provisions of this chapter may enter into agreements with adjoining localities for joint or cooperative action in accordance with the authority contained in § <a href='/vacode/15.2-1300/'>15.2-1300</a>.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0587'>587</a>.</p>

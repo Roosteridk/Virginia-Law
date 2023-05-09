@@ -1,3 +1,0 @@
-# § 22.1-202.1 Comparative religion as elective course.
-
-<p>The Board of Education shall authorize local school boards to offer, as an elective in grades nine through 12 with appropriate credits toward graduation, a comparative religion class that focuses on the basic tenets, history, and religious observances and rites of world religions.</p><p>2004, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0939'>939</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0955'>955</a>; 2006, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0090'>90</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0161'>161</a>.</p>

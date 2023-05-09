@@ -1,3 +1,0 @@
-# § 22.1-16.5 Training materials on human trafficking.
-
-<p>The Board, in collaboration with the Department of Social Services, shall provide awareness and training materials for local school division staff on human trafficking, including strategies for the prevention of trafficking of children.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0317'>317</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0370'>370</a>.</p>

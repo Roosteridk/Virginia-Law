@@ -1,3 +1,0 @@
-# § 64.2-507 Clerks to deliver statement of responsibilities.
-
-<p>The clerk of any court in which any person qualifies as executor or administrator of an estate shall deliver to such person, at the time of qualification, a statement in at least the following form: "As an executor or administrator of an estate, you are charged with the responsibility of filing any income, inheritance or estate tax returns required by state or federal law and an accounting of your handling of the estate."</p><p>1980, c. 292, § 64.1-122.1; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

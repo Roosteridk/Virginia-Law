@@ -1,3 +1,0 @@
-# § 56-265.12 Opinion of Commission admissible in evidence.
-
-<p>The opinion of the Commission shall be furnished in writing to the petitioners and to the owners of the water or sewerage system and shall be admissible in evidence in any proceedings concerning contracts between such water sewerage system and its subscribers together with any other evidence which may be offered by either litigant.</p><p>1954, c. 669.</p>

@@ -1,3 +1,0 @@
-# § 46.2-670.1 Vehicles owned by maritime cargo terminal operators.
-
-<p>No person shall be required to obtain the registration certificate, certificate of title, license plates, or decals for or to pay a registration fee for any motor vehicle owned or leased by a maritime cargo terminal owner or operator and used to transport a seagoing container and operated along a highway on a route of no more than one mile approved by the Department.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0379'>379</a>.</p>

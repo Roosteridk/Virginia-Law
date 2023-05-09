@@ -1,3 +1,0 @@
-# § 46.2-878.2:1 Maximum speed limits on certain roads.
-
-<p>Operation of any motor vehicle in excess of the maximum speed limit established for U.S. Route 15 and U.S. Route 17 in Fauquier County, when indicated by appropriately placed signs displaying the maximum speed limit and the penalty for violations, shall be unlawful and shall constitute a traffic infraction punishable by a fine of $15, in addition to other penalties provided by law. Subject to the issuance of a permit by the Commissioner of Highways, the county may, at its own expense, install and maintain such signs.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0892'>892</a>.</p>

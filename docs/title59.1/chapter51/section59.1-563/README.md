@@ -1,3 +1,0 @@
-# § 59.1-563 Fees and charges.
-
-<p>All fees, charges, and monetary penalties collected by the Department as provided in this chapter shall be paid into a special fund of the state treasury. Such funds shall be used to finance the administration and operation of this chapter.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0318'>318</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0703'>703</a>.</p>

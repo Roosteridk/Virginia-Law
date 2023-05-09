@@ -1,3 +1,0 @@
-# § 2.2-3715 Effect of advisory opinions from the Freedom of Information Advisory Council on liability for willful and knowing violations.
-
-<p>Any officer, employee, or member of a public body who is alleged to have committed a willful and knowing violation pursuant to § <a href='/vacode/2.2-3714/'>2.2-3714</a> shall have the right to introduce at any proceeding a copy of a relevant advisory opinion issued pursuant to § <a href='/vacode/30-179/'>30-179</a> as evidence that he did not willfully and knowingly commit the violation if the alleged violation resulted from his good faith reliance on the advisory opinion.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0354'>354</a>.</p>

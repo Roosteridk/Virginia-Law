@@ -1,3 +1,0 @@
-# § 2.2-4504 Investment of funds by the Commonwealth and political subdivisions in bankers' acceptances.
-
-<p>Notwithstanding any provisions of law to the contrary, all public officers, municipal corporations, other political subdivisions and all other public bodies of the Commonwealth may invest any and all moneys belonging to them or within their control other than sinking funds in bankers' acceptances.</p><p>1981, c. 18, § 2.1-328.3; 1988, c. 834; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

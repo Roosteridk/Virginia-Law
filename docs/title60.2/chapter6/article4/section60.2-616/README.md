@@ -1,3 +1,0 @@
-# § 60.2-616 Benefits based on services in connection with sports.
-
-<p>Benefits based on services, substantially all of which consist of participating in sports or athletic events or training or preparing to so participate, shall not be paid to any individual for any week of unemployment which commences during the period between two successive sport seasons, or similar periods, if such individual performed such services in the first of such seasons, or similar periods, and there is a reasonable assurance that such individual will perform such services in the later of such seasons, or similar periods.</p><p>1977, c. 330, § 60.1-52.4:1; 1986, c. 480.</p>

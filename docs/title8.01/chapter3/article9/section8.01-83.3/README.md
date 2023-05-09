@@ -1,3 +1,0 @@
-# § 8.01-83.3 Commissioners.
-
-<p>If the court appoints commissioners pursuant to Article 11 (§ <a href='/vacode/8.01-96/'>8.01-96</a> et seq.), each commissioner, in addition to the requirements and disqualifications applicable to commissioners in Article 11, shall be disinterested and impartial and not a party to or participant in the action.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0115'>115</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0193'>193</a>.</p>

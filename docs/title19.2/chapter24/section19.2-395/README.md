@@ -1,3 +1,0 @@
-# § 19.2-395 Duration of warrant.
-
-<p>An inspection warrant shall be effective for the time specified therein, for a period of not more than ten days, unless extended or renewed by the judicial officer who signed and issued the original warrant, upon satisfying himself that such extension or renewal is in the public interest. Such warrant shall be executed and returned to the clerk of the circuit court of the city or county wherein the inspection was made within the time specified in the warrant or within the extended or renewed time. After the expiration of such time, the warrant, unless executed shall be void.</p><p>1976, c. 625; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0354'>354</a>.</p>

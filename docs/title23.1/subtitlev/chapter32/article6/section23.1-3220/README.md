@@ -1,3 +1,0 @@
-# § 23.1-3220 Expenditures for current expenses.
-
-<p>All moneys received by the board for current expenses in operating the Museum shall be paid into the state treasury, where they shall be set aside as a special fund for the operation of the Museum to be paid by the State Treasurer on warrants of the Comptroller issued upon vouchers signed by the president of the Museum or his duly authorized agent.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0367'>367</a>, § 23-253.7; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0650'>650</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

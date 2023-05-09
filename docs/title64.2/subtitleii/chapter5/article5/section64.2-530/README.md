@@ -1,3 +1,0 @@
-# § 64.2-530 Lien acquired during lifetime of decedent not affected.
-
-<p>The provisions of §§ <a href='http://law.lis.virginia.gov/vacode/64.2-528/'>64.2-528</a> and <a href='http://law.lis.virginia.gov/vacode/64.2-529/'>64.2-529</a> shall not affect any lien acquired during the lifetime of the decedent.</p><p>Code 1950, § 64-149; 1968, c. 656, § 64.1-159; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

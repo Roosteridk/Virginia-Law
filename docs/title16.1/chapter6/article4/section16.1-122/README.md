@@ -1,3 +1,0 @@
-# § 16.1-122 Appeal.
-
-<p>If the property or money claimed in any such proceeding is more than $50 in value, an appeal of right may be had to the judgment or order of the court as provided in § <a href='http://law.lis.virginia.gov/vacode/16.1-106/'>16.1-106</a>.</p><p>1956, c. 555; 1978, c. 42; 1986, c. 25; 1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0482'>482</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0495'>495</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0645'>645</a>; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0869'>869</a>.</p>

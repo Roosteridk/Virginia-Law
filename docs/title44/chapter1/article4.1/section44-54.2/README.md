@@ -1,3 +1,0 @@
-# § 44-54.2 Payment of liability of State pursuant to Article III (f) of compact.
-
-<p>Upon presentation of a claim therefor by an appropriate authority of a state whose national guard forces have aided this State pursuant to the compact, any liability of this State pursuant to Article III (f) of the compact shall be paid out of funds appropriated to the Department of Military Affairs.</p><p>1968, c. 36; 1980, c. 221.</p>

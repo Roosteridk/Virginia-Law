@@ -1,3 +1,0 @@
-# § 50-73.124 Definitions.
-
-<p>In this article:</p><p>"General partner" means a partner in a partnership and a general partner in a limited partnership.</p><p>"Limited partner" means a limited partner in a limited partnership.</p><p>"Limited partnership" means a limited partnership created under the Virginia Revised Uniform Limited Partnership Act, predecessor law, or comparable law of another jurisdiction.</p><p>"Partner" includes both a general partner and a limited partner.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0292'>292</a>.</p>

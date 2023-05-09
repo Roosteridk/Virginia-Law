@@ -1,3 +1,0 @@
-# § 28.2-531 Taking clams on Sunday or at night; exception; penalty.
-
-<p>It shall be unlawful for any person to take clams from either public or private grounds, on Sunday or between sunset and sunrise. This section shall not apply to (i) the taking of clams on Sunday by hand or hand rake between sunrise and sunset if the clams are for personal use only and not for planting or commercial use, or (ii) the taking of cultured hard-shell clams on Sunday.</p><p>A violation of this section is a Class 3 misdemeanor.</p><p>1975, c. 185, § 28.1-139.1; 1992, c. 836; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0124'>124</a>.</p>

@@ -1,3 +1,0 @@
-# § 3.2-3714 Duty of attorneys for the Commonwealth.
-
-<p>It shall be the duty of each attorney for the Commonwealth with responsibility for the enforcement of this chapter, and to whom any violation is reported, to commence proceedings and prosecute in an appropriate court without delay.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0649'>649</a>, § 3.1-126.12:2; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

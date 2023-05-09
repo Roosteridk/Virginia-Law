@@ -1,3 +1,0 @@
-# § 58.1-1407 Retention of documents.
-
-<p>Any person who sells a watercraft in this Commonwealth shall retain a copy of the invoice required by § <a href='http://law.lis.virginia.gov/vacode/58.1-1403/'>58.1-1403</a> for three years following such sale. Any person taxed as a dealer under § <a href='http://law.lis.virginia.gov/vacode/58.1-1402/'>58.1-1402</a> shall retain a copy of all invoices for lease, charter or other usage of watercraft for three years following such transaction. Each invoice shall give an accurate description of the watercraft sold, leased or used.</p><p>Code 1950, § 58-685.48; 1981, c. 405; 1984, c. 675.</p>

@@ -1,3 +1,0 @@
-# § 18.2-376 Advertising, etc., obscene items, exhibitions or performances.
-
-<p>It shall be unlawful for any person knowingly to prepare, print, publish, or circulate, or cause to be prepared, printed, published or circulated, any notice or advertisement of any obscene item proscribed in § <a href='http://law.lis.virginia.gov/vacode/18.2-373/'>18.2-373</a>, or of any obscene performance or exhibition proscribed in § <a href='http://law.lis.virginia.gov/vacode/18.2-375/'>18.2-375</a>, stating or indicating where such obscene item, exhibition, or performance may be purchased, obtained, seen or heard.</p><p>Code 1950, § 18.1-231; 1960, c. 233; 1975, cc. 14, 15.</p>

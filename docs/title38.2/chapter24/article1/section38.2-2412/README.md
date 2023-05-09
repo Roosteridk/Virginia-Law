@@ -1,3 +1,0 @@
-# § 38.2-2412 Notice to clerks of revocation of licenses.
-
-<p>Whenever the Commission revokes, suspends or otherwise terminates the license of any fidelity and surety insurer it shall immediately give notice of the revocation, suspension or termination to the Clerk of the Supreme Court of Virginia and each circuit court in the Commonwealth.</p><p>Code 1950, § 38-335; 1952, c. 317, § 38.1-648; 1986, c. 562; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0979'>979</a>; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0460'>460</a>.</p>

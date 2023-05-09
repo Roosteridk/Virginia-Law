@@ -1,3 +1,0 @@
-# § 45.2-1713  Submission of the Plan.
-
-<p>Upon completion, the Division shall submit the Plan, including periodic updates thereto, to the Governor, the Commissioners of the State Corporation Commission, and the General Assembly. The Plan shall be submitted as provided in the procedures of the Division of Legislative Automated Systems for the processing of legislative documents. The Plan's executive summary shall be posted on the General Assembly's website.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0939'>939</a>, § 67-203; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

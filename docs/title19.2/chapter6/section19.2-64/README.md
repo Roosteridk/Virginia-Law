@@ -1,3 +1,0 @@
-# § 19.2-64 Forfeiture of unlawful devices.
-
-<p>Any electronic, mechanical or other device used, manufactured, assembled, possessed, sold, or advertised in violation of § <a href='http://law.lis.virginia.gov/vacode/19.2-62/'>19.2-62</a> or § <a href='http://law.lis.virginia.gov/vacode/19.2-63/'>19.2-63</a> may be seized and forfeited to the Commonwealth, and turned over to the court of record in the city or county in which it was seized and such property shall be disposed of in such manner as the court may direct.</p><p>Code 1950, § 19.1-89.4; 1973, c. 442; 1975, c. 495.</p>

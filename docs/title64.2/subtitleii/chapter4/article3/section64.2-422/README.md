@@ -1,3 +1,0 @@
-# § 64.2-422 When omitted spouse to take intestate portion.
-
-<p>If a testator fails to provide by will for a surviving spouse who married the testator after the execution of the will, the omitted spouse shall receive the same share of the estate such spouse would have received if the decedent left no will, unless it appears from the will or from the provisions of a valid premarital or marital agreement that the omission was intentional.</p><p>1985, c. 430, § 64.1-69.1; 1991, c. 441; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,3 +1,0 @@
-# § 56-233.1 Public utilities purchasing practices.
-
-<p>Every public utility subject to the annual or biennial review provisions of Title 56 shall use competitive bidding to the extent practicable in its purchasing and construction practices. In addition, all such public utilities shall file with the Commission and keep current a description of its purchasing and construction practices.</p><p>1978, c. 627; 2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0888'>888</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0933'>933</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0522'>522</a>.</p>

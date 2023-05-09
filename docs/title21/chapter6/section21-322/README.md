@@ -1,3 +1,0 @@
-# § 21-322 Land excluded from district but located within boundaries.
-
-<p>If any lands shall be excluded from the district because of the court having found that such lands will not be affected or benefited, and the names of the owners of such lands have been withdrawn from such proceedings, but such lands are so situated as necessarily to be located within the outer boundaries of the district, such fact shall not prevent the establishment of the district, and the lands shall not be assessed for any drainage tax, but this shall not prevent the district from acquiring a right-of-way across such lands for constructing a canal or ditch or for any other necessary purpose authorized by law.</p><p>Code 1919, § 1746.</p>

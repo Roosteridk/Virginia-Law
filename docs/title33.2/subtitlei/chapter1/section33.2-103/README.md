@@ -1,3 +1,0 @@
-# § 33.2-103 Certified mail; subsequent mail or notices may be sent by regular mail.
-
-<p>Whenever in this title the Board, Commissioner of Highways, or Department is required to send any mail or notice by certified mail and such mail or notice is sent certified mail, return receipt requested, then any subsequent, identical mail or notice that is sent by the Board, Commissioner of Highways, or Department may be sent by regular mail.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0566'>566</a>, § 33.1-13.04; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,3 +1,0 @@
-# § 8.01-670 In what cases awarded.
-
-<p>A party aggrieved by a final decision of the Court of Appeals may petition the Supreme Court for an appeal in accordance with § <a href='/vacode/17.1-411/'>17.1-411</a>.</p><p>Code 1950, § 8-462; 1977, c. 617; 1984, c. 703; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0801'>801</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0107'>107</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0681'>681</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0489'>489</a>.</p>

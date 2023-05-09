@@ -1,3 +1,0 @@
-# § 58.1-1603 Lien.
-
-<p>Such tax, together with interest and penalties imposed by this chapter, shall be a lien upon the forest products so severed or assembled for shipment, and upon the product manufactured therefrom, until the tax shall have been paid, or until such forest product or the product manufactured therefrom shall have been sold by the manufacturer thereof.</p><p>Code 1950, § 58-838.4; 1970, c. 770; 1984, c. 675.</p>

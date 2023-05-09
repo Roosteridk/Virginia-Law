@@ -1,3 +1,0 @@
-# § 24.2-952 General provisions.
-
-<p>Any inaugural committee shall maintain all inaugural funds in a separate account and in such detail and form as to allow full compliance with this chapter. A candidate's campaign committee shall not serve as an inaugural fund committee.</p><p>1991, cc. 474, 709, § 24.1-254.3; 1993, c. 641, § 24.2-913; 2006, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0787'>787</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0892'>892</a>.</p>

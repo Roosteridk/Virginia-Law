@@ -1,3 +1,0 @@
-# § 8.2A-202 Final written expression: parol or extrinsic evidence.
-
-<p>Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a writing intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented:</p><p>(a) by course of dealing or usage of trade or by course of performance; and</p><p>(b) by evidence of consistent additional terms unless the court finds the writing to have been intended also as a complete and exclusive statement of the terms of the agreement.</p><p>1991, c. 536.</p>

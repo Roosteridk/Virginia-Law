@@ -1,3 +1,0 @@
-# § 23.1-903.3 Mortuary science education; practical experience requirement.
-
-<p>Every public institution of higher education that offers a degree in mortuary science shall require students to complete practical experience in the areas of funeral service and embalming prior to graduation from such program.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0186'>186</a>.</p>

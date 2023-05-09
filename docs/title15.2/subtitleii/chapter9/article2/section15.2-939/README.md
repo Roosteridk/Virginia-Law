@@ -1,3 +1,0 @@
-# § 15.2-939 Ordinances requiring recycling reports.
-
-<p>Any locality may by ordinance require all nonresidential solid waste generators and companies that manage solid waste or recycle materials generated within its jurisdiction to annually report such nonproprietary information regarding waste generation, waste management, and recycling as is necessary to facilitate compliance with regulations adopted pursuant to § <a href='http://law.lis.virginia.gov/vacode/10.1-1411/'>10.1-1411</a>. Any report required under this section shall be based on volume or weight, provided that where such measurements cannot be accurately determined, the report may be based on carefully estimated data.</p><p>1990, cc. 540, 563, § 15.1-11.5:2; 1997, c. 587.</p>

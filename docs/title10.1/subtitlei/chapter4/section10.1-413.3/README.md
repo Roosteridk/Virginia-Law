@@ -1,3 +1,0 @@
-# § 10.1-413.3 Dan State Scenic River.
-
-<p>The Dan River from Berry Hill Road at Route 880 in Pittsylvania County to the downstream property boundary of Abreu/Grogan Park in Danville, a distance of approximately 15 miles, and the Dan River from the North Carolina-Virginia state line in Halifax County to the confluence with Aaron's Creek in Halifax County, a distance of approximately 38.6 miles, are hereby designated as the Dan State Scenic River, components of the Virginia Scenic Rivers System.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0705'>705</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0046'>46</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>.</p>

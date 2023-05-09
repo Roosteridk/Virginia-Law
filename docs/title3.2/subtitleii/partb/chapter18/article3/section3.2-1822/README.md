@@ -1,3 +1,0 @@
-# § 3.2-1822 Penalties.
-
-<p>Any person violating any provision of this article or any regulation adopted pursuant to this article is guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 3-228.11; 1950, p. 1030; 1966, cc. 686, 702, § 3.1-295; 1978, c. 540; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>, § 3.2-4111; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

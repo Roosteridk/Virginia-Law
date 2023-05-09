@@ -1,3 +1,0 @@
-# § 22.1-279.4 Information regarding prosecution for certain crimes.
-
-<p>School boards shall provide information developed by the office of the Attorney General to students regarding laws governing the prosecution of juveniles as adults for the commission of certain crimes. Methods of providing such information may include, but shall not be limited to, public announcements in the schools, written notification to parents, publication in the student conduct manual, and inclusion in those materials distributed to parents pursuant to § <a href='http://law.lis.virginia.gov/vacode/22.1-279.3/'>22.1-279.3</a>.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0465'>465</a>.</p>

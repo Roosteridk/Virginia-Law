@@ -1,3 +1,0 @@
-# § 18.2-286.1 Shooting from vehicles so as to endanger persons; penalty.
-
-<p>Any person who, while in or on a motor vehicle, intentionally discharges a firearm so as to create the risk of injury or death to another person or thereby cause another person to have a reasonable apprehension of injury or death shall be guilty of a Class 5 felony. Nothing in this section shall apply to a law-enforcement officer in the performance of his duties.</p><p>1990, c. 951.</p>

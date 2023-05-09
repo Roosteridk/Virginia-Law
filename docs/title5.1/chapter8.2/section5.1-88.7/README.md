@@ -1,3 +1,0 @@
-# § 5.1-88.7 Proof of financial responsibility to be furnished for licensed airports or landing areas.
-
-<p>No airport or landing area shall be licensed by the Department unless and until the applicant thereof furnishes proof of financial responsibility at least in the amounts required by this chapter. Private-use airports required to be licensed by virtue of being located within five miles of a licensed public-use airport shall not be required to provide proof of financial responsibility.</p><p>1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0682'>682</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0690'>690</a>; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0206'>206</a>.</p>

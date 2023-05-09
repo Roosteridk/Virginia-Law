@@ -1,3 +1,0 @@
-# § 32.1-63 Duty of physician, midwife or nurse noting ophthalmia neonatorum.
-
-<p>It shall be the duty of any physician, midwife or nurse who notes ophthalmia neonatorum within two weeks after the birth of an infant to perform or cause to be performed such tests as are necessary to ascertain the cause of such inflammation and to institute or have instituted appropriate therapy. When the cause of such inflammation is ascertained to be gonococcus, such physician, nurse or midwife shall report the infection to the local health director or the Commissioner as provided in § <a href='http://law.lis.virginia.gov/vacode/32.1-36/'>32.1-36</a>.</p><p>Code 1950, § 32-106; 1979, c. 711.</p>

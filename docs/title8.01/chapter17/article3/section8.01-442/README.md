@@ -1,3 +1,0 @@
-# § 8.01-442 In joint actions on contract plaintiff, though barred as to some, may have judgment against others.
-
-<p>In an action or motion, founded on contract, against two or more defendants, although the plaintiff may be barred as to one or more of them, yet he may have judgment against any other or others of the defendants, against whom he is not so barred.</p><p>Code 1950, § 8-367; 1977, c. 617.</p>

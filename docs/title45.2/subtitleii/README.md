@@ -1,1 +1,0 @@
-# II Coal Mining

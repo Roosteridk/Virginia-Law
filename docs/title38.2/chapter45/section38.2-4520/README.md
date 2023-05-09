@@ -1,3 +1,0 @@
-# § 38.2-4520 Corporate restrictions.
-
-<p>Any nonstock corporation subject to this chapter shall not engage in any other business. However, a nonstock corporation may assist in the administration of governmental health care programs in a manner provided for by contract or regulations. A nonstock corporation's charter may provide for ex officio directors and directors elected by persons or associations who are not directors or members of the nonstock corporation.</p><p>1980, c. 682, § 38.1-909; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 33.2-932 Construction of relocated highway.
-
-<p>Upon the acquisition of a right-of-way as provided in this article, the city or town shall grade such right-of-way and construct the highway required, in accordance with the plans and specifications approved by the Commissioner of Highways.</p><p>Code 1950, § 33-87; 1970, c. 322, § 33.1-173; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

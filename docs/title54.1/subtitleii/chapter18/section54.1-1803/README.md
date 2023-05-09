@@ -1,3 +1,0 @@
-# § 54.1-1803 Approval of schools to teach courses of instruction.
-
-<p>The Director shall promulgate regulations for the approval of schools in which courses of instruction for polygraph examiners and persons who operate other detection devices approved pursuant to § <a href='http://law.lis.virginia.gov/vacode/54.1-1805/'>54.1-1805</a> are taught.</p><p>1975, c. 522, § 54-920; 1988, c. 765; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0625'>625</a>.</p>

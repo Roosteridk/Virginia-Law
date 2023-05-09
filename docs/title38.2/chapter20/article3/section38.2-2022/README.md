@@ -1,3 +1,0 @@
-# § 38.2-2022 Advisory organizations defined.
-
-<p>For the purpose of this article, "advisory organization" means any group, association or other organization of insurers, located within or outside this Commonwealth, that assists insurers who make their own filings or rate service organizations in rate making, by the collection and furnishing of loss or expense statistics or by the submission of recommendations, but that does not make filings under this chapter for the kind of insurance involved.</p><p>Code 1950, §§ 38-218.1, 38-253.16, 38-253.63; 1952, c. 317, § 38.1-272; 1986, c. 562.</p>

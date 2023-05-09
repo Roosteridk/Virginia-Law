@@ -1,3 +1,0 @@
-# § 54.1-3430 Display of permit; permits nontransferable; renewal.
-
-<p>Permits issued under the provisions of this chapter shall be displayed in a conspicuous place in the factory or other place of business for which issued.</p><p>Permits shall not be transferable and shall be renewed annually.</p><p>Code 1950, §§ 54-449, 54-450; 1970, c. 650, § 54-524.38; 1976, c. 614, § 54-524.39; 1988, c. 765.</p>

@@ -1,3 +1,0 @@
-# § 15.2-5431.8 Issuance of certificate or charter.
-
-<p>The State Corporation Commission shall issue a certificate of incorporation or charter to the authority if it finds that the articles of incorporation conform to law. Upon the issuance of the certificate or charter such authority shall be conclusively deemed to have been lawfully and properly created and established and authorized to exercise its powers under this chapter.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0643'>643</a>.</p>

@@ -1,3 +1,0 @@
-# § 13.1-811 Penalty for signing false documents.
-
-<p>A. It shall be unlawful for any person to sign a document which he knows is false in any material respect with intent that the document be delivered to the Commission for filing.</p><p>B. Anyone who violates the provisions of this section shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 13.1-295; 1958, c. 506; 1975, c. 500; 1985, c. 522; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0925'>925</a>.</p>

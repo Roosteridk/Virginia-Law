@@ -1,3 +1,0 @@
-# § 2.2-614 Purebred livestock raised by state institutions and agencies may be sold instead of slaughtered.
-
-<p>The person in charge of any state institution or agency that raises purebred livestock may, when any of the livestock are to be slaughtered, sell the same to any person desiring to acquire the livestock for breeding purposes, provided the interests of the institution or agency will not be adversely affected by the sale.</p><p>1958, c. 586, § 2-4.3; 1966, c. 677, § 2.1-7; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

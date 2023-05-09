@@ -1,3 +1,0 @@
-# § 18.2-147.2 Devices for puncturing motor vehicle tires.
-
-<p>It shall be unlawful for any person to manufacture, distribute, have in his possession or place upon any highway or private property jackrocks which are primarily designed for the purpose of disabling motor vehicles by the puncturing of tires by anyone other than a law-enforcement officer. Any person convicted of unlawful manufacture, distribution, possession or use of such device shall be guilty of a Class 1 misdemeanor. A law-enforcement officer who is lawfully engaged in the discharge of his duties shall not be subject to the provisions of this section.</p><p>1982, c. 253; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0437'>437</a>.</p>

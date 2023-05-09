@@ -1,3 +1,0 @@
-# § 29.1-824 Appeals to Court of Appeals; bond.
-
-<p>Either party may appeal from the decision of the court to the Court of Appeals. Such appeals shall be taken and prosecuted in the same manner and with like effect as is provided by law in other cases appealed as a matter of right to the Court of Appeals.</p><p>1988, c. 592; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0573'>573</a>.</p>

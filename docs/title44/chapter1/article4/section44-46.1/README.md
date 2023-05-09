@@ -1,3 +1,0 @@
-# § 44-46.1 Military judges.
-
-<p>A military judge shall be a commissioned officer of the National Guard, shall be so assigned as a legal officer, shall be admitted to the practice of law, and shall be certified for such duty by the Adjutant General.</p><p>The Adjutant General shall designate a military judge on a case-by-case basis to preside over courts-martial of the Virginia National Guard.</p><p>1976, c. 399; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0572'>572</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0586'>586</a>.</p>

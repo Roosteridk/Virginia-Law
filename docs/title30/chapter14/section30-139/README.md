@@ -1,3 +1,0 @@
-# § 30-139 To whom Auditor to report defaults or irregularities.
-
-<p>If, at any time, the Auditor of Public Accounts discovers any unauthorized, illegal, irregular, or unsafe handling or expenditure of state funds, or if comes to his attention that any unauthorized, illegal, or unsafe handling or expenditure of state funds is contemplated but not consummated, he shall promptly report the facts to the Governor, the Joint Legislative Audit and Review Commission and the Comptroller.</p><p>In case there is any irregularity in the accounts of the Comptroller, the Auditor shall report it to the Governor and the General Assembly.</p><p>Code 1950, § 2-141; 1966, c. 677, § 2.1-170; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

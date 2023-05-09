@@ -1,3 +1,0 @@
-# § 17.1-604 Costs in appellate courts.
-
-<p>In every case in the Supreme Court or the Court of Appeals, costs shall be recovered in such court by the party substantially prevailing.</p><p>Code 1950, § 14-178; 1964, c. 386, § 14.1-181; 1971, Ex. Sess., c. 156; 1988, c. 525; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

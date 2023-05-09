@@ -1,3 +1,0 @@
-# § 58.1-3163 No liability for loss of funds deposited in accordance with article.
-
-<p>No treasurer shall be held liable for any loss of public money, deposited as provided by this article, due to the default, failure or insolvency of a depository.</p><p>Code 1950, § 58-952; 1984, c. 675.</p>

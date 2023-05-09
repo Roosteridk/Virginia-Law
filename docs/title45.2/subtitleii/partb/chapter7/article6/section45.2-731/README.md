@@ -1,3 +1,0 @@
-# § 45.2-731  Examination of escapeways.
-
-<p>The mine foreman shall examine every escapeway for hazardous conditions at least weekly. The mine foreman shall mark his initials and the date at each place examined, and if a hazardous condition is found, it shall be reported promptly. A record of such examinations and tests shall be kept at the mine.</p><p>Code 1950, §§ 45-32, 45-33, 45-60.4, 45-68.1, 45-69.7; 1954, c. 191; 1966, c. 594, 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

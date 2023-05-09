@@ -1,3 +1,0 @@
-# § 13.1-305 Rights of subscribers before full payment.
-
-<p>Certificates of stock of a stock cooperative association shall not be issued to any subscriber until fully paid, but the bylaws of the association may allow subscribers to vote as stockholders provided part of the stock subscribed for has been paid in cash.</p><p>Code 1950, § 13-242; 1956, c. 428; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0217'>217</a>.</p>

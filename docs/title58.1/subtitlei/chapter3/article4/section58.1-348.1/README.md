@@ -1,3 +1,0 @@
-# § 58.1-348.1 Fraudulent assistance; penalty.
-
-<p>Any income tax return preparer, as defined in § <a href='http://law.lis.virginia.gov/vacode/58.1-302/'>58.1-302</a>, who knowingly and willfully aids or assists in, counsels or advises the preparation or presentation of a return, affidavit, claim or other document required by this chapter that he knows is fraudulent or false as to any material matter, is guilty of a Class 6 felony.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0048'>48</a>.</p>

@@ -1,3 +1,0 @@
-# § 2.2-4410 Liability of public depositors.
-
-<p>When deposits are made in accordance with this chapter no official of a public depositor shall be personally liable for any loss resulting from the default or insolvency of any qualified public depository in the absence of negligence, malfeasance, misfeasance, or nonfeasance on his part or on the part of his agents.</p><p>1973, c. 172, § 2.1-370; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0640'>640</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0674'>674</a>.</p>

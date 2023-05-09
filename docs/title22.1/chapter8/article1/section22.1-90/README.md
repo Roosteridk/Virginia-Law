@@ -1,3 +1,0 @@
-# § 22.1-90 Annual report of expenditures.
-
-<p>Every school board shall submit at least once each year to the governing body or bodies appropriating funds to the school board a report of all its expenditures. Such report shall also be made available to the public either on the official school division website, if any, or in hard copy at the central school division office, on a template prescribed by the Board of Education.</p><p>Code 1950, § 22-97; 1954, c. 291; 1959, Ex. Sess., c. 79, § 1; 1968, c. 501; 1971, Ex. Sess., c. 161; 1975, cc. 308, 328; 1978, c. 430; 1980, c. 559; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0104'>104</a>.</p>

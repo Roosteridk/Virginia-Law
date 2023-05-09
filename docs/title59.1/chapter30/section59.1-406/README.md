@@ -1,3 +1,0 @@
-# § 59.1-406 Scope.
-
-<p>This chapter (§ <a href='http://law.lis.virginia.gov/vacode/59.1-406/'>59.1-406</a> et seq.) is enacted to promote the safety and protection of persons engaged in work or activity in the vicinity of overhead high voltage lines. The chapter defines the conditions under which work may be carried on safely and provides for the safety arrangements to be taken when any person engages in work or other activity in proximity to overhead high voltage lines.</p><p>1989, c. 341.</p>

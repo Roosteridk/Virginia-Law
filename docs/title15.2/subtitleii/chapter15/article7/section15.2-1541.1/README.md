@@ -1,3 +1,0 @@
-# § 15.2-1541.1 Authority of county administrator to maintain centralized system of accounting.
-
-<p>A county administrator shall maintain a centralized system of accounting for the county, including the county school board and the local board of social services, when such centralized system of accounting is authorized by the governing body under the provisions of § <a href='http://law.lis.virginia.gov/vacode/30-137/'>30-137</a>.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0380'>380</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

@@ -1,3 +1,0 @@
-# § 65.2-1206 Payments procured by fraud, mistake or unreported change in condition; recovery.
-
-<p>Any payment to a claimant pursuant to this chapter which is later determined by the Commission to have been procured by fraud, mistake or an unreported change in condition, shall be recovered from the claimant and credited to the Uninsured Employer's Fund.</p><p>1977, c. 345, § 65.1-152; 1991, c. 355.</p>

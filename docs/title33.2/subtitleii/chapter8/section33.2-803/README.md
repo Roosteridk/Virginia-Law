@@ -1,3 +1,0 @@
-# § 33.2-803 Dump creating fire hazard to public bridge; penalty.
-
-<p>It shall be unlawful for any person to establish or maintain a public or private dump containing flammable articles within 500 feet of any public bridge constructed wholly or partly of wood so as to create a fire hazard to such bridge. Any person violating this section is guilty of a Class 1 misdemeanor. Each day of operation in violation of this section shall constitute a separate offense. An offense in violation of this section may be enjoined in the manner provided by law for the abatement of public nuisances.</p><p>Code 1950, § 33-279.2; 1958, c. 91; 1970, c. 322, § 33.1-347; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

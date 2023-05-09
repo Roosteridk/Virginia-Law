@@ -1,3 +1,0 @@
-# § 10.1-1190 Approval of Governor required for construction of facility.
-
-<p>The State Comptroller shall not authorize payments of funds from the state treasury for a major state project unless the request is accompanied by the written approval of the Governor after his consideration of the comments of the Department on the environmental impact of the facility. This section shall not apply to funds appropriated by the General Assembly prior to June 1, 1973, or any reappropriation of such funds.</p><p>1973, c. 384, § 10-17.110; 1974, c. 270, § 10.1-1210; 1977, c. 667; 1988, c. 891; 1991, c. 289; 1992, c. 887.</p>

@@ -1,3 +1,0 @@
-# § 62.1-110 Court to hear and determine issues; reference to commissioner.
-
-<p>The court, on the day specified in the order of publication, shall hear and determine the issues in the proceeding based on the report and other evidence. In its discretion the court may refer any matter to a commissioner in chancery to take such evidence as may be proper and to make a report to the court.</p><p>Code 1950, § 62-94.7; 1956, c. 632; 1968, c. 659.</p>

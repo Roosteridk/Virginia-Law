@@ -1,3 +1,0 @@
-# § 25.1-105 Condemnation of cemeteries.
-
-<p>Nothing in this title shall be construed to authorize the condemnation of property of any cemetery or burial ground, or any part thereof. The authority to condemn any cemetery or burial ground shall be specifically as provided by law.</p><p>Code 1919, § 4384; Code 1950, §§ 25-45, 25-46; 1962, c. 426, § 25-46.6; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

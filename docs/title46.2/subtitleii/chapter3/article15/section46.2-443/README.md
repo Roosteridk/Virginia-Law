@@ -1,3 +1,0 @@
-# § 46.2-443 Chapter not applicable to certain policies of insurance.
-
-<p>This chapter does not apply to:</p><p>1. Policies of automobile insurance against liability which may now or hereafter be required by any other law of the Commonwealth and such policies if endorsed to the requirements of this chapter shall be accepted as proof of financial responsibility when required under this chapter; or</p><p>2. Policies insuring solely the insured named in the policy against liability resulting from the maintenance, use, or operation by persons in the insured's employ or in his behalf of motor vehicles not owned by the insured.</p><p>Code 1950, § 46-463; 1958, c. 541, § 46.1-475; 1989, c. 727.</p>

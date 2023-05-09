@@ -1,3 +1,0 @@
-# § 62.1-44.44 Construction of chapter.
-
-<p>Nothing in this chapter shall be construed as altering, or as authorizing any alteration of, any existing riparian rights or other vested rights in water or water use.</p><p>Code 1950, § 10-17.9; 1966, c. 561; 1972, c. 728; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0756'>756</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0793'>793</a>.</p>

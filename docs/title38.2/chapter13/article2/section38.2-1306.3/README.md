@@ -1,3 +1,0 @@
-# § 38.2-1306.3 Nonadmitted assets.
-
-<p>A. "Nonadmitted assets" or "not admitted assets" means those assets identified and reported as nonadmitted assets by or in accordance with the National Association of Insurance Commissioners (NAIC) accounting practices and procedures manuals, and any other asset or category of assets identified as nonadmitted in this title or which the Commission by rule or regulation identifies as an asset which shall be reported as a nonadmitted asset.</p><p>B. Goodwill, if admitted, may be admitted on or after January 1, 2001, subject to the guidance in the NAIC accounting practices and procedures manuals.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0046'>46</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-841 Department of farm and home demonstration.
-
-<p>The department of farm and home demonstration shall consist of the county agricultural agent, who shall be head of the department, a home demonstration agent and such assistants and employees as may be appointed or employed. The county agricultural agent and the home demonstration agent shall be selected from lists of eligibles submitted by the Virginia Polytechnic Institute and State University. They shall perform such duties as the board imposes upon them.</p><p>Code 1950, § 15-384.61; 1960, c. 382; 1962, c. 623, § 15.1-774; 1997, c. 587.</p>

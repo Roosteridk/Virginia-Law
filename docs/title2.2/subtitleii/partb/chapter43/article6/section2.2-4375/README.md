@@ -1,3 +1,0 @@
-# § 2.2-4375 Certification of compliance required; penalty for false statements.
-
-<p>A. Public bodies may require public employees having official responsibility for procurement transactions in which they participated to annually submit for such transactions a written certification that they complied with the provisions of this article.</p><p>B. Any public employee required to submit a certification as provided in subsection A who knowingly makes a false statement in the certification shall be punished as provided in § <a href='http://law.lis.virginia.gov/vacode/2.2-4377/'>2.2-4377</a>.</p><p>1992, c. 761, § 11-79.1; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

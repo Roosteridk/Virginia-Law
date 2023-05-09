@@ -1,3 +1,0 @@
-# § 59.1-568 Civil penalty.
-
-<p>In addition to the provisions of § <a href='http://law.lis.virginia.gov/vacode/59.1-561/'>59.1-561</a>, any person, firm, corporation, association, agent, or employee who knowingly violates any procedure implemented under subsection D of § <a href='http://law.lis.virginia.gov/vacode/59.1-557/'>59.1-557</a> or any other provision of this chapter shall be liable for a civil penalty of not more than $1,000 for each such violation. Such amount shall be recovered in a civil action brought by the Department and be paid into the State Literary Fund.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0318'>318</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0703'>703</a>.</p>

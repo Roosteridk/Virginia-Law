@@ -1,3 +1,0 @@
-# § 8.01-539 Who made defendants.
-
-<p>A person against whom the plaintiff is asserting the claim shall be made a defendant to the petition, and shall be known as a principal defendant. There shall also be made a defendant any person indebted to or having in his possession property, real or personal, belonging to a principal defendant, which is sought to be attached. There may also be made a defendant any person claiming title to, and interest in, or a lien upon the property sought to be attached. A defendant, other than a principal defendant, shall be known as a codefendant.</p><p>Code 1950, § 8-525; 1977, c. 617.</p>

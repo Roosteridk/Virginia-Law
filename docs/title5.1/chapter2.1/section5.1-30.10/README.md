@@ -1,3 +1,0 @@
-# § 5.1-30.10 Liberal construction of chapter.
-
-<p>The provisions of this chapter shall be liberally construed to the end that its beneficial purposes may be effectuated. Insofar as the provisions of this chapter are inconsistent with the provisions of any other law, general, special or local, the provisions of this chapter shall be controlling.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0897'>897</a>.</p>

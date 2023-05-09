@@ -1,3 +1,0 @@
-# § 22.1-236 Immunity of board members and officers and directors of corporations.
-
-<p>Neither the members of a school board nor the officers or directors of a corporation shall be personally liable for the negligence of any student or agent in connection with a career and technical education project.</p><p>Code 1950, § 22-330.46; 1974, c. 336; 1980, c. 559; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0483'>483</a>.</p>

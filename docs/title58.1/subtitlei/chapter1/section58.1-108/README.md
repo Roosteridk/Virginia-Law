@@ -1,3 +1,0 @@
-# § 58.1-108 Admissibility of reproductions of documents in evidence.
-
-<p>A reproduction or enlargement of any tax return, correspondence, document, form, statement, report or working paper, when duly attested by the Tax Commissioner, shall be received as evidence in any court or other proceeding for any purpose for which the original could be received without proof of the official character or the person whose name is signed thereto. The introduction of a reproduced tax return, correspondence, document, form, statement, report or working paper or of an enlargement thereof shall not preclude admission of the original.</p><p>Code 1950, § 58-48.3; 1972, c. 350; 1984, c. 675; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0103'>103</a>.</p>

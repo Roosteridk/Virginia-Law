@@ -1,3 +1,0 @@
-# § 15.2-1116 Smoke; fuel-burning equipment.
-
-<p>A municipal corporation may regulate the emission of smoke, the construction, installation and maintenance of fuel-burning equipment, and the methods of firing and stoking furnaces and boilers.</p><p>Code 1950, § 15-77.32; 1958, c. 328; 1962, c. 623, § 15.1-868; 1997, c. 587.</p>

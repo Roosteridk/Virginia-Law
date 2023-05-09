@@ -1,3 +1,0 @@
-# § 32.1-174.2 Duties of electric utilities.
-
-<p>No electric utility shall disconnect electrical service to any waterworks holding a permit issued pursuant to this article until the utility has (i) provided sixty days' written notice to the Board of its intent to disconnect electrical service to the waterworks; (ii) filed with the Board at least sixty days prior to the disconnection a written request that the Board initiate forfeiture proceedings against any bond posted or funds deposited by the permit holder; and (iii) provided sixty days' written notice to the governing body of the county, city or town in which the waterworks is located.</p><p>1980, c. 402.</p>

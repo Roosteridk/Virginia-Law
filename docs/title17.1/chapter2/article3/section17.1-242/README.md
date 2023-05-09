@@ -1,3 +1,0 @@
-# § 17.1-242 Custody of books, records, etc.
-
-<p>The circuit court clerks shall have custody of and shall keep all court records, including books, evidence, records, maps, and papers, deposited in their offices or at such location otherwise designated by the clerk, as well as records stored in electronic format whether the storage media for such electronic records are on premises or elsewhere.</p><p>Code 1919, § 3400, § 17-72; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0497'>497</a>; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0460'>460</a>.</p>

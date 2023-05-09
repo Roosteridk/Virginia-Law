@@ -1,3 +1,0 @@
-# § 2.2-1106 Consolidation of other laboratories.
-
-<p>The Director of the Department may take in and absorb within the Division any laboratory activity that is owned and operated by a political subdivision of the Commonwealth that will conform to the duties and responsibilities of the Division. Any costs that may accrue to the Commonwealth as a result of the consolidation shall be paid out of funds specifically appropriated for this purpose by the appropriation act.</p><p>1987, c. 369, § 2.1-429.4; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0366'>366</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0447'>447</a>; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

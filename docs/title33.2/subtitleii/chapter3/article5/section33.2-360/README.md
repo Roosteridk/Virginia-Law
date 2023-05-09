@@ -1,3 +1,0 @@
-# § 33.2-360 Allocation of funds for interstate match.
-
-<p>Until July 1, 2020, after making the allocations provided for in subsection B of § <a href='http://law.lis.virginia.gov/vacode/33.2-358/'>33.2-358</a>, a fund shall be established for matching federal-aid interstate funds.</p><p>This fund shall be established annually by allocating to it all federal-aid interstate matching funds needed for the year.</p><p>1985, c. 42, § 33.1-23.1:2; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0684'>684</a>.</p>

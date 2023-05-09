@@ -1,3 +1,0 @@
-# § 67-1108 (Repealed effective October 1, 2021) Renewable generator may contract for right-of-way.
-
-<p>A renewable generator may contract with any person that owns lands, or any interest, franchise, privilege, or easement therein or in respect thereto, over which distribution facilities are proposed to be constructed, for the right-of-way for erecting, repairing, and preserving its poles and other structures necessary for operating its facilities, and for sufficient land for the erection and occupation of offices at suitable distances along its distribution facilities.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0807'>807</a>.</p>

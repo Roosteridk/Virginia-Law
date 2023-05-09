@@ -1,3 +1,0 @@
-# § 10.1-2122 Additional powers and duties of the Director.
-
-<p>In furtherance of the purposes of this article, the Director is authorized to utilize the Fund for the purpose of providing Water Quality Improvement Grants as prescribed in Article 4 (§ <a href='http://law.lis.virginia.gov/vacode/10.1-2128/'>10.1-2128</a> et seq.) of this chapter.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0021'>21</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0625'>625</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0626'>626</a>.</p>

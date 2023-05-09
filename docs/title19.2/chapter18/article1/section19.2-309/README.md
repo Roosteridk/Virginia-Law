@@ -1,3 +1,0 @@
-# § 19.2-309 Sentence of confinement for conviction of a combination of felony and misdemeanor offenses.
-
-<p>When any person is convicted of a combination of felony and misdemeanor offenses and sentenced to confinement therefor, in determining the sequence of confinement, the felony sentence and commitment shall take precedence and such person shall first be committed to serve the felony sentence.</p><p>Code 1950, § 19.1-295; 1960, c. 366; 1975, c. 495.</p>

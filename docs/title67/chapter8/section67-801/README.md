@@ -1,3 +1,0 @@
-# § 67-801 (Repealed effective October 1, 2021) Efforts to increase CAFE standards.
-
-<p>It is the policy of the Commonwealth to support federal action that provides for:</p><p>1. An increase the CAFE standards from the current standard by promoting performance-based tax credits for advanced technology, fuel-efficient vehicles to facilitate the introduction and purchase of such vehicles; and</p><p>2. Market incentives and education programs to build demand for high-efficiency, cleaner vehicles, including tax incentives for highly efficient vehicles.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0939'>939</a>.</p>

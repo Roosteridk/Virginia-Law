@@ -1,3 +1,0 @@
-# § 3.2-4700 Definitions.
-
-<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Director" means the Director of the Division of Marketing.</p><p>"Division" means the Division of Marketing of the Department of Agriculture and Consumer Services.</p><p>Code 1950, § 3-526; 1966, c. 702, § 3.1-685; 1978, c. 396; 1993, c. 115; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

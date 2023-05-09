@@ -1,3 +1,0 @@
-# § 46.2-813 Occupation of trailer being towed on highways.
-
-<p>No person shall occupy a house trailer or camping trailer while it is being towed on a public highway in this Commonwealth. No operator of a towing vehicle shall knowingly permit another person to occupy a house trailer or camping trailer as defined in § <a href='http://law.lis.virginia.gov/vacode/46.2-100/'>46.2-100</a> while it is being towed.</p><p>In any civil proceeding, the violation of this section shall not constitute negligence per se.</p><p>1970, c. 103, § 46.1-172.1; 1978, c. 605; 1989, c. 727.</p>

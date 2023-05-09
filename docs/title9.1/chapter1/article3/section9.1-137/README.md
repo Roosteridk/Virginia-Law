@@ -1,3 +1,0 @@
-# § 9.1-137 Article to control over other laws; exceptions.
-
-<p>A. In the event any provisions of this article conflict with other provisions of law, the provision of this article shall control, except as provided in subsection B.</p><p>B. Notwithstanding the provisions of subsection A, this article shall not alter, amend, or supersede any provisions of the Code of Virginia relating to the collection, storage, dissemination, or use of juvenile records.</p><p>1981, c. 632, § 9-196; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

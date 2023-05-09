@@ -1,3 +1,0 @@
-# § 15.2-2615 Bonds deemed negotiable instruments.
-
-<p>Notwithstanding any of the foregoing provisions of this chapter or any recitals in any bonds issued under the provisions of this chapter, all bonds shall be deemed to be negotiable instruments under the laws of the Commonwealth.</p><p>Code 1950, § 15-666.44; 1958, c. 640; 1962, c. 623, § 15.1-203; 1991, c. 668, § 15.1-227.17; 1997, c. 587.</p>

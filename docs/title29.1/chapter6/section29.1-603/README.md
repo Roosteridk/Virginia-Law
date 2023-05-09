@@ -1,3 +1,0 @@
-# § 29.1-603 No taking of game before compliance with requirements of Board.
-
-<p>Until the requirements specified by the Board have been fulfilled by the applicant to the satisfaction of the Board and certified to and accepted by the Board, it shall be unlawful to shoot, attempt to shoot, or to take any game of the species licensed under this chapter on premises so licensed.</p><p>A violation of this section shall be punishable as a Class 3 misdemeanor.</p><p>Code 1950, § 29-41; 1987, c. 488; 1989, c. 421.</p>

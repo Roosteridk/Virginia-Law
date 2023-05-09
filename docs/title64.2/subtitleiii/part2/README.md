@@ -1,1 +1,0 @@
-# 2 Receipts Not Normally Apportioned

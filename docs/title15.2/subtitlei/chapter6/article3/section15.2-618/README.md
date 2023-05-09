@@ -1,3 +1,0 @@
-# § 15.2-618 Same; expenditures and accounts.
-
-<p>No money shall be drawn from the county treasury, nor shall any obligation for the expenditure of money be incurred except in pursuance of appropriation resolutions. Accounts shall be kept for each item of appropriation made by the board. Each such account shall show in detail the appropriations made thereto, the amount drawn thereon, the unpaid obligations charged against it, and the unencumbered balance in the appropriation account, properly chargeable, sufficient to meet the obligation entailed by contract, agreement or order.</p><p>Code 1950, § 15-320; 1954, c. 46; 1956, c. 349; 1959, Ex. Sess., c. 69; 1962, cc. 399, 623, § 15.1-640; 1982, c. 647; 1991, c. 16; 1997, c. 587.</p>

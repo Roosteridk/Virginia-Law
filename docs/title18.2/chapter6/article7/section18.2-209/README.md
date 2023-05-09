@@ -1,3 +1,0 @@
-# § 18.2-209 False publications.
-
-<p>Any person who knowingly and willfully states, delivers or transmits by any means whatever to any publisher, or employee of a publisher, of any newspaper, magazine, or other publication or to any owner, or employee of an owner, of any radio station, television station, news service or cable service, any false and untrue statement, knowing the same to be false or untrue, concerning any person or corporation, with intent that the same shall be published, broadcast or otherwise disseminated, shall be guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 18.1-407; 1960, c. 358; 1975, cc. 14, 15; 1978, c. 359.</p>

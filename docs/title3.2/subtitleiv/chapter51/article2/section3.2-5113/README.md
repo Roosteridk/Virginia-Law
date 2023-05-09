@@ -1,3 +1,0 @@
-# § 3.2-5113 Employees with contagious or infectious disease.
-
-<p>No employer shall knowingly permit or require any person to work in any place where food is manufactured, produced, prepared, processed, packed, or exposed, who is afflicted with any contagious or infectious disease, or with any skin disease.</p><p>Code 1950, § 3-298; 1966, c. 702, § 3.1-377; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

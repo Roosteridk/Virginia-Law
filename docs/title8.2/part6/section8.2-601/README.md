@@ -1,3 +1,0 @@
-# § 8.2-601 Buyer's rights on improper delivery.
-
-<p>Subject to the provisions of this title on breach in installment contracts (§ <a href='http://law.lis.virginia.gov/vacode/8.2-612/'>8.2-612</a>) and unless otherwise agreed under the sections on contractual limitations of remedy (§§ <a href='http://law.lis.virginia.gov/vacode/8.2-718/'>8.2-718</a> and <a href='http://law.lis.virginia.gov/vacode/8.2-719/'>8.2-719</a>), if the goods or the tender of delivery fail in any respect to conform to the contract, the buyer may</p><p>(a) reject the whole; or</p><p>(b) accept the whole; or</p><p>(c) accept any commercial unit or units and reject the rest.</p><p>1964, c. 219.</p>

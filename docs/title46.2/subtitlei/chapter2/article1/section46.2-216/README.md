@@ -1,3 +1,0 @@
-# § 46.2-216 Destruction of records.
-
-<p>In accordance with the provisions of Chapter 7 (§ <a href='/vacode/42.1-76/'>42.1-76</a> et seq.) of Title 42.1, the Commissioner may establish standards for the disposal of any paper or record which need not be preserved as a permanent record. However, the Department shall not dispose of any vehicle information, as defined in § <a href='/vacode/46.2-208/'>46.2-208</a>, for any manufactured home.</p><p>Code 1950, § 46-37; 1958, c. 541, § 46.1-36; 1960, c. 121; 1989, c. 727; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0479'>479</a>.</p>

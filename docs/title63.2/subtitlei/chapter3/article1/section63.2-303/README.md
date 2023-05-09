@@ -1,3 +1,0 @@
-# § 63.2-303 Local boards in counties having special forms of county government.
-
-<p>Where the statutes dealing with special forms of county government provide for the appointment of local boards, the provisions of such statutes shall control.</p><p>Code 1950, § 63-60; 1968, c. 578, § 63.1-41; 1970, cc. 465, 467; 1981, c. 90; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

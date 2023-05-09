@@ -1,3 +1,0 @@
-# § 10.1-418.9 Tye State Scenic River.
-
-<p>The Tye River in Nelson County from Route 738 (Tye Depot Road) to its confluence with the James River, a distance of approximately 12.7 miles, is hereby designated as the Tye State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0107'>107</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>.</p>

@@ -1,3 +1,0 @@
-# § 46.2-1035 Dimming headlights on parked vehicles.
-
-<p>Whenever a vehicle is parked so that the beam from its headlights will glare into the eyes of the driver of a vehicle approaching on a highway, the operator of the parked vehicle shall dim or use the low beam of such lights so that glaring rays are not projected into the eyes of an approaching driver.</p><p>Code 1950, § 46-279.1; 1950, p. 54; 1958, c. 541, § 46.1-273; 1989, c. 727.</p>

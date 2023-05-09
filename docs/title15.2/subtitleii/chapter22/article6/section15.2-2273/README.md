@@ -1,3 +1,0 @@
-# § 15.2-2273 Fee for processing application under § 15.2-2271 or § 15.2-2272.
-
-<p>Any locality may prescribe and charge a reasonable fee not exceeding $150 for processing an application pursuant to § <a href='http://law.lis.virginia.gov/vacode/15.2-2271/'>15.2-2271</a> or § <a href='http://law.lis.virginia.gov/vacode/15.2-2272/'>15.2-2272</a> for the vacating of any plat.</p><p>1970, c. 161, § 15.1-482.1; 1975, c. 641; 1978, c. 554; 1984, c. 285; 1997, c. 587.</p>

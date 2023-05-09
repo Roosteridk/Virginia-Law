@@ -1,3 +1,0 @@
-# § 6.2-821 Separation of banking and trust functions; establishment of trust department.
-
-<p>Every state bank that obtains permission from the Commission to engage in trust business shall establish a separate trust department. Such department shall be established before such institution undertakes to act in any fiduciary capacity and shall be placed under the management of an officer or officers whose duties shall be prescribed by the board of directors of the institution or by either an amendment to the bylaws of the institution or by a resolution duly entered in the minutes of the board of directors.</p><p>Code 1950, § 6-97; 1966, c. 584, § 6.1-20; 1993, c. 432; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

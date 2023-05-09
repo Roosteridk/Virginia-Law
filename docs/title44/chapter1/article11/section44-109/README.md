@@ -1,3 +1,0 @@
-# § 44-109 Punishment for injuries to military property.
-
-<p>Whoever shall willfully or maliciously destroy, injure, or deface any arms or articles of military property belonging to the United States or to the Commonwealth, or receive any property in violation of the preceding sections of this chapter, shall be deemed guilty of a misdemeanor and be fined not exceeding double the amount of the value of the property so injured or defaced, or, in the discretion of the jury, be imprisoned in jail not less than two weeks nor more than two months.</p><p>1930, p. 969; Michie Code 1942, § 2673(94).</p>

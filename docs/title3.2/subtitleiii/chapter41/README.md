@@ -1,1 +1,0 @@
-# 41 SEED POTATOES [Repealed]

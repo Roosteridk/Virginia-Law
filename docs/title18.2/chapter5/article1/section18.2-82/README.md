@@ -1,3 +1,0 @@
-# § 18.2-82 Burning building or structure while in such building or structure with intent to commit felony.
-
-<p>If any person while in any building or other structure unlawfully, with intent to commit a felony therein, shall burn or cause to be burned, in whole or in part, such building or other structure, the burning of which is not punishable under any other section of this chapter, he shall be guilty of a Class 4 felony.</p><p>Code 1950, § 18.1-80.1; 1970, c. 356; 1975, cc. 14, 15.</p>

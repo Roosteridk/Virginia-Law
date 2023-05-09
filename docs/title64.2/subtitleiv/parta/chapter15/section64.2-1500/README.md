@@ -1,3 +1,0 @@
-# § 64.2-1500 Court orders regarding money in possession of fiduciary.
-
-<p>If a report made pursuant to § <a href='http://law.lis.virginia.gov/vacode/64.2-1210/'>64.2-1210</a> or a special report of the commissioner of accounts shows that money is in the possession of a fiduciary, the circuit court in which the report is filed may order that the money be invested or loaned out, or make such other order respecting the money as the court deems proper.</p><p>Code 1919, § 5430; Code 1950, § 26-38; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

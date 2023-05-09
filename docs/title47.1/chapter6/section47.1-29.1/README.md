@@ -1,3 +1,0 @@
-# § 47.1-29.1 Wrongful possession of software or hardware.
-
-<p>Any person who knowingly obtains, conceals, damages, or destroys the certificate, disk, coding, card, program, software, or hardware enabling an electronic notary to affix an official electronic signature or seal, without authority, shall be guilty of a Class 1 misdemeanor.</p><p>2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0269'>269</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0590'>590</a>.</p>

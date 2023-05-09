@@ -1,3 +1,0 @@
-# § 30-401 (For contingent expiration date, see Acts 2021, Sp. Sess. I, c. 313, cl. 2) Definitions.
-
-<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Behavioral health" means the full range of mental health and substance abuse services.</p><p>"Behavioral health service system" means those public and private providers, including state and local government agencies and entities, engaged in the development, delivery, coordination, monitoring, oversight, and financing of behavioral health services in the Commonwealth.</p><p>"Commission" means the Behavioral Health Commission.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0313'>313</a>.</p>

@@ -1,3 +1,0 @@
-# § 45.2-104  Powers and duties of Director.
-
-<p>The Director, under the direction and control of the Governor, shall exercise the powers and perform the duties conferred or imposed upon him by law and shall perform any other duties required of him by the Governor.</p><p>1984, c. 590, § 45.1-1.4; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.4; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

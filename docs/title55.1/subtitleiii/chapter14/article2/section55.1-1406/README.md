@@ -1,3 +1,0 @@
-# § 55.1-1406 Grantees and assignees have same rights against lessees as lessors.
-
-<p>A grantee or assignee of any land leased, or of the reversion thereof, and his heirs, personal representative, or assigns, shall enjoy against the lessee, and his heirs, personal representative, or assigns, the like advantage, by action or entry for any forfeiture or by action upon any covenant or promise in the lease that the grantor, assignor, or lessor, or his heirs, might have enjoyed.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0730'>730</a>, § 55-217.1; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

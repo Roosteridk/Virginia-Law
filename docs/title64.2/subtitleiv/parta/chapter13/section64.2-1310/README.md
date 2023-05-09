@@ -1,3 +1,0 @@
-# § 64.2-1310 Recordation of inventories and accounts of sales.
-
-<p>Every inventory and account of sales returned under §§ <a href='http://law.lis.virginia.gov/vacode/64.2-1300/'>64.2-1300</a> and <a href='http://law.lis.virginia.gov/vacode/64.2-1309/'>64.2-1309</a> shall be recorded by the clerk in the will book and indexed as required by § <a href='http://law.lis.virginia.gov/vacode/17.1-223/'>17.1-223</a>.</p><p>Code 1919, § 5405; Code 1950, § 26-16; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

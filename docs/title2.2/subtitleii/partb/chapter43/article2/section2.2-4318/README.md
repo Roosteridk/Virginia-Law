@@ -1,3 +1,0 @@
-# § 2.2-4318 Negotiation with lowest responsible bidder.
-
-<p>Unless canceled or rejected, a responsive bid from the lowest responsible bidder shall be accepted as submitted, except that if the bid from the lowest responsible bidder exceeds available funds, the public body may negotiate with the apparent low bidder to obtain a contract price within available funds. However, the negotiation may be undertaken only under conditions and procedures described in writing and approved by the public body prior to issuance of the Invitation to Bid and summarized therein.</p><p>1982, c. 647, § 11-53; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,3 +1,0 @@
-# § 16.1-131 Subpoenas duces tecum and recognizances of witnesses; applicable provisions.
-
-<p>The provisions of § <a href='http://law.lis.virginia.gov/vacode/16.1-90/'>16.1-90</a> with respect to recognizances for witnesses upon the continuation of any case, shall be applicable to proceedings of a criminal nature as well as to civil actions. The provisions of Rule 3A:12 of the Rules of the Supreme Court shall apply to the issuance of a subpoena duces tecum and punishment for failure to comply.</p><p>1956, c. 555; 1986, c. 160.</p>

@@ -1,3 +1,0 @@
-# § 38.2-3535 Claim forms.
-
-<p>Each group accident and sickness insurance policy shall contain a provision that the insurer will furnish forms for filing proof of loss to the person making a claim or to the policyholder for delivery to that person. If the forms are not furnished within fifteen days after the insurer received notice of any claim under the policy, the person making the claim shall be deemed to have complied with the requirements of the policy as to proof of loss upon submitting within the time fixed in the policy of filing proof of loss, written proof covering the occurrence, character, and extent of the loss for which a claim is made.</p><p>1986, c. 562.</p>

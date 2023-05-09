@@ -1,3 +1,0 @@
-# § 58.1-3309 Lands on lists to be transferred and charged; apportionment of value of soil and standing timber.
-
-<p>The lands and standing timber appearing on the lists or statements referenced in §§ <a href='http://law.lis.virginia.gov/vacode/58.1-3303/'>58.1-3303</a> through <a href='http://law.lis.virginia.gov/vacode/58.1-3308/'>58.1-3308</a> shall be transferred accordingly on the land book and charged to the person to whom the transfer is made or the grant has issued. When standing timber is so transferred the commissioner shall apportion the assessed value of the land on which the timber is standing between the owner of the soil and the owner of the timber.</p><p>Code 1950, § 58-803; 1984, c. 675.</p>

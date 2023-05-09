@@ -1,3 +1,0 @@
-# § 64.2-2612 Tax qualified disclaimer.
-
-<p>Notwithstanding any other provision of this chapter, if as a result of a disclaimer or transfer the disclaimed or transferred interest is treated pursuant to the provisions of Title 26 of the United States Code, as now or hereafter amended, or any successor statute thereto, and the regulations promulgated thereunder, as never having been transferred to the disclaimant, then the disclaimer or transfer is effective as a disclaimer under this chapter.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0253'>253</a>, § 64.1-196.13; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

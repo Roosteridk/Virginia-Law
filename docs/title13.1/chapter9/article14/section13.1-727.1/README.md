@@ -1,3 +1,0 @@
-# § 13.1-727.1 Nonexclusivity.
-
-<p>Except as expressly provided in this article, the provisions of this article shall not limit actions that may be taken, or require the taking of any action, by the board of directors or shareholders with respect to any potential change in control of the corporation. With respect to any action or any failure to act by the board of directors, the provisions of § <a href='http://law.lis.virginia.gov/vacode/13.1-690/'>13.1-690</a> shall apply. In determining the best interests of the corporation, a director may consider the possibility that those interests may best be served by the continued independence of the corporation.</p><p>1988, c. 442.</p>

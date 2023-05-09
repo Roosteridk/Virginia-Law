@@ -1,3 +1,0 @@
-# § 8.01-219.1 Responsibility of possessor of real property for harm to trespasser.
-
-<p>A. A possessor of real property, including an owner, lessee, or other lawful occupant, owes no duty of care to a trespasser except in those circumstances where a common-law right of action, statutory right of action, or judicial exception existed as of July 1, 2013.</p><p>B. This section does not affect any immunities from or defenses to liability established by another section of the Code or available at common law to which a possessor of real property may be entitled.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0217'>217</a>.</p>

@@ -1,3 +1,0 @@
-# § 53.1-175 Revocation of parole by Virginia.
-
-<p>If probable cause be found that a parolee present in Virginia has violated one or more of the terms and conditions of parole, upon request from the appropriate judicial or administrative authorities of the state from which he was paroled, the Virginia Parole Board is hereby authorized to determine whether there has been a violation of the terms and conditions of parole, and if so, whether such parole should be revoked. The decision thereon of Virginia shall be conclusive and shall not be reviewable within or by such other state.</p><p>Code 1950, § 53-290.9; 1975, c. 39; 1977, c. 106; 1982, c. 636.</p>

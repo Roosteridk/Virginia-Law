@@ -1,3 +1,0 @@
-# § 6.2-1370 Purpose and condition of loans.
-
-<p>A credit union may lend to its members for such purposes and upon such conditions as the bylaws may prescribe. The board of directors shall establish written policies with respect to granting loans and extending lines of credit, including the terms, conditions, and acceptable forms of security.</p><p>Code 1950, § 6-207; 1956, c. 90; 1966, c. 584, § 6.1-198; 1968, c. 560; 1980, c. 181; 1983, c. 300; 1990, c. 373, § 6.1-225.51; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

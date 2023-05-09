@@ -1,3 +1,0 @@
-# § 29.1-733.28 Relationship to Electronic Signatures in Global and National Commerce Act.
-
-<p>This article modifies, limits, and supersedes the federal Electronic Signatures in Global and National Commerce Act, 15 U.S.C. § 7001, et seq., but does not modify, limit, or supersede § 101(c) of that act (15 U.S.C. § 7001(c)), or authorize electronic delivery of any of the notices described in § 103(b) of that act (15 U.S.C. § 7003 (b)).</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0787'>787</a>.</p>

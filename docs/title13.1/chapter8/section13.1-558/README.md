@@ -1,3 +1,0 @@
-# § 13.1-558 Policy of the Commonwealth.
-
-<p>It is hereby declared to be the policy of the Commonwealth, through the exercise by the General Assembly of its power to regulate commerce partly or wholly within the Commonwealth of Virginia, to correct as rapidly as practicable such inequities as may exist in the franchise system so as to establish a more even balance of power between franchisors and franchisees; to require franchisors to deal fairly with their franchisees with reference to all aspects of the franchise relationship and to provide franchisees more direct, simple, and complete judicial relief against franchisors who fail to deal in a lawful manner with them.</p><p>1972, c. 561.</p>

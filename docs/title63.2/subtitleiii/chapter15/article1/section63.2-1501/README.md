@@ -1,3 +1,0 @@
-# § 63.2-1501 Definitions.
-
-<p>As used in this chapter unless the context requires a different meaning:</p><p>"Court" means the juvenile and domestic relations district court of the county or city.</p><p>"Prevention" means efforts that (i) promote health and competence in people and (ii) create, promote and strengthen environments that nurture people in their development.</p><p>1975, c. 341, § 63.1-248.2; 1981, c. 123; 1986, c. 308; 1990, c. 760; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0520'>520</a>; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0500'>500</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

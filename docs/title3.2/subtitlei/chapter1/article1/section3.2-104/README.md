@@ -1,3 +1,0 @@
-# § 3.2-104 Commissioner may serve on board of national tobacco trust entity.
-
-<p>The Commissioner may serve in his official capacity on the board of directors of any entity established to ensure the implementation in the Commonwealth of a national tobacco trust established to provide payments to tobacco growers and tobacco quota owners to ameliorate adverse economic consequences resulting from a national settlement of states' claims against tobacco manufacturers.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1048'>1048</a>, § 3.1-14.1; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,3 +1,0 @@
-# § 6.2-1610 Periodic reports.
-
-<p>Each licensee shall file periodic written reports with the Commissioner or the Registry containing such information as the Commissioner may require concerning the licensee's business and operations. Reports shall be in the form and be submitted with such frequency and by such dates as may be prescribed by the Commissioner, who shall make and publish annually an analysis and recapitulation of the reports.</p><p>1987, c. 596, § 6.1-418; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0030'>30</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0329'>329</a>.</p>

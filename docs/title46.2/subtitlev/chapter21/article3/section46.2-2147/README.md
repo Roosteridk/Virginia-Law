@@ -1,3 +1,0 @@
-# § 46.2-2147 Certain household goods carriers exempted from article.
-
-<p>Household goods carriers transporting solely household goods under a certificate of fitness issued pursuant to this chapter are exempt from the provisions of this article.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0881'>881</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0889'>889</a>.</p>

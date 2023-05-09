@@ -1,3 +1,0 @@
-# § 28.2-300 License application to fish with certain nets.
-
-<p>Any person desiring to take or catch fish with any device shall apply to the Commissioner for a license. An applicant for a license to fish with a fixed device shall apply in writing to the officer assigned to the district in which the fixed device is proposed to be located. Every applicant shall state on oath his true name and address; the place where the net, seine, fyke, weir, or other device is to be fished; and that he will not violate the laws of this Commonwealth in relation to the taking and catching of fish.</p><p>Code 1950, § 28-42; 1962, c. 406, § 28.1-47; 1983, c. 307; 1992, cc. 836, 895.</p>

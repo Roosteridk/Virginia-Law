@@ -1,3 +1,0 @@
-# § 57-4 Donations to vestries for charitable purposes.
-
-<p>Where, previous to January 30, 1806, any donation was made of money or any other thing, for a charitable purpose, and the donation was to be controlled or managed by a vestry, the governing body of the county, city or town, in which the charity was intended by the donor to be exercised, shall exercise the same powers, and perform the same duties, respecting the donation, that could or ought to have been exercised and performed by the vestry, if it had continued to exist and been a corporate body, and shall apply such money or other thing in such manner as may have been directed by the donor.</p><p>Code 1919, § 37.</p>

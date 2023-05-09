@@ -1,3 +1,0 @@
-# § 3.2-6013 Duty of officers to execute orders of the Commissioner, Board, or State Veterinarian.
-
-<p>The Commissioner, the Board, or the State Veterinarian shall have power to call upon any law-enforcement officer, as defined in § <a href='http://law.lis.virginia.gov/vacode/9.1-101/'>9.1-101</a>, to execute their orders. Such officers shall obey the orders of the Commissioner, the Board, or the State Veterinarian.</p><p>Code 1950, § 3-579; 1966, c. 702, § 3.1-738; 1977, c. 395; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

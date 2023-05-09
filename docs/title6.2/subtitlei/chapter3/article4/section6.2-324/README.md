@@ -1,3 +1,0 @@
-# § 6.2-324 Educational loans by private institution of higher education.
-
-<p>A. As used in this section, "private institution of higher education" means an accredited nonprofit private institution of higher education in the Commonwealth whose primary purpose is to provide collegiate or graduate education.</p><p>B. Loans made by a private institution of higher education to defray educational expenses of its students, including tuition, fees, books, supplies, room, board, and personal expenses, may be enforced as agreed in the contract of indebtedness.</p><p>1987, c. 622, § 6.1-330.66; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

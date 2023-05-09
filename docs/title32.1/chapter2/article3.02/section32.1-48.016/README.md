@@ -1,3 +1,0 @@
-# § 32.1-48.016 Immunity from liability.
-
-<p>Any person, including a person who serves in a Medical Reserve Corps (MRC) unit or on a Community Emergency Response Team (CERT), who, in good faith and in the performance of his duties, acts in compliance with this article and the Board of Health's regulations shall not be liable for any civil damages for any act or omission resulting from such actions unless such act or omission was the result of gross negligence or willful misconduct.</p><p>2004, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0773'>773</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1021'>1021</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0474'>474</a>.</p>

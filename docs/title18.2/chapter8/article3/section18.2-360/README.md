@@ -1,3 +1,0 @@
-# § 18.2-360 Competency of persons to testify in prosecutions under §§ 18.2-355 through 18.2-361.
-
-<p>Any male or female referred to in §§ <a href='http://law.lis.virginia.gov/vacode/18.2-355/'>18.2-355</a> through <a href='http://law.lis.virginia.gov/vacode/18.2-361/'>18.2-361</a> shall be a competent witness in any prosecution under such sections to testify to any and all matters, including conversations by or with the accused with third persons in his or her presence, notwithstanding he or she may have married the accused either before or after the violation of any of the provisions of this section; but such witness shall not be compelled to testify after such marriage.</p><p>Code 1950, § 18.1-211; 1960, c. 358; 1975, cc. 14, 15; 1980, c. 534.</p>

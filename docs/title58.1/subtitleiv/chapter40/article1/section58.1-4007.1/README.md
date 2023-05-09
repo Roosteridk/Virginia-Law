@@ -1,3 +1,0 @@
-# § 58.1-4007.1 Lottery tickets to bear telephone number for compulsive gamblers.
-
-<p>All lottery tickets printed after July 1, 1997, shall bear a toll-free telephone number for "Gamblers Anonymous" or other organization which provides assistance to compulsive gamblers.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0064'>64</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0118'>118</a>; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0201'>201</a>; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0736'>736</a>.</p>

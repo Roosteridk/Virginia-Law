@@ -1,3 +1,0 @@
-# § 33.2-2501 Counties and cities embraced by the Authority.
-
-<p>The Authority shall embrace the Counties of Arlington, Fairfax, Loudoun, and Prince William and the Cities of Alexandria, Fairfax, Falls Church, Manassas, and Manassas Park.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0846'>846</a>, § 15.2-4831; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

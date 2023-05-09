@@ -1,3 +1,0 @@
-# § 38.2-4015 Certificate to specify amount of payment and when to be paid.
-
-<p>Each certificate issued by any burial society shall specify the sum of money payable upon the occurrence of the risk insured against. The amount payable shall not be larger than one assessment upon the entire membership. Each certificate shall also state that within thirty days after due proof of the occurrence of the insured risk, payment shall be made.</p><p>Code 1950, §§ 38-145, 38-450; 1952, c. 317, §§ 38.1-544, 38.1-555; 1986, c. 562.</p>

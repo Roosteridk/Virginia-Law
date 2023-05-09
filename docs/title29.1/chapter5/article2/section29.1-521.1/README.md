@@ -1,3 +1,0 @@
-# § 29.1-521.1 Willfully impeding hunting or trapping; penalty.
-
-<p>A. It is unlawful to willfully and intentionally impede the lawful hunting or trapping of wild birds or wild animals.</p><p>B. It is unlawful for any person or his agent to knowingly and intentionally facilitate or attempt to cause a violation of subdivision A 4 of § <a href='http://law.lis.virginia.gov/vacode/29.1-521/'>29.1-521</a> by putting out bait or salt for any wildlife in any place used or occupied by hunters to hunt wild birds or wild animals.</p><p>C. Any person convicted of a violation of this section is guilty of a Class 3 misdemeanor.</p><p>1988, c. 584; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0626'>626</a>.</p>

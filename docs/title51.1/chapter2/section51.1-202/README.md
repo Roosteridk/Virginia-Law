@@ -1,3 +1,0 @@
-# § 51.1-202 Membership in retirement system.
-
-<p>Membership in the retirement system shall be compulsory for all state police officers.</p><p>Code 1950, §§ 51-130, 51-136.2, § 51-145; 1950, p. 883; 1954, c. 139; 1966, c. 628; 1990, c. 832.</p>

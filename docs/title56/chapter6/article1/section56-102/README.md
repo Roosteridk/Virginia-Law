@@ -1,3 +1,0 @@
-# § 56-102 Unlawful to charge other than published tariff.
-
-<p>When rates, fares, and charges excluding those covered by contracts have been published in a tariff, it shall be unlawful for any such company to charge, demand, collect, or receive from any person a greater or less compensation for the transportation of passengers or property, or for any services in connection therewith, than is specified in such published schedule of rates, fares, and charges, unless it is determined that a rate, fare or charge has been recorded in error.</p><p>Code 1919, § 3910; 1979, c. 106; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0114'>114</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0157'>157</a>.</p>

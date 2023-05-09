@@ -1,3 +1,0 @@
-# § 9.1-109 Administration of federal programs.
-
-<p>The Board is designated as the supervisory board and the Department is designated as the planning and coordinating agency responsible for the implementation and administration of any federal programs for strengthening and improving law enforcement, the administration of criminal justice, and delinquency prevention and control throughout the Commonwealth.</p><p>1981, c. 632, § 9-171; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

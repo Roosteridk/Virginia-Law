@@ -1,3 +1,0 @@
-# § 36-132 Creation of Department; appointment of Director.
-
-<p>There is hereby created in the executive department the Department of Housing and Community Development. The Department shall be headed by a Director who shall be appointed by the Governor, subject to confirmation by the General Assembly, to serve at the pleasure of the Governor for a term coincident with his own.</p><p>1977, c. 613; 1984, c. 720.</p>

@@ -1,3 +1,0 @@
-# § 38.2-2016 Information regarding rates to be furnished insured.
-
-<p>Each rate service organization and each insurer subject to this chapter that makes its own rates shall furnish to any insured affected by those rates, or to the authorized representative of the insured, all pertinent information regarding the rate within a reasonable time after receiving a written request for the information.</p><p>Code 1950, §§ 38-215, 38-251, 38-253.47; 1952, c. 317, § 38.1-266; 1986, c. 562.</p>

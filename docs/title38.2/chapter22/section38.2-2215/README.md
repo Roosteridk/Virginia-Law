@@ -1,3 +1,0 @@
-# § 38.2-2215 Failure to issue or failure to renew motor vehicle liability insurance on the basis of a motor vehicle's age prohibited.
-
-<p>No insurer or agent shall refuse to issue or fail to renew a policy of motor vehicle liability insurance solely because of the age of the motor vehicle to be insured, provided the motor vehicle is licensed.</p><p>1978, c. 56, § 38.1-381.8; 1983, c. 61; 1986, c. 562.</p>

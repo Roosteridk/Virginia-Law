@@ -1,3 +1,0 @@
-# § 21-196 Liability of Commonwealth, county, city or town.
-
-<p>The bonds, notes and other obligations, and any indebtedness, of a commission shall not be in any way a debt or liability of the Commonwealth, or of any county, city or town in whole or in part embraced within the district and shall not create or constitute any indebtedness, liability or obligation of the Commonwealth or of any such county, city or town, either legal, moral or otherwise, and nothing in this chapter contained shall be construed to authorize a commission or district to incur any indebtedness on behalf of or in any way to obligate the Commonwealth or any county, city or town, in whole or in part embraced within the district.</p><p>1938, p. 528; Michie Code 1942, § 1560ddd.</p>

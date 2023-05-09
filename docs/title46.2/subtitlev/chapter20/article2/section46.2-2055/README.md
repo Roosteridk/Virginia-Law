@@ -1,3 +1,0 @@
-# § 46.2-2055 Condition or obligation of security.
-
-<p>The insurance, bond or other security provided for in § <a href='http://law.lis.virginia.gov/vacode/46.2-2054/'>46.2-2054</a> shall obligate the insurer or surety to pay any final judgment for (i) injury to any passenger or passengers and (ii) any and all injuries to persons and loss of or damage to property resulting from the negligent operation of any motor vehicle.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

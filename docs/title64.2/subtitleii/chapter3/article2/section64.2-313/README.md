@@ -1,3 +1,0 @@
-# § 64.2-313 When and how exempt property and allowances may be claimed.
-
-<p>Any election to take a family allowance, exempt property, or a homestead allowance shall be made within one year from the decedent's death. The election shall be made either in person before the court having jurisdiction over probate or administration of the decedent's estate, or by a writing recorded in the court, or the clerk's office thereof, upon such acknowledgment or proof as would authorize a writing to be admitted to record under Chapter 6 (§ <a href='/vacode/55.1-600/'>55.1-600</a> et seq.) of Title 55.1.</p><p>1981, c. 580, § 64.1-151.5; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,3 +1,0 @@
-# § 18.2-511 Sale of certain military grave markers prohibited.
-
-<p>Any person who sells or offers for sale any military grave marker of one or more deceased persons who served in the military service of the Commonwealth, the United States, or any of the states thereof, shall be assessed a $100 civil penalty payable to the Literary Fund.</p><p>The provisions of this section shall not apply to the sale or offer for sale of such grave marker if it was (i) conveyed with real property to which it remains affixed, (ii) sold or offered for sale following manufacture or fabrication and prior to initial installation or dedication, or (iii) lawfully acquired.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0299'>299</a>.</p>

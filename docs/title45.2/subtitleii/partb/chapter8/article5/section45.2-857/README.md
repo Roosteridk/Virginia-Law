@@ -1,3 +1,0 @@
-# § 45.2-857  Allowing persons to work in a mine with smoker's articles; penalty.
-
-<p>A. No operator, agent, or mine foreman shall knowingly permit any person in an underground coal mine to smoke, carry, or possess any smoker's articles or materials used for igniting smoker's articles.</p><p>B. Violation of this section is a Class 6 felony.</p><p>1993, c. 389, § 45.1-98.3; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.178 <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP;2021'>;2021</a>, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?211+ful+CHAP0387'>387</a>.</p>

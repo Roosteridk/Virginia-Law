@@ -1,3 +1,0 @@
-# § 55.1-622 Application of article; article cumulative.
-
-<p>A notarial act performed prior to June 26, 1970, is not affected by this article. This article provides an additional method of proving notarial acts. Nothing in this article diminishes or invalidates the recognition accorded to notarial acts by other laws or regulations of the Commonwealth.</p><p>1970, c. 719, § 55-118.7; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

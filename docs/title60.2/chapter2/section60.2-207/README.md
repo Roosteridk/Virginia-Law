@@ -1,3 +1,0 @@
-# § 60.2-207 Calendar quarter.
-
-<p>"Calendar quarter" means the period of three consecutive calendar months ending on March 31, June 30, September 30 or December 31, or the equivalent thereof, as the Commission may by regulation prescribe.</p><p>Code 1950, § 60-9; 1968, c. 738, § 60.1-9; 1986, c. 480.</p>

@@ -1,3 +1,0 @@
-# § 3.2-3711 Seizure of liming material when assessments not paid.
-
-<p>The Commissioner may seize any liming material belonging to any person whose name appears on the label of the violative lot of liming material, if such person fails to pay the assessment for variance from guarantee within 60 days after the Commissioner has given notice to such person.</p><p>1974, c. 649, § 3.1-126.9; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0649'>649</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

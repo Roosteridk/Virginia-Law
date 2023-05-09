@@ -1,3 +1,0 @@
-# § 8.01-44.7 Action for tampering with metering device and diverting service.
-
-<p>Any provider of services that have been tampered with or diverted in violation of § <a href='http://law.lis.virginia.gov/vacode/18.2-163/'>18.2-163</a> may seek both injunctive and equitable relief, and an award of damages, including reasonable attorney fees and costs. In addition to any other remedy provided by law, the party aggrieved may recover an award of actual damages or $500 whichever is greater for each action.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0350'>350</a>.</p>

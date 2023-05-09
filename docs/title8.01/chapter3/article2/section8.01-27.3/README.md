@@ -1,3 +1,0 @@
-# § 8.01-27.3 Evidence in actions regarding issuance of bad check.
-
-<p>In any civil action growing out of an arrest under § <a href='http://law.lis.virginia.gov/vacode/18.2-181/'>18.2-181</a> or § <a href='http://law.lis.virginia.gov/vacode/18.2-182/'>18.2-182</a>, no evidence of statements or representations as to the status of the check, draft, order or deposit involved, or of any collateral agreement with reference to the check, draft, or order, shall be admissible unless such statement, or representation, or collateral agreement, is written upon the instrument at the time it is given by the drawer.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0462'>462</a>.</p>

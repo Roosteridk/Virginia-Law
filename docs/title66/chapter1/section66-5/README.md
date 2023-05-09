@@ -1,3 +1,0 @@
-# § 66-5 Term of office of members; suspension or removal.
-
-<p>The members of the Board shall be appointed initially as follows: three members for a term of two years each and four members for a term of four years each. Thereafter, the appointment of such members or their successors shall be for terms of four years, except that an appointment to fill a vacancy shall be for the unexpired term. No person shall be eligible to serve for or during more than two successive four-year terms. However, any person appointed to fill a vacancy may be eligible for two additional successive terms after the term of the vacancy for which he was appointed has expired. Members of the Board may be suspended or removed by the Governor at his pleasure.</p><p>1989, c. 733.</p>

@@ -1,3 +1,0 @@
-# § 58.1-1021.04:4 Purchase of tobacco products for resale.
-
-<p>No retail dealer shall purchase tobacco products, for resale to consumers, from any person within or outside the Commonwealth of Virginia, except as follows:</p><p>1. A retail dealer purchases from a distributor licensed by the Commonwealth of Virginia.</p><p>2. A retail dealer applies for and is granted a license as a distributor, and files returns and maintains records as required of licensed distributors under this article.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0071'>71</a>.</p>

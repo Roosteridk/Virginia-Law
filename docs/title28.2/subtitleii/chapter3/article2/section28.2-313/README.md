@@ -1,3 +1,0 @@
-# § 28.2-313 Killing fish by means of explosives, drugs, or poisons; possession; penalty.
-
-<p>A. It is unlawful to capture or kill any fish, shellfish, or marine organisms by means of explosives, drugs, or poisons in any waters of the Commonwealth or in any waters under its jurisdiction.</p><p>B. It is unlawful to possess, sell, or offer to sell, within the Commonwealth, any fish, shellfish, or marine organisms killed or captured by means of explosives, drugs, or poisons, whether killed or captured within or without the jurisdiction of Virginia.</p><p>A violation of this section is a Class 3 misdemeanor.</p><p>Code 1950, §§ 28-53, 28-54; 1962, c. 406, §§ 28.1-55, 28.1-56; 1992, c. 836.</p>

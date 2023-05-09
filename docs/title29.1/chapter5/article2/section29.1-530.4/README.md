@@ -1,3 +1,0 @@
-# § 29.1-530.4 Duty of certain entities to report hunting incidents.
-
-<p>Any law-enforcement agency or emergency medical services provider that receives a report that a person engaged in hunting as defined in § <a href='/vacode/29.1-100/'>29.1-100</a> has suffered serious bodily injury or death shall immediately give notice of the incident to the Department.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0688'>688</a>; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0958'>958</a>.</p>

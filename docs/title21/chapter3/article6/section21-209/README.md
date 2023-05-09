@@ -1,3 +1,0 @@
-# § 21-209 No election on issuance of bonds within six months.
-
-<p>No election upon the question of the issuance of bonds of the commission shall be held within the first six months after the creation of the district. In the event no notice of intention to consider withdrawing from the district, in accordance with the foregoing provisions of §§ <a href='http://law.lis.virginia.gov/vacode/21-203/'>21-203</a> to <a href='http://law.lis.virginia.gov/vacode/21-208/'>21-208</a>, is filed with the commission within six months after the creation of the district, then no county or city therein may thereafter avail itself of the provisions of such sections to withdraw from such district.</p><p>1940, p. 621; 1942, p. 603; Michie Code 1942, § 1560kk1.</p>

@@ -1,3 +1,0 @@
-# § 18.2-209.1 Penalties for false certificate or failure to give bond.
-
-<p>A. If any clerk make a certificate as to any bond of a special commissioner appointed under Article 11 (§ <a href='http://law.lis.virginia.gov/vacode/8.01-96/'>8.01-96</a> et seq.) of Chapter 3 of Title 8.01, knowing it to be false, he shall be guilty of a Class 3 misdemeanor, and shall, upon conviction, be removed from his office.</p><p>B. If any special commissioner appointed under Article 11 of Chapter 3 of Title 8.01 shall advertise property for sale or rent, and shall sell or rent the same before he shall have given bond as is required by § <a href='http://law.lis.virginia.gov/vacode/8.01-99/'>8.01-99</a>, he shall be guilty of a Class 3 misdemeanor.</p><p>1978, c. 718.</p>

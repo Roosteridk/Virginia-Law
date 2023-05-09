@@ -1,3 +1,0 @@
-# § 55.1-2401 Appointment of escheators.
-
-<p>The Governor shall appoint one escheator for every judicial circuit as set forth in § <a href='/vacode/17.1-506/'>17.1-506</a>, to serve at the pleasure of the Governor. Such escheator shall reside within the circuit to which he is appointed.</p><p>Code 1919, § 489; Code 1950, § 55-168; 1982, c. 437; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0551'>551</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

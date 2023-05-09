@@ -1,3 +1,0 @@
-# § 19.2-169.4 Litigating certain issues when the defendant is incompetent.
-
-<p>A finding of incompetency does not preclude the adjudication, at any time before trial, of a motion objecting to the sufficiency of the indictment, nor does it preclude the adjudication of similar legal objections which, in the court's opinion, may be undertaken without the personal participation of the defendant.</p><p>1982, c. 653.</p>

@@ -1,3 +1,0 @@
-# § 46.2-1577 Appeals from actions of the Board.
-
-<p>Any person aggrieved by the action of the Board in refusing to grant or renew a license or certificate of dealer registration or qualification issued under this chapter, or by any other action of the Board which is alleged to be improper, unreasonable, or unlawful under the provisions of this chapter is entitled to judicial review in accordance with the provisions of the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>1988, c. 865, § 46.1-550.5:36; 1989, c. 727; 1990, c. 197; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0767'>767</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0816'>816</a>.</p>

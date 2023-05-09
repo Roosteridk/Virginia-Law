@@ -1,3 +1,0 @@
-# § 38.2-1512 Rights and liabilities fixed upon liquidation.
-
-<p>The rights and liabilities of an insurer and of its creditors, policyholders, stockholders, members, and all other persons interested in the property and assets of the insurer, shall be fixed as of the date of the entry of the order directing the liquidation of the insurer unless otherwise provided by law. The rights of claimants holding contingent claims on that date shall be determined by this chapter.</p><p>1952, c. 317, § 38.1-136; 1986, c. 562.</p>

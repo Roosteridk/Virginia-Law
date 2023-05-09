@@ -1,3 +1,0 @@
-# § 36-14 Legal counsel.
-
-<p>For such legal services as it may require, an authority may call upon the city attorney of the city or the attorney for the Commonwealth of the county or may employ its own counsel and legal staff.</p><p>1938, p. 450; Michie Code 1942, § 3145(5).</p>

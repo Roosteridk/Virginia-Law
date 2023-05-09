@@ -1,3 +1,0 @@
-# § 38.2-3306 Misstatement of age.
-
-<p>Each individual life insurance policy shall contain a provision that if, at any time before final settlement under the policy, the age of the insured, or the age of any other person if considered in determining the premium, is found to have been misstated, the amount payable under the policy shall equal the amount that the premium would have purchased at the insured's or other person's correct age at the time the policy was issued.</p><p>Code 1950, § 38-371(4); 1950, p. 179; 1952, c. 317, § 38.1-395; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 38.2-1618 Purpose and applicability of article.
-
-<p>The purpose of this article is to provide directions and guidelines for the control and use of funds provided pursuant to § <a href='http://law.lis.virginia.gov/vacode/38.2-225/'>38.2-225</a>, obtained through secured borrowings made pursuant to subdivision B 7 of § <a href='http://law.lis.virginia.gov/vacode/38.2-1606/'>38.2-1606</a>, or obtained from sources of funds not specified in Article 1 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-1600/'>38.2-1600</a> et seq.) of this chapter.</p><p>1986, c. 562; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0230'>230</a>.</p>

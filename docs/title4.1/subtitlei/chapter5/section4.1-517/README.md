@@ -1,3 +1,0 @@
-# § 4.1-517 Reasonableness and good faith.
-
-<p>A. Every agreement entered into under this chapter shall impose on the parties the obligation to act in good faith.</p><p>B. This chapter shall impose on every term and provision of any agreement a requirement of reasonableness. Every term or provision shall be interpreted so that the requirements or obligations imposed therein are reasonable.</p><p>1985, c. 549, § 4-118.20:1; 1993, c. 866.</p>

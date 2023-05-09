@@ -1,3 +1,0 @@
-# § 38.2-314 Limitation of action and proof of loss.
-
-<p>No provision in any insurance policy shall be valid if it limits the time within which an action may be brought to less than one year after the loss occurs or the cause of action accrues.</p><p>If an insurance policy requires a proof of loss, damage or liability to be filed within a specified time, all time consumed in an effort to adjust the claim shall not be considered part of such time.</p><p>Code 1950, § 38-9; 1952, c. 317, § 38.1-341; 1986, c. 562.</p>

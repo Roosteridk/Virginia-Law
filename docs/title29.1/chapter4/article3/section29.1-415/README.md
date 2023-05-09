@@ -1,3 +1,0 @@
-# § 29.1-415 Taxidermy; sale of specimens.
-
-<p>The fee for a permit to stuff or mount birds, animals, fish or parts thereof, for compensation or for sale shall be forty dollars per year. The Board may promulgate regulations pertaining to the sale of unclaimed or mounted specimens or parts thereof.</p><p>Code 1950, § 29-109; 1980, c. 494; 1987, c. 488; 1988, c. 250; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0194'>194</a>; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0057'>57</a>.</p>

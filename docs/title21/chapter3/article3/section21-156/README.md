@@ -1,3 +1,0 @@
-# § 21-156 Exemption of bonds from taxation.
-
-<p>The bonds of such district or commission, and the property owned or operated by such district or commission shall be exempt from all taxation, and the interest on the bonds shall take the same status under tax laws as the interest on bonds of other political subdivisions of the Commonwealth.</p><p>1942, p. 600; Michie Code 1942, § 1560kk; 1944, p. 72; 1946, p. 528.</p>

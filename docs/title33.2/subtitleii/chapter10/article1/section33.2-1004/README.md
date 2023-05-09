@@ -1,3 +1,0 @@
-# § 33.2-1004 Plans for acquisition of rights-of-way.
-
-<p>Subject to compliance with applicable federal regulations, the Commissioner of Highways shall establish a plan for identification and acquisition of rights-of-way that may be needed within the corridors designated on the Statewide Transportation Plan.</p><p>2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0585'>585</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0646'>646</a>, § 33.1-89.3; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

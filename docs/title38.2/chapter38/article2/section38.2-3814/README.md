@@ -1,3 +1,0 @@
-# § 38.2-3814 Contracts in writing; fees.
-
-<p>All contracts of any company for insurance or other benefits shall be in writing. No company or any of its officers or agents shall include in the sum charged a member, any fee, compensation, or other charge. However, a local medical examiner's fee and a policy fee on accident and sickness contracts may be charged.</p><p>Code 1950, § 38-484; 1952, c. 317, § 38.1-514; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 30-2 Meeting at place appointed by Governor.
-
-<p>If the General Assembly cannot safely meet at the place prescribed by law, or to which it has adjourned, because of a public enemy, or any dangerous contagious disease, or for any other cause, it may meet at such other place as the Governor shall appoint, of which he shall give notice by proclamation.</p><p>Code 1919, § 295.</p>

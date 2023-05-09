@@ -1,3 +1,0 @@
-# § 2.2-1823 Lump-sum transfers prohibited.
-
-<p>Lump-sum transfers of appropriations to state departments, divisions, offices, boards, commissions, institutions and other agencies owned or controlled by the Commonwealth, whether at the seat of government or not, shall be prohibited except for the payment to or distribution among the political subdivisions of the Commonwealth of any appropriations made to them by law.</p><p>Code 1950, § 2-203; 1966, c. 677, § 2.1-228; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

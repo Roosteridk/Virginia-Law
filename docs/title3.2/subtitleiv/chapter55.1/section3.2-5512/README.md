@@ -1,3 +1,0 @@
-# § 3.2-5512 Possession of certificate; display of decal on motor vehicle.
-
-<p>No person required to register under this chapter shall transport waste kitchen grease without (i) having in his possession a registration certificate and (ii) conspicuously displaying a decal issued by the Commissioner on the exterior of any vehicle used for the transportation of waste kitchen grease.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0868'>868</a>; 2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0114'>114</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0241'>241</a>.</p>

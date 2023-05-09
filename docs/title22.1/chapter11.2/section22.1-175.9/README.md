@@ -1,3 +1,0 @@
-# § 22.1-175.9 Funding.
-
-<p>Grants pursuant to this chapter shall be awarded upon a determination of the Governor of the appropriate funding source and amounts for the Fund established in § <a href='http://law.lis.virginia.gov/vacode/22.1-175.7/'>22.1-175.7</a>.</p><p>Funds appropriated for financial assistance for the purposes of this chapter shall be apportioned and distributed among the school divisions of the Commonwealth in accordance with eligibility and needs criteria to be established by the Board.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0870'>870</a>.</p>

@@ -1,3 +1,0 @@
-# § 23.1-605 Commissioned officers; waiver of tuition and mandatory fees.
-
-<p>Any commissioned officer of the Virginia National Guard or the Virginia Defense Force may become a student at any public institution of higher education for a period not exceeding 10 months and receive instruction in the departments of military science, emergency management, emergency services, public safety, and disaster management at such institution without being required to pay tuition and mandatory fees.</p><p>Code 1919, § 846, § 23-108; 1983, c. 385; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0778'>778</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

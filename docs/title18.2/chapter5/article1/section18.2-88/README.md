@@ -1,3 +1,0 @@
-# § 18.2-88 Carelessly damaging property by fire.
-
-<p>If any person carelessly, negligently or intentionally set any woods or marshes on fire, or set fire to any stubble, brush, straw, or any other substance capable of spreading fire on lands, whereby the property of another is damaged or jeopardized, he shall be guilty of a Class 4 misdemeanor, and shall be liable for the full amount of all expenses incurred in fighting the fire.</p><p>Code 1950, § 18.1-84; 1960, c. 358; 1975, cc. 14, 15.</p>

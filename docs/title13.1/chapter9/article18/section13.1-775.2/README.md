@@ -1,3 +1,0 @@
-# § 13.1-775.2 Collection of unpaid bills for registration fees.
-
-<p>The registration fee with penalty and interest shall be enforceable, in addition to existing remedies for the collection of taxes, levies and fees, by action in equity, in the name of the Commonwealth, in the appropriate circuit court. Venue shall be in accordance with § <a href='http://law.lis.virginia.gov/vacode/8.01-261/'>8.01-261</a>.</p><p>1988, c. 405.</p>

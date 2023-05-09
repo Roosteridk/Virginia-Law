@@ -1,3 +1,0 @@
-# § 32.1-257.1 Parents to report social security account number at time of child's birth.
-
-<p>Pursuant to 42 U.S.C. § 405, as amended, the social security account number of each parent shall be reported in the manner prescribed and on forms furnished by the State Registrar.</p><p>1991, c. 95.</p>

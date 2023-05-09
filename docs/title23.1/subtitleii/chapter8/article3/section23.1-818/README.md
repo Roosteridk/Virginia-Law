@@ -1,3 +1,0 @@
-# § 23.1-818 Security departments and other security services.
-
-<p>Nothing in this article shall abridge the authority of the governing board of a public institution of higher education or private institution of higher education to establish security departments, whose officers and employees shall not have the powers and duties set forth in § <a href='http://law.lis.virginia.gov/vacode/23.1-815/'>23.1-815</a>, in place of or in addition to campus police departments, rely upon local or state police forces, or contract for security services from private parties.</p><p>1977, c. 79, § 23-238; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

@@ -1,3 +1,0 @@
-# § 56-12 Works and property sold under court decree subject to provisions of three preceding sections.
-
-<p>The works and property of a public service corporation sold under a decree of a court having competent jurisdiction shall be held by the purchaser thereof subject to all the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/56-9/'>56-9</a> through <a href='http://law.lis.virginia.gov/vacode/56-11/'>56-11</a>, so far as the same may be applicable to such a sale.</p><p>Code 1919, § 3898.</p>

@@ -1,3 +1,0 @@
-# § 3.2-2100 Definitions.
-
-<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Handler" means the operator of a stockyard, livestock dealership, slaughterhouse, packing plant, or livestock auction market, or any other person making a purchase from a sheep producer, at the point where the sheep is sold or traded.</p><p>"Sheep" means sheep or lambs of all ages.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0691'>691</a>, § 3.1-1065; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,3 +1,0 @@
-# § 67-400 (Repealed effective October 1, 2021) Definitions.
-
-<p>As used in this chapter:</p><p>"Center" means the Virginia Center for Coal and Energy Research.</p><p>"Clean coal project" means any project that uses any technology, including technologies applied at the precombustion, combustion, or postcombustion stage, at a new or existing facility that will achieve significant reductions in air emissions of sulfur dioxide or oxides of nitrogen associated with the utilization of coal in the generation of electricity, process steam, or industrial products, which is not in widespread use, or is otherwise defined as clean coal technology pursuant to 42 U.S.C. § 7651n.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0939'>939</a>.</p>

@@ -1,3 +1,0 @@
-# § 38.2-3107 Incontestability of certain policies.
-
-<p>A. No life insurance policy shall be contestable after it has been in force during the lifetime of the insured for two years from its date, except for nonpayment of premiums.</p><p>B. Provisions relating to benefits in event of disability, and provisions granting additional insurance specifically against death by accident or accidental means may be exempted in an incontestability provision.</p><p>Code 1950, § 38-366; 1952, c. 317, § 38.1-438; 1962, c. 139; 1986, c. 562.</p>

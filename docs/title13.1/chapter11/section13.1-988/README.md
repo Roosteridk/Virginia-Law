@@ -1,3 +1,0 @@
-# § 13.1-988 Acquisition, transfer, etc., of securities and shares of corporation.
-
-<p>Notwithstanding any other provision of law, any person, corporation, including a public service corporation, financial institution or railroad may acquire, hold, sell, assign, transfer, mortgage, pledge or otherwise dispose of any bonds, notes, debentures, securities or other evidences of indebtedness, or the shares of capital stock of a corporation created hereunder, provided that the amount of capital stock which may be acquired by any member of such corporation shall not exceed ten percent of the loan limit of such member.</p><p>Code 1950, § 13.1-146; 1960, c. 80; 1985, c. 522.</p>

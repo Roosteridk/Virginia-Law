@@ -1,3 +1,0 @@
-# § 55.1-109 Deed valid for grantor's right; operation of warranty.
-
-<p>A writing that purports to pass or assure a greater right or interest in real estate than the person making it may lawfully pass or assure shall operate as an alienation of such right or interest in such real estate as such person might lawfully convey or assure; and when the deed of the alienor mentions that he and his heirs will warrant what it purports to pass or assure, if anything descends from him, his heirs shall be barred for the value of what is so descended or liable for such value.</p><p>Code 1919, § 5148; Code 1950, § 55-10; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

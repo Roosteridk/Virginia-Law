@@ -1,3 +1,0 @@
-# § 38.2-1427.3 Investment authority; subsidiary corporations.
-
-<p>A domestic insurer may invest in common stock, preferred stock, debt obligations, and other securities of a subsidiary.</p><p>For investments in subsidiary corporations made prior to July 1, 1995, July 1, 1995, may be deemed the date of investment.</p><p>1992, c. 588; 1993, c. 47; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0060'>60</a>.</p>

@@ -1,3 +1,0 @@
-# § 6.2-410 Borrowers not to be required to employ particular professionals.
-
-<p>In the case of loans secured by deeds of trust or mortgages on one- to four-family dwelling units, the lender may not require the borrower to use the services of a particular attorney, surveyor, or insurer. The lender shall have the right to approve any attorney, surveyor, or insurer selected by the borrower, provided such approval is not unreasonably withheld.</p><p>1987, c. 622, § 6.1-330.70; 1990, c. 3; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

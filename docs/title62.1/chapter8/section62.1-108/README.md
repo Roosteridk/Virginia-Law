@@ -1,3 +1,0 @@
-# § 62.1-108 Time and place of hearing on petition; parties.
-
-<p>Upon the filing of any such petition, the court or judge thereof in vacation shall set a time and place for hearing the same, which time and place shall be set forth in the order of publication. Any person affected may appear and be made a party to such proceeding by leave of court.</p><p>Code 1950, § 62-94.5; 1956, c. 632; 1968, c. 659.</p>

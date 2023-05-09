@@ -1,3 +1,0 @@
-# § 55.1-2510 Deposits held by utilities.
-
-<p>Any deposit, including any interest thereon, made by a subscriber with a utility to secure payment or any sum paid in advance for utility services to be furnished, less any lawful deductions, that remains unclaimed by the owner for more than one year after termination of the services for which the deposit or advance payment was made is presumed abandoned.</p><p>1960, c. 330, § 55-210.5; 1981, c. 47; 1983, c. 190; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

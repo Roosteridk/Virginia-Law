@@ -1,3 +1,0 @@
-# § 3.2-3805 Inspections upon request.
-
-<p>Any person may apply to the Commissioner for an inspection certificate. The applicant shall agree to pay the expenses incurred by the Commissioner, who may respond to the applicant at his discretion. The Commissioner shall issue an inspection certificate upon successful completion of the inspection and the payment of inspection expenses.</p><p>Code 1950, § 3-178.13; 1964, c. 476; 1966, c. 702, § 3.1-147; 1980, c. 291, § 3.1-188.41; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

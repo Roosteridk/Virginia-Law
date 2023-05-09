@@ -1,3 +1,0 @@
-# § 63.2-911 Liability insurance for foster parents.
-
-<p>The Department may provide liability insurance for civil matters for persons providing basic foster care services in foster homes, as defined in §§ <a href='http://law.lis.virginia.gov/vacode/63.2-100/'>63.2-100</a> and <a href='http://law.lis.virginia.gov/vacode/63.2-905/'>63.2-905</a>, that are approved by local boards for children in their custody or children who the board has entered into an agreement to place where legal custody remains with the parents or guardians.</p><p>1978, c. 291, § 63.1-56.3; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0865'>865</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

@@ -1,3 +1,0 @@
-# § 2.2-2750 Standard of care; investment and administration of the Program.
-
-<p>The provisions of § <a href='/vacode/23.1-706/'>23.1-706</a> relating to the standard of care and the investment and administration of the Plan shall apply, mutatis mutandis, to the Program authorized under this chapter.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0556'>556</a>.</p>

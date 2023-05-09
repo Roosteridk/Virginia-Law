@@ -1,3 +1,0 @@
-# § 44-4 Composition of unorganized militia.
-
-<p>The unorganized militia shall consist of all able-bodied persons as set out in § <a href='http://law.lis.virginia.gov/vacode/44-1/'>44-1</a>, except such as may be included in §§ <a href='http://law.lis.virginia.gov/vacode/44-2/'>44-2</a> and <a href='http://law.lis.virginia.gov/vacode/44-54.6/'>44-54.6</a> and except such as may be exempted as hereinafter provided.</p><p>1930, p. 949; Michie Code 1942, § 2673(4); 1970, c. 662; 1973, c. 401; 1984, c. 765; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0221'>221</a>.</p>

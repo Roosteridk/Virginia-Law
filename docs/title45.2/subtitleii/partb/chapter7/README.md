@@ -1,1 +1,0 @@
-# 7 Requirements Applicable to Underground Coal Mines; Mine Construction

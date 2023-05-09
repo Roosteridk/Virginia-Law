@@ -1,3 +1,0 @@
-# § 3.2-704 Quarantine against regulated articles in other states.
-
-<p>When the Board has good reason to believe in the existence of infested regulated articles in localities in other states, territories, or countries, or that conditions exist that, in the judgment of the Board, render the importation of such regulated articles from such localities a menace to the health of the Commonwealth, the Board shall, by proclamation, prohibit the importation of any regulated article from any locality of other states, territories, or countries, into the Commonwealth.</p><p>1975, c. 29, § 3.1-188.24; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,3 +1,0 @@
-# § 32.1-326.1 Department to operate program of estate recovery.
-
-<p>In accordance with applicable federal law and regulations, including those under Title XIX of the Social Security Act, the Department shall operate a program of estate recovery for all persons who receive payments or on whose behalf payments are made for Medicaid-financed nursing facility care by the Department. The amount recovered from the estate of a deceased recipient shall not exceed the amount of total Medicaid payments made on behalf of such recipient.</p><p>1993, cc. 193, 700.</p>

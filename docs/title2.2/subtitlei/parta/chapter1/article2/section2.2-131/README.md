@@ -1,3 +1,0 @@
-# § 2.2-131 Limitation on powers.
-
-<p>A reorganization plan may not provide for, and a reorganization under this chapter shall not have the effect of, authorizing an agency to exercise a function that is not authorized by law at the time the plan is transmitted to the General Assembly.</p><p>1977, c. 505, § 2.1-8.5; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

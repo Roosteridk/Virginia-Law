@@ -1,3 +1,0 @@
-# § 6.2-1188 Effect of repeal or amendment of statute or regulation on existing loan or investment.
-
-<p>Any investment or loan that was in compliance with the provisions of this chapter or a regulation of the Commission in existence when such investment or loan was made shall remain a legal investment or loan even though the power to make such investment or loan in the future is amended or revoked by regulation or by action of the General Assembly.</p><p>1985, c. 425, § 6.1-194.70; 1991, c. 230, § 6.1-194.137; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

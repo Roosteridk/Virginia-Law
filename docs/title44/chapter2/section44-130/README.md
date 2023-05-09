@@ -1,3 +1,0 @@
-# § 44-130 Public grounds for armory building purposes.
-
-<p>Any municipality or county owning lands on which no permanent building has been actually constructed whether such lands constitute part of a park or site for some public structure, is authorized to convey the same to the Commonwealth for use as a site for an armory for the Virginia National Guard; provided, that such conveyance will not prevent the reasonable use of any such structure for the purpose for which it was constructed.</p><p>1932, p. 760; Michie Code 1942, § 2673(113); R. P. 1948, § 44-130.</p>

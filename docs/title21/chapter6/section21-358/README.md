@@ -1,3 +1,0 @@
-# § 21-358 Failure of contractor.
-
-<p>If any contractor to whom the work or a portion of the work shall have been let shall fail to perform the same according to the terms specified in his contract, action may be had in behalf of the board of viewers against such contractor on his bond in the circuit court for damage sustained by the levee or drainage project and recovery made against such contractor and his sureties. In such an event the work shall be advertised and relet in the same manner as the original letting.</p><p>Code 1919, § 1763; 1926, p. 617; 1954, c. 642.</p>

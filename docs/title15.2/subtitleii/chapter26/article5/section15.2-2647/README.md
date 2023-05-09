@@ -1,3 +1,0 @@
-# § 15.2-2647 Expenses of authorization and issuance; agent to assist in refunding transaction.
-
-<p>The governing body may authorize the payment by any locality of all expenses reasonably incurred by it in connection with the authorization and issuance of refunding bonds. The governing body may appoint or retain an agent for the purpose of assisting it in the refunding transaction and in obtaining the surrender of its outstanding bonds and may pay a fee to the agent as it may consider proper.</p><p>Code 1950, § 15-666.37; 1958, c. 640; 1962, c. 623, § 15.1-196; 1991, c. 668, § 15.1-227.49; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 18.2-368 Placing or leaving spouse for prostitution; penalty.
-
-<p>Any person who, by force, fraud, intimidation, or threats, places or leaves or procures any other person to place or leave his spouse in a bawdy place for the purpose of prostitution or unlawful sexual intercourse, anal intercourse, cunnilingus, fellatio, or anilingus is guilty of pandering, punishable as a Class 4 felony.</p><p>Code 1950, § 18.1-207; 1960, c. 358; 1975, cc. 14, 15; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0794'>794</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0900'>900</a>.</p>

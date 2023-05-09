@@ -1,3 +1,0 @@
-# § 2.2-4000 Short title; purpose.
-
-<p>A. This chapter may be cited as the "Administrative Process Act."</p><p>B. The purpose of this chapter is to supplement present and future basic laws conferring authority on agencies either to make regulations or decide cases as well as to standardize court review thereof save as laws hereafter enacted may otherwise expressly provide. This chapter shall not supersede or repeal additional procedural requirements in such basic laws.</p><p>1975, c. 503, §§ 9-6.14:1. 9-6.14:3; 1977, c. 647; 1984, c. 5; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

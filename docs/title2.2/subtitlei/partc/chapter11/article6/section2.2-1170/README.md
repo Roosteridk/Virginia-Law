@@ -1,3 +1,0 @@
-# § 2.2-1170 Office equipment pool; repair.
-
-<p>The Division may establish a general office equipment pool and central repair shop for such equipment, and may provide guidelines for the utilization of such equipment. For the purposes of this section, computers, software, supplies, and related peripheral equipment shall not be considered general office equipment.</p><p>1977, c. 672, § 2.1-529; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

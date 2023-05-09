@@ -1,3 +1,0 @@
-# § 16.1-78 Judgment by confession not affected.
-
-<p>None of the provisions of § <a href='http://law.lis.virginia.gov/vacode/16.1-77/'>16.1-77</a> shall affect the right of any person to obtain judgment by confession in any court of record having jurisdiction thereof, or in the clerk's office of any such court, when such right exists under some other statute or act, on any claim for money, property or damages, regardless of the amount of such claim for money or damages or the value of such property.</p><p>1956, c. 555.</p>

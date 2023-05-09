@@ -1,3 +1,0 @@
-# § 6.2-103 Financial institutions to furnish certain information to fiduciaries.
-
-<p>The provisions of this title and any other provisions of law notwithstanding, any financial institution subject to the provisions of this title shall make available to any fiduciary, upon request, all information concerning assets or liabilities in which his decedent or ward had or has any interest.</p><p>1970, c. 270, § 6.1-2.1; 1976, c. 658; 1978, c. 683; 1983, c. 491; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0016'>16</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

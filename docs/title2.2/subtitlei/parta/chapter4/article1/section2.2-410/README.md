@@ -1,3 +1,0 @@
-# § 2.2-410 Appointment of assistants; deputy to act in absence of Secretary; notice to Governor.
-
-<p>A. The Secretary of the Commonwealth shall appoint in his office the assistants allowed by law.</p><p>B. During the absence of the Secretary of the Commonwealth from his office his duties shall be performed by the Deputy Secretary, but when such absence is for more than five days at a time, notice thereof shall be given to the Governor.</p><p>Code 1950, §§ 2-63, 2-64; 1966, c. 677, §§ 2.1-72, 2.1-73; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

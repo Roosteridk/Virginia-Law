@@ -1,3 +1,0 @@
-# § 30-357 Staff.
-
-<p>Staff assistance to the Council shall be provided by the Division of Legislative Services. Staff shall perform those duties assigned to it by the Council, including those duties enumerated in § <a href='http://law.lis.virginia.gov/vacode/30-356/'>30-356</a>. The Division of Legislative Services shall employ an executive director, who shall be subject to the confirmation of the Joint Committee on Rules.</p><p>2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0792'>792</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0804'>804</a>; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0763'>763</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0777'>777</a>.</p>

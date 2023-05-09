@@ -1,3 +1,0 @@
-# § 2.2-2808 Acts under color of office; contracts in violation of chapter.
-
-<p>All judgments given, and all acts executed or done by any person by authority or color of any office or post, or the deputation thereof, before his removal therefrom, shall be as valid as they would be if this chapter had not been enacted; but every contract or security made or obtained in violation of this chapter shall be void.</p><p>Code 1950, § 2-33; 1966, c. 677, § 2.1-37; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

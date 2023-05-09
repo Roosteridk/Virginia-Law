@@ -1,3 +1,0 @@
-# § 63.2-200 Department of Social Services created.
-
-<p>The Department of Social Services is hereby created in the executive branch responsible to the Governor. The Department shall be under the supervision and management of the Commissioner of Social Services.</p><p>1974, cc. 44, 45, § 63.1-1.1; 1981, c. 21; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

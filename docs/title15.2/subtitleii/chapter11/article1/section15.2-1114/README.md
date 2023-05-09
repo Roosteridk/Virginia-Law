@@ -1,3 +1,0 @@
-# § 15.2-1114 Auctions; pawnshops; secondhand dealers; peddling; fraud and deceit in sales; weights and measures.
-
-<p>A municipal corporation may regulate the sale of property at auction; may regulate the conduct of and prescribe the number of pawnshops and dealers in secondhand goods, wares and merchandise; may regulate or prohibit peddling; may prevent fraud or deceit in the sale of property; may require weighing, measuring, gauging and inspection of goods, wares and merchandise offered for sale; and may provide for the sealing of weights and measures and the inspection and testing thereof.</p><p>Code 1950, § 15-77.30; 1958, c. 328; 1962, c. 623, § 15.1-866; 1997, c. 587.</p>

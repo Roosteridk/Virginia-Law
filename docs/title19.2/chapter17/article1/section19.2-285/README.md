@@ -1,3 +1,0 @@
-# § 19.2-285 Accused guilty of part of offense charged; sentence; on new trial what tried.
-
-<p>If a person indicted of a felony be by the jury acquitted of part of the offense charged, he shall be sentenced for such part as he is so convicted of, if the same be substantially charged in the indictment, whether it be felony or misdemeanor. If the verdict be set aside and a new trial granted the accused, he shall not be tried for any higher offense than that of which he was convicted on the last trial.</p><p>Code 1950, § 19.1-249; 1960, c. 366; 1975, c. 495.</p>

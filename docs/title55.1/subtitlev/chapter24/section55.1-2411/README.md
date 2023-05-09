@@ -1,3 +1,0 @@
-# § 55.1-2411 Facts or evidence to be certified.
-
-<p>If witnesses are sworn before the court or jury, the court shall, upon request of either party, certify what facts are proved by such witnesses. If the facts cannot be certified, the court shall then certify the evidence of the witnesses. In either case, such certificate shall be a part of the record.</p><p>Code 1919, § 499; Code 1950, § 55-178; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

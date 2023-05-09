@@ -1,3 +1,0 @@
-# § 55.1-326 Evidences of indebtedness placed on equal footing.
-
-<p>When bonds, notes, or other evidences of indebtedness are secured by a deed of trust, mortgage, vendor's lien, or other lien, such bonds, notes, or other evidences of indebtedness shall, in the event the lien is executed or foreclosed, be secured on an equal footing and shall be paid ratably out of the proceeds of any sale of property subjected to the lien and shall have no priority, the one over the other, whether by priority of assignment or otherwise, unless the instrument creating the lien expressly provides otherwise.</p><p>1934, p. 516; Michie Code 1942, § 6457a; Code 1950, § 55-60.1; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

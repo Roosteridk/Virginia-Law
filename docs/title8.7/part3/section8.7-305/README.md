@@ -1,3 +1,0 @@
-# § 8.7-305 Destination bills.
-
-<p>(1) Instead of issuing a bill of lading to the consignor at the place of shipment a carrier, at the request of the consignor, may procure the bill to be issued at destination or at any other place designated in the request.</p><p>(2) Upon request of anyone entitled as against the carrier to control the goods while in transit and on surrender of any outstanding bill of lading or other receipt covering such goods, the issuer, subject to § <a href='http://law.lis.virginia.gov/vacode/8.7-105.1/'>8.7-105.1</a>, may procure a substitute bill to be issued at any place designated in the request.</p><p>1964, c. 219; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0200'>200</a>.</p>

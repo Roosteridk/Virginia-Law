@@ -1,3 +1,0 @@
-# § 36-164 Rules and regulations.
-
-<p>Rules and regulations prescribing procedures effectuating the purpose of this chapter shall be promulgated by the Board of Housing and Community Development in accordance with the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0789'>789</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0795'>795</a>.</p>

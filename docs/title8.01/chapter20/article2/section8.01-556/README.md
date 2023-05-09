@@ -1,3 +1,0 @@
-# § 8.01-556 Bonds may be given by any person.
-
-<p>Any bond authorized or required by any section of this chapter may be given either by the party himself or by any other person.</p><p>Code 1950, § 8-544; 1977, c. 617.</p>

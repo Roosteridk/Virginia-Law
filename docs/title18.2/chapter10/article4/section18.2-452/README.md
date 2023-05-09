@@ -1,3 +1,0 @@
-# § 18.2-452 Barratry unlawful.
-
-<p>Any person, if an individual, who shall engage in barratry shall be guilty of a Class 1 misdemeanor; and if a corporation, may be fined not more than $10,000. If the corporation be a foreign corporation, its certificate of authority to transact business in Virginia shall be revoked by the State Corporation Commission.</p><p>Code 1950, §§ 18.1-389, 18.1-390; 1960, c. 358; 1975, cc. 14, 15.</p>

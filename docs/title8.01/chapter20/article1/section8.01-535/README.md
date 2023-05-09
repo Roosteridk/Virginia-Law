@@ -1,3 +1,0 @@
-# § 8.01-535 Jurisdiction of attachments; trial or hearing of issues.
-
-<p>Except as provided in § <a href='http://law.lis.virginia.gov/vacode/16.1-77/'>16.1-77</a> the jurisdiction of attachments under this chapter shall be in the circuit courts. The trial or hearing of the issues, except as otherwise provided, shall be the same, as near as may be, as in actions in personam.</p><p>Code 1950, § 8-521; 1954, c. 333; 1977, c. 617.</p>

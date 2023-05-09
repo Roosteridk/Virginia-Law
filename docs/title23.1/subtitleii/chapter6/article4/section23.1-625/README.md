@@ -1,3 +1,0 @@
-# § 23.1-625 Amount of award.
-
-<p>The amount of the grant for an eligible student shall be provided in accordance with the general appropriation act and shall be fixed at $1,000 per academic year. An additional $1,000 per academic year shall be provided to eligible students pursuing undergraduate coursework in engineering, mathematics, nursing, teaching, or science.</p><p>2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0850'>850</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0899'>899</a>, § 23-38.10:11; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

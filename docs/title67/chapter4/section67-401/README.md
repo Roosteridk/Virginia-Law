@@ -1,3 +1,0 @@
-# § 67-401 (Repealed effective October 1, 2021) Permitting process for clean coal projects.
-
-<p>To the extent authorized by federal law, the State Air Pollution Control Board shall implement permit processes that facilitate the construction of clean coal projects in the Commonwealth by, among such other actions as it deems appropriate, giving priority to processing permit applications for clean coal projects.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0939'>939</a>.</p>

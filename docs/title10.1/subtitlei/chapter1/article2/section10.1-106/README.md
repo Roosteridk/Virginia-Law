@@ -1,3 +1,0 @@
-# § 10.1-106 Officers; meetings; quorum.
-
-<p>The Board shall elect one of its members chairman, and another as vice-chairman. The Director or his designee shall serve as executive secretary to the Board.</p><p>The Board shall meet at least three times a year on the call of the chairman or the Director. The vice-chairman shall fill the position of chairman in the event the chairman is not available. A majority of the members of the Board shall constitute a quorum of the Board.</p><p>Code 1950, §§ 10-4, 10-5; 1958, c. 427; 1968, c. 126; 1988, c. 891; 1991, c. 84; 2003, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0079'>79</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0089'>89</a>.</p>

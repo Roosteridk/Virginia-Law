@@ -1,3 +1,0 @@
-# § 58.1-3176 Commissions on collections.
-
-<p>Each clerk shall be entitled to a commission of five percent of the amount of state revenue collected by him. However, if the aggregate amount of state revenue collected for six months' collections reported exceeds the sum of $50,000, the clerk shall be entitled to a three percent commission on the amount in excess of $50,000. Such commissions shall not be deducted by any such clerk, but shall be paid out of the state treasury. Commissions shall not be allowed on costs collected pursuant to § <a href='http://law.lis.virginia.gov/vacode/19.2-368.18/'>19.2-368.18</a>.</p><p>Code 1950, § 58-972; 1978, c. 49; 1979, c. 487; 1984, c. 675.</p>

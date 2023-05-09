@@ -1,3 +1,0 @@
-# § 22.1-16.6 Guidelines for alternatives to suspension.
-
-<p>The Board of Education shall establish guidelines for alternatives to short-term and long-term suspension for consideration by local school boards. Such alternatives may include positive behavior incentives, mediation, peer-to-peer counseling, community service, and other intervention alternatives.</p><p>2017, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0231'>231</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0303'>303</a>.</p>

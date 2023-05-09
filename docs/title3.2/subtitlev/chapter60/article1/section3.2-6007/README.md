@@ -1,3 +1,0 @@
-# § 3.2-6007 Domestic animals not permitted to enter or leave quarantine.
-
-<p>Any domestic animal with any contagious or infectious disease, any domestic animal exposed to such a disease, or any domestic animal that is otherwise capable of communicating such a disease to livestock or poultry shall not be permitted to enter or leave any quarantined district, premises, or grounds, except by authority of the State Veterinarian.</p><p>Code 1950, § 3-570; 1966, c. 702, § 3.1-728; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

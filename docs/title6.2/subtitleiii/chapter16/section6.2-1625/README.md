@@ -1,3 +1,0 @@
-# § 6.2-1625 Criminal penalties.
-
-<p>Any person not exempt from the licensure requirements of this chapter who acts as a mortgage lender or mortgage broker in the Commonwealth without having obtained a license is guilty of a Class 6 felony. For the purposes of this section, each violation shall constitute a separate offense.</p><p>1987, c. 596, § 6.1-429; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

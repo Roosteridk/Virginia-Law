@@ -1,3 +1,0 @@
-# § 60.2-121.1 Communications with parties.
-
-<p>In any action commenced under this title, the Commission may, if the party elects, send notices and other communications to such party through email or other electronic means. The Commission shall allow any party to change its election regarding receiving communications through electronic means. If an electronic notice is not successfully transmitted through electronic means, the Commission shall send a new notice by first-class mail to the party's alternative address on record.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0290'>290</a>.</p>

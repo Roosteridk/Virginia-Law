@@ -1,3 +1,0 @@
-# § 29.1-303.2 State junior resident hunting license fee.
-
-<p>The fee for a license to hunt in all counties and cities of the Commonwealth, issued to a state resident under the age of sixteen, shall be seven dollars and fifty cents or as subsequently revised by the Board pursuant to § <a href='http://law.lis.virginia.gov/vacode/29.1-103/'>29.1-103</a>.</p><p>1988, c. 250; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0009'>9</a>.</p>

@@ -1,3 +1,0 @@
-# § 33.2-203 Salaries and expenses.
-
-<p>All salaries and expenses of the Board shall be paid from the state treasury out of the annual appropriation for the Board. Warrants for such salaries and expenses shall be issued by the Comptroller on certificates of the Commissioner of Highways to the parties entitled thereto and shall be paid by the State Treasurer out of the funds appropriated for that purpose.</p><p>Code 1950, § 33-10; 1970, c. 322, § 33.1-10; 1974, c. 462; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,3 +1,0 @@
-# § 24.2-531 Pollbooks used during primaries.
-
-<p>There shall be pollbooks in the form set forth in § <a href='http://law.lis.virginia.gov/vacode/24.2-611/'>24.2-611</a> provided for use during any primary.</p><p>Code 1950, § 24-377; 1970, c. 462, § 24.1-189; 1980, c. 639; 1981, c. 425; 1993, c. 641; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP1015'>1015</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0812'>812</a>; 2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0540'>540</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0576'>576</a>.</p>

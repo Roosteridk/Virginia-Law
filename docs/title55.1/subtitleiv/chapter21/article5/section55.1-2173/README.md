@@ -1,3 +1,0 @@
-# § 55.1-2173 Common Interest Community Board.
-
-<p>This chapter shall be administered by the Common Interest Community Board.</p><p>1982, c. 277, § 55-496; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0851'>851</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0871'>871</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

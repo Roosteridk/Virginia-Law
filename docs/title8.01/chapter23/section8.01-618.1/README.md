@@ -1,3 +1,0 @@
-# § 8.01-618.1 Fees of special receivers and commissioners for reports.
-
-<p>Special receivers and commissioners may charge, for the reports made under § <a href='http://law.lis.virginia.gov/vacode/8.01-617/'>8.01-617</a>, the same fees allowed by law to commissioners in chancery for other reports, to be paid out of the fund in court, and charged to the respective cases therein, in such proportions as the court deems appropriate.</p><p>Code 1950, § 8-262; 1977, c. 624, § 14.1-133.1; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

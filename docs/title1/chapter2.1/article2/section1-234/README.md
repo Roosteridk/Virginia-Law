@@ -1,3 +1,0 @@
-# § 1-234 Personal representative.
-
-<p>"Personal representative" includes the executor of a will or the administrator of the estate of a decedent, the administrator of such estate with the will annexed, the administrator of such estate unadministered by a former representative, whether there is a will or not, any person who is under the order of a circuit court to take into his possession the estate of a decedent for administration, and every other curator of a decedent's estate, for or against whom suits may be brought for causes of action that accrued to or against the decedent.</p><p>Code 1919, § 5; Code 1950, § 1-13; 1950, p. 22, § 1-13.21; 1971, Ex. Sess., c. 49; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

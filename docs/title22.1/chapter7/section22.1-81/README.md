@@ -1,3 +1,0 @@
-# § 22.1-81 Annual report.
-
-<p>Unless for good cause shown an extension of time not to exceed fifteen days is granted by the Superintendent of Public Instruction, each school board, with the assistance of the division superintendent, shall make a report covering the work of the schools for the year ending the preceding June 30 to the Board of Education according to a timeline and on forms supplied by the Superintendent of Public Instruction.</p><p>Code 1950, § 22-54; 1980, c. 559; 1987, c. 205; 1999, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0191'>191</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0492'>492</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0355'>355</a>.</p>

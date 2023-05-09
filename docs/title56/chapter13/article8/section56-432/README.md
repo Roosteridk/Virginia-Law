@@ -1,3 +1,0 @@
-# § 56-432 Liability for injury on track not enclosed.
-
-<p>In any action or suit against a railroad company for an injury to any property on any part of its tracks not enclosed according to the provisions of this chapter it shall not be necessary for the claimant to show that the injury was caused by the negligence of the company, its employees, agents, or servants.</p><p>Code 1919, § 3949.</p>

@@ -1,3 +1,0 @@
-# § 38.2-5005 Tolling of statute of limitations.
-
-<p>The statute of limitations with respect to any civil action that may be brought by or on behalf of an injured infant allegedly arising out of or related to a birth-related neurological injury shall be tolled by the filing of a claim in accordance with this chapter, and the time such claim is pending shall not be computed as part of the period within which such civil action may be brought.</p><p>1987, c. 540; 1989, c. 523; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0897'>897</a>.</p>

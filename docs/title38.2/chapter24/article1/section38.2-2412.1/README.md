@@ -1,3 +1,0 @@
-# § 38.2-2412.1 Notice to Department of Criminal Justice Services of revocation of property and casualty insurance license.
-
-<p>Whenever the Commission revokes, suspends or otherwise terminates the license of any property and casualty agent who is also a licensed surety bail bondsman, it shall immediately give notice of the revocation, suspension or termination to the Department of Criminal Justice Services.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0460'>460</a>.</p>

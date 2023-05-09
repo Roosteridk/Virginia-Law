@@ -1,3 +1,0 @@
-# § 38.2-4000 Societies to which chapter applies.
-
-<p>The provisions of this chapter apply to every person designated as a "burial society." A "burial society" is any person engaged in the business of providing benefits for any payment of funeral, burial or other expenses of deceased members, by levying assessments or dues that are collected or are to be collected from the members of the society, or from the members of a class of the society.</p><p>Code 1950, § 38-143; 1952, c. 317, § 38.1-550; 1986, c. 562.</p>

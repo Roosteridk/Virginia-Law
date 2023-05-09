@@ -1,3 +1,0 @@
-# § 2.2-128 Definitions.
-
-<p>For the purpose of this chapter:</p><p>"Agency" means an administrative unit of state government, including any department, institution, commission, board, council, authority, or other body, however designated.</p><p>"Board" means any collegial body in the executive branch of state government created by the General Assembly.</p><p>"Function" means an activity, assignment or set of operations.</p><p>"Reorganization" means a transfer, consolidation, coordination, or abolition of a function, or the assignment or reassignment of responsibility and authority for the execution of a function.</p><p>1977, c. 505, § 2.1-8.2; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

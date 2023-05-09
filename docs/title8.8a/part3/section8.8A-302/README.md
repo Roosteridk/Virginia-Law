@@ -1,3 +1,0 @@
-# § 8.8A-302 Rights of purchaser.
-
-<p>(a) Except as otherwise provided in subsections (b) and (c), a purchaser of a certificated or uncertificated security acquires all rights in the security that the transferor had or had power to transfer.</p><p>(b) A purchaser of a limited interest acquires rights only to the extent of the interest purchased.</p><p>(c) A purchaser of a certificated security who as a previous holder had notice of an adverse claim does not improve its position by taking from a protected purchaser.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0216'>216</a>; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1007'>1007</a>.</p>

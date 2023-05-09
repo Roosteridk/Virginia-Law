@@ -1,3 +1,0 @@
-# § 42.1-58 Agreements providing for expenditure of federal and matching funds.
-
-<p>The Library Board and the cities and counties of the Commonwealth are authorized to enter into agreements providing for the supervision of the expenditure of federal funds allocated to such cities and counties and matching funds provided by such political subdivisions. Such agreement shall set forth the standards and conditions with respect to the expenditure of such funds.</p><p>Code 1950, § 42-32.2; 1964, c. 324; 1970, c. 606.</p>

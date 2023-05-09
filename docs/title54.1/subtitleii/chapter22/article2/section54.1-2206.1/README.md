@@ -1,3 +1,0 @@
-# § 54.1-2206.1 Requirements for application for professional wetland delineator certification.
-
-<p>The Board may certify any applicant as a Virginia certified professional wetland delineator who has submitted satisfactory evidence verified by affidavits that the applicant:</p><p>1. Is eighteen years of age or older;</p><p>2. Is of good moral character; and</p><p>3. Has successfully completed such educational and experiential requirements as are required by this chapter and the regulations of the Board.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0784'>784</a>.</p>

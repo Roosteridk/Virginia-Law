@@ -1,3 +1,0 @@
-# § 45.2-581  Additional coal mining training programs.
-
-<p>The Chief may implement a voluntary on-site safety awareness training program for coal miners. Such training may be conducted by a mine inspector in conjunction with his inspection of a coal mine or by other Department personnel. Safety awareness training for coal miners may include such methods as job safety analysis and topical talks on safety issues intended to reduce accidents.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.103; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

@@ -1,3 +1,0 @@
-# § 33.2-1223 Pasting advertisements prohibited in certain instances.
-
-<p>No advertisement shall be pasted or glued on any building, fence, wall, tree, rock, or other similar structure or object unless the same structure or object is an advertising structure for which a permit has been issued and is in effect.</p><p>Code 1950, § 33-318; 1970, c. 322, § 33.1-372; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

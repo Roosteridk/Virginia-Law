@@ -1,3 +1,0 @@
-# § 38.2-3910 Policy forms to be filed.
-
-<p>Every mutual assessment life, accident and sickness insurer shall file with the Commission a copy of all policy forms and standard endorsements which the insurer intends to use. These companies shall be exempt from form approval requirements regarding those lines of insurance specified in Category A of § <a href='http://law.lis.virginia.gov/vacode/38.2-3902/'>38.2-3902</a> until July 1, 1990.</p><p>1985, c. 400, § 38.1-549.11; 1986, c. 562.</p>

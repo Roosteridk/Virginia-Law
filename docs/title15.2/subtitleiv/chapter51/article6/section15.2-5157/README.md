@@ -1,3 +1,0 @@
-# § 15.2-5157 Recording in land records.
-
-<p>The local governing body, upon approving the resolution or ordinance creating the district, shall direct that a copy of the resolution or ordinance be recorded in the land records of the circuit court for the locality in which the district is located for each parcel included in the district and be noted on the land books of the locality. For the purposes of this section, "parcel" is defined as tax map parcel.</p><p>Code 1950, § 15-764.3; 1950, p. 1315; 1962, c. 623, § 15.1-1241; 1972, c. 370; 1973, c. 478; 1993, c. 850; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0402'>402</a>; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0897'>897</a>; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 38.2-2519 Classification of risks; rates.
-
-<p>Any insurer writing mutual assessment property and casualty insurance may classify the property or risk insured in accordance with the risk or hazard to which the property is subject, and fix the rate of assessment or premium for that insurance in accordance with the classification.</p><p>Code 1950, § 38-531; 1952, c. 317, § 38.1-676; 1974, c. 244; 1986, c. 562.</p>

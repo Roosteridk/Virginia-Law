@@ -1,3 +1,0 @@
-# § 33.2-1905 District a body corporate.
-
-<p>Each transportation district created pursuant to this chapter, or pursuant to an act of the General Assembly, is hereby created as a body corporate and politic under the name of, and to be known by, the name of the district with the word "commission" appended.</p><p>1964, c. 631, § 15.1-1346; 1997, c. 587, § 15.1-4505; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

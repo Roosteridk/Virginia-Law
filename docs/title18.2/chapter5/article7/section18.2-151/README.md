@@ -1,3 +1,0 @@
-# § 18.2-151 Opening or carrying away pumps, etc., used for dispensing gasoline, etc.
-
-<p>If any person, with intent to commit larceny therefrom, break and open, or open, or carry away, any pump, tank, or other similar equipment or container used for dispensing or storing kerosene, gasoline or motor oils, he shall be guilty of a Class 6 felony.</p><p>Code 1950, § 18.1-169; 1960, c. 358; 1975, cc. 14, 15.</p>

@@ -1,3 +1,0 @@
-# § 54.1-2403 Certain advertising prohibited.
-
-<p>No person licensed, certified, registered, or permitted by one of the boards within the Department shall use any form of advertising that contains any false, fraudulent, misleading, or deceptive statement or claim.</p><p>1987, c. 199, § 54-959.1; 1988, c. 765; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0423'>423</a>.</p>

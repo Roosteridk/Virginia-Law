@@ -1,3 +1,0 @@
-# § 10.1-1705.1 Construction.
-
-<p>Notwithstanding any provision of law to the contrary, an easement held pursuant to this chapter shall be construed in favor of achieving the conservation purposes for which it was created.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0274'>274</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0317'>317</a>.</p>

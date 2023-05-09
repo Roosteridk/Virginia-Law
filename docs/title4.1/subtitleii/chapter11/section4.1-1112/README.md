@@ -1,3 +1,0 @@
-# § 4.1-1112 Limitation on carrying marijuana or marijuana products in motor vehicle transporting passengers for hire; penalty.
-
-<p>The transportation of marijuana or marijuana products in any motor vehicle that is being used, or is licensed, for the transportation of passengers for hire is prohibited, except when carried in the possession of a passenger who is being transported for compensation at the regular rate and fare charged other passengers.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0550'>550</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0551'>551</a>.</p>

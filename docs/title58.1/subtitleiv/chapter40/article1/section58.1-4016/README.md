@@ -1,3 +1,0 @@
-# § 58.1-4016 Gift to minor prohibited.
-
-<p>No ticket or share shall be given as a gift or otherwise to any person under the age of eighteen years. Any person who knowingly gives a lottery ticket or share to any person under the age of eighteen years is guilty of a Class 3 misdemeanor.</p><p>1987, c. 531.</p>

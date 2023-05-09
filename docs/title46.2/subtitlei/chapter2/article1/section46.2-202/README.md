@@ -1,3 +1,0 @@
-# § 46.2-202 Oath and bond; salary.
-
-<p>The Commissioner, before entering on the discharge of his duties, shall take an oath that he will faithfully and impartially discharge all the duties of his office, and he shall be bonded in accordance with § <a href='/vacode/2.2-1840/'>2.2-1840</a>. The Commissioner shall receive the salary appropriated for the purpose.</p><p>Code 1950, § 46-25; 1958, c. 541, § 46.1-24; 1989, c. 727; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0152'>152</a>.</p>

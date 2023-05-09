@@ -1,3 +1,0 @@
-# § 44-90 Punishment for failure to appear.
-
-<p>Every member of the militia ordered out for duty, or who shall volunteer or be drafted, who does not appear at the time and place ordered, shall be liable to such punishment as a court-martial may direct.</p><p>1930, p. 965; Michie Code 1942, § 2673(75); 1958, c. 393.</p>

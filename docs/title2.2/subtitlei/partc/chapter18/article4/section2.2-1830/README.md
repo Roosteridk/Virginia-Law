@@ -1,3 +1,0 @@
-# § 2.2-1830 Decline in forecasted revenues.
-
-<p>In the event that a revised general fund forecast presented to the General Assembly reflects a decline when compared to total general fund revenues appropriated, and the decrease is more than two percent of certified tax revenues collected in the most recently ended fiscal year, the General Assembly may appropriate an amount for transfer from the Fund to the general fund to stabilize the revenues of the Commonwealth. However, in no event shall the transfer exceed more than one-half of the forecasted shortfall in revenues.</p><p>1992, c. 316, § 2.1-191.3; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

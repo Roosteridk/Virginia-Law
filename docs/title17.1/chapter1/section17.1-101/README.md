@@ -1,3 +1,0 @@
-# § 17.1-101 Time within which a judge may qualify; failure vacates office.
-
-<p>Any judge of this Commonwealth may qualify at any time after receiving his commission and before the expiration of thirty days after the commencement of his term of office. If any judge does not receive his commission until after the commencement of his term of office he may qualify within thirty days from the date of receiving the same. The failure of any judge to qualify within these time limits shall vacate his office.</p><p>Code 1919, § 5978, § 17-2; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

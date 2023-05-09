@@ -1,3 +1,0 @@
-# § 56-79 Proof of costs in cases of payment to affiliated companies.
-
-<p>No proof shall be satisfactory, within the meaning of the foregoing sections, unless it includes the original (or verified copies) of the relevant cost records and other relevant accounts of the affiliated interest, or such abstract thereof or summary taken therefrom, as the Commission may deem adequate, properly identified and duly authenticated; provided, however, that the Commission may, where reasonable, approve or disapprove such contracts or arrangements without the submission of such cost records or accounts.</p><p>1934, p. 745; Michie Code 1942, § 3774e.</p>

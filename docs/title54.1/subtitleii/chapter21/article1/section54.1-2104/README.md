@@ -1,3 +1,0 @@
-# § 54.1-2104 Real Estate Board; membership; chairman; seal.
-
-<p>The Real Estate Board shall be composed of nine members as follows: seven members who have been licensed real estate brokers or salespersons for at least five consecutive years before their appointment and two citizen members. The terms of Board members shall be four years.</p><p>The Board shall elect a chairman from its membership.</p><p>The Board shall adopt a seal by which it shall authenticate its proceedings.</p><p>Code 1950, §§ 54-737, 54-738, 54-739, 54-744; 1956, c. 145; 1981, c. 447; 1984, c. 201; 1985, c. 448; 1988, cc. 42, 765; 1992, c. 809; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0091'>91</a>.</p>

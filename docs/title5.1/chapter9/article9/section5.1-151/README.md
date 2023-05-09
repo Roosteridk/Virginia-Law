@@ -1,3 +1,0 @@
-# § 5.1-151 Right to amend, revoke, etc., rights, certificates or franchises.
-
-<p>The right and power of the General Assembly to amend, alter, revoke or repeal any and all rights, certificates, or franchises granted pursuant to the provisions of this chapter is hereby reserved.</p><p>Code 1950, § 56-206; 1970, c. 708.</p>

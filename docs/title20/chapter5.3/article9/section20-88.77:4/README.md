@@ -1,3 +1,0 @@
-# § 20-88.77:4 Procedure to register child support order of foreign country for modification.
-
-<p>A party or support enforcement agency seeking to modify, or to modify and enforce, a foreign child support order not under the Convention may register that order in the Commonwealth under Article 8 (§ <a href='http://law.lis.virginia.gov/vacode/20-88.66/'>20-88.66</a> et seq.) if the order has not been registered. A petition for modification may be filed at the same time as a request for registration or at another time. The petition must specify the grounds for modification.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0727'>727</a>.</p>

@@ -1,3 +1,0 @@
-# § 22.1-173 Bonds legal investments.
-
-<p>All bonds issued by the Authority under the provisions of this chapter are hereby made securities in which all public officers and bodies of the Commonwealth, counties, cities, towns, municipal subdivisions, insurance companies and associations, savings banks and savings institutions, including savings and loan associations, trust companies, beneficial and benevolent associations, administrators, guardians, executors, trustees and other fiduciaries in the Commonwealth may properly and legally invest funds under their control.</p><p>Code 1950, § 22-29.13; 1962, c. 194; 1980, c. 559.</p>

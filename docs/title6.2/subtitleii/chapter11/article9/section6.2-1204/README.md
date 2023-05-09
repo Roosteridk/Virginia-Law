@@ -1,3 +1,0 @@
-# § 6.2-1204 Compliance by savings institution holding companies with federal regulations constitutes compliance with Commission regulations.
-
-<p>Any savings institution holding company that does not have any subsidiaries that are state savings institutions and that is subject to regulations adopted by the appropriate federal authority shall be deemed to be in substantial compliance with the regulations adopted by the Commission if it is in compliance with the regulations adopted by the appropriate federal authority.</p><p>1985, c. 425, § 6.1-194.87; 1990, c. 3; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0016'>16</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

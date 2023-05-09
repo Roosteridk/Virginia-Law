@@ -1,3 +1,0 @@
-# § 8.2A-521 Lessee's right to specific performance or other similar rights.
-
-<p>(1) Specific performance may be decreed if the goods are unique or in other proper circumstances.</p><p>(2) A decree for specific performance may include any terms and conditions as to payment of the rent, damages, or other relief that the court deems just.</p><p>(3) A lessee has a right of detinue, sequestration, claim and delivery, or the like for goods identified to the lease contract if after reasonable effort the lessee is unable to effect cover for those goods or the circumstances reasonably indicate that the effort will be unavailing.</p><p>1991, c. 536.</p>

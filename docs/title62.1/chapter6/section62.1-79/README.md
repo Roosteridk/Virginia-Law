@@ -1,3 +1,0 @@
-# § 62.1-79 Appropriations.
-
-<p>The sums appropriated to carry out the purposes of this chapter shall be used to effect its provisions and to pay Virginia's proportionate part of the budget of the Ohio River Valley Water Sanitation Commission in accordance with Article X of the compact. No part of any such appropriation shall be available for expenditure in whole or in part unless and until the Comptroller shall be annually satisfied that each of the governmental entities having representatives on the Ohio River Valley Water Sanitation Commission has provided for the expenses thereof at least as much as is appropriated by the General Assembly of Virginia for the purposes of this chapter.</p><p>Code 1950, § 62-67.10; 1968, c. 659.</p>

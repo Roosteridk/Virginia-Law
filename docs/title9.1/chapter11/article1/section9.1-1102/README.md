@@ -1,3 +1,0 @@
-# § 9.1-1102 Department to be isolated; security and protection of evidence.
-
-<p>A. The Department and its facilities shall be located so as to ensure the protection of evidence.</p><p>B. The Department shall provide for security and protection of evidence, official samples, and all other samples submitted to the Department for analysis or examination.</p><p>C. The Department shall ensure that its services are performed by skilled professionals who are qualified to testify in court regarding such services.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0868'>868</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0881'>881</a>.</p>

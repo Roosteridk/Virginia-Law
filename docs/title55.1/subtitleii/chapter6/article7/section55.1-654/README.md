@@ -1,3 +1,0 @@
-# § 55.1-654 Certification of notices and certificates.
-
-<p>Certification of notices of tax liens, certificates, or other notices affecting federal liens by the Secretary of the Treasury of the United States or his delegate or by any official or entity of the United States responsible for filing or certifying notice of any lien other than a tax lien entitles them to be filed, and no other attestation, certification, or acknowledgment is necessary.</p><p>1970, c. 76, § 55-142.2; 1988, cc. 113, 388; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

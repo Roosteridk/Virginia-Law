@@ -1,3 +1,0 @@
-# § 64.2-790 Application to existing trusts.
-
-<p>This article applies to trusts existing on and created after January 1, 2000. As applied to trusts existing on its effective date, this article governs only decisions or actions occurring after that date.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0772'>772</a>, § 26-45.12; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

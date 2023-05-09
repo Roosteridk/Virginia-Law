@@ -1,3 +1,0 @@
-# § 10.1-1452 Article not to preclude exercise of certain regulatory powers.
-
-<p>The provisions of this article shall not preclude the exercise of the statutory and regulatory powers of any agency, department or political subdivision of the Commonwealth having statutory authority to regulate hazardous materials on specified highways or portions thereof.</p><p>1986, c. 492, § 10-307; 1988, c. 891.</p>

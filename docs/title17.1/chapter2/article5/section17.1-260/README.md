@@ -1,3 +1,0 @@
-# § 17.1-260 Recordation, effect and requisites of incorporating deed.
-
-<p>Any person may record a deed of trust hereinafter referred to as an "incorporating deed," which incorporates by reference any one or more of the provisions of a master deed recorded in the same clerk's office. The provisions incorporated by reference shall be of the same force and effect and shall be as binding upon the parties to the incorporating deed and their successors in title as if fully set forth in the incorporating deed. No incorporating deed shall refer to more than one master deed.</p><p>1954, c. 8, § 17-83.4; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

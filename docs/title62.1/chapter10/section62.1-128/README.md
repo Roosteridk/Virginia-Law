@@ -1,3 +1,0 @@
-# § 62.1-128 Authority created.
-
-<p>The Virginia Port Authority, hereinafter referred to as the Authority, is created as a body corporate and as a political subdivision of the Commonwealth. The Authority is hereby constituted a public instrumentality exercising public and essential governmental functions, and the exercise by the Authority of the powers conferred by this chapter shall be deemed and held to be the performance of an essential governmental function of the Commonwealth.</p><p>Code 1950, § 62-106.1; 1952, c. 61; 1954, c. 667; 1958, c. 174; 1968, c. 659; 1970, c. 171; 1981, c. 589; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0232'>232</a>.</p>

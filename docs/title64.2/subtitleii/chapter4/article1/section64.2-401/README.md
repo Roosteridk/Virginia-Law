@@ -1,3 +1,0 @@
-# § 64.2-401 Who may make a will; what estate may be disposed of.
-
-<p>A. Except as provided in subsection B, any individual may make a will to dispose of all or part of his estate at his death that, if not disposed of, would otherwise pass by intestate succession, including any estate, right, or interest that the testator may subsequently become entitled to after the execution of the will.</p><p>B. An individual is not capable of making a will if he is (i) of unsound mind or (ii) an unemancipated minor.</p><p>Code 1950, §§ 64-48, 64-49; 1968, c. 656, §§ 64.1-46, 64.1-47; 1972, c. 825; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0161'>161</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

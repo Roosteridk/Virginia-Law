@@ -1,3 +1,0 @@
-# § 21-154 Incorporation of district; name and style.
-
-<p>Each district heretofore or hereafter created pursuant to this chapter or pursuant to a special act of the General Assembly, and the inhabitants of its territory as the same has been or may be established and from time to time altered pursuant to a law, is hereby created as a body corporate and politic under the name and style of, and to be known by, the name of the district with the word "commission" appended.</p><p>1938, p. 513; 1942, p. 600; Michie Code 1942, § 1560kk; 1944, p. 72; 1946, p. 528.</p>

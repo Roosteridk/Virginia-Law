@@ -1,3 +1,0 @@
-# § 2.2-1101 Creation of internal service fund accounts.
-
-<p>Upon written request of the Director of the Department, the Joint Legislative Audit and Review Commission may direct the Comptroller to establish internal service fund accounts on his books and record the receipts and expenditures for appropriate functions of the Department. The Comptroller shall provide the Department with working capital advances with which to finance these operations pursuant to appropriations made by law. Charges for services rendered sufficient to offset costs involved in these operations shall be established.</p><p>1977, c. 672, § 2.1-425; 1978, c. 255; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

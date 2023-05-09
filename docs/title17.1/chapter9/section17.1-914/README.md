@@ -1,3 +1,0 @@
-# § 17.1-914 Privilege.
-
-<p>The filing of papers with and the giving of testimony before the Commission shall be privileged, except where such filing of papers or giving of testimony is motivated or accompanied by actual malice. No other publication of such papers or proceedings shall be privileged in any action for defamation except that (i) the record filed by the Commission with the Supreme Court, in support of a formal complaint filed therewith, continues to be privileged and (ii) a writing which was privileged before its filing with the Commission shall not lose such privilege by such filing.</p><p>1971, Ex. Sess., c. 154, § 2.1-37.14; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

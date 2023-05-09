@@ -1,3 +1,0 @@
-# § 38.2-3908 Officers.
-
-<p>Unless the certificate of incorporation provides otherwise, the directors shall elect from their number a president and may elect a chairman, and shall also elect a secretary and a treasurer and any additional officers as they determine necessary, who may or may not be members of the insurer. The offices of secretary and treasurer may be held by one person. Unless otherwise provided in the certificate of incorporation, the term of these officers shall be not less than one year nor more than three years or until their successors are elected or qualified.</p><p>1985, c. 400, § 38.1-549.9; 1986, c. 562.</p>

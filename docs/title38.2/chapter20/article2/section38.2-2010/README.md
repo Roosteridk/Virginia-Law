@@ -1,3 +1,0 @@
-# § 38.2-2010 Suspension or modification of requirement for filing.
-
-<p>The Commission, by order, may suspend or modify the filing requirement of this chapter for any kind of insurance or subdivision or combination of insurance, or for classes of risks, where the rates for the insurance cannot practicably be filed before they are used. The order shall be made known to insurers and rate service organizations affected by it. The Commission may make any examination it deems advisable to determine whether any rates affected by the order meet the standards set out in subsection A of § <a href='http://law.lis.virginia.gov/vacode/38.2-2005/'>38.2-2005</a>.</p><p>Code 1950, §§ 38-253.31, 38-253.77; 1952, c. 317, § 38.1-259; 1986, c. 562.</p>

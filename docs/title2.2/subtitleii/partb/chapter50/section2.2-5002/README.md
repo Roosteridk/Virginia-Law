@@ -1,3 +1,0 @@
-# § 2.2-5002 Power to issue obligations not to be denied because interest is subject to federal income taxation.
-
-<p>The power of any governmental instrumentality, to issue or have issued on its behalf for authorized purposes, bonds, shall not be construed to be restricted or limited solely because the interest thereon is subject, in whole or in part, directly or indirectly, to federal income taxes.</p><p>1986, c. 137, § 2.1-326.2:1; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

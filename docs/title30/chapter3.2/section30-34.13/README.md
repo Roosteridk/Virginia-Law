@@ -1,3 +1,0 @@
-# § 30-34.13 General powers of Division.
-
-<p>The Division shall have the following general powers:</p><p>1. To employ such personnel as may be required to carry out the purposes of this chapter.</p><p>2. To make and enter into all contracts and agreements necessary or incidental to the performance of its duties and the execution of its powers under this chapter, including, but not limited to, contracts with the United States, other states, and agencies and governmental subdivisions of Virginia.</p><p>3. To do all acts necessary or convenient to carry out the purposes of this chapter.</p><p>1980, c. 725.</p>

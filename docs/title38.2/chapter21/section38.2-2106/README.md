@@ -1,3 +1,0 @@
-# § 38.2-2106 Standard form for execution of policies.
-
-<p>Except as provided in § <a href='http://law.lis.virginia.gov/vacode/38.2-2107/'>38.2-2107</a>, each policy shall contain the following clause, which shall be used in executing and attesting the policy:</p><p style="padding-left: 30px;">IN WITNESS WHEREOF, this Company has executed and attested these presents</p><p>Immediately following the execution clause a space shall be left for the signature of the officer or officers of the company authorized to sign the policy.</p><p>Code 1950, § 38-186; 1950, p. 994; 1952, c. 317, § 38.1-367; 1986, c. 562.</p>

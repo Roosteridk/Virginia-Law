@@ -1,3 +1,0 @@
-# § 64.2-722 Trust purposes.
-
-<p>A trust may be created only to the extent its purposes are lawful, not contrary to public policy, and possible to achieve. A trust and its terms shall be for the benefit of its beneficiaries.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-544.04; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

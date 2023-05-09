@@ -1,3 +1,0 @@
-# § 36-118 Interpretation of Code; recommendation of modifications.
-
-<p>The Review Board shall interpret the provisions of the Building Code, and the Fire Prevention Code, and shall make such recommendations, which it deems appropriate, to the Board for modification, amendment or repeal of any of such provisions. A record of all such recommendations, and of the Board's actions thereon, shall be kept in the office of the Review Board. Such record shall be open to public inspection at all times during business hours.</p><p>1972, c. 829; 1977, c. 613; 1986, c. 429.</p>

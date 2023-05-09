@@ -1,3 +1,0 @@
-# § 30-181 Cooperation of agencies of state and local government.
-
-<p>Every department, division, board, bureau, commission, authority or political subdivision of the Commonwealth shall cooperate with, and provide such assistance to, the Council as the Council may request.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0917'>917</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0987'>987</a>, § 2.1-346.5; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

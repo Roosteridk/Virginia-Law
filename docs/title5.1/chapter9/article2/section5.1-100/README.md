@@ -1,3 +1,0 @@
-# § 5.1-100 Transportation of baggage, mail, etc., with passengers.
-
-<p>A certificate for the transportation of passengers may include, when so authorized by the Commission, authority to transport, in the same aircraft with passengers, the baggage of such passengers, newspapers, express parcels, or United States mail when the transportation thereof is authorized by the government of the United States of America; provided that the total weight of the aircraft and its contents shall not exceed that weight authorized by the "Operations Record" of the individual aircraft.</p><p>Code 1950, § 56-154; 1970, c. 708.</p>

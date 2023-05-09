@@ -1,3 +1,0 @@
-# § 59.1-441.3 Regulations.
-
-<p>The Board is authorized to prescribe reasonable regulations in order to implement provisions in this chapter relating to legal services plan sellers. These regulations shall be adopted, amended, or repealed in accordance with the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.).</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0784'>784</a>.</p>

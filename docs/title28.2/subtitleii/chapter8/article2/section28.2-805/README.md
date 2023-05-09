@@ -1,3 +1,0 @@
-# § 28.2-805 Notice to cease activity.
-
-<p>Upon receipt of such notice, the owner or operator of such grounds, establishment, or other place shall cease to take crustacea, finfish, or shellfish from such ground, except as is hereinafter provided, and shall cease to prepare for market, or to sell or offer for sale, or to dispose of crustacea, finfish, or shellfish in such establishments or other places until the cause for such notice has been removed or relieved to the satisfaction of the State Health Commissioner.</p><p>Code 1950, § 28-160; 1962, c. 406, § 28.1-176; 1992, c. 836.</p>

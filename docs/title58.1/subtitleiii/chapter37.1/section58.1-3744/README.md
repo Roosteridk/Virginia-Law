@@ -1,3 +1,0 @@
-# § 58.1-3744 Uniform ordinance provisions.
-
-<p>The provisions of § <a href='http://law.lis.virginia.gov/vacode/58.1-3703.1/'>58.1-3703.1</a> with the exception of subdivisions A 1 and A 3 of such section shall apply to the taxes authorized by this chapter, mutatis mutandis.</p><p>2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0305'>305</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0618'>618</a>.</p>

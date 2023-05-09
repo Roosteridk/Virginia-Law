@@ -1,3 +1,0 @@
-# § 3.2-6041 Exemption from article.
-
-<p>Nothing in this article or any regulation adopted hereunder shall apply to shooting preserves licensed under Chapter 6 (§ <a href='http://law.lis.virginia.gov/vacode/29.1-600/'>29.1-600</a> et seq.) of Title 29.1.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0822'>822</a>, § 3.1-763.5:7; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

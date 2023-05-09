@@ -1,3 +1,0 @@
-# § 50-73.144 Application and construction.
-
-<p>A. This chapter shall be applied and construed to effectuate its general purpose to make uniform the law with respect to the subject of this chapter among States enacting it.</p><p>B. This chapter shall be construed in furtherance of the policies of giving maximum effect to the principle of freedom of contract and of enforcing partnership agreements.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0292'>292</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0340'>340</a>.</p>

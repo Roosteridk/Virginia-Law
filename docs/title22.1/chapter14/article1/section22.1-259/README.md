@@ -1,3 +1,0 @@
-# § 22.1-259 Teachers to keep daily attendance records.
-
-<p>Every teacher in every school in the Commonwealth shall keep an accurate daily record of attendance of all children in accordance with regulations prescribed by the Board of Education. Such record shall, at all times, be open to any officer authorized to enforce the provisions of this article who may inspect or copy the same and shall be admissible in evidence in any prosecution for a violation of this article as prima facie evidence of the facts stated therein.</p><p>Code 1950, §§ 22-209, 22-275.15; 1959, Ex. Sess., c. 72; 1964, c. 119; 1968, c. 178; 1980, c. 559.</p>

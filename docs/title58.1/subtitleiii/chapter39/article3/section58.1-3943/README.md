@@ -1,3 +1,0 @@
-# § 58.1-3943 Distraint on property of tenant or of owner of tract who has sold part thereof.
-
-<p>When rent is payable in a share of a crop, the share of the crop belonging to a landlord who owes taxes, but only that share, shall be liable to levy. When taxes are assessed wholly to one person on a tract or lot, part of which has become the freehold of another by a title recorded before the commencement of the year for which such taxes are assessed, the property belonging to the former shall not be distrained for more than a due proportion of the taxes.</p><p>Code 1950, § 58-1006; 1984, c. 675.</p>

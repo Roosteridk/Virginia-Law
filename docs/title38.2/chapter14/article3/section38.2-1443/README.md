@@ -1,3 +1,0 @@
-# § 38.2-1443 Investment of amounts allocated to separate accounts for variable life insurance and variable annuities.
-
-<p>The amounts allocated to separate accounts for variable life insurance and variable annuities, pursuant to the provisions of § <a href='http://law.lis.virginia.gov/vacode/38.2-3113/'>38.2-3113</a>, and accumulations on them, may be invested and reinvested by a domestic insurer in any type of Category 1 investment. Any percentage limitations based on the insurer's total admitted assets or surplus to policyholders shall not apply to investments made pursuant to this section.</p><p>1983, c. 457, § 38.1-217.45; 1986, c. 562; 1992, c. 588.</p>

@@ -1,3 +1,0 @@
-# § 15.2-2108.15 Consumer complaints.
-
-<p>A municipality that provides cable television service shall enact an ordinance establishing a procedure for the filing and resolution of complaints relating to the municipality's provision of cable television service. Such ordinance shall comply with Title 47 of the Code of Federal Regulations and shall be no more favorable or less burdensome to the municipality than such procedure applicable to any private provider providing service in the municipality.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0677'>677</a>.</p>

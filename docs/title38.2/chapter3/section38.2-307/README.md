@@ -1,3 +1,0 @@
-# § 38.2-307 Charter and bylaw provisions in policies.
-
-<p>No policy shall contain any provision purporting to make any portion of the charter, bylaws or other organic law of the insurer, however designated, a part of the contract unless that portion is set out in full in the policy. Any policy provision in violation of this section shall be invalid.</p><p>1952, c. 317, § 38.1-335; 1986, c. 562.</p>

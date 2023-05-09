@@ -1,3 +1,0 @@
-# § 30-353 Staffing.
-
-<p>Administrative staff support shall be provided by the Office of the Clerk of the chairman of the Commission. The Division of Legislative Services shall provide legal, research, policy analysis, and other services as requested by the Commission. Technical assistance shall be provided by the Department of Education. All agencies of the Commonwealth shall provide assistance to the Commission, upon request.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0562'>562</a>.</p>

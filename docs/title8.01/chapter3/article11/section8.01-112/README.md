@@ -1,3 +1,0 @@
-# § 8.01-112 Reinstatement of cause to appoint special commissioner to make deed.
-
-<p>Any ended cause may be reinstated for the purpose of entering a decree directing a deed to be made to any party clearly shown by the record to be entitled thereto, or for the purpose of substituting a new commissioner to make a deed in the place of one previously appointed for that purpose, but who has died or become incapacitated to act before making such deed.</p><p>Code 1950, § 8-672; 1977, c. 617.</p>

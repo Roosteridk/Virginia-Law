@@ -1,3 +1,0 @@
-# § 23.1-633 Receipt of other financial aid by students.
-
-<p>Grants shall not be reduced by virtue of the student's receipt of any other financial aid from any other source except when the total of the grant and such other financial aid would enable the student to receive total financial assistance in excess of the estimated cost to the student of attending the institution in which he is enrolled.</p><p>1972, c. 18, § 23-38.17; 1973, c. 2; 1975, c. 400; 1980, c. 101; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

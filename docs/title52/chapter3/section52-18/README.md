@@ -1,3 +1,0 @@
-# § 52-18 Districts.
-
-<p>The Governor may divide the Commonwealth into two or more communication system districts, and, in the event of the proper proportionate monetary cooperation upon the part of localities within any one or more of such districts, may arrange for the establishment, purchase, installation, maintenance, and operation of such communication system equipment within such district or districts.</p><p>1936-7, p. 45; Michie Code 1942, § 2991b; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0049'>49</a>.</p>

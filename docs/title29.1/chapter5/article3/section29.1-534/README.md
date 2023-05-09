@@ -1,3 +1,0 @@
-# § 29.1-534 Right to fish in interjurisdictional inland waters.
-
-<p>A Virginia resident or a resident of an adjoining jurisdiction which has inland water lying adjacent to Virginia land or water may take fish with hook and line after complying with the requirements of the laws of the jurisdiction where the fishing occurs. For purposes of this section and § <a href='http://law.lis.virginia.gov/vacode/29.1-535/'>29.1-535</a>, the term "jurisdiction" shall include the District of Columbia.</p><p>1952, c. 484, § 29-153.1; 1964, c. 74; 1970, c. 194; 1987, c. 488; 1991, c. 200; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0093'>93</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0179'>179</a>.</p>

@@ -1,3 +1,0 @@
-# § 54.1-504.1 Notices for handling asbestos.
-
-<p>The Department of Professional and Occupational Regulation shall include with every asbestos worker's license a notice, in English and Spanish, containing a summary of the basic worker safety procedures regarding the handling of asbestos and information on how to file a complaint with the Virginia Board for Asbestos, Lead, and Home Inspectors.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0252'>252</a>.</p>

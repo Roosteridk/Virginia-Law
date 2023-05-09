@@ -1,3 +1,0 @@
-# § 19.2-152.12 Compensation for required representation of respondents.
-
-<p>Notwithstanding any other provision of law, when, in a proceeding pursuant to this chapter, representation of a respondent by counsel is required under the Servicemembers Civil Relief Act (50 U.S.C. § 3901 et seq.) or a guardian ad litem is required by law and there is no other provision for the compensation of counsel or a guardian ad litem, the court may order such counsel or guardian ad litem to be compensated for services pursuant to § <a href='http://law.lis.virginia.gov/vacode/19.2-163/'>19.2-163</a>.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0545'>545</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0556'>556</a>.</p>

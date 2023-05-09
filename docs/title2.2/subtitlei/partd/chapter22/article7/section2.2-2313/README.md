@@ -1,3 +1,0 @@
-# § 2.2-2313 Exemption from taxation.
-
-<p>The Authority is declared to be performing a public function and to be a public body corporate and a political subdivision of the Commonwealth. Accordingly, the income, including any profit made on the sale thereof from all bonds issued by the Authority, shall at all times be exempt from all taxation by the Commonwealth or any public subdivision thereof. If, after all indebtedness and other obligations of the Authority are discharged, the Authority is dissolved, its remaining assets shall inure to the benefit of the Commonwealth.</p><p>1984, c. 749, § 9-233; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

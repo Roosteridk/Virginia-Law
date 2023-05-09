@@ -1,3 +1,0 @@
-# § 38.2-3117.2 Explanation of settlement options.
-
-<p>The insurer shall provide the beneficiary, at the time a claim is made, written information describing the settlement options available under the policy and how to obtain specific details relevant to the options.</p><p>2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0194'>194</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0227'>227</a>.</p>

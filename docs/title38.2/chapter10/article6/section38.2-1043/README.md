@@ -1,3 +1,0 @@
-# § 38.2-1043 Suspension or revocation published.
-
-<p>Unless an appeal is taken within thirty days, the Commission shall have published in one or more newspapers having general circulation in this Commonwealth a notice of any final order that suspends or revokes the license of an insurer.</p><p>Code 1950, §§ 38-68, 38-133, 38-169; 1952, c. 317, § 38.1-102; 1986, c. 562.</p>

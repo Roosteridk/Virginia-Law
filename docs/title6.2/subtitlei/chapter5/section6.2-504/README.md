@@ -1,3 +1,0 @@
-# § 6.2-504 Requirement of signatures of both parties to a marriage not discriminatory in a secured transaction.
-
-<p>For the purposes of a secured transaction, a request for the signature of both parties to a marriage for the purpose of creating a valid lien, passing clear title, waiving inchoate rights to property, or assigning earnings, shall not constitute discrimination under this chapter. This provision shall not be construed to permit a creditor to take sex or marital status into account in connection with the evaluation of creditworthiness of any applicant.</p><p>1975, c. 627, § 59.1-21.22; 1977, c. 589; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

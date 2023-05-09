@@ -1,3 +1,0 @@
-# § 38.2-2810 Annual statements.
-
-<p>The association shall file an annual statement with the Commission within three months of the close of each fiscal year. The annual statement shall contain information on its transactions, condition, operations and affairs during the preceding fiscal year. The form and content of the annual statement shall be subject to the Commission's approval. The Commission may at any time require the association to furnish additional information on its transactions, condition or any matter connected with the association considered to be material and of assistance in evaluating the scope, operation and experience of the association.</p><p>1976, c. 85, § 38.1-784; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 53.1-152 Eligibility of persons sentenced for combinations of felony and misdemeanor offenses.
-
-<p>Every person who is convicted of a felony and also convicted of a misdemeanor and sentenced and committed for the same under the laws of this Commonwealth or of its political subdivisions shall be eligible for parole on the combination of said sentences in the same manner as provided in § <a href='http://law.lis.virginia.gov/vacode/53.1-151/'>53.1-151</a>.</p><p>Code 1950, § 53-252.1; 1954, c. 597; 1966, c. 638; 1982, c. 636.</p>

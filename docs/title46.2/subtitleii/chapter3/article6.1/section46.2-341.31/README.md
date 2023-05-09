@@ -1,3 +1,0 @@
-# § 46.2-341.31 Driving commercial motor vehicle with any alcohol in blood.
-
-<p>No person shall drive a commercial motor vehicle while having any amount of alcohol in his blood, as measured by a test administered pursuant to the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/46.2-341.26:1/'>46.2-341.26:1</a> through <a href='http://law.lis.virginia.gov/vacode/46.2-341.26:11/'>46.2-341.26:11</a>. Any person found to have so driven a commercial motor vehicle shall be guilty of a traffic infraction.</p><p>1989, c. 705, § 46.1-372.29:1; 1990, c. 218; 1992, c. 830.</p>

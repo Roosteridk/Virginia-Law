@@ -1,3 +1,0 @@
-# § 46.2-1200.3 Limitation on removal and sale of abandoned vehicles.
-
-<p>No person may remove or sell any abandoned vehicle left on public property or the shoulder of a primary highway unless such person is acting pursuant to an agreement for such removal or sale with a local government entity or law-enforcement agency and has actual possession of the vehicle.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0374'>374</a>.</p>

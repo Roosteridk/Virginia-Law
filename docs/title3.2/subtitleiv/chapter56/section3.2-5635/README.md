@@ -1,3 +1,0 @@
-# § 3.2-5635 Bulk sale and delivery of commodities.
-
-<p>All sales in which the buyer and seller are not both present to witness the measurement of a bulk delivery shall be accompanied by duplicate delivery tickets containing the following information:</p><p>1. The name and address of the buyer and seller;</p><p>2. The date of delivery;</p><p>3. The quantity delivered in terms of pounds, tons, gallons or cubic measure; and</p><p>4. If applicable, the count of individually wrapped packages, if more than one.</p><p>1993, c. 604, § 3.1-954.1; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

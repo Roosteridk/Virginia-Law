@@ -1,3 +1,0 @@
-# § 44-123.1 Armory defined.
-
-<p>As used in this chapter, unless otherwise provided, the meaning of "armory" shall include training or logistical support facilities, such as, but not limited to, maintenance facilities, training areas, facilities at the State Military Reservation, Virginia Beach, Virginia, and the Fort Pickett Maneuver Training Center.</p><p>1976, c. 266; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0296'>296</a>.</p>

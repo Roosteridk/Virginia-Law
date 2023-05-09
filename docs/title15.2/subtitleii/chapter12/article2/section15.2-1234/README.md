@@ -1,3 +1,0 @@
-# § 15.2-1234 Definitions.
-
-<p>As used in this article, "supplies" means any articles or things, including equipment, which are used by or furnished to any department, institution, office, board or other agency of county government.</p><p>"Contractual services" means any telephone, telegraph, postal, electric light and power service and other similar services.</p><p>Code 1950, § 15-542; 1962, c. 623, § 15.1-106; 1997, c. 587.</p>

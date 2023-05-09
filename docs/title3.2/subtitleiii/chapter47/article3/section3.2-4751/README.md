@@ -1,3 +1,0 @@
-# § 3.2-4751 Penalty for violation of article.
-
-<p>Any person who intentionally violates any provision of this article or regulations promulgated hereunder is guilty of a Class 1 misdemeanor.</p><p>1968, c. 598, § 3.1-722.11; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0340'>340</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

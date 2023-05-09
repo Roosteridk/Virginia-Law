@@ -1,3 +1,0 @@
-# § 20-88.63:1 Proceeding to determine parentage.
-
-<p>A tribunal of the Commonwealth authorized to determine parentage of a child may serve as a responding tribunal in a proceeding to determine parentage of a child brought under this chapter or a law or procedure substantially similar to this chapter.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0727'>727</a>.</p>

@@ -1,3 +1,0 @@
-# § 21-121 Validation of proceedings.
-
-<p>All proceedings had in the creation of sanitary districts in the Commonwealth prior to January 1, 1970, whether under general law or by special act, are validated and confirmed, and all such districts so created or attempted to be created under existing law or by special act are declared to have been validly created and established notwithstanding any defects or irregularities in the creation thereof.</p><p>1946, p. 64; 1958, c. 588; 1968, c. 62; 1970, c. 441.</p>

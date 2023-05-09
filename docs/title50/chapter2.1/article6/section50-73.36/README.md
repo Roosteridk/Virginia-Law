@@ -1,3 +1,0 @@
-# § 50-73.36 Interim distributions.
-
-<p>Except as provided in this article, a partner is entitled to receive distributions from a limited partnership before the dissolution and winding up thereof to the extent and at the times or upon the happening of the events specified in the partnership agreement.</p><p>1985, c. 607; 1987, c. 702; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0188'>188</a>.</p>

@@ -1,3 +1,0 @@
-# § 10.1-509 Disapproval of petition.
-
-<p>If the Board disapproves the petition, its determination shall be recorded, and if the petitioners are the governing body of a district, county or city or a part of a county or city, the governing body shall be notified in writing. If the petitioners are the requisite number of registered voters prescribed by subdivision 4 of § <a href='http://law.lis.virginia.gov/vacode/10.1-507/'>10.1-507</a>, notification shall be by a notice printed once in a newspaper of general circulation within the area designated in the petition.</p><p>1970, c. 480, § 21-13.1; 1988, c. 891.</p>

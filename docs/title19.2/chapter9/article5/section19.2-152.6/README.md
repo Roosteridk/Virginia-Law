@@ -1,3 +1,0 @@
-# § 19.2-152.6 Withdrawal from pretrial services.
-
-<p>Any participating city or county may, at the beginning of any calendar quarter, by ordinance or resolution of its governing authority, notify the Department of Criminal Justice Services of its intention to withdraw from participation in pretrial services. Such withdrawal shall be effective as of the last day of the quarter in which such notice is given.</p><p>1994, 2nd Sp. Sess., cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?943+ful+CHAP0001'>1</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?943+ful+CHAP0002'>2</a>; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0133'>133</a>.</p>

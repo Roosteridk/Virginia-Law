@@ -1,3 +1,0 @@
-# § 38.2-1445 Separate accounts deemed Category 1 investments.
-
-<p>All investments made in compliance with this article shall be deemed Category 1 investments except that nothing contained in this section shall be construed to affect or apply to any insurer licensed pursuant to the provisions of Chapter 42 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-4200/'>38.2-4200</a> et seq.) or 45 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-4500/'>38.2-4500</a> et seq.) of this title.</p><p>1983, c. 457, § 38.1-217.47; 1986, c. 562; 1992, c. 588.</p>

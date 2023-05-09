@@ -1,3 +1,0 @@
-# § 3.2-1502 Cotton Board membership terms.
-
-<p>The terms for appointments to the Cotton Board shall be for three years. The Governor shall fill any vacancy occurring before the expiration of any term through appointment of a qualified producer for the unexpired term. If possible, such vacancies shall be filled from the production area from which the vacancy occurred. No person may serve more than two consecutive three-year terms.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0873'>873</a>, § 3.1-1094; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0751'>751</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

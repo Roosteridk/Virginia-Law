@@ -1,3 +1,0 @@
-# § 46.2-413 Effect of reversal of conviction.
-
-<p>Reversal on appeal of any conviction because of which conviction any license or registration has been suspended or revoked pursuant to the provisions of this chapter shall entitle the holder to the restoration of his license or registration forthwith without proof of financial responsibility.</p><p>Code 1950, § 46-427; 1958, c. 541, § 46.1-440; 1989, c. 727.</p>

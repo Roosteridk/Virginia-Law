@@ -1,3 +1,0 @@
-# § 38.2-3111 Assignment of life insurance policies.
-
-<p>No life insurance policy shall be taken out by the insured or by a person having an insurable interest in the insured's life for the mere purpose of assignment. A policy may be assigned whether or not the assignee has an insurable interest in the life insured unless the policy provides otherwise.</p><p>Code 1950, § 38-367; 1952, c. 317, § 38.1-442; 1962, c. 590; 1986, c. 562.</p>

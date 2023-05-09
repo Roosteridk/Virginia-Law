@@ -1,3 +1,0 @@
-# § 46.2-445 How bond to be conditioned.
-
-<p>The Commissioner shall not accept any bond unless it is conditioned for payments in amounts and under the same circumstances as would be required in a motor vehicle liability policy furnished by the person giving proof.</p><p>Code 1950, § 46-466; 1958, c. 541, § 46.1-477; 1989, c. 727.</p>

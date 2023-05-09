@@ -1,3 +1,0 @@
-# § 29.1-343 Fees for waterfowl blind licenses.
-
-<p>The fees for waterfowl blind licenses shall be as follows or as such fees may be subsequently revised by the Board pursuant to § <a href='http://law.lis.virginia.gov/vacode/29.1-103/'>29.1-103</a>:</p><p>1. For a stationary blind erected in the public waters or on the shores of the riparian owner to shoot over the public waters, seventeen dollars and fifty cents.</p><p>2. For a floating blind, in the public waters, to shoot over the public waters, thirty-five dollars.</p><p>Code 1950, § 29-84; 1974, c. 363; 1987, c. 488; 1988, c. 250; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0009'>9</a>.</p>

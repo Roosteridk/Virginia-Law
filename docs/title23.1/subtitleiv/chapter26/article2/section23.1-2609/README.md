@@ -1,3 +1,0 @@
-# § 23.1-2609 Administration of the Division.
-
-<p>The board shall provide for the administration of the Division through the regular administrative and fiscal officers of the University and shall make appointments to the administrative and research staff on recommendation of the president of the University.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0433'>433</a>, § 23-132.2; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

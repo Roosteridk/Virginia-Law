@@ -1,3 +1,0 @@
-# § 16.1-222 Established; powers of Director.
-
-<p>A. There is hereby established within the Department of Juvenile Justice the Virginia Juvenile Justice Information System which shall operate separate and apart from the Central Criminal Records Exchange.</p><p>B. The Director of the Department of Juvenile Justice is authorized to employ such personnel, establish such offices, acquire such equipment and use such available equipment as shall be necessary to carry out the purpose of this chapter. He is further authorized to enter into agreements with other state agencies for services to be performed for the Virginia Juvenile Justice Information System by employees of such other agencies.</p><p>1976, c. 589; 1989, c. 733.</p>

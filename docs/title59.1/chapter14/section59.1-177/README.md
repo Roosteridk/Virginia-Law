@@ -1,3 +1,0 @@
-# §§ 59.1-177 through 59.1-188.1 Repealed.
-
-<p>Repealed by Acts 1983, c. 209.</p>

@@ -1,3 +1,0 @@
-# § 38.2-3422 Examination.
-
-<p>Any person that fails to show that it is regulated by another agency of this Commonwealth, any subdivision of this Commonwealth, or the federal government as provided by § <a href='http://law.lis.virginia.gov/vacode/38.2-3421/'>38.2-3421</a> shall be subject to an examination by the Commission to determine the organization and solvency of the person and whether or not the person is in compliance with the applicable provisions of this title.</p><p>1983, c. 417, § 38.1-43.9; 1986, c. 562; 1990, c. 477.</p>

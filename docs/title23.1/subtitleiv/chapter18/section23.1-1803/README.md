@@ -1,3 +1,0 @@
-# § 23.1-1803 Powers and duties.
-
-<p>A. The board shall appoint all teachers and fix their salaries, provide for the employment of other personnel as required, and generally direct the affairs of the University.</p><p>B. The board may confer degrees and, subject to the provisions of § <a href='http://law.lis.virginia.gov/vacode/23.1-203/'>23.1-203</a>, approve new academic programs and discontinue academic programs offered by the University.</p><p>1972, c. 861, §§ 23-91.40, 23-91.42, 23-91.43; 2004, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0176'>176</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0195'>195</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

@@ -1,3 +1,0 @@
-# § 21-213 Member of commission becoming nonresident because of removal or withdrawal.
-
-<p>If any member of a commission shall, through removal from the district or through any withdrawal or exclusion of any part or parts of any district, cease to reside within the district he shall thereupon be disqualified for holding office as a member of the commission, and the vacancy thus created shall be filled as otherwise provided.</p><p>1940, p. 621; 1942, p. 604; Michie Code 1942, § 1560kk1.</p>

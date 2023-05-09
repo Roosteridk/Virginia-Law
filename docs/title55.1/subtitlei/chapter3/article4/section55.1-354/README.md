@@ -1,3 +1,0 @@
-# § 55.1-354 Effect of covenant of general warranty.
-
-<p>A covenant by the grantor in a deed "that he will warrant generally the property hereby conveyed" shall have the same effect as if the grantor had covenanted that he and his heirs and personal representatives will forever warrant and defend such property unto the grantee and his heirs, personal representatives, and assigns against the claims and demands of all persons.</p><p>Code 1919, § 5171; Code 1950, § 55-68; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

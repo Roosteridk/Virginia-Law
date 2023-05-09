@@ -1,3 +1,0 @@
-# § 60.2-536.4 Interpretation.
-
-<p>The provisions of §§ <a href='http://law.lis.virginia.gov/vacode/60.2-536.1/'>60.2-536.1</a> through <a href='http://law.lis.virginia.gov/vacode/60.2-536.3/'>60.2-536.3</a> shall be interpreted and applied in such a manner as to meet the requirements contained in Public Law 108-295.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0047'>47</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0091'>91</a>.</p>

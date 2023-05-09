@@ -1,3 +1,0 @@
-# § 51.1-401 Accumulated contributions under abolished system.
-
-<p>The accumulated contributions of the members of the abolished system shall be refunded to the persons entitled to the contributions. No interest shall accumulate after February 1, 1952. Until refunded or otherwise disposed of, such funds, interests therein, and rights thereto shall not be subject to legal, judicial, or other process.</p><p>1952, c. 1, § 51-111.68; 1990, c. 832.</p>

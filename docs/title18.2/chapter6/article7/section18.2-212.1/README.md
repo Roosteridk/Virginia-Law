@@ -1,3 +1,0 @@
-# § 18.2-212.1 Unlawful for person not blind or incapacitated to carry white, white tipped with red or metallic cane.
-
-<p>It is unlawful for any person, unless totally or partially blind or otherwise incapacitated, while on any public street or highway to carry in a raised or extended position a cane or walking stick which is metallic or white in color or white tipped with red. Any person violating any provisions of this section shall be guilty of a Class 4 misdemeanor.</p><p>Code 1950, §§ 46.1-238, 46.1-239; 1958, c. 541; 1964, c. 20; 1975, cc. 14, 15.</p>

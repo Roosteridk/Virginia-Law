@@ -1,3 +1,0 @@
-# § 38.2-4020 When certificate invalid.
-
-<p>A certificate of membership shall be invalid if:</p><p>1. The certificate holder was ill at the time the certificate was procured;</p><p>2. Any person concerned in the procurement of the certificate had reason to believe that the illness existed at that time;</p><p>3. The illness continued to the death of the certificate holder and was a contributing cause of death;</p><p>4. Health questions were not asked on the application for coverage; and</p><p>5. The certificate holder died within sixty days from the date the certificate was issued.</p><p>Code 1950, § 38-153; 1952, c. 317, § 38.1-562; 1986, c. 562.</p>

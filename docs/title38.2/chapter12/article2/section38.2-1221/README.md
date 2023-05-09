@@ -1,3 +1,0 @@
-# § 38.2-1221 Deposit instead of bond.
-
-<p>Instead of filing the bond required by § <a href='http://law.lis.virginia.gov/vacode/38.2-1220/'>38.2-1220</a>, the attorney may maintain on deposit with the State Treasurer an equal amount in cash or in value of securities of the kind specified in § <a href='http://law.lis.virginia.gov/vacode/38.2-1045/'>38.2-1045</a>, subject to the same conditions as the bond.</p><p>1952, c. 317, § 38.1-711; 1986, c. 562.</p>

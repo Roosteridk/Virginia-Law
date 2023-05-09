@@ -1,3 +1,0 @@
-# § 2.2-424 Registration fees.
-
-<p>The Secretary shall collect an annual registration fee of $100 from the lobbyist for each principal for whom, or on whose behalf, the lobbyist will act. This fee shall be deposited into the general fund and used exclusively to fund the Council.</p><p>1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0857'>857</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0937'>937</a>, § 2.1-784; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0763'>763</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0777'>777</a>.</p>

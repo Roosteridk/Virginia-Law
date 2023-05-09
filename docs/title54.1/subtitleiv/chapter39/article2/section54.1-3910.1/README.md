@@ -1,3 +1,0 @@
-# § 54.1-3910.1 Enforcement, etc., of costs.
-
-<p>Orders of the Disciplinary Board regarding unpaid costs assessed by the Clerk of the Disciplinary System pursuant to Part Six, Section IV, Paragraph 13 of the Rules of the Supreme Court may be recorded, enforced, and satisfied as orders or decrees of a circuit court upon certification of such order by the Disciplinary Board.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0225'>225</a>.</p>

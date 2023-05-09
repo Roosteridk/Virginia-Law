@@ -1,3 +1,0 @@
-# § 38.2-4609 Loss or claim reserves.
-
-<p>Each title insurance company licensed in this Commonwealth shall maintain loss and loss adjustment expense reserves in an amount estimated in the aggregate as being sufficient to provide for the payment of all unpaid losses and claims under title insurance contracts of which the company has received written notice from or on behalf of the insured.</p><p>1952, c. 317, § 38.1-729; 1986, c. 562; 1990, c. 334.</p>

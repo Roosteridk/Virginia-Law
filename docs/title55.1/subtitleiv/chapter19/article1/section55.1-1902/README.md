@@ -1,3 +1,0 @@
-# § 55.1-1902 Variation by agreement.
-
-<p>Except as expressly provided in this chapter, provisions of this chapter shall not be varied by agreement, and rights conferred by this chapter shall not be waived. A declarant shall not act under power of attorney or use any other device to evade the limitations or prohibitions of this chapter or of the condominium instruments.</p><p>1982, c. 545, § 55-79.41:1; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

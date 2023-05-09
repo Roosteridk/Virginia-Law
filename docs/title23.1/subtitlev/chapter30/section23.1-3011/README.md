@@ -1,3 +1,0 @@
-# § 23.1-3011 Discrimination prohibited.
-
-<p>In hiring practices and in the procurement of goods and services, the Medical School shall not discriminate against any person on the basis of race, color, religion, national origin, sex, sexual orientation, gender identity, pregnancy, childbirth or related medical conditions, age, marital status, or disability.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1137'>1137</a>.</p>

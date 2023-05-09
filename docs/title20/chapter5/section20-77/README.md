@@ -1,3 +1,0 @@
-# § 20-77 When authority to suspend sentence may be exercised; deduction of certain time from sentence.
-
-<p>The authority of the court to suspend sentences under §§ <a href='http://law.lis.virginia.gov/vacode/20-72/'>20-72</a> to <a href='http://law.lis.virginia.gov/vacode/20-79/'>20-79</a> may be exercised at any time after conviction and before the completion of the sentence, and as often as the court may deem advisable and to the best interests of the parties, provided that such period or periods of time as may be actually served by the defendant shall be allowed against and deducted from the original sentence.</p><p>Code 1919, § 1939; 1932, p. 467; 1940, p. 477; 1974, c. 464.</p>

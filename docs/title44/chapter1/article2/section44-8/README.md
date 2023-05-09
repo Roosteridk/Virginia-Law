@@ -1,3 +1,0 @@
-# § 44-8 Governor as Commander in Chief.
-
-<p>The Governor shall be Commander in Chief of the armed forces of the Commonwealth, and shall have power to employ such forces to repel invasion, suppress insurrection, and enforce the execution of the laws.</p><p>1930, p. 950; Michie Code 1942, § 2673(8); R. P. 1948, § 44-8; 1958, c. 393; 1964, c. 227.</p>

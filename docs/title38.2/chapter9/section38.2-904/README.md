@@ -1,3 +1,0 @@
-# § 38.2-904 Existing rates.
-
-<p>Every rate filed and presently in effect is continued and made effective until new rates are filed and become effective in accordance with the provisions of this title.</p><p>1952, c. 317, § 38.1-43.5; 1972, c. 836; 1973, c. 504; 1986, c. 562.</p>

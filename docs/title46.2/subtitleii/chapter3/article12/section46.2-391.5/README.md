@@ -1,3 +1,0 @@
-# § 46.2-391.5 Preparation and distribution of forms.
-
-<p>The Supreme Court shall develop policies and regulations pertaining to the notice of suspension under subsection A of § <a href='http://law.lis.virginia.gov/vacode/46.2-391.2/'>46.2-391.2</a> and the notice that the suspension has been rescinded under subsection C of § <a href='http://law.lis.virginia.gov/vacode/46.2-391.2/'>46.2-391.2</a> and § <a href='http://law.lis.virginia.gov/vacode/46.2-391.4/'>46.2-391.4</a>, and shall furnish appropriate forms to all law-enforcement officers and district courts, respectively.</p><p>1994, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0359'>359</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0363'>363</a>.</p>

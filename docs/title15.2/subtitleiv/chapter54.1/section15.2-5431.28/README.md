@@ -1,3 +1,0 @@
-# § 15.2-5431.28 Trust funds.
-
-<p>All moneys received pursuant to this chapter shall be deemed to be trust funds, to be held and applied solely as provided in this chapter. The resolution or trust agreement providing for the issuance of revenue bonds of the authority shall provide that any officer to whom, or any bank, trust company or other fiscal agent to which, such moneys are paid shall act as trustee of such moneys and shall hold and apply the same for the purposes provided in this chapter, subject to such regulations as such resolution or trust agreement may provide.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0643'>643</a>.</p>

@@ -1,3 +1,0 @@
-# § 18.2-306 Search warrants for "sawed-off" shotguns and rifles; confiscation and destruction.
-
-<p>Warrant to search any house or place and seize any "sawed-off" shotgun or "sawed-off" rifle possessed in violation of this article may issue in the same manner and under the same restrictions as provided by law for stolen property, and any court of record, upon application of the attorney for the Commonwealth, a police officer or conservator of the peace, may order any "sawed-off" shotgun or "sawed-off" rifle thus or otherwise legally seized, to be confiscated and either destroyed or delivered to a peace officer of the Commonwealth or a political subdivision thereof.</p><p>Code 1950, § 18.1-268.8; 1968, c. 661; 1975, cc. 14, 15; 1992, c. 580.</p>

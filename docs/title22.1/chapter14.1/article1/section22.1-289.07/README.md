@@ -1,3 +1,0 @@
-# § 22.1-289.07 Information related to shaken baby syndrome.
-
-<p>The Department shall make information about shaken baby syndrome, its effects, and resources for help and support for caretakers in a printable format, and information about how to acquire information about shaken baby syndrome and its effects in an audiovisual format, available to the public on its website. Such information shall be provided to every child day program and family day system required to be licensed by the Department at the time of initial licensure and upon request.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0860'>860</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0861'>861</a>.</p>

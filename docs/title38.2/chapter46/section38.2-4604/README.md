@@ -1,3 +1,0 @@
-# § 38.2-4604 Investment in plant and equipment.
-
-<p>Notwithstanding the provisions of Chapter 14 of this title, any domestic title insurance company may invest in title records and equipment; however, the reporting of all such amounts as an admitted asset shall be subject to the valuation restrictions as provided for in the National Association of Insurance Commissioners accounting practices and procedures manuals.</p><p>Code 1950, § 38-236; 1952, c. 317, § 38.1-724; 1983, c. 457; 1986, c. 562; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0046'>46</a>.</p>

@@ -1,3 +1,0 @@
-# § 10.1-1448 Technical Assistance Fund.
-
-<p>A special fund, to be known as the Technical Assistance Fund, is created in the Office of the State Treasurer. The Fund shall consist of appropriations made to the Fund by the General Assembly. The Board shall make moneys from the Fund available to any host community for the purposes set out in subsection C of § <a href='http://law.lis.virginia.gov/vacode/10.1-1438/'>10.1-1438</a>.</p><p>1986, c. 492, § 10-304; 1988, c. 891.</p>

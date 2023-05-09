@@ -1,3 +1,0 @@
-# § 58.1-3217 Permanently and totally disabled defined.
-
-<p>For purposes of this article, the term "permanently and totally disabled" shall mean unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment or deformity which can be expected to result in death or can be expected to last for the duration of such person's life.</p><p>Code 1950, § 58-760.1; 1971, Ex. Sess., c. 169; 1972, cc. 315, 616; 1973, c. 496; 1974, c. 427; 1976, c. 543; 1977, cc. 48, 453, 456; 1978, cc. 774, 776, 777, 780, 788, 790; 1979, cc. 543, 544, 545, 563; 1980, cc. 656, 666, 673; 1981, c. 434; 1982, cc. 123, 457; 1984, cc. 267, 675.</p>

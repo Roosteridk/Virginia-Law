@@ -1,3 +1,0 @@
-# § 45.2-718  Removal of supports.
-
-<p>A. No person shall deliberately remove any support in an active area unless equivalent protection is provided.</p><p>B. Any person who accidentally knocks out or dislodges a support shall promptly replace the support.</p><p>Code 1950, §§ 45-68.1, 45-68.3; 1954, c. 191; 1966, c. 594, § 45.1-41; 1975, c. 520; 1978, c. 118; 1980, c. 338; 1982, c. 234; 1988, c. 577; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.119; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

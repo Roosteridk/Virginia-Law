@@ -1,3 +1,0 @@
-# § 13.1-1205 Unlawful to sign false documents; penalty.
-
-<p>A. It shall be unlawful for any person to sign a document he knows is false in any material respect with intent that the document be delivered to the Commission for filing under this chapter.</p><p>B. Any person who violates the provisions of this section is guilty of a Class 1 misdemeanor.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0621'>621</a>.</p>

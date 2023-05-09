@@ -1,3 +1,0 @@
-# § 10.1-1430 Authority of Governor to enter into agreements with federal government; effect on federal licenses.
-
-<p>The Governor is authorized to enter into agreements with the federal government providing for discontinuance of the federal government's responsibilities with respect to low-level radioactive waste and the assumption thereof by the Commonwealth.</p><p>1986, c. 492, § 10-283; 1988, c. 891.</p>

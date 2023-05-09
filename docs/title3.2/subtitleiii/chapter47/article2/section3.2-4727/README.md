@@ -1,3 +1,0 @@
-# § 3.2-4727 Copies of papers in Commissioner's office as prima facie evidence.
-
-<p>Copies of all records, inspection certificates, certified reports and all papers on file in the office of the Commissioner shall be prima facie evidence of the matter contained.</p><p>Code 1950, § 3-550; 1966, c. 702, § 3.1-708; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

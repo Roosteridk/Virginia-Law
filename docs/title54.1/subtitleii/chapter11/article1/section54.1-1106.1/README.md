@@ -1,3 +1,0 @@
-# § 54.1-1106.1 Violations of certain State Board of Health regulations; penalty.
-
-<p>The Board for Contractors shall consider violations of regulations of the State Board of Health relating to water wells as violations of this chapter, punishable by a fine of not more than $1,000 or suspension or revocation of license. No contractor shall be subject to the monetary penalties provided by this section if he has been assessed a civil penalty for such violation pursuant to § <a href='http://law.lis.virginia.gov/vacode/32.1-27/'>32.1-27</a>.</p><p>1989, c. 241; 1990, c. 911.</p>

@@ -1,3 +1,0 @@
-# § 15.2-5323 Study and investigation concerning plan.
-
-<p>An authority shall have power to investigate hospital, medical and health conditions and the means and methods of improving such conditions; to determine where inadequate hospital and medical facilities exist; to study and make recommendations concerning the plan of any city in relation to the problem of providing adequate hospital, medical and nursing facilities; and to provide adequate hospital, medical and nursing facilities for the inhabitants of such city and surrounding area, including persons of low income in such city and area.</p><p>Code 1950, § 32-237; 1979, c. 719, § 15.1-1556; 1997, c. 587.</p>

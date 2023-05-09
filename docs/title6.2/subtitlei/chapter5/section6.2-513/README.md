@@ -1,3 +1,0 @@
-# § 6.2-513 Authority of Attorney General.
-
-<p>Notwithstanding any other provisions of the law to the contrary, the Attorney General may investigate and bring an action in the name of the Commonwealth to enjoin any violation of this chapter.</p><p>1970, c. 780, § 59.1-68.2; 1973, c. 537; 1975, c. 43; 1984, c. 582; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,3 +1,0 @@
-# § 38.2-3918 Notice of assessment; how given.
-
-<p>After an assessment is made, the insurer shall give each member subject to the assessment written notice stating the amount of the assessment and the date when payment is due. Except where the provisions of the bylaws or the policy provide otherwise, the time of payment shall not be less than thirty days nor more than sixty days from the service of the notice. This notice may be served personally or mailed with the United States Postal Service. If sent by mail, notice shall be considered given at the time of mailing and shall be sent to the member at his address shown on the insurer's records.</p><p>1985, c. 400, § 38.1-549.19; 1986, c. 562.</p>

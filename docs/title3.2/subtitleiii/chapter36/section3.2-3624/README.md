@@ -1,3 +1,0 @@
-# § 3.2-3624 Warning.
-
-<p>Nothing in this chapter shall be construed as requiring the Commissioner to report for the institution of proceedings under this chapter, minor violations of this chapter, whenever the Commissioner believes that the public interest will be adequately served in the circumstances by a suitable written notice or warning.</p><p>2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0552'>552</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0564'>564</a>.</p>

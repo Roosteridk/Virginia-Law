@@ -1,3 +1,0 @@
-# § 3.2-6593 Enforcement; civil action; penalty.
-
-<p>The Attorney General may bring a civil action in the appropriate circuit court for injunctive relief to enforce the provisions of this article. Any person who violates any provision of this article may, upon such finding by an appropriate circuit court, be subject to a civil penalty of not more than $5,000 and any court costs and attorney fees. Such civil penalties shall be paid into the state treasury.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0672'>672</a>.</p>

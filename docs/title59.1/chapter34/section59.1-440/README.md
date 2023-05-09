@@ -1,3 +1,0 @@
-# § 59.1-440 Production of records.
-
-<p>Every extended service contract obligor, upon written request of the Commissioner, shall make available to the Commissioner its extended service contract records for inspection and copying to enable the Commissioner to reasonably determine compliance with this chapter. Every obligor shall maintain a true copy of each contract executed between the obligor and a purchaser, and each contract shall be maintained for its term.</p><p>1991, c. 654; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0966'>966</a>.</p>

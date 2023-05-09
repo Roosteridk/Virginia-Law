@@ -1,3 +1,0 @@
-# § 3.2-5232 Obstructing Commissioner; violations of article.
-
-<p>Any person who shall hinder or obstruct the Commissioner in the discharge of the authority or duty imposed upon him by this article, and any person violating any of its provisions is guilty of a Class 2 misdemeanor.</p><p>Code 1950, § 3-414; 1966, c. 702, § 3.1-544; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

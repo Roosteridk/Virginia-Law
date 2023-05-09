@@ -1,3 +1,0 @@
-# § 19.2-145 How penalty remitted.
-
-<p>When in an action or on a motion to extend the period for enforcement of a judgment on a recognizance the penalty is adjudged to be forfeited the court may on an application of a defendant or juvenile remit the penalty or any part of it and render judgment on such terms and conditions as it deems reasonable.</p><p>Code 1950, § 19.1-140; 1960, c. 366; 1975, c. 495; 1978, c. 755; 1982, c. 153.</p>

@@ -1,3 +1,0 @@
-# § 60.2-121 Violation of title or rule or regulation.
-
-<p>Any person who willfully violates any provision of this title or any valid rule or regulation promulgated pursuant to it, for which a penalty is not provided, shall be guilty of a Class 1 misdemeanor. Each day that such violation continues shall be deemed to be a separate offense.</p><p>Code 1950, § 60-114; 1968, c. 738, § 60.1-131; 1986, c. 480.</p>

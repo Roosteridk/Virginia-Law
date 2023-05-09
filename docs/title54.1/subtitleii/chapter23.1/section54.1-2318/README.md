@@ -1,3 +1,0 @@
-# § 54.1-2318 Application of Part A (§ 64.2-1200 et seq.) of Subtitle IV of Title 64.2.
-
-<p>Trustees appointed pursuant to this chapter shall be governed in their investment of trust funds by § <a href='http://law.lis.virginia.gov/vacode/2.2-4519/'>2.2-4519</a> and §§ <a href='http://law.lis.virginia.gov/vacode/64.2-1502/'>64.2-1502</a> through <a href='http://law.lis.virginia.gov/vacode/64.2-1506/'>64.2-1506</a>, except as otherwise provided in this chapter.</p><p>1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0708'>708</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0721'>721</a>.</p>

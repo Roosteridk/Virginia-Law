@@ -1,3 +1,0 @@
-# § 16.1-334.1 Identification card issued to minor by DMV.
-
-<p>When entering an emancipation order under § <a href='http://law.lis.virginia.gov/vacode/16.1-333/'>16.1-333</a>, the court shall issue to the emancipated minor a copy of the order. Upon application to the Department of Motor Vehicles and submission of the copy, the Department shall issue to the minor an identification card containing the minor's photograph, a statement that such minor is emancipated, and a listing of all effects of the emancipation order as set forth in § <a href='http://law.lis.virginia.gov/vacode/16.1-334/'>16.1-334</a>.</p><p>1990, c. 568.</p>

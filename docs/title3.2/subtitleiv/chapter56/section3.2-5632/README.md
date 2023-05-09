@@ -1,3 +1,0 @@
-# § 3.2-5632 Failure to pay advertised cash discount.
-
-<p>Where a discount for the cash purchase of retail petroleum products is offered, willful failure by any person to pay to the customer the full cash discount as offered shall constitute a violation of this chapter.</p><p>1991, c. 303, § 3.1-949.01; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

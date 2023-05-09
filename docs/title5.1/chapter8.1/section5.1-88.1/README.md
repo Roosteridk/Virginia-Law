@@ -1,3 +1,0 @@
-# § 5.1-88.1 Proof of financial responsibility to be furnished for each aircraft.
-
-<p>No aircraft, as defined in § <a href='http://law.lis.virginia.gov/vacode/5.1-1/'>5.1-1</a> except a public aircraft or a balloon shall be registered by the Department unless and until the applicant thereof furnishes proof of financial responsibility in the amounts required by this chapter for each aircraft for which a registration is applied for.</p><p>Code 1950, § 5.1-83; 1968, c. 773; 1970, c. 707; 1979, c. 272; 1988, c. 588; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0793'>793</a>.</p>

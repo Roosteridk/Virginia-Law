@@ -1,3 +1,0 @@
-# § 21-347 Board of viewers to operate, manage and administer project.
-
-<p>After the drainage project shall have been declared finally established and the survey and plans therefor approved, the board of viewers for such drainage project shall have full authority to operate, manage and administer the affairs of such drainage project as is provided in this chapter.</p><p>Code 1919, § 1759; 1926, p. 615; 1954, c. 642.</p>

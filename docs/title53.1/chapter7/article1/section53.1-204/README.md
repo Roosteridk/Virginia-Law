@@ -1,3 +1,0 @@
-# § 53.1-204 If prisoner commits any other felony, how punished.
-
-<p>If a prisoner in a state, local or community correctional facility or in the custody of an employee thereof commits any felony other than those specified in §§ <a href='/vacode/18.2-31/'>18.2-31</a>, <a href='/vacode/18.2-55/'>18.2-55</a> and <a href='/vacode/53.1-203/'>53.1-203</a>, which is punishable by confinement in a state correctional facility, such prisoner shall be subject to the same punishment therefor as if he were not a prisoner.</p><p>Code 1950, § 53-294; 1970, c. 648; 1975, c. 588; 1982, c. 636; 2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0344'>344</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0345'>345</a>.</p>

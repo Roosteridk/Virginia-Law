@@ -1,3 +1,0 @@
-# § 53.1-231 Investigation of cases for executive clemency by Parole Board.
-
-<p>The Virginia Parole Board shall, at the request of the Governor, investigate and report to the Governor on cases in which executive clemency is sought. In any other case in which it believes action on the part of the Governor is proper or in the best interest of the Commonwealth, the Board may investigate and report to the Governor with its recommendations.</p><p>Code 1950, § 53-229; 1970, c. 648; 1982, c. 636.</p>

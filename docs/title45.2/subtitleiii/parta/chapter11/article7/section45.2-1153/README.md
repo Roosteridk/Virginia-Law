@@ -1,3 +1,0 @@
-# § 45.2-1153  Denial of entry.
-
-<p>No person shall deny the Director or any mine inspector entry upon or through a mine for the purpose of conducting an inspection or into any office at the site where maps or records relating to the mine are located, pursuant to the Act.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0390'>390</a>, § 45.1-161.292:59; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

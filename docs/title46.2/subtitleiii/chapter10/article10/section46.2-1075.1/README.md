@@ -1,3 +1,0 @@
-# § 46.2-1075.1 Tampering with gross vehicle weight ratings; penalty.
-
-<p>It shall be unlawful for any person willfully to remove, alter, deface, or tamper with any number, plate, bracket, sticker, decal, indication, or other device indicating the manufacturer's gross vehicle weight rating of any vehicle which (i) has a manufacturer's gross vehicle weight rating of 15,000 pounds or less and (ii) has been modified by alteration of its height from the ground. Violation of this section shall constitute a Class 3 misdemeanor.</p><p>1991, c. 193.</p>

@@ -1,3 +1,0 @@
-# § 19.2-190.2 Withdrawal of privately retained counsel.
-
-<p>A privately retained counsel in any criminal case may, pursuant to the terms of a written agreement between the attorney and the client, withdraw from representation of a client without leave of court after certification of a charge by a district court by providing written notice of the withdrawal to the client, the attorney for the Commonwealth, and the circuit court within 10 days of the certification of the charge.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0774'>774</a>.</p>

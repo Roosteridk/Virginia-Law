@@ -1,3 +1,0 @@
-# § 55.1-1408 What powers to pass to grantee or devisee; when attornment unnecessary.
-
-<p>In conveyances or devises of rents in fee, with powers of distress and reentry, or either of them, such powers shall pass to the grantee or devisee without express words. A grant or devise of a rent, or of a reversion or remainder, is good and effectual without attornment of the tenant, but no tenant who, before notice of the grant, paid the rent to the grantor shall suffer any damage as a result of such payment.</p><p>Code 1919, § 5514; Code 1950, § 55-220; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

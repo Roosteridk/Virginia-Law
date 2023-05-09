@@ -1,3 +1,0 @@
-# § 1-503 Uses and tax on great seal.
-
-<p>The great seal shall be affixed to documents, signed by the Governor, which are to be used before tribunals, or for purposes outside of the jurisdiction of the Commonwealth; and in every such case, except where the Commonwealth is a party concerned in the use to be made of the document, the tax imposed by § <a href='http://law.lis.virginia.gov/vacode/58.1-1725/'>58.1-1725</a> on the seal of the Commonwealth shall be collected and accounted for by the Secretary of the Commonwealth.</p><p>Code 1950, § 7-30; 1966, c. 102, § 7.1-30; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

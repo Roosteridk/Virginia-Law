@@ -1,1 +1,0 @@
-# 4 Licensing for Operation of Coal Mines

@@ -1,3 +1,0 @@
-# § 46.2-660 Operating vehicles in business in Commonwealth.
-
-<p>Every nonresident, including any foreign corporation, conducting business in the Commonwealth and owning and regularly operating in such business any motor vehicle, trailer, or semitrailer in the Commonwealth shall be required to register the vehicle and pay the same fees required for registration of similar vehicles owned by residents of the Commonwealth.</p><p>Code 1950, § 46-121; 1958, c. 541, § 46.1-136; 1989, c. 727.</p>

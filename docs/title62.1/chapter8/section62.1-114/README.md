@@ -1,3 +1,0 @@
-# § 62.1-114 Exceptions to application of chapter.
-
-<p>The provisions of this chapter shall not apply to any construction which should be undertaken under Chapter 7 (§ <a href='http://law.lis.virginia.gov/vacode/62.1-80/'>62.1-80</a> et seq.) or 9 (§ <a href='http://law.lis.virginia.gov/vacode/62.1-116/'>62.1-116</a> et seq.) of this title nor shall it apply in any case in which the consent of the federal government or of any agency or instrumentality thereof is required.</p><p>Code 1950, § 62-94.11; 1956, c. 632; 1968, c. 659.</p>

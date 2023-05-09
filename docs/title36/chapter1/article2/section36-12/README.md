@@ -1,3 +1,0 @@
-# § 36-12 Powers vested in commissioners; quorum.
-
-<p>The powers of each authority shall be vested in the commissioners thereof in office from time to time. A majority of the commissioners shall constitute a quorum of the authority for the purpose of conducting its business and exercising its powers and for all other purposes. Action may be taken by the authority upon a vote of a majority of the commissioners present, unless in any case the bylaws of the authority shall require a larger number.</p><p>1938, p. 450; Michie Code 1942, § 3145(5); 1972, cc. 466, 782.</p>

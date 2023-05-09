@@ -1,3 +1,0 @@
-# § 51.5-78 Operation by Department.
-
-<p>The Department is hereby authorized to operate vending stands and other business enterprises in public and private buildings for the purpose of providing blind persons with employment, enlarging the economic opportunities of the blind, and stimulating the blind to make themselves self-supporting.</p><p>Code 1950, § 63-204.2; 1968, c. 578, § 63.1-143; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

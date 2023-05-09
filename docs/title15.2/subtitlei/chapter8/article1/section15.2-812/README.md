@@ -1,3 +1,0 @@
-# § 15.2-812 County executive may act as director or head of department.
-
-<p>The urban county executive may, if the board requires, act as the director or head of any department, the director or head of which is appointed by the board, provided he is otherwise eligible to head such department.</p><p>Code 1950, § 15-384.27; 1960, c. 382; 1962, c. 623, § 15.1-739; 1997, c. 587.</p>

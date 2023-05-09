@@ -1,3 +1,0 @@
-# § 2.2-2757 Liberal construction of chapter.
-
-<p>Insofar as the provisions of this chapter are inconsistent with the provisions of any other general, special, or local law, the provisions of this chapter shall control. This chapter constitutes full and complete authority, without regard to the provisions of any other law, for performing the acts authorized in this chapter and shall be liberally construed to effect the purposes of this chapter.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0556'>556</a>.</p>

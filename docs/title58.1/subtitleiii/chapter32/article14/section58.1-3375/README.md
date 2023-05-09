@@ -1,3 +1,0 @@
-# § 58.1-3375 Compensation of members.
-
-<p>The members of every board of equalization shall receive compensation, for time actually engaged in the duties of the board, to be fixed by the governing body of the county or city and paid out of the local treasury. The governing body of every county and of every city may limit the compensation to such number of days as in its opinion is sufficient for the completion of the work of the board.</p><p>Code 1950, § 58-900; 1984, c. 675.</p>

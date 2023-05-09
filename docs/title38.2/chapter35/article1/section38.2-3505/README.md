@@ -1,3 +1,0 @@
-# § 38.2-3505 Inapplicable or inconsistent provisions.
-
-<p>If any provision of this article is inapplicable to or inconsistent with the coverage provided by a particular form of policy, the insurer, with the Commission's approval, shall omit or modify the inapplicable or inconsistent provision to make that provision consistent with the coverage provided by the policy.</p><p>1952, c. 317, § 38.1-351; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 10.1-511 Adjournment of hearing when additional territory appears desirable.
-
-<p>If it appears upon the hearing that it may be desirable to include within the proposed district territory outside of the area within which due notice of the hearing has been given, the hearing shall be adjourned and due notice of a further hearing shall be given throughout the entire area considered for inclusion in the district.</p><p>Code 1950, § 21-16; 1988, c. 891.</p>

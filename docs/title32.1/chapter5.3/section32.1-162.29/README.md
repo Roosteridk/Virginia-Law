@@ -1,3 +1,0 @@
-# § 32.1-162.29 Form and audit of accounts and records.
-
-<p>A. The accounts and records of the Board showing the receipt and disbursement of funds from whatever source derived shall be in such form as the Auditor of Public Accounts prescribes.</p><p>B. The accounts and records of the Board are subject to an annual audit by the Auditor of Public Accounts or his legal representative.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0888'>888</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0891'>891</a>, § 23-285; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

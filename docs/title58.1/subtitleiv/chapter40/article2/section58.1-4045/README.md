@@ -1,3 +1,0 @@
-# § 58.1-4045 Liquidity pools.
-
-<p>The Board may promulgate rules authorizing permit holders to offset loss and manage risk, directly or with a third party approved by the Director, through the use of a liquidity pool in Virginia or another jurisdiction so long as such permit holder, or an affiliate of such permit holder, is licensed by such jurisdiction to operate a sports betting business. However, a permit holder's use of a liquidity pool shall not eliminate its duty to ensure that it has sufficient funds available to pay bettors.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1218'>1218</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1256'>1256</a>.</p>

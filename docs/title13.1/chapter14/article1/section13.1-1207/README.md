@@ -1,3 +1,0 @@
-# § 13.1-1207 Tax classification.
-
-<p>For purposes of any tax imposed by Title 58.1, a business trust shall be classified as a corporation, an association, a partnership, a trust, a real estate investment trust, a regulated investment company or otherwise, as shall be determined under the United States Internal Revenue Code of 1986, as amended, or under any successor provision.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0621'>621</a>.</p>

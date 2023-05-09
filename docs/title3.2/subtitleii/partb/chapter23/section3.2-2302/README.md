@@ -1,3 +1,0 @@
-# § 3.2-2302 Soybean Board membership terms.
-
-<p>The terms for appointments to the Soybean Board shall be for three years. The Governor shall fill any vacancy occurring before the expiration of any term for the unexpired term. If possible, vacancies shall be filled from the production area or classification from which the vacancy occurred from nominations as described § <a href='http://law.lis.virginia.gov/vacode/3.2-2301/'>3.2-2301</a>.</p><p>1970, c. 431, § 3.1-684.13; 1974, c. 297; 1978, c. 540; 1985, c. 448; 1987, c. 476; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

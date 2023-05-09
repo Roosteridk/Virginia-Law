@@ -1,3 +1,0 @@
-# § 4.1-309.1 Possessing or consuming alcoholic beverage while operating a school bus; penalty.
-
-<p>Any person who possesses or consumes an alcoholic beverage while operating a school bus and transporting children is guilty of a Class 1 misdemeanor. For purposes of this section, "school bus" shall have the same meaning as provided in § <a href='http://law.lis.virginia.gov/vacode/46.2-100/'>46.2-100</a>.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0169'>169</a>.</p>

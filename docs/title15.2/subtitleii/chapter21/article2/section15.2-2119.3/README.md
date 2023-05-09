@@ -1,3 +1,0 @@
-# § 15.2-2119.3 Sustainable infrastructure financial assistance.
-
-<p>The City of Richmond may by ordinance develop criteria for financial assistance to customers for plumbing repairs and the replacement of water-inefficient appliances.</p><p>2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0387'>387</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0522'>522</a>.</p>

@@ -1,3 +1,0 @@
-# § 29.1-554.1 Impeding lawful fishing in inland waters; penalty.
-
-<p>A. It is unlawful for any person to willfully and intentionally impede the lawful fishing of any species of fish. "Fishing" means those activities defined in § <a href='http://law.lis.virginia.gov/vacode/29.1-100/'>29.1-100</a> as "fishing."</p><p>B. Any person convicted of a violation of this section shall be guilty of a Class 3 misdemeanor.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0703'>703</a>.</p>

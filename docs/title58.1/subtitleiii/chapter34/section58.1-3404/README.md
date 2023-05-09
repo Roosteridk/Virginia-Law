@@ -1,3 +1,0 @@
-# § 58.1-3404 Notice to Governor; notice to institution of higher education.
-
-<p>A. Any county, city or town which enacts an ordinance levying the service charge on state-owned property shall notify in writing the Governor and each state agency affected by such charge at least 12 months prior to the effective date of such local ordinance.</p><p>B. A county, city or town which enacts an ordinance levying a service charge on faculty and staff housing of a private institution of higher education shall notify the chief executive officer of such institution at least 12 months prior to the effective date of such ordinance.</p><p>Code 1950, § 58-16.2; 1971, Ex. Sess., c. 133; 1972, c. 770; 1973, c. 444; 1982, c. 641; 1984, c. 675.</p>

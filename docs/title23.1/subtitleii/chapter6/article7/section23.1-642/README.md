@@ -1,3 +1,0 @@
-# § 23.1-642 Determination of senior citizen status; forms.
-
-<p>The registrar or other admissions officer of each public institution of higher education shall determine whether an individual is a senior citizen pursuant to the provisions of this article and may require senior citizens to execute appropriate forms to request the benefits provided by this article.</p><p>1974, c. 463, § 23-38.60; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

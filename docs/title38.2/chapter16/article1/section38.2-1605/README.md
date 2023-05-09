@@ -1,3 +1,0 @@
-# § 38.2-1605 Board of directors.
-
-<p>A. The board of directors of the Association shall consist of at least five but no more than nine persons serving terms specified in the plan of operation. The members of the board shall be elected by member insurers, giving consideration among other things to whether all types of member insurers are fairly represented. Vacancies on the board shall be filled for the remaining period of the term in the same manner as initial appointments.</p><p>B. Members of the board may be reimbursed from the assets of the Association for expenses incurred by them as members of the board of directors.</p><p>1970, c. 766, § 38.1-762; 1986, c. 562.</p>

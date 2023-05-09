@@ -1,3 +1,0 @@
-# § 8.01-347 How names put in jury box.
-
-<p>When such list is made out, the commissioners shall cause all the names thereon to be fairly written, each on a separate paper or ballot, and shall so fold or roll up the ballots that they will resemble each other as nearly as may be and the names written thereon will not be visible on the outside, and shall deposit the ballots with the list in a secure box prepared for that purpose. Such box shall be locked and safely kept by the clerk of such court and opened only by the direction of the judge thereof.</p><p>Code 1950, § 8-208.12; 1973, c. 439; 1977, c. 617.</p>

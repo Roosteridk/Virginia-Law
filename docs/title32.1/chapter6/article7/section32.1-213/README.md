@@ -1,3 +1,0 @@
-# § 32.1-213 Shoddy, secondhand filling material, feathers, animal hair and down to be sanitized.
-
-<p>No person shall use in the making, remaking, reupholstering or renovating of any bedding or upholstered furniture any shoddy or any fabric from which shoddy is made or any secondhand filling material or any secondhand feathers, animal hair or down, unless such shoddy, secondhand filling material, feathers, hair or down has been sanitized by a reasonable process approved by the Commissioner.</p><p>Code 1950, § 32-118; 1952, c. 530; 1979, c. 711.</p>

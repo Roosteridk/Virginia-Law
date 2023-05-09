@@ -1,3 +1,0 @@
-# § 13.1-985 Governor to approve articles of incorporation.
-
-<p>The articles of incorporation shall not be issued by the Commission unless approved by the Governor in writing. Such approval shall not be given by the Governor until he first shall have sought the advice of the Chief Executive Officer of the Virginia Economic Development Partnership.</p><p>Code 1950, § 13.1-144; 1960, c. 80; 1985, c. 522; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0590'>590</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0598'>598</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0869'>869</a>.</p>

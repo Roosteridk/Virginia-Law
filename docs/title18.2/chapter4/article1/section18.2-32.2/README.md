@@ -1,3 +1,0 @@
-# § 18.2-32.2 Killing a fetus; penalty.
-
-<p>A. Any person who unlawfully, willfully, deliberately, maliciously and with premeditation kills the fetus of another is guilty of a Class 2 felony.</p><p>B. Any person who unlawfully, willfully, deliberately and maliciously kills the fetus of another is guilty of a felony punishable by confinement in a state correctional facility for not less than five nor more than 40 years.</p><p>2004, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1023'>1023</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1026'>1026</a>.</p>

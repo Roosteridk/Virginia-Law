@@ -1,3 +1,0 @@
-# § 3.2-5140 Attorney for the Commonwealth to render legal assistance.
-
-<p>It shall be the duty of the attorney for the Commonwealth when called upon by the Commissioner to render any legal assistance in his power in proceeding under the provisions of this chapter.</p><p>Code 1950, § 3-335; 1966, c. 702, § 3.1-414; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

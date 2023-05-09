@@ -1,3 +1,0 @@
-# § 59.1-130 Punishment for violation of § 59.1-128 or § 59.1-129.
-
-<p>Any person violating any of the provisions of § <a href='http://law.lis.virginia.gov/vacode/59.1-128/'>59.1-128</a> or § <a href='http://law.lis.virginia.gov/vacode/59.1-129/'>59.1-129</a> shall be confined in the penitentiary not less than one year nor more than two years, or in the discretion of the court or the jury trying the case, shall be fined not less than $100 nor more than $1,000, or confined in jail for any term not exceeding twelve months, or both. Possession of secondhand articles in violation of the provisions of the above sections shall be prima facie evidence of guilt.</p><p>Code 1950, § 59-155.3; 1958, c. 614; 1968, c. 439; 1972, c. 598; 1988, c. 765.</p>

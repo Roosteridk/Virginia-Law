@@ -1,3 +1,0 @@
-# § 19.2-104 Forfeiture of bail.
-
-<p>If the prisoner is admitted to bail and fails to appear and surrender himself according to the conditions of his bond, any judge of a circuit or general district court by proper order, shall declare the bond forfeited and order his immediate arrest without warrant if he be within this Commonwealth. Recovery may be had on such bond in the name of the Commonwealth as in the case of other bonds given by the accused in criminal proceedings within this Commonwealth.</p><p>Code 1950, § 19.1-68; 1960, c. 366; 1975, c. 495.</p>

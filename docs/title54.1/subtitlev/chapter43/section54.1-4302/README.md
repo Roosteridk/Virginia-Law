@@ -1,3 +1,0 @@
-# § 54.1-4302 Officer may examine records or property.
-
-<p>An itinerant merchant shall permit any local, state or federal law-enforcement officer to examine the records required pursuant to § <a href='http://law.lis.virginia.gov/vacode/54.1-4301/'>54.1-4301</a> and to inspect any article listed in the record.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0701'>701</a>.</p>

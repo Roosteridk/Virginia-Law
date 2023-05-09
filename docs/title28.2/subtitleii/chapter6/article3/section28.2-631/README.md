@@ -1,3 +1,0 @@
-# § 28.2-631 Grounds for clams.
-
-<p>The provisions in this chapter referring or relating to the leasing of oyster grounds include the right of the Commissioner to lease grounds for planting, growing, storing, and harvesting clams. The Commissioner may use the same application and assignment forms and procedures for leasing grounds for producing clams as provided for leasing grounds for producing oysters.</p><p>1962, c. 406, § 28.1-110; 1970, c. 726; 1992, c. 836.</p>

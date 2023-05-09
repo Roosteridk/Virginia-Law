@@ -1,3 +1,0 @@
-# § 21-348 Superintendent of construction.
-
-<p>The board of viewers of each drainage project may, if necessary, appoint a competent person as superintendent of construction and shall retain the services of the engineer of the drainage district, or his duly appointed successor in the case of such change having been made, to see that the work be performed according to the plans and specifications. Such engineer and superintendent shall each furnish a bond the cost of which shall be paid by the project and to be approved by and payable to the board of viewers in the penal sum of $10,000 each, conditioned upon the honest and faithful performance of their respective duties.</p><p>Code 1919, § 1760; 1926, p. 616; 1954, c. 642.</p>

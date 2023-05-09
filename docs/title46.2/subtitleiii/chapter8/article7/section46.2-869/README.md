@@ -1,3 +1,0 @@
-# § 46.2-869 Improper driving; penalty.
-
-<p>Notwithstanding the foregoing provisions of this article, upon the trial of any person charged with reckless driving where the degree of culpability is slight, the court in its discretion may find the accused not guilty of reckless driving but guilty of improper driving. However, an attorney for the Commonwealth may reduce a charge of reckless driving to improper driving at any time prior to the court's decision and shall notify the court of such change. Improper driving shall be punishable as a traffic infraction punishable by a fine of not more than $500.</p><p>1966, c. 511, § 46.1-192.2; 1972, c. 278; 1989, c. 727; 1990, c. 770; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0340'>340</a>.</p>

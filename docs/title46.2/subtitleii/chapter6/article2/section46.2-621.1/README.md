@@ -1,3 +1,0 @@
-# § 46.2-621.1 Correcting errors in titling.
-
-<p>If the owner of a vehicle or his duly authorized attorney-in-fact make a sufficient showing by providing an affidavit stating that the vehicle identification information provided on the application for certificate of title, the certificate of origin, manufacturer's statement of origin, or title, as the case may be, forwarded to the Commissioner by any means generally allowed, was incorrect, the Commissioner may take all actions necessary to correct the error.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0283'>283</a>.</p>

@@ -1,3 +1,0 @@
-# § 59.1-207.7 Definitions.
-
-<p>As used in this chapter unless the context requires otherwise:</p><p>"Agricultural equipment" shall mean any self-propelled vehicle designed primarily for and used in the occupation or business of farming.</p><p>"Consumer" shall mean a purchaser, other than for purposes of resale, of new agricultural equipment or any subsequent purchaser, other than for purpose of resale, to whom such equipment is transferred during the duration of a manufacturer's express written warranty applicable to such equipment.</p><p>1984, c. 503.</p>

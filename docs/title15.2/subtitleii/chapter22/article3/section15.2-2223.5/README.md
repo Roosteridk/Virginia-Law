@@ -1,3 +1,0 @@
-# § 15.2-2223.5 Comprehensive plan shall address manufactured housing.
-
-<p>During an amendment of a locality's comprehensive plan after July 1, 2021, the locality shall incorporate into its comprehensive plan strategies to promote manufactured housing as a source of affordable housing. Such strategies may include (i) the preservation of existing manufactured housing communities, (ii) the creation of new manufactured home communities, and (iii) the creation of new manufactured home subdivisions.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0091'>91</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0092'>92</a>.</p>

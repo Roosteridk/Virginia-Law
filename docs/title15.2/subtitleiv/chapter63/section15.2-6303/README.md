@@ -1,3 +1,0 @@
-# § 15.2-6303 Authorities to file annual reports.
-
-<p>At least once a year, each authority shall file with the Governor a report of its activities for the preceding year.</p><p>Code 1950, § 15-940; 1954, c. 645; 1962, c. 623, § 15.1-1323; 1997, c. 587.</p>

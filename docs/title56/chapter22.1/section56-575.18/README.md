@@ -1,3 +1,0 @@
-# § 56-575.18 Auditor of Public Accounts.
-
-<p>The Auditor of Public Accounts shall periodically review interim and comprehensive agreements entered into pursuant to this chapter to ensure compliance with the provisions of this chapter. Copies of the agreements and supporting documents must be electronically filed with the Auditor of Public Accounts. Electronic agreements shall be made available in the online database maintained pursuant to § <a href='http://law.lis.virginia.gov/vacode/30-133/'>30-133</a>.</p><p>2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0764'>764</a>; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0762'>762</a>.</p>

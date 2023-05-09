@@ -1,3 +1,0 @@
-# § 40.1-5 Governor to appoint Commissioner of Labor and Industry.
-
-<p>The Governor shall appoint, by and with the consent of the General Assembly, some suitable person identified with the labor interests of the Commonwealth, who shall be designated Commissioner of Labor and Industry. The Commissioner shall, upon the request of the Governor, furnish such information as he may require. The Commissioner shall serve at the pleasure of the Governor for a term coincident with that of the Governor.</p><p>Code 1950, § 40-3; 1962, c. 66; 1970, c. 321; 1978, c. 372.</p>

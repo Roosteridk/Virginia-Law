@@ -1,3 +1,0 @@
-# § 8.01-26 Assignment of causes of action.
-
-<p>Only those causes of action for damage to real or personal property, whether such damage be direct or indirect, and causes of action ex contractu are assignable. The provisions of this section shall not prohibit any injured party or his estate from making a voluntary assignment of the proceeds or anticipated proceeds of any court award or settlement as security for new value given in consideration of such voluntary assignment.</p><p>1977, c. 617; 1991, c. 256.</p>

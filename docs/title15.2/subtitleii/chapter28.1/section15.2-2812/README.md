@@ -1,3 +1,0 @@
-# § 15.2-2812 Governor may authorize certain counties or cities to develop and implement pilot programs.
-
-<p>The Governor is hereby empowered to authorize certain counties or cities in this Commonwealth, not to exceed five, to develop and implement a pilot program for the delivery of human services and the administration of such a delivery system to provide for the most efficient and economical manner of delivering human services to the individual or family and to eliminate the difficulty of an individual or family with multiple needs obtaining the available and necessary human services.</p><p>1974, c. 395, § 63.1-292; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

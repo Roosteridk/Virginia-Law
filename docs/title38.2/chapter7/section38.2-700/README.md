@@ -1,3 +1,0 @@
-# § 38.2-700 When domestic insurer may hold stock of another insurer.
-
-<p>Subject to Article 6 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-1335/'>38.2-1335</a> et seq.) of Chapter 13 and Chapter 14 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-1400/'>38.2-1400</a> et seq.) of this title, any domestic insurer may retain, invest in or acquire the whole or any part of the capital stock of any other insurer, unless the effect of such action (i) substantially lessens competition generally or (ii) tends to create a monopoly, in the business of insurance.</p><p>1952, c. 317, § 38.1-58; 1983, c. 457; 1986, c. 562.</p>

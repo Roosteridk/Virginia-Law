@@ -1,1 +1,0 @@
-# 52 Humane Cosmetics Act

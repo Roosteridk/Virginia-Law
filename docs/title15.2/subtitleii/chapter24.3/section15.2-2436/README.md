@@ -1,3 +1,0 @@
-# § 15.2-2436 Prioritization of loans.
-
-<p>In approving loans, the Authority shall give preference to loans for projects that will (i) utilize private industry in the operation and maintenance of such projects where a material savings in cost can be shown over public operation and maintenance or (ii) serve two or more local governments to encourage regional cooperation.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0724'>724</a>.</p>

@@ -1,3 +1,0 @@
-# § 58.1-497 Section 58.1-306 applicable to declaration of estimated tax.
-
-<p>Section <a href='http://law.lis.virginia.gov/vacode/58.1-306/'>58.1-306</a> (relating to special instances in which an individual taxpayer may file an income tax return with the Department of Taxation) shall also apply to a declaration of estimated tax.</p><p>Code 1950, § 58-151.28; 1962, c. 612; 1971, Ex. Sess., c. 171; 1972, c. 565; 1984, c. 675.</p>

@@ -1,3 +1,0 @@
-# § 18.2-50 Disclosure of information and assistance to law-enforcement officers required.
-
-<p>Whenever it is brought to the attention of the members of the immediate family of any person that such person has been abducted, or that threats or attempts have been made to abduct any such person, such members shall make immediate report thereof to the police or other law-enforcement officers of the county, city or town where such person resides, and shall render all such possible assistance to such officers in the capture and conviction of the person or persons guilty of the alleged offense. Any person violating any of the provisions of this section shall be guilty of a Class 2 misdemeanor.</p><p>Code 1950, § 18.1-40; 1960, c. 358; 1975, cc. 14, 15.</p>

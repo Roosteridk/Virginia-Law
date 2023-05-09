@@ -1,3 +1,0 @@
-# § 8.01-576 Order of court on rehearing or new trial; restitution to defendant.
-
-<p>On any rehearing or new trial had under § <a href='http://law.lis.virginia.gov/vacode/8.01-575/'>8.01-575</a>, the court may order the plaintiff in the original attachment to restore any money paid to him under such judgment to such defendant if living, or if dead to the heir or personal representative of such defendant, as the same may be, the proceeds of real or personal estate, and enter a judgment therefor against him; or it may confirm the former judgment. In either case it shall adjudge the costs of the prevailing party.</p><p>Code 1950, § 8-563; 1977, c. 617.</p>

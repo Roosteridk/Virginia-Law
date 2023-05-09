@@ -1,3 +1,0 @@
-# § 65.2-301.1 Public safety officers.
-
-<p>In situations where weather constitutes a particular risk of a public safety officer's employment and where the public safety officer's injury arose out of and in the course of his employment, absent a misconduct defense asserted pursuant to § <a href='http://law.lis.virginia.gov/vacode/65.2-306/'>65.2-306</a>, such injury shall be compensable under this title. As used in this section, "public safety officer" shall have the meaning ascribed to it in § <a href='http://law.lis.virginia.gov/vacode/9.1-801/'>9.1-801</a>.</p><p>2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0174'>174</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0458'>458</a>.</p>

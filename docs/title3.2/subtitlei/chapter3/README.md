@@ -1,1 +1,0 @@
-# 3 RIGHT TO FARM

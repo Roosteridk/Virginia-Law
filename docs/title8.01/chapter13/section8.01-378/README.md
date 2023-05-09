@@ -1,3 +1,0 @@
-# § 8.01-378 Trial judge not to direct verdicts.
-
-<p>In no action tried before a jury shall the trial judge give to the jury a peremptory instruction directing what verdict the jury shall render. If the trial judge has granted a motion to strike the evidence of the plaintiff or the defendant, the judge shall enter summary judgment or partial summary judgment in conformity with his ruling on the motion to strike.</p><p>Code 1950, § 8-218; 1958, c. 208; 1977, c. 617; 1985, c. 214; 1986, c. 253.</p>

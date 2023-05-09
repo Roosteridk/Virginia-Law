@@ -1,3 +1,0 @@
-# § 15.2-1210 Prohibiting hunting in certain areas.
-
-<p>Any county may by ordinance prohibit all hunting with firearms or other weapons in, or within one-half mile of, any subdivision or other area of such county which, in the opinion of the governing body, is so heavily populated as to make such hunting dangerous to the inhabitants thereof. Any such ordinance shall clearly describe each area in which hunting is prohibited, and shall further provide that appropriate signs shall be erected designating the boundaries of such area.</p><p>Code 1950, § 15-20.3:1; 1962, c. 163, § 15.1-518.1; 1997, c. 587.</p>

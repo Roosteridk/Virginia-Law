@@ -1,3 +1,0 @@
-# § 45.2-832  Notice of monitor tampering prohibition.
-
-<p>The operator or agent shall display, in bold-faced type, on a sign placed at the mine office, at the bath house, and on a bulletin board at the mine site, the following notice:</p><p>NOTICE: IT IS UNLAWFUL TO DISTURB, DISCONNECT, BYPASS, IMPAIR, OR OTHERWISE TAMPER WITH METHANE MONITORS OR OTHER DEVICES CAPABLE OF DETECTING THE PRESENCE OF EXPLOSIVE GASES IN AN UNDERGROUND COAL MINE. A VIOLATION IS PUNISHABLE AS A CLASS 6 FELONY.</p><p>1993, c. 247, § 45.1-65.2; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.215; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

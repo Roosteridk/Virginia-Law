@@ -1,3 +1,0 @@
-# § 46.2-1557.2 Penalties for violations of article; service of summons.
-
-<p>Notwithstanding § <a href='http://law.lis.virginia.gov/vacode/46.2-1507/'>46.2-1507</a>, any person violating any of the provisions of this article shall be guilty of a Class 3 misdemeanor. Any summons issued for any violation of any provision of this article relating to use or misuse of dealer's license plates shall be served upon the dealership to whom the plates were issued or to the person expressly permitting the unlawful use, or upon the operator of the motor vehicle if the plates are used contrary to the use authorized by the certificate issued pursuant to § <a href='http://law.lis.virginia.gov/vacode/46.2-1550/'>46.2-1550</a>.</p><p>1993, c. 504.</p>

@@ -1,3 +1,0 @@
-# § 21-415 How refunding bonds sold.
-
-<p>If to be sold, such refunding bonds may be sold at public or private sale, as in the judgment of the board of viewers may seem best, provided that such refunding bonds may be sold below par only if a like par amount of the bonds to be refunded may be retired at a price correspondingly below par, it being the intent hereof that in no event shall there be issued an amount of refunding bonds larger than the par amount of bonds refunded thereby.</p><p>1934, p. 4; Michie Code 1942, § 1777a; 1954, c. 642.</p>

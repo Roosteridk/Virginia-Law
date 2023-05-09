@@ -1,3 +1,0 @@
-# § 54.1-3004 Nominations.
-
-<p>Nominations may be made for each professional vacancy from lists of three names, submitted to the Governor by incorporated nurses associations. The Governor may notify such organizations of any professional vacancy other than by expiration. In no case shall the Governor be bound to make any appointment from among the nominees.</p><p>1986, c. 464, § 54-367.4:1; 1988, c. 765.</p>

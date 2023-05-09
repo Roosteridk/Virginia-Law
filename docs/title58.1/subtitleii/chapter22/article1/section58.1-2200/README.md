@@ -1,3 +1,0 @@
-# § 58.1-2200 Title; nature of tax.
-
-<p>A. This chapter shall be known and may be cited as the "Virginia Fuels Tax Act."</p><p>B. All taxes levied under this chapter are imposed upon the ultimate consumer but are precollected as prescribed in this chapter. The levies and assessments imposed on licensees as provided in this chapter are imposed on them as agents of the Commonwealth for the precollection of the tax. The taxes levied under this chapter shall be collected and paid at those times, in the manner, and by those persons specified in this chapter.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0729'>729</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0758'>758</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-4710 Cooperation between districts and other political subdivisions.
-
-<p>Any local district created under the provisions of this chapter may enter into agreements with localities and other political subdivisions within the Commonwealth for joint or cooperative action in accordance with the authority contained in § <a href='/vacode/15.2-1305/'>15.2-1305</a>.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0587'>587</a>.</p>

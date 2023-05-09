@@ -1,3 +1,0 @@
-# § 38.2-5513 Notices.
-
-<p>All notices by the Commission to a licensee which may result in regulatory action hereunder shall be effective upon dispatch if transmitted by registered or certified mail, or in the case of any other transmission shall be effective upon the licensee's receipt of such notice.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0789'>789</a>; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0047'>47</a>.</p>

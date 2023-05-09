@@ -1,3 +1,0 @@
-# § 6.2-1330 Special meetings.
-
-<p>A. The supervisory committee by a majority vote may call a meeting of the members to consider any violation of this chapter, the credit union's articles of incorporation or bylaws, or any practice of the credit union deemed by the supervisory committee to be unsafe or unauthorized.</p><p>B. The bylaws may also prescribe the manner in which a special meeting of the members may be called by the members or by the board of directors.</p><p>Code 1950, § 6-222; 1966, c. 584, § 6.1-213; 1974, c. 106; 1982, c. 574; 1990, c. 373, § 6.1-225.25; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

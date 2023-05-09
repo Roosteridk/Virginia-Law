@@ -1,3 +1,0 @@
-# § 22.1-267 Proceedings against habitually absent child.
-
-<p>Any child permitted by any parent, guardian, or other person having control thereof to be habitually absent from school contrary to the provisions of this article may be proceeded against as a child in need of supervision as provided in Chapter 11 (§ <a href='http://law.lis.virginia.gov/vacode/16.1-226/'>16.1-226</a> et seq.) of Title 16.1.</p><p>Code 1950, § 22-275.20; 1959, Ex. Sess., c. 72; 1976, c. 98; 1980, c. 559; 1990, c. 797; 1991, c. 295.</p>

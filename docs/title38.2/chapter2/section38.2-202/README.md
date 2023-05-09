@@ -1,3 +1,0 @@
-# § 38.2-202 Regulation of solicitation of proxies, consents and authorizations.
-
-<p>The Commission may adopt any rules and regulations regarding the voting equity securities of any domestic stock insurer. These rules and regulations shall cover (i) the solicitation of proxies, (ii) consents, (iii) authorizations, and (iv) any related financial reports. However, these rules and regulations shall not apply to any domestic stock insurer whose equity securities are registered, or required to be registered, pursuant to § 12 of the Securities Exchange Act of 1934, as amended.</p><p>1966, c. 262, § 38.1-30.1; 1986, c. 562.</p>

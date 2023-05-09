@@ -1,3 +1,0 @@
-# § 18.2-8 Felonies, misdemeanors and traffic infractions defined.
-
-<p>Offenses are either felonies or misdemeanors. Such offenses as are punishable with confinement in a state correctional facility are felonies; all other offenses are misdemeanors. Traffic infractions are violations of public order as defined in § <a href='/vacode/46.2-100/'>46.2-100</a> and not deemed to be criminal in nature.</p><p>Code 1950, § 18.1-6; 1960, c. 358; 1975, cc. 14, 15; 1977, c. 585; 2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0344'>344</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0345'>345</a>.</p>

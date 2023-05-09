@@ -1,3 +1,0 @@
-# § 55.1-2403 Increase or reduction of penalty of escheator's bond; effect.
-
-<p>The court may, at any time, with reasonable notice to the escheator, increase or reduce the penalty of the bond, provided that in no case shall such penalty be reduced to less than $1,000. Upon bond being given under an order increasing or reducing the penalty of a former bond, the sureties in such former bond and their estates shall be discharged from all liability for any breach of official duty committed by such escheator after that time.</p><p>Code 1919, § 491; Code 1950, § 55-170; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

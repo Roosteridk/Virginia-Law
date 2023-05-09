@@ -1,3 +1,0 @@
-# § 1-305 Boundary with North Carolina eastward from low-water mark of Atlantic Ocean.
-
-<p>The boundary line between the Commonwealth and North Carolina eastward from the low-water mark of the Atlantic Ocean shall be and remains the line beginning at the intersection with the low-water mark of the Atlantic Ocean and the existing North Carolina-Virginia boundary line; thence due east to the seaward jurisdictional limit of Virginia; such boundary line to be extended on the true 90 degree bearing as far as a need for further delimitation may arise.</p><p>1970, c. 343, § 7.1-4.1; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

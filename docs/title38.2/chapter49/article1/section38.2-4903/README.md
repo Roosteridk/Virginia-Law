@@ -1,3 +1,0 @@
-# § 38.2-4903 Availability of disclosure statement to prospective residents.
-
-<p>At least three days prior to the execution of a continuing care contract or the transfer of any money or other property to a provider by or on behalf of a prospective resident, whichever first occurs, the provider shall deliver to the person with whom the contract is to be entered into a copy of a disclosure statement with respect to the facility in question meeting all requirements of this chapter as of the date of its delivery.</p><p>1985, c. 554, § 38.1-958; 1986, c. 562.</p>

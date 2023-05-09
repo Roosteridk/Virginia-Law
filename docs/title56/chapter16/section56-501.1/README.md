@@ -1,3 +1,0 @@
-# § 56-501.1 Payment of certain patronage capital to spouse or next of kin of deceased person.
-
-<p>When there is held by any telephone cooperative, engaged in the business of furnishing telephone service, any patronage capital to the credit of a deceased person, in an amount not exceeding $500, upon whose estate there shall have been no qualification, it shall be lawful for such telephone cooperative, after 120 days from the death of such person, to pay such balance to his or her spouse, and if none, to his or her next of kin, whose receipt therefor shall be a full discharge and acquittance to such telephone cooperative to all persons whomsoever on account of such patronage capital.</p><p>1979, c. 442.</p>

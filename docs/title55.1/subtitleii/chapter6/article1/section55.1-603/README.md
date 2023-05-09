@@ -1,3 +1,0 @@
-# § 55.1-603 Deed of real estate investment trust.
-
-<p>Every deed that is to be recorded conveying property to or from a trust qualifying as a real estate investment trust shall include the complete address of the principal office of the trust. Failure to comply with the provisions of this section shall not invalidate any such deed.</p><p>1984, c. 474, § 55-106.4; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0621'>621</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

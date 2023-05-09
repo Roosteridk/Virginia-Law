@@ -1,3 +1,0 @@
-# § 56-613 Construction project compliance.
-
-<p>In recognition of the importance of environmentally responsible practices when constructing utility infrastructure in the Commonwealth, each construction project that is undertaken pursuant to the provisions of this chapter shall be completed in compliance with the current Annual Standards and Specifications, as amended from time to time, that is filed with the Department of Environmental Quality by the natural gas utility that undertakes the project.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0028'>28</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0231'>231</a>.</p>

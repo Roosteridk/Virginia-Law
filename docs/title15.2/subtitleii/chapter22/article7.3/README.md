@@ -1,1 +1,0 @@
-# 7.3 Siting of Solar Projects and Energy Storage Projects

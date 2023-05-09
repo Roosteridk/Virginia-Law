@@ -1,3 +1,0 @@
-# § 62.1-112 When leave shall expire.
-
-<p>If the applicant shall not begin his work within two years, and so far finish it within three years after such leave, as then to have his impounding structure in good condition for use; or if such impounding structure be at any time destroyed or rendered unfit for use and the rebuilding or repair thereof shall not within two years from the time of such destruction or unfitness, be commenced, and within five years from that time be so far finished as then to be in good condition for use, the leave so granted shall then expire.</p><p>Code 1950, § 62-94.9; 1956, c. 632; 1968, c. 659.</p>

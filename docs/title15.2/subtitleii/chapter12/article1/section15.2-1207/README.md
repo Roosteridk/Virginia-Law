@@ -1,3 +1,0 @@
-# § 15.2-1207 Pistols and revolvers; reports of sales.
-
-<p>The power of any governing body of any county to require sellers of pistols and revolvers to furnish the clerk of the circuit court of the county, after sale of any such weapon, with the name and address of the purchaser, the date of purchase, and the number, make and caliber of the weapon sold is hereby repealed. The clerk shall destroy every record of the reports previously received.</p><p>Code 1950, § 59-142; 1968, c. 439, § 15.1-524; 1997, c. 587; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0495'>495</a>.</p>

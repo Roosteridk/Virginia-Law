@@ -1,3 +1,0 @@
-# § 55.1-2417 Escheat of property with hazardous materials.
-
-<p>In addition to any other remedy provided by law, the Virginia Waste Management Board, pursuant to its authority granted in § <a href='/vacode/10.1-1402/'>10.1-1402</a>, or the Department of Environmental Quality, shall have recourse against any prior owner or the estate of any prior owner for the costs of cleanup of escheated property in or upon which any hazardous material as defined in § <a href='/vacode/44-146.34/'>44-146.34</a> is found.</p><p>1991, c. 684, § 55-182.2; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

@@ -1,3 +1,0 @@
-# § 53.1-115 Payment of salaries of superintendents and medical and treatment personnel.
-
-<p>The Commonwealth shall pay two-thirds of the salaries of the superintendents and approved medical and treatment personnel of such jails. The other one-third shall be paid pro rata by the participating political subdivisions. Such salaries shall be paid in the manner provided in § <a href='http://law.lis.virginia.gov/vacode/15.2-1609.2/'>15.2-1609.2</a>, and such section shall be applicable mutatis mutandis to superintendents of such jails.</p><p>Code 1950, § 53-206.12; 1970, c. 706; 1982, c. 636; 1983, c. 358.</p>

@@ -1,3 +1,0 @@
-# § 15.2-713 Means of transferring funds.
-
-<p>The treasurer or his duly authorized deputies may transfer public funds from one depository to another by wire. Such officers may also draw any of the county's money by check, by an electronic fund wire or payment system, or by any means deemed appropriate and sound by the county treasurer and approved by the governing body, drawn upon a warrant issued by the governing body. If any money is knowingly paid otherwise than upon the county treasurer's check, electronic fund wire or payment system or by alternative means specifically approved by the county treasurer and the governing body, drawn upon such warrant, the payment shall be invalid against the county.</p><p>1978, c. 460, § 15.1-684.1; 1986, c. 293; 1997, c. 587.</p>

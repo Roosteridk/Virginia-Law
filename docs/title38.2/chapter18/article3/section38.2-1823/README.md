@@ -1,3 +1,0 @@
-# § 38.2-1823 Penalty for acting for insurer, joint underwriting association, etc., when not licensed.
-
-<p>Any person submitting business, in violation of § <a href='http://law.lis.virginia.gov/vacode/38.2-1822/'>38.2-1822</a>, while the person is not a holder of a valid agent's license to transact the class of insurance involved shall be penalized a sum equal to the first year commission for the placement of that business and in addition shall be subject to the penalties prescribed in §§ <a href='http://law.lis.virginia.gov/vacode/38.2-218/'>38.2-218</a> and <a href='http://law.lis.virginia.gov/vacode/38.2-1831/'>38.2-1831</a>.</p><p>1979, c. 513, § 38.1-327.34; 1981, c. 604; 1985, c. 616; 1986, c. 562; 1987, c. 521.</p>

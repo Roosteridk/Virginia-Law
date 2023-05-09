@@ -1,3 +1,0 @@
-# § 2.2-2480 Compensation; expenses.
-
-<p>Members shall receive no compensation for their services. However, all members shall be reimbursed for all reasonable and necessary expenses incurred in the performance of their duties as provided in §§ <a href='/vacode/2.2-2813/'>2.2-2813</a> and <a href='/vacode/2.2-2825/'>2.2-2825</a>. Funding for the costs of compensation and expenses of the members shall be provided by the Department of Social Services in accordance with federal law.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0026'>26</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0452'>452</a>.</p>

@@ -1,3 +1,0 @@
-# § 33.2-713 Appointment of commissioners to assess damages.
-
-<p>If a tenant or proprietor desires or if the local governing body sees cause, the local governing body shall appoint five disinterested resident freeholders of the county as commissioners, any three of whom may act to ascertain just compensation for the land to be taken for such highway or bridge and damages, if any, to the residue, beyond the benefits to be derived by such residue, from such highway or bridge.</p><p>Code 1950, § 33-149; 1964, c. 565; 1970, c. 322, § 33.1-236; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

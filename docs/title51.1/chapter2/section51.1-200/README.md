@@ -1,3 +1,0 @@
-# § 51.1-200 State Police Officers' Retirement System continued; administration; application of provisions of Virginia Retirement System.
-
-<p>The State Police Officers' Retirement System is continued and shall be administered by the Board of Trustees of the Virginia Retirement System. Except as otherwise provided, the provisions of Chapter 1 (§ <a href='http://law.lis.virginia.gov/vacode/51.1-124.1/'>51.1-124.1</a> et seq.) of this title shall apply to and govern the operation of the State Police Officers' Retirement System.</p><p>Code 1950, §§ 51-128, 51-140, 51-143; 1950, pp. 883, 885; 1954, c. 139; 1966, c. 628; 1990, c. 832.</p>

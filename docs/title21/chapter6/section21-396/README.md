@@ -1,3 +1,0 @@
-# § 21-396 Issuing bonds; amount.
-
-<p>At the expiration of fifteen days after publication of notice of bond issue, the board of viewers of the county in which the petition was filed may issue bonds of the drainage project for an amount equal to the total cost of the improvement, including all costs as allowed under the terms of this chapter, less such amounts as shall have been paid in cash to the county treasurer, or treasurers, plus an amount sufficient to pay interest on the bond issue for the three years next following the date of issue.</p><p>Code 1919, § 1774; 1920, p. 612; 1926, p. 623; 1954, c. 642.</p>

@@ -1,3 +1,0 @@
-# § 54.1-3927 Time and place of examination.
-
-<p>The Board shall hold at least two examinations each year, at such times as it may prescribe by general rule or special order. If only two examinations are held in any one year, they shall not be less than four months apart. One examination shall be held in the City of Richmond, and one in the City of Roanoke each year, unless for good cause it is necessary to hold it elsewhere.</p><p>Code 1950, § 54-63; 1973, c. 284; 1988, c. 765.</p>

@@ -1,3 +1,0 @@
-# § 48-13 Disposition of proceeds of sale.
-
-<p>The proceeds of the sale of the personal property, as provided in § <a href='http://law.lis.virginia.gov/vacode/48-12/'>48-12</a>, shall be applied to the payment of the costs of the suit and abatement, including such reasonable attorney fee to be decreed to the attorney for the complainant, as the court shall think just, and the balance, if any, shall be paid to the defendant.</p><p>Code 1919, § 1526.</p>

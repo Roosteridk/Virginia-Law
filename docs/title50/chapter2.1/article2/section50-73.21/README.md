@@ -1,3 +1,0 @@
-# § 50-73.21 Assumed or fictitious names.
-
-<p>Notwithstanding any other provision of the law, no partnership organized under this chapter which is conducting or transacting business in this Commonwealth under the name of the partnership set forth in a certificate filed pursuant to § <a href='http://law.lis.virginia.gov/vacode/50-73.17/'>50-73.17</a>, nor any partner of that limited partnership, shall be required to file any assumed or fictitious name or comparable certificate solely for such conduct or transaction of partnership business.</p><p>1985, c. 607; 1987, c. 702.</p>

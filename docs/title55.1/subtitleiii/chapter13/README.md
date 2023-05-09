@@ -1,1 +1,0 @@
-# 13 Manufactured Home Lot Rental Act

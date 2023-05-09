@@ -1,3 +1,0 @@
-# § 10.1-2008 Quorum of Board.
-
-<p>A simple majority of the members of the Board then serving shall constitute a quorum. In absence of a quorum, and provided that the chairman or vice-chairman and at least two other members of the Board are present, a meeting may proceed to receive information, but not take any action upon, items listed on the meeting agenda distributed in advance to the full membership.</p><p>1988, cc. 707, 891; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0163'>163</a>.</p>

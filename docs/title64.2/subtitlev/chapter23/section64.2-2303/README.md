@@ -1,3 +1,0 @@
-# § 64.2-2303 Persons presumed dead; authority of clerk.
-
-<p>A clerk of the circuit court has no authority to (i) admit to probate a will of a person presumed to be dead, (ii) grant administration upon the estate of a person presumed to be dead, or (iii) appoint a curator pursuant to § <a href='http://law.lis.virginia.gov/vacode/64.2-2302/'>64.2-2302</a>.</p><p>Code 1950, § 64-103; 1968, c. 656, § 64.1-107; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0675'>675</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0684'>684</a>; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0351'>351</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

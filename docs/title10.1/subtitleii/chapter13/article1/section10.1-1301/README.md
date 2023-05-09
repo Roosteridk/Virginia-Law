@@ -1,3 +1,0 @@
-# § 10.1-1301 State Air Pollution Control Board; membership; terms; vacancies.
-
-<p>The State Air Pollution Control Board shall be composed of seven members appointed by the Governor for four-year terms. Vacancies other than by expiration of term shall be filled by the Governor by appointment for the unexpired term.</p><p>1966, c. 497, § 10-17.11; 1988, c. 891; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0276'>276</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0557'>557</a>.</p>

@@ -1,1 +1,0 @@
-# 14 Dangerous Captive Animal Exhibits

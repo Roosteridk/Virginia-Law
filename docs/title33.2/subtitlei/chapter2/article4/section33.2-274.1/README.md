@@ -1,3 +1,0 @@
-# § 33.2-274.1 Roadside safety devices to be equipped with identification numbers.
-
-<p>The Department shall require that Type I (Re-Directive) Impact Attenuators, Terminals (GR-7, GR-9), Truck Mounted Attenuators, and Trailer Mounted Attenuators from the Department's approved products list installed on or after July 1, 2016, in connection with any highway construction or maintenance project funded in whole or in part with revenues of the Commonwealth shall include the manufacturer's identification number specific to the device and stamped on the device itself.</p><p>2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0481'>481</a>.</p>

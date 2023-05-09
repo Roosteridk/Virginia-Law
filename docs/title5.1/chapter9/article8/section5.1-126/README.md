@@ -1,3 +1,0 @@
-# § 5.1-126 Establishment of through routes, etc., by Commission.
-
-<p>The Commission shall, whenever deemed by it to be necessary or desirable in the public interest, after hearing, upon complaint or upon its own initiative without a complaint, establish through routes, and joint rates, fares, charges, regulations, or practices, applicable to the transportation of passengers by common or restricted common carriers by aircraft, or the maximum or minimum to be charged, and the terms and conditions under which such through routes shall be operated.</p><p>Code 1950, § 56-181; 1970, c. 708.</p>

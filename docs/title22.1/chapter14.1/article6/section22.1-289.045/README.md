@@ -1,3 +1,0 @@
-# § 22.1-289.045 Retaliation against reports of child abuse or neglect.
-
-<p>No child day program or family day system shall retaliate in any manner against any person who in good faith reports child abuse or neglect pursuant to Chapter 15 (§ <a href='/vacode/63.2-1500/'>63.2-1500</a> et seq.) of Title 63.2.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0860'>860</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0861'>861</a>.</p>

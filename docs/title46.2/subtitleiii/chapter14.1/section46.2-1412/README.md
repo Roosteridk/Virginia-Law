@@ -1,3 +1,0 @@
-# § 46.2-1412 Insurable interest.
-
-<p>A. Notwithstanding any provision of law to the contrary, a peer-to-peer vehicle sharing platform shall have an insurable interest in a shared vehicle during the vehicle sharing period.</p><p>B. A peer-to-peer vehicle sharing platform may own and maintain as the named insured one or more policies of motor vehicle liability insurance that provides coverage for:</p><p>1. Liabilities assumed by the peer-to-peer vehicle sharing platform under a vehicle sharing platform agreement;</p><p>2. Any liability of the shared vehicle owner;</p><p>3. Damage or loss to the shared vehicle; or</p><p>4. Any liability of the shared vehicle driver.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1266'>1266</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-1640 Renting rooms in courthouse.
-
-<p>With the approval of the judge of the circuit court for the county or for the city, any vacant rooms in the courthouse, after furnishing offices to the officers listed in § <a href='http://law.lis.virginia.gov/vacode/15.2-1639/'>15.2-1639</a>, may be rented for a term of not exceeding one year to other persons for office purposes, and any public room or hall in the building may be hired for compensation for the purpose of giving public entertainments. All moneys received by the counties or cities under this section, shall constitute a fund to maintain and care for such building.</p><p>Code 1950, § 15-690; 1962, c. 623, § 15.1-259; 1997, c. 587.</p>

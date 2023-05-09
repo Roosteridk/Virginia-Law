@@ -1,3 +1,0 @@
-# § 19.2-293 When acquittal not a bar to further prosecution for same offense.
-
-<p>A person acquitted of an offense on the ground of a variance between the allegations and the proof of the indictment or other accusation, or upon an exception to the form or substance thereof, may be arraigned again on a new indictment or other proper accusation, and tried and convicted for the same offense, notwithstanding such former acquittal.</p><p>Code 1950, § 19.1-258; 1960, c. 366; 1975, c. 495.</p>

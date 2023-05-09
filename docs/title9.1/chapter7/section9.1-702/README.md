@@ -1,3 +1,0 @@
-# § 9.1-702 Work period.
-
-<p>Employers may adopt any work period to compute overtime compensation for fire protection or law-enforcement employees between seven and 28 days provided that the work period is recurring and fixed, and is not changed for purposes of denying overtime compensation to such employees to which they may be entitled under subsection A of § <a href='http://law.lis.virginia.gov/vacode/9.1-701/'>9.1-701</a>. The provisions of this section pertaining to law-enforcement employees shall only apply to employers of 100 or more law-enforcement employees.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0768'>768</a>, § 2.1-116.9:9; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0732'>732</a>.</p>

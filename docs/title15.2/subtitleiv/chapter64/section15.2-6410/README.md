@@ -1,3 +1,0 @@
-# § 15.2-6410 Investments in bonds.
-
-<p>Any financial institution, investment company, insurance company or association, and any personal representative, guardian, trustee, or other fiduciary, may legally invest any moneys belonging to them or within their control in any bonds issued by an authority.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0276'>276</a>, 587, § 15.1-1720.</p>

@@ -1,3 +1,0 @@
-# § 62.1-126 Forfeiture by tenant of works damaged or destroyed, and unrestored; right of remainderman or reversioner.
-
-<p>Where any mill, manufactory, machine, or engine in possession of, but not erected by a tenant for life or years, shall be destroyed or become unfit for use, and such tenant shall not, within the two years begin, or within the five years finish such rebuilding or repair, the person next entitled in remainder or reversion may enter and rebuild or repair the same within three years from the time of the failure of such tenant, and thereafter hold and enjoy the same, with its appurtenances, for his use and benefit.</p><p>Code 1950, § 62-105; 1968, c. 659.</p>

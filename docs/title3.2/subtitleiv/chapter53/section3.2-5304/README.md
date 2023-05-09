@@ -1,3 +1,0 @@
-# § 3.2-5304 Labeling and advertising.
-
-<p>No label, container, display, or advertisement of eggs shall contain incorrect, fraudulent, or misleading representations. No person shall advertise eggs for sale unless the unabbreviated grade and size-weight class, quality, or other required terms are conspicuously designated in letters at least half as high as the tallest letter in the word "eggs" or the tallest figure in the price, whichever is larger.</p><p>1968, c. 142, § 3.1-763.17; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

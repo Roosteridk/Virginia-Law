@@ -1,3 +1,0 @@
-# § 62.1-44.11 Meetings.
-
-<p>The Board shall meet at least four times a year, and other meetings may be held at any time or place determined by the Board or upon call of the chairman or upon written request of any two members. All members shall be duly notified of the time and place of any regular or other meeting at least five days in advance of such meeting.</p><p>Code 1950, § 62.1-23; 1968, c. 659; 1970, c. 638.</p>

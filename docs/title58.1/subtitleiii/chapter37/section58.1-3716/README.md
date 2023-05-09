@@ -1,3 +1,0 @@
-# § 58.1-3716 Wholesale merchants.
-
-<p>No county, city or town shall impose a license tax on wholesale merchants at an aggregate rate in excess of 5 cent(s) per $100 of purchases except in those counties, cities or towns where the local rate in effect on January 1, 1964 was in excess of such rate, in which case such localities are hereby prohibited from increasing such rate as in effect on January 1, 1964.</p><p>Code 1950, § 58-441.49; 1966, c. 151; 1982, c. 555; 1984, cc. 675, 695.</p>

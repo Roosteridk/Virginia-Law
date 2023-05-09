@@ -1,3 +1,0 @@
-# § 63.2-1701.01 (Effective until July 1, 2021) Storage of firearms in certain family day homes.
-
-<p>During hours of operation, all firearms in a licensed family day home, registered family day home, or family day home approved by a family day system shall be stored unloaded in a locked container, compartment, or cabinet, and all ammunition shall be stored in a separate locked container, compartment, or cabinet. The key or combination to such locked containers, compartments, or cabinets shall be inaccessible to all children in the home.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0910'>910</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0911'>911</a>.</p>

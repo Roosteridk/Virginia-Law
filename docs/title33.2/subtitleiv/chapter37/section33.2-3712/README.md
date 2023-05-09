@@ -1,3 +1,0 @@
-# § 33.2-3712 Continued responsibilities for local transit funding.
-
-<p>No locality embraced by the Authority shall reduce its local funding for public transit by more than 50 percent of what it appropriated for public transit as of July 1, 2019. Starting in fiscal year 2023, the amount required to be provided by a locality pursuant to this section shall be adjusted annually based on the greater of (i) the change in the United States Average Consumer Price Index for all items, all urban consumers (CPI-U), as published by the Bureau of Labor Statistics for the U.S. Department of Labor for the previous year, or (ii) zero.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1235'>1235</a>.</p>

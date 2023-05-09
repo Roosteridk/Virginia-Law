@@ -1,3 +1,0 @@
-# § 46.2-216.5 Partnership of Department and The Library of Virginia to promote use of public library Internet access terminals to complete on-line transactions with the Department.
-
-<p>The Department shall enter into a partnership with The Library of Virginia to promote the use of public library Internet access terminals to complete on-line transactions with the Department.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0336'>336</a>.</p>

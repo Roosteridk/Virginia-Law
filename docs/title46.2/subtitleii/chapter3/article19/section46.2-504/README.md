@@ -1,3 +1,0 @@
-# § 46.2-504 Form and contents of order of probation, suspension or revocation; service.
-
-<p>Whenever the Commissioner issues a probation, suspension or revocation order in accordance with any provision of this chapter, the order shall provide the addressee with a minimum of ten days' notice and shall be served as provided in § <a href='http://law.lis.virginia.gov/vacode/46.2-416/'>46.2-416</a>.</p><p>1974, c. 453, § 46.1-514.17; 1980, c. 704; 1984, c. 673; 1989, c. 727.</p>

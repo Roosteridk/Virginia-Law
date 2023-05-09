@@ -1,3 +1,0 @@
-# § 41.1-10 Same; order of court for survey.
-
-<p>When the suit is ready for hearing, the court may make an order of survey, to be executed by such person as the court may appoint, requiring a complete survey and plat of the land in question to be made and returned, showing its connection with conterminous tracts, and any other circumstances necessary for its thorough identification.</p><p>Code 1950, § 41-69; 1970, c. 291.</p>

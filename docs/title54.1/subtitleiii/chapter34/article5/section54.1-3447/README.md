@@ -1,3 +1,0 @@
-# § 54.1-3447 Placement of substance in Schedule II.
-
-<p>The Board shall place a substance in Schedule II if it finds that:</p><p>1. The substance has high potential for abuse;</p><p>2. The substance has currently accepted medical use in treatment in the United States, or currently accepted medical use with severe restrictions; and</p><p>3. The abuse of the substance may lead to severe psychic or physical dependence.</p><p>1972, c. 798, § 54-524.84:5; 1988, c. 765.</p>

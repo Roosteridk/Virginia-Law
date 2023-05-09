@@ -1,3 +1,0 @@
-# § 45.2-1800  Definitions.
-
-<p>As used in this chapter, unless the context requires a different meaning:</p><p>"Authority" means the Virginia Offshore Wind Development Authority established pursuant to Article 2 (§ <a href='/vacode/45.2-1803/'>45.2-1803</a> et seq.).</p><p>"Division" means the Division of Offshore Wind in the Department as established pursuant to § <a href='/vacode/45.2-1802/'>45.2-1802</a>.</p><p>"Hampton Roads region" means the same as that term is defined in § <a href='/vacode/22.1-356/'>22.1-356</a>.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

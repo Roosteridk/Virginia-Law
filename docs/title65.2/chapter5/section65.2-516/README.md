@@ -1,3 +1,0 @@
-# § 65.2-516 Other cases of dependency.
-
-<p>In all other cases questions of dependency in whole or in part shall be determined in accordance with the facts as the facts are at the time of the accident; but no allowance shall be made for any payment made in lieu of board and lodging or services and no compensation shall be allowed unless the dependency existed for a period of three months or more prior to the accident.</p><p>Code 1950, § 65-64; 1968, c. 660, § 65.1-67; 1991, c. 355.</p>

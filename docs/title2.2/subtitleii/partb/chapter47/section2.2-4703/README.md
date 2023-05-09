@@ -1,3 +1,0 @@
-# § 2.2-4703 Powers of issuers.
-
-<p>Any provision of any general or special law or of any charter to the contrary notwithstanding, issuers may use the investment services of the Treasury Board and for that purpose may enter into contracts with the Treasury Board and its agents.</p><p>1988, c. 498, § 2.1-234.9:4; 1990, c. 516; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,3 +1,0 @@
-# § 50-73.120 Partner's power to bind partnership after dissolution.
-
-<p>Subject to § <a href='http://law.lis.virginia.gov/vacode/50-73.121/'>50-73.121</a>, a partnership is bound by a partner's act after dissolution that:</p><p>1. Is appropriate for winding up the partnership business; or</p><p>2. Would have bound the partnership under § <a href='http://law.lis.virginia.gov/vacode/50-73.91/'>50-73.91</a> before dissolution, if the other party to the transaction did not have notice of the dissolution.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0292'>292</a>.</p>

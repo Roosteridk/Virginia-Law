@@ -1,3 +1,0 @@
-# § 15.2-1201.1 Discharging employee for service on board prohibited; civil penalty.
-
-<p>A board member in Buchanan County shall not be discharged from employment as a result of his absence from employment due to attendance at regular board meetings upon giving reasonable notice to his employer of such absence. Any employer violating the provisions of this section shall be subject to a civil penalty of up to $2,500.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0613'>613</a>, § 15.1-539.1; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0632'>632</a>.</p>

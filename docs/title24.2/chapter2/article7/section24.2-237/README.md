@@ -1,3 +1,0 @@
-# § 24.2-237 Who to represent Commonwealth; trial by jury; appeal.
-
-<p>The attorney for the Commonwealth shall represent the Commonwealth in any trial under this article. If the proceeding is against the attorney for the Commonwealth, the court shall appoint an attorney to represent the Commonwealth. Any officer proceeded against shall have the right to demand a trial by jury. The Commonwealth and the defendant shall each have the right to appeal to the Court of Appeals upon the record made in the trial court and the Court of Appeals shall consider and determine such cases.</p><p>1975, cc. 515, 595, § 24.1-79.9; 1993, c. 641; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0489'>489</a>.</p>

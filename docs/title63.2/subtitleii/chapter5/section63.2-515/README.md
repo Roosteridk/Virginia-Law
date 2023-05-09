@@ -1,3 +1,0 @@
-# § 63.2-515 Notice to applicant or recipient of decision.
-
-<p>As soon as the local board makes any decision granting, denying, changing or discontinuing any grant of public assistance, it shall give written notice thereof to the applicant or recipient.</p><p>Code 1950, §§ 63-121, 63-140.5, 63-147, 63-149, 63-185, 63-187, 63-214; 1962, c. 621; 1968, c. 578, § 63.1-114; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

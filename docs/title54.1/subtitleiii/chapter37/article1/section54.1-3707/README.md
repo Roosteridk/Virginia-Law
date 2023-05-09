@@ -1,3 +1,0 @@
-# § 54.1-3707 Licenses continued.
-
-<p>All licenses heretofore issued by the Board of Social Work and its predecessors shall continue in effect, and be renewable under this chapter.</p><p>1976, c. 608, § 54-943; 1988, c. 765.</p>

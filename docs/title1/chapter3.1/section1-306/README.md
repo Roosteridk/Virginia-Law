@@ -1,3 +1,0 @@
-# § 1-306 Boundary with Tennessee.
-
-<p>The boundary line between the Commonwealth and Tennessee shall be and remain the same as established by the Supreme Court of the United States in the case of Tennessee v. Virginia, 190 U.S. 64 (1903), and the compact between the Commonwealth and Tennessee approved on February 9, 1901, by an act of the General Assembly.</p><p>Code 1950, § 7-4; 1966, c. 102, § 7.1-5; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

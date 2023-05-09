@@ -1,3 +1,0 @@
-# § 58.1-496 Willful failure or refusal to file declaration of estimated tax, or making false and fraudulent statement, a misdemeanor.
-
-<p>Any person required under this article to file a declaration of estimated tax who willfully fails or refuses to file such declaration, at the time or times required by this article, and any person who, with intent to defraud the Commonwealth, makes any false statement in any such declaration, shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 58-151.27; 1962, c. 612; 1984, c. 675.</p>

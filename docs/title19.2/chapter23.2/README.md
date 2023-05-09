@@ -1,1 +1,0 @@
-# 23.2 Sealing of Criminal History Record Information and Court Records

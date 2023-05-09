@@ -1,3 +1,0 @@
-# § 29.1-331 Licenses to be dated, numbered and authenticated.
-
-<p>All licenses shall be dated, numbered, and authenticated by the clerk or agent by his signature or in such other manner as prescribed by the Director, and the clerk or agent shall show all other information required by law or the Board.</p><p>1952, c. 366, § 29-68.1; 1960, c. 541; 1987, c. 488; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0132'>132</a>.</p>

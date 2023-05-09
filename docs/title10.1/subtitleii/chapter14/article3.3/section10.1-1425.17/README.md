@@ -1,3 +1,0 @@
-# § 10.1-1425.17 Evaluation report.
-
-<p>The Department shall submit an annual report to the Governor and the appropriate committees of the General Assembly. The report shall include an evaluation of its pollution prevention activities. The report shall be submitted by December 1 of each year, beginning in 1994. The report shall include, to the extent available, information regarding progress in expanding pollution prevention activities in the Commonwealth.</p><p>1993, c. 459.</p>

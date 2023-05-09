@@ -1,3 +1,0 @@
-# § 15.2-4000 Enjoyment of city status until requirements of chapter fulfilled.
-
-<p>A city which no longer qualifies for city status under Article VII, Section 1 of the Constitution of Virginia shall change to town status under the provisions of this chapter. Until the court enters an order under § <a href='http://law.lis.virginia.gov/vacode/15.2-4004/'>15.2-4004</a> for such change, a city shall enjoy all the rights and obligations of city status.</p><p>1971, Ex. Sess., c. 140, § 15.1-965.1; 1988, c. 881; 1997, c. 587.</p>

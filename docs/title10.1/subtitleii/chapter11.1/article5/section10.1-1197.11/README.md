@@ -1,3 +1,0 @@
-# § 10.1-1197.11 Information to be furnished to Department.
-
-<p>Except as otherwise specified in this article, the Department may require every owner or operator of a small renewable energy project to furnish when requested such plans, specifications, and other pertinent information as may be necessary to determine the compliance status of the project and the effect of the project on human health or the environment.</p><p>2009, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0808'>808</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0854'>854</a>.</p>

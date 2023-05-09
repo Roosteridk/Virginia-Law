@@ -1,3 +1,0 @@
-# § 58.1-1108 Time for filing returns; payment of tax.
-
-<p>All returns of intangible personal property shall be made by the taxpayer on or before May 1 in each year, and the full amount of the tax payable as shown on the face of the return shall be so paid.</p><p>Code 1950, §§ 58-424, 58-428, 58-441; 1960, c. 508; 1977, c. 396; 1984, c. 675.</p>

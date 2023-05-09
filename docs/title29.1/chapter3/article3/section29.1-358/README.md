@@ -1,3 +1,0 @@
-# § 29.1-358 Localities to report claims and reimbursements.
-
-<p>Any locality establishing a damage stamp program pursuant to the provisions of this article, including those localities previously authorized to adopt such an ordinance prior to July 1, 1981, shall ensure that annual reports of all damage claims made and the amount of reimbursement therefor are made to the Department.</p><p>1981, c. 16, § 29-92.7; 1987, c. 488; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0958'>958</a>.</p>

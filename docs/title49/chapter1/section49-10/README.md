@@ -1,3 +1,0 @@
-# § 49-10 Use of Bible in administration of oaths.
-
-<p>No officer of this Commonwealth, or any political subdivision thereof, shall, in administering an oath in pursuance of law, require or request any person taking the oath to kiss the Holy Bible, or any book or books thereof, but persons being sworn for any purpose may be required to place their hand on the Holy Bible.</p><p>Any officer violating this section shall be subject to a fine of $100.</p><p>1920, p. 54; Michie Code 1942, § 278a.</p>

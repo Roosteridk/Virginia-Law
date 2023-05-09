@@ -1,3 +1,0 @@
-# § 24.2-404.1 Commissioner of Elections to serve as state coordinator for the administration of the National Voter Registration Act.
-
-<p>The Commissioner of Elections shall be the chief state election officer responsible for the coordination of state responsibilities under the National Voter Registration Act (52 U.S.C. § 20501 et seq.).</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0072'>72</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0073'>73</a>; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0542'>542</a>.</p>

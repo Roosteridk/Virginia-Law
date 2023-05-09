@@ -1,3 +1,0 @@
-# § 50-73.26 Information.
-
-<p>Each limited partner has the right, subject to such reasonable standards as set forth in the partnership agreement, to:</p><p>1. Inspect and copy any of the partnership records required to be maintained by § <a href='http://law.lis.virginia.gov/vacode/50-73.8/'>50-73.8</a>; and</p><p>2. Obtain from the general partners from time to time upon reasonable demand (i) true and full information regarding the state of the business and financial condition of the limited partnership, (ii) promptly after becoming available, a copy of the limited partnership's federal, state and local income tax returns for each year, and (iii) other information regarding the affairs of the limited partnership as is just and reasonable.</p><p>1985, c. 607.</p>

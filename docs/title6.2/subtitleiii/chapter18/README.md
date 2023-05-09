@@ -1,1 +1,0 @@
-# 18 Short-term Loans

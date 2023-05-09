@@ -1,3 +1,0 @@
-# § 13.1-1007 Unlawful to transact or offer to transact business as a limited liability company unless authorized.
-
-<p>It shall be unlawful for any person to transact business in this Commonwealth as a limited liability company or to offer or advertise to transact business in this Commonwealth as a limited liability company unless the alleged limited liability company is either a domestic limited liability company or a foreign limited liability company authorized to transact business in this Commonwealth. Any person who violates this section shall be guilty of a Class 1 misdemeanor.</p><p>1991, c. 168; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0017'>17</a>.</p>

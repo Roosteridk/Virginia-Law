@@ -1,3 +1,0 @@
-# § 30-129 Venue.
-
-<p>Any prosecution for a violation of this chapter shall be brought in the circuit court of the jurisdiction in which the legislator resides, or the jurisdiction in which he resided at the time of the alleged violation if he is no longer a resident of the Commonwealth.</p><p>1987, Sp. Sess., c. 1, § 2.1-639.60; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

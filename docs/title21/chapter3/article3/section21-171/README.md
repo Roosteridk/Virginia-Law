@@ -1,3 +1,0 @@
-# § 21-171 Collection from public sewage systems.
-
-<p>The commission is authorized and directed when in the judgment of the commission its sewage disposal system, or part thereof, will permit, to collect from any and all public sewage systems within the district all sewage and treat and dispose of the same in such manner as to promote the purposes of the commission.</p><p>1938, p. 517; Michie Code 1942, § 1560mm.</p>

@@ -1,3 +1,0 @@
-# § 13.1-1099.1 Annual registration fees.
-
-<p>The Commission shall assess and collect from each protected series and each foreign protected series whose existence or registration to transact business in Virginia has not been canceled an annual registration fee in accordance with Article 11 (§ <a href='/vacode/13.1-1061/'>13.1-1061</a> et seq.). The provisions of §§ <a href='/vacode/13.1-1050.2/'>13.1-1050.2</a>, <a href='/vacode/13.1-1056.1/'>13.1-1056.1</a>, and <a href='/vacode/13.1-1066/'>13.1-1066</a> shall apply to each protected series and each foreign protected series, as the case may be.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0636'>636</a>.</p>

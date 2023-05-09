@@ -1,3 +1,0 @@
-# § 13.1-726 Voting requirements for affiliated transactions.
-
-<p>Except as provided in § <a href='http://law.lis.virginia.gov/vacode/13.1-727/'>13.1-727</a> and notwithstanding the provisions of subsection A of § <a href='http://law.lis.virginia.gov/vacode/13.1-638/'>13.1-638</a>, in addition to any affirmative vote required by any other section of this Act or by the articles of incorporation, an affiliated transaction shall be approved by the affirmative vote of the holders of two-thirds of the voting shares other than shares beneficially owned by the interested shareholder.</p><p>1985, c. 522; 1988, c. 442.</p>

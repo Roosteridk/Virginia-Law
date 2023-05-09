@@ -1,3 +1,0 @@
-# § 58.1-2704 How amount of fuel used in the Commonwealth ascertained.
-
-<p>On and after October 1, 1992, the amount of gasoline or other motor fuel used in the operations of any motor carrier in the Commonwealth shall be determined by dividing the total number of miles traveled within the Commonwealth by such carrier's vehicles during a calendar quarter by a consumption factor, such factor being comprised of the total number of miles traveled by all vehicles of the motor carrier during the quarter divided by the total amount of gasoline or other motor fuel used in its entire operations during such quarter.</p><p>Code 1950, § 58-632; 1956, c. 475; 1984, c. 675; 1990, c. 216; 1992, c. 309.</p>

@@ -1,3 +1,0 @@
-# § 15.2-857 Judicial review; mandamus.
-
-<p>Whenever the board changes the boundaries, or increases or diminishes the number of districts, or reapportions the representation in the board as prescribed hereinabove, such action shall not be subject to judicial review, except as otherwise provided in § <a href='http://law.lis.virginia.gov/vacode/24.2-304.4/'>24.2-304.4</a>. Whenever the board fails to reapportion the representation among the districts of such county, or fails to change the boundaries of districts, mandamus shall lie on behalf of any citizen thereof to compel performance by the board.</p><p>1971, Ex. Sess., c. 201, § 15.1-788.1; 1997, c. 587.</p>

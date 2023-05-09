@@ -1,3 +1,0 @@
-# § 8.01-388 Judicial notice of official publications (Supreme Court Rule 2:203 derived from this section).
-
-<p>The court shall take judicial notice of the contents of all official publications of this Commonwealth and its political subdivisions and agencies required to be published pursuant to the laws thereof, and of all such official publications of other states, of the United States, of other countries, and of the political subdivisions and agencies of each published within those jurisdictions pursuant to the laws thereof.</p><p>1977, c. 617.</p>

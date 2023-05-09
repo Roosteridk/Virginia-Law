@@ -1,3 +1,0 @@
-# § 64.2-733 Reformation to correct mistakes.
-
-<p>The court may reform the terms of a trust, even if unambiguous, to conform the terms to the settlor's intention if it is proved by clear and convincing evidence that both the settlor's intent and the terms of the trust were affected by a mistake of fact or law, whether in expression or inducement.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-544.15; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

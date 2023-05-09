@@ -1,3 +1,0 @@
-# § 3.2-5638 Weight of livestock to be determined on date of sale.
-
-<p>When livestock is offered for sale on a weight basis at livestock auction markets on regular sale days, the weights thereof shall be determined on the date of the sale at such auction markets unless otherwise publicly announced at the auction ring at time of sale.</p><p>Code 1950, §§ 3-708.42, 59-114.2; 1952, c. 387; 1962, c. 298; 1966, c. 702, § 3.1-960; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

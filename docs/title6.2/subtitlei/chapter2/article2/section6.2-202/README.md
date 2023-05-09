@@ -1,3 +1,0 @@
-# § 6.2-202 Issuance of currency and related prohibited acts.
-
-<p>A. No individual or entity, unless authorized by law, shall:</p><p>1. Issue any note, bill, scrip, or other paper or thing with intent that the same be circulated as currency; or</p><p>2. Otherwise deal, trade, or carry on business as a bank of circulation.</p><p>B. All contracts made for forming any entity to engage in any activity prohibited by subsection A shall be void.</p><p>1987, c. 622, § 6.1-330.52; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

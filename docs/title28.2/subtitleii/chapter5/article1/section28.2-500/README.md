@@ -1,3 +1,0 @@
-# § 28.2-500 Residency and certain oyster licenses.
-
-<p>No residence restriction shall prohibit any person from obtaining any required license for buying fish or shellfish or for shucking oysters. In dredging or scraping private planting grounds on permission of the Commissioner, the residence restriction shall not apply to the crew, captain, or owner of any boat engaged by the leaseholder to dredge or scrape private planting grounds for oysters only.</p><p>Code 1950, § 28-138; 1962, c. 406, § 28.1-121; 1983, c. 306; 1992, c. 836.</p>

@@ -1,3 +1,0 @@
-# § 3.2-5616 Fees of sealers.
-
-<p>No fee shall be charged by the sealer of weights and measures, or by the county or city, for inspecting, testing, or sealing of weights or measures, except that the governing body of a city or county employing a sealer may, by ordinance, prescribe a schedule of fees for such services as are rendered by agreement with or at the request of the person or party served. Such fees shall be used only to defray the cost of such services.</p><p>Code 1950, §§ 3-708.20, 59-88; 1962, c. 298; 1966, c. 702, § 3.1-938; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

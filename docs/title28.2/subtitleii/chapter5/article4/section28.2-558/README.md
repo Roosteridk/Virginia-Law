@@ -1,3 +1,0 @@
-# § 28.2-558 Placing permanent markers.
-
-<p>Whenever the Commission makes or directs any surveys of Virginia's public oyster rocks, prominent and permanent concrete markers shall be placed on the shores fixing the survey stations; and, whenever possible, prominent and permanent range markers shall be placed on the shores or lands. The Commission shall pay the cost of such markers.</p><p>Code 1950, § 28-120; 1962, c. 406, § 28.1-103; 1992, c. 836.</p>

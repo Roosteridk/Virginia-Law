@@ -1,3 +1,0 @@
-# § 16.1-136 How appeal tried.
-
-<p>Any appeal taken under the provisions of this chapter shall be heard de novo in the appellate court and shall be tried without formal pleadings in writing; and, except in the case of an appeal from any order or judgment of a court not of record forfeiting any recognizance or revoking any suspension of sentence, the accused shall be entitled to trial by a jury in the same manner as if he had been indicted for the offense in the circuit court.</p><p>1956, c. 555.</p>

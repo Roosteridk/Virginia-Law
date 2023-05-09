@@ -1,3 +1,0 @@
-# § 58.1-2404 Time for payment of tax on sale or use of a motor vehicle.
-
-<p>The tax on the sale or use of a motor vehicle shall be paid by the purchaser or user of such motor vehicle and collected by the Commissioner at the time the owner applies to the Department of Motor Vehicles for, and obtains, a certificate of title. No tax shall be levied or collected under this chapter upon the sale or use of a motor vehicle for which no certificate of title is required by this Commonwealth.</p><p>Code 1950, § 58-685.14; 1966, c. 587; 1974, c. 477; 1984, c. 675; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0405'>405</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0639'>639</a>.</p>

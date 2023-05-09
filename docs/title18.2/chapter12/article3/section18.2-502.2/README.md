@@ -1,3 +1,0 @@
-# § 18.2-502.2 Warning required for certain medical tests; penalty.
-
-<p>No commercial medical testing kit designed for consumer home use shall be sold in this Commonwealth unless a warning is provided to the consumer to the effect that such tests may produce erroneous results and that medical testing is more accurate when performed by professionals within the controlled conditions of a laboratory. The consumer shall be advised to seek professional medical consultation and, if recommended, another test for validation of such test results.</p><p>Any person who violates the provisions of this section shall be guilty of a Class 4 misdemeanor.</p><p>1989, c. 142.</p>

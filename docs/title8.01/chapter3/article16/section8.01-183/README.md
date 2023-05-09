@@ -1,3 +1,0 @@
-# § 8.01-183 Recordation and effect of judgment.
-
-<p>The judgment of the court shall be recorded in the current deed book of the court. The judgment shall forever settle, determine, and designate the true boundary line or lines in question, between the parties, their heirs, devisees, and assigns. The judgment may be enforced in the same manner as a judgment in an action of ejectment.</p><p>Code 1950, § 8-840; 1977, c. 617.</p>

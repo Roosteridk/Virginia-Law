@@ -1,3 +1,0 @@
-# § 38.2-3430.8 Certification of coverage.
-
-<p>The provisions of § <a href='http://law.lis.virginia.gov/vacode/38.2-3432.3/'>38.2-3432.3</a> shall apply to health insurance coverage offered by a health insurance issuer in the individual market in the same manner as they apply to health insurance coverage offered by a health insurance issuer in connection with a group health plan in the small or large group market.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0807'>807</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0913'>913</a>; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP1004'>1004</a>.</p>

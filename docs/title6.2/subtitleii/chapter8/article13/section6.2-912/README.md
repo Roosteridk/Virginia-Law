@@ -1,3 +1,0 @@
-# § 6.2-912 Definition.
-
-<p>As used in this article, "insolvent" or "insolvency" means incapable of meeting the current demands of creditors or having liabilities which, in total, exceed the book value of assets.</p><p>Code 1950, § 6-114; 1966, c. 584, § 6.1-100; 1983, c. 507; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0257'>257</a>.</p>

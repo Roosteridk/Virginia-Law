@@ -1,3 +1,0 @@
-# § 36-147 Grants.
-
-<p>Subject to any restrictions which may apply to the use of money in the Fund, the Board in its discretion may approve the use of money in the Fund to make grants or appropriations to housing sponsors and persons and families of low and moderate income to provide assistance for the acquisition, construction, improvement, ownership or occupancy of housing developments and residential housing for persons and families of low and moderate income. Grants shall be disbursed from the Fund by the State Treasurer in accordance with the directions of the Director of the Department of Housing and Community Development.</p><p>1988, c. 687; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0754'>754</a>.</p>

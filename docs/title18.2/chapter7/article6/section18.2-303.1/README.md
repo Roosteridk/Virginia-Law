@@ -1,3 +1,0 @@
-# § 18.2-303.1 What article does not prohibit.
-
-<p>Nothing contained in this article shall prohibit or interfere with the possession of a "sawed-off" shotgun or "sawed-off" rifle for scientific purposes, the possession of a "sawed-off" shotgun or "sawed-off" rifle possessed in compliance with federal law or the possession of a "sawed-off" shotgun or "sawed-off" rifle not usable as a firing weapon and possessed as a curiosity, ornament, or keepsake.</p><p>Code 1950, § 18.1-268.5; 1968, c. 661; 1975, cc. 14, 15; 1976, c. 351; 1992, c. 580; 1993, c. 449.</p>

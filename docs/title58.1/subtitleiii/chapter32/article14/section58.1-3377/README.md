@@ -1,3 +1,0 @@
-# § 58.1-3377 Use of land books.
-
-<p>Every board of equalization for a county not having a general reassessment of real estate shall procure for its use from the clerk of the circuit court of the county the copy of the land book on file in his office for the current year if available, otherwise for the preceding year, and the board shall return the land book to the clerk upon the completion of its work. Every board of equalization for a city having need of a copy of the land book for any year shall procure an existing copy if available for the purpose; otherwise the governing body of the city shall cause a new copy to be made and furnished the board at the expense of the city.</p><p>Code 1950, § 58-902; 1984, c. 675.</p>

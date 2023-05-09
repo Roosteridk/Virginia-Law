@@ -1,3 +1,0 @@
-# § 15.2-4118 Effect on pending suits.
-
-<p>If at the time a city becomes a town under the provisions of this chapter there are any pending actions or proceedings by or against the city, or if after a city becomes a town under the provisions of this chapter an action or proceeding out of a cause of action which arose prior to the time the city became a town, which but for said transition would have been by or against the city, is instituted, the resulting town shall be substituted in place of the city and the action or proceeding may be perfected to judgment.</p><p>1988, c. 881, § 15.1-965.25; 1997, c. 587.</p>

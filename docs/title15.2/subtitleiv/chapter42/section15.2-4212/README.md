@@ -1,3 +1,0 @@
-# § 15.2-4212 Review of regional strategic plan by commission.
-
-<p>At least once every five years the regional strategic plan shall be revised and formally approved by the planning district commission. The revised plan shall not become effective with respect to the action of the governing body of any locality within the district until adopted by the governing body of such locality.</p><p>1968, c. 224, § 15.1-1409; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0732'>732</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0796'>796</a>; 1997, c. 587.</p>

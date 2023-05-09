@@ -1,3 +1,0 @@
-# §§ 62.1-44.108 through 62.1-44.112 Repealed.
-
-<p>Repealed by Acts 1988, c. 891.</p>

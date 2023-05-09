@@ -1,3 +1,0 @@
-# § 15.2-300 Adoption of optional forms of county government; inconsistent provisions of law.
-
-<p>A. Any county may adopt an optional form of county government in accordance with the referendum provisions of § <a href='http://law.lis.virginia.gov/vacode/15.2-301/'>15.2-301</a>, subject to the limitations specified in Chapters 3 through 8 of this title.</p><p>B. Other provisions of law in conflict with Chapters 3 through 8 of this title shall not apply to a county which has adopted an applicable form of county government pursuant to this chapter, unless such provision expressly provides otherwise.</p><p>1997, c. 587.</p>

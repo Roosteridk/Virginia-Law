@@ -1,1 +1,0 @@
-# 17.8 Automatic Renewal Offers and Continuous Service Offers

@@ -1,3 +1,0 @@
-# § 15.2-2900 Purpose and intent.
-
-<p>It is the purpose and intent of the General Assembly to create a procedure whereby the Commonwealth will help ensure that all of its localities are maintained as viable communities in which their citizens can live. To carry out this purpose and intent, there is hereby established the Commission on Local Government.</p><p>1979, c. 85, § 15.1-945.1; 1997, c. 587.</p>

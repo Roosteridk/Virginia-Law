@@ -1,3 +1,0 @@
-# § 55.1-2015 Payment of assessments upon conveyance of apartment; priority.
-
-<p>Upon the sale or conveyance of an apartment, all unpaid assessments against a co-owner for his pro rata share in the expenses provided for in § <a href='/vacode/55.1-2014/'>55.1-2014</a> shall first be paid out of the sale price or by the purchaser in priority over any other assessments or charges of whatever nature except the following:</p><p>1. Assessments, liens, and charges in favor of the Commonwealth or any locality for taxes past due and unpaid on the apartment; and</p><p>2. Payments due under mortgages duly recorded.</p><p>1962, c. 627, § 15, § 55-79.15; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

@@ -1,3 +1,0 @@
-# § 54.1-3026 Renewal of certification.
-
-<p>Each certificate issued to practice as a nurse aide shall be renewed annually upon payment of any specified fee. The nurse aide shall submit proof of compliance with any requirements of law and regulation concerning continued employment or competence as a condition of such renewal. The Board shall establish requirements for the renewal of certifications consistent with federal law.</p><p>1989, c. 278; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0087'>87</a>.</p>

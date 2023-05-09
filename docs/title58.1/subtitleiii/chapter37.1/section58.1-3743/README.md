@@ -1,3 +1,0 @@
-# § 58.1-3743 Severance license taxes to be paid to jurisdiction in which coal is severed.
-
-<p>All local coal severance license taxes levied pursuant to § <a href='http://law.lis.virginia.gov/vacode/58.1-3741/'>58.1-3741</a> shall be paid to the locality in which the coal is severed from the earth.</p><p>2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0305'>305</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0618'>618</a>.</p>

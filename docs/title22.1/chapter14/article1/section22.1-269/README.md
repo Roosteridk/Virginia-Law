@@ -1,3 +1,0 @@
-# § 22.1-269 Board to enforce.
-
-<p>The Board of Education shall have the authority and it shall be its duty to see that the provisions of this article are properly enforced throughout the Commonwealth.</p><p>Code 1950, § 22-275.23; 1959, Ex. Sess., c. 72; 1968, c. 178; 1980, c. 559.</p>

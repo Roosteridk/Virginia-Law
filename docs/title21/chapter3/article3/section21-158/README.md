@@ -1,3 +1,0 @@
-# § 21-158 Officers of board or commission.
-
-<p>The board or commission shall elect from its members a chairman, whose term of office as such shall be one year, and who shall be eligible for reelection. Such commission under such rules as it may adopt, may elect one of its members vice-chairman, and may appoint a secretary, who need not be a member of the commission, and a treasurer or secretary-treasurer, who shall not be a member of the commission. In the event that the commission appoints a treasurer or secretary-treasurer, his compensation shall be fixed by the commission.</p><p>1938, p. 514; 1942, p. 600; Michie Code 1942, § 1560kk; 1944, p. 73; 1946, p. 528.</p>

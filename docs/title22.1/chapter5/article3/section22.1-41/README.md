@@ -1,3 +1,0 @@
-# § 22.1-41 Application of article.
-
-<p>The provisions of this article shall be applicable in any county constituting a school division except a county to which the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/15.2-410/'>15.2-410</a>, <a href='http://law.lis.virginia.gov/vacode/15.2-531/'>15.2-531</a>, <a href='http://law.lis.virginia.gov/vacode/15.2-627/'>15.2-627</a> or § <a href='http://law.lis.virginia.gov/vacode/15.2-837/'>15.2-837</a> are applicable.</p><p>1980, c. 559.</p>

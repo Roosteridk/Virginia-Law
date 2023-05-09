@@ -1,3 +1,0 @@
-# § 36-22.1 Conveyance of streets; no trespass policy.
-
-<p>Each housing authority shall adopt a "no trespass" policy designed to protect the premises controlled by such authority and residents from nonresidents who enter the premises for unlawful purposes or without any lawful purpose. In adopting such policies, the authority shall determine whether to petition a locality or the Commonwealth to close to the public and convey to the authority any streets serving authority property. Neither a locality nor the Commonwealth shall be required to grant the conveyance.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0585'>585</a>.</p>

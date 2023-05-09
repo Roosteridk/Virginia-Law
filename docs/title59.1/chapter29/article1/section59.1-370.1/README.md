@@ -1,3 +1,0 @@
-# § 59.1-370.1 State Racing Operations Fund.
-
-<p>A. All moneys and revenues received by the Commission under this chapter shall be placed in a special fund known as the State Racing Operations Fund. Notwithstanding any other provision of law, interest earned from moneys in the State Racing Operations Fund shall accrue to the benefit of such fund.</p><p>B. The total costs for the operation and administration of the Virginia Racing Commission shall be funded from the State Racing Operations Fund and shall be in such amount as provided in the general appropriations act.</p><p>1990, c. 272.</p>

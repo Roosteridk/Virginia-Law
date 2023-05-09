@@ -1,3 +1,0 @@
-# § 32.1-138.13 Access to and confidentiality of patient-specific medical records and information.
-
-<p>Private review agents who have been granted a certificate of registration by the Department shall have reasonable access to patient-specific medical records and information to the extent and in the manner authorized by regulation.</p><p>1990, c. 826, § 38.2-5307; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0129'>129</a>.</p>

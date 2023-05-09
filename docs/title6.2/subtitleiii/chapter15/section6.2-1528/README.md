@@ -1,3 +1,0 @@
-# § 6.2-1528 Exemptions unimpaired.
-
-<p>A. Nothing in this chapter shall have the effect of impairing any rights on the part of anyone as to exemptions under the poor debtors law or under any other applicable exemption law now in effect or hereafter enacted.</p><p>B. The provisions of subdivision B 2 of § <a href='http://law.lis.virginia.gov/vacode/6.2-1526/'>6.2-1526</a> and § <a href='http://law.lis.virginia.gov/vacode/6.2-1527/'>6.2-1527</a> are in addition to, and not in derogation of, the general statutes pertaining to the subject.</p><p>Code 1950, § 6-318; 1966, c. 584, § 6.1-289; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

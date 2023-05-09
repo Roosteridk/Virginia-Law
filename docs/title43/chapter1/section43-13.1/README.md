@@ -1,3 +1,0 @@
-# § 43-13.1 Use of lien waiver form; forgery or signing without authority.
-
-<p>Any person who knowingly presents a waiver of lien form to an owner, his agent, contractor, lender, or title company for the purpose of obtaining funds or title insurance and who forges or signs without authority the name of any person listed thereon shall be guilty of a felony and punished as provided in § <a href='http://law.lis.virginia.gov/vacode/18.2-172/'>18.2-172</a>.</p><p>1968, c. 568.</p>

@@ -1,3 +1,0 @@
-# § 55.1-1819.1 Limitation of smoking in development.
-
-<p>Except to the extent that the declaration provides otherwise, the board of directors may establish reasonable rules that restrict smoking in the development, including rules that prohibit smoking in the common areas. For developments that include attached private dwelling units, such rules may prohibit smoking within such dwelling units. Rules adopted pursuant to this section may be enforced in accordance with § <a href='/vacode/55.1-1819/'>55.1-1819</a>.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0131'>131</a>.</p>

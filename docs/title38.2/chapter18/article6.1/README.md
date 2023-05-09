@@ -1,1 +1,0 @@
-# 6.1 Licensing of Viatical Settlement Brokers

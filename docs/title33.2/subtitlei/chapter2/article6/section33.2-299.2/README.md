@@ -1,3 +1,0 @@
-# § 33.2-299.2 Police powers; Authority rules and regulations.
-
-<p>The Authority is empowered to adopt and enforce reasonable rules and regulations governing any and all activities using Authority property. Such rules and regulations shall have the force and effect of law after publication one time in full in a newspaper of general circulation in the county or city where the affected property is located.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1230'>1230</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1275'>1275</a>.</p>

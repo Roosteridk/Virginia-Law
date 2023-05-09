@@ -1,3 +1,0 @@
-# § 8.01-426 Judgment includes decree.
-
-<p>A decree for land or specific personal property, and a decree or order requiring the payment of money, shall have the effect of a judgment for such land, property, or money, and be embraced by the word "judgment," where used in this chapter or in Chapters 18, 19 or 20 of this title or in Title 43; but a party may proceed to carry into execution a decree or order other than for the payment of money, as he might have done if this and the following section had not been enacted.</p><p>Code 1950, § 8-343; 1977, c. 617; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0681'>681</a>.</p>

@@ -1,3 +1,0 @@
-# § 6.2-1079 Directors or managers.
-
-<p>The affairs of every private trust company shall be directed by a board of directors if a corporation, or managers if a limited liability company, consisting of not less than five nor more than 25 persons. At least one director or manager shall be a citizen of the Commonwealth.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0910'>910</a>, § 6.1-32.30:6; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

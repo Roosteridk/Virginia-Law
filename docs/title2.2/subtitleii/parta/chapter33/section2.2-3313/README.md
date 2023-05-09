@@ -1,3 +1,0 @@
-# § 2.2-3313 Virginia Drug Free Day.
-
-<p>The Saturday of the last week in October of each year shall be designated and known as "Virginia Drug Free Day" to recognize and support education about the dangers of drug abuse, the penalties for drug crimes, the availability of substance abuse programs, and the need to eradicate drug abuse in Virginia's communities.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0480'>480</a>, § 2.1-27.8; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

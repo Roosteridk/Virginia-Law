@@ -1,3 +1,0 @@
-# § 8.01-271.01 Electronic filings in civil actions in circuit court.
-
-<p>Electronic filings in civil actions and proceedings in the circuit court shall be governed by Article 4.1 (§ <a href='http://law.lis.virginia.gov/vacode/17.1-258.2/'>17.1-258.2</a> et. seq.) of Chapter 2 of Title 17.1 and applicable Rules of the Supreme Court of Virginia.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0717'>717</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0760'>760</a>.</p>

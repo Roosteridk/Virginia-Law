@@ -1,3 +1,0 @@
-# § 15.2-2508 Governing bodies may require information of departments, etc.
-
-<p>A. Local governing bodies may require the heads or other responsible representatives of all departments, offices, divisions, boards, commissions and agencies of their localities to furnish such information as may be deemed advisable.</p><p>B. A constitutional officer, as defined in § <a href='http://law.lis.virginia.gov/vacode/15.2-2511/'>15.2-2511</a>, for any such locality, to the extent information is required, shall be subject to the provisions of this section.</p><p>Code 1950, § 15-578; 1962, c. 623, § 15.1-163; 1993, c. 681; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 38.2-215 Liability of president, chief executive officer or directors if insurance issued when insurer insolvent.
-
-<p>If any insurer is insolvent, and the president, chief executive officer or directors with knowledge of insolvency make or agree to further insurance, they shall be personally liable for any loss under that insurance.</p><p>Code 1950, § 38-176; 1952, c. 317, § 38.1-37; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 17.1-112 Sheriff to attend court as its officer.
-
-<p>Neither the Supreme Court nor the Court of Appeals shall be attended by any sheriff in the City of Richmond. In all other cases, the sheriff of the county or city in which any court is held shall attend it and act as its officer.</p><p>Code 1919, § 5963, § 17-13; 1984, c. 703; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

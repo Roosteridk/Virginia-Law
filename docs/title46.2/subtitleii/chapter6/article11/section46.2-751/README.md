@@ -1,3 +1,0 @@
-# § 46.2-751 State-owned passenger vehicles.
-
-<p>Except as provided in subsection B of § <a href='http://law.lis.virginia.gov/vacode/46.2-750/'>46.2-750</a>, the Commissioner shall not issue any license plates for use on vehicles owned by the Commonwealth or any of its departments, institutions, boards, or agencies and used for passenger transportation unless written application has been filed with the Governor showing the necessity for the use and unless the Governor has directed the Commissioner to issue the license plates.</p><p>Code 1950, § 46-55; 1958, c. 541, § 46.1-57; 1972, c. 723; 1989, c. 727; 1994, 1st Sp. Sess., c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?942+ful+CHAP0006'>6</a>.</p>

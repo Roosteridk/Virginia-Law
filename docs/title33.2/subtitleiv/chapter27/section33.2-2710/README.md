@@ -1,3 +1,0 @@
-# § 33.2-2710 Cooperation between districts and other political subdivisions.
-
-<p>Any district created pursuant to this chapter may enter into agreements with counties, cities, towns, or other political subdivisions of the Commonwealth for joint or cooperative action in accordance with the authority contained in § <a href='http://law.lis.virginia.gov/vacode/15.2-1300/'>15.2-1300</a>.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0966'>966</a>, § 33.1-458; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

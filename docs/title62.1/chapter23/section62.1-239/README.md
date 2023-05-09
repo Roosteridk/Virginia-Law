@@ -1,3 +1,0 @@
-# § 62.1-239 Grants.
-
-<p>Subject to any restrictions which may apply to the use of money in the Fund, the Board in its discretion may approve the use of money in the Fund to make grants or appropriations to local governments or other entities to pay the cost of any project. The Board may establish such terms and conditions on any grant as it deems appropriate. Grants shall be disbursed from the Fund by the Authority in accordance with the written direction of the Board.</p><p>1987, c. 324; 1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0651'>651</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0665'>665</a>.</p>

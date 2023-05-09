@@ -1,3 +1,0 @@
-# § 62.1-241.8 Loans and grants for regional projects, etc.
-
-<p>In approving loans and grants, the Board shall give preference to loans and grants for projects that will (i) utilize private industry in operation and maintenance of such projects where a material savings in cost can be shown over public operation and maintenance, or (ii) serve two or more local governments to encourage regional cooperation, or (iii) both.</p><p>1992, c. 378.</p>

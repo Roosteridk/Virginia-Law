@@ -1,3 +1,0 @@
-# § 21-329 Other levels.
-
-<p>If it is deemed expedient by the board of viewers, other levels may be run to determine the fall from one part of the district to another. If an old watercourse, land drainage, ditch or channel is to be widened, deepened, or straightened, it shall be accurately cross-sectioned so as to compute the number of cubic yards saved by the use of such old channel.</p><p>Code 1919, § 1750; 1920, p. 610; 1926, p. 611.</p>

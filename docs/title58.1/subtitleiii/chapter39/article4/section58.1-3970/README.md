@@ -1,3 +1,0 @@
-# § 58.1-3970 County, city, etc., may be purchaser.
-
-<p>The county, city or town may be a purchaser at any sale held under this article or under any other provision of law for the enforcement of tax liens.</p><p>Code 1950, § 58-1117.6; 1973, c. 467; 1984, c. 675.</p>

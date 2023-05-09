@@ -1,3 +1,0 @@
-# § 13.1-348 Name.
-
-<p>A. A worker cooperative may include the word "cooperative" or "co-op" in its corporate name.</p><p>B. No person hereafter commencing business in the Commonwealth may use the phrase "worker cooperative," "worker co-op," "employee cooperative," or "employee co-op" as a part of its corporate name unless it has elected to be governed as a worker cooperative in accordance with this article.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0673'>673</a>.</p>

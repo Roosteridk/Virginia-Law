@@ -1,3 +1,0 @@
-# § 58.1-1718.01 Exemption for victims of the Virginia Beach mass shooting.
-
-<p>A. As used in this section, "Virginia Beach mass shooting" means the mass shooting that occurred on May 31, 2019, at the Virginia Beach Municipal Center in the City of Virginia Beach.</p><p>B. No tax shall be imposed under this article on the probate of a will or grant of administration of the estate of an individual who died as a result of the Virginia Beach mass shooting.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0249'>249</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0278'>278</a>.</p>

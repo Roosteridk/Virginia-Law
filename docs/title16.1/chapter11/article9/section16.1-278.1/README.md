@@ -1,3 +1,0 @@
-# § 16.1-278.1 Definitions.
-
-<p>As used in this article, unless the context clearly indicates otherwise:</p><p>"Parent" includes parent, guardian, legal custodian, or other person standing in loco parentis.</p><p>"Public service project" means any governmental or quasi-governmental agency project or any project of a nonprofit corporation or association operated exclusively for charitable or community purposes.</p><p>1991, c. 534.</p>

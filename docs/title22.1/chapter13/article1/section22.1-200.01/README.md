@@ -1,3 +1,0 @@
-# § 22.1-200.01 Alternatives to animal dissection.
-
-<p>Local school divisions shall provide students with alternatives to animal dissection techniques within the relevant public school curriculum or course. The Board of Education shall establish guidelines to be implemented by local school divisions regarding such alternative dissection techniques. Such guidelines shall address, but shall not be limited to, (i) the use of detailed models of animal anatomy and computer simulations as alternatives to dissection; (ii) notification of students and parents of the option to decline to participate in animal dissection; and (iii) such other issues as the Board deems appropriate.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0918'>918</a>.</p>

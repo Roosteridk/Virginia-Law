@@ -1,3 +1,0 @@
-# § 28.2-310 Trotline prohibited on ocean side of Eastern Shore; penalty.
-
-<p>It shall be unlawful to set a fish trotline on the ocean side of the Counties of Accomack and Northampton. The Commission officers may seize any fish trotline set in such an area.</p><p>A violation of this section is a Class 3 misdemeanor.</p><p>Code 1950, § 28-43; 1960, c. 517; 1962, c. 406, § 28.1-48; 1966, c. 684; 1968, c. 748; 1972, c. 833; 1973, c. 21; 1976, c. 392; 1979, c. 274; 1981, c. 61; 1983, c. 307; 1990, c. 445; 1992, c. 836.</p>

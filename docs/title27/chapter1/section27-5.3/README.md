@@ -1,3 +1,0 @@
-# § 27-5.3 Certain counties authorized to accept grants and other federal assistance.
-
-<p>Any county having a population of more than 2,000 persons per square mile may apply for, accept and utilize grants and other assistance from the federal government pursuant to § 117 of the United States Housing Act of 1949 (79 Stat. 451, 477), as amended, for the purpose of carrying out programs of concentrated code enforcement and related activities.</p><p>1966, c. 435.</p>

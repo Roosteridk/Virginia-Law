@@ -1,3 +1,0 @@
-# § 15.2-4109 Declining a grant of town status.
-
-<p>In any proceedings brought under the provisions of this chapter, the governing body of the city, may, by ordinance or resolution, decline to accept eligibility for town status on the terms and conditions imposed by the special court at any time prior to twenty-one days after entry of an order granting eligibility for town status, or within twenty-one days after denial of a petition for appeal or within twenty-one days after the entry of the mandate in an appeal which has been granted.</p><p>1988, c. 881, § 15.1-965.19; 1997, c. 587.</p>

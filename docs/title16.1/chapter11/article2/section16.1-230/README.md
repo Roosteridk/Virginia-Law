@@ -1,3 +1,0 @@
-# § 16.1-230 Organization and operation of juvenile and domestic relations district courts.
-
-<p>The provisions of Chapter 4.1 (§ <a href='http://law.lis.virginia.gov/vacode/16.1-69.1/'>16.1-69.1</a> et seq.) of this title establishing the district court system shall be controlling over the provisions of this chapter with respect to the organization, judges, administration and supervision, personnel, and financing of the juvenile and domestic relations district courts in the event of any conflict between the provisions of Chapter 4.1 and this chapter.</p><p>Code 1950, § 16.1-153.1; 1972, c. 708; 1973, c. 546; 1977, c. 559.</p>

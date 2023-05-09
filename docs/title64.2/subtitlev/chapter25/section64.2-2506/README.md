@@ -1,3 +1,0 @@
-# § 64.2-2506 Contingent remainders and future interests.
-
-<p>A. As to any contingent remainder or executory or other future interest held by the slayer subject to become vested in him or increased in any way for him upon the death of the decedent, the slayer shall be deemed to have predeceased the decedent if the interest would not have become vested or increased if the slayer had predeceased the decedent.</p><p>B. Notwithstanding subsection A, any contingent remainder or executory or other future interest shall not be vested in the slayer or increased in any way for him during the period of the life expectancy of the decedent.</p><p>1981, c. 469, § 55-409; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

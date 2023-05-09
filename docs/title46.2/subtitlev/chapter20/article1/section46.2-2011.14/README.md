@@ -1,3 +1,0 @@
-# § 46.2-2011.14 Notice of abandonment of service.
-
-<p>Every motor carrier, TNC broker, broker, or excursion train operator who ceases operation or abandons his rights under a license, certificate, or permit issued shall notify the Department within 30 days of such cessation or abandonment.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0861'>861</a>; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0635'>635</a>.</p>

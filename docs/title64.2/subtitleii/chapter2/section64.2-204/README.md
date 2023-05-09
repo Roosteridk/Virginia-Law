@@ -1,3 +1,0 @@
-# § 64.2-204 Afterborn heirs.
-
-<p>Relatives of the decedent conceived before his death but born thereafter, and children resulting from assisted conception born after the decedent's death who are determined to be relatives of the decedent as provided in Chapter 9 (§ <a href='http://law.lis.virginia.gov/vacode/20-156/'>20-156</a> et seq.) of Title 20, shall inherit as if they had been born during the lifetime of the decedent.</p><p>1978, c. 647, § 64.1-8.1; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0919'>919</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

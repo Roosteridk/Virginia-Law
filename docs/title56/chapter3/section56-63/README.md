@@ -1,3 +1,0 @@
-# § 56-63 Appeal from decision of Commission on issuance of securities.
-
-<p>The public service company making any application under § <a href='http://law.lis.virginia.gov/vacode/56-60/'>56-60</a> may have the decision or order of the Commission reviewed on appeal to the Supreme Court in the same manner and by the same procedure as any other order, action, or decision of the Commission, when the public service company shall deem such decision or order to be in any respect or manner improper, unjust or unreasonable.</p><p>1934, p. 223; Michie Code 1942, § 4073(5).</p>

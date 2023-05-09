@@ -1,3 +1,0 @@
-# § 59.1-310.8 Exceptions.
-
-<p>This chapter shall not be construed to prohibit:</p><p>1. The work of an employee or a subordinate of an accredited septic system inspector;</p><p>2. The practice of any profession or occupation that is regulated by a regulatory board within the Department of Professional and Occupational Regulation or other state agency; or</p><p>3. The work of employees of the Department of Health in carrying out their regulatory duties under Chapter 6 (§ <a href='http://law.lis.virginia.gov/vacode/32.1-163/'>32.1-163</a> et seq.) of Title 32.1.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0052'>52</a>.</p>

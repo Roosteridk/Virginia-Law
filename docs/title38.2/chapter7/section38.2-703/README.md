@@ -1,3 +1,0 @@
-# § 38.2-703 Cease and desist orders may be entered.
-
-<p>If, after a hearing, the Commission finds that there has been a violation of § <a href='http://law.lis.virginia.gov/vacode/38.2-700/'>38.2-700</a> or § <a href='http://law.lis.virginia.gov/vacode/38.2-701/'>38.2-701</a>, it may issue an order reciting its findings and directing the insurer or director to cease and desist from the violation.</p><p>1952, c. 317, § 38.1-61; 1986, c. 562.</p>

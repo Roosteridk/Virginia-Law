@@ -1,3 +1,0 @@
-# § 13.1-856 Election of directors by certain classes of members.
-
-<p>If the articles of incorporation authorize dividing the members into classes, the articles may also authorize the election of all or a specified number of directors by the members of one or more authorized classes. Each class entitled to elect one or more directors is a separate voting group for purposes of the election of directors.</p><p>1985, c. 522.</p>

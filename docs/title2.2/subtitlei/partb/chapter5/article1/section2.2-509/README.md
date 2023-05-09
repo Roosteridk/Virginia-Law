@@ -1,3 +1,0 @@
-# § 2.2-509 Representation in administrative proceedings.
-
-<p>Notwithstanding any other provision of law, if the Attorney General finds after consultation with the head of the affected department that it is in the best interests of the Commonwealth to do so, the Attorney General may authorize any employee of his office or any employee of a department to represent that department or an affiliated body in any administrative proceedings before the department, an affiliated body or before any hearing officer or examiner appointed or employed by the department or affiliated body.</p><p>1991, c. 227, § 2.1-121.2; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

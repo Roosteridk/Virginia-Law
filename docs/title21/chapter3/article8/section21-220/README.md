@@ -1,3 +1,0 @@
-# § 21-220 Remedies to prevent violation.
-
-<p>Any county, city, town or other public body, or person may be restrained, enjoined or otherwise prevented from violating or continuing the violation of any provision of §§ <a href='http://law.lis.virginia.gov/vacode/21-218/'>21-218</a> and <a href='http://law.lis.virginia.gov/vacode/21-219/'>21-219</a> by injunction, mandamus or any other appropriate remedy at law or in equity, by any court of competent jurisdiction, upon action, bill, suit or other proceeding instituted by the commission or by any attorney for the Commonwealth.</p><p>1938, p. 528; Michie Code 1942, § 1560ccc.</p>

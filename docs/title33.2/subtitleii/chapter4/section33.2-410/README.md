@@ -1,3 +1,0 @@
-# § 33.2-410 Duties of Commissioner of Highways related to dams over which a state highway passes.
-
-<p>The Commissioner of Highways may, at his own cost and expense, widen or strengthen any dam or bridge over which a state highway passes to a sufficient width to provide properly for traffic that uses that section of highway of which such dam or bridge forms a part. The Commissioner of Highways shall maintain the highway surface on such sections of highway.</p><p>Code 1950, § 33-91; 1970, c. 322, § 33.1-177; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,3 +1,0 @@
-# § 8.01-130.3 Who is liable for rent.
-
-<p>Rent may be recovered from the lessee or other person owing it, or his assignee, or the personal representative of either; however, no assignee shall be liable for rent that became due before his interest began. Nothing in this section shall impair or change the liability of heirs or devisees for rent, as for other debts of their ancestor or devisor.</p><p>Code 1919, § 5521; Code 1950, § 55-229; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

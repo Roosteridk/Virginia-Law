@@ -1,3 +1,0 @@
-# § 24.2-812 Proceedings when court decides no valid election has been held.
-
-<p>If the court decides that there has been no valid election of any person, it shall declare the election void and the vacancy shall be filled in conformity with §§ <a href='http://law.lis.virginia.gov/vacode/24.2-226/'>24.2-226</a> and <a href='http://law.lis.virginia.gov/vacode/24.2-227/'>24.2-227</a>.</p><p>Code 1950, § 24-438; 1970, c. 462, § 24.1-245; 1993, c. 641.</p>

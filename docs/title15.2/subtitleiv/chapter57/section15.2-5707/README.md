@@ -1,3 +1,0 @@
-# § 15.2-5707 Recordation of conveyances of real estate to park authorities.
-
-<p>No deed purporting to convey real estate to a park authority shall be recorded unless accepted by a person authorized to act on behalf of the park authority, which acceptance shall appear on the face thereof.</p><p>1983, c. 52, § 15.1-1232.3; 1997, c. 587.</p>

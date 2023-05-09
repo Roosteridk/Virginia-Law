@@ -1,3 +1,0 @@
-# § 49-4 Magistrates and other officers who may administer oaths and take affidavits.
-
-<p>Any oath or affidavit required by law, which is not of such nature that it must be made in court, may be administered by a magistrate, a notary, a commissioner in chancery, a commissioner appointed by the Governor, a judge or clerk or deputy clerk of a court, a commissioner or clerk or deputy clerk of the State Corporation Commission, or clerks of governing bodies of local governments. In case of a survey directed by a court in a cause therein pending, an oath or affidavit may be administered by or before the surveyor directed to execute the order of survey.</p><p>Code 1919, § 274; 1932, p. 339; 1968, c. 639; 1970, c. 783; 1986, c. 255.</p>

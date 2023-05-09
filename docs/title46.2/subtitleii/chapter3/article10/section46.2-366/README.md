@@ -1,3 +1,0 @@
-# § 46.2-366 Partial application to certain motor vehicles.
-
-<p>This chapter, except its provisions as to the requirements of making reports of motor vehicle accidents and as to the filing of proof of financial responsibility by a common carrier for its drivers, shall not apply to any motor vehicle:</p><p>1. Operated under a certificate of convenience and necessity issued by the State Corporation Commission, if public liability and property damage insurance for the protection of the public is required to be carried on it, or</p><p>2. Owned by the Commonwealth.</p><p>Code 1950, § 46-390; 1958, c. 541, § 46.1-392; 1989, cc. 705, 727.</p>

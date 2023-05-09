@@ -1,3 +1,0 @@
-# § 2.2-3321 Virginia Mushroom Festival.
-
-<p>The Annual Front Royal and Warren County Mushroom Festival, in conjunction with the Appalachian Mushroom Growers Association's annual meeting, is designated as the Virginia Mushroom Festival, and shall be designated as the official state mushroom festival within the Commonwealth.</p><p>1987, c. 593, § 2.1-27.5; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,3 +1,0 @@
-# § 8.01-327.1 Definition of "arrest under civil process.".
-
-<p>The terms "arrest under civil process" and "civil arrest" shall be synonymous and shall be the apprehending and detaining of a person pursuant to specific provisions of this title to achieve the following:</p><p>1. A full and proper answer or response to interrogatories under § <a href='http://law.lis.virginia.gov/vacode/8.01-506/'>8.01-506</a>;</p><p>2. His obedience to the orders, judgments, and decrees of any court.</p><p>1977, c. 617; 1984, c. 93.</p>

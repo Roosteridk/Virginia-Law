@@ -1,3 +1,0 @@
-# § 46.2-1046 Traction engines and tractors.
-
-<p>The Commissioner of Highways and local authorities in their respective jurisdictions may, in their discretion, issue special permits authorizing the operation on a highway of traction engines or tractors having movable tracks with transverse corrugations upon the periphery of such movable tracks.</p><p>Code 1950, § 46-301; 1958, c. 541, § 46.1-297; 1989, c. 727; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0585'>585</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0646'>646</a>.</p>

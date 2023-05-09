@@ -1,3 +1,0 @@
-# § 2.2-5405 Local participation.
-
-<p>Each community action agency shall consult neighborhood-based organizations composed of residents of the area it serves or members of the groups to be served to assist the agency in planning, conducting and evaluating components of the community action agency.</p><p>1982, c. 667, § 2.1-593; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

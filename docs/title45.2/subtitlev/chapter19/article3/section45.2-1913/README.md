@@ -1,3 +1,0 @@
-# § 45.2-1913  Clean Energy Advisory Board; purpose.
-
-<p>The Clean Energy Advisory Board is established as an advisory board in the executive branch of state government. The purpose of the Board is to establish a pilot program for disbursing loans or rebates for the installation of solar energy infrastructure in low-income and moderate-income households.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0554'>554</a>, § 45.1-395; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

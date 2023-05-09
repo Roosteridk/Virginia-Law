@@ -1,3 +1,0 @@
-# § 13.1-698 Mandatory indemnification.
-
-<p>Unless limited by its articles of incorporation, a corporation shall indemnify a director who was wholly successful, on the merits or otherwise, in the defense of any proceeding to which the director was a party because the director is or was a director of the corporation against expenses incurred by the director in connection with the proceeding.</p><p>Code 1950, § 13.1-3.1; 1968, c. 570; 1975, c. 500; 1979, c. 99; 1985, c. 522; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0734'>734</a>.</p>

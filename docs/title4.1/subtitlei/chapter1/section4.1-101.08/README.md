@@ -1,3 +1,0 @@
-# § 4.1-101.08 Leases of property.
-
-<p>The Authority shall be exempt from the provisions of § <a href='/vacode/2.2-1149/'>2.2-1149</a> and from any rules, regulations, and guidelines of the Division of Engineering and Buildings in relation to leases of real property into which it enters.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0038'>38</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0730'>730</a>.</p>

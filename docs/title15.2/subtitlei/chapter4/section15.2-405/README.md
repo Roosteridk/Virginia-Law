@@ -1,3 +1,0 @@
-# § 15.2-405 Assignment of activities.
-
-<p>Any activity which is not assigned by this form of county organization and government shall be assigned by the board to the appropriate officer or employee of the county, and the board may reassign, transfer or combine any such activities.</p><p>Code 1950, § 15-368; 1962, c. 623, § 15.1-703; 1997, c. 587.</p>

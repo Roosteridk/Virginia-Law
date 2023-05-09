@@ -1,3 +1,0 @@
-# § 38.2-6107 Grace period requirements.
-
-<p>The contract holder shall be given a 31-day grace period for the payment of any premium falling due after the first premium during which coverage remains in effect. If payment is not received within the 31 days, coverage may be cancelled after the thirty-first day and the contract holder may be held liable for the payment of the premium for the period of time coverage remained in effect during the grace period.</p><p> 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0668'>668</a>.</p>

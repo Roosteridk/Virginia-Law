@@ -1,3 +1,0 @@
-# § 21-112.22 Definitions.
-
-<p>Whenever the words "circuit court" are used in this chapter, they shall also be construed to mean "circuit or corporation court" of a city; whenever the word "county" appears in this chapter, it shall also be construed to mean "city," and whenever the words "governing body of a county" shall appear, they shall also be construed to mean "city council."</p><p>1964, c. 525.</p>

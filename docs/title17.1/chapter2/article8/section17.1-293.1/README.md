@@ -1,3 +1,0 @@
-# § 17.1-293.1 (For contingent expiration date see cc. 524 and 542) Online case information system.
-
-<p>The Executive Secretary shall make available a publicly viewable online case information system of certain nonconfidential information entered into the case management system for criminal cases in the circuit courts participating in the Executive Secretary's case management system and in the general district courts. Such system shall be searchable by defendant name across all participating courts, and search results shall be viewable free of charge.</p><p>2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0127'>127</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0584'>584</a>.</p>

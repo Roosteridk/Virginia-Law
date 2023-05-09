@@ -1,3 +1,0 @@
-# § 64.2-794 Damages in absence of breach.
-
-<p>A. A trustee is accountable to an affected beneficiary for any profit made by the trustee arising from the administration of the trust, even absent a breach of trust.</p><p>B. Absent a breach of trust, a trustee is not liable to a beneficiary for a loss or depreciation in the value of trust property or for not having made a profit.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-550.03; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

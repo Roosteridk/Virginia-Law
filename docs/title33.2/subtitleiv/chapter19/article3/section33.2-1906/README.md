@@ -1,3 +1,0 @@
-# § 33.2-1906 Creation of commission to control corporation.
-
-<p>In and for each transportation district a commission is hereby created to manage and control the functions, affairs, and property of the corporation and to exercise all of the rights, powers, and authority and perform all of the duties conferred or imposed upon the corporation.</p><p>1964, c. 631, § 15.1-1347; 1997, c. 587, § 15.1-4506; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

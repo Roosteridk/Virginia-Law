@@ -1,3 +1,0 @@
-# § 53.1-228.1 Inmate payment for damaged property.
-
-<p>The Director, and each jail superintendent or sheriff who operates a correctional facility, are authorized to establish administrative procedures for recovering, from an inmate, the cost of replacing or repairing any facility-owned or facility-issued property which is proven to have been intentionally damaged or destroyed by the inmate. Such administrative procedures shall ensure that the inmate is afforded due process.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0669'>669</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0759'>759</a>.</p>

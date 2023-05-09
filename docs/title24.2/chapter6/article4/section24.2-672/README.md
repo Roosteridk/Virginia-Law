@@ -1,3 +1,0 @@
-# § 24.2-672 Electoral board to correct irregularities in returns of officers of election.
-
-<p>While ascertaining the results of an election, the electoral board may find that there are irregularities or informalities in the returns of the officers of election which can be cured by amending or correcting the returns. Then the board immediately shall summon, to appear before the board on the date of the summons or the next date thereafter, the officers of elections required to amend the returns so that the same may conform to the law. The summons may be executed by any person authorized by law to serve summonses for witnesses.</p><p>Code 1950, § 24-275; 1970, c. 462, § 24.1-147; 1992, c. 329; 1993, c. 641.</p>

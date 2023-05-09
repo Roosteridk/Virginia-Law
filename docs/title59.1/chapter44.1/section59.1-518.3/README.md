@@ -1,3 +1,0 @@
-# § 59.1-518.3 Disconnect requirement.
-
-<p>A caller shall not use an automatic dialing-announcing device or other device that disseminates a prerecorded or synthesized voice message to the telephone number called unless the device is designed and operated to disconnect, disengage, or terminate within five seconds after the party called terminates the telephone call by any method that is in accordance with normal operating procedures of his telephone receiver.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0699'>699</a>.</p>

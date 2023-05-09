@@ -1,3 +1,0 @@
-# § 59.1-412 Enforcement of chapter.
-
-<p>The provisions of this chapter shall be considered as safety and health standards of the Commonwealth and enforced as to employers pursuant to § <a href='http://law.lis.virginia.gov/vacode/40.1-49.4/'>40.1-49.4</a> by the Commissioner of Labor and Industry.</p><p>In the case of violations of this chapter over which the Commissioner of Labor and Industry does not have enforcement powers pursuant to § <a href='http://law.lis.virginia.gov/vacode/40.1-49.4/'>40.1-49.4</a>, a civil penalty of up to $1,000 may be imposed at the discretion of the general district court for the jurisdiction in which the offense occurred.</p><p>1989, c. 341.</p>

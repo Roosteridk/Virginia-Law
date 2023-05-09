@@ -1,3 +1,0 @@
-# § 3.2-6107 Brand registration as evidence of ownership.
-
-<p>In all suits at law or in equity, or in any criminal proceedings when the title or right of possession is involved, a copy of the certificate of brand registration verified by affidavit of the Commissioner shall be received in evidence by the court as evidence of the registration of such brand in accordance with the requirements of this chapter.</p><p>1974, c. 642, § 3.1-796.31; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

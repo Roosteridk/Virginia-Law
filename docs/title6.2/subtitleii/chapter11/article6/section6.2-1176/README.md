@@ -1,3 +1,0 @@
-# § 6.2-1176 Accounts of fiduciaries.
-
-<p>A savings institution may issue accounts in the name of any administrator, executor, custodian, conservator, guardian, trustee, or other fiduciary for a named beneficiary or beneficiaries. The payment of funds from any such account pursuant to a check or other written order of withdrawal signed by the fiduciary, the delivery of funds in such account to such fiduciary, or a receipt signed by any such fiduciary with regard to the payment of funds from such account, shall be a valid and sufficient release and discharge of the institution for the payment or delivery so made.</p><p>1985, c. 425, § 6.1-194.59; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

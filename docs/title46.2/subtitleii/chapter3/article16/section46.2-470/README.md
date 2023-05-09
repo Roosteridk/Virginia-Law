@@ -1,3 +1,0 @@
-# § 46.2-470 Assignment of risks for nonresidents.
-
-<p>The provisions of this chapter relevant to assignment of risks shall be available to nonresidents who are unable to obtain a policy of motor vehicle liability, physical damage, and medical payments insurance with respect only to motor vehicles registered and used in the Commonwealth.</p><p>Code 1950, § 46-491; 1958, c. 541, § 46.1-502; 1972, c. 842; 1989, c. 727.</p>

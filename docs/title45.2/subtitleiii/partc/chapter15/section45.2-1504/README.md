@@ -1,3 +1,0 @@
-# § 45.2-1504  Respiratory equipment.
-
-<p>The Director shall adopt regulations requiring any miner exposed for short periods to hazards from inhalation of gas, dust, or fumes to wear approved respiratory equipment.</p><p>Code 1950, § 45-86; 1954, c. 191; 1966, c. 594, § 45.1-99; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.308; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

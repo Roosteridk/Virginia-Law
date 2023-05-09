@@ -1,3 +1,0 @@
-# § 44-13 Powers of Adjutant General.
-
-<p>As head of the Department of Military Affairs, the Adjutant General shall have command of all of the militia of the Commonwealth, subject to the orders of the Governor as Commander in Chief, and shall distribute all orders from the Governor pertaining to the military service and shall perform all duties imposed upon him or that Department by this title in the manner prescribed by law.</p><p>1927, p. 106; 1930, p. 951; Michie Code 1942, §§ 585(62), 2673(13); R. P. 1948, § 44-13; 1958, c. 393; 1989, c. 414.</p>

@@ -1,3 +1,0 @@
-# § 2.2-2349 Powers conferred additional and supplemental; liberal construction.
-
-<p>The powers conferred by this article shall be in addition and supplemental to the powers conferred by any other law. This article shall be liberally construed to effect the purposes hereof.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0716'>716</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0709'>709</a>.</p>

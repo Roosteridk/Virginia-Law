@@ -1,3 +1,0 @@
-# § 3.2-1403 Corn Board officers and compensation.
-
-<p>A. The Corn Board shall elect a chairman and such other officers as deemed appropriate.</p><p>B. Members of the Corn Board shall not receive compensation for attendance at meetings of the Corn Board, but shall be reimbursed for actual and necessary expenses incurred in the performance of their duties.</p><p>1980, c. 395, § 3.1-1043; 1985, c. 448; 1987, c. 476; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

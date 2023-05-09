@@ -1,3 +1,0 @@
-# § 3.2-1202 Apple Board membership.
-
-<p>If a vacancy occurs before the expiration of any term of office, the Commissioner shall fill such vacancy within 30 days after the vacancy by a special election held to elect a member for the unexpired term.</p><p>Code 1950, § 3-514; 1958, c. 148; 1964, c. 578; 1966, c. 702, § 3.1-634; 1974, c. 601; 1985, c. 448; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0793'>793</a>, § 3.1-634.1; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0214'>214</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0565'>565</a>.</p>

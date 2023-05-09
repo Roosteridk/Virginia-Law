@@ -1,3 +1,0 @@
-# § 65.2-1204 Subrogation and recoupment.
-
-<p>The Commission shall, upon payment of a claim from the Uninsured Employer's Fund, be subrogated to any right to recover damages which the injured employee or his personal representative or any other person may have against his employer or any other party for such injury or death.</p><p>The Commission shall, on behalf of the Uninsured Employer's Fund, refer any unsatisfied claim against an uninsured employer to the Attorney General for collection.</p><p>1977, c. 345, § 65.1-150; 1991, c. 355.</p>

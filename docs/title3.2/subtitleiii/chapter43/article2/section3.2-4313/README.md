@@ -1,3 +1,0 @@
-# § 3.2-4313 Use of Virginia Quality Label to designate inspected products.
-
-<p>The Commissioner may use an outline of Virginia impressed upon the labels, tags, seals, or containers of any agricultural or food product that has been subject to the continuous official inspection service indicating that the product is of such quality and description as shown on the label, tag, seal, or container. Such outline map when made use of pursuant to the provisions of this article shall be known as the "Virginia Quality Label."</p><p>Code 1950, § 3-271; 1966, c. 702, § 3.1-350; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0317'>317</a>.</p>

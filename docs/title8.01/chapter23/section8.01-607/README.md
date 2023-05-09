@@ -1,3 +1,0 @@
-# § 8.01-607 Appointment and removal.
-
-<p>A. Each circuit court may, from time to time, appoint such commissioners in chancery as may be deemed necessary for the convenient dispatch of the business of such court. Such commissioners shall be removable at pleasure.</p><p>B. Commissioners in chancery may be appointed in cases in circuit court, including uncontested divorce cases, only when:</p><p>1. There is agreement by the parties with the concurrence of the court; or</p><p>2. Upon (i) motion of a party, or (ii) upon motion of the court, sua sponte. The court shall make a finding of good cause shown in each individual case.</p><p>Code 1950, § 8-248; 1977, c. 617; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0885'>885</a>.</p>

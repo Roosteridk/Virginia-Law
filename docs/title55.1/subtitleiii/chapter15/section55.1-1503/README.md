@@ -1,3 +1,0 @@
-# § 55.1-1503 Encumbrance on real property.
-
-<p>A residential ground rent shall constitute a lien against the real estate from the time it is recorded. Any deed of trust or mortgage may provide that a default in payment of ground rent shall constitute a default in such deed of trust or mortgage, that the trustee or beneficiary of the deed of trust or mortgage may satisfy such obligation for rent, and that the money used to satisfy such obligation, along with interest, shall be a part of the debt secured, to be repaid as provided in § <a href='/vacode/55.1-320/'>55.1-320</a> et seq.</p><p>1975, c. 363, § 55-79.04; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

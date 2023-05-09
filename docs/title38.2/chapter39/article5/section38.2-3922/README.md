@@ -1,3 +1,0 @@
-# § 38.2-3922 Reinsurance.
-
-<p>Any mutual assessment life, accident and sickness insurer may reinsure the whole or any part of its risks with any solvent insurer licensed in this Commonwealth or licensed in any other state having standards of solvency, at least equal to those required in this Commonwealth. However, the reinsurance shall be ceded without contingent liability on the part of the reinsured insurer. Any mutual assessment life, accident and sickness insurer having a surplus in excess of $800,000 may accept or assume reinsurance from any licensed insurer.</p><p>1985, c. 400, § 38.1-549.23; 1986, c. 562.</p>

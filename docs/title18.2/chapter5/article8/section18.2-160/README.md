@@ -1,3 +1,0 @@
-# § 18.2-160 Trespassing on railroad trains.
-
-<p>If any person, not being a passenger or employee, shall be found trespassing upon any railroad car or train of any railroad in this Commonwealth, by riding on any car, or any part thereof, on its arrival, stay or departure at or from any station or depot of such railroad, or on the passage of any such car or train over any part of any such railroad, such person shall be guilty of a Class 4 misdemeanor.</p><p>Code 1950, § 18.1-150; 1960, c. 358; 1975, cc. 14, 15.</p>

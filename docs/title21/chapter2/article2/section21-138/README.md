@@ -1,3 +1,0 @@
-# § 21-138 Same; levy of tax.
-
-<p>The governing body shall, if necessary for the payment of the interest on the bonds or to increase the sinking fund provided for hereunder, levy an annual tax upon all the property in the district subject to local taxation to pay such interest and to make payments into the sinking fund.</p><p>1946, p. 183; Michie Suppl. 1946, § 1560z7.</p>

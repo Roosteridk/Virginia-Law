@@ -1,3 +1,0 @@
-# § 36-85.6 Federal Standards and Regulations.
-
-<p>The Federal Standards shall be the sole standard applicable regarding design, construction, or safety of any manufactured home as defined by this law. The Administrator shall accept manufactured home plan approvals from state or private agencies authorized by HUD to conduct plan reviews and approvals. The Administrator shall accept certifications of compliance with the Federal Standards for homes manufactured in other states when such certifications are made according to Federal Regulations.</p><p>1986, c. 37.</p>

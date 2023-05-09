@@ -1,3 +1,0 @@
-# § 46.2-1549 Dealer's, manufacturer's, and distributor's license plates to distinguish between various types of dealers.
-
-<p>The Commissioner shall provide for the issuance of appropriate franchised or independent dealer's license plates. License plates for manufacturers shall bear the appropriate legend.</p><p>1988, c. 865, § 46.1-550.5:7; 1989, c. 727; 1991, c. 712; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0767'>767</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0816'>816</a>; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0304'>304</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0753'>753</a>.</p>

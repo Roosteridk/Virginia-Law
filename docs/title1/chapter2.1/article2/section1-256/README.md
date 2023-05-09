@@ -1,3 +1,0 @@
-# § 1-256 Weights and measurements; metric equivalents.
-
-<p>Words or terms relating to the customary system of weights and measurements include their International System (SI) metric equivalents, but shall not require the posting or publishing of the equivalents along with the customary system of weights and measurements.</p><p>1980, c. 465. § 1-15.2; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

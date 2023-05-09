@@ -1,3 +1,0 @@
-# § 2.2-3312 Day of recognition for bone marrow donor programs.
-
-<p>The eighth day of April of each year shall be designated as a day of recognition for bone marrow donor programs to acknowledge the critical value of these initiatives in facilitating bone marrow transplant therapy and to increase awareness among the citizens of the Commonwealth regarding opportunities to participate in these programs as donors and volunteers.</p><p>1992, c. 605, § 2.1-27.7; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

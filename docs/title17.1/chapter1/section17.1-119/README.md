@@ -1,3 +1,0 @@
-# § 17.1-119 Courts may adjourn for a period not exceeding thirty days.
-
-<p>Any court of record may at any term, whether regular or special, adjourn from time to time for a period not exceeding thirty days until the business before it is dispatched, or until the end of its term. The judge of the court shall, during the period of such adjournment, have the power and authority to hold regular or special terms at any other place as if there had been a final adjournment of such term.</p><p>Code 1919, § 5959, § 17-21; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

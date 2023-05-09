@@ -1,3 +1,0 @@
-# § 51.1-1180 Keeping records and furnishing information required by Board.
-
-<p>Each employer whose employees are covered under the provisions of this chapter shall keep records and furnish information required by the Board.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0701'>701</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0823'>823</a>.</p>

@@ -1,3 +1,0 @@
-# § 33.2-1517 Expenses.
-
-<p>All expenses incurred under this article or in connection with issuance of Notes shall be paid from the proceeds of such Notes or from any available funds as the Board shall determine.</p><p>2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0830'>830</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0868'>868</a>, § 33.1-23.20; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

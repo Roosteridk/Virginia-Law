@@ -1,3 +1,0 @@
-# § 38.2-3818 Officers and members not individually liable for payment.
-
-<p>Officers and members of the supreme, grand or any subordinate body of any company shall not be individually liable for the payment of any disability or death or other benefits provided for in the laws, bylaws and contracts of the company. Benefits shall be payable out of the funds of the company and in the manner provided by its laws and bylaws.</p><p>Code 1950, § 38-487; 1952, c. 317, § 38.1-519; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 45.2-908  Noxious fumes.
-
-<p>Painting or any operation that creates noxious fumes shall be performed only in a well-ventilated atmosphere.</p><p>Code 1950, § 45-85.5; 1954, c. 191; 1966, c. 594, § 45.1-34; 1978, c. 729; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.261; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

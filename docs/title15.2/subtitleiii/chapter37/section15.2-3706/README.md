@@ -1,3 +1,0 @@
-# § 15.2-3706 Annulment of surrendered charter.
-
-<p>Upon the effective date of the annulment, the town charter which is surrendered by the ordinance shall be annulled. The terms and conditions of the contract with the county or counties in which the town is located required by § <a href='http://law.lis.virginia.gov/vacode/15.2-3701/'>15.2-3701</a> shall be a binding and irrevocable contract in favor of the public, compliance with which in all its parts may be enforced, and violation of which may be prevented, by mandamus or injunction from the Supreme Court or from any circuit court at the suit or relation of any citizen or taxpayer.</p><p>1992, c. 453, § 15.1-965.35; 1997, c. 587.</p>

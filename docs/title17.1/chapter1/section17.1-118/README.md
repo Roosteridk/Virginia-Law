@@ -1,3 +1,0 @@
-# § 17.1-118 Display of flags in courtrooms.
-
-<p>There shall be displayed inside each courtroom of a court of record in the cities and counties of the Commonwealth the flag of the United States of America and the flag of the Commonwealth of Virginia. The governing bodies of the respective counties and cities shall make provision for such display and may accept gifts or flags for such purpose.</p><p>1954, c. 132, § 17-19.1; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

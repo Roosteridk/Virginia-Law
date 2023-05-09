@@ -1,3 +1,0 @@
-# § 45.2-773  Travel ways and loading and haulage areas.
-
-<p>The provisions of Article 7 (§ <a href='/vacode/45.2-922/'>45.2-922</a> et seq.) of Chapter 9 shall apply with respect to any travel way, loading area, or haulage area at the surface of an underground coal mine.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.245; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0774'>774</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

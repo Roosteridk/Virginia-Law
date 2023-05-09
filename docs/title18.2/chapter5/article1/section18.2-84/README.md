@@ -1,3 +1,0 @@
-# § 18.2-84 Causing, inciting, etc., commission of act proscribed by § 18.2-83.
-
-<p>Any person fifteen years of age or over, including the parent of any child, who shall cause, encourage, incite, entice or solicit any person, including a child, to commit any act proscribed by the provisions of § <a href='http://law.lis.virginia.gov/vacode/18.2-83/'>18.2-83</a>, shall be guilty of a Class 5 felony.</p><p>Code 1950, § 18.1-78.5; 1960, c. 358; 1975, cc. 14, 15.</p>

@@ -1,3 +1,0 @@
-# § 38.2-3337 Assignment.
-
-<p>With mutual agreement among the insured, the policyholder, and the insurer, any person insured under a group life insurance policy may make an irrevocable assignment of the rights and benefits conferred on him by any provision of the policy or by this article. The assignment may be made to any person other than the insured's employer.</p><p>Code 1950, §§ 38-429, 38-431; 1952, c. 317, § 38.1-424; 1960, c. 273; 1968, c. 282; 1970, c. 145; 1986, c. 562.</p>

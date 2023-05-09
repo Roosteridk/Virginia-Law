@@ -1,3 +1,0 @@
-# § 24.2-526 Primary not to be held when less than two candidates declare.
-
-<p>Whenever within the time prescribed by this article there is only one declaration of candidacy in a political party for the nomination for any office, the person filing the declaration shall be declared the nominee of the party for the office for which he has announced his candidacy and his name shall not be printed on the ballot for the primary. Whenever within the time prescribed by this article there is no declaration of candidacy in a political party for the nomination for any office, the appropriate committee of the party may provide for an alternative method of nominating a candidate.</p><p>Code 1950, § 24-350; 1970, c. 462, § 24.1-175; 1983, c. 483; 1993, c. 641.</p>

@@ -1,3 +1,0 @@
-# § 58.1-4038 Distribution of tax revenue.
-
-<p>A. The Department shall allocate 2.5 percent of the tax revenue collected pursuant to § <a href='/vacode/58.1-4037/'>58.1-4037</a> to the Problem Gambling Treatment and Support Fund established pursuant to § <a href='/vacode/37.2-314.2/'>37.2-314.2</a>.</p><p>B. The Department shall allocate the remaining 97.5 percent of the tax revenue collected pursuant to § <a href='/vacode/58.1-4037/'>58.1-4037</a> to the general fund.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1218'>1218</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1256'>1256</a>.</p>

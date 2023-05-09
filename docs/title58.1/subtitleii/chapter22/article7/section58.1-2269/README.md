@@ -1,3 +1,0 @@
-# § 58.1-2269 False or fraudulent return; civil penalty.
-
-<p>Any person liable for a tax levied under this chapter who files a false or fraudulent return with the intent to evade the tax shall be subject to a civil penalty. The amount of the civil penalty shall be equal to fifty percent of the amount of the tax intended to be evaded by the filing of such return. The civil penalty shall be in addition to the amount of the tax intended to be evaded.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0729'>729</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0758'>758</a>.</p>

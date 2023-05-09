@@ -1,3 +1,0 @@
-# § 60.2-401 Financial literacy courses.
-
-<p>The Commission, either by itself or in collaboration with workforce service partner entities, shall provide information to all claimants and job seekers on courses in financial literacy. Such courses shall be at no cost to claimants and to job seekers and may be offered online or in any other medium the Commission deems appropriate.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0449'>449</a>.</p>

@@ -1,3 +1,0 @@
-# § 36-99.6:3 Regulation of HVAC facilities.
-
-<p>The Board shall promulgate regulations in accordance with the Administrative Process Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-4000/'>2.2-4000</a> et seq.) establishing standards for heating, ventilation, and air conditioning (HVAC) facilities in new, privately owned residential dwellings.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0132'>132</a>.</p>

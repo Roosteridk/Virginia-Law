@@ -1,3 +1,0 @@
-# § 8.2A-302 Title to and possession of goods.
-
-<p>Except as otherwise provided in this title, each provision of this Article applies whether the lessor or a third party has title to the goods, and whether the lessor, the lessee, or a third party has possession of the goods, notwithstanding any statute or rule of law that possession or the absence of possession is fraudulent.</p><p>1991, c. 536.</p>

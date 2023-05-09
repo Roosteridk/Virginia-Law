@@ -1,3 +1,0 @@
-# § 8.9A-603 Agreement on standards concerning rights and duties.
-
-<p>(a) Agreed standards. The parties may determine by agreement the standards measuring the fulfillment of the rights of a debtor or obligor and the duties of a secured party under a rule stated in § <a href='http://law.lis.virginia.gov/vacode/8.9A-602/'>8.9A-602</a> if the standards are not manifestly unreasonable.</p><p>(b) Agreed standards inapplicable to breach of peace. Subsection (a) does not apply to the duty under § <a href='http://law.lis.virginia.gov/vacode/8.9A-609/'>8.9A-609</a> to refrain from breaching the peace.</p><p>1964, c. 219, § 8.9-501; 1973, c. 509; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1007'>1007</a>.</p>

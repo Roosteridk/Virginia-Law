@@ -1,3 +1,0 @@
-# § 8.01-102 Purchasers not required to see to application of purchase money.
-
-<p>No purchaser or renter at a duly authorized sale or renting made by a receiver, personal representative, trustee, or other fiduciary shall be required to see to the application of the purchase money.</p><p>Code 1950, § 8-660; 1977, c. 617.</p>

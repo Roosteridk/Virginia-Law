@@ -1,3 +1,0 @@
-# § 59.1-395 Unlawful conduct of wagering.
-
-<p>Any person not licensed under subdivision 5 of § <a href='http://law.lis.virginia.gov/vacode/59.1-369/'>59.1-369</a> or under Article 2 (§ <a href='http://law.lis.virginia.gov/vacode/59.1-375/'>59.1-375</a> et seq.) of this chapter who conducts pari-mutuel wagering, or horse racing on which wagering is conducted with his knowledge or consent, shall be guilty of a Class 4 felony.</p><p>1988, c. 855; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0682'>682</a>.</p>

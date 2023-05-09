@@ -1,3 +1,0 @@
-# § 3.2-1004 When Commissioner may permit taking of threatened or endangered species.
-
-<p>The Commissioner may issue a permit under certain circumstances for the taking, possessing, buying, selling, transporting, exporting, or shipping of any threatened or endangered species that appear on the state list of threatened or endangered species for scientific, biological, or educational purposes or for propagation to ensure their survival, provided that such action does not violate federal laws or regulations.</p><p>1979, c. 372, §§ 3.1-1022; 1985, c. 326; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

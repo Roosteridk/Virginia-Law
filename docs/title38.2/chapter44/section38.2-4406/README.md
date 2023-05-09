@@ -1,3 +1,0 @@
-# § 38.2-4406 Board of directors of corporation operating plan.
-
-<p>Notwithstanding the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/13.1-675/'>13.1-675</a> and <a href='http://law.lis.virginia.gov/vacode/13.1-855/'>13.1-855</a>, any corporation that operates any plan pursuant to the terms of this chapter shall have a board of directors consisting of no more than fifteen members of whom a majority shall be subscribers to the plan who are not providers of legal services and not employees or officers of any plan. This section does not apply to a plan operated by a group of attorneys except as provided in § <a href='http://law.lis.virginia.gov/vacode/38.2-4403/'>38.2-4403</a>.</p><p>1978, c. 658, § 38.1-796; 1982, c. 387; 1986, c. 562.</p>

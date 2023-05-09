@@ -1,3 +1,0 @@
-# § 64.2-506 When letters of administration and order for obtaining probate in due form are required.
-
-<p>The court or clerk may issue a certificate of qualification to any personal representative for obtaining probate or letters of administration, which shall be given the same effect as the probate or letters made out in due form. The clerk when required by any personal representative, shall make out such probate or letters in due form that shall be signed by the clerk, sealed with the seal of the court, and certified by the judge to be attested in due form.</p><p>Code 1950, § 64-118; 1968, c. 656, § 64.1-122; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

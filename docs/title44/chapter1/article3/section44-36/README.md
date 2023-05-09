@@ -1,3 +1,0 @@
-# § 44-36 Enlistment contract and oath.
-
-<p>Enlisted persons shall not be recognized as members of the National Guard until they shall have signed an enlistment contract and taken and subscribed to the oath of enlistment prescribed by present or subsequently amended National Guard regulations; or such oath of enlistment as shall be prescribed by the Governor of Virginia for members of the Virginia Defense Force.</p><p>1930, p. 955; Michie Code 1942, § 2673(26); 1958, c. 393; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0572'>572</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0586'>586</a>.</p>

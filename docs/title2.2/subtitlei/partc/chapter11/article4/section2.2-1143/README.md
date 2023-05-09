@@ -1,3 +1,0 @@
-# § 2.2-1143 Services for Capitol and other state facilities.
-
-<p>The Division shall contract for water, electricity, gas, sewer service, fuel for heating, and such other services required to serve the facilities within the master site plan of Capitol Square and for such other facilities as the Governor may designate. The cost of the services shall be paid out of funds appropriated for that purpose.</p><p>Code 1950, § 2-70; 1966, c. 677, § 2.1-88; 1972, c. 763; 1974, c. 27; 1977, c. 672, § 2.1-498; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

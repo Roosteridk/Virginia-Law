@@ -1,1 +1,0 @@
-# 13 Proximity of Mining to Gas or Oil Wells or Vertical Ventilation Holes

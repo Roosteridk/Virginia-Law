@@ -1,3 +1,0 @@
-# § 56-231.21 Dissolution and termination of cooperatives.
-
-<p>A stock or nonstock cooperative may be dissolved in the manner prescribed by Article 16 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-742/'>13.1-742</a> et seq.) of Chapter 9 or Article 13 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-902/'>13.1-902</a> et seq.) of Chapter 10 of Title 13.1, respectively.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0874'>874</a>.</p>

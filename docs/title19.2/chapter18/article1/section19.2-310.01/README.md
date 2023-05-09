@@ -1,3 +1,0 @@
-# § 19.2-310.01 Transmission of sentencing documents.
-
-<p>Within thirty days of the receipt of a request from the Department of Corrections for certified copies of sentencing documents for any misdemeanor conviction, the clerk of the court receiving such request shall transmit the requested documents to the Director of the Department. In accordance with the provisions of § <a href='http://law.lis.virginia.gov/vacode/17.1-267/'>17.1-267</a>, the requested documents shall be provided to the Director without the payment of any fee.</p><p>1992, c. 498.</p>

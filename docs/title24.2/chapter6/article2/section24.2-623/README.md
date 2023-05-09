@@ -1,3 +1,0 @@
-# § 24.2-623 Ballot containers to be supplied by governing bodies; construction and custody.
-
-<p>The governing body of each county and city shall provide a ballot container for each precinct. The container shall have a lock and key and an opening of sufficient size to admit a single folded or unfolded ballot and no more. The containers shall be kept by the electoral boards for use in the precincts.</p><p>Code 1950, § 24-241; 1970, c. 462, § 24.1-123; 1993, c. 641; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP1015'>1015</a>; 2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0540'>540</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0576'>576</a>.</p>

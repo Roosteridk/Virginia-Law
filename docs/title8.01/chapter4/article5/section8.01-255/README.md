@@ -1,3 +1,0 @@
-# § 8.01-255 Time for presenting claim against Commonwealth.
-
-<p>Any pecuniary claim authorized to be presented under §§ <a href='http://law.lis.virginia.gov/vacode/2.2-814/'>2.2-814</a> and <a href='http://law.lis.virginia.gov/vacode/2.2-815/'>2.2-815</a> shall be barred unless presented in writing to the comptroller or other authorized person no later than five years after the right to such claim shall arise. If such claim be not thus barred, any action thereon against the Commonwealth must be brought no later than three years after disallowance of such claim in whole or in part.</p><p>Code 1950, § 8-752; 1966, c. 452; 1977, c. 617.</p>

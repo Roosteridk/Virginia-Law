@@ -1,3 +1,0 @@
-# § 8.01-143 When there may be several judgments against defendants.
-
-<p>If the action be against several defendants, and it appear on the trial that any of them occupy distinct parcels in severalty or jointly, and that other defendants possess other parcels in severalty or jointly, the plaintiff may recover several judgments against them, for the parcels so held by one or more of the defendants, separately from others.</p><p>Code 1950, § 8-813; 1977, c. 617.</p>

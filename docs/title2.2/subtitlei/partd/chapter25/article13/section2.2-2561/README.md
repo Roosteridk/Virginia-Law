@@ -1,3 +1,0 @@
-# § 2.2-2561 (Expires July 1, 2024) Compensation; expenses.
-
-<p>Legislative members of the Commission shall receive such compensation as provided in § <a href='/vacode/30-19.12/'>30-19.12</a>. Nonlegislative citizen members shall serve without compensation. All members shall be reimbursed for all reasonable and necessary expenses incurred in the performance of their duties as provided in §§ <a href='/vacode/2.2-2813/'>2.2-2813</a> and <a href='/vacode/2.2-2825/'>2.2-2825</a>. Funding for the costs of compensation and expenses of the members shall be provided by the Office of Data Governance and Analytics.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0314'>314</a>.</p>

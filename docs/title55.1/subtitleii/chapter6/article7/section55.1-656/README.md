@@ -1,3 +1,0 @@
-# § 55.1-656 Fees of filing officers other than clerk of State Corporation Commission.
-
-<p>The fee to be paid to any officer other than the clerk of the State Corporation Commission for filing and indexing each notice of lien or certificate or notice affecting the lien or providing a copy of such notice or certificate of such notice is $5.</p><p>The officer shall bill the district directors of internal revenue or other appropriate federal officials on a monthly basis for fees for documents filed by them.</p><p>1970, c. 76, § 55-142.4; 1988, cc. 113, 388; 1993, c. 43; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0432'>432</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

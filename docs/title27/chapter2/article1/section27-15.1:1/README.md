@@ -1,3 +1,0 @@
-# § 27-15.1:1 Penalty for refusing or neglecting to obey order of chief or other officer in command.
-
-<p>If any person at a fire refuses or neglects to obey any order duly given by the chief or other officer in command, he shall be fined a civil penalty not to exceed $100.</p><p>2015, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0502'>502</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0503'>503</a>.</p>

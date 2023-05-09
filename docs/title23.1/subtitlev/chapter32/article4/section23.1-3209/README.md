@@ -1,3 +1,0 @@
-# § 23.1-3209 Authority to contract debts and obligations payable from revenues.
-
-<p>The Foundation, acting by and through the corporation authorized by § <a href='http://law.lis.virginia.gov/vacode/23.1-3207/'>23.1-3207</a>, may contract debts and obligations to the extent of its anticipated revenues. Such debts and obligations shall be paid only from the revenues of the Foundation.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0786'>786</a>, § 23-290; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

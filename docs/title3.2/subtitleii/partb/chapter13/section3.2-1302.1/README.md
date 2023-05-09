@@ -1,3 +1,0 @@
-# § 3.2-1302.1 Cattle Industry Board officers and meetings.
-
-<p>The Board shall elect a chairman from the membership of the Board and such other officers as deemed appropriate. The Board shall meet once per year and at such other times as called by the chairman. The chairman may call special meetings at any time and shall call a special meeting when requested by four or more members of the Board.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0469'>469</a>.</p>

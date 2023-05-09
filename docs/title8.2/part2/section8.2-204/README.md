@@ -1,3 +1,0 @@
-# § 8.2-204 Formation in general.
-
-<p>(1) A contract for sale of goods may be made in any manner sufficient to show agreement, including conduct by both parties which recognizes the existence of such a contract.</p><p>(2) An agreement sufficient to constitute a contract for sale may be found even though the moment of its making is undetermined.</p><p>(3) Even though one or more terms are left open a contract for sale does not fail for indefiniteness if the parties have intended to make a contract and there is a reasonably certain basis for giving an appropriate remedy.</p><p>1964, c. 219.</p>

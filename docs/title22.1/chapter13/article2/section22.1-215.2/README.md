@@ -1,3 +1,0 @@
-# § 22.1-215.2 Parental notification; literacy and Response to Intervention screening and services; certain assessment results.
-
-<p>Each local school board shall enact a policy to require that timely written notification is provided to the parents of any student who:</p><p>1. Undergoes literacy and Response to Intervention screening and services; or</p><p>2. Does not meet the benchmark on any assessment used to determine at-risk learners in preschool through grade 12, which notification shall include all such assessment scores and subscores and any intervention plan that results from such assessment scores or subscores.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0336'>336</a>.</p>

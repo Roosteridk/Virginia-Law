@@ -1,3 +1,0 @@
-# § 18.2-46 Venue.
-
-<p>Venue for all actions and prosecutions under any of the provisions of this article shall be in the county or city wherein a lynching or other violation of any of the provisions of this article may have occurred, or of the county or city from which the person lynched or assaulted may have been taken as aforesaid.</p><p>Code 1950, § 18.1-35; 1960, c. 358; 1975, cc. 14, 15; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0144'>144</a>.</p>

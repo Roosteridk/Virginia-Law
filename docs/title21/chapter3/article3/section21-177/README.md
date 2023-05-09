@@ -1,3 +1,0 @@
-# § 21-177 Agents and employees of commission.
-
-<p>The commission is authorized, except as otherwise provided in § <a href='http://law.lis.virginia.gov/vacode/21-158/'>21-158</a>, to appoint all agents and employees of the commission, dismiss them, fix their salaries or remuneration, assign their positions and titles, define their respective powers and duties, and require them or any of them to give bond payable to the Commonwealth in such penalty as shall be fixed by the commission conditioned upon the faithful discharge of their duties. Any salary or remuneration payable to any agent or employee in excess of $1,200 per annum shall first be approved by the Governor.</p><p>1938, p. 523; Michie Code 1942, § 1560rr; 1946, p. 530.</p>

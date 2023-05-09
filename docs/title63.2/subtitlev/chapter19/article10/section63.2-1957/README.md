@@ -1,3 +1,0 @@
-# § 63.2-1957 Unidentifiable moneys held in special account.
-
-<p>All moneys collected in fees, costs, attorney fees, interest payments, or other funds received by the Commissioner which are unidentifiable as to the support account against which they should be credited, shall be held in a special fund from which the Commissioner may make disbursement for any costs or expenses incurred in the administration or enforcement of the provisions of this chapter.</p><p>1974, c. 413, § 63.1-269; 1976, c. 357; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

@@ -1,3 +1,0 @@
-# § 38.2-1017 Applicability of Title 13.1.
-
-<p>Except as otherwise provided in this title, Article 12 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-715.1/'>13.1-715.1</a> et seq.) of Chapter 9 of Title 13.1 shall apply to mergers involving a domestic stock insurer and Article 11 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-893.1/'>13.1-893.1</a> et seq.) of Chapter 10 of Title 13.1 shall apply to mergers involving a domestic mutual insurer.</p><p>1952, c. 317, § 38.1-80; 1956, c. 431; 1986, c. 562; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0765'>765</a>.</p>

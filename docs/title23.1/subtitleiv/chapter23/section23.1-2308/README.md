@@ -1,3 +1,0 @@
-# § 23.1-2308 The Medical College of Virginia, Health Sciences Schools of the University.
-
-<p>The colleges, schools, and divisions previously existing as The Medical College of Virginia are designated the Medical College of Virginia, Health Sciences Schools of the University.</p><p>1968, c. 93, § 23-50.7; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>; 2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0314'>314</a>.</p>

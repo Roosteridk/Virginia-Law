@@ -1,3 +1,0 @@
-# § 32.1-162.15:8 (Effective July 1, 2023) Storage, retention, and dissemination of photographic documentation.
-
-<p>Photographic documentation collected by a treatment hospital or approved pediatric health care facility shall be maintained by the treatment hospital or approved pediatric health care facility as part of the patient's forensic medical examination. In the case of an anonymous physical evidence recovery kit, photographic documentation shall be maintained by the treatment hospital or approved pediatric health care facility, but the anonymous physical evidence recovery kit shall be maintained in accordance with § <a href='/vacode/19.2-11.6/'>19.2-11.6</a>.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0725'>725</a>.</p>

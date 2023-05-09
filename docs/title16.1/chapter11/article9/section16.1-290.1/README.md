@@ -1,3 +1,0 @@
-# § 16.1-290.1 Payment for court-ordered counseling, treatment or programs.
-
-<p>The court shall order the participant in any treatment, counseling or other program for the rehabilitation of a minor child or his family to pay as much of the applicable fee for participation as such person is able to pay. A finding of guilt shall not be required for the court so to order payment.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0573'>573</a>.</p>

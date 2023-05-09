@@ -1,3 +1,0 @@
-# § 46.2-655 Reciprocity required.
-
-<p>The privileges extended under this article to nonresident owners of foreign motor vehicles, trailers, and semitrailers operated in the Commonwealth are extended only on condition that the same privileges are granted by the state of the United States or foreign country wherein such nonresident owners are residents to residents of the Commonwealth operating motor vehicles, trailers, or semitrailers in such state of the United States or foreign country.</p><p>Code 1950, § 46-110; 1958, c. 541, § 46.1-131; 1989, c. 727.</p>

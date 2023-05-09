@@ -1,3 +1,0 @@
-# § 60.2-105 Publication and distribution of law, regulations, etc.
-
-<p>The Commission shall cause to be printed for distribution to the public the text of this title, the Commission's regulations and general rules, its annual reports to the Governor, and any other material the Commission deems relevant and suitable. The Commission shall furnish these materials to any person upon request.</p><p>Code 1950, § 60-31; 1968, c. 738, § 60.1-36; 1986, c. 480.</p>

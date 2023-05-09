@@ -1,3 +1,0 @@
-# § 21-338 Duty of viewers to review report and make changes.
-
-<p>At the date set for the hearing any landowner may appear in person or by counsel and file his objection in writing to the final report of the board of viewers, and it shall be the duty of said board of viewers to carefully review the objections filed thereto and to make such changes as it deems necessary to render substantial and equal justice to all the landowners in the district. If there be no objections made, or if any objections made are satisfactorily adjusted, the board of viewers shall certify such fact to the court.</p><p>Code 1919, § 1756; 1926, p. 613; 1954, c. 642.</p>

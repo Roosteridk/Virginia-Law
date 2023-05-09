@@ -1,3 +1,0 @@
-# § 15.2-5507 Application for and acceptance of gifts and grants by local tourism advisory committees.
-
-<p>The local tourism advisory committees are authorized to apply for, accept and expend gifts, grants or donations from public or private sources to enable them to carry out their objectives.</p><p>1993, c. 663, § 15.1-1399.24; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0587'>587</a>.</p>

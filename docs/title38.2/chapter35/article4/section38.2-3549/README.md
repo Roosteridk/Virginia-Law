@@ -1,3 +1,0 @@
-# § 38.2-3549 Benefits not subject to legal process.
-
-<p>The payments in weekly or monthly installments to the holder of any policy of industrial sick benefit insurance shall not be subject to the lien of any attachment, garnishment proceeding, writ of fieri facias, or to levy or distress in any manner, for any debt due by the holder of the policy.</p><p>Code 1950, § 38-227; 1952, c. 317, § 38.1-488; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 38.2-4133 Unfair methods of competition and unfair and deceptive acts and practices.
-
-<p>Every society authorized to do business in this Commonwealth shall be subject to the provisions of Chapter 5 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-500/'>38.2-500</a> et seq.) of this title. However, nothing in such provisions shall be construed as applying to or affecting the right of any society to determine its eligibility requirements for membership, or be construed as applying to or affecting the offering of benefits exclusively to members or persons eligible for membership in the society by a subsidiary corporation or affiliated organization of the society.</p><p>1968, c. 654, § 38.1-638.60; 1986, c. 562.</p>

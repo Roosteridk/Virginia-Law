@@ -1,3 +1,0 @@
-# § 67-603 (Repealed effective October 1, 2021) Appointment of a director.
-
-<p>The board of the Consortium shall appoint an executive director to serve as the principal administrative officer of the Consortium. The executive director shall report to the board of the Consortium and be under its supervision.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0939'>939</a>; 2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0575'>575</a>.</p>

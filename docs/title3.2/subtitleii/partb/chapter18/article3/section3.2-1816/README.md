@@ -1,3 +1,0 @@
-# § 3.2-1816 Standards required of seed potatoes.
-
-<p>Any seed potatoes sold, offered for sale, advertised, or shipped in the Commonwealth shall conform to the standards of approved seed potatoes.</p><p>Code 1950, § 3-228.4; 1950, p. 1029; 1958, c. 94; 1966, cc. 686, 702, § 3.1-288; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>, § 3.2-4105; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

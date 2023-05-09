@@ -1,3 +1,0 @@
-# § 6.2-918 Rights and powers of receivers generally.
-
-<p>Any receiver appointed under the provisions of this article shall be and become assignee of the assets and property of the bank or trust company of which he has been appointed receiver, with power to prosecute and defend, in the name of the bank or trust company or in his name as such receiver or otherwise, in the Commonwealth or elsewhere, all such suits as may be necessary to wind up the affairs and business of such bank or trust company, and to appoint such agents or attorneys for any such purpose as the court may approve.</p><p>Code 1950, § 6-118; 1966, c. 584, § 6.1-104; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

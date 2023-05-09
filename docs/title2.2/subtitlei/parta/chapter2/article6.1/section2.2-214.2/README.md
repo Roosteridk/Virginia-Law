@@ -1,3 +1,0 @@
-# § 2.2-214.2 Position established; agencies for which responsible.
-
-<p>The position of Secretary of Labor (the Secretary) is created. The Secretary shall be responsible to the Governor for the following agencies: the Department of Labor and Industry, the Department of Professional and Occupational Regulation, and the Virginia Employment Commission. The Governor, by executive order, may assign any state executive agency to the Secretary.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0453'>453</a>.</p>

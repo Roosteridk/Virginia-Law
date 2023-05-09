@@ -1,3 +1,0 @@
-# § 22.1-138.3 Department; school division maintenance reserve tool.
-
-<p>A. The Department, in consultation with the Department of General Services, shall develop or adopt and maintain a data collection tool to assist each school board to determine the relative age of each public school building in the local school division and the amount of maintenance reserve funds that are necessary to restore each such building.</p><p>B. Each school board shall provide to the Department in a timely fashion the local data that is necessary to ensure that the tool maintained pursuant to subsection A remains relevant and useful for the determination of maintenance reserve needs.</p><p>2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0650'>650</a>.</p>

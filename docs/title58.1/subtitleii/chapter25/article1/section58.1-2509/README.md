@@ -1,3 +1,0 @@
-# § 58.1-2509 Certain other provisions not affected by chapter.
-
-<p>Nothing in this chapter shall be construed to affect or apply to the law providing that the expenses of maintaining the division or bureau of the Commission which administers the insurance laws of the Commonwealth shall be paid by the insurance companies doing business therein, and the law providing that the expense of keeping the bonds deposited with the State Treasurer shall be paid by the insurance company depositing such bonds.</p><p>Code 1950, § 58-495; 1952, c. 190; 1984, c. 675.</p>

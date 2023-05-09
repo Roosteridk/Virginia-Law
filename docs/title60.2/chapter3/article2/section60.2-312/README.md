@@ -1,3 +1,0 @@
-# § 60.2-312 Disbursements by State Treasurer upon warrants of Comptroller.
-
-<p>All payments and disbursements from the Unemployment Compensation Administration Fund shall be made by the State Treasurer upon warrants of the Comptroller issued upon vouchers signed by the Commissioner or by such other person as the Commissioner may designate for that purpose.</p><p>Code 1950, § 60-100; 1968, c. 738, § 60.1-117; 1986, c. 480.</p>

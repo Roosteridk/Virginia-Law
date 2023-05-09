@@ -1,3 +1,0 @@
-# § 1-231 When "person" includes business trust and limited liability company.
-
-<p>Whenever the term "person" is defined to include both "corporation" and "partnership," such term shall also include "business trust and limited liability company."</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0621'>621</a>, § 1-13.19:1; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

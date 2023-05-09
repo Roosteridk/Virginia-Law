@@ -1,3 +1,0 @@
-# § 10.1-418.7 Jordan State Scenic River.
-
-<p>The Jordan River in Rappahannock County, from the Route 522 bridge at Flint Hill to its confluence with the Rappahannock River, a distance of approximately seven miles, is hereby designated as the Jordan State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0231'>231</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>.</p>

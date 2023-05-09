@@ -1,3 +1,0 @@
-# § 10.1-704 Use of dredged material for beach nourishment; priority.
-
-<p>The beaches of the Commonwealth shall be given priority consideration as sites for the disposal of that portion of dredged material determined to be suitable for beach nourishment. The Secretary of Natural and Historic Resources shall have the responsibility of determining whether the dredged material is suitable for beach nourishment.</p><p>1987, cc. 220, 231, § 21-11.16:1; 1988, c. 891; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0401'>401</a>.</p>

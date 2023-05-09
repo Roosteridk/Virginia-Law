@@ -1,3 +1,0 @@
-# § 22.1-21 Appointment and qualification.
-
-<p>The Superintendent of Public Instruction shall be appointed by the Governor, after consultation with the Board of Education among others, subject to confirmation by the General Assembly, for a term coincident with that of the Governor making the appointment. Any vacancy shall be filled in the same manner. The Superintendent of Public Instruction shall be an experienced educator.</p><p>Code 1950, § 22-22; 1977, c. 542; 1980, c. 559.</p>

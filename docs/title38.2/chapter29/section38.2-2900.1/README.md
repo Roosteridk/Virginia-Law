@@ -1,3 +1,0 @@
-# § 38.2-2900.1 Market assistance plan.
-
-<p>The Commission may authorize the formation of a voluntary market assistance plan to assist in the individual placement of coverage for any lines, subclassifications, or types of commercial liability insurance. Such plan shall not be an insurer capable of assuming insurance risks.</p><p>1988, cc. 769, 783.</p>

@@ -1,3 +1,0 @@
-# § 15.2-2017 Public utilities not to use streets without consent.
-
-<p>No street railway, gas, water, steam or electric heating, electric light or power, cold storage, compressed air, viaduct, conduit, telephone or bridge company, nor any corporation, association, person, or partnership engaged in these or like enterprises, shall be permitted to use the streets, alleys or public grounds of a city or town, without the previous consent of the corporate authorities of such city or town.</p><p>Code 1950, § 15-774; 1962, c. 623, § 15.1-375; 1997, c. 587.</p>

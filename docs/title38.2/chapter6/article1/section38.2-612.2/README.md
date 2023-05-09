@@ -1,3 +1,0 @@
-# § 38.2-612.2 Protection of the Fair Credit Reporting Act.
-
-<p>Nothing in this article shall be construed to modify, limit, or supersede the operation of the federal Fair Credit Reporting Act (15 U.S.C. § 1681 et seq.), and no inference shall be drawn on the basis of the provisions of this article regarding whether information is transaction or experience information under Section 603 of that Act.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0371'>371</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0264'>264</a>.</p>

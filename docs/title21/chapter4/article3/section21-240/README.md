@@ -1,3 +1,0 @@
-# § 21-240 Meetings.
-
-<p>Regular meetings of the commission shall be held at least once every month at such time and place as the commission shall from time to time prescribe. Special meetings of the commission shall be held upon one day's mailed notice, or actual notice otherwise given, to each member of the commission upon call of the chairman or of any two members of the commission, at such time and at such place within the district as such notice may specify, or at such other time and place with or without notice as all of the members of the commission may expressly approve.</p><p>1946, p. 350; Michie Suppl. 1946, § 1560iii4.</p>

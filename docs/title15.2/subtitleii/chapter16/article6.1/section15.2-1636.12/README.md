@@ -1,3 +1,0 @@
-# § 15.2-1636.12 Increase in salaries in certain cases.
-
-<p>Any officer whose salary in the year ending June 30, 1980, included an increase under deleted provisions of former § 14.1-62 shall receive the same amount of such increase for the terms in which he continues in office.</p><p>Code 1950, § 14-75; 1956, c. 455; 1964, c. 386, § 14.1-62; 1980, c. 588; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

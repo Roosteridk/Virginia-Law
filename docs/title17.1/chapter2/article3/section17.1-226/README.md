@@ -1,3 +1,0 @@
-# § 17.1-226 Remote access to certain agencies from clerk of court.
-
-<p>The governing body of any locality may give the clerk of its circuit court information from local agencies that the clerk may provide to remote access users.</p><p>1985, c. 489, § 17-59.3; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0823'>823</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0833'>833</a>.</p>

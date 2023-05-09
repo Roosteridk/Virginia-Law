@@ -1,3 +1,0 @@
-# § 21-166 How power of eminent domain exercised.
-
-<p>The powers of condemnation or eminent domain conferred on the commission by this chapter shall be exercised by the board or commission under the same conditions and provisions and in accordance with the same procedure as in the case of the exercise of similar powers by the governing bodies of counties and cities or towns so far as they can be applied to the same.</p><p>1938, p. 515; 1942, p. 601; Michie Code 1942, § 1560kk; 1944, p. 74; 1946, p. 530.</p>

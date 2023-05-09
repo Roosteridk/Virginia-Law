@@ -1,3 +1,0 @@
-# § 15.2-4210 Commission to act only in conformity with regional strategic plan.
-
-<p>When the strategic plan becomes effective as the district plan, the planning district commission shall not, except as provided in the plan, establish any policies or take any action which, in its opinion, is not in conformity with the plan.</p><p>1968, c. 224, § 15.1-1407; 1995, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0732'>732</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0796'>796</a>; 1997, c. 587; 1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0668'>668</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0686'>686</a>.</p>

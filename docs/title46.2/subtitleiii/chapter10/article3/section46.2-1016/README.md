@@ -1,3 +1,0 @@
-# § 46.2-1016 Lights on other vehicles; reflectors.
-
-<p>All vehicles or other mobile equipment not otherwise in this article required to be equipped with specified lights shall carry at least one or more white lights to the front and a red light to the rear visible in clear weather from a distance of not less than 500 feet to the front and rear of such vehicles.</p><p>In lieu of or in addition to the lights, a reflector of a type, size, and color approved by the Superintendent may be permanently affixed to the rear and front of such vehicle.</p><p>Code 1950, §§ 46-269, 46-270; 1952, c. 652; 1958, c. 541, § 46.1-264; 1989, c. 727.</p>

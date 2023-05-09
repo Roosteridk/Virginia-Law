@@ -1,3 +1,0 @@
-# § 8.4-504 Privilege of presenting bank to deal with goods; security interest for expenses.
-
-<p>(a) A presenting bank that, following the dishonor of a documentary draft, has seasonably requested instructions but does not receive them within a reasonable time may store, sell, or otherwise deal with the goods in any reasonable manner.</p><p>(b) For its reasonable expenses incurred by action under subsection (a), the presenting bank has a lien upon the goods or their proceeds, which may be foreclosed in the same manner as an unpaid seller's lien.</p><p>1964, c. 219; 1992, c. 693.</p>

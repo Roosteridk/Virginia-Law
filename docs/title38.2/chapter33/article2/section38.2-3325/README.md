@@ -1,3 +1,0 @@
-# § 38.2-3325 Grace period.
-
-<p>Each group life insurance policy shall contain a provision that the policyowner is entitled to a grace period of not less than thirty-one days for the payment of any premium due except the first. The provision shall also state that during the grace period the death benefit coverage shall continue in force, unless the policyowner has given the insurer written notice of discontinuance in accordance with the terms of the policy and in advance of the date of discontinuance. The policy may provide that the policyowner shall be liable to the insurer for the payment of a pro rata premium for the time the policy was in force during the grace period.</p><p>1960, c. 273, § 38.1-424.1; 1986, c. 562.</p>

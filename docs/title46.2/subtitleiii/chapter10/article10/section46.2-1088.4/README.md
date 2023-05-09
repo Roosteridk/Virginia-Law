@@ -1,3 +1,0 @@
-# § 46.2-1088.4 Devices used to supply nitrous oxide to the engines of motor vehicles.
-
-<p>It shall be unlawful for any person to operate any motor vehicle on the highways of the Commonwealth if such vehicle is equipped with any device that supplies the vehicle's engine with nitrous oxide, unless the device has been disabled such that the supply of nitrous oxide is disconnected and not readily accessible to the source of delivery.</p><p>Violation of any provision of this section shall constitute a Class 3 misdemeanor.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0282'>282</a>.</p>

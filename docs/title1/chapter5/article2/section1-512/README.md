@@ -1,3 +1,0 @@
-# § 1-512 Poet laureate.
-
-<p>The honorary position of Poet Laureate of Virginia is hereby created. The Governor may appoint a poet laureate from a list of nominees submitted by the Poetry Society of Virginia. Each poet laureate shall serve a term of two years with no restrictions on reappointment.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0299'>299</a>, § 7.1-43; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

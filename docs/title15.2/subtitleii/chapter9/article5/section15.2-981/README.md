@@ -1,3 +1,0 @@
-# § 15.2-981 Authority to sell dogs trained for police work.
-
-<p>A locality may sell any dog specially trained for police work to the handler who was last in control of such dog, at a price deemed by the locality to be appropriate. Such sale shall not be deemed a violation of the State and Local Government Conflict of Interests Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-3100/'>2.2-3100</a> et seq.).</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0714'>714</a>.</p>

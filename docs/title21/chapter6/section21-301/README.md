@@ -1,3 +1,0 @@
-# § 21-301 Compensation of viewers.
-
-<p>The compensation for the services of the board of viewers, together with their incidental expenses to be fixed as herein provided, shall be paid preliminarily by the county treasurer upon the certificate of the circuit judge; the sum so paid shall be refunded, with interest at the rate of six per centum per annum when the drainage fund is subsequently provided for by the sale of bonds, or otherwise, or out of the bond given by the petitioners in case the district is not subsequently established.</p><p>Code 1919, § 1738; 1920, p. 608; 1924, p. 708; 1926, p. 606.</p>

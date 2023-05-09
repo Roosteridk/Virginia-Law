@@ -1,3 +1,0 @@
-# § 33.2-1104 Application of article; existing contracts.
-
-<p>The provisions of this article shall apply to all contracts executed and proceedings initiated after June 30, 1976, and may be made applicable to existing contracts by mutual consent of the contracting parties.</p><p>1976, c. 230, § 33.1-388; 1982, c. 320; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

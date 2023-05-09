@@ -1,3 +1,0 @@
-# § 19.2-236 Where process of arrest may be executed.
-
-<p>When process of arrest in a criminal prosecution is issued from a court, either against a party accused or a witness, the officer to whom it is directed or delivered may execute it in any part of the Commonwealth.</p><p>Code 1950, § 19.1-182; 1960, c. 366; 1975, c. 495.</p>

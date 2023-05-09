@@ -1,3 +1,0 @@
-# § 15.2-1223 Regulation of horse riding schools.
-
-<p>Any county may by ordinance provide for the licensing, inspection and regulation of horse riding schools for the purpose of preventing any violation of § <a href='http://law.lis.virginia.gov/vacode/3.2-6570/'>3.2-6570</a> or any local ordinance of similar import.</p><p>For the purposes of this section, "horse riding school" means any establishment operated for profit in connection with which one or more horses are let for hire to be ridden or driven, either with or without the furnishing of riding or driving instructions.</p><p>Code 1950, § 15-20.4; 1956, c. 461; 1960, c. 359; 1962, c. 623, § 15.1-519; 1997, c. 587.</p>

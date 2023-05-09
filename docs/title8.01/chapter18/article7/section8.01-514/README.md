@@ -1,3 +1,0 @@
-# § 8.01-514 When garnishment summons returnable.
-
-<p>The summons in garnishment, whether issued by a circuit court or a district court, may be directed to a sheriff of any county or city wherein the judgment debtor resides or where the garnishment defendant resides or where either may be found and shall be made returnable to the court that issued it within 90 days from the writ's issuance, except that, in the case of a wage garnishment, the summons shall be returnable not more than 180 days after such issuance.</p><p>Code 1950, § 8-442; 1976, c. 659; 1977, cc. 454, 617; 1979, c. 36; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0234'>234</a>; 2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0575'>575</a>.</p>

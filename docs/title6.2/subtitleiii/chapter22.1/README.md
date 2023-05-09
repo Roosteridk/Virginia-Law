@@ -1,1 +1,0 @@
-# 22.1 Sales-Based Financing Providers

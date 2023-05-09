@@ -1,3 +1,0 @@
-# § 15.2-2620 Bonds made legal investments.
-
-<p>Bonds issued under this chapter are made securities in which public officers and bodies of the Commonwealth, counties, cities and towns and municipal subdivisions of the Commonwealth, insurance companies and associations, savings banks, savings institutions, savings and loan associations, trust companies, beneficial and benevolent associations, administrators, guardians, executors, trustees and other fiduciaries in the Commonwealth may properly and legally invest funds under their control.</p><p>Code 1950, § 15-666.49; 1958, c. 640; 1962, c. 623, § 15.1-208; 1991, c. 668, § 15.1-227.22; 1997, c. 587.</p>

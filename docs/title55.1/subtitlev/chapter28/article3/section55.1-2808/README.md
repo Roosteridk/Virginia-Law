@@ -1,3 +1,0 @@
-# § 55.1-2808 Property owner may place cattle guards or gates across right-of-way.
-
-<p>Any owner of property on which there is a road or way, not a public road, a highway, a street, or an alley, over which an easement exists for ingress and egress of others may place cattle guards or gates across such way when required for the protection of livestock.</p><p>Code 1950, § 8-873.1; 1954, c. 461; 1977, c. 624, § 55-304; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

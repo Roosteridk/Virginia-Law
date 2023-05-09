@@ -1,3 +1,0 @@
-# § 58.1-1019 Monthly returns and payment of tax.
-
-<p>Every person owning or having in his possession or custody cigarettes, the storage, use or other consumption of which is subject to the tax imposed by this article, shall, on or before the tenth day of the month following, file with the Department a return for the preceding month in such form as may be prescribed by the Department showing the cigarettes purchased by such person, and such other information as the Department may deem necessary for the proper administration of this article. The return shall be accompanied by a remittance of the amount of tax herein imposed.</p><p>Code 1950, § 58-757.20; 1960, c. 392, § 20; 1984, c. 675.</p>

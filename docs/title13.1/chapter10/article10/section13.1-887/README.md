@@ -1,3 +1,0 @@
-# § 13.1-887 Voting on amendments by voting groups.
-
-<p>The articles of incorporation may provide that members of a class are entitled to vote as a separate voting group on specified amendments of the articles of incorporation.</p><p>1985, c. 522.</p>

@@ -1,3 +1,0 @@
-# § 15.2-5119 Power to provide and operate electric energy systems.
-
-<p>Notwithstanding any contrary provision of law in this chapter, an authority operating a water supply impoundment facility may, in connection with such facility, generate, produce, transmit, deliver, exchange, purchase or sell electric power and energy at wholesale and enter into contracts for such purposes.</p><p>1982, c. 469, § 15.1-1250.2; 1997, c. 587.</p>

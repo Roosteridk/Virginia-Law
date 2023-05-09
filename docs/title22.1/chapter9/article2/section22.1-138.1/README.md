@@ -1,3 +1,0 @@
-# § 22.1-138.1 School maintenance program established.
-
-<p>In compliance with the provisions of the appropriation act relating to the maintenance supplement program and with such funds as are appropriated for such purpose, each school board shall establish a program for ongoing school maintenance needs.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0073'>73</a>.</p>

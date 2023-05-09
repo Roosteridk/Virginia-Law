@@ -1,3 +1,0 @@
-# § 58.1-1107 Date as of which intangible personal property must be returned.
-
-<p>Intangible personal property shall be returned for taxation as of January 1 of every year. The status of all persons, firms, corporations and other taxpayers liable to taxation on intangible personal property shall be fixed and the value of all intangible personal property returned for taxation shall be taken as of such date in each year.</p><p>Notwithstanding the other provisions of this section, a taxpayer may at his option make return of the average amount of intangible personal property employed in business on such date and August 1 next preceding.</p><p>Code 1950, § 58-423; 1982, c. 633; 1984, c. 675.</p>

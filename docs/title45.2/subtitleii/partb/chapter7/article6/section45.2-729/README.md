@@ -1,3 +1,0 @@
-# § 45.2-729  Maintenance of mine openings.
-
-<p>Every mine opening that is used for entering and leaving the mine and every other required travel way shall be kept in good condition and shall at all times be maintained in a safe condition.</p><p>Code 1950, § 45-71; 1954, c. 191; 1966, c. 594, § 45.1-94; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.165; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0256'>256</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0003'>3</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

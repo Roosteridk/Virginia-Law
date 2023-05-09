@@ -1,3 +1,0 @@
-# § 58.1-3114 Books and certain forms of returns to be furnished by Department.
-
-<p>The Department of Taxation shall prescribe the form of the personal property book to be used by the commissioner of the revenue and shall furnish each commissioner of the revenue with three copies of blank personal property books prepared in the form so prescribed. The Department of Taxation shall also prepare and forward to the commissioners of the revenue (i) the printed forms of land or other tax books required by law and (ii) the blank forms of returns to be filed by taxpayers.</p><p>Code 1950, §§ 58-858, 58-879; 1981, c. 158; 1984, c. 675.</p>

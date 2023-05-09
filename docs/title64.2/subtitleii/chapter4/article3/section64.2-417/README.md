@@ -1,3 +1,0 @@
-# § 64.2-417 When advancement deemed satisfaction of devise or bequest.
-
-<p>Property that a testator gave during his lifetime to a person shall not be treated as a satisfaction of a devise or bequest to that person, in whole or in part, unless (i) the will provides for deduction of the lifetime gift, (ii) the testator declares in a writing made contemporaneously with the gift that the gift is to be deducted from the devise or bequest or is in satisfaction thereof, or (iii) the devisee or legatee acknowledges in writing that the gift is in satisfaction of the devise or bequest.</p><p>Code 1950, § 64-63; 1968, c. 656, § 64.1-63; 1985, c. 432, § 64.1-63.1; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

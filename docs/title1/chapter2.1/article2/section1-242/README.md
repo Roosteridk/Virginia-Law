@@ -1,3 +1,0 @@
-# § 1-242 Senate Committee on Privileges and Elections.
-
-<p>"Senate Committee on Privileges and Elections," whenever the Committee is referred to as an appointing authority, means the Senate Committee designated under the Rules of the Senate to make Senate appointments to study committees and commissions.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0709'>709</a>, § 1-13.25:1; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

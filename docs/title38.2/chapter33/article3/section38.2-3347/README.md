@@ -1,3 +1,0 @@
-# § 38.2-3347 Nonforfeiture benefits and cash surrender values.
-
-<p>Each industrial life insurance policy shall contain a provision for nonforfeiture benefits in accordance with the requirements of §§ <a href='http://law.lis.virginia.gov/vacode/38.2-3202/'>38.2-3202</a> and <a href='http://law.lis.virginia.gov/vacode/38.2-3208/'>38.2-3208</a>, and a provision for cash surrender values in accordance with the requirements of §§ <a href='http://law.lis.virginia.gov/vacode/38.2-3203/'>38.2-3203</a> and <a href='http://law.lis.virginia.gov/vacode/38.2-3209/'>38.2-3209</a>.</p><p>Code 1950, § 38-434(5), (6); 1952, c. 317, § 38.1-415; 1986, c. 562.</p>

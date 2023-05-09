@@ -1,1 +1,0 @@
-# 7 BEER AND BEVERAGE EXCISE TAX [Repealed]

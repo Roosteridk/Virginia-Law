@@ -1,3 +1,0 @@
-# § 64.2-1619 Principles of law and equity.
-
-<p>Unless displaced by a provision of this chapter, the principles of law and equity supplement this chapter.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0455'>455</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0632'>632</a>, § 26-92; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

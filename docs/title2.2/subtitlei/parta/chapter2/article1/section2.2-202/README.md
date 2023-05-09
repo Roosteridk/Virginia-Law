@@ -1,3 +1,0 @@
-# § 2.2-202 Payment of expenses of office.
-
-<p>The expenses of the offices of the Governor's Secretaries shall be paid from funds provided for the purpose by law; however, in addition, the Governor may supplement such funds from appropriations made to his office for the executive control of the Commonwealth or for discretionary purposes.</p><p>1972, c. 641, § 2.1-51.12; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

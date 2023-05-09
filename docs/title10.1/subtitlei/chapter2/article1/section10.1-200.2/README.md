@@ -1,3 +1,0 @@
-# § 10.1-200.2 Littering in state parks; civil penalty.
-
-<p>No person shall improperly dispose of litter, as defined in § <a href='http://law.lis.virginia.gov/vacode/10.1-1414/'>10.1-1414</a>, within a Virginia state park. In addition to any penalties that may be assessed under § <a href='http://law.lis.virginia.gov/vacode/10.1-104/'>10.1-104</a> or § <a href='http://law.lis.virginia.gov/vacode/33.2-802/'>33.2-802</a>, any person in violation of this section may be assessed a civil penalty not to exceed $250. All civil penalties imposed under this section shall be deposited in the Conservation Resources Fund.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0172'>172</a>.</p>

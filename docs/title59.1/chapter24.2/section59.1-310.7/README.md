@@ -1,3 +1,0 @@
-# § 59.1-310.7 Definitions.
-
-<p>As used in this chapter unless the context requires otherwise:</p><p>"Accredited septic system inspector" means a person who possesses the qualifications required by the provisions of this chapter.</p><p>"Person" means an individual, partnership, corporation, association, or other entity.</p><p>"Septic system" means an onsite method of disposing of sewage when sewers or sewerage facilities are not available and includes septic tanks, septic tank lines and drainage fields or other onsite, residential sewage systems.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0052'>52</a>.</p>

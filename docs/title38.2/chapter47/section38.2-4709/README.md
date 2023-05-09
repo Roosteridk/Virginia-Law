@@ -1,3 +1,0 @@
-# § 38.2-4709 Disposition of license and other fees.
-
-<p>The Commission shall collect and pay directly into the state treasury licensing fees and all other fees. These fees shall be credited to the fund for the maintenance of the Bureau of Insurance.</p><p>1964, c. 147, § 38.1-743; 1981, c. 107; 1986, c. 562.</p>

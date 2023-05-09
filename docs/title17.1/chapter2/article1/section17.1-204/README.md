@@ -1,3 +1,0 @@
-# § 17.1-204 Examination of office and accounts of clerk.
-
-<p>The books and accounts of the clerk of the Supreme Court shall be audited as determined necessary by the Auditor of Public Accounts, who shall make reports of his findings to the Governor and file a copy of such report with the Court within 30 days after the completion of any such audit.</p><p>Code 1919, § 3383, § 17-39; 1934, p. 427; 1938, p. 132; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>; 2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0057'>57</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0307'>307</a>.</p>

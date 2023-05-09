@@ -1,3 +1,0 @@
-# § 2.2-2544 (Expires July 1, 2027) American Revolution 250 Commission; purpose.
-
-<p>The American Revolution 250 Commission (the Commission) is established as an advisory commission within the executive branch of state government.</p><p>The purpose of the Commission is to commemorate the 250th anniversary of the American Revolution, the Revolutionary War, and the independence of the United States.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0914'>914</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0915'>915</a>.</p>

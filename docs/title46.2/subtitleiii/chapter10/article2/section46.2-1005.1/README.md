@@ -1,3 +1,0 @@
-# § 46.2-1005.1 Auxiliary lights on motorcycles.
-
-<p>The Superintendent of State Police shall establish guidelines setting forth a procedure pursuant to § <a href='http://law.lis.virginia.gov/vacode/46.2-1005/'>46.2-1005</a> to allow for the submission and approval of auxiliary lights on motorcycles that are not approved by the Society of Automotive Engineers and shall publish such procedure on the Department of State Police's website by January 1, 2017. The approval of any lights or equipment shall also be published on the Department's website and the Department shall notify official safety inspection stations of such approved equipment.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0701'>701</a>.</p>

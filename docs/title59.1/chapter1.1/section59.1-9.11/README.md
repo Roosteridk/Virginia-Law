@@ -1,3 +1,0 @@
-# § 59.1-9.11 Penalty for flagrant violations.
-
-<p>In any action or proceeding brought under § <a href='http://law.lis.virginia.gov/vacode/59.1-9.15/'>59.1-9.15</a> (a) the court may assess for the benefit of the Commonwealth a civil penalty of not more than $100,000 for each willful or flagrant violation of this chapter. No civil penalty shall be imposed in connection with any violation for which any fine or penalty is imposed pursuant to federal law.</p><p>1974, c. 545.</p>

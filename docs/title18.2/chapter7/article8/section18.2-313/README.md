@@ -1,3 +1,0 @@
-# § 18.2-313 Handling or using snakes so as to endanger human life or health.
-
-<p>It shall be unlawful for any person, or persons, to display, exhibit, handle or use any poisonous or dangerous snake or reptile in such a manner as to endanger the life or health of any person.</p><p>Any person violating the provisions of this section shall be guilty of a Class 4 misdemeanor.</p><p>Code 1950, § 18.1-72; 1960, c. 358; 1975, cc. 14, 15.</p>

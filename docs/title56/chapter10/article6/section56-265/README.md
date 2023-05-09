@@ -1,3 +1,0 @@
-# § 56-265 Certain sections not to limit Commission's powers.
-
-<p>Nothing in § <a href='http://law.lis.virginia.gov/vacode/56-261/'>56-261</a> or §§ <a href='http://law.lis.virginia.gov/vacode/56-262/'>56-262</a> through <a href='http://law.lis.virginia.gov/vacode/56-264/'>56-264</a> shall be construed so as to limit or curtail the existing powers of the Commission to require of all public service corporations in all cases the rendition of adequate service to the public at reasonable rates nor the existing right of municipalities or individuals to apply to the Commission for the enforcement of such duties, the purpose of such sections being to extend and not to limit the powers of the Commission.</p><p>1924, p. 691; 1928, p. 633; Michie Code 1942, § 4073f.</p>

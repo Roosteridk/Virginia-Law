@@ -1,3 +1,0 @@
-# § 46.2-661 Extension of reciprocal privileges.
-
-<p>Notwithstanding the other provisions of this chapter, the Commissioner, with the consent of the Governor, may extend to the owners of foreign vehicles operated in the Commonwealth the same privileges which are granted by the state of the United States or foreign country wherein the owners of the foreign vehicles are residents to residents of this Commonwealth operating vehicles in such state of the United States or foreign country.</p><p>Code 1950, § 46-122; 1958, c. 541, § 46.1-137; 1989, c. 727.</p>

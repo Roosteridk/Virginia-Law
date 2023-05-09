@@ -1,3 +1,0 @@
-# § 30-118 Staff for Panel.
-
-<p>The Panel may hire staff and outside counsel to assist the Panel and to conduct examinations of witnesses, subject to the approval of the President Pro Tempore of the Senate for the Senate Ethics Advisory Panel and subject to the approval of the Speaker of the House of Delegates for the House Ethics Advisory Panel.</p><p>1987, Sp. Sess., c. 1, § 2.1-639.50; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0876'>876</a>; 2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0792'>792</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0804'>804</a>.</p>

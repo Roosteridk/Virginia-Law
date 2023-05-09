@@ -1,3 +1,0 @@
-# § 40.1-73 Commissioner to keep Governor informed of negotiations, etc.
-
-<p>The Commissioner shall keep the Governor fully informed as to the progress of the negotiations between the utility and its employees and shall report as soon as practical whether in his judgment a strike or lockout appears to be probable in any such dispute or, if a strike or lockout begins, whether continuation thereof is probable.</p><p>Code 1950, § 40-95.4; 1952, c. 697; 1970, c. 321.</p>

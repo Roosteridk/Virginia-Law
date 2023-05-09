@@ -1,3 +1,0 @@
-# § 3.2-5708 Certification fee.
-
-<p>Each service technician applying for a certification or renewal of certification shall pay annually a certification fee of $25. All fees collected pursuant to this section shall be deposited in the state treasury and credited to the Weights and Measures Fund established by § <a href='http://law.lis.virginia.gov/vacode/3.2-5628/'>3.2-5628</a>.</p><p>1992, c. 242, § 3.1-969.9; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

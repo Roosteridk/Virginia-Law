@@ -1,3 +1,0 @@
-# § 2.2-2371 Cooperation with other agencies.
-
-<p>All agencies of the Commonwealth shall cooperate with the Authority and, upon request, assist the Authority in the performance of its duties and responsibilities.</p><p>2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0306'>306</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0307'>307</a>.</p>

@@ -1,3 +1,0 @@
-# § 53.1-123 Other accounts, information and records as required by Department.
-
-<p>Sheriffs and jail superintendents shall keep such other accounts and records and furnish to the Department such information and reports as may be required by the Department.</p><p>Code 1950, § 53-171; 1982, c. 636; 1991, c. 383.</p>

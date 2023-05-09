@@ -1,3 +1,0 @@
-# § 22.1-229 Projects may be established directly or by contract with corporation.
-
-<p>Any school board may establish career and technical education projects. A school board may establish any such project either directly with its own facilities and personnel or under contract with a corporation. A project may be conducted on school board property or other public or private property. A school board may acquire sites for projects.</p><p>Code 1950, §§ 22-330.36, 22-330.37, 22-330.38; 1974, c. 336; 1975, c. 139; 1980, c. 559; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0483'>483</a>.</p>

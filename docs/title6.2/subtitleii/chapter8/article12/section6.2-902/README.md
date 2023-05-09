@@ -1,3 +1,0 @@
-# § 6.2-902 Notice of examination.
-
-<p>No prior or advance notice of any examination shall be given any bank or any of its directors, officers, or employees unless the Bureau determines that notice will facilitate and not diminish the effectiveness of an examination.</p><p>Code 1950, § 6-110; 1966, c. 584, § 6.1-88; 1976, c. 658; 1978, c. 14; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

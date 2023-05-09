@@ -1,3 +1,0 @@
-# § 15.2-2108.1 Regulation of open video systems.
-
-<p>A locality may regulate any open video system authorized pursuant to 47 U.S.C. § 573 to the maximum extent permitted by federal law, including without limitation the (i) imposition of a gross revenues fee, if such locality has not adopted a currently effective ordinance pursuant to § <a href='http://law.lis.virginia.gov/vacode/58.1-3818.3/'>58.1-3818.3</a> and (ii) requirement of the provision and support of public, educational and governmental access channels on any such system.</p><p>1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0643'>643</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0652'>652</a>.</p>

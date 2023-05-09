@@ -1,3 +1,0 @@
-# § 3.2-1815 Licenses.
-
-<p>The Commissioner shall revoke the produce dealer or commission merchant license of any handler who fails to report, pay the tax, or perform any other duty required of him pursuant to the provisions of this article.</p><p>1982, c. 126, § 3.1-684.40; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>.</p>

@@ -1,3 +1,0 @@
-# § 53.1-119 Court duties of sheriff.
-
-<p>The sheriff shall provide officers to attend the courts within his jurisdiction while such courts are in session as the respective judges may require. The sheriff, or the superintendent of a regional jail or jail farm, shall receive into the jail facility all persons committed by the order of such courts, or under process issuing therefrom, and all persons committed by any other lawful authority.</p><p>Code 1950, § 53-162; 1982, c. 636; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0112'>112</a>.</p>

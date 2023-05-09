@@ -1,3 +1,0 @@
-# § 8.01-178.3 Waste for tenant to sell or remove manure from leased premises.
-
-<p>If a tenant at will or for years, without a special license to do so, sells or otherwise removes manure made on such leased premises in the ordinary course of husbandry, consisting of (i) ashes leached or unleached; (ii) collections from the stables, barnyard, or cattle pens or other places on the leased premises; or (iii) composts formed by an admixture of any such manure with the soil or other substances, such removal shall be deemed waste for the purposes of the provisions of this article.</p><p>Code 1919, § 5510; Code 1950, § 55-215; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

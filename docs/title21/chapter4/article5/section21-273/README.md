@@ -1,3 +1,0 @@
-# § 21-273 How sold.
-
-<p>Such bonds may be sold at public or private sale for such price or prices as the commission shall determine, provided the interest cost to maturity of the money received from any such bonds simultaneously sold shall not exceed an average of six per centum per annum.</p><p>1946, p. 356; Michie Suppl. 1946, § 1560iii8.</p>

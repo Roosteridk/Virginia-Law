@@ -1,3 +1,0 @@
-# § 2.2-5003 Chapter controlling over inconsistent laws; powers supplemental.
-
-<p>Insofar as the provisions of this chapter are inconsistent with the provisions of any other law, the provisions of this chapter shall be controlling and the powers conferred by this chapter shall be in addition and supplemental to the powers conferred by any other law.</p><p>1970, c. 1, § 2.1-326.3; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,3 +1,0 @@
-# § 54.1-2956.3 Advisory Board of Occupational Therapy; composition; appointment.
-
-<p>The Advisory Board shall be comprised of five members appointed by the Governor for four-year terms. Three members shall be, at the time of appointment, licensed occupational therapists who have practiced for not less than three years, one member shall be a physician licensed to practice medicine in the Commonwealth, and one member shall be appointed by the Governor from the Commonwealth at large. Any vacancy occurring during a member's term shall be filled for the unexpired balance of that term.</p><p>1989, c. 306; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0061'>61</a>.</p>

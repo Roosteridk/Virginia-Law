@@ -1,3 +1,0 @@
-# § 59.1-321 Exemption from registration under other acts.
-
-<p>Any membership camping operator registered with the Commissioner under this chapter shall not be required to register or comply with the terms and requirements of the following:</p><p>1. The Virginia Condominium Act (§ <a href='/vacode/55.1-1900/'>55.1-1900</a> et seq.).</p><p>2. The Virginia Real Estate Time-Share Act (§ <a href='/vacode/55.1-2200/'>55.1-2200</a> et seq.).</p><p>3. The Virginia Securities Act (§ <a href='/vacode/13.1-501/'>13.1-501</a> et seq.).</p><p>1985, c. 409; 1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0372'>372</a>.</p>

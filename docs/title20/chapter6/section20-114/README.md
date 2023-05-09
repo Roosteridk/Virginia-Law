@@ -1,3 +1,0 @@
-# § 20-114 Recognizance for compliance with order or decree.
-
-<p>Upon the entry, or thereafter, of any order or decree for support and maintenance for a spouse or a child or children in a pending or concluded divorce suit, a mensa et thoro or a vinculo matrimonii or suit for separate maintenance, the court in its discretion may require the giving of a recognizance, with or without surety, for compliance therewith, by the party against whom such order or decree is entered.</p><p>1942, p. 639; Michie Code 1942, § 5111a; 1975, c. 644.</p>

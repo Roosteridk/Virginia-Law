@@ -1,3 +1,0 @@
-# § 33.2-2711 Tort liability.
-
-<p>No pecuniary liability of any kind shall be imposed upon the Commonwealth or any locality or landowner therein because of any act, agreement, contract, tort, malfeasance, misfeasance, or nonfeasance by or on the part of a district or its agents, servants, or employees.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0966'>966</a>, § 33.1-459; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

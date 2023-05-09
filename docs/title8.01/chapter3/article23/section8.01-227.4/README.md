@@ -1,3 +1,0 @@
-# § 8.01-227.4 Definitions.
-
-<p>As used in this article:</p><p>"Controlled substance" means a controlled substance as defined in Article 1 (§ <a href='http://law.lis.virginia.gov/vacode/18.2-247/'>18.2-247</a> et seq.) of Chapter 7 of Title 18.2.</p><p>"Health care provider" means a health care provider as defined in § <a href='http://law.lis.virginia.gov/vacode/8.01-581.1/'>8.01-581.1</a>.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0863'>863</a>.</p>

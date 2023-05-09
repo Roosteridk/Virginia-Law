@@ -1,3 +1,0 @@
-# § 10.1-412 Historic Falls of the James State Scenic River.
-
-<p>The Historic Falls of the James in the City of Richmond, from the western 1970 corporate limits of the city to Orleans Street extended, a distance of approximately eight miles, is hereby designated as the Historic Falls of the James State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>1972, c. 404, § 10-176; 1984, cc. 176, 739; 1985, c. 346; 1988, c. 891; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0240'>240</a>; 2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0235'>235</a>.</p>

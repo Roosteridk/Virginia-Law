@@ -1,3 +1,0 @@
-# § 27-46 Payment for hospital and medical services.
-
-<p>In addition to the relief set forth in §§ <a href='http://law.lis.virginia.gov/vacode/27-43/'>27-43</a> through <a href='http://law.lis.virginia.gov/vacode/27-45/'>27-45</a>, all necessary hospital charges and all necessary and proper medical, surgical, laboratory and operating room charges for any volunteer fire fighter arising out of any injury set forth in such sections shall be paid by such county, city or town.</p><p>1928, p. 1003; Michie Code 1942, § 3144f; 1970, c. 187; 1977, c. 326.</p>

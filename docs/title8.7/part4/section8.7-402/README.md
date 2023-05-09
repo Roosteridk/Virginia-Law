@@ -1,3 +1,0 @@
-# § 8.7-402 Duplicate receipt or bill; overissue.
-
-<p>Neither a duplicate nor any other document purporting to cover goods already represented by an outstanding document of the same issuer confers any right in the goods, except as provided in the case of tangible bills in a set of parts, overissue of documents for fungible goods, substitutes for lost, stolen or destroyed documents, or substitute documents issued pursuant to § <a href='http://law.lis.virginia.gov/vacode/8.7-105.1/'>8.7-105.1</a>. The issuer is liable for damages caused by his overissue or failure to identify a duplicate document as such by conspicuous notation.</p><p>Code 1950, § 61-9; 1964, c. 219; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0200'>200</a>.</p>

@@ -1,3 +1,0 @@
-# § 29.1-106 Forest and watershed areas.
-
-<p>The Board is authorized to exercise full control of the hunting and fishing rights and privileges in and on all impounded water areas in this Commonwealth resulting from power development; and in all forest and watershed areas in this Commonwealth which are now owned, or which may hereafter be acquired, by the United States government, subject to the rights and power of the United States Department of Agriculture. The Board shall have the power to establish refuges, sanctuaries and public shooting and fishing preserves in these areas, under such regulations as it may deem proper.</p><p>Code 1950, § 29-12; 1987, c. 488.</p>

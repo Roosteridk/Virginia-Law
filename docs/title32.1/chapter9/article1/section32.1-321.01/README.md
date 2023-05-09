@@ -1,3 +1,0 @@
-# § 32.1-321.01 Exemptions from disclosure.
-
-<p>Records or information provided to the Office of the Attorney General pursuant to this article shall be exempt from disclosure pursuant to § <a href='http://law.lis.virginia.gov/vacode/2.2-3705.5/'>2.2-3705.5</a>.</p><p>2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0110'>110</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0175'>175</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0535'>535</a>.</p>

@@ -1,3 +1,0 @@
-# § 52-30.4 Reporting of state and local law-enforcement agencies required.
-
-<p>All state and local law-enforcement agencies shall collect the data specified in subsections C and D of § <a href='/vacode/52-30.2/'>52-30.2</a>, and any other data as may be specified by the Department of State Police, on forms developed by the Department of State Police and submit such data to the Department of State Police for inclusion in the Community Policing Reporting Database.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1165'>1165</a>; 2020, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?202+ful+CHAP0037'>37</a>.</p>

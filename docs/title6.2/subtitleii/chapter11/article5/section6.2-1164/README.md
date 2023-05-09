@@ -1,3 +1,0 @@
-# § 6.2-1164 Acquisitions of state savings bank or holding companies by out-of-state financial institutions.
-
-<p>A state savings bank, or holding company thereof, may not be acquired by a financial institution, or financial institution holding company, whose principal place of business is outside the Commonwealth, except in accordance with the provisions of this article.</p><p>1991, c. 230, § 6.1-194.132; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

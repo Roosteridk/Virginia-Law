@@ -1,3 +1,0 @@
-# § 8.01-628 Equity of prayer for temporary injunction to be shown by affidavit or otherwise.
-
-<p>No temporary injunction shall be awarded unless the court shall be satisfied of the plaintiff's equity. An application for a temporary injunction may be supported or opposed by an affidavit or verified pleading.</p><p>Code 1950, § 8-620; 1977, c. 617; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0125'>125</a>.</p>

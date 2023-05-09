@@ -1,3 +1,0 @@
-# § 38.2-4022 Certain contracts with undertakers, etc., forbidden.
-
-<p>No burial society shall contract to pay or pay benefits provided under certificates of membership, to any official or designated undertaker or mortician or person engaged in the business of conducting and servicing funerals, so as to deprive the representatives or family of the deceased member from, or in any way control them in, obtaining funeral supplies and services in an open competitive market.</p><p>Code 1950, § 38-155; 1952, c. 317, § 38.1-565; 1986, c. 562.</p>

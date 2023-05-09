@@ -1,3 +1,0 @@
-# § 22.1-163 Authority created; public body corporate and agency of Commonwealth.
-
-<p>The Virginia Public School Authority is created as a public body corporate and an agency and instrumentality of the Commonwealth.</p><p>Code 1950, § 22-29.3; 1962, c. 194; 1980, c. 559; 1998, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0004'>4</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0900'>900</a>.</p>

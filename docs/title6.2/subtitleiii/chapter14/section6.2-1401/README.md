@@ -1,3 +1,0 @@
-# § 6.2-1401 Powers of associations.
-
-<p>Associations shall have all the general powers and be subject to all the restrictions contained in the Virginia Stock Corporation Act (§ <a href='http://law.lis.virginia.gov/vacode/13.1-601/'>13.1-601</a> et seq.), except as herein otherwise provided. An association need not comply with the provisions of subsection A of § <a href='http://law.lis.virginia.gov/vacode/13.1-630/'>13.1-630</a>.</p><p>Code 1950, §§ 6-242, 6-244; 1956, c. 433; 1958, c. 139; 1966, c. 584, § 6.1-227; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

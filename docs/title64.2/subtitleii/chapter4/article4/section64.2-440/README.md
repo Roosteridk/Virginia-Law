@@ -1,3 +1,0 @@
-# § 64.2-440 Source and construction.
-
-<p>Sections <a href='http://law.lis.virginia.gov/vacode/64.2-433/'>64.2-433</a> through <a href='http://law.lis.virginia.gov/vacode/64.2-439/'>64.2-439</a> derive from Annex to Convention of October 26, 1973, Providing a Uniform Law on the Form of an International Will. In interpreting and applying this article, regard shall be had to its international origin and to the need for uniformity in its interpretation.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0443'>443</a>, § 64.1-96.9; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,3 +1,0 @@
-# § 10.1-1151 Necessity for permits.
-
-<p>No person shall hunt or trap in this Commonwealth on any lands which are under the jurisdiction and control of the Department by virtue of purchase, gift, lease or otherwise, and are administered as state forests, without first obtaining, in addition to other licenses and permits required by law, special use permits required by the State Forester pursuant to this article.</p><p>Code 1950, § 10-68; 1986, c. 567; 1988, c. 891.</p>

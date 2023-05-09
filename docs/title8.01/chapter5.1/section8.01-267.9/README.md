@@ -1,3 +1,0 @@
-# § 8.01-267.9 Effect on other law.
-
-<p>The procedures set out in this chapter are in addition to procedures otherwise available by statute, rule or common law and do not limit in any way the availability of such procedures, but shall not apply to any action against a manufacturer or supplier of asbestos or product for industrial use that contains asbestos to which the provisions of § <a href='http://law.lis.virginia.gov/vacode/8.01-374.1/'>8.01-374.1</a> may apply.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0555'>555</a>.</p>

@@ -1,3 +1,0 @@
-# § 18.2-101 Selling, etc., of goods distrained or levied on.
-
-<p>If any person fraudulently sell, pledge, encumber, remove, destroy, receive or secrete any goods, chattels or other personal property of any kind whatsoever that has been distrained or levied upon, with intent to defeat such distress or levy, he shall be deemed guilty of the larceny thereof.</p><p>Code 1950, § 18.1-108; 1960, c. 358; 1975, cc. 14, 15.</p>

@@ -1,3 +1,0 @@
-# § 59.1-396 Fraudulent use of credential.
-
-<p>Any person other than the lawful holder thereof who has in his possession any credential, license or permit issued by the Commission, or a forged or simulated credential, license or permit of the Commission, and who uses such credential, license or permit for the purpose of misrepresentation, fraud or touting is guilty of a Class 4 felony.</p><p>Any credential, license or permit issued by the Commission, if used by the holder thereof for a purpose other than identification and in the performance of legitimate duties on a racetrack or within a satellite facility, shall be automatically revoked whether so used on or off a racetrack or satellite facility.</p><p>1988, c. 855; 1992, c. 820.</p>

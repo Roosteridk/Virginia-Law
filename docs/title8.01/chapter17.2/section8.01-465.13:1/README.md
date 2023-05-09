@@ -1,3 +1,0 @@
-# § 8.01-465.13:1 Definitions.
-
-<p>As used in this chapter:</p><p>"Foreign country" means a government other than any of the following: the United States; a state, district, commonwealth, territory, or insular possession of the United States; or a government with regard to which the decision in the Commonwealth as to whether to recognize a judgment of that government's courts is initially subject to determination under the Full Faith and Credit Clause of the United States Constitution.</p><p>"Foreign-country judgment" means a judgment of a court of a foreign country.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0462'>462</a>.</p>

@@ -1,3 +1,0 @@
-# § 46.2-1601.2 Acts of officers, directors, and partners.
-
-<p>If a licensee is a partnership or corporation, it shall be sufficient cause for the denial, suspension, or revocation of a license that any officer, director, or trustee of the partnership or corporation, or any member in the case of a partnership, has committed any act or omitted any duty which would be cause for refusing, suspending, or revoking a license issued to him as an individual under this chapter.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0058'>58</a>.</p>

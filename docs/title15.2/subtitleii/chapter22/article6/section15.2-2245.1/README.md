@@ -1,3 +1,0 @@
-# § 15.2-2245.1 Stormwater management ponds; removal of trees.
-
-<p>A locality shall not require, but may permit, the removal of trees to create stormwater management ponds or facilities if the minimum adequate outfall requirements and the requirements of the Chesapeake Bay Preservation Act (§ <a href='http://law.lis.virginia.gov/vacode/62.1-44.15:67/'>62.1-44.15:67</a> et seq.) can otherwise be met.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0221'>221</a>.</p>

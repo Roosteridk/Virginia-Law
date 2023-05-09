@@ -1,3 +1,0 @@
-# § 15.2-2108.12 Eminent domain.
-
-<p>A. No municipality shall exercise its power of eminent domain to condemn any plant or equipment of a private provider for the purpose of providing to a subscriber a cable television service.</p><p>B. No municipality, for the purpose of providing to a subscriber a cable television service, shall exercise its power of eminent domain to condemn real property, whether in whole or in part, or to obtain an easement.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0677'>677</a>.</p>

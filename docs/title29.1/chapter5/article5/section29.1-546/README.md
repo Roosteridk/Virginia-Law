@@ -1,3 +1,0 @@
-# § 29.1-546 General penalty.
-
-<p>Any person convicted of violating any of the provisions of this title shall, unless otherwise specified, be guilty of a Class 2 misdemeanor and may also be prohibited by the court from hunting, trapping, or fishing in the Commonwealth for a period of one to five years.</p><p>Code 1950, § 29-161; 1954, c. 694; 1962, c. 469; 1979, c. 264; 1987, c. 488; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0311'>311</a>.</p>

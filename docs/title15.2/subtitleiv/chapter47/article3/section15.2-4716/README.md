@@ -1,3 +1,0 @@
-# § 15.2-4716 Validation of districts.
-
-<p>All proceedings held in the creation of any district or districts pursuant to § <a href='/vacode/15.2-4702/'>15.2-4702</a> prior to January 1, 1992, are hereby ratified, validated, and confirmed, and any such districts so created pursuant to Article 1 (§ <a href='/vacode/15.2-4700/'>15.2-4700</a> et seq.) are declared hereby to have been validly created, notwithstanding any defects or irregularities in the creation of any such district or in the selection or appointment of the commission or the advisory board of any such district.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0587'>587</a>.</p>

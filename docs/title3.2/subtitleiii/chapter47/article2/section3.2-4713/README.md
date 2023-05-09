@@ -1,3 +1,0 @@
-# § 3.2-4713 Applications for renewal licenses.
-
-<p>Each licensee shall renew his license. The renewal license shall expire one year from the date of expiration of the old license. The renewal application shall be accompanied by evidence of payment of the renewal premium continuing the bond in full force and effect, and the payment of a fee of $10 on or before the first day of January following the date of expiration of the previous license. All applications for renewal licenses shall be made in the same manner as application for original license.</p><p>Code 1950, § 3-539; 1966, c. 702, § 3.1-697; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

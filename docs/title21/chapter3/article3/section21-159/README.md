@@ -1,3 +1,0 @@
-# § 21-159 Compensation and expenses of commission members.
-
-<p>The members of the commission shall receive no salary, but shall be paid their necessary traveling and other expenses incurred in attendance upon meetings of the commission or while otherwise engaged in the discharge of their duties under this chapter, and the sum of $10 per diem for each day or portion thereof in which they are engaged in the performance of such duties, but the total of such per diem compensation so received by any member during any one year shall not exceed $300.</p><p>1938, p. 514; 1942, p. 600; Michie Code 1942, § 1560kk; 1944, p. 73; 1946, p. 528.</p>

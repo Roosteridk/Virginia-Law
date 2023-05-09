@@ -1,3 +1,0 @@
-# § 13.1-1108 Professional law limited liability company may qualify as executor, administrator or in other fiduciary capacity.
-
-<p>A professional limited liability company engaged in the practice of law, as a part of the practice of law, may act as an executor, trustee or administrator of an estate, guardian for an infant, or in any other fiduciary capacity. Any member, manager, employee or agent of a professional limited liability company engaged in the practice of law who is duly licensed as an attorney in the Commonwealth may perform necessary fiduciary responsibilities on behalf of the professional limited liability company.</p><p>1992, c. 574.</p>

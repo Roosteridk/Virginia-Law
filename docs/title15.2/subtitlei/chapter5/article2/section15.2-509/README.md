@@ -1,3 +1,0 @@
-# § 15.2-509 County executive appointed by board.
-
-<p>The board shall appoint a county executive and fix his compensation. He shall devote his full time to the work of the county. He shall be appointed with regard to merit only, and need not be a resident of the county at the time of his appointment. No board member shall, during the time for which he has been elected, be chosen county executive, nor shall such powers be given to a person who at the same time is filling an elective office. The head of one of the departments of county government may, however, also be appointed county executive.</p><p>Code 1950, § 15-278; 1962, c. 623, § 15.1-595; 1997, c. 587.</p>

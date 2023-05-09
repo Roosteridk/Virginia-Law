@@ -1,3 +1,0 @@
-# § 15.2-3500 Application of article.
-
-<p>The provisions of this article shall be applicable only to the consolidation of like units of local government into a consolidated like unit of local government. As used in this article "like unit" means the consolidation of (i) two or more counties into a consolidated county, (ii) two or more cities into a consolidated city or (iii) two or more towns into a consolidated town.</p><p>1997, c. 587.</p>

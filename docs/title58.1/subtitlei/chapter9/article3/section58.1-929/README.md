@@ -1,3 +1,0 @@
-# § 58.1-929 Compensation and expenses of board members and employees.
-
-<p>The compensation and expenses of the members of the board and its employees may be agreed upon by such members and the executor or administrator and if they cannot agree shall be fixed by any court having jurisdiction over probate matters of the state determined by the board to be the domicile of the decedent. The amounts so agreed upon or fixed shall be deemed an administration expense and shall be payable by the executor or administrator.</p><p>Code 1950, § 58-238.35; 1978, c. 838; 1984, c. 675.</p>

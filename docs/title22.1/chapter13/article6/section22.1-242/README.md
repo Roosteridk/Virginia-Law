@@ -1,3 +1,0 @@
-# § 22.1-242 State Board to adopt regulations.
-
-<p>The Board shall adopt regulations governing (i) the purchase of textbooks approved by it for use in the public schools directly from the publishers by school boards and (ii) the distribution of such textbooks for the use by children attending public schools in Virginia.</p><p>Code 1950, § 22-304; 1980, c. 559; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0430'>430</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0615'>615</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0663'>663</a>.</p>

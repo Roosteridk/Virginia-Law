@@ -1,3 +1,0 @@
-# § 30-87 Staff; cooperation and assistance.
-
-<p>The Division of Legislative Services shall provide staff support to JCOTS. All agencies, authorities, and institutions of the Commonwealth shall cooperate and provide assistance to JCOTS upon request.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0847'>847</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0322'>322</a>.</p>

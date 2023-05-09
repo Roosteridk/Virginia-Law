@@ -1,3 +1,0 @@
-# § 15.2-2207 Public notice of juvenile residential care facilities in certain localities.
-
-<p>In any locality without an applicable zoning ordinance, the local governing body may provide by ordinance that any party desiring to establish a public or private detention home, group home or other residential care facility for children in need of services or for delinquent or alleged delinquent youth must first provide public notice and participate in a public hearing in accordance with § <a href='http://law.lis.virginia.gov/vacode/15.2-2204/'>15.2-2204</a>.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0372'>372</a>, § 15.1-503.4; 1997, c. 587.</p>

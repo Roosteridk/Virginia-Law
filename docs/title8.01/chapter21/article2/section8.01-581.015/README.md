@@ -1,3 +1,0 @@
-# § 8.01-581.015 Venue.
-
-<p>Except as provided in subsection B of § <a href='http://law.lis.virginia.gov/vacode/8.01-262.1/'>8.01-262.1</a>, an initial application shall be made to the court of the county or city in which the agreement provides the arbitration hearing shall be held or, if the hearing has been held, in the county or city in which it was held. Otherwise, venue of the application shall be as provided in Chapter 5 (§ <a href='http://law.lis.virginia.gov/vacode/8.01-257/'>8.01-257</a> et seq.) of this title. All subsequent applications shall be made to the court hearing the initial application unless the court otherwise directs.</p><p>1986, c. 614; 1991, c. 489.</p>

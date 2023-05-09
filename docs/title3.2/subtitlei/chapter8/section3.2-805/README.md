@@ -1,3 +1,0 @@
-# § 3.2-805 Authority to stop sale or delivery of noxious weeds.
-
-<p>The Commissioner, in order to prevent the introduction or dissemination of noxious weeds, may stop delivery, stop sale, seize, destroy, treat, or order returned to the point of origin, at the owner's expense, any noxious weed, article, or substance whatsoever, if transported or moved within the Commonwealth, or if existing on any premises, or brought into the Commonwealth from any place outside thereof, if such is found by him to be infested with any noxious weed subject to the provisions of this chapter.</p><p>1970, c. 175, § 3.1-296.17; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

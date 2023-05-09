@@ -1,3 +1,0 @@
-# § 58.1-3117 Disposition of supplemental assessment sheets.
-
-<p>All supplemental assessment sheets prescribed by the Department of Taxation and used for the assessment of taxes and levies during any current tax year, after the regular assessment books have been completed, shall be disposed of in the same manner as are the regular assessment books.</p><p>Code 1950, § 58-883; 1984, c. 675.</p>

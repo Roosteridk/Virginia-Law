@@ -1,3 +1,0 @@
-# § 13.1-986 How funds may be derived.
-
-<p>A corporation created under this chapter may derive funds from the sale of its shares and debentures, from loans from its members on the terms and conditions set forth in this chapter, from any other financial institution or person and from any agency established by the federal government or the Commonwealth of Virginia.</p><p>Code 1950, § 13.1-144.1; 1972, c. 693; 1985, c. 522.</p>

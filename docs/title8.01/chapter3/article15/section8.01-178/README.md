@@ -1,3 +1,0 @@
-# § 8.01-178 When and how defendant, if evicted, may recover from plaintiff amount paid.
-
-<p>If the defendant or his heirs or assigns shall, after the premises are so relinquished to him, be evicted thereof by force of any better title than that of the original plaintiff, the person so evicted may recover from such plaintiff or his representative the amount so paid for the premises, as so much money had and received by such plaintiff in his lifetime for the use of such person, with lawful interest thereon from the time of such payment.</p><p>Code 1950, § 8-856; 1977, c. 617.</p>

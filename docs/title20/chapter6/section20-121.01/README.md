@@ -1,3 +1,0 @@
-# § 20-121.01 Decree of divorce from bonds of matrimony without decree from bed and board.
-
-<p>In any case where willful desertion or cruelty is the ground for divorce and the bill of complaint prays for a divorce from bed and board the court may enter a decree of divorce from the bonds of matrimony without the entry of a decree from bed and board if the statutory period, as set out in § <a href='http://law.lis.virginia.gov/vacode/20-121/'>20-121</a>, has elapsed prior to the entry of said decree and if the court shall be of the opinion that no reconciliation has taken place, or is probable.</p><p>1956, c. 93; 1970, c. 538; 1975, c. 644.</p>

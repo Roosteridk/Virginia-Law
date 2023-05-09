@@ -1,3 +1,0 @@
-# § 58.1-1216 Penalty upon bank for failure to comply with chapter.
-
-<p>Any bank which fails to file a return or pay the state tax required by this chapter or fails to comply with any other provision of this chapter shall be subject to a penalty of five percent of the tax due. If the Commissioner is satisfied that such failure is due to providential or other good cause, such return and payment of tax shall be accepted exclusive of such penalty, but with interest determined in accordance with § <a href='http://law.lis.virginia.gov/vacode/58.1-15/'>58.1-15</a>.</p><p>Code 1950, § 58-485.018; 1980, c. 578; 1984, c. 675.</p>

@@ -1,3 +1,0 @@
-# § 32.1-77 State plans for maternal and child health services and children's specialty services.
-
-<p>A. The Board is authorized to prepare, amend from time to time and submit to the Secretary of the United States Department of Health and Human Services, state plans for maternal and child health services and children's specialty services pursuant to Title V of the United States Social Security Act and any amendments thereto.</p><p>B. The Commissioner is authorized to administer such plans and to receive and expend federal funds for the administration thereof in accordance with applicable federal and state laws and regulations.</p><p>Code 1950, § 32-165; 1979, c. 711; 1987, c. 427.</p>

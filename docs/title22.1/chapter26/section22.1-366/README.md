@@ -1,3 +1,0 @@
-# § 22.1-366 Compensation; expenses.
-
-<p>Members shall receive such compensation for the performance of their duties as provided in § <a href='/vacode/2.2-2813/'>2.2-2813</a>. All members shall be reimbursed for all reasonable and necessary expenses incurred in the performance of their duties as provided in §§ <a href='/vacode/2.2-2813/'>2.2-2813</a> and <a href='/vacode/2.2-2825/'>2.2-2825</a>. Funding for the costs of compensation and expenses of the members shall be provided by the Office of the Secretary of Education.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0291'>291</a>.</p>

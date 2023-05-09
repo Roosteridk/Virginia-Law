@@ -1,3 +1,0 @@
-# § 10.1-1187.2 Virginia Environmental Excellence Program established.
-
-<p>The Department may establish programs to recognize facilities and persons that have demonstrated a commitment to enhanced environmental performance and to encourage innovations in environmental protection.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0705'>705</a>.</p>

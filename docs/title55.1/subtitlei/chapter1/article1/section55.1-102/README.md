@@ -1,3 +1,0 @@
-# § 55.1-102 When gift of personal property invalid.
-
-<p>No gift of any personal property is valid (i) unless conveyed by deed or will or (ii) unless the donee or a person claiming under the donee has and remains in actual possession of such personal property. If the donor and donee reside together at the time of the gift, possession at the place of their residence is not a sufficient possession within the meaning of this section. This section shall not apply to personal paraphernalia used exclusively by the donee.</p><p>Code 1919, § 5142; Code 1950, § 55-3; 1973, c. 401; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

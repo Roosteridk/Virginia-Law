@@ -1,3 +1,0 @@
-# § 58.1-3278 Department to render assistance.
-
-<p>The Department, upon the request of the governing body of any county, city or town, shall render advisory aid and assistance in making any general reassessment of the real estate in such county, city or town.</p><p>Code 1950, § 58-794; 1956, c. 219; 1984, c. 675.</p>

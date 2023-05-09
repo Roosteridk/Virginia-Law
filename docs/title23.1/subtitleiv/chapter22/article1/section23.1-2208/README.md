@@ -1,3 +1,0 @@
-# § 23.1-2208 Provision for interest on certain bonds.
-
-<p>The Comptroller shall place in the state treasury a sum sufficient to pay semiannually six percent annual interest on two sums of $50,000 in consol bonds of the Commonwealth donated by William W. Corcoran, of Washington, D.C., to the University and under the act of January 13, 1877, and the act of April 2, 1879, converted into registered bonds in the name of the board.</p><p>Code 1919, § 827, § 23-68; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

@@ -1,3 +1,0 @@
-# § 19.2-107 Governor may recall warrant or issue alias.
-
-<p>The Governor may recall his warrant of arrest or may issue another warrant whenever he deems it proper.</p><p>Code 1950, § 19.1-71; 1960, c. 366; 1975, c. 495.</p>

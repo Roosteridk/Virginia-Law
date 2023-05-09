@@ -1,3 +1,0 @@
-# § 6.2-1829 Violation of the Virginia Consumer Protection Act.
-
-<p>Any violation of the provisions of this chapter shall constitute a prohibited practice in accordance with § <a href='http://law.lis.virginia.gov/vacode/59.1-200/'>59.1-200</a> and shall be subject to any and all of the enforcement provisions of the Virginia Consumer Protection Act (§ <a href='http://law.lis.virginia.gov/vacode/59.1-196/'>59.1-196</a> et seq.).</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0897'>897</a>, § 6.1-471; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

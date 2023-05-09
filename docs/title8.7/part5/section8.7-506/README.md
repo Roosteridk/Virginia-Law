@@ -1,3 +1,0 @@
-# § 8.7-506 Delivery without endorsement; right to compel endorsement.
-
-<p>The transferee of a negotiable document has a specifically enforceable right to have his transferor supply any necessary endorsement but the transfer becomes a negotiation only as of the time the endorsement is supplied.</p><p>Code 1950, § 61-46; 1964, c. 219; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0200'>200</a>.</p>

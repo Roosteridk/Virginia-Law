@@ -1,3 +1,0 @@
-# § 58.1-2635 Date of payment of taxes.
-
-<p>Every taxpayer assessed a license tax under any of the provisions of this article shall pay such tax into the state treasury by June 1 of each year.</p><p>Code 1950, §§ 58-586, 58-591, 58-613; 1956, c. 69; 1984, c. 675.</p>

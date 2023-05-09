@@ -1,3 +1,0 @@
-# § 38.2-120 Fidelity.
-
-<p>"Fidelity insurance" means:</p><p>1. Indemnifying any person against loss through counterfeit, forgery or alteration of, on, or in any security obligation or other written instrument; or</p><p>2. Indemnifying banks, bankers, brokers, financial or moneyed corporations or associations against loss resulting from any cause, of personal property, including fixtures, equipment, safes and vaults on the insured's premises.</p><p>1952, c. 317, § 38.1-18; 1986, c. 562.</p>

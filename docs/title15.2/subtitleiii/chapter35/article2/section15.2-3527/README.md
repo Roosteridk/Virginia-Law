@@ -1,3 +1,0 @@
-# § 15.2-3527 Assistance of state agencies.
-
-<p>The court may, in its discretion, direct any appropriate state agency, in addition to the Commission on Local Government, to gather and present evidence, including statistical data and exhibits, for the court, to be subject to the usual rules of evidence. The court shall determine the actual expense of preparing such evidence, and shall tax such expense as costs in the case; the costs shall be paid by the clerk into the general fund of the state treasury and credited to the agency furnishing the evidence.</p><p>1979, c. 85, § 15.1-1130.9; 1997, c. 587.</p>

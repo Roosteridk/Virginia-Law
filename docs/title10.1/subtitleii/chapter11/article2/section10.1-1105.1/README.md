@@ -1,3 +1,0 @@
-# § 10.1-1105.1 Century forest program.
-
-<p>The State Forester shall establish and administer a century forest program to honor families in the Commonwealth whose property has been in the same family for 100 years or more and includes at least 20 contiguous acres of managed forest. In order to be eligible for recognition under the program, a property shall (i) have been owned by the same family for at least 100 consecutive years; (ii) be lived on, or actually managed by, a descendant of the original owners; and (iii) have a documented history of timber harvests or forest management activities.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0006'>6</a>.</p>

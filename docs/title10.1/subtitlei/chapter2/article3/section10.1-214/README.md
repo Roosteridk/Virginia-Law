@@ -1,3 +1,0 @@
-# § 10.1-214 Virginia natural area preserves system established.
-
-<p>A state system of natural area preserves is hereby established and shall be called the Virginia Natural Area Preserves System. The system shall consist of natural area preserves dedicated as provided in § <a href='http://law.lis.virginia.gov/vacode/10.1-213/'>10.1-213</a>. Once dedicated, a natural area preserve shall be managed in a manner consistent with continued preservation of the natural heritage resources it supports.</p><p>1989, c. 553.</p>

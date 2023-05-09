@@ -1,3 +1,0 @@
-# § 63.2-1912 Minor noncustodial parents whose child receives TANF; child support obligations.
-
-<p>If a minor noncustodial parent whose child receives TANF is not in compliance with compulsory school attendance laws in Article 1 (§ <a href='http://law.lis.virginia.gov/vacode/22.1-254/'>22.1-254</a> et seq.) of Chapter 14 of Title 22.1, he shall be required to pay child support as if he were an adult, and child support shall be collected.</p><p>1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0450'>450</a>, § 63.1-105.5; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

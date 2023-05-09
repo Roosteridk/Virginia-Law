@@ -1,3 +1,0 @@
-# § 38.2-2505 Risks limited to those specified in this chapter; personal liability for loss.
-
-<p>No mutual assessment property and casualty insurer shall insure against any losses except as specified in this chapter. Any officer or agent who knowingly or willfully violates or who causes the insurer to violate this provision shall be fined in accordance with § <a href='http://law.lis.virginia.gov/vacode/38.2-218/'>38.2-218</a>.</p><p>Code 1950, § 38-541; 1952, c. 317, § 38.1-687; 1986, c. 562.</p>

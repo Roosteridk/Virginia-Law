@@ -1,3 +1,0 @@
-# § 13.1-891 Effect of amendment of articles of incorporation.
-
-<p>An amendment to the articles of incorporation does not affect a cause of action existing in favor of or against the corporation, a proceeding to which the corporation is a party, or the existing rights of persons other than members of the corporation. An amendment changing a corporation's name does not abate a proceeding brought by or against the corporation in its former name.</p><p>Code 1950, § 13.1-239; 1956, c. 428; 1985, c. 522; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0925'>925</a>.</p>

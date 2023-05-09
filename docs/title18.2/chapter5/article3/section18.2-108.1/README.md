@@ -1,3 +1,0 @@
-# § 18.2-108.1 Receipt of stolen firearm.
-
-<p>Notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/18.2-108/'>18.2-108</a>, any person who buys or receives a firearm from another person or aids in concealing a firearm, knowing that the firearm was stolen, shall be guilty of a Class 6 felony and may be proceeded against although the principal offender is not convicted.</p><p>1988, c. 358; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0821'>821</a>.</p>

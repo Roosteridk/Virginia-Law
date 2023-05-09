@@ -1,3 +1,0 @@
-# § 38.2-3407.3:1 Premium payment arrearages; order of crediting payments.
-
-<p>Each (i) insurer proposing to issue individual or group accident and sickness insurance policies providing hospital, medical and surgical or major medical coverage on an expense-incurred basis, (ii) corporation providing individual or group accident and sickness subscription contracts, and (iii) health maintenance organization providing a health care plan for health care services, shall when accepting premium payments in arrears, credit any such payments first to the longest-outstanding arrearage, and then in succession to the most recent arrearage or payment due.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0321'>321</a>.</p>

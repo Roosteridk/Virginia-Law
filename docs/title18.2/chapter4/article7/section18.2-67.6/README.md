@@ -1,3 +1,0 @@
-# § 18.2-67.6 Proof of physical resistance not required.
-
-<p>The Commonwealth need not demonstrate that the complaining witness cried out or physically resisted the accused in order to convict the accused of an offense under this article, but the absence of such resistance may be considered when relevant to show that the act alleged was not against the will of the complaining witness.</p><p>1981, c. 397.</p>

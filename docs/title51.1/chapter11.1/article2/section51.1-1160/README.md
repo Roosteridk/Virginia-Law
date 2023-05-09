@@ -1,3 +1,0 @@
-# § 51.1-1160 Rehabilitation incentive.
-
-<p>Disability benefits payable to a participating employee who fails to cooperate with a rehabilitation program prescribed for the employee shall be decreased by 50 percent of the amounts otherwise payable to such employee.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0701'>701</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0823'>823</a>.</p>

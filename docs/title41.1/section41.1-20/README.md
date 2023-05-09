@@ -1,3 +1,0 @@
-# § 41.1-20 Same; sale extinguishes title and interest of Commonwealth.
-
-<p>All right, title and interest of the Commonwealth, except as shown by an instrument recorded in the clerk's office of the court of the city or county in which deeds are admitted to record in which land is sold under the provisions hereof shall be extinguished by such sale.</p><p>Code 1950, § 41-89; 1952, c. 185; 1970, c. 291.</p>

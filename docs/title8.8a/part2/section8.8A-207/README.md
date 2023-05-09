@@ -1,3 +1,0 @@
-# § 8.8A-207 Rights and duties of issuer with respect to registered owners.
-
-<p>(a) Before due presentment for registration of transfer of a certificated security in registered form or of an instruction requesting registration of transfer of an uncertificated security, the issuer or indenture trustee may treat the registered owner as the person exclusively entitled to vote, receive notifications, and otherwise exercise all the rights and powers of an owner.</p><p>(b) This title does not affect the liability of the registered owner of a security for a call, assessment, or the like.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0216'>216</a>.</p>

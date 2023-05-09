@@ -1,3 +1,0 @@
-# § 44-40.2 Administration of oaths and taking of sworn statements by commissioned officers.
-
-<p>In addition to those powers set forth in § <a href='http://law.lis.virginia.gov/vacode/44-40/'>44-40</a>, commissioned officers in the Virginia National Guard may administer oaths and take sworn statements in connection with any investigation required by law or regulation pertaining to the Virginia National Guard in the performance of their duties.</p><p>1987, c. 32.</p>

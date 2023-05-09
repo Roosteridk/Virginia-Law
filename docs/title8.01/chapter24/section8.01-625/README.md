@@ -1,3 +1,0 @@
-# § 8.01-625 Dissolution of injunctions.
-
-<p>Any court wherein an injunction has been awarded may at any time when such injunction is in force dissolve the same after reasonable notice to the adverse party, or to his attorney of record, in which notice shall be set forth the grounds upon which such dissolution will be asked, unless such grounds be set forth in an answer previously filed in the case by the party giving such notice.</p><p>Code 1950, § 8-615; 1977, c. 617.</p>

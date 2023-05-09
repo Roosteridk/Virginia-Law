@@ -1,3 +1,0 @@
-# § 19.2-324.1 Erroneously admitted evidence; appeal.
-
-<p>In appeals to the Court of Appeals or the Supreme Court, when a challenge to a conviction rests on a claim that the evidence was insufficient because the trial court improperly admitted evidence, the reviewing court shall consider all evidence admitted at trial to determine whether there is sufficient evidence to sustain the conviction. If the reviewing court determines that evidence was erroneously admitted and that such error was not harmless, the case shall be remanded for a new trial if the Commonwealth elects to have a new trial.</p><p>2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0675'>675</a>.</p>

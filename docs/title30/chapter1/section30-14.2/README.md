@@ -1,3 +1,0 @@
-# § 30-14.2 Reenrollment of bills amended in accordance with recommendations of Governor.
-
-<p>The Clerk of the House of Delegates in his capacity as Keeper of the Rolls of the Commonwealth shall reenroll all bills which have been amended in accordance with the recommendation of the Governor, and such reenrolled bills shall be treated in the same manner as provided in Article IV, Section 11 of the Constitution of Virginia for every bill that has passed both houses, before being presented to the Governor for his final action.</p><p>1950, p. 7; 1970, c. 170; 1971, Ex. Sess., c. 1.</p>

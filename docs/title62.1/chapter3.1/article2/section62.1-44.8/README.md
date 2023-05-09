@@ -1,3 +1,0 @@
-# § 62.1-44.8 Number, appointment and terms of members.
-
-<p>The Board shall consist of seven members appointed by the Governor subject to confirmation by the General Assembly. Members shall be appointed for the terms of four years each. Vacancies other than by expiration of a term shall be filled by the Governor by appointment for the unexpired term.</p><p>Code 1950, § 62.1-20; 1968, c. 659; 1970, c. 638; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0276'>276</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0557'>557</a>.</p>

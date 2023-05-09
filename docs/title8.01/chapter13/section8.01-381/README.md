@@ -1,3 +1,0 @@
-# § 8.01-381 What jury may carry out.
-
-<p>No pleadings may be carried from the bar by the jury. Exhibits may, by leave of court, be so carried by the jury. Upon request of any party, the court shall instruct the jury that they may request exhibits for use during deliberations. Exhibits requested by the jury shall be sent to the jury room or may otherwise be made available to the jury.</p><p>Code 1950, § 8-221; 1977, c. 617; 1992, c. 495.</p>

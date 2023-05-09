@@ -1,3 +1,0 @@
-# § 5.1-25.2 Application for permit; notice and hearing.
-
-<p>Any person desiring to erect or cause to be erected any such structure shall make application to the Department for the issuance of a permit for such erection. Such application shall be forwarded immediately to the Board. The Department shall undertake an appropriate review of such application and submit its contents in writing to the Board as expeditiously as possible. The Board, after such notice to the public as it deems necessary, shall hold a public hearing not less than thirty days after the giving of such notice at which all interested parties shall be admitted to attend and state any objection which they may have to the erection of such structure.</p><p>1968, c. 744; 1979, c. 272.</p>

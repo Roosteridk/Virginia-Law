@@ -1,3 +1,0 @@
-# § 46.2-1032 Requirements as to multiple-beam headlights.
-
-<p>Approved multiple-beam headlights shall be aimed in accordance with regulations promulgated by the Superintendent, based on recommendations of the Society of Automotive Engineers. The high beam of any such lights shall be of sufficient intensity to reveal persons and objects at least 350 feet ahead. At least one nonglaring low beam shall be provided and shall be of such intensity as to reveal persons and objects at least 100 feet ahead.</p><p>Code 1950, § 46-277; 1958, c. 541, § 46.1-270; 1989, c. 727.</p>

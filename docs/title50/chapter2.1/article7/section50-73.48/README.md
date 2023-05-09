@@ -1,3 +1,0 @@
-# § 50-73.48 Power of estate of deceased or incapacitated partner.
-
-<p>If a partner who is an individual dies or a court of competent jurisdiction adjudges him to be incapacitated, the partner's executor, administrator, conservator, or other legal representative may exercise all the partner's rights for the purpose of settling his estate or administering his property including any power the partner had to give an assignee the right to become a limited partner. If a partner is a corporation, trust, or other entity and is dissolved or terminated, the powers of that partner may be exercised by its legal representative or successor.</p><p>1985, c. 607; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0801'>801</a>.</p>

@@ -1,3 +1,0 @@
-# § 2.2-2902 Use of tobacco products by state employees.
-
-<p>No employee of or applicant for employment with the Commonwealth shall be required, as a condition of employment, to smoke or use tobacco products on the job, or to abstain from smoking or using tobacco products outside the course of his employment, provided that this section shall not apply to those classes of employees to which § <a href='http://law.lis.virginia.gov/vacode/27-40.1/'>27-40.1</a> or § <a href='http://law.lis.virginia.gov/vacode/51.1-813/'>51.1-813</a> is applicable.</p><p>1989, c. 511, § 15.1-29.18; 1997, c. 587, § 2.1-111.1; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

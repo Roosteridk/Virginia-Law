@@ -1,3 +1,0 @@
-# § 6.2-1314 Penalties for violation of orders of Commission.
-
-<p>The Commission may impose a civil penalty not exceeding $10,000 upon any credit union or against any of its directors, officers, or employees for knowingly or willfully violating any lawful order of the Commission.</p><p>1976, c. 658, § 6.1-223.1; 1990, c. 373, § 6.1-225.9; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

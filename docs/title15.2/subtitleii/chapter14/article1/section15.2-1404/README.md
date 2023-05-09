@@ -1,3 +1,0 @@
-# § 15.2-1404 How localities may sue or be sued; arbitration.
-
-<p>Every locality may sue or be sued in its own name in relation to all matters connected with its duties. The process instituting suit against a locality shall be served as provided in § <a href='http://law.lis.virginia.gov/vacode/8.01-300/'>8.01-300</a>.</p><p>The governing body of any locality may enter into a written agreement to submit any existing controversy to arbitration and may execute a contract which contains a provision to submit to arbitration any controversy thereafter arising.</p><p>Code 1950, § 15-3; 1962, c. 623, § 15.1-508; 1968, c. 422; 1985, c. 416; 1987, c. 483; 1997, c. 587.</p>

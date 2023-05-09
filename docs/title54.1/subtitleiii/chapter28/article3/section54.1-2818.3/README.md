@@ -1,3 +1,0 @@
-# § 54.1-2818.3 Applications for registration required.
-
-<p>Any crematory shall apply for and receive a registration from the Board as a registered crematory. However, this section shall not supersede or restrict the provisions of § <a href='http://law.lis.virginia.gov/vacode/54.1-2814.1/'>54.1-2814.1</a>.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0867'>867</a>; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0505'>505</a>.</p>

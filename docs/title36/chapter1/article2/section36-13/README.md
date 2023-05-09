@@ -1,3 +1,0 @@
-# § 36-13 Selection of chairman and other officers, agents and employees.
-
-<p>The governing body of the city or county shall designate which of the commissioners appointed shall be the first chairman, but when the office of the chairman of the authority thereafter becomes vacant, the authority shall select a chairman from among its commissioners. An authority shall select from among its commissioners a vice-chairman, and it may employ a secretary (who shall be executive director), technical experts and such other officers, agents and employees, permanent and temporary, as it may require, and shall determine their qualifications, duties and compensation.</p><p>1938, p. 450; Michie Code 1942, § 3145(5); 1958, c. 82.</p>

@@ -1,3 +1,0 @@
-# § 64.2-705 Governing law.
-
-<p>The meaning and effect of the terms of a trust are determined by:</p><p>1. The law of the jurisdiction designated in the terms unless the designation of that jurisdiction's law is contrary to a strong public policy of the jurisdiction having the most significant relationship to the matter at issue; or</p><p>2. In the absence of a controlling designation in the terms of the trust, the law of the jurisdiction having the most significant relationship to the matter at issue.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-541.07; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

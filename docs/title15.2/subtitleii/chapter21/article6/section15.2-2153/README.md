@@ -1,3 +1,0 @@
-# § 15.2-2153 Extensions to systems.
-
-<p>No person that has constructed or installed a water system after having complied with the provisions of this article shall extend the service in excess of the number of connections for which approval was originally given. In case any such extension is desired, the person shall proceed in the same manner as in the case of an original application under this article.</p><p>Code 1950, § 15-754.5; 1954, c. 455; 1962, c. 623, § 15.1-345; 1974, c. 246; 1997, c. 587.</p>

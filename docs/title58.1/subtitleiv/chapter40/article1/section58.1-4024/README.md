@@ -1,3 +1,0 @@
-# § 58.1-4024 Employees of the Department.
-
-<p>Employees of the Department shall be exempt from the provisions of the Virginia Personnel Act, Chapter 29 (§ <a href='/vacode/2.2-2900/'>2.2-2900</a> et seq.) of Title 2.2. Personnel actions shall be taken without regard to race, sex, sexual orientation, gender identity, color, national origin, religion, age, handicap, or political affiliation.</p><p>1987, c. 531; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0048'>48</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1137'>1137</a>.</p>

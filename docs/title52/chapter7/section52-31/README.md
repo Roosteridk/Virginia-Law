@@ -1,3 +1,0 @@
-# § 52-31 Missing Children Information Clearinghouse established.
-
-<p>The Superintendent shall establish, organize, equip, staff and maintain within the Department of State Police a Missing Children Information Clearinghouse as a central repository of information regarding missing children. Such information shall be collected, processed, maintained and disseminated by the Clearinghouse as accurately and completely as possible to assist in the location of missing children.</p><p>1985, c. 259.</p>

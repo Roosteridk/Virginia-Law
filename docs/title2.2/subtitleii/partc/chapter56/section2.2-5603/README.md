@@ -1,3 +1,0 @@
-# § 2.2-5603 Cooperation of departments, agencies and officers of Commonwealth.
-
-<p>All departments, agencies and officers of the Commonwealth and its political subdivisions may cooperate with the Southern States Energy Board in the furtherance of any of its activities pursuant to the compact.</p><p>1962, c. 364, § 2-309; 1966, c. 677, § 2.1-339; 1979, c. 295; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

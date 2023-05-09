@@ -1,3 +1,0 @@
-# § 65.2-526 Payment to junior dependents in good faith.
-
-<p>Payment of death benefits by an employer in good faith to a dependent subsequent in right to another or other dependents shall protect and discharge the employer unless and until such dependent or dependents prior in right shall have given him notice of his or their claim. In case the employer is in doubt as to the respective rights of rival claimants, he may apply to the Commission to decide between them.</p><p>Code 1950, § 65-74; 1968, c. 660, § 65.1-77; 1991, c. 355.</p>

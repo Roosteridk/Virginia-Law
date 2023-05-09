@@ -1,3 +1,0 @@
-# § 6.2-2229 Exemptions.
-
-<p>The provisions of this chapter shall not apply to and shall not place any additional requirements or obligations upon any of the following:</p><p>1. A financial institution;</p><p>2. Any person, provider, or broker that enters into no more than five sales-based financing transactions with a recipient in a 12-month period; or</p><p>3. A single sales-based financing transaction in an amount over $500,000.</p><p>2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0516'>516</a>.</p>

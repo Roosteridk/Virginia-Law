@@ -1,3 +1,0 @@
-# § 2.2-4903 Governor's consideration of tax-supported debt.
-
-<p>Prior to the Governor recommending any new tax-supported debt, which is defined as debt for which the debt service payments are expected to be made, in whole or in part, from appropriations of the Commonwealth, the Governor shall consider the maximum amount of debt recommended as prudent for the subject biennium by the Debt Capacity Advisory Committee created pursuant to § <a href='http://law.lis.virginia.gov/vacode/2.2-2712/'>2.2-2712</a>.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0043'>43</a>, § 2.1-304.5; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

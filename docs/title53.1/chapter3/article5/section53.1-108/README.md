@@ -1,3 +1,0 @@
-# § 53.1-108 Expenses and allowance.
-
-<p>Members of the regional jail or jail farm board shall be entitled to necessary expenses incurred in attending meetings of the board. They shall each receive an allowance for each day they are in attendance on the board. Such expenses and allowances shall not exceed in any one year the sum of $1,200 per member and shall be paid by the respective governing bodies.</p><p>Code 1950, § 53-206.3; 1956, c. 681; 1970, c. 648; 1982, c. 636; 1986, c. 191.</p>

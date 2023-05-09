@@ -1,3 +1,0 @@
-# § 30-177 Cooperation of other state agencies.
-
-<p>The Commission may request and shall receive from every department, division, board, bureau, commission, authority or other agency created by the Commonwealth, or to which the Commonwealth is party, or from any political subdivision of the Commonwealth, cooperation and assistance in the performance of its duties.</p><p>1989, c. 189, § 9-296; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

@@ -1,3 +1,0 @@
-# § 65.2-814 Insurer to furnish written evidence of coverage on request.
-
-<p>Upon request of its insured, every insurer against liability arising under this title shall furnish to such insured, within five working days of receipt of said request, a certificate or other writing evidencing the effective coverage afforded such insured. Any insurer violating the provisions of this section shall be punished by a fine of $500.</p><p>1973, c. 254, § 65.1-113.1; 1991, c. 355.</p>

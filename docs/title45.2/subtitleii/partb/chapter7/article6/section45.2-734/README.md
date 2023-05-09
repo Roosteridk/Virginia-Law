@@ -1,3 +1,0 @@
-# § 45.2-734  Unused openings.
-
-<p>Every unused or abandoned surface opening shall be effectively closed or fenced against unauthorized entrance.</p><p>Code 1950, § 45-71.1; 1954, c. 191; 1966, c. 594, § 45.1-95; 1984, c. 228; 1985, c. 395; 1990, c. 372; 1992, c. 360; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.170; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0256'>256</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

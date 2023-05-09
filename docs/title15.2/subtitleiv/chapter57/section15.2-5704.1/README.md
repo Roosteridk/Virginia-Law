@@ -1,3 +1,0 @@
-# § 15.2-5704.1 Northern Virginia Regional Park Authority.
-
-<p>The Northern Virginia Regional Park Authority is authorized to acquire, either by gift or purchase, any real property or interests therein that the Northern Virginia Regional Park Authority considers necessary or desirable to provide public use areas as identified in the Goose Creek Scenic River Report published in 1975.</p><p>2018, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0273'>273</a>.</p>

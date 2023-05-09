@@ -1,3 +1,0 @@
-# § 44-137 City and county aid.
-
-<p>Every city and county in the Commonwealth having an active National Guard or Virginia Defense Force organization or organizations is authorized to render such financial assistance as it may deem wise and patriotic to such organization or organizations, either by donating land or buildings, or donating the use of land or buildings, or by contributing to their equipment and maintenance.</p><p>1932, p. 761; Michie Code 1942, § 2673(119); R. P. 1948, § 44-137; 1976, c. 266; 2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0030'>30</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0547'>547</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0221'>221</a>.</p>

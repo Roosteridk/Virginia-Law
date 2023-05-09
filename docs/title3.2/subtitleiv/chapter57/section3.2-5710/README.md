@@ -1,3 +1,0 @@
-# § 3.2-5710 Certificate of Conformance.
-
-<p>Any service agency engaged in the sale of any weights or measures shall sell only weights or measures that have received a Certificate of Conformance. Any service agency or service technician engaged in the adjustment, installation, placing in service, recommending for use, repair, or servicing of any weight or measure shall do so in a manner so as to ensure the continued validity of the Certificate of Conformance.</p><p>1992, c. 242, § 3.1-969.11; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

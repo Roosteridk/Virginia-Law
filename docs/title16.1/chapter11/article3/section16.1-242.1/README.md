@@ -1,3 +1,0 @@
-# § 16.1-242.1 Retention of jurisdiction; appeals involving children in foster care.
-
-<p>Upon appeal to the circuit court of any case involving a child placed in foster care and in any appeal to the Court of Appeals or Supreme Court of Virginia, the juvenile court shall retain jurisdiction to continue to hear petitions filed pursuant to §§ <a href='http://law.lis.virginia.gov/vacode/16.1-282/'>16.1-282</a> and <a href='http://law.lis.virginia.gov/vacode/16.1-282.1/'>16.1-282.1</a>. Orders of the juvenile court in such cases shall continue to be reviewed and enforced by the juvenile court until the circuit court, Court of Appeals or Supreme Court rules otherwise.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0550'>550</a>.</p>

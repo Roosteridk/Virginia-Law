@@ -1,3 +1,0 @@
-# § 36-102 Modification, amendment or repeal of Code provisions.
-
-<p>The Board may modify, amend or repeal any Code provisions from time to time as the public interest requires, after notice and hearing as provided in § <a href='http://law.lis.virginia.gov/vacode/36-100/'>36-100</a> of this chapter. No such modification or amendment shall be made effective earlier than thirty days from the adoption thereof.</p><p>1972, c. 829; 1977, c. 613.</p>

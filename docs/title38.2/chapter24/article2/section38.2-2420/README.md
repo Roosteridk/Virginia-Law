@@ -1,3 +1,0 @@
-# § 38.2-2420 Bonds executed under power of attorney binding on insurer.
-
-<p>Any bond or obligation executed in the name and on behalf of the insurer as surety under the authority of the power of attorney shall have the same force, effect and validity, and shall be as binding upon the insurer in the name and on behalf of which it is executed as if it were properly executed by the insurer itself through its officers under its common seal. For the purpose of this section, the seal of the insurer or the seal of the attorney-in-fact shall not be required to be affixed to the bond or obligation.</p><p>Code 1950, § 38-338; 1952, c. 317, § 38.1-657; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 17.1-269 To whom fees charged.
-
-<p>Unless otherwise provided, the fees mentioned in this article shall be chargeable to the party at whose instance the service is performed, except that fees for entering and certifying the attendance of witnesses and the proceedings to compel payment for such attendance shall be charged to the party for whom the witness attended.</p><p>Code 1950, § 14-108; 1964, c. 386, § 14.1-97; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

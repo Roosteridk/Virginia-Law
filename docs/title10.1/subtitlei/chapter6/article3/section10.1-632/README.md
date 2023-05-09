@@ -1,3 +1,0 @@
-# § 10.1-632 Powers granted additional to powers of soil and water conservation district; soil and water conservation district to continue to exercise its powers.
-
-<p>The powers herein granted to watershed improvement districts shall be additional to the powers of the soil and water conservation district or districts in which the watershed improvement district is situated; and the soil and water conservation district or districts shall be authorized, notwithstanding the creation of the watershed improvement district, to continue to exercise their powers within the watershed improvement district.</p><p>1956, c. 668, § 21-112.19; 1964, c. 512; 1988, c. 891.</p>

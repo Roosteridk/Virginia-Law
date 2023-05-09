@@ -1,3 +1,0 @@
-# § 1-300 Boundaries.
-
-<p>The territory and boundaries of the Commonwealth shall be and remain the same as they were after the Constitution of Virginia was adopted on June 29, 1776, except for the territory that constitutes West Virginia and its boundaries, and other boundary adjustments as provided in this chapter.</p><p>Code 1950, § 7-1; 1966, c. 102, § 7.1-1; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

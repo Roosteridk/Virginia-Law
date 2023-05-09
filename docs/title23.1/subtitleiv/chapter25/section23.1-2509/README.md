@@ -1,3 +1,0 @@
-# § 23.1-2509 Conferring of degrees.
-
-<p>A. The Governor, the board, the superintendent, and the faculty of the Institute may confer a degree upon any qualified graduate.</p><p>B. As a board of a military institute, the board shall not confer honorary degrees.</p><p>Code 1919, § 848, § 23-110; 1926, p. 718; 1927, p. 201; 1952, c. 272; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1047'>1047</a>.</p>

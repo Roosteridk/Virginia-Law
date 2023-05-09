@@ -1,3 +1,0 @@
-# § 3.2-1706 Commissioner to maintain referenda results.
-
-<p>The Commissioner shall maintain records of the number of eligible persons who voted in any referendum authorized under this chapter.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0497'>497</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0588'>588</a>, § 3.1-22.61; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

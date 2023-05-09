@@ -1,3 +1,0 @@
-# § 58.1-523 Department to aid in collection of sums due claimant agencies through setoff.
-
-<p>Subject to the limitations contained in this article, the Department, upon request, shall render assistance in the collection of any delinquent account or debt owing to any claimant agency. This assistance shall be provided by setting off any refunds belonging to the debtor from the Department by the sum certified by the claimant agency as due and owing.</p><p>Code 1950, § 58-19.10; 1981, c. 408; 1982, c. 621; 1984, c. 675.</p>

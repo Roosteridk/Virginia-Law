@@ -1,3 +1,0 @@
-# § 3.2-4612 Actions to enjoin violations.
-
-<p>The Commissioner may bring an action to enjoin the violation or threatened violation of any provision of this chapter or any regulation adopted hereunder in the circuit court having jurisdiction in the county or city where such violation occurs or is about to occur, notwithstanding the existence of any other remedies of law.</p><p>Code 1950, § 3-724; 1964, c. 214; 1966, c. 702, § 3.1-1005; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

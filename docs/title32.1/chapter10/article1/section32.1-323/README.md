@@ -1,3 +1,0 @@
-# § 32.1-323 Department of Medical Assistance Services.
-
-<p>There is hereby established a Department of Medical Assistance Services, hereinafter referred to in this chapter as the Department. The Department shall be under the direction of the Secretary of Human Resources and a Director of Medical Assistance Services who shall be appointed by the Governor, subject to confirmation by the General Assembly.</p><p>1984, c. 781.</p>

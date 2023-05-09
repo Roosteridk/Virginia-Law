@@ -1,3 +1,0 @@
-# § 46.2-101 Applicability of title to vehicles on certain toll roads and parking facilities.
-
-<p>This title shall apply to any vehicle and any person operating or owning a vehicle operated on any toll facility controlled by the Department of Transportation or any political subdivision of the Commonwealth.</p><p>This title shall also apply to any vehicle and any person operating or owning a vehicle operated on or in parking lots, parking garages, or other parking facilities owned, controlled, or leased by the Commonwealth or any of its agencies, instrumentalities, or political subdivisions.</p><p>1958, c. 541, § 46.1-21; 1989, c. 727.</p>

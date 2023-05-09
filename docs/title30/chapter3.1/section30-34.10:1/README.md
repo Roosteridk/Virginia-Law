@@ -1,3 +1,0 @@
-# § 30-34.10:1 Establishment and maintenance of electronic information system.
-
-<p>The Commission, through the Division of Legislative Automated Systems, shall establish and maintain a legislative electronic information system that includes the status of bills and resolutions active within the legislative process and related information. Electronic access to this information shall be made available to all agencies of the Commonwealth and its political subdivisions, and conditionally available to the public as resources permit.</p><p>1987, c. 214.</p>

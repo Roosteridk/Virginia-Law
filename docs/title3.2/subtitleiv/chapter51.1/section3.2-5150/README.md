@@ -1,3 +1,0 @@
-# § 3.2-5150 (For expiration date, see Editor's notes) Authority to seize covered produce.
-
-<p>If the Commissioner believes any covered produce on a covered farm that is being grown, kept, or exposed for sale or held in possession or under the control of any person to be in violation of any provision of 21 C.F.R. Part 112, this chapter, or regulations of the Board adopted pursuant to § <a href='http://law.lis.virginia.gov/vacode/3.2-5148/'>3.2-5148</a>, the Commissioner is authorized to seize or take possession of such covered produce.</p><p>2017, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0574'>574</a>.</p>

@@ -1,3 +1,0 @@
-# § 17.1-705.2 Days when circuit courts shall be open.
-
-<p>Subject to §§ <a href='http://law.lis.virginia.gov/vacode/2.2-3300/'>2.2-3300</a> and <a href='http://law.lis.virginia.gov/vacode/17.1-207/'>17.1-207</a>, the Judicial Council may determine when the circuit courts of the Commonwealth shall be open for business. Any closing of the circuit courts pursuant to this section shall have the same effect as provided in subsection B of § <a href='http://law.lis.virginia.gov/vacode/1-210/'>1-210</a>.</p><p>2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0237'>237</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0548'>548</a>.</p>

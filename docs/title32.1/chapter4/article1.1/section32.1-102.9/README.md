@@ -1,3 +1,0 @@
-# § 32.1-102.9 Designation of judge.
-
-<p>The judge of the court to which any appeal is taken as provided in § <a href='http://law.lis.virginia.gov/vacode/32.1-102.6/'>32.1-102.6</a> and the judge of the court referred to in § <a href='http://law.lis.virginia.gov/vacode/32.1-102.8/'>32.1-102.8</a> shall be designated by the Chief Justice of the Supreme Court from a circuit other than the circuit where the project is or will be under construction, located or undertaken.</p><p>1982, c. 388; 1984, c. 740.</p>

@@ -1,3 +1,0 @@
-# § 58.1-3935 Treasurers not liable for taxes returned delinquent and not afterwards received by them.
-
-<p>Nothing in any of the foregoing sections shall be construed as holding a county or city treasurer personally liable for any delinquent taxes which have been returned delinquent within the time and in the manner prescribed by law and which have not been paid to or through such treasurer up to the time that any settlement is made by such treasurer.</p><p>Code 1950, § 58-999; 1984, c. 675.</p>

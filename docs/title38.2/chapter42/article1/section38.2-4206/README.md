@@ -1,3 +1,0 @@
-# § 38.2-4206 Nonstock corporation required.
-
-<p>Each plan shall be conducted either by or through (i) a nonstock corporation organized pursuant to the laws of this Commonwealth or (ii) a foreign nonstock corporation that is subject to regulation and licensing under the laws of its domiciliary jurisdiction that are substantially similar to those provided by this chapter.</p><p>This section shall not apply to any foreign nonstock corporation already licensed in this Commonwealth as of July 1, 1980.</p><p>1980, c. 682, § 38.1-813.2; 1986, c. 562.</p>

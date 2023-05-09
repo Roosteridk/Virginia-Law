@@ -1,3 +1,0 @@
-# § 35.1-16 Regulations governing summer camps.
-
-<p>The regulations of the Board governing summer camps shall include, but not be limited to: (i) an approved drinking water supply; (ii) an approved sewage disposal system; (iii) an approved solid waste disposal system; (iv) the adequate and sanitary preparation, handling, protection and preservation of food; (v) the proper maintenance of buildings, grounds, and equipment; (vi) vector and pest control; (vii) toilet, swimming, and bathing facilities, including shower facilities; (viii) a procedure for obtaining a license.</p><p>Code 1950, §§ 35-45, 35-46, 35-47, 35-48, 35-49; 1981, c. 468.</p>

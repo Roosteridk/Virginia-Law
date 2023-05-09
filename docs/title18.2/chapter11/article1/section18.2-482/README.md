@@ -1,3 +1,0 @@
-# § 18.2-482 Misprision of treason.
-
-<p>If any person knowing of such treason shall not, as soon as may be, give information thereof to the Governor, or some conservator of the peace, he shall be guilty of a Class 6 felony.</p><p>Code 1950, § 18.1-419; 1960, c. 358; 1975, cc. 14, 15.</p>

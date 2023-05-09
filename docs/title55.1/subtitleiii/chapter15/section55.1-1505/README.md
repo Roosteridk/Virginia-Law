@@ -1,3 +1,0 @@
-# § 55.1-1505 Incorporation of agreement into deed.
-
-<p>A ground rent agreement made pursuant to the provisions of this chapter may be incorporated into the deed or other instrument of transfer in the following form:</p><p>This deed is subject to annual ground rent or charge as follows:</p><p>1. Date of agreement: ______;</p><p>2. Parties:</p><p>a. Obligor: ______; and</p><p>b. Obligee: ______;</p><p>3. Ground rent and any future adjustments to it: ______;</p><p>4. When payable: ______;</p><p>5. Duration: ______;</p><p>6. Original value of land: ______; and</p><p>7. Redemption price, if agreed on: ______.</p><p>1975, c. 363, § 55-79.06; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

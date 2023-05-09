@@ -1,3 +1,0 @@
-# § 29.1-204 Assisting the Director; supervision.
-
-<p>The conservation police officers shall assist the Director in discharging his official duties. Each regular and special conservation police officer shall be under the supervision of certain conservation police officers specified by the Director.</p><p>Code 1950, § 29-31; 1987, c. 488; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0087'>87</a>.</p>

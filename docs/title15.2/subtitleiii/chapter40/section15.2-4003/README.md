@@ -1,3 +1,0 @@
-# § 15.2-4003 Investigation by special court; public hearing.
-
-<p>A special court appointed pursuant to this chapter shall investigate all matters contained in the report certified to the court under § <a href='http://law.lis.virginia.gov/vacode/15.2-4002/'>15.2-4002</a>, and any other matters it deems pertinent to the purpose of the inquiry. The court shall fix a time and place for a public hearing on such report.</p><p>1971, Ex. Sess., c. 140, § 15.1-965.6; 1997, c. 587.</p>

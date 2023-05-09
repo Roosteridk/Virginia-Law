@@ -1,3 +1,0 @@
-# § 18.2-458 Power of judge of district court to punish for contempt.
-
-<p>A judge of a district court shall have the same power and jurisdiction as a judge of a circuit court to punish summarily for contempt, but in no case shall the fine exceed $250, or the imprisonment exceed ten days, for the same contempt.</p><p>Code 1950, § 18.1-293; 1960, c. 358; 1975, cc. 14, 15; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0626'>626</a>.</p>

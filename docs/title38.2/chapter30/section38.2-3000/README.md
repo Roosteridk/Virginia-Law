@@ -1,3 +1,0 @@
-# § 38.2-3000 Supervision and control of Fund by Commission; payments from Fund.
-
-<p>The Uninsured Motorists Fund, referred to in this chapter as the Fund, shall be under the supervision and control of the Commission. Payments from the Fund shall be made on warrants of the Comptroller issued on vouchers signed by a person designated by the Commission. The purpose of the Fund is to reduce the cost of the insurance required by subsection A of § <a href='http://law.lis.virginia.gov/vacode/38.2-2206/'>38.2-2206</a>.</p><p>Code 1950, § 12-65; 1958, c. 455, § 38.1-379.1; 1962, c. 253; 1971, Ex. Sess., c. 44; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 8.01-254 Limitation on enforcement of bequests and legacies.
-
-<p>Wherever by any will, the testator devises any real estate to some person and requires such person to pay some other person a specified sum of money, or provides a legacy for some person which constitutes a charge against the real estate of the testator, or any part thereof, no suit or action shall be brought to subject such real estate to the payment of such specified sum of money or such legacy, as the case may be, after twenty years from the time when the same shall have been payable, and if the will specifies no time for the payment thereof, it shall be deemed to have been payable immediately upon death of the testator.</p><p>Code 1950, § 8-21; 1977, c. 617.</p>

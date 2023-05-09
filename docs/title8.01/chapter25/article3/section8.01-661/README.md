@@ -1,3 +1,0 @@
-# § 8.01-661 Facts proved may be made part of record.
-
-<p>All the material facts proved shall, when it is required by either party, be made a part of the proceedings and entered by the clerk among the records of the court.</p><p>Code 1950, § 8-602; 1977, c. 617.</p>

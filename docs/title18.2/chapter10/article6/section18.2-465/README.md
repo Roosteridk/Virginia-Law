@@ -1,3 +1,0 @@
-# § 18.2-465 Officer summoning juror to act impartially.
-
-<p>If any sheriff or other officer corruptly, or through favor or ill-will, summon a juror, with intent that such juror shall find a verdict for or against either party, he shall be guilty of a Class 3 misdemeanor, and forfeit his office; and he shall be forever incapable of holding any office of honor, profit or trust under the Constitution of Virginia.</p><p>Code 1950, § 18.1-296; 1960, c. 358; 1975, cc. 14, 15.</p>

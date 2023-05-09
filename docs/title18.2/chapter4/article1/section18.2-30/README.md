@@ -1,3 +1,0 @@
-# § 18.2-30 Murder and manslaughter declared felonies.
-
-<p>Any person who commits aggravated murder, murder of the first degree, murder of the second degree, voluntary manslaughter, or involuntary manslaughter, is guilty of a felony.</p><p>1975, cc. 14, 15; 2021, Sp. Sess. I, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0344'>344</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0345'>345</a>.</p>

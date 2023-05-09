@@ -1,1 +1,0 @@
-# 6 EMERGENCY FAIR RENT ACT [Repealed]

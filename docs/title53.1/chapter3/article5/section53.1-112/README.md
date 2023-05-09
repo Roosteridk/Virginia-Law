@@ -1,3 +1,0 @@
-# § 53.1-112 Jail or jail farm expenses.
-
-<p>Except as provided in § <a href='http://law.lis.virginia.gov/vacode/53.1-114/'>53.1-114</a>, the expenses of operating and maintaining a jail or jail farm and supporting the prisoners working thereon, including board, clothing and medical attention, shall be borne by the participating political subdivisions. Such participation shall be based on the percentage of the total cost for such operation that the number of prisoner days bears to the total number of prisoner days confined therein, plus their proportionate part of the fixed cost for such maintenance and operation.</p><p>Code 1950, § 53-206.9; 1956, c. 681; 1968, c. 525; 1982, c. 636.</p>

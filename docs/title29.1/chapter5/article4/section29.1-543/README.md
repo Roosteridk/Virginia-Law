@@ -1,3 +1,0 @@
-# § 29.1-543 Game and fish taken and packaged outside the Commonwealth.
-
-<p>It shall be lawful to possess, store, transport, offer for sale, sell, offer to purchase, purchase and otherwise deal in any wild animal, bird, fish or any part thereof, which has been taken and packaged in a can, tin, pot or other receptacle outside the Commonwealth by any person, company or corporation duly licensed by the state in which such cannery or processing plant is located and recognized by the Board. Such packages may be transported into the Commonwealth, so long as the original package remains unbroken, unopened and intact.</p><p>1958, c. 153, § 29-158.1; 1987, c. 488.</p>

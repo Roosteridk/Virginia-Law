@@ -1,3 +1,0 @@
-# § 59.1-524 Common law doctrines not affected.
-
-<p>Nothing in this chapter shall be construed to repeal or diminish in any respect common law doctrines, which shall continue in full force and effect nor shall a violation of this chapter constitute negligence per se in any civil action.</p><p>2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0788'>788</a>.</p>

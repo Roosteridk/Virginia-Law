@@ -1,3 +1,0 @@
-# § 58.1-220 Waiver of time limitation on assessment of omitted or additional state taxes.
-
-<p>Where before the expiration of the time prescribed for the assessment of an omitted or additional state tax, both the Tax Commissioner and the taxpayer have consented in writing to its assessment after such time, the tax may be assessed at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.</p><p>Code 1950, § 58-1162.1; 1954, c. 509; 1984, c. 675.</p>

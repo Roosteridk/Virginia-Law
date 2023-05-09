@@ -1,3 +1,0 @@
-# § 46.2-837 Passing vehicles proceeding in opposite directions.
-
-<p>Drivers of vehicles proceeding in opposite directions on highways not marked to indicate traffic lanes shall pass each other to the right, each giving to the other, as nearly as possible, one-half of the main traveled portion of the roadway.</p><p>Code 1950, § 46-223; 1958, c. 541, § 46.1-207; 1989, c. 727.</p>

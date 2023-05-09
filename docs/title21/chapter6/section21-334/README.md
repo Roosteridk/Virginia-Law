@@ -1,3 +1,0 @@
-# § 21-334 Classification of land; benefits; assessments.
-
-<p>It shall be the further duty of the board of viewers personally to examine the land in the district and classify it with reference to the benefit it will receive from the construction of the levee, ditch, drain, or watercourse or other improvement and to determine rates of assessment in direct proportion to the benefits received on an acreage basis subject to the approval of a majority of the petitioners who own a majority of the land.</p><p>Code 1919, § 1752; 1924, p. 707; 1926, p. 612; 1954, c. 642.</p>

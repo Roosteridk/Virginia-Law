@@ -1,3 +1,0 @@
-# § 3.2-5412 Inspection of products placed in container; right of access to plants at any time.
-
-<p>A. No inspection of products placed in any container at any official establishment shall be deemed to be complete until the products are sealed or enclosed therein under the supervision of an inspector.</p><p>B. For purpose of any inspection of products required by this chapter, inspectors authorized by the Commissioner shall have access at all times, by day or night, to every part of every establishment required to have inspection under this chapter, whether the establishment is operated or not.</p><p>1970, c. 290, § 3.1-884.27; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

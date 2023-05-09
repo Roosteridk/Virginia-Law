@@ -1,3 +1,0 @@
-# § 67-1903 (Repealed effective October 1, 2021; Expires January 1, 2027) Program website.
-
-<p>The Department shall establish a website for the administration of the Program. The website shall include general information for the public, including details about the Program and performance metrics regarding the Program. The website shall also provide (i) data updated weekly regarding the availability of funds in the Fund at the time of the purchase and (ii) instructions for the dealer as to how to process a reimbursement for the rebate provided pursuant to this chapter.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0493'>493</a>.</p>

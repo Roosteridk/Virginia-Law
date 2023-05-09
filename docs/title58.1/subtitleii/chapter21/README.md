@@ -1,1 +1,0 @@
-# 21 FUELS TAX [Repealed]

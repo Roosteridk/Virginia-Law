@@ -1,3 +1,0 @@
-# § 22.1-34 Application of article.
-
-<p>The school board in each county constituting a school division, except a county to which the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/15.2-410/'>15.2-410</a>, <a href='http://law.lis.virginia.gov/vacode/15.2-531/'>15.2-531</a>, <a href='http://law.lis.virginia.gov/vacode/15.2-627/'>15.2-627</a>, <a href='http://law.lis.virginia.gov/vacode/15.2-837/'>15.2-837</a> or § <a href='http://law.lis.virginia.gov/vacode/22.1-44/'>22.1-44</a> are applicable, shall be selected as provided in this article.</p><p>1980, c. 559.</p>

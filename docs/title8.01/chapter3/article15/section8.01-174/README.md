@@ -1,3 +1,0 @@
-# § 8.01-174 Exception as to mortgagees and trustees.
-
-<p>Nothing in this article, nor anything concerning rents, profits, and improvements, in Article 14 (§ <a href='http://law.lis.virginia.gov/vacode/8.01-131/'>8.01-131</a> et seq.) of this chapter, shall extend or apply to any suit brought by a mortgagee, or trustee in a deed of trust to secure creditors, his heirs, or assigns, against a mortgagor or grantor in such deed of trust, his heirs, or assigns, for the recovery of the mortgaged premises or of the land conveyed by such deed of trust.</p><p>Code 1950, § 8-850; 1977, c. 617.</p>

@@ -1,3 +1,0 @@
-# § 38.2-107 Variable annuity.
-
-<p>"Variable annuity" means any agreement or contract for an annuity in which the amount or duration of benefits or optional lump sum cash settlement may vary according to the investment experience of any separate account maintained by the insurer for the policy or contract as provided for in § <a href='http://law.lis.virginia.gov/vacode/38.2-3113/'>38.2-3113</a>. Pursuant to the terms of the contract, payments may be made for a stated period of time or for the life of the person or persons specified in the contract.</p><p>1986, c. 562; 1993, c. 764.</p>

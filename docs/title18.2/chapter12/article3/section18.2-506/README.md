@@ -1,3 +1,0 @@
-# § 18.2-506 Person and "prepare" defined.
-
-<p>(a) As used in this article, "person" means any individual, partnership, corporation or association.</p><p>(b) As used in this article, "prepare" means to put into condition for intended use. "Prepare" does not include the mere typing or assembling of papers, nor the mere furnishing of information or research.</p><p>Code 1950, § 18.1-371.2; 1974, c. 342; 1975, cc. 14, 15.</p>

@@ -1,1 +1,0 @@
-# 12 Disposable Plastic Bag Tax

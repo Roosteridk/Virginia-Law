@@ -1,3 +1,0 @@
-# § 15.2-2829 Mandatory provisions of ordinances.
-
-<p>If an ordinance is enacted by a locality in accordance with this chapter, it shall provide that it is unlawful for any person to smoke in any of the following places:</p><p>1. Common areas in an educational facility, including but not limited to, classrooms, hallways, auditoriums, and public meeting rooms;</p><p>2. School buses and public conveyances; and</p><p>3. Any of the places governed by § <a href='http://law.lis.virginia.gov/vacode/15.2-2824/'>15.2-2824</a> or <a href='http://law.lis.virginia.gov/vacode/15.2-2825/'>15.2-2825</a>.</p><p>2009, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0153'>153</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0154'>154</a>.</p>

@@ -1,3 +1,0 @@
-# § 32.1-33 When Board to perform duties of local board.
-
-<p>If any governing body of a county or city which does not enter into a contract with the Board for the operation of the local health department does not appoint a local health director or establish a local health department, the Board may exercise the authority and perform the duties of the local health director or local health department until a local health director is appointed or local health department is established by the governing body. The compensation of all officers and agents appointed by the Board under this section and the expenses incurred by them shall be a charge upon and shall be paid by such governing body.</p><p>Code 1950, § 32-40; 1979, c. 711.</p>

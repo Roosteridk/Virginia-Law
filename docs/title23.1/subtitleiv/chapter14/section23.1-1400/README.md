@@ -1,3 +1,0 @@
-# § 23.1-1400 Corporate name; name of the University.
-
-<p>A. The board of visitors of Christopher Newport University (the board) is a corporation under the name and style of "The Rector and Visitors of Christopher Newport University" and has, in addition to its other powers, all the corporate powers given to corporations by the provisions of Title 13.1 except those powers that are confined to corporations created pursuant to Title 13.1. The board shall at all times be under the control of the General Assembly.</p><p>B. The institution shall be known as Christopher Newport University (the University).</p><p>1976, c. 21, § 23-49.23; 1992, c. 103; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0588'>588</a>.</p>

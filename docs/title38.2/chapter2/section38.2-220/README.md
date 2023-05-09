@@ -1,3 +1,0 @@
-# § 38.2-220 Injunctions.
-
-<p>The Commission shall have the jurisdiction and powers of a court of equity to issue temporary and permanent injunctions restraining acts which violate or attempt to violate provisions of this title and to enforce the injunctions by civil penalty or imprisonment.</p><p>Code 1950, § 32-195.17; 1956, c. 268, § 38.1-830; 1978, c. 658, § 38.1-806; 1979, c. 721; 1980, c. 682, § 38.1-911; c. 720, § 38.1-884; 1981, c. 530, § 38.1-946; 1986, c. 562.</p>

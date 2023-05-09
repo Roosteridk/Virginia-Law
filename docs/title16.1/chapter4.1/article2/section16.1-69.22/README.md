@@ -1,3 +1,0 @@
-# § 16.1-69.22 Removal of judges and substitute judges.
-
-<p>Any judge or substitute judge of a district court may be removed from office in the manner and for any of the causes prescribed in Chapter 9 (§ <a href='http://law.lis.virginia.gov/vacode/17.1-900/'>17.1-900</a> et seq.) of Title 17.1; provided, that substitute judges may be removed from office under the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/24.2-230/'>24.2-230</a> through <a href='http://law.lis.virginia.gov/vacode/24.2-238/'>24.2-238</a>.</p><p>1972, c. 708; 1973, c. 546.</p>

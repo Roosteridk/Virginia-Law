@@ -1,3 +1,0 @@
-# § 24.2-1006 Advice or assistance in casting ballot.
-
-<p>Except as provided by § <a href='http://law.lis.virginia.gov/vacode/24.2-649/'>24.2-649</a>, no person shall directly or indirectly advise or assist any voter as to how he shall cast his ballot after the voter has entered the prohibited area at the polls as designated in § <a href='http://law.lis.virginia.gov/vacode/24.2-604/'>24.2-604</a>. Any person violating the provisions of this section shall be guilty of a Class 1 misdemeanor.</p><p>Code 1950, § 24-237; 1970, c. 462, § 24.1-267; 1993, c. 641.</p>

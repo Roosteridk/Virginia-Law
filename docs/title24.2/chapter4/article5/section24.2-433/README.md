@@ -1,3 +1,0 @@
-# § 24.2-433 Appeal from decision of court.
-
-<p>From the judgment of the court, an appeal shall lie, as a matter of right, to the Court of Appeals. The appeal shall be placed on the privileged docket and be heard by the next available panel of the court.</p><p>Code 1950, § 24-104; 1970, c. 462, § 24.1-65; 1974, c. 428; 1993, c. 641; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0489'>489</a>.</p>

@@ -1,3 +1,0 @@
-# § 38.2-6301 Health care sharing ministry not providing insurance.
-
-<p>The provisions of this title shall not apply to a health care sharing ministry. A health care sharing ministry that, through its publication to members, solicits funds for the payment of medical expenses of other members, shall not be considered to be engaging in the business of insurance for purposes of this title and shall not be subject to the jurisdiction of the Commission.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0232'>232</a>.</p>

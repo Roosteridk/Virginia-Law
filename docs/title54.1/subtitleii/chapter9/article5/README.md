@@ -1,1 +1,0 @@
-# 5 FEES AND CHARGES

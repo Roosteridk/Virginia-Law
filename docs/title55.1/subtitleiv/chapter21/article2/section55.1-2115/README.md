@@ -1,3 +1,0 @@
-# § 55.1-2115 Description of units.
-
-<p>A description of a unit that sets forth the name of the cooperative, the recording data for the declaration, the county or city in which the cooperative is located, and the identifying number of the unit is a legally sufficient description of that unit and all rights, obligations, and interests appurtenant to that unit that were created by the declaration or bylaws.</p><p>1982, c. 277, § 55-441; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

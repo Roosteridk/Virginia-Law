@@ -1,3 +1,0 @@
-# § 10.1-1021.1 Geographic distribution of land protected.
-
-<p>The Foundation shall seek to achieve a fair distribution of land protected throughout the Commonwealth, based upon the following:</p><p>1. The importance of conserving land in all regions of the Commonwealth;</p><p>2. The importance of protecting specific properties that can benefit all Virginia citizens; and</p><p>3. The importance of addressing the particular land conservation needs of areas of the state where Fund moneys are generated.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1053'>1053</a>.</p>

@@ -1,3 +1,0 @@
-# § 38.2-2517 Policy forms to be filed.
-
-<p>Every mutual assessment property and casualty insurer shall file with the Commission a copy of all policy forms and standard endorsements which the insurer intends to use in the transaction of its business. Mutual assessment property and casualty insurers shall be exempt from the filing requirements of Chapter 3 (§ <a href='http://law.lis.virginia.gov/vacode/38.2-300/'>38.2-300</a> et seq.) of this title except for those classes of insurance enumerated in subsection C of § <a href='http://law.lis.virginia.gov/vacode/38.2-2503/'>38.2-2503</a>, where full compliance with Chapter 3 shall be required.</p><p>1986, c. 562.</p>

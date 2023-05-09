@@ -1,3 +1,0 @@
-# § 53.1-116.2 Sheriffs to be keepers of jails.
-
-<p>The sheriff of each county or city shall be the keeper of the jail thereof unless that locality is a member of a jail or jail farm board or regional jail authority, in which case the provisions of § <a href='http://law.lis.virginia.gov/vacode/53.1-106/'>53.1-106</a> shall apply.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0491'>491</a>.</p>

@@ -1,3 +1,0 @@
-# § 38.2-2501 Definitions.
-
-<p>As used in this chapter:</p><p>"Mutual assessment insurance" means property and casualty insurance written by an insurer which has a right to assess its members for contributions and which is licensed pursuant to this chapter.</p><p>"Mutual assessment property and casualty insurer" means a company without capital stock that writes only mutual assessment insurance insuring property located in or protecting against losses of members who are residents of this Commonwealth.</p><p>Code 1950, §§ 38-523, 38-526, 38-529; 1952, c. 317, § 38.1-659; 1954, c. 161; 1960, c. 292; 1962, c. 172; 1974, c. 244; 1986, c. 562.</p>

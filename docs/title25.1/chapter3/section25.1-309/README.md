@@ -1,3 +1,0 @@
-# § 25.1-309 Property situated in two or more localities.
-
-<p>If the property affected by the certificate is situated in two or more localities, the clerk of the court wherein the certificate is recorded shall certify a copy of such certificate to the clerk of the court of the locality in which any portion of the property lies. The clerk shall record the same in the deed book and index it in the manner prescribed in subsection B of § <a href='http://law.lis.virginia.gov/vacode/25.1-307/'>25.1-307</a>.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

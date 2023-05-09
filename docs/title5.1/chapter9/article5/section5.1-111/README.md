@@ -1,3 +1,0 @@
-# § 5.1-111 Authority over brokers; bond.
-
-<p>The Commission shall have the same authority over persons operating under and holding a brokerage license as it has over air carriers under this chapter and shall require a broker to furnish bond or other security approved by the Commission and sufficient for the protection of travelers or shippers by aircraft.</p><p>Code 1950, § 56-165; 1970, c. 708.</p>

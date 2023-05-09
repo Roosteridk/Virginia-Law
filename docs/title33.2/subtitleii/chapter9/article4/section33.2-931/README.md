@@ -1,3 +1,0 @@
-# § 33.2-931 Costs of relocation.
-
-<p>The city or town shall pay out of its own funds all costs incident to all surveys, plans, specifications, blueprints, or other matters relating to the relocation of the highway and the entire cost of acquiring, by purchase or by condemnation, the right-of-way.</p><p>Code 1950, § 33-86; 1970, c. 322, § 33.1-172; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,3 +1,0 @@
-# § 2.2-1142 Furniture for Executive Mansion.
-
-<p>The Division shall requisition for the Executive Mansion the furniture required by the Governor, and cause to be sold such old furniture as the Governor may direct, taking care not to exceed appropriated sums therefor, in addition to the proceeds of old furniture sold. An account both of the sales and purchases shall be returned to the Comptroller before any warrant shall issue for any part of the sum appropriated. The warrant shall be only so much as by the account appears to be proper.</p><p>Code 1950, § 2-69; 1966, c. 677, § 2.1-87; 1970, c. 260; 1977, c. 672, § 2.1-497; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

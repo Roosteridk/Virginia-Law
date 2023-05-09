@@ -1,3 +1,0 @@
-# § 13.1-1122 Application of Chapter 12 of this title.
-
-<p>The provisions of Chapter 12 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-1000/'>13.1-1000</a> et seq.) of this title shall be applicable to professional limited liability companies organized under the provisions of this chapter. Where a conflict arises between the provisions found in Chapter 12 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-1000/'>13.1-1000</a> et seq.) of this title and this chapter, this chapter shall control.</p><p>1992, c. 574.</p>

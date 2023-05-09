@@ -1,3 +1,0 @@
-# § 3.2-5212 Authority of Board to establish standards, adopt regulations.
-
-<p>The Board is authorized to establish definitions, standards of quality and identity, and to adopt and enforce regulations dealing with the issuance of permits, labeling, and sanitary standards for ice cream, ice milk, frozen custards, sherbets, water ices, related foods, other similar products, and those products manufactured or sold in semblance to or as substitutes.</p><p>1970, c. 48, § 3.1-562.1; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

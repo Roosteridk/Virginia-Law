@@ -1,3 +1,0 @@
-# § 15.2-1636 Commissioner of the revenue.
-
-<p>The voters in every county and city shall elect a commissioner of the revenue, unless otherwise provided by general law or special act. The commissioner of the revenue shall exercise all the powers conferred and perform all the duties imposed upon such officer by general law. He may perform such other duties, not inconsistent with his office, as the governing body may request. He shall be elected for a term of four years as provided by general law.</p><p>1997, c. 587.</p>

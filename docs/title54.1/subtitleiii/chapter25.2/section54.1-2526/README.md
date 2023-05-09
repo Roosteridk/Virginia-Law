@@ -1,3 +1,0 @@
-# § 54.1-2526 Exemption of information systems from provisions related to the Virginia Information Technologies Agency.
-
-<p>The provisions of Chapter 20.1 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-2005/'>2.2-2005</a> et seq.) of Title 2.2 shall not apply to the Prescription Monitoring Program pursuant to this chapter operated by the Department of Health Professions until July 1, 2012, unless an alternate date is mutually agreed upon.</p><p>2009, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0158'>158</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0162'>162</a>.</p>

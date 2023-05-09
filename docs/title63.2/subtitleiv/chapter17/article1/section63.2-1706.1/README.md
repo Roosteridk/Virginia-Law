@@ -1,3 +1,0 @@
-# § 63.2-1706.1 Inspections of child welfare agencies; prioritization.
-
-<p>The Commissioner shall prioritize inspections of child welfare agencies in the following order: (i) inspections conducted in response to a complaint involving a child welfare agency and (ii) inspections of child welfare agencies that are not conducted in response to a complaint.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0273'>273</a>; 2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0860'>860</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0861'>861</a>.</p>

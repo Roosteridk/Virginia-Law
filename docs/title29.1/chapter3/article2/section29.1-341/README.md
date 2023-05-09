@@ -1,3 +1,0 @@
-# § 29.1-341 Stationary blinds defined.
-
-<p>For the purposes of this article, a stationary blind means a structure erected at a fixed location either on the shores of the public waters or in the public waters for the purpose of hunting and shooting waterfowl.</p><p>A stationary blind shall be (i) of such size and strength that it can be occupied by and conceal one or more hunters, or (ii) large enough to accommodate and conceal a boat or skiff from which one or more hunters intend to hunt or shoot waterfowl.</p><p>Code 1950, § 29-82; 1987, c. 488; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0422'>422</a>.</p>

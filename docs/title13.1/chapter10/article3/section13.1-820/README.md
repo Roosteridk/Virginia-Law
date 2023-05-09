@@ -1,3 +1,0 @@
-# § 13.1-820 Issuance of certificate of incorporation.
-
-<p>If the Commission finds that the articles of incorporation comply with the requirements of law and that all required fees have been paid, it shall issue a certificate of incorporation.</p><p>When the certificate of incorporation is effective, the corporate existence shall begin. Upon becoming effective, the certificate of incorporation shall be conclusive evidence that all conditions precedent required to be performed by the incorporators have been complied with and that the corporation has been incorporated under this Act.</p><p>Code 1950, §§ 13-223, 13-224, 13.1-232, 13.1-233; 1956, c. 428; 1985, c. 522; 2007, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0925'>925</a>.</p>

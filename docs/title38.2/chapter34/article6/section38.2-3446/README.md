@@ -1,3 +1,0 @@
-# § 38.2-3446 Applicability of federal law.
-
-<p>A. The provisions of Title I of the PPACA shall apply to any health carrier that delivers or issues for delivery individual or group health insurance coverage in the Commonwealth.</p><p>B. The Commission shall implement and enforce applicable provisions of such federal law in accordance with the provisions of this title.</p><p>2011, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0882'>882</a>.</p>

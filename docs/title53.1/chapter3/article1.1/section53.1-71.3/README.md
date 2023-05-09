@@ -1,3 +1,0 @@
-# § 53.1-71.3 Application of certain criminal laws to contractor-operated facilities.
-
-<p>All provisions of law establishing penalties for offenses committed against custodians of inmates or jail guards or officers shall apply mutatis mutandis to offenses committed by or with regard to inmates assigned to facilities or programs for which a regional jail facility contractor is providing correctional services.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0715'>715</a>.</p>

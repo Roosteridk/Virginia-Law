@@ -1,3 +1,0 @@
-# § 58.1-3128.1 Authority to require production of sales and use tax information.
-
-<p>A. Notwithstanding any other provision of law, the governing body of any town may, by local ordinance, require that any dealer registered for the collection of the retail sales and use tax, and located within the town annually provide the town treasurer with the amount of sales and use tax collected or assessed and attributable to the sale or use of property within the town.</p><p>B. The town treasurer shall transmit all such data to the Auditor of Public Accounts. The data shall be published in the Comparative Report of Local Government Revenues and Expenditures.</p><p>1988, c. 456.</p>

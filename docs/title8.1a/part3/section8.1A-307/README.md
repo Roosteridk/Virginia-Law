@@ -1,3 +1,0 @@
-# § 8.1A-307 Prima facie evidence by third-party documents.
-
-<p>A document in due form purporting to be a bill of lading, policy or certificate of insurance, official weigher's or inspector's certificate, consular invoice, or any other document authorized or required by the contract to be issued by a third party is prima facie evidence of its own authenticity and genuineness and of the facts stated in the document by the third party.</p><p>1964, c. 219, § 8.1-202; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0353'>353</a>.</p>

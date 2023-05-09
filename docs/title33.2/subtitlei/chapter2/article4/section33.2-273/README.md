@@ -1,3 +1,0 @@
-# § 33.2-273 Use of steel plates in connection with highway repairs.
-
-<p>Any person using steel plates in connection with a temporary or permanent repair to the roadway of any highway shall follow the standards of the Department regarding warnings thereof and the marking of such plates. The provisions of this section shall not apply to any portion of a roadway that is closed to vehicular traffic.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0537'>537</a>, § 33.1-223.2:14; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

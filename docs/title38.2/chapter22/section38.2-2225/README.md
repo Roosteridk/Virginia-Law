@@ -1,3 +1,0 @@
-# § 38.2-2225 Sending copies of orders to companies affected.
-
-<p>A copy of each order entered by the Commission in accordance with the provisions of this chapter shall be sent to every insurer and rate service organization affected by the order.</p><p>Code 1950, §§ 38-245, 38-556; 1952, c. 317, § 38.1-388; 1986, c. 562.</p>

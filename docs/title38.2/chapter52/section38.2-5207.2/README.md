@@ -1,3 +1,0 @@
-# § 38.2-5207.2 Long-term care benefits; monthly report.
-
-<p>Whenever long-term care benefits being paid are funded through a life insurance policy by acceleration of the death benefit, a monthly report shall be provided to the policyholder. Such report shall include:</p><p>1. Any long-term care benefits paid out during the month;</p><p>2. An explanation of any changes in the policy, e.g., death benefits or cash values, due to long-term care benefits being paid out; and</p><p>3. The amount of long-term care benefits existing or remaining.</p><p>1990, c. 285.</p>

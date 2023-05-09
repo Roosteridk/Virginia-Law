@@ -1,3 +1,0 @@
-# § 18.2-450 Immunity of witnesses.
-
-<p>No witness called by the court or attorney for the Commonwealth and giving evidence for the prosecution, either before the grand jury or the court in any prosecution under this article shall ever be proceeded against for any offense of giving, or offering to give, or accepting a bribe committed by him at the time and place indicated in such prosecution; but such witness shall be compelled to testify, and for refusing to answer questions, may by the court, be punished for contempt.</p><p>Code 1950, § 18.1-282.3; 1968, c. 552; 1975, cc. 14, 15.</p>

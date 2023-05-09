@@ -1,3 +1,0 @@
-# § 38.2-901 References to former sections of Title 38 or Title 38.1.
-
-<p>Wherever any of the conditions, requirements, provisions or contents of any section of Title 38 as such title existed prior to July 1, 1952, or Title 38.1, as that title existed before July 1, 1986, are transferred to a new or different section, and wherever any such old section is given a new section number in this title, all references to the former section of Title 38 or Title 38.1 appearing elsewhere in this Code than in this title shall be construed to apply to the new or renumbered section containing the conditions, requirements, provisions or contents.</p><p>1952, c. 317, § 38.1-43.2; 1986, c. 562.</p>

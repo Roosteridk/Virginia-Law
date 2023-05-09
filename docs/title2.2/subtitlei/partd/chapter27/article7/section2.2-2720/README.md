@@ -1,3 +1,0 @@
-# § 2.2-2720 The Center for Rural Virginia; purpose.
-
-<p>The Center for Rural Virginia, hereinafter referred to as "the Center," is hereby created as an independent nonprofit local entity without political subdivision status, for the purpose of sustaining economic growth in the rural areas of the Commonwealth and lessening the burdens of government through the activities prescribed in subsection B of § <a href='http://law.lis.virginia.gov/vacode/2.2-2723/'>2.2-2723</a>.</p><p>2004, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0938'>938</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0964'>964</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0703'>703</a>.</p>

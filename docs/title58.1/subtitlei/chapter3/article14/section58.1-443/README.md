@@ -1,3 +1,0 @@
-# § 58.1-443 Prohibition of worldwide consolidation or combination.
-
-<p>Notwithstanding any other provisions of this chapter, the Department shall not require, and no corporation may elect, that a consolidation or combination of an affiliated group include any controlled foreign corporation, the income of which is derived from sources without the United States.</p><p>Code 1950, § 58-151.079:1; 1981, c. 402; 1984, c. 675.</p>

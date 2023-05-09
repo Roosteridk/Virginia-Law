@@ -1,3 +1,0 @@
-# § 8.01-623 Injunction against decree subject to bill of review; limitations to bill of review.
-
-<p>A court allowing a bill of review may award an injunction to the decree to be reviewed. But no bill of review shall be allowed to a final decree, unless it be exhibited within six months next after such decree, except that a person under a disability as defined in § <a href='http://law.lis.virginia.gov/vacode/8.01-2/'>8.01-2</a> may exhibit the same within six months after the removal of his or her disability. In no case shall such a bill be filed without the leave of court first obtained, unless it be for error of law apparent upon the face of the record.</p><p>Code 1950, § 8-613; 1977, c. 617.</p>

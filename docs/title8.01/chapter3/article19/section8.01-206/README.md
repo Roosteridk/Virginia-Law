@@ -1,3 +1,0 @@
-# § 8.01-206 Terms of sale.
-
-<p>The sale shall be upon six months' credit; and if the land be not purchased for the Commonwealth, the officer shall take bond of the purchaser, with sureties, for the payment of the purchase money to the Commonwealth. Every such bond shall mention on what occasion the same was taken, and be returned to the office of the court from which the execution issued, and the clerk shall endorse thereon the date of its return.</p><p>Code 1950, § 8-769; 1977, c. 617.</p>

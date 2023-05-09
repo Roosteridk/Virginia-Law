@@ -1,3 +1,0 @@
-# § 38.2-2614 Fronting not permitted.
-
-<p>No licensed insurer or licensed home protection company shall act as a fronting company for any unlicensed insurer or unlicensed home protection company.</p><p>1981, c. 530, § 38.1-944; 1986, c. 562.</p>

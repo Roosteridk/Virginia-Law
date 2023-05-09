@@ -1,3 +1,0 @@
-# § 21-123 Order requiring election.
-
-<p>The circuit court of such county, upon the petition of a majority of the members of the governing body of the county, or upon the petition of fifty qualified voters residing in such sanitary district, shall make an order in accordance with § <a href='http://law.lis.virginia.gov/vacode/24.2-684/'>24.2-684</a> requiring the officers of election to open a poll and take the sense of the qualified voters of the district on the question whether the governing body shall issue bonds for one or more of the purposes for which the sanitary district was created.</p><p>1946, p. 181; Michie Suppl. 1946, § 1560z2; 1976, c. 11.</p>

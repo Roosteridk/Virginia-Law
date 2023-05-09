@@ -1,3 +1,0 @@
-# § 46.2-825 Left turn traffic to yield right-of-way.
-
-<p>The driver of a vehicle, intending to turn left within an intersection or into an alley, private road, or driveway shall yield the right-of-way to any vehicle approaching from the opposite direction if it is so close as to constitute a hazard. At intersections controlled by traffic lights with separate left-turn signals, any vehicle making a left turn when so indicated by the signal shall have the right-of-way over all other vehicles approaching the intersection.</p><p>Code 1950, § 46-239; 1958, c. 541, § 46.1-222; 1974, c. 347; 1989, c. 727.</p>

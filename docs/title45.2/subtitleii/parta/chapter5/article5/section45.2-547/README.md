@@ -1,3 +1,0 @@
-# § 45.2-547  Duty to train teams.
-
-<p>It is the duty and responsibility of the Department to see that every team is properly trained by a qualified instructor of the Department or other person who has a certificate of training from the Department or MSHA.</p><p>1975, c. 432, § 45.1-33.2; 1984, c. 590; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.69; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

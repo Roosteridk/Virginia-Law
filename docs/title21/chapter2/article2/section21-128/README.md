@@ -1,3 +1,0 @@
-# § 21-128 Failure or refusal to issue bonds.
-
-<p>In event the governing body, for any reason, fails or refuses to issue the bonds so authorized to be issued, the circuit court of the county may, upon the complaint of ten qualified voters of the district, and after ten days' notice to the chairman of the governing body, for cause shown, issue an order directing it to issue such bonds or any unissued residue thereof, or such portion thereof as the court may, from time to time, deem proper to be issued in order to carry out the wishes of the voters as expressed in the election.</p><p>1946, p. 182; Michie Suppl. 1946, § 1560z6.</p>

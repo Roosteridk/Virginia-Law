@@ -1,3 +1,0 @@
-# § 40.1-88 Work-training certificate.
-
-<p>A work-training certificate shall permit the employment of a child between fourteen and sixteen years of age during school hours when enrolled in a regular school work-training program pursuant to a written agreement containing the same provisions as specified in § <a href='http://law.lis.virginia.gov/vacode/40.1-89/'>40.1-89</a>.</p><p>Code 1950, § 40-100.4; 1970, c. 321; 1979, c. 219; 1982, c. 670.</p>

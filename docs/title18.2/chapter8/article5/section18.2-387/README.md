@@ -1,3 +1,0 @@
-# § 18.2-387 Indecent exposure.
-
-<p>Every person who intentionally makes an obscene display or exposure of his person, or the private parts thereof, in any public place, or in any place where others are present, or procures another to so expose himself, shall be guilty of a Class 1 misdemeanor. No person shall be deemed to be in violation of this section for breastfeeding a child in any public place or any place where others are present.</p><p>Code 1950, § 18.1-236; 1960, c. 233; 1975, cc. 14, 15; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0398'>398</a>.</p>

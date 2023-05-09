@@ -1,3 +1,0 @@
-# § 19.2-31 Abolition of office of issuing justice.
-
-<p>Effective January 1, 1974, the office of issuing justice as provided for in Chapter 2 (§ 39.1-20 et seq.) of Title 39.1 having been abolished, nevertheless, any such special justice of the peace in office December 31, 1973, and elected by the town council for a specific term to expire after that date, may continue in office for the remainder of that term. If he continues in office as provided herein, such justice shall exercise the same powers, perform the same duties, and receive such compensation as he was receiving as of December 31, 1973.</p><p>Code 1950, § 19.1-379; 1973, c. 545; 1975, c. 495.</p>

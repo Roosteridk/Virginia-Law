@@ -1,3 +1,0 @@
-# § 15.2-1119 Hospitals, sanatoria, homes, clinics, etc.
-
-<p>A municipal corporation may provide and operate, within or outside the municipal corporation, hospitals, sanatoria, homes, clinics, institutions and facilities for the care, treatment and maintenance of the sick, of children, the aged, destitute and indigent; may contract with others for supplying such services; and may charge and collect compensation for such care, treatment and maintenance.</p><p>Code 1950, § 15-77.45; 1958, c. 328; 1962, c. 623, § 15.1-881; 1997, c. 587.</p>

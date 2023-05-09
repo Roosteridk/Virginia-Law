@@ -1,3 +1,0 @@
-# § 16.1-83 Consent of parties required for trial within five days of service.
-
-<p>No trial of a warrant or motion for judgment under this title may be had within five days after service thereof except with the consent of the parties. Proceedings to enforce the rights and privileges conferred by the Virginia Freedom of Information Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-3700/'>2.2-3700</a> et seq.) shall be conducted within the time limitations specified in § <a href='http://law.lis.virginia.gov/vacode/2.2-3713/'>2.2-3713</a>.</p><p>1956, c. 555; 1990, c. 217.</p>

@@ -1,3 +1,0 @@
-# § 2.2-2303 Signatures of prior members or officers; validity.
-
-<p>In the event that any of the members or officers of the Board cease to be members or officers of the Board prior to the delivery of any bonds signed by them, their signatures or facsimiles thereof shall nevertheless be valid and sufficient for all purposes as if they had remained in office until such delivery.</p><p>1984, c. 749, § 9-227; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

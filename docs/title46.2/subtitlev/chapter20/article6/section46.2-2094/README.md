@@ -1,3 +1,0 @@
-# § 46.2-2094 No transportation except when rates have been filed and published.
-
-<p>No common carrier regulated pursuant to this article, unless otherwise provided by this chapter, shall engage in the transportation of passengers unless the rates, fares, and charges upon which the same are transported by such carrier have been filed and published in accordance with the provisions of this article.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

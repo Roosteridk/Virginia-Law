@@ -1,3 +1,0 @@
-# § 2.2-812 What Comptroller may do with old books and papers.
-
-<p>The Comptroller may dispense with all noncurrent books, papers, invoices, financial documents, and similar papers belonging to his office in a manner prescribed by the Virginia Public Records Act (§ <a href='http://law.lis.virginia.gov/vacode/42.1-76/'>42.1-76</a> et seq.) in coordination with the needs of the Auditor of Public Accounts.</p><p>Code 1950, § 2-174; 1960, c. 240; 1966, c. 677, § 2.1-206; 1981, c. 514; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

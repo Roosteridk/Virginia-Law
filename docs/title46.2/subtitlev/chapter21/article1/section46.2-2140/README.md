@@ -1,3 +1,0 @@
-# § 46.2-2140 Title to plates.
-
-<p>All registration cards and license plates issued by the Department shall remain the property of the Department.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>; 2017, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0790'>790</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0815'>815</a>.</p>

@@ -1,3 +1,0 @@
-# § 42.1-60 State Law Library managed by Supreme Court.
-
-<p>There shall be a State Law Library at Richmond maintained as at present, which shall be managed by the Supreme Court. The Court shall appoint the librarian and other employees to hold office at the pleasure of the Court.</p><p>Code 1950, § 42-13; 1970, c. 606; 1977, c. 397; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0355'>355</a>.</p>

@@ -1,3 +1,0 @@
-# § 55.1-2205 Use of terms.
-
-<p>A developer in its offering or disposition of a time-share may use interchangeably any term recognized in the industry, including "time-share," "time-share interest," "interval ownership," "interval ownership interest," "vacation ownership," "vacation ownership interest," and "product." A developer shall not use the term "incidental benefit" or "alternative purchase" except in the proper context.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0580'>580</a>, § 55-364.1; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

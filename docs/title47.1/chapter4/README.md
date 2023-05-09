@@ -1,1 +1,0 @@
-# 4 TERM OF OFFICE

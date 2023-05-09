@@ -1,3 +1,0 @@
-# § 24.2-645 Defaced printed ballots.
-
-<p>If any printed ballot is unintentionally or accidentally defaced and rendered unfit for voting, the voter may deliver the defaced ballot to the officer of election and receive another. The returned ballot shall be marked spoiled by the officer of election and placed in the spoiled ballot envelope.</p><p>Code 1950, § 24-238; 1970, c. 462, § 24.1-130; 1987, c. 349; 1993, c. 641; 2014, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0540'>540</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0576'>576</a>.</p>

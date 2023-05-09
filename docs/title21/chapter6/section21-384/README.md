@@ -1,3 +1,0 @@
-# § 21-384 Board of viewers to pay treasurer.
-
-<p>When the period of redemption has expired the board of viewers shall pay to the treasurer or treasurers of the county or counties in which the lands lie the balance of the amount representing its bid at the sale of the lands and any accumulated assessments on the lands, before it or its assigns shall be entitled to a deed therefor.</p><p>Code 1919, § 1771; 1936, p. 1036; 1954, c. 642.</p>

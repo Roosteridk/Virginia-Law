@@ -1,3 +1,0 @@
-# § 8.7-207 Goods must be kept separate; fungible goods.
-
-<p>(1) Unless the warehouse receipt otherwise provides, a warehouseman must keep separate the goods covered by each receipt so as to permit at all times identification and delivery of those goods except that different lots of fungible goods may be commingled.</p><p>(2) Fungible goods so commingled are owned in common by the persons entitled thereto and the warehouseman is severally liable to each owner for that owner's share. Where because of overissue a mass of fungible goods is insufficient to meet all the receipts which the warehouseman has issued against it, the persons entitled include all holders to whom overissued receipts have been duly negotiated.</p><p>Code 1950, §§ 61-25, 61-26; 1964, c. 219.</p>

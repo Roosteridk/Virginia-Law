@@ -1,3 +1,0 @@
-# § 15.2-722 Personnel studies.
-
-<p>Notwithstanding any other provision of law to the contrary, any questionnaires, audit or interview notes, scoring keys, scoring sheets or similar documents pertaining to a classification and compensation study for county employees shall not be considered to be public or official records, except that any employee may inspect and copy any document which the employee has signed or filled out.</p><p>1989, c. 622, § 15.1-687.01; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 21-432 Construction of culverts, etc., under mill canals.
-
-<p>This chapter shall be so construed as to authorize the court therein named to allow owners of lands desirous of draining the same the right to construct trunks or culverts under the beds of mill canals in cases where the same may be necessary, subject to the same regulations and provisions as are prescribed herein in regard to the draining of lands through the lands of others; provided, that such trunks or culverts shall be so located and arranged as not to obstruct or interfere with the passage of the water through such canals.</p><p>Code 1919, § 5297.</p>

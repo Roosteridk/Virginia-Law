@@ -1,3 +1,0 @@
-# § 59.1-111 Unauthorized use of dealer's branding iron, or defacing, etc., marks made by it.
-
-<p>Every timber dealer may have a branding iron or hammer with which to impress such brand or trademark on a log, tree or other timber; and any person who shall use such branding iron or hammer or have or use one of like form and making the same brand or trademark, or who shall intentionally and without authority in writing remove, deface, or obliterate or destroy such brand or trademark when once impressed or placed on a log, tree or other timber shall be guilty of a felony, and for each offense shall be confined in the penitentiary not less than one nor more than three years.</p><p>Code 1950, § 59-208; 1968, c. 439.</p>

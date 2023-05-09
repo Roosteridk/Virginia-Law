@@ -1,3 +1,0 @@
-# § 64.2-2712 Power to revoke or amend.
-
-<p>A donor may revoke or amend a power of appointment only to the extent that:</p><p>1. The instrument creating the power is revocable by the donor; or</p><p>2. The donor reserves a power of revocation or amendment in the instrument creating the power of appointment.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

@@ -1,3 +1,0 @@
-# § 4.1-414 Management.
-
-<p>No winery shall require or prohibit any change in management or personnel of any wholesaler unless the current or potential management or personnel fails to meet reasonable qualifications and standards required by the winery for its wholesalers.</p><p>Code 1950, § 4-118.35; 1985, c. 542, § 4-118.55; 1989, c. 10; 1993, c. 866.</p>

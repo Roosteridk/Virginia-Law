@@ -1,3 +1,0 @@
-# § 53.1-39 Certain punishment of prisoners prohibited.
-
-<p>Notwithstanding any provision of this Code or of any other law, rule, or regulation to the contrary, it shall be unlawful for the Director, the Board, or any other correctional authority having the care, custody, or control of any prisoner in this Commonwealth to make or enforce any rule or regulation providing for the whipping, flogging, or administration of any similar corporal punishment of any prisoner, or to give any specific order for or to cause to be administered or personally to administer or inflict any such corporal punishment.</p><p>Code 1950, § 53-55; 1982, c. 636; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0759'>759</a>.</p>

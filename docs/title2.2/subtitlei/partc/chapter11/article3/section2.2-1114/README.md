@@ -1,3 +1,0 @@
-# § 2.2-1114 Regulations as to estimates and requisitions; submission of estimates.
-
-<p>The Division shall prescribe and enforce regulations under which estimates of the needs of the using agencies shall be submitted and requisitions made, and under which contracts for purchases may be made. Estimates of the amount and quality of materials, equipment, supplies, and printing needed by the using agencies shall be submitted at such periods as may be prescribed by the Division.</p><p>Code 1950, § 2-250; 1958, c. 124; 1966, c. 677, § 2.1-274; 1977, c. 672, § 2.1-441; 1980, c. 357; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

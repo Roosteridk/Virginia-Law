@@ -1,3 +1,0 @@
-# § 63.2-913 Establishment of minimum training requirements.
-
-<p>The Department shall, pursuant to Board regulations, establish minimum training requirements and shall provide educational programs for foster and adoption workers employed by the local department and their supervisors.</p><p>2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0133'>133</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0700'>700</a>.</p>

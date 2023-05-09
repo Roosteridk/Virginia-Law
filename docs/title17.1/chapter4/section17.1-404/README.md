@@ -1,3 +1,0 @@
-# § 17.1-404 Original jurisdiction in matters of contempt and injunctions, writs of mandamus, prohibition and habeas corpus.
-
-<p>The Court of Appeals shall have authority to punish for contempt. In addition, in such cases over which the court would have appellate jurisdiction, the court shall have original jurisdiction to issue writs of mandamus, prohibition and habeas corpus.</p><p>1983, c. 413, § 17-116.04; 1984, c. 701; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>; 2022, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0307'>307</a>.</p>

@@ -1,3 +1,0 @@
-# § 65.2-822 Action by State Corporation Commission upon application.
-
-<p>The State Corporation Commission may, if in its judgment it deems such action to be justified after reviewing all information pertaining to the applicant or policyholder available from its records, the records of the Workers' Compensation Commission or from other sources:</p><p>1. Refuse to assign an application;</p><p>2. Approve the rejection of an application by an insurance carrier;</p><p>3. Approve the cancellation of a workers' compensation policy by an insurance carrier; or</p><p>4. Refuse to approve the renewal or the reassignment of an expiring policy.</p><p>Code 1950, § 65-114.3; 1956, c. 358; 1968, c. 660, § 65.1-121; 1991, c. 355.</p>

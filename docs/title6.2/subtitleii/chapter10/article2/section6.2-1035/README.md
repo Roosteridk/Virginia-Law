@@ -1,3 +1,0 @@
-# § 6.2-1035 Audits.
-
-<p>The Commission may require trust companies or trust company holding companies to have audits made of their books, records, and methods of operation annually. The Commission may require such audits to be conducted at any other time that it appears to the Commission that (i) the internal controls of a trust company or trust company holding company are not adequate, (ii) it is engaging in unsound practices, or (iii) its financial condition makes such audit necessary.</p><p>1993, c. 432, § 6.1-32.27; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0140'>140</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,3 +1,0 @@
-# § 38.2-308 Contingent liability provisions in policies issued by certain mutual insurers.
-
-<p>Except in the case of nonassessable policies, the contingent liability of each member of a mutual insurer, other than a life insurer, shall be clearly stated in the mutual insurer's policies. The contingent liability may be limited, but such limitation shall not be less than one additional annual premium on each policy held by the member.</p><p>Code 1950, § 38-508; 1952, c. 317, § 38.1-335.1; 1986, c. 562.</p>

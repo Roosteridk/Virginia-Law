@@ -1,3 +1,0 @@
-# § 53.1-224 Maintenance of prisoner's family; spouse's portion.
-
-<p>The committee shall allow, subject to the claims of creditors, a sufficient maintenance out of the prisoner's estate for the prisoner's spouse and family, if any. The spouse shall be entitled, so long as the prisoner is confined, to the profits of such portion of the prisoner's estate as the spouse would have if the prisoner had died intestate.</p><p>Code 1950, § 53-308; 1982, c. 636.</p>

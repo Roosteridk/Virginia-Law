@@ -1,3 +1,0 @@
-# § 65.2-808 Self-insurance certificate.
-
-<p>Whenever an employer has complied with the provisions of § <a href='http://law.lis.virginia.gov/vacode/65.2-801/'>65.2-801</a> relating to self-insurance, the Workers' Compensation Commission shall issue to such employer a certificate which shall remain in force for a period fixed by the Commission. But the Commission may upon at least thirty days' notice and hearing to the employer revoke the certificate upon satisfactory evidence for such revocation having been presented. At any time after such revocation, the Commission may grant a new certificate to the employer upon his petition.</p><p>Code 1950, § 65-104; 1968, c. 660, § 65.1-108; 1979, c. 463; 1987, c. 343; 1991, c. 355.</p>

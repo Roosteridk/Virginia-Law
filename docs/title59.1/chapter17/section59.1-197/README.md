@@ -1,3 +1,0 @@
-# § 59.1-197 Intent.
-
-<p>It is the intent of the General Assembly that this chapter shall be applied as remedial legislation to promote fair and ethical standards of dealings between suppliers and the consuming public.</p><p>1977, c. 635.</p>

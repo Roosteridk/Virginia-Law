@@ -1,3 +1,0 @@
-# § 8.01-179 Motion for judgment to establish boundary lines.
-
-<p>Any person having a subsisting interest in real estate and a right to its possession, or to the possession of some share, interest or portion thereof, may file a motion for judgment to ascertain and designate the true boundary line or lines to such real estate as to one or more of the coterminous landowners. Plaintiff in stating his interest shall conform to the requirements of § <a href='http://law.lis.virginia.gov/vacode/8.01-137/'>8.01-137</a>, and shall describe with reasonable certainty such real estate and the boundary line or lines thereof which he seeks to establish.</p><p>Code 1950, § 8-836; 1954, c. 606; 1977, c. 617.</p>

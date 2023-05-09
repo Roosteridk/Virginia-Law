@@ -1,3 +1,0 @@
-# § 54.1-2302 License required.
-
-<p>No person shall operate a waterworks or wastewater works, perform the duties of an onsite soil evaluator, or install or operate an alternative onsite sewage system, without a valid license.</p><p>1979, c. 408, § 54-573.18; 1988, c. 765; 2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0892'>892</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0924'>924</a>.</p>

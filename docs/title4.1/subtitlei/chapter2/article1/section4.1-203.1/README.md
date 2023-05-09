@@ -1,3 +1,0 @@
-# § 4.1-203.1 Managers of licensed retail establishments.
-
-<p>The Board may suspend or revoke any license if it finds that the licensee has been convicted for a violation of 8 U.S.C. § 1324a (f), as amended, for actions of its managers or otherwise constituting a pattern or practice of employing unauthorized aliens on the licensed premises in the Commonwealth.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0643'>643</a>.</p>

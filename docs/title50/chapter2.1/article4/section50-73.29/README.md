@@ -1,3 +1,0 @@
-# § 50-73.29 General powers and liabilities.
-
-<p>A. Except as provided in this chapter or in the partnership agreement, a general partner of a limited partnership has the rights and powers of a partner in a partnership without limited partners.</p><p>B. Except as provided in this chapter, a general partner of a limited partnership has the liabilities of a partner in a partnership without limited partners to persons other than the partnership and the other partners. Except as provided in this chapter or in the partnership agreement, a general partner of a limited partnership has the liabilities of a partner in a partnership without limited partners to the partnership and to the other partners.</p><p>1985, c. 607.</p>

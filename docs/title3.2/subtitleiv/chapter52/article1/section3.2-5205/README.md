@@ -1,3 +1,0 @@
-# § 3.2-5205 Injunctions.
-
-<p>If any person violates any provision of this article or the regulations adopted hereunder, then either the Commissioner or the State Health Commissioner may petition any appropriate circuit court for relief by injunction, without being compelled to allege or prove that an adequate remedy at law does not exist.</p><p>1970, c. 49, § 3.1-530.8; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

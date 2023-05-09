@@ -1,3 +1,0 @@
-# § 15.2-302 When form of government to become effective.
-
-<p>A form of government approved by the voters in accordance with § <a href='http://law.lis.virginia.gov/vacode/15.2-301/'>15.2-301</a> shall become effective on January 1 following the election of members of the governing body under the provisions of § <a href='http://law.lis.virginia.gov/vacode/15.2-303/'>15.2-303</a>.</p><p>1997, c. 587.</p>

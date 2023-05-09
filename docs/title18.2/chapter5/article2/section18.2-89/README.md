@@ -1,3 +1,0 @@
-# § 18.2-89 Burglary; how punished.
-
-<p>If any person break and enter the dwelling house of another in the nighttime with intent to commit a felony or any larceny therein, he shall be guilty of burglary, punishable as a Class 3 felony; provided, however, that if such person was armed with a deadly weapon at the time of such entry, he shall be guilty of a Class 2 felony.</p><p>Code 1950, § 18.1-86; 1960, c. 358; 1975, cc. 14, 15.</p>

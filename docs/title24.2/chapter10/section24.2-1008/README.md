@@ -1,3 +1,0 @@
-# § 24.2-1008 Selling, giving away, or counterfeiting ballots.
-
-<p>Any person who (i) wrongfully sells or gives to any person an official ballot or copy or a facsimile of or device or plate used to reproduce such ballot or (ii) counterfeits or attempts to counterfeit the official ballot or the seal used on that ballot, shall be guilty of a Class 5 felony.</p><p>Code 1950, § 24-239; 1970, c. 462, § 24.1-270; 1991, c. 710; 1993, c. 641.</p>

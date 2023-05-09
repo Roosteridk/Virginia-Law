@@ -1,3 +1,0 @@
-# § 18.2-152.7:2 Using computer to commit a scheme involving false representations; penalty.
-
-<p>Any person who, without the intent to receive any direct or indirect benefit, maliciously sends an electronically transmitted communication containing a false representation intended to cause another person to spend money, and such false representation causes such person to spend money, is guilty of a Class 1 misdemeanor.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP1178'>1178</a>.</p>

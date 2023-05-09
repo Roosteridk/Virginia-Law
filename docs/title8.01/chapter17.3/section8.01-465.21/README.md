@@ -1,3 +1,0 @@
-# § 8.01-465.21 Conversions of foreign money in distribution proceeding.
-
-<p>The rate of exchange prevailing at or near the close of business on the day the distribution proceeding is initiated governs all exchanges of foreign money in a distribution proceeding. A foreign-money claimant in a distribution proceeding shall assert its claim in the named foreign money and show the amount of United States dollars resulting from a conversion as of the date the proceeding was initiated.</p><p>1991, c. 24.</p>

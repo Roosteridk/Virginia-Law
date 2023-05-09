@@ -1,3 +1,0 @@
-# § 15.2-1100 Powers conferred; exercised by council.
-
-<p>A municipal corporation shall have and may exercise any or all powers set forth in this article, regardless of whether such powers are set out or incorporated by reference in a municipal charter. All powers vested in a municipal corporation by this chapter shall be exercised by its governing body.</p><p>Code 1950, § 15-77.2; 1958, c. 328; 1962, c. 623, § 15.1-838; 1979, c. 297; 1997, c. 587.</p>

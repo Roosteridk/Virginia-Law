@@ -1,3 +1,0 @@
-# § 18.2-265.18 Failure to report certain sales; penalty.
-
-<p>Any person subject to the recordkeeping and reporting requirements set forth in this article that willfully fails to report nonprescription sales of ephedrine or related compounds is guilty of a Class 1 misdemeanor.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0160'>160</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0252'>252</a>.</p>

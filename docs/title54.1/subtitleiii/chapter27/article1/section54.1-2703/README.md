@@ -1,3 +1,0 @@
-# § 54.1-2703 Inspection of dental offices and laboratories.
-
-<p>Employees of the Department of Health Professions, when properly identified, shall be authorized, during ordinary business hours, to enter and inspect any dental office or dental laboratory for the purpose of enforcing the provisions of this chapter.</p><p>Code 1950, § 54-167; 1962, c. 45; 1972, c. 805; 1988, c. 765; 2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0505'>505</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0587'>587</a>.</p>

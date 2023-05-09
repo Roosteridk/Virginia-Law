@@ -1,3 +1,0 @@
-# § 30-180 Staff.
-
-<p>Staff assistance to the Council shall be provided by the Division of Legislative Services. Staff shall perform those duties assigned to it by the Council.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0917'>917</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0987'>987</a>, § 2.1-346.4; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

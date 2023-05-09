@@ -1,3 +1,0 @@
-# § 21-427 Public facilities district law for certain counties.
-
-<p>Chapter 93 of the Acts of 1946, as amended by Chapter 363 of Acts 1952, relating to public facilities district law applicable in counties having a population of between 500 and 1,000 inhabitants per square mile and a land area of between thirty and seventy square miles, or of any county having a land area of between thirty and eighty-five square miles, is continued in effect.</p>

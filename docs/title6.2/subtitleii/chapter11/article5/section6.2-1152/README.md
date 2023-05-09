@@ -1,3 +1,0 @@
-# § 6.2-1152 Law applicable to contracts of foreign savings institutions.
-
-<p>Any contract made by a foreign savings institution with a resident of the Commonwealth or a foreign corporation authorized to do business in the Commonwealth shall be construed according to the laws of the Commonwealth.</p><p>1985, c. 425, § 6.1-194.44; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

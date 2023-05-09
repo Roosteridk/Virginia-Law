@@ -1,3 +1,0 @@
-# § 3.2-5110 Daily cleaning of instruments and machinery.
-
-<p>All trucks, trays, boxes, baskets, buckets, and other receptacles, chutes, platforms, racks, tables, shelves, and all knives, saws, cleavers, and other utensils and machinery used in moving, handling, cutting, chopping, mixing, canning, and any other process, shall be thoroughly cleaned daily.</p><p>Code 1950, § 3-290; 1966, c. 702, § 3.1-370; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

@@ -1,3 +1,0 @@
-# § 6.2-1015 Application for certificate; fee.
-
-<p>A. An application for a certificate shall (i) be in writing, in such form as the Commission prescribes, (ii) be verified under oath, (iii) be supported by such information, data, and records as the Commission may require, and (iv) include an operating plan.</p><p>B. Each application for a certificate of authority shall be accompanied by an investigation fee of $10,000.</p><p>1993, c. 432, § 6.1-32.14; 1995, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?951+ful+CHAP0140'>140</a>; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,3 +1,0 @@
-# § 55.1-206 How infant spouse may release interests in spouse's property.
-
-<p>Notwithstanding the disability of infancy, on or after January 1, 1991, an infant spouse, whether married before or after January 1, 1991, may release his marital rights in the other spouse's real or personal property by uniting in any contract, deed, or other instrument executed by the other spouse or by a commissioner of a court pursuant to an order entered under §§ <a href='/vacode/8.01-67/'>8.01-67</a> through <a href='/vacode/8.01-77/'>8.01-77</a> or any other law with respect to the infant's property.</p><p>1992, cc. 617, 647, § 55-42.1; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

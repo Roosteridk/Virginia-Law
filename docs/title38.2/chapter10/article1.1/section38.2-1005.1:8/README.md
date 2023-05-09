@@ -1,3 +1,0 @@
-# § 38.2-1005.1:8 Diversion of business to affiliates.
-
-<p>Without prior approval of the Commission, neither the converted company nor any person affiliated with or controlling the converted company shall divert business from the converted company to any insurance company affiliated with the converted company if the purpose or effect of such diversion would be to reduce significantly the number of members of the mutual holding company.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0726'>726</a>.</p>

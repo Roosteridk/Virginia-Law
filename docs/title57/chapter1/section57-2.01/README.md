@@ -1,3 +1,0 @@
-# § 57-2.01 Religious Freedom Week and Day.
-
-<p>On the 200th Anniversary of the enactment of the Virginia Act for Religious Freedom, the 1986 Virginia General Assembly commends their eighteenth century predecessors for their wisdom and foresight and declares that from this date forth, the second full week of every January is designated as Religious Freedom Week in the Commonwealth of Virginia.</p><p>In addition, the date of the passage of the Virginia Act for Religious Freedom merits special commemoration and celebration in the Commonwealth and nation. For this purpose, the sixteenth day of January of each year shall be designated "Religious Freedom Day."</p><p>1986, c. 352; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0388'>388</a>.</p>

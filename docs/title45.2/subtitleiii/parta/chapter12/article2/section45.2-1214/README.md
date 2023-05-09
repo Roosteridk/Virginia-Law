@@ -1,3 +1,0 @@
-# § 45.2-1214  Collection of debts.
-
-<p>The amount by which the cost of reclamation exceeds the amount of the operator's forfeited bond shall constitute a debt of the operator to the Commonwealth. The Director is authorized to collect such debts, together with the cost of collection, through appropriate legal action or by declaring the forfeiture of other payments. Moneys collected through legal action, less the cost of collections, shall be deposited in the Special Reclamation Fund created pursuant to § <a href='/vacode/45.2-1207/'>45.2-1207</a>.</p><p>1981, c. 76, § 45.1-186.2; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

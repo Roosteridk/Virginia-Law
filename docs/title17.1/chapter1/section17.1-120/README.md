@@ -1,3 +1,0 @@
-# § 17.1-120 Adjournment from day to day; effect of failure to sit on day to which adjourned.
-
-<p>After a court is opened it shall, during the term, adjourn from day to day, unless the court shall order otherwise, and if it fails to sit on any day to which it is adjourned it may nevertheless sit on any subsequent day of the term.</p><p>Code 1919, § 5970, § 17-23; 1944, p. 399; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

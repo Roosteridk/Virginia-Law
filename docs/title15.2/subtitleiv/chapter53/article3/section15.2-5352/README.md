@@ -1,3 +1,0 @@
-# § 15.2-5352 Interim certificates.
-
-<p>Pending the authorization, preparation, execution or delivery of definitive bonds, the authority may issue interim certificates, or other temporary obligations, to the purchaser of such bonds. Such interim certificates, or other temporary obligations, shall be in such form, contain such terms, conditions and provisions, bear such date or dates, and evidence such agreements, relating to their discharge or payment or the delivery of definitive bonds as the authority may by resolution or trust indenture determine.</p><p>Code 1950, § 32-267; 1979, c. 719, § 15.1-1587; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 54.1-4424 Certain information not to be made public.
-
-<p>Tax returns, financial statements, and other financial information that is not generally available to the public through regulatory disclosure or otherwise, subdivision 3 of § <a href='http://law.lis.virginia.gov/vacode/54.1-108/'>54.1-108</a> notwithstanding, provided to the Board by a complainant or as a result of an investigation of a licensee by the Board in response to a complaint shall be exempt from the provisions of the Virginia Freedom of Information Act (§ <a href='http://law.lis.virginia.gov/vacode/2.2-3700/'>2.2-3700</a> et seq.).</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0375'>375</a>.</p>

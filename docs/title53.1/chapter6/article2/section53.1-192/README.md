@@ -1,3 +1,0 @@
-# § 53.1-192 Applicability of article.
-
-<p>The provisions of this article shall be applicable only to those persons who were convicted, sentenced and committed to the Department prior to July 1, 1981, and who, in accordance with § <a href='http://law.lis.virginia.gov/vacode/53.1-198/'>53.1-198</a>, are not governed by the system of good conduct allowances established in Article 3 (§ <a href='http://law.lis.virginia.gov/vacode/53.1-198/'>53.1-198</a> et seq.) of this chapter.</p><p>1982, c. 636.</p>

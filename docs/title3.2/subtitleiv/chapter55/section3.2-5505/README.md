@@ -1,3 +1,0 @@
-# § 3.2-5505 Marking casks, barrels or other containers.
-
-<p>Each cask, barrel, or other container of vinegar shall be plainly marked with the name and place of business of the manufacturer or distributor thereof, and the kind of vinegar contained therein, in the definitions contained in § <a href='http://law.lis.virginia.gov/vacode/3.2-5500/'>3.2-5500</a>; and no person shall falsely mark any package containing any vinegar so defined, with any other brand or designation or with any additional words, marks, or descriptions that are false or deceptive in any particular whatever.</p><p>Code 1950, § 3-695; 1966, c. 702, § 3.1-904; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

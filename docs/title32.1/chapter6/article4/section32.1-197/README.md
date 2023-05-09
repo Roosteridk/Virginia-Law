@@ -1,3 +1,0 @@
-# § 32.1-197 Compensation and expenses of members of commission.
-
-<p>The members of any mosquito control commission shall receive no salary for their services as such but shall receive necessary expenses incurred while actually engaged in discharge of their duties, to be paid out of the funds under the control of such commission; provided, however, that if any member shall be appointed secretary for his commission, he may be paid, and shall be entitled to receive, such compensation as the commission may determine.</p><p>Code 1950, § 32-387; 1979, c. 711.</p>

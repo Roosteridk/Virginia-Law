@@ -1,3 +1,0 @@
-# § 59.1-505.9 Financing arrangements; obligations irrevocable.
-
-<p>Unless the accommodated licensee is a consumer, a term in a financial accommodation contract providing that the accommodated licensee's obligations to the financier are irrevocable and independent is enforceable. The obligations become irrevocable and independent upon the licensee's acceptance of the license or the financier's giving of value, whichever occurs first.</p><p>2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0101'>101</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0996'>996</a>.</p>

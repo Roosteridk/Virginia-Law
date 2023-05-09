@@ -1,3 +1,0 @@
-# § 62.1-69.33:1 Compensation; expenses.
-
-<p>Notwithstanding any law to the contrary, members of the Commission shall not be eligible for compensation. All members may be reimbursed for reasonable and necessary expenses incurred in the performance of their duties from such funds as may be available to the Commission.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0471'>471</a>.</p>

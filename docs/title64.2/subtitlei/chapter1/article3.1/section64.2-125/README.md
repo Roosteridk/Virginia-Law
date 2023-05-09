@@ -1,3 +1,0 @@
-# § 64.2-125 Disclosure of digital assets held in trust when trustee is original user.
-
-<p>Unless otherwise ordered by the court or provided in a trust, a custodian shall disclose to a trustee that is an original user of an account any digital asset of the account held in trust, including a catalog of electronic communications of the trustee and the content of electronic communications.</p><p>2017, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0033'>33</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0080'>80</a>.</p>

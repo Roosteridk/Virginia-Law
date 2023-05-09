@@ -1,3 +1,0 @@
-# § 58.1-531.1 Errors in setoff program.
-
-<p>If as a result of an error by the Department of Taxation or the claimant agency a taxpayer has his refund set off erroneously and is denied all or a portion of his income tax refund, interest shall be paid to the taxpayer at the rate provided in § <a href='http://law.lis.virginia.gov/vacode/58.1-15/'>58.1-15</a> and shall accrue in the manner provided in § <a href='http://law.lis.virginia.gov/vacode/58.1-1833/'>58.1-1833</a>.</p><p>1988, c. 331; 1989, c. 77.</p>

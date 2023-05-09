@@ -1,1 +1,0 @@
-# 25 License Tax on Certain Insurance Companies

@@ -1,3 +1,0 @@
-# § 6.2-2009 Annual report.
-
-<p>Each licensee under this chapter shall annually, on or before March 25, file a written report with the Commissioner containing such information as the Commissioner may require concerning his business and operations during the preceding calendar year as to each licensed place of business. Reports shall be made under oath and shall be in the form prescribed by the Commissioner.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0790'>790</a>, § 6.1-363.11; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

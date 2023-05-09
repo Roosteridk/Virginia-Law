@@ -1,3 +1,0 @@
-# § 2.2-808 Collection of delinquent taxes.
-
-<p>Whenever, by any section of this Code, the Comptroller is required or is authorized to collect any delinquent taxes, he shall refer the matter to the Tax Commissioner, who shall at once proceed to collect the same and may employ such legal process as may be necessary for that purpose. When so collected the Tax Commissioner shall pay the same into the state treasury.</p><p>Code 1950, § 2-167.1; 1966, c. 677, § 2.1-200; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

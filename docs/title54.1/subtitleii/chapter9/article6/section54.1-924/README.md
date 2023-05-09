@@ -1,3 +1,0 @@
-# § 54.1-924 Piloting, etc., vessel without license; how offenders proceeded against.
-
-<p>No person shall conduct or pilot a vessel to or from sea, or to or from any port or place in Virginia unless he is licensed under this chapter.</p><p>Warrants for persons violating this section may be issued by any magistrate, upon the oath of any party complaining, and shall be returnable to the Circuit Court of the City of Norfolk. After a bond hearing held pursuant to Chapter 9 (§ <a href='http://law.lis.virginia.gov/vacode/19.2-119/'>19.2-119</a> et seq.) of Title 19.2, the bond shall be returned by the judicial officer to the circuit court of the City of Norfolk, which shall have jurisdiction for trial of such misdemeanor.</p><p>Code 1950, § 54-571; 1988, c. 765.</p>

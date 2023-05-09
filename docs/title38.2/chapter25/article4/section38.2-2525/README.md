@@ -1,3 +1,0 @@
-# § 38.2-2525 Agents licenses required.
-
-<p>Agents representing a mutual assessment property and casualty insurer shall be licensed by the Commission and appointed by the insurer in accordance with Chapter 18 of this title. However, agents whose licenses are limited to those classes of insurance referred to in subsections A and B of § <a href='http://law.lis.virginia.gov/vacode/38.2-2503/'>38.2-2503</a> shall not be required to take a written examination from the Commission in accordance with § <a href='http://law.lis.virginia.gov/vacode/38.2-1814/'>38.2-1814</a>.</p><p>1986, c. 562.</p>

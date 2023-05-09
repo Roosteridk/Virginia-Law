@@ -1,3 +1,0 @@
-# § 65.2-813 Insurance deemed subject to title; approval of forms.
-
-<p>Every policy for the insurance of the compensation herein provided or against liability therefor shall be deemed to be made subject to the provisions of this title. No corporation, association or organization shall enter into any such policy of insurance unless its form shall have been approved by the Workers' Compensation Commission.</p><p>Code 1950, § 65-109; 1968, c. 660, § 65.1-113; 1991, c. 355.</p>

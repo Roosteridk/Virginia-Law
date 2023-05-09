@@ -1,3 +1,0 @@
-# § 15.2-832 Same; assistants.
-
-<p>The director may have such deputies or assistants in the performance of his duties as the board allows.</p><p>Code 1950, § 15-384.53; 1960, c. 382; 1962, c. 623, § 15.1-766; 1972, c. 456; 1982, c. 647; 1987, c. 419; 1997, c. 587.</p>

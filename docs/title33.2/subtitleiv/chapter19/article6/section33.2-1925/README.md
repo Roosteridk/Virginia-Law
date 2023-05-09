@@ -1,3 +1,0 @@
-# § 33.2-1925 Appropriations.
-
-<p>The governing bodies of counties and cities participating in a transportation district are authorized to appropriate funds for the administrative and other expenses and obligations (i) of the commission of the transportation district, as provided in subsection D of § <a href='http://law.lis.virginia.gov/vacode/33.2-1915/'>33.2-1915</a>, (ii) of an agency, and (iii) for such other purposes as may be specified in a law creating a transportation district.</p><p>1964, c. 631, § 15.1-1362; 1970, c. 449; 1997, c. 587, § 15.1-4524; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

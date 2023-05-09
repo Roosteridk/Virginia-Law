@@ -1,3 +1,0 @@
-# § 20-16.1 Clerk authorized to amend marriage records.
-
-<p>The clerk (i) may, on his own authority, correct marriage records established in his office by amending the same upon application under oath and submission of evidence deemed by the clerk to be adequate and sufficient and (ii) shall correct such records upon order of the court in which the marriage record was established. Upon correction of a marriage record the clerk shall forward to the State Registrar a certified copy of the corrected marriage record.</p><p>1988, c. 54.</p>

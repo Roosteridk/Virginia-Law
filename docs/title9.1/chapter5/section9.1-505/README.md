@@ -1,3 +1,0 @@
-# § 9.1-505 Immediate suspension.
-
-<p>Nothing in this chapter shall prevent the immediate suspension without pay of any law-enforcement officer whose continued presence on the job is deemed to be a substantial and immediate threat to the welfare of his agency or the public, nor shall anything in this chapter prevent the suspension of a law-enforcement officer for refusing to obey a direct order issued in conformance with the agency's written and disseminated regulations. In such a case, the law-enforcement officer shall, upon request, be afforded the rights provided for under this chapter within a reasonable amount of time set by the agency.</p><p>1978, c. 19, § 2.1-116.6; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

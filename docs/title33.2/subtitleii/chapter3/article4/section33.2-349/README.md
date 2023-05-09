@@ -1,3 +1,0 @@
-# § 33.2-349 Character of signs, markings, and signals.
-
-<p>On any urban highway upon which the Board has expended funds, the location, form, and character of informational, regulatory, and warning signs, curb and pavement, or other markings and traffic signals installed or placed by any public authority shall be subject to the approval of the Commissioner of Highways.</p><p>Code 1950, § 33-35.7; 1964, c. 256; 1970, c. 322, § 33.1-46; 1977, c. 578; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>; 2015, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?151+ful+CHAP0684'>684</a>.</p>

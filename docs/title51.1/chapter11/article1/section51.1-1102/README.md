@@ -1,3 +1,0 @@
-# § 51.1-1102 Additional powers of the Board.
-
-<p>In addition to any other powers granted to the Board under this title, the Board shall have the powers to:</p><p>1. Establish policies and procedures to implement and administer the program and the provisions of this chapter;</p><p>2. Contract for the provision of comprehensive case management;</p><p>3. Take all other actions necessary for the implementation and administration of the program; and</p><p>4. Adopt rules and policies that bring the program into compliance with any applicable law or regulation of this Commonwealth or the United States.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0774'>774</a>.</p>

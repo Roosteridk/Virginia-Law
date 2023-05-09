@@ -1,3 +1,0 @@
-# § 58.1-1618 Penalty for failure to make return, keep records, or permit examination of records.
-
-<p>Any person subject to the provisions of this chapter who fails to make the returns, refuses to permit examination of his records by the Department or its duly authorized agents, or fails to keep the records as required herein shall be guilty, upon conviction, of a Class 2 misdemeanor. Each month of failure to make such returns or keep such records and each refusal of a written demand of the Department to examine, inspect or audit such records shall constitute a separate offense.</p><p>Code 1950, §§ 58-838.11, 58-838.12; 1984, c. 675; 1992, c. 763.</p>

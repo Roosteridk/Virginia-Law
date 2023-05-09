@@ -1,3 +1,0 @@
-# § 8.01-108 When sureties of commissioner, purchaser, etc., proceeded against by rule.
-
-<p>Whenever a special commissioner, a receiver, purchaser at a judicial sale, or his personal representative, or any of them, can be proceeded against by rule for the recovery of money under §§ <a href='http://law.lis.virginia.gov/vacode/8.01-105/'>8.01-105</a>, <a href='http://law.lis.virginia.gov/vacode/8.01-106/'>8.01-106</a> and <a href='http://law.lis.virginia.gov/vacode/8.01-107/'>8.01-107</a>, the surety of such commissioner, receiver, or purchaser, and the personal representatives of such sureties, may also be proceeded against under such sections.</p><p>Code 1950, § 8-667; 1977, c. 617.</p>

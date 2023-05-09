@@ -1,3 +1,0 @@
-# § 15.2-2278 Vacating plat of subdivision.
-
-<p>Any plat of subdivision recorded in any clerk's office, whether or not pursuant to this article, may be vacated in the manner prescribed by § <a href='http://law.lis.virginia.gov/vacode/15.2-2272/'>15.2-2272</a> and the provisions of §§ <a href='http://law.lis.virginia.gov/vacode/15.2-2274/'>15.2-2274</a> and <a href='http://law.lis.virginia.gov/vacode/15.2-2276/'>15.2-2276</a> shall be applicable to such vacation.</p><p>1964, c. 564, § 15.1-365; 1997, c. 587.</p>

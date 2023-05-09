@@ -1,3 +1,0 @@
-# § 38.2-4001 Society may be incorporated.
-
-<p>Any existing burial society licensed and operating in this Commonwealth that is an unincorporated association may be incorporated under the provisions of Article 3 (§ <a href='http://law.lis.virginia.gov/vacode/13.1-818/'>13.1-818</a> et seq.) of Chapter 10 of Title 13.1 and, except as otherwise provided in this title, shall be subject to all the general restrictions and shall have all the general powers imposed and conferred upon such corporations by law. All burial societies shall be under the supervision and control of the Commission.</p><p>Code 1950, §§ 38-145, 38-146; 1952, c. 317, § 38.1-551; 1956, c. 431; 1986, c. 562.</p>

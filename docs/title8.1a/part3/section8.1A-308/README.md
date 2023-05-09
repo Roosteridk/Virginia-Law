@@ -1,3 +1,0 @@
-# § 8.1A-308 Performance or acceptance under reservation of rights.
-
-<p>(a) A party that with explicit reservation of rights performs or promises performance or assents to performance in a manner demanded or offered by the other party does not thereby prejudice the rights reserved. Such words as "without prejudice," "under protest," or the like are sufficient.</p><p>(b) Subsection (a) does not apply to an accord and satisfaction.</p><p>1964, c. 219, § 8.1-207; 1992, c. 693; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0353'>353</a>.</p>

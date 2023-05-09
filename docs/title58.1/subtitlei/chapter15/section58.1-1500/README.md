@@ -1,3 +1,0 @@
-# § 58.1-1500 Title.
-
-<p>This chapter shall be known and may be cited as the "Virginia Aircraft Sales and Use Tax Act."</p><p>Code 1950, § 58-685.27; 1974, c. 431; 1984, c. 675.</p>

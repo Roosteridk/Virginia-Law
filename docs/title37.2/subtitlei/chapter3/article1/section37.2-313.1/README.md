@@ -1,3 +1,0 @@
-# § 37.2-313.1 Licensed physician required at certain training centers.
-
-<p>The Department of Behavioral Health and Developmental Services shall require a licensed physician to be on duty at all times for any certified skilled nursing beds in any state training center as defined in § <a href='http://law.lis.virginia.gov/vacode/37.2-100/'>37.2-100</a>.</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0355'>355</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-1414.5 Each councilman to be paid annual salary; effect of charter.
-
-<p>Each member of the council of each city shall be allowed and paid out of the city levy an annual salary in equal monthly installments, or in accordance with the payroll cycle of city employees, to be fixed as herein provided, for his services in attending the meetings of the council and in discharging the duties imposed by law upon him. Any city, however, whose charter imposes no limitation on salaries, may continue to pay its councilmen and mayor pursuant to such charter.</p><p>1981, c. 358, § 14.1-47.1; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0570'>570</a>.</p>

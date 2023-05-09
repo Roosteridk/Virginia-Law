@@ -1,3 +1,0 @@
-# § 40.1-3 Title provides for safety, health and welfare of employees.
-
-<p>The provisions of this title are intended to provide solely for the safety, health and welfare of employees and the benefits thereof shall not run to any other person nor shall a third party have any right of action for breach of any provision of this title except as herein otherwise specifically provided.</p><p>Code 1950, § 40-1.2; 1962, c. 66; 1970, c. 321.</p>

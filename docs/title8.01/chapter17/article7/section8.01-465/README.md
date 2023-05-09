@@ -1,3 +1,0 @@
-# § 8.01-465 Chapter embraces recognizances and bonds having force of judgment.
-
-<p>The foregoing sections of this chapter, so far as they relate to the docketing of judgments, the entering of satisfaction thereof, and the liens of judgments and enforcement of such liens, shall be construed as embracing recognizances, and bonds having the force of a judgment.</p><p>Code 1950, § 8-398; 1977, c. 617.</p>

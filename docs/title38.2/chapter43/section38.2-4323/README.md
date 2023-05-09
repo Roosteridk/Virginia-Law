@@ -1,3 +1,0 @@
-# § 38.2-4323 Alternative methods.
-
-<p>A health maintenance organization may use alternative methods to an affiliation period to address adverse selection provided that they are approved by the Commission prior to their use.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0807'>807</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0913'>913</a>.</p>

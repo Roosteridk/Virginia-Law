@@ -1,3 +1,0 @@
-# § 32.1-291.17 Falsification, etc of document of gift; penalty.
-
-<p>A person that, in order to obtain a financial gain, intentionally falsifies, forges, conceals, defaces, or obliterates a document of gift, an amendment or revocation of a document of gift, or a refusal is guilty of a Class 4 felony.</p><p> 2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0092'>92</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0907'>907</a>.</p>

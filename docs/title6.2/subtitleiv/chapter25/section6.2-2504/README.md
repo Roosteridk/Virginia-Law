@@ -1,3 +1,0 @@
-# § 6.2-2504 Preemption of local laws.
-
-<p>This chapter shall preempt and be exclusive of all ordinances of any locality relating to refund anticipation loans. This section shall be given retroactive and prospective effect.</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0399'>399</a>, § 6.1-478; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

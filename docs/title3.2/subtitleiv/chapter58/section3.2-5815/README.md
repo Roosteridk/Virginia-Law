@@ -1,3 +1,0 @@
-# § 3.2-5815 Certain persons permitted but not required to obtain licenses.
-
-<p>The following persons shall not be required but shall be permitted to obtain licenses as licensed public weighmasters: (i) a weights and measures officer when acting within the scope of his official duties; (ii) a person weighing property, produce, commodities, or articles that he or his employers, if any, is either buying or selling; and (iii) a person weighing property, produce, commodities, or articles in conformity with the requirements of federal statutes or the statutes of his state relative to warehousemen or processors.</p><p>Code 1950, § 3-709.16; 1962, c. 126; 1966, c. 702, § 3.1-985; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

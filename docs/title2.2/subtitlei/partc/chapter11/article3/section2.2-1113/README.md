@@ -1,3 +1,0 @@
-# § 2.2-1113 Printing management coordination; uniform standards for state forms.
-
-<p>A. The Division may establish criteria and procedures to obtain more economical operation of state printing facilities, provide guidelines to agencies regarding the most beneficial utilization of duplicating and reproduction equipment, and to centralize printing, duplicating and reproduction equipment and services.</p><p>B. The Division may set uniform standards for the design, utilization, procurement and inventory of state forms.</p><p>1972, c. 503, § 2.1-243.1; 1976, c. 759; 1977, c. 672, §§ 2.1-464, 2.1-465; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

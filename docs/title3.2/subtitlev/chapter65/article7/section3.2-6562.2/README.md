@@ -1,3 +1,0 @@
-# § 3.2-6562.2 Rabies exposure reports.
-
-<p>Each local department of health shall make available to its local animal control officer and shall report to the State Department of Health any exposure report involving a dog bite to a human that is maintained with such local department of health through a state-mandated retention period.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0464'>464</a>.</p>

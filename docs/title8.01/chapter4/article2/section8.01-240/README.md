@@ -1,3 +1,0 @@
-# § 8.01-240 Liens for water, sewer, or sidewalk assessments.
-
-<p>No suit shall be brought to enforce the lien of any water, sewer, or sidewalk assessment, heretofore or hereafter made, against lands which have been conveyed by the person owning them at the time of such assessment to a grantee for value unless the same be brought within ten years from the due recordation of the deed from such person to grantee and within twenty years from the due docketing of such assessment.</p><p>Code 1950, §§ 8-10.1, 8-10.2; 1958, c. 516; 1966, c. 434; 1977, c. 617.</p>

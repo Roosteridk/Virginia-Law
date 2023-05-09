@@ -1,3 +1,0 @@
-# § 22.1-172 Bonds exempt from taxation.
-
-<p>The bonds issued by the Authority under the provisions of this chapter, their transfer and the income therefrom, including any profit made on the sale thereof, shall at all times be free and exempt from taxation by the Commonwealth and by any municipality, county, or any other political subdivision thereof.</p><p>Code 1950, § 22-29.12; 1962, c. 194; 1980, c. 559.</p>

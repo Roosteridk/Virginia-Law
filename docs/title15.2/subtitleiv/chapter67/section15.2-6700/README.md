@@ -1,3 +1,0 @@
-# § 15.2-6700 Buchanan County Tourist Train Development Authority established.
-
-<p>The Buchanan County Tourist Train Development Authority, hereinafter referred to as the "Authority," is created as a body politic and corporate, a political subdivision of the Commonwealth. As such it shall have, and is hereby vested with, the powers and duties hereinafter conferred in this chapter.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0577'>577</a>.</p>

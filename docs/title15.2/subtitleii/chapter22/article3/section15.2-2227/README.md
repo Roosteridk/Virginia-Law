@@ -1,3 +1,0 @@
-# § 15.2-2227 Return of plan to local planning commission; resubmission.
-
-<p>If the governing body disapproves the plan, then it shall be returned to the local planning commission for its reconsideration, with a written statement of the reasons for its disapproval.</p><p>The commission shall have sixty days in which to reconsider the plan and resubmit it, with any changes, to the governing body.</p><p>Code 1950, § 15-964.5; 1962, c. 407, § 15.1-451; 1997, c. 587.</p>

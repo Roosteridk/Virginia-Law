@@ -1,3 +1,0 @@
-# § 6.2-1361 Ascertaining value of assets.
-
-<p>In ascertaining the value of the assets of a credit union:</p><p>1. A loan delinquent for more than two but less than six months shall be valued at 90 percent of the unpaid balance;</p><p>2. A loan delinquent for six months but less than 12 months shall be valued at 75 percent of the unpaid balance; and</p><p>3. A loan delinquent for 12 months or more shall be treated as of no value.</p><p>Code 1950, § 6-228; 1964, c. 75; 1966, c. 584, § 6.1-219; 1968, c. 560; 1976, c. 202; 1990, c. 373, § 6.1-225.44; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

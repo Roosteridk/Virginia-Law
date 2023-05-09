@@ -1,3 +1,0 @@
-# § 2.2-1128 Sale of state flag.
-
-<p>The Division shall have available at all times flags of the Commonwealth, to be offered for sale to the public in such manner and cost as the Division may determine. The purchase of all flags of the Commonwealth by the Division shall comply with the provisions of § <a href='http://law.lis.virginia.gov/vacode/2.2-4323.1/'>2.2-4323.1</a>.</p><p>1977, c. 672, § 2.1-468; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>; 2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0289'>289</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0297'>297</a>.</p>

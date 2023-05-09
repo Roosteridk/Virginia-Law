@@ -1,3 +1,0 @@
-# § 33.2-205 Oaths and bonds of members.
-
-<p>Each member of the Board shall, before entering upon the discharge of his duties, take an oath that he will faithfully and honestly execute the duties of the office during his term and each shall be bonded in accordance with § <a href='/vacode/2.2-1840/'>2.2-1840</a>, conditioned upon the faithful discharge of his duties.</p><p>Code 1950, § 33-9; 1970, c. 322, § 33.1-9; 1974, c. 462; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0152'>152</a>.</p>

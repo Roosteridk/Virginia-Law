@@ -1,3 +1,0 @@
-# § 21-374 Assessment shall have effect of judgment and constitute lien.
-
-<p>The assessments shall thereupon have the force and effect of a judgment as in the case of state and county taxes. These assessments shall constitute a lien upon the lands assessed with the payment thereof, second only to state, county and district taxes and levies and shall be collected in the same manner by the same officers as the state and county taxes are collected.</p><p>Code 1919, § 1771; 1920, p. 611; 1924, p. 711; 1926, p. 620; 1936, p. 1035.</p>

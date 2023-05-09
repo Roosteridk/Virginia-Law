@@ -1,3 +1,0 @@
-# § 54.1-106.1 Notification to licensees of the Board of Medicine about immunity for health care services to patients of free clinics.
-
-<p>The Board of Medicine shall provide to its licensees a full description of the protection from civil liability established pursuant to § <a href='http://law.lis.virginia.gov/vacode/54.1-106/'>54.1-106</a>. Such description shall explain the coverage available under the Division of Risk Management pursuant to subsection B of § <a href='http://law.lis.virginia.gov/vacode/54.1-106/'>54.1-106</a>.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0134'>134</a>.</p>

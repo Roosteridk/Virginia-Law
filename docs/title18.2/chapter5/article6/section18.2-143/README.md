@@ -1,3 +1,0 @@
-# § 18.2-143 Pulling down fences or leaving open gates.
-
-<p>If any person, without permission of the owner, pull down the fence of another and leave the same down, or, without permission, open and leave open the gate of another, or any gate across a public road established by order of court, or if any person other than the owner or owners of the lands through which a line of railroad runs open and leave open a gate at any public or private crossing of the right-of-way of a railroad, he shall be guilty of a Class 4 misdemeanor.</p><p>Code 1950, § 18.1-176; 1960, c. 358; 1975, cc. 14, 15.</p>

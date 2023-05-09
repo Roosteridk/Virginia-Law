@@ -1,3 +1,0 @@
-# § 30-59 State agencies to furnish information and assistance.
-
-<p>All agencies of the Commonwealth, their staff and employees shall provide the Commission with necessary information for the performance of its duties, and to afford the Commission's staff ample opportunity to observe agency operations.</p><p>1973, c. 452.</p>

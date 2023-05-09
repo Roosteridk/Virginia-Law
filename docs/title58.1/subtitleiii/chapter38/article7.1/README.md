@@ -1,1 +1,0 @@
-# 7.1 Food and Beverage Tax

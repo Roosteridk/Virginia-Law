@@ -1,3 +1,0 @@
-# § 66-21 Superintendents and agents of facilities to have powers of sheriff.
-
-<p>The superintendents of the facilities established by the Department pursuant to § <a href='http://law.lis.virginia.gov/vacode/66-13/'>66-13</a> and their authorized agents shall have the powers of a sheriff for the purpose of preserving order at their facilities and for the conveyance of children committed to their care to and from such facilities.</p><p>Code 1950, §§ 53-332, 63-371, 63.1-247; 1968, c. 578; 1974, cc. 44, 45; 1981, c. 487; 1982, c. 636, § 53.1-246; 1989, c. 733.</p>

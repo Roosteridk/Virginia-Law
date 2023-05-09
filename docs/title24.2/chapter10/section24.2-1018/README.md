@@ -1,3 +1,0 @@
-# § 24.2-1018 Immunity of witnesses.
-
-<p>No witness called by the court or attorney for the Commonwealth and giving evidence for the prosecution, either before a grand jury or the court in any prosecution under this title, shall ever be proceeded against for any offense made penal by the provisions of this title and committed by him at or in connection with the events germane to the matter being prosecuted; but such witness shall be compelled to testify, and for refusing to answer questions, he may be punished for contempt by the court.</p><p>Code 1950, § 24-449; 1954, c. 347; 1970, c. 462, § 24.1-281; 1993, c. 641.</p>

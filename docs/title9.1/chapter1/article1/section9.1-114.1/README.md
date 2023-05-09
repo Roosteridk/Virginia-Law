@@ -1,3 +1,0 @@
-# § 9.1-114.1 Compliance with minimum training standards by school resource officers.
-
-<p>Every full-time or part-time law-enforcement officer employed as a school resource officer after July 1, 2020, shall comply with the compulsory minimum training standards for school resource officers established by the Board within a period of time fixed by the Board. The Department shall ensure that such required training is available throughout the Commonwealth.</p><p>2019, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0487'>487</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0488'>488</a>.</p>

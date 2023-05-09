@@ -1,3 +1,0 @@
-# § 58.1-1002 Exemptions.
-
-<p>The tax levied shall not apply to free distribution of sample cigarettes in packages containing five or fewer cigarettes or to any package of cigarettes customarily donated free of charge by manufacturers of cigarettes to employees in factories where cigarettes are manufactured in this Commonwealth, when such packages of cigarettes are not taxed by the federal government.</p><p>Code 1950, § 58-757.1; 1960, c. 392, § 1; 1980, c. 633; 1984, c. 675.</p>

@@ -1,3 +1,0 @@
-# § 15.2-925 Regulation, etc., of assemblies or movement of persons or vehicles under certain circumstances.
-
-<p>Any locality may empower the chief law-enforcement officer to regulate, restrict or prohibit any assembly of persons or the movement of persons or vehicles if there exists an imminent threat of any civil commotion or disturbance in the nature of a riot which constitutes a clear and present danger. In such circumstances the governing body may convene immediately in a special meeting and enact an emergency ordinance or ordinances for such purposes, notwithstanding any contrary provisions in any charter or under the general law.</p><p>1968, c. 459, § 15.1-514.1; 1997, c. 587.</p>

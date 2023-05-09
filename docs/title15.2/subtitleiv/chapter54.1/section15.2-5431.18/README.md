@@ -1,3 +1,0 @@
-# § 15.2-5431.18 Provisions of chapter only requirements for issue.
-
-<p>Bonds may be issued under the provisions of this chapter without obtaining the approval or consent of any department, division, commission, board, bureau or agency of the Commonwealth, and without any other proceeding or the happening of any other condition or thing than those proceedings, conditions or things that are specifically required by this chapter.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0643'>643</a>.</p>

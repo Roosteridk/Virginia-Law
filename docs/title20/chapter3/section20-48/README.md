@@ -1,3 +1,0 @@
-# § 20-48 Minimum age of marriage.
-
-<p>The minimum age at which persons may marry shall be 18, unless a minor has been emancipated by court order. Upon application for a marriage license, an emancipated minor shall provide a certified copy of the order of emancipation.</p><p>Code 1919, § 5090; 1932, p. 529; 1942, p. 230; 1946, p. 500; 1960, c. 363; 1972, c. 823; 1974, cc. 44, 45; 1975, c. 644; 1989, c. 733; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0174'>174</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0206'>206</a>; 2016, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0457'>457</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0543'>543</a>.</p>

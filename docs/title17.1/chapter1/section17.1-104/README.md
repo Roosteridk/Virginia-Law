@@ -1,3 +1,0 @@
-# § 17.1-104 In election by court, votes to be recorded.
-
-<p>In every appointment or election by a court to fill any office or post, the votes shall be made in writing and recorded in the order or minute book.</p><p>Code 1919, § 5961, § 17-6; 1986, c. 294; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

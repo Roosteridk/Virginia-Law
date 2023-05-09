@@ -1,3 +1,0 @@
-# § 3.2-4027 Certification by Department, Commissioner, or Board not affected.
-
-<p>Nothing contained in this chapter shall be construed to regulate, restrict, or affect the certification of seeds, plants, or other materials by the Department, the Commissioner, or the Board.</p><p>Code 1950, § 3-228; 1966, c. 702, § 3.1-284; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

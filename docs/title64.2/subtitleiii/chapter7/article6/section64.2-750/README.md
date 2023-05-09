@@ -1,3 +1,0 @@
-# § 64.2-750 Capacity of settlor of revocable trust.
-
-<p>The capacity required to create, amend, revoke, or add property to a revocable trust, or to direct the actions of the trustee of a revocable trust, is the same as that required to make a will.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-546.01; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

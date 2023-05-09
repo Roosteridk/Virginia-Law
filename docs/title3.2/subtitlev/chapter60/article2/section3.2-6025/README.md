@@ -1,3 +1,0 @@
-# § 3.2-6025 Proper disposal of dead poultry required of any person raising or keeping poultry for profit.
-
-<p>It shall be unlawful for any person to engage in the raising or keeping of poultry for profit on any premises, or to enter into a contract to raise or keep poultry for profit for another person, without providing for the disposal of dead poultry using either: (i) a disposal pit; (ii) a landfill; (iii) incineration; (iv) composting; or (v) rendering.</p><p>Code 1950, § 3-583.2; 1962, c. 157; 1966, c. 702, § 3.1-743; 1992, c. 101; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

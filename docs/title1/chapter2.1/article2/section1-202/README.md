@@ -1,3 +1,0 @@
-# § 1-202 General rule of construction.
-
-<p>The rules and definitions set forth in this chapter shall be used in the construction of this Code and the acts of the General Assembly, unless the construction would be inconsistent with the manifest intention of the General Assembly.</p><p>Code 1919, § 5; Code 1950, § 1-13; 1950, p. 20; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

@@ -1,3 +1,0 @@
-# § 32.1-134.2 Clinical privileges for certain practitioners.
-
-<p>The grant or denial of clinical privileges to licensed podiatrists and certified nurse midwives licensed as nurse practitioners pursuant to § <a href='http://law.lis.virginia.gov/vacode/54.1-2957/'>54.1-2957</a> by any hospital licensed in this Commonwealth, and the determination by the hospital of the scope of such privileges, shall be based upon such practitioner's professional license, experience, competence, ability, and judgment, and the reasonable objectives and regulations of the hospital in which such privileges are sought.</p><p>Code 1950, § 32-301.1; 1979, c. 40; 1992, c. 452.</p>

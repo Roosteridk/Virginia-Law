@@ -1,3 +1,0 @@
-# § 55.1-1402 Apportionment on purchase of part of land by holder of rent.
-
-<p>When the holder of a rent purchases part of the land out of which the rent issues, such rent shall be apportioned in like manner as if the land had come to him by descent, and when the holder of land that is part of land out of which rent issues purchases such rent or part of it, the rent so purchased shall be apportioned as in like manner as if the land had come to him by descent.</p><p>Code 1919, § 5547; Code 1950, § 55-219; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

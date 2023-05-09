@@ -1,3 +1,0 @@
-# § 8.7-404 No liability for good faith delivery pursuant to receipt or bill.
-
-<p>A bailee who in good faith has received goods and delivered or otherwise disposed of them according to the terms of the document or pursuant to this title is not liable therefor. This rule applies even though (a) the person from whom he received the goods had no authority to procure the document or to dispose of the goods or (b) the person to whom he delivered the goods had no authority to receive them.</p><p>Code 1950, § 61-13; 1964, c. 219; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0200'>200</a>.</p>

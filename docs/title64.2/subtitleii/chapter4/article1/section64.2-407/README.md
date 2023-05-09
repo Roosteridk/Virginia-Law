@@ -1,3 +1,0 @@
-# § 64.2-407 Will of personal estate of nonresidents.
-
-<p>Notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/64.2-403/'>64.2-403</a>, the will of a person domiciled out of the Commonwealth at the time of his death shall be valid as to personal property in the Commonwealth if the will is executed according to the law of the state or country in which the person was so domiciled.</p><p>Code 1950, § 64-55; 1968, c. 656, § 64.1-53; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0266'>266</a>.</p>

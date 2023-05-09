@@ -1,3 +1,0 @@
-# § 36-175 False claims prohibited; penalty.
-
-<p>A person who knowingly prepares or causes to be prepared a false claim, receipt, statement, or billing to avoid or evade taxes or penalties upon the withdrawal of money or funds from an account for which the account holder claims first-time home buyer savings account status is guilty of a Class 1 misdemeanor.</p><p>2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0729'>729</a>, § 55-559; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

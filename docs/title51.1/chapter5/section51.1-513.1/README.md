@@ -1,3 +1,0 @@
-# § 51.1-513.1 Long-term care insurance.
-
-<p>The Department of Human Resource Management is authorized to develop, implement, and administer a long-term care insurance program. The program shall be coordinated with any disability, life, or other insurance program administered under this title. The Department of Human Resource Management is authorized to contract for and purchase such coverage or use other actuarially sound funding necessary to effectuate this provision.</p><p>1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0005'>5</a>; 2000, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0066'>66</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0657'>657</a>.</p>

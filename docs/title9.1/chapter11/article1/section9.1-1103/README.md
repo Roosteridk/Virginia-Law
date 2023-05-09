@@ -1,3 +1,0 @@
-# § 9.1-1103 Forensic Science Academy.
-
-<p>The Forensic Science Academy, formerly within the Division of Forensic Science, shall be transferred to the Department, and shall provide advanced training to law-enforcement agencies in the location, collection, and preservation of evidence.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0868'>868</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0881'>881</a>.</p>

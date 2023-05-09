@@ -1,3 +1,0 @@
-# § 13.1-1050.5 Survival of remedy after cancellation of existence.
-
-<p>The cancellation of existence of a limited liability company shall not take away or impair any remedy available to or against the limited liability company or its members or managers for any right or claim existing, or any liability incurred, before the cancellation. Any action or proceeding by or against the limited liability company may be prosecuted or defended by the limited liability company in its name. The members or managers shall have power to take limited liability company action or other action as shall be appropriate to protect any remedy, right, or claim.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0288'>288</a>.</p>

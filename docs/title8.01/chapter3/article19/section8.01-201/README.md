@@ -1,3 +1,0 @@
-# § 8.01-201 Execution; real estate to be sold.
-
-<p>In a writ of fieri facias upon a judgment or decree against any person indebted or liable to the Commonwealth, or against any surety of his, after the words "we command you that of the," the clerk shall insert the words "goods, chattels, and real estate," and conform the subsequent part of such writ thereto. And under any writ so issued, real estate may be taken and sold.</p><p>Code 1950, § 8-764; 1977, c. 617.</p>

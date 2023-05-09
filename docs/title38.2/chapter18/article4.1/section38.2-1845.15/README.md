@@ -1,3 +1,0 @@
-# § 38.2-1845.15 Record retention.
-
-<p>The public adjuster shall maintain sufficient records of its affairs so that the Commission may adequately ensure that the public adjuster complies with all provisions of this chapter. The public adjuster shall retain records pertaining to each claim handled for a minimum of five years after the claim is settled. The appropriate licensing authority may prescribe the specific record entries and documents to be kept.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0734'>734</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0735'>735</a>.</p>

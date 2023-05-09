@@ -1,3 +1,0 @@
-# § 44-42 Kinds of courts-martial; how constituted and powers.
-
-<p>In the National Guard not in federal service, there shall be special and summary courts-martial, constituted like similar courts of the army and the air force. They shall have the jurisdiction and powers, except as to punishments, and shall follow the forms and procedures provided for such courts as are enumerated in the Manual for Courts-Martial United States.</p><p>1930, p. 956; Michie Code 1942, § 2673(32); 1976, c. 399; 2011, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0572'>572</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?111+ful+CHAP0586'>586</a>.</p>

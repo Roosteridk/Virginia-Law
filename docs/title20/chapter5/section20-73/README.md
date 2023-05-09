@@ -1,3 +1,0 @@
-# § 20-73 Condition of the recognizance.
-
-<p>The condition of the recognizance shall be such that if the defendant shall make his or her personal appearance in court upon such date as may be specified by the court, or whenever, in the meantime, he or she may be ordered so to do, and shall further comply with the terms of such order, or any subsequent modification or amendment thereof, then such recognizance shall be void, otherwise in full force and effect.</p><p>Code 1919, § 1939; 1932, p. 466; 1940, p. 477.</p>

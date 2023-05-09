@@ -1,3 +1,0 @@
-# § 15.2-2251 Local planning commission shall prepare and recommend ordinance; notice and hearing on ordinance.
-
-<p>In every locality the local planning commission shall prepare and recommend the subdivision ordinance and transmit it to the governing body. The governing body of every locality shall approve and adopt a subdivision ordinance only after notice has been published, and a public hearing held, in accordance with § <a href='http://law.lis.virginia.gov/vacode/15.2-2204/'>15.2-2204</a>.</p><p>Code 1950, §§ 15-782, 15-967.5; 1962, c. 407, § 15.1-470; 1975, c. 641; 1997, c. 587.</p>

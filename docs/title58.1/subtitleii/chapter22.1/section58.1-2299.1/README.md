@@ -1,3 +1,0 @@
-# § 58.1-2299.1 Exclusion from professional license tax.
-
-<p>The amount of the tax imposed by this chapter and collected by a distributor in any taxable year shall be excluded from gross receipts for purposes of any tax imposed under Chapter 37 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-3700/'>58.1-3700</a> et seq.).</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0217'>217</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0225'>225</a>.</p>

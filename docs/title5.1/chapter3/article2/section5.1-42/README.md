@@ -1,3 +1,0 @@
-# § 5.1-42 Payment of purchase price or award for land acquired; issuance of bonds.
-
-<p>The purchase price or award for real property acquired for an airport or landing field may be paid for by the appropriation of moneys available therefor or wholly or partly paid from the proceeds of the sale of bonds of the city, town or county as the governing body of the city, town or county shall determine. Such city, town or county is hereby authorized to issue bonds for such purpose or purposes, subject, however, to the approval of such bond issue at a referendum thereon, if such approval is a prerequisite to the issuance of bonds by any such political subdivision of the Commonwealth for public purposes generally.</p><p>Code 1950, § 5-33; 1966, c. 576.</p>

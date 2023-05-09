@@ -1,3 +1,0 @@
-# § 3.2-6033 Ordinances prohibiting feeding of certain putrescible wastes.
-
-<p>The governing body of any locality may by ordinance prohibit the feeding to swine within its jurisdiction of putrescible wastes resulting from the handling, preparation, cooking, and consumption of foods that do not contain animal carcasses or parts thereof.</p><p>1970, c. 619, § 3.1-762.1; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

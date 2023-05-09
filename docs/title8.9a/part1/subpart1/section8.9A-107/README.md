@@ -1,3 +1,0 @@
-# § 8.9A-107 Control of letter-of-credit right.
-
-<p>A secured party has control of a letter-of-credit right to the extent of any right to payment or performance by the issuer or any nominated person if the issuer or nominated person has consented to an assignment of proceeds of the letter of credit under subsection (c) of § <a href='http://law.lis.virginia.gov/vacode/8.5A-114/'>8.5A-114</a> or otherwise applicable law or practice.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1007'>1007</a>.</p>

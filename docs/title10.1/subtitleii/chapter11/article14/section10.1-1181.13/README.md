@@ -1,3 +1,0 @@
-# § 10.1-1181.13 Definitions.
-
-<p>As used in this article, unless the context requires a different meaning:</p><p>"Construction project" means any land-disturbing activity that involves construction of infrastructure, including interstate highways, pipelines, or energy generation and transmission facilities.</p><p>"Forest mitigation" means addressing the direct and indirect adverse impacts to forests that may be caused by a construction project by avoiding and minimizing impacts to the extent practicable and then compensating for the remaining impacts.</p><p>2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0959'>959</a>.</p>

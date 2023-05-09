@@ -1,3 +1,0 @@
-# § 3.2-5610 Investigations by Commissioner.
-
-<p>The Commissioner shall investigate complaints made to him concerning violations of the provisions of this chapter, and shall, upon his own initiative, conduct such investigations as he deems appropriate and advisable to develop information on prevailing procedures in commercial quantity determinations and on possible violations of the provisions of this chapter and to promote the general objective of accuracy in the determination and representation of quantity in commercial transactions.</p><p>Code 1950, § 3-708.11; 1962, c. 298; 1966, c. 702, § 3.1-929; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

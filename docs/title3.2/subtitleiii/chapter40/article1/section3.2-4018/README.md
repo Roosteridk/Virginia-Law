@@ -1,3 +1,0 @@
-# § 3.2-4018 Notice of violations; warning.
-
-<p>A. The Commissioner shall notify the custodian of any seed or screenings in violation of this article. The Commissioner shall forward a copy of notice to the guarantor.</p><p>B. Nothing in this article requires that the Commissioner report for prosecution or institute seizure proceedings if the Commissioner considers the violation of the law to be minor. In such cases, the Commissioner may provide a notice of warning in writing.</p><p>Code 1950, § 3-219.12; 1958, c. 483; 1966, cc. 9, 702, § 3.1-274; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0577'>577</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

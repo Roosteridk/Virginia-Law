@@ -1,3 +1,0 @@
-# § 58.1-400 Imposition of tax.
-
-<p>A tax at the rate of six percent is hereby annually imposed on the Virginia taxable income for each taxable year of every corporation organized under the laws of the Commonwealth and every foreign corporation having income from Virginia sources.</p><p>Code 1950, §§ 58-151.03, 58-151.031; 1971, Ex. Sess., c. 171; 1972, cc. 310, 563; 1978, cc. 159, 796; 1981, c. 402; 1984, c. 675.</p>

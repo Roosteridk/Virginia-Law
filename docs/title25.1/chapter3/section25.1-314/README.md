@@ -1,3 +1,0 @@
-# § 25.1-314 Order confirming award; recordation.
-
-<p>The final order of the court confirming an award of compensation to the owner or owners of property shall confirm in the authorized condemnor absolute and indefeasible title to the property that is the subject of the condemnation proceeding. Such order shall be recorded in the current land records in the office of each clerk of court in which the certificate was recorded.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0940'>940</a>.</p>

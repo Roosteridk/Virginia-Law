@@ -1,3 +1,0 @@
-# § 58.1-2299.18 Suits to recover taxes.
-
-<p>If any person fails to pay the tax or any civil penalty levied under this chapter, including accrued penalties and interest, when due, the Attorney General or the Commissioner may bring an appropriate action for the recovery of such tax, penalty, and interest, provided that if it is found that such failure to pay was willful, judgment shall be rendered for double the amount of the tax or civil penalty found to be due, with costs.</p><p>2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0217'>217</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0225'>225</a>.</p>

@@ -1,3 +1,0 @@
-# § 28.2-1419 Injunctions.
-
-<p>Upon the petition of the Commission or a wetlands board to the circuit court of the county or city where any act is done or threatened which is unlawful under this chapter, the court may enjoin the unlawful act and order the defendant to take any steps necessary to restore, protect, and preserve the dunes or beaches involved. This remedy shall be exclusive of and in addition to any criminal penalty which may be imposed under § <a href='http://law.lis.virginia.gov/vacode/28.2-1418/'>28.2-1418</a>.</p><p>1992, c. 836.</p>

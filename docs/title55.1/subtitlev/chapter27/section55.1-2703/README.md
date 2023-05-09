@@ -1,3 +1,0 @@
-# § 55.1-2703 Right of property to be proved.
-
-<p>In any action relating to the ownership of any property described in § <a href='/vacode/55.1-2700/'>55.1-2700</a>, the person, other than the owner of such land, claiming to be the owner of the property must prove his ownership in order to sustain his claim.</p><p>Code 1919, § 3572; Code 1950, § 55-210; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

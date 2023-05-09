@@ -1,3 +1,0 @@
-# § 15.2-3709 Special debt district.
-
-<p>If so provided in the agreement required by § <a href='http://law.lis.virginia.gov/vacode/15.2-3701/'>15.2-3701</a>, the territory constituting the former town may be a special debt district for the purpose of repaying all or part of the existing indebtedness chargeable to the town before annulment. A special tax on real property within the special debt district shall be levied for a period not exceeding twenty years. The special tax may be different from and in addition to the general tax rate throughout the entire county or counties in which the town was located.</p><p>1992, c. 453, § 15.1-965.38; 1997, c. 587.</p>

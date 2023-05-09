@@ -1,3 +1,0 @@
-# § 3.2-2702 Marine Products Board officers and compensation.
-
-<p>A. The Marine Products Board shall elect one of its members as chairman, whose term shall be three years or until his successor is elected, and such other officers as deemed appropriate.</p><p>B. The Marine Products Board may appoint an executive secretary and employees as may be necessary at salaries to be fixed by the Marine Products Board, subject to the provisions of Chapter 29 (§ <a href='http://law.lis.virginia.gov/vacode/2.2-2900/'>2.2-2900</a> et seq.) of Title 2.2.</p><p>1979, c. 274, §§ 28.1-230, 28.1-231, 28.1-237; 1980, c. 712; 1984, cc. 265, 750; 1985, c. 448; 1992, c. 836, § 3.1-684.59; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

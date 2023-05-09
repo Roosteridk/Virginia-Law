@@ -1,3 +1,0 @@
-# § 18.2-271.4 Oath of office.
-
-<p>Every case manager, and any other employee who is designated by the director of any VASAP-certified local alcohol safety action program operated pursuant to this article to provide probation and related services, shall take an oath of office as prescribed in § <a href='http://law.lis.virginia.gov/vacode/49-1/'>49-1</a>, by a person authorized to administer oaths pursuant to § <a href='http://law.lis.virginia.gov/vacode/49-3/'>49-3</a>, before entering the duties of his office.</p><p>2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0380'>380</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0396'>396</a>.</p>

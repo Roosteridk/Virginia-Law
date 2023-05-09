@@ -1,3 +1,0 @@
-# § 50-73.85 Transactions between partner and partnership.
-
-<p>A partner may lend money to and transact other business with the partnership, and as to each loan or transaction, the rights and obligations of the partner are the same as those of a person who is not a partner, subject to other applicable law.</p><p>1996, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0292'>292</a>.</p>

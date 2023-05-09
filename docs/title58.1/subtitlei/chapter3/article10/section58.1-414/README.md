@@ -1,3 +1,0 @@
-# § 58.1-414 Sales factor.
-
-<p>The sales factor is a fraction, the numerator of which is the total sales of the corporation in the Commonwealth during the taxable year, and the denominator of which is the total sales of the corporation everywhere during the taxable year, to the extent that such sales are used to produce Virginia taxable income and are effectively connected with the conduct of a trade or business within the United States and income therefrom is includable in federal taxable income.</p><p>Code 1950, § 58-151.047; 1971, Ex. Sess., c. 171; 1981, c. 402; 1984, c. 675.</p>

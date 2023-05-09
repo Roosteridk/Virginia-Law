@@ -1,3 +1,0 @@
-# § 1-220 Local ordinances incorporating state law by reference.
-
-<p>When counties, cities and towns are empowered to incorporate by reference provisions of the Code, acts of the General Assembly, or state regulations into a local ordinance, any ordinance incorporating by reference provisions of the Code, acts of the General Assembly or state regulations may include future amendments to the provisions of the Code, acts of the General Assembly or state regulations provided such intent is specifically stated in such ordinance.</p><p>1993, c. 710, § 1-13.39:2; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0771'>771</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0839'>839</a>.</p>

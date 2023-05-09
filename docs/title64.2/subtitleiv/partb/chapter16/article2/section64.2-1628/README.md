@@ -1,3 +1,0 @@
-# § 64.2-1628 Commodities and options.
-
-<p>Unless the power of attorney otherwise provides, language in a power of attorney granting general authority with respect to commodities and options authorizes the agent to:</p><p>1. Buy, sell, exchange, assign, settle, and exercise commodity futures contracts and call or put options on stocks or stock indexes traded on a regulated option exchange; and</p><p>2. Establish, continue, modify, and terminate option accounts.</p><p>2010, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0455'>455</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0632'>632</a>, § 26-101; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,3 +1,0 @@
-# § 18.2-105.2 Manufacture, sale, etc., of devices to shield against electronic detection of shoplifting prohibited; penalty.
-
-<p>It shall be unlawful to manufacture, sell, offer for sale, distribute or possess any specially coated or laminated bag or other device primarily designed and intended to shield shoplifted merchandise from detection by an anti-theft electronic alarm sensor, with the intention that the same be used to aid in the shoplifting of merchandise. A violation of this section shall be punishable as a Class 1 misdemeanor.</p><p>1984, c. 386; 2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0831'>831</a>.</p>

@@ -1,3 +1,0 @@
-# § 38.2-4711 Exemptions.
-
-<p>This chapter shall not apply to the inclusion of a charge for insurance in a sale of property, goods or services payable in installments, or in a loan made for purposes other than the financing of insurance premiums only.</p><p>1964, c. 147, § 38.1-745; 1981, c. 107; 1986, c. 562.</p>

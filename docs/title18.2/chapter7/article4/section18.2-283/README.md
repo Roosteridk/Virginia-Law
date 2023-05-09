@@ -1,3 +1,0 @@
-# § 18.2-283 Carrying dangerous weapon to place of religious worship.
-
-<p>If any person carry any gun, pistol, bowie knife, dagger or other dangerous weapon, without good and sufficient reason, to a place of worship while a meeting for religious purposes is being held at such place he shall be guilty of a Class 4 misdemeanor.</p><p>Code 1950, § 18.1-241; 1960, c. 358; 1962, c. 411; 1975, cc. 14, 15.</p>

@@ -1,3 +1,0 @@
-# § 17.1-322 Duties.
-
-<p>The Reporter shall prepare and deliver from time to time to such printer as the Comptroller may direct manuscript reports of such decisions of the Court as the judges thereof shall direct, with an abstract of the points decided in each case and an index to the contents of the volume, a table of cases reported, a table of cases cited and a table of Virginia statutes cited and construed in the volume. The Reporter shall examine and correct the proof sheets thereof as they shall be furnished him by the printer.</p><p>Code 1919, §§ 5880, 5881, § 17-115; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>.</p>

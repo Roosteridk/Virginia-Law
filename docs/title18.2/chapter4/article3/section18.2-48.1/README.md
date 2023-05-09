@@ -1,3 +1,0 @@
-# § 18.2-48.1 Abduction by prisoners or committed persons; penalty.
-
-<p>Any person confined in a state, local, or community correctional facility or committed to the Department of Juvenile Justice in any juvenile correctional center, or in the custody of an employee thereof, or who has escaped from any such facility or from any person in charge of such prisoner or committed person, who abducts or takes any person hostage is guilty of a Class 3 felony.</p><p>1985, c. 526; 1986, c. 414; 2013, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0707'>707</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0782'>782</a>.</p>

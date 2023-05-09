@@ -1,3 +1,0 @@
-# § 22.1-199.5 After school programs for at-risk students.
-
-<p>A local school board may establish after school programs designed to prevent at-risk youth from engaging in illegal or gang-related activities for school aged children.</p><p>Local funds appropriated for K through 12 education may be used to support such after-school programs.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0455'>455</a>.</p>

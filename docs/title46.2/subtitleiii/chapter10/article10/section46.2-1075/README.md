@@ -1,3 +1,0 @@
-# § 46.2-1075 Possession of vehicles with serial numbers removed or altered.
-
-<p>Any person who shall knowingly have in his possession a motor vehicle, motor vehicle part, trailer, or semitrailer whose motor number, serial number, identification number, decal or device as required by federal law has been removed, changed, or altered without the consent of the Department shall be guilty of a Class 6 felony.</p><p>Code 1950, § 46-10; 1958, c. 541, § 46.1-83; 1978, cc. 294, 605; 1979, c. 428; 1989, c. 727; 1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0591'>591</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0917'>917</a>.</p>

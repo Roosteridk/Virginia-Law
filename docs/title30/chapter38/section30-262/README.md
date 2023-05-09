@@ -1,3 +1,0 @@
-# § 30-262 Staffing.
-
-<p>The Commission may appoint and employ and, at its pleasure, remove an executive director and such other persons as it deems necessary to assist it in carrying out its duties as set forth in this chapter. The Commission may determine the duties of such staff and fix their salaries or compensation within the amounts as may be appropriated from general or nongeneral funds. Nongeneral funds may include, but not be limited to, federal grants and private donations or contributions. All other agencies and governing bodies and agencies of political subdivisions of the Commonwealth shall provide assistance to the Commission, upon request.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP1000'>1000</a>.</p>

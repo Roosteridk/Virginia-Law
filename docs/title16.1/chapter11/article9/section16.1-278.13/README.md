@@ -1,3 +1,0 @@
-# § 16.1-278.13 Work permits; petitions for treatment, etc.
-
-<p>In cases involving judicial consent to apply for a work permit for a child, the juvenile court shall enter an order either granting, in whole or in part, consent to such application or withholding such consent as is appropriate to protect the health and welfare of the child.</p><p>In cases involving petitions filed by or on behalf of a child or such child's parent to obtain treatment, rehabilitation or other services required by law to be provided for such persons, the juvenile court or the circuit court may enter an order in accordance with § <a href='http://law.lis.virginia.gov/vacode/16.1-278/'>16.1-278</a>.</p><p>1991, cc. 511, 534.</p>

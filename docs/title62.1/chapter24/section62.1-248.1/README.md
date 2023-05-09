@@ -1,3 +1,0 @@
-# § 62.1-248.1 When application for permit considered complete.
-
-<p>No application for a permit shall be considered complete unless the applicant has provided the Executive Director with notification from the governing body of the county, city or town in which the withdrawal is to take place that the location and operation of the withdrawing facility is consistent with all ordinances adopted pursuant to Chapter 22 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-2200/'>15.2-2200</a> et seq.) of Title 15.2. The provisions of this section shall not apply to any applicant exempt from compliance under Chapter 22 (§ <a href='http://law.lis.virginia.gov/vacode/15.2-2200/'>15.2-2200</a> et seq.) of Title 15.2.</p><p>1992, c. 186.</p>

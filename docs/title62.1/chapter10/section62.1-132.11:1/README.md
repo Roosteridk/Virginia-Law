@@ -1,3 +1,0 @@
-# § 62.1-132.11:1 Prevention and suppression of fire.
-
-<p>The Authority may take such steps as necessary, not inconsistent with other provisions of law, to prevent and suppress fires on the waters of Hampton Roads, its tributaries and other waters in the vicinity of Hampton Roads, and on property adjacent to such waters which is accessible to a fire boat. In furtherance of this purpose, the Authority may, out of such funds as may become available, purchase, equip, maintain, use, and provide and train a crew or crews for a fire boat or fire boats.</p><p>1983, c. 303.</p>

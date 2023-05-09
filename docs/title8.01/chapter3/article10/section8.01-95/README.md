@@ -1,3 +1,0 @@
-# § 8.01-95 Procedure in such case.
-
-<p>The procedure in such suit and the investment of the proceeds of sale shall be in accordance with §§ <a href='/vacode/8.01-73/'>8.01-73</a>, <a href='/vacode/8.01-75/'>8.01-75</a> and <a href='/vacode/8.01-76/'>8.01-76</a>, so far as the same can be made applicable, and the court may, in its discretion, commute the life estate according to § <a href='/vacode/55.1-500/'>55.1-500</a>. In the case of a lease, however, the rents may be made payable direct to the person or persons entitled thereto, for the time being.</p><p>Code 1950, § 8-703.2; 1977, c. 617.</p>

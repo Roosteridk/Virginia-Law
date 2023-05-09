@@ -1,3 +1,0 @@
-# § 30-169.1 Cooperation of other state agencies and political subdivisions.
-
-<p>The Commission may request and shall receive from every department, division, board, bureau, commission, authority or other agency created by the Commonwealth, or to which the Commonwealth is party, or from any political subdivision of the Commonwealth, cooperation and assistance in the performance of its duties.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0296'>296</a>.</p>

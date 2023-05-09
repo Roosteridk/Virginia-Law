@@ -1,3 +1,0 @@
-# § 2.2-1811 Unpresented checks drawn by State Treasurer; replacement and payment.
-
-<p>The State Treasurer shall report and remit, pursuant to the provisions of §§ <a href='/vacode/55.1-2517/'>55.1-2517</a> and <a href='/vacode/55.1-2524/'>55.1-2524</a>, all checks drawn by him on state depositories that have not been presented for payment within one year from the date of issuance.</p><p>Code 1950, § 2-158; 1966, c. 677, § 2.1-190; 1983, c. 190; 2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0844'>844</a>.</p>

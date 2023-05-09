@@ -1,3 +1,0 @@
-# § 15.2-5325 Clinics and instruction programs.
-
-<p>An authority shall have power to provide and operate outpatient departments, maternity clinics and any other clinics customarily operated in hospitals in metropolitan centers and to provide teaching and instruction programs and schools for medical students, interns, physicians and nurses.</p><p>Code 1950, § 32-239; 1979, c. 719, § 15.1-1559; 1997, c. 587.</p>

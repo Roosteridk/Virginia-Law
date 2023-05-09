@@ -1,3 +1,0 @@
-# § 58.1-2034 Correction of other erroneous assessments made by the State Corporation Commission.
-
-<p>If any assessment is made by the State Corporation Commission of the real or personal property or of the franchises of any corporation in any case for which a remedy for the redress and correction of any such assessment is not otherwise expressly provided by law, any such corporation or the Commonwealth or any county or city, may, within sixty days after receiving a certified copy of the assessment of such taxes by the State Corporation Commission, apply to the Supreme Court in the manner and upon the terms prescribed by such court.</p><p>Code 1950, § 58-1129; 1984, c. 675.</p>

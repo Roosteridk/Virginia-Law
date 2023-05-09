@@ -1,3 +1,0 @@
-# § 3.2-4761 Procedure for refusal or revocation of license; notice of hearing.
-
-<p>Before the Commissioner refuses or revokes a license, he shall give 10 days' notice by registered mail to the applicant or licensee of the time and place of hearing. The applicant or licensee may appear at the hearing in person, or with counsel and produce witnesses. If the Commissioner finds the applicant or licensee in violation of any act provided in § <a href='http://law.lis.virginia.gov/vacode/3.2-4760/'>3.2-4760</a>, he may refuse, suspend, or revoke the license and shall give immediate notice of his action to the applicant or licensee.</p><p>1972, c. 296, § 3.1-722.25; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

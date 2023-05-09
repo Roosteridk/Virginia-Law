@@ -1,3 +1,0 @@
-# § 15.2-4113 Restriction on subsequent change in status.
-
-<p>Notwithstanding any contrary provision of law, general or special, a town created under this chapter shall not return to its previous independent city status.</p><p>1996, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0337'>337</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?961+ful+CHAP0349'>349</a>, § 15.1-965.22:1; 1997, c. 587.</p>

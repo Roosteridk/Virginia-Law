@@ -1,3 +1,0 @@
-# § 15.2-944 Authority to acquire and preserve places and things of historical interest.
-
-<p>Any locality may acquire, except by condemnation, sites, landmarks, structures and records of historical interest and value to the Commonwealth and may restore and preserve them, or may convey them to a nonstock corporation chartered under Virginia law for the purposes of acquiring and preserving such places and things. A locality may appropriate money to any such corporation.</p><p>Code 1950, § 15-7.3; 1962, c. 333, § 15.1-18.1; 1997, c. 587.</p>

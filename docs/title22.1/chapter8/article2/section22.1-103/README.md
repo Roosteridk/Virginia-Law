@@ -1,3 +1,0 @@
-# § 22.1-103 Uniform county levy in lieu of district levies; request by school board; petition for referendum.
-
-<p>In any county in which the governing body imposes district levies for school purposes, the school board may, by resolution, request the governing body to impose a uniform county levy for school purposes with the proceeds to be expended as provided by law and such expenditures shall include the repayment of district school obligations. Upon the receipt of any such resolution the governing body shall petition the circuit court of the county to fix a date for a referendum to obtain the sense of the qualified voters upon such change.</p><p>Code 1950, § 22-130.1; 1958, c. 45; 1980, c. 559.</p>

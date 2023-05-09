@@ -1,3 +1,0 @@
-# § 9.1-1112 Meetings and chairman.
-
-<p>The Committee shall meet twice a year in the City of Richmond and at such other times and places as it determines or as directed by the Governor or the Forensic Science Board. A chairman shall be elected from among the members appointed by the Governor. Staff to the Committee shall be provided by the Department of Forensic Science.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0868'>868</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0881'>881</a>.</p>

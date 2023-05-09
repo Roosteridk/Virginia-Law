@@ -1,3 +1,0 @@
-# § 15.2-1428 Procedures for certain acts.
-
-<p>No ordinance or resolution appropriating money exceeding the sum of $500, imposing taxes, or authorizing the borrowing of money shall be passed except by a recorded affirmative vote of a majority of all members elected to the governing body. In case of the veto of such an ordinance or resolution, where the power of veto exists, it shall require for passage thereafter a recorded affirmative vote of two-thirds of all members elected to the governing body.</p><p>Code 1950, § 15-412; 1962, c. 623, § 15.1-819; 1971, Ex. Sess., c. 35; 1991, c. 668; 1997, c. 587.</p>

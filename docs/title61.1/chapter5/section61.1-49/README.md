@@ -1,3 +1,0 @@
-# § 61.1-49 Ticket or card to be placed upon tobacco.
-
-<p>Such warehouseman or cooperative marketing association shall also place upon all leaf tobacco delivered to him or to it for sale, offer for sale, or display for sale, a ticket or card which shall state the matters and things required to be recorded by the warehouseman or cooperative marketing association by §§ <a href='http://law.lis.virginia.gov/vacode/61.1-47/'>61.1-47</a> and <a href='http://law.lis.virginia.gov/vacode/61.1-48/'>61.1-48</a>.</p><p>Code 1950, § 61-148; 1968, c. 69.</p>

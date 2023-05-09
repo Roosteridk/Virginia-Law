@@ -1,3 +1,0 @@
-# § 8.01-412.13 Application to court.
-
-<p>An application to the court for a protective order or to enforce, quash, or modify a subpoena issued by a clerk of court under § <a href='http://law.lis.virginia.gov/vacode/8.01-412.10/'>8.01-412.10</a> shall comply with the statutes and rules of court of the Commonwealth and be submitted to the court in the circuit in which discovery is to be conducted. A separate civil action need not be filed.</p><p>2009, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?091+ful+CHAP0701'>701</a>.</p>

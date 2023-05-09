@@ -1,3 +1,0 @@
-# § 15.2-6629 Participating political subdivision.
-
-<p>No pecuniary liability of any kind shall be imposed upon any participating political subdivision because of any act, omission, agreement, contract, tort, malfeasance, misfeasance, or nonfeasance by or on the part of the Authority or any member thereof, or its agents, servants, or employees, except as otherwise provided in this act with respect to contracts and agreements between the Authority and any other political subdivision.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0842'>842</a>.</p>

@@ -1,3 +1,0 @@
-# § 15.2-1717 Preventing interference with pupils at schools.
-
-<p>Localities may adopt any reasonable ordinance necessary to prevent any improper interference with or annoyance of the pupils attending or boarding at any schools situated in such locality.</p><p>Code 1950, § 15-558; 1962, c. 623, § 15.1-139; 1973, c. 401; 1984, c. 661; 1997, c. 587.</p>

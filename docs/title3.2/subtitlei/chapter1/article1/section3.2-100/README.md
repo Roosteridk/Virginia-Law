@@ -1,3 +1,0 @@
-# § 3.2-100 Definitions.
-
-<p>As used in this title, unless the context requires a different meaning:</p><p>"Board" means the Board of Agriculture and Consumer Services.</p><p>"Commissioner" means the Commissioner of Agriculture and Consumer Services.</p><p>"Department" means the Department of Agriculture and Consumer Services.</p><p>2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

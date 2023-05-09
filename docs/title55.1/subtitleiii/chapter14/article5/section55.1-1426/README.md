@@ -1,3 +1,0 @@
-# § 55.1-1426 Fee of clerk.
-
-<p>The clerk shall be paid for recording, granting certificate, and noting publication, as required by § <a href='/vacode/55.1-1425/'>55.1-1425</a>, the fee prescribed in subdivision A 2 of § <a href='/vacode/17.1-275/'>17.1-275</a> and shall collect and account for the same tax upon every such act of reentry offered for record as is levied by law upon deeds of conveyance.</p><p>Code 1919, § 5537; Code 1950, § 55-246; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0432'>432</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

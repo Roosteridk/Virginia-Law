@@ -1,3 +1,0 @@
-# § 18.2-23.1 Completed substantive offense bars conviction for conspiracy.
-
-<p>Notwithstanding any other provision of this article or of § <a href='http://law.lis.virginia.gov/vacode/18.2-256/'>18.2-256</a>, in any case where a defendant has been tried and convicted of an act he has also conspired to commit, such defendant shall be subject to conviction only for the completed substantive offense and not thereafter be convicted for the underlying conspiracy.</p><p>1985, c. 376.</p>

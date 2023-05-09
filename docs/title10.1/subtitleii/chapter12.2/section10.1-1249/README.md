@@ -1,3 +1,0 @@
-# § 10.1-1249 Relation to Electronic Signatures in Global and National Commerce Act.
-
-<p>This chapter modifies, limits, or supersedes the federal Electronic Signatures in Global and National Commerce Act (15 U.S.C. § 7001 et seq.) but does not modify, limit, or supersede § 101 of that Act (15 U.S.C. § 7001(c)) or authorize electronic delivery of any of the notices described in § 103 of that Act (15 U.S.C. § 7003 (b)).</p><p>2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0691'>691</a>.</p>

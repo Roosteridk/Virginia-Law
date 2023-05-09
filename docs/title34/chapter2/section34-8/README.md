@@ -1,3 +1,0 @@
-# § 34-8 Partition or sale of real estate held as exempt by joint tenant, etc.
-
-<p>If the estate so set apart be held by the householder as joint tenant, coparcener or tenant in common, partition or sale may be had as provided by Article 11 (§ <a href='http://law.lis.virginia.gov/vacode/8.01-96/'>8.01-96</a> et seq.) of Chapter 3 of Title 8.01 and in case of sale the share of the proceeds to which the householder is entitled shall be paid to the householder and invested by him in such other property as he may select.</p><p>Code 1919, § 6534.</p>

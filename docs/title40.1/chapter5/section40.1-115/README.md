@@ -1,3 +1,0 @@
-# § 40.1-115 School attendance.
-
-<p>Nothing contained in this chapter shall be construed as qualifying in any way the provisions of the compulsory education laws of this Commonwealth, nor as authorizing the employment of any child who is absent unlawfully from school.</p><p>Code 1950, § 40-121; 1970, c. 321.</p>

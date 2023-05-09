@@ -1,3 +1,0 @@
-# § 15.2-100 Charter powers not affected by title.
-
-<p>Except when otherwise expressly provided by the words, "Notwithstanding any contrary provision of law, general or special," or words of similar import, the provisions of this title shall not repeal, amend, impair or affect any power, right or privilege conferred on counties, cities and towns by charter.</p><p>Code 1950, § 15-2; 1962, c. 623, § 15.1-1; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 58.1-382 Place of filing.
-
-<p>Every fiduciary required to file a return on behalf of an estate or trust shall file such return with the commissioner of the revenue having jurisdiction in the county or city in which the fiduciary qualified or, if there has been no qualification in this Commonwealth, in the county or city in which such fiduciary resides, does business or has an office or wherein the beneficiary or any of them may reside, or with the Department if provided by regulation thereof.</p><p>Code 1950, § 58-151.064; 1971, Ex. Sess., c. 171; 1984, c. 675.</p>

@@ -1,3 +1,0 @@
-# § 54.1-2729 Continuing education.
-
-<p>The Board shall promulgate regulations requiring continuing education for any dental hygienist license renewal or reinstatement. The Board may grant exceptions or exemptions from these continuing education requirements.</p><p>1993, c. 555; 1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0003'>3</a>; 2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0137'>137</a>; 2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0505'>505</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0587'>587</a>.</p>

@@ -1,3 +1,0 @@
-# § 29.1-344.1 Stationary duck blind license; riparian landowners exempted.
-
-<p>Notwithstanding the provisions of § <a href='http://law.lis.virginia.gov/vacode/29.1-340/'>29.1-340</a>, the owners of riparian rights or their invitees shall not be required to obtain a stationary blind license when hunting waterfowl from such a blind located on the riparian owner's property. However, a stationary blind license shall be required in order to afford the riparian owners the protections provided by §§ <a href='http://law.lis.virginia.gov/vacode/29.1-344/'>29.1-344</a>, <a href='http://law.lis.virginia.gov/vacode/29.1-345/'>29.1-345</a>, and <a href='http://law.lis.virginia.gov/vacode/29.1-349/'>29.1-349</a>.</p><p>1992, c. 237; 1993, c. 209.</p>

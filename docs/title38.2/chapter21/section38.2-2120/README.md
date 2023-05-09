@@ -1,3 +1,0 @@
-# § 38.2-2120 Optional coverage to be offered with homeowner's policy.
-
-<p>Any insurer who issues or delivers a new or renewal homeowner's insurance policy in this Commonwealth shall offer as an option a provision insuring against loss caused or resulting from water which backs up through sewers or drains.</p><p>1974, c. 564, § 38.1-335.2; 1986, c. 562; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0558'>558</a>.</p>

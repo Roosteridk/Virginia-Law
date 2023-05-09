@@ -1,3 +1,0 @@
-# § 3.2-6105 Register of brands.
-
-<p>The Department shall maintain a complete register of all brands, showing the name and address of the owner, and shall annually publish and distribute copies of this register as prescribed in the regulations adopted pursuant to this chapter.</p><p>1974, c. 642, § 3.1-796.34; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

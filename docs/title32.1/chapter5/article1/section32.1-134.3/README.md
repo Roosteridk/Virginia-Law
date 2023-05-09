@@ -1,3 +1,0 @@
-# § 32.1-134.3 Response to applications for clinical privileges.
-
-<p>Whenever a podiatrist or certified nurse midwife licensed as a nurse practitioner makes application to any hospital for clinical privileges, the hospital shall either approve or disapprove the application within 120 calendar days after it has received all necessary information to make a determination as provided in § <a href='http://law.lis.virginia.gov/vacode/32.1-134.2/'>32.1-134.2</a> from the practitioner.</p><p>1981, c. 166; 1992, c. 452.</p>

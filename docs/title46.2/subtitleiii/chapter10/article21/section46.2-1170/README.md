@@ -1,3 +1,0 @@
-# § 46.2-1170 Advertising, etc., of official inspection station when not authorized.
-
-<p>No person, firm, or corporation, unless designated as such in accordance with the provisions of this article, shall, either directly or indirectly, display, advertise, or represent that such person, firm or corporation is an official inspection station.</p><p>Code 1950, § 46-321; 1958, c. 541, § 46.1-323; 1989, c. 727.</p>

@@ -1,3 +1,0 @@
-# § 46.2-2154 Discontinuance of service.
-
-<p>Notwithstanding anything contained in this chapter to the contrary, no household goods carrier shall abandon or discontinue either temporarily or permanently any service established under the provisions of this chapter without permission of the Department and on such terms as the Department may prescribe.</p><p>2001, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0596'>596</a>.</p>

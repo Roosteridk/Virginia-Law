@@ -1,3 +1,0 @@
-# § 8.01-79 Same; reference of petition to commissioner.
-
-<p>On the presenting of such petition it may be referred to a commissioner in chancery or to a special commissioner appointed by the court, to inquire into and report upon the matters therein contained, whose duty it shall be to make such inquiry, to give notice to and hear all parties interested in such real estate and to report thereon with all convenient speed.</p><p>Code 1950, § 8-689.2; 1977, c. 617.</p>

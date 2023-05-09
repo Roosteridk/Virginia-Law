@@ -1,3 +1,0 @@
-# § 55.1-2415 Escheators to certify lands escheated.
-
-<p>Every escheator shall, within 60 days after an inquest that finds on behalf of the Commonwealth, transmit to the State Treasurer a certificate showing the number of tracts or lots escheated, the reputed quantity of each parcel, a description sufficient to identify each parcel, and the names of the persons found to have died in possession of such parcel, or from whom the land escheated.</p><p>Code 1919, § 503; Code 1950, § 55-182; 1977, c. 583; 1982, c. 486; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

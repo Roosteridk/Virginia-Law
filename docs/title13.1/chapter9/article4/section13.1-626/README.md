@@ -1,3 +1,0 @@
-# § 13.1-626 Purposes.
-
-<p>Every corporation incorporated under this Act has the purpose of engaging in any lawful business unless a more limited purpose is (i) set forth in the articles of incorporation, or (ii) required to be set forth in the articles of incorporation by § <a href='http://law.lis.virginia.gov/vacode/13.1-620/'>13.1-620</a>, or any other law of this Commonwealth.</p><p>1985, c. 522.</p>

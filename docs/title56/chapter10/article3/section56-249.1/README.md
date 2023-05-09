@@ -1,3 +1,0 @@
-# § 56-249.1 Commission may require transfer of gas, water or electricity by one utility to another; compensation.
-
-<p>The Commission may require a public utility to transfer to another public utility of like business, gas, water or electricity, whenever the public health, welfare or safety shall be found to so require; provided, however, that the transferring public utility shall be compensated, at a rate fixed by the Commission, for all such deliveries by the receiving public utility.</p><p>1975, c. 358.</p>

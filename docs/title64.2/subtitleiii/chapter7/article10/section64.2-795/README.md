@@ -1,3 +1,0 @@
-# § 64.2-795 Attorney fees and costs.
-
-<p>In a judicial proceeding involving the administration of a trust, the court, as justice and equity may require, may award costs and expenses, including reasonable attorney fees, to any party, to be paid by another party or from the trust that is the subject of the controversy.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-550.04; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

@@ -1,3 +1,0 @@
-# § 3.2-1803 Potato Board meetings and quorum.
-
-<p>The Potato Board shall meet at least once each year prior to the beginning of the seed potato buying season, at the call of the chairman, and whenever the majority of the members so request. A majority of the members shall constitute a quorum.</p><p>1982, c. 126, § 3.1-684.32; 1985, c. 448; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>; 2012, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0803'>803</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0835'>835</a>; 2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0565'>565</a>.</p>

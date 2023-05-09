@@ -1,3 +1,0 @@
-# § 6.2-1004 Who may take oath for corporate fiduciary.
-
-<p>In all cases where any trust institution shall be appointed to act as trustee, executor, or administrator of any estate or guardian for any infant, or in any other fiduciary capacity, it shall be lawful for any officer of the trust institution to take and subscribe for the institution any and all oaths required to be taken or subscribed by such executor, administrator, trustee, guardian, or other fiduciary.</p><p>Code 1950, § 6-96; 1966, c. 584, § 6.1-19; 1974, c. 665; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

@@ -1,3 +1,0 @@
-# § 18.2-243 When issuer or distributor of advertisements not guilty of violation; inadvertent error.
-
-<p>A person, firm, corporation or association who or which, for compensation, issues or distributes any advertisement or offer, written, printed, oral or otherwise, in reliance upon the copy or information supplied him by the advertiser or offeror, shall not be deemed to have violated the provisions of this article, nor shall an inadvertent error on the part of any such person, firm, corporation or association be deemed a violation of such provisions.</p><p>Code 1950, § 59.1-51; 1968, c. 439; 1975, cc. 14, 15.</p>

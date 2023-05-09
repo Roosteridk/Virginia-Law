@@ -1,3 +1,0 @@
-# § 63.2-913.1 Caseload standard.
-
-<p>The Department shall, pursuant to Board regulations, establish a caseload standard that limits the amount of foster care cases that may be assigned to each foster care caseworker. Such caseload standard shall be reviewed and updated, as appropriate, annually on the basis of the time and work necessary to effectively manage each foster care case.</p><p>2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0446'>446</a>.</p>

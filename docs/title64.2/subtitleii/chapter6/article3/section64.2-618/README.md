@@ -1,3 +1,0 @@
-# § 64.2-618 Nontestamentary transfer on death.
-
-<p>A transfer on death resulting from a registration in beneficiary form is effective by reason of the contract regarding the registration between the owner and the registering entity and this article, and is not testamentary.</p><p>This article does not limit the rights of creditors of security owners against beneficiaries and other transferees under other laws of the Commonwealth.</p><p>1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0422'>422</a>, § 64.1-206.7; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

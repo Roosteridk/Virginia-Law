@@ -1,3 +1,0 @@
-# § 54.1-2804 Licensing authority.
-
-<p>The Board is authorized to determine the qualifications to enable any person to engage in the practice of funeral service, preneed funeral planning, funeral directing, embalming and the operation of a funeral service establishment. The Board shall promulgate regulations that establish the requirements of licensure for funeral directors and embalmers.</p><p>Code 1950, § 54-260.70; Code 1950, §§ 54-260.22 through 54-260.30, 54-260.32; 1956, c. 220; 1966, c. 284, § 54-260.70; 1972, c. 797; 1973, c. 296; 1974, c. 686; 1978, c. 849; 1986, c. 43; 1988, c. 765; 1989, c. 684; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0943'>943</a>.</p>

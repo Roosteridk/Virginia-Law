@@ -1,3 +1,0 @@
-# § 58.1-620 Repossessions.
-
-<p>A dealer who has paid the tax on tangible personal property sold under a retained title, conditional sale, or similar contract, may take credit for the tax paid by him upon the unpaid balance due him when he repossesses the property, such credit to be reflected in the same manner as the credit for returned purchases under § <a href='http://law.lis.virginia.gov/vacode/58.1-619/'>58.1-619</a>. When such repossessed property is resold, such sale is subject in all respects to this chapter.</p><p>Code 1950, § 58-441.23; 1966, c. 151; 1984, c. 675.</p>

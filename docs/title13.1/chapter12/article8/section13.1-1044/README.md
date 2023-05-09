@@ -1,3 +1,0 @@
-# § 13.1-1044 Pleading.
-
-<p>In derivative action, the complaint shall set forth with particularity the effort of the plaintiff to secure commencement of the action by a member or manager with the authority to do so or the reasons for not making the effort.</p><p>1991, c. 168.</p>

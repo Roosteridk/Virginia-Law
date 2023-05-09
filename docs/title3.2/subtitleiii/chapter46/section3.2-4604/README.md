@@ -1,3 +1,0 @@
-# § 3.2-4604 Owner or buyer may apply for inspection and certification of fruits.
-
-<p>Any owner or, with the consent of the owner, a proposed buyer of any fruits, subject to the provisions of this chapter may apply to the Commissioner for inspection and certification that such fruits meet the requirements provided for in this chapter or regulations adopted hereunder.</p><p>Code 1950, § 3-719; 1964, c. 214; 1966, c. 702, § 3.1-1000; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

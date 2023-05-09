@@ -1,3 +1,0 @@
-# § 18.2-478 Escape from jail or custody by force or violence without setting fire to jail.
-
-<p>If any person lawfully imprisoned in jail and not tried or sentenced on a criminal offense escapes from jail by force or violence, other than by setting fire thereto or if any person lawfully in the custody of any police officer on a charge of criminal offense escapes from such custody by force or violence, he shall be guilty of a Class 6 felony.</p><p>Code 1950, § 18.1-289; 1960, c. 358; 1975, cc. 14, 15; 1985, c. 555.</p>

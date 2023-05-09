@@ -1,3 +1,0 @@
-# § 4.1-334 Interdiction for illegal manufacture, possession, transportation or sale of alcoholic beverages.
-
-<p>When any person has been found guilty of the illegal manufacture, possession, transportation, or sale of alcoholic beverages or maintaining a common nuisance as defined in § <a href='http://law.lis.virginia.gov/vacode/4.1-317/'>4.1-317</a>, the court may without further notice or additional hearing enter an order of interdiction prohibiting the sale of alcoholic beverages to such person for one year from the date of the entry of the order, and thereafter if further ordered.</p><p>Code 1950, § 4-52; 1954, c. 484; 1982, c. 66; 1993, c. 866.</p>

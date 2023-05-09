@@ -1,3 +1,0 @@
-# § 45.2-515  Board of Coal Mining Examiners; purpose.
-
-<p>The Board of Coal Mining Examiners (the Board) is established as a policy board in the executive branch of state government. The purpose of the Board is to issue certificates authorizing the performance of certain tasks.</p><p>Code 1950, §§ 45-1 through 45-3; 1954, c. 191; 1966, c. 594, § 45.1-3; 1984, c. 590; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0028'>28</a>, § 45.1-161.15; 2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0387'>387</a>.</p>

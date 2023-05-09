@@ -1,3 +1,0 @@
-# § 38.2-5106 Purchasing groups; exemption from certain laws relating to the group purchase of insurance.
-
-<p>Any purchasing group meeting the criteria established under the provisions of the federal Liability Risk Retention Act of 1986 shall be exempt from any law of this Commonwealth relating to the creation of groups for the purchase of insurance, prohibition of group purchasing, or any law that would discriminate against a purchasing group or its members. A purchasing group shall be subject to all other applicable laws of this Commonwealth.</p><p>1987, c. 585.</p>

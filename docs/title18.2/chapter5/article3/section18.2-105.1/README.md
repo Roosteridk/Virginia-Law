@@ -1,3 +1,0 @@
-# § 18.2-105.1 Detention of suspected shoplifter.
-
-<p>A merchant, agent or employee of the merchant, who has probable cause to believe that a person has shoplifted in violation of § <a href='http://law.lis.virginia.gov/vacode/18.2-95/'>18.2-95</a> or § <a href='http://law.lis.virginia.gov/vacode/18.2-96/'>18.2-96</a> or § <a href='http://law.lis.virginia.gov/vacode/18.2-103/'>18.2-103</a>, on the premises of the merchant, may detain such person for a period not to exceed one hour pending arrival of a law-enforcement officer.</p><p>1976, c. 515.</p>

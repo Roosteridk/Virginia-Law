@@ -1,3 +1,0 @@
-# § 15.2-3533 Transfer of property and indebtedness.
-
-<p>If the proposed consolidation is approved by a majority vote of the voters of each locality proposed to be consolidated, voting in the election hereinafter provided for, then the title to all property shall be vested in, and the indebtedness become a debt of, the respective localities according to the agreement, without any further act or deed.</p><p>Code 1950, § 15-222.2; 1962, c. 623, § 15.1-1134; 1997, c. 587.</p>

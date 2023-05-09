@@ -1,3 +1,0 @@
-# § 20-117 Divorce from bond of matrimony after divorce from bed and board.
-
-<p>The granting of a divorce from bed and board shall not be a bar to either party obtaining a divorce from the bonds of matrimony on any ground which would justify a divorce from the bonds of matrimony if no divorce from bed and board had been granted, unless the cause for absolute divorce was existing and known to the party applying for the divorce from the bonds of matrimony before the decree of divorce from bed and board was entered.</p><p>1934, p. 504; Michie Code 1942, § 5112a.</p>

@@ -1,3 +1,0 @@
-# § 24.2-468 Equitable relief.
-
-<p>A court may issue an injunction or grant other equitable relief appropriate to ensure substantial compliance with, or enforce, this chapter on application by:</p><p>1. A covered voter alleging a grievance under this chapter; or</p><p>2. An election official in this state.</p><p>2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0353'>353</a>.</p>

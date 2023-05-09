@@ -1,3 +1,0 @@
-# § 29.1-738.6 When arrested person operating a vessel; how vessel removed from scene of arrest.
-
-<p>In any case in which a law-enforcement officer arrests the operator of a vessel, and there is no legal cause for the retention of the vessel by the officer, the officer shall allow the person arrested to designate another person who is present at the scene of the arrest to operate the vessel from the scene to a place designated by the person arrested. If such a designation is not made, the officer may cause the vessel to be taken to the nearest appropriate place for safekeeping.</p><p>1997, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0152'>152</a>.</p>

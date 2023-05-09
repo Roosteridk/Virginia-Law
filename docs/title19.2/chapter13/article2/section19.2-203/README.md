@@ -1,3 +1,0 @@
-# § 19.2-203 Indictments ignored may be sent to another grand jury; what irregularities not to vitiate indictment, etc.
-
-<p>Although a bill of indictment be returned not a true bill the same or another bill of indictment against the same person for the same offense may be sent to, and acted on, by the same or another grand jury. No irregularity in the time or manner of selecting the jurors, or in the writ of venire facias, or in the manner of executing the same, shall vitiate any presentment, indictment or finding of a grand jury.</p><p>Code 1950, § 19.1-158; 1960, c. 366; 1975, c. 495.</p>

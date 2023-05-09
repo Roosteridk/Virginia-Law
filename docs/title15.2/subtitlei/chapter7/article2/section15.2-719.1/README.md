@@ -1,3 +1,0 @@
-# § 15.2-719.1 Naming U.S. Route 29.
-
-<p>Notwithstanding the provisions of § <a href='/vacode/15.2-2019/'>15.2-2019</a> or <a href='/vacode/33.2-213/'>33.2-213</a>, the board may by ordinance name any section of U.S. Route 29 located within the boundaries of the locality. The Department of Transportation shall place and maintain appropriate signs indicating the name of such highway, and the costs of producing, placing, and maintaining these signs shall be paid by the locality.</p><p>2021, Sp. Sess. I, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0261'>261</a>.</p>

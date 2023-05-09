@@ -1,3 +1,0 @@
-# § 13.1-993 Restrictions on amendments to articles of incorporation.
-
-<p>No amendment to the articles of incorporation shall be made which increases the obligation of a member to make loans to the corporation or which makes any change in the principal amount, interest rate, maturity date, or in the security or credit position of any outstanding loan made by a member to the corporation or which affects the right of a member to withdraw from membership or the voting rights of such member, without the consent of each member who would be affected by such amendment.</p><p>Code 1950, § 13.1-150; 1960, c. 80; 1985, c. 522.</p>

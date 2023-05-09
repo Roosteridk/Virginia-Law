@@ -1,3 +1,0 @@
-# § 54.1-4000 Definition of pawnbroker.
-
-<p>"Pawnbroker" means any natural person who lends or advances money or other things for profit on the pledge and possession of tangible personal property, or other valuable things, other than securities or written or printed evidences of indebtedness or title, or who deals in the purchasing of personal property or other valuable things on condition of selling the same back to the seller at a stipulated price.</p><p>Code 1950, § 54-840; 1988, c. 765; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0848'>848</a>; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0238'>238</a>.</p>

@@ -1,3 +1,0 @@
-# § 55.1-666 Relation to Electronic Signatures in Global and National Commerce Act.
-
-<p>To the extent allowed by law, this article modifies, limits, and supersedes the federal Electronic Signatures in Global and National Commerce Act (15 U.S.C. § 7001, et seq.) but does not modify, limit, or supersede § 101(c) of that Act (15 U.S.C. § 7001(c)) or § 104 of that Act (15 U.S.C. § 7004), or authorize electronic delivery of any of the notices described in § 103(b) of that Act (15 U.S.C. § 7003(b)).</p><p>2006, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?061+ful+CHAP0745'>745</a>, § 55-142.15; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

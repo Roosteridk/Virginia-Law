@@ -1,3 +1,0 @@
-# § 15.2-5431.4 Resolution creating authority to include articles of incorporation.
-
-<p>The resolution creating an authority shall include articles of incorporation, which shall set forth:</p><p>1. The name of the authority and address of its principal office.</p><p>2. The name of the locality creating the authority and the names, addresses and terms of office of the first members of the board of the authority.</p><p>3. The purposes for which the authority is being created, which shall be to provide qualifying communications services as authorized by Article 5.1 (§ <a href='http://law.lis.virginia.gov/vacode/56-484.7:1/'>56-484.7:1</a> et seq.) of Chapter 15 of Title 56.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0643'>643</a>.</p>

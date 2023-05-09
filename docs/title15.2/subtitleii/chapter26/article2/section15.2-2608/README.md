@@ -1,3 +1,0 @@
-# § 15.2-2608 Bonds for revenue-producing undertakings.
-
-<p>The governing body of any locality may, in accordance with the provisions of Article VII, Section 10 of the Constitution of Virginia, issue bonds for any revenue-producing undertaking.</p><p>Code 1950, § 15-666.21; 1958, c. 640; 1962, c. 623, § 15.1-178; 1971, Ex. Sess., c. 224; 1991, c. 668, § 15.1-227.10; 1997, c. 587.</p>

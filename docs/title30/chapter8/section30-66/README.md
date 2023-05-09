@@ -1,3 +1,0 @@
-# § 30-66 Functional areas; scheduling of study areas.
-
-<p>A. The functional areas of state government shall be scheduled for legislative review and evaluation by the Joint Legislative Audit and Review Commission as specified in subsection B, on a seven-year cycle, and beginning in the 1979-80 fiscal year.</p><p>B. From time to time as may be required, the Senate and House of Delegates shall by joint resolution establish a schedule for the review of the functional areas of state government. In the absence of a resolution, the Joint Legislative Audit and Review Commission shall select a functional area for review on an annual basis.</p><p>1978, c. 388; 1986, c. 302.</p>

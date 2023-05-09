@@ -1,3 +1,0 @@
-# § 15.2-6411 Bonds exempt from taxation.
-
-<p>An authority shall not be required to pay any taxes or assessments of any kind whatsoever, and its bonds, their transfer, the interest payable on them, and any income derived from them, including any profit realized in their sale or exchange, shall be exempt at all times from every kind and nature of taxation by this Commonwealth or by any of its political subdivisions, municipal corporations, or public agencies of any kind.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0276'>276</a>, 587, § 15.1-1721.</p>

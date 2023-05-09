@@ -1,3 +1,0 @@
-# § 37.2-503 Compensation of community services board members.
-
-<p>The governing body of any county or city or the governing bodies of any combination of cities and counties establishing a community services board may pay, out of its general fund or their general funds, no more than $600 per year to each board member as compensation for his attendance at board meetings. No city or county shall be reimbursed out of state or federal funds for any part of such compensation.</p><p>1982, c. 23, § 37.1-196.1; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0680'>680</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

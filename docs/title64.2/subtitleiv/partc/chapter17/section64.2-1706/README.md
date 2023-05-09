@@ -1,3 +1,0 @@
-# § 64.2-1706 When court may appoint temporary guardians; bond; powers and duties.
-
-<p>Until a guardian appointed by the circuit court or clerk has given his bond, or while there is no guardian, the court or clerk may appoint a temporary guardian, who shall give his bond pursuant to § <a href='http://law.lis.virginia.gov/vacode/64.2-1704/'>64.2-1704</a>. Any temporary guardian during the period of his guardianship shall have all the powers and responsibilities of and shall perform all the duties of a guardian.</p><p>Code 1919, § 5319; Code 1950, § 31-7; 1999, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?991+ful+CHAP0016'>16</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

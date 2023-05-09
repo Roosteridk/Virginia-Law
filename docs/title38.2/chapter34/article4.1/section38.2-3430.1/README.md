@@ -1,3 +1,0 @@
-# § 38.2-3430.1 Application of article.
-
-<p>This article applies to individual health insurance coverage offered, sold, issued, or renewed in this Commonwealth, but shall not apply to any individual health insurance coverage for any of the "excepted benefits" defined in § <a href='http://law.lis.virginia.gov/vacode/38.2-3431/'>38.2-3431</a>. In the event of conflict between the provisions in this article and other provisions of this title, the provisions of this article shall be controlling.</p><p>1997, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0807'>807</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?971+ful+CHAP0913'>913</a>.</p>

@@ -1,3 +1,0 @@
-# § 9.1-208 Agreements between Department and other agencies.
-
-<p>The Department is hereby authorized to enter into agreements with federal agencies, other state agencies, and political subdivisions for services related to enforcement and administration of laws, rules, or regulations or ordinances of such agencies affecting fire safety in public buildings.</p><p>2007, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0647'>647</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?071+ful+CHAP0741'>741</a>.</p>

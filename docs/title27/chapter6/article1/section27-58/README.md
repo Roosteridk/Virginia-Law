@@ -1,3 +1,0 @@
-# § 27-58 Right to examine buildings or premises.
-
-<p>The Department, and such person or persons as it may appoint, shall have authority at all times of the day, in the performance of the duties imposed by the provisions of § <a href='http://law.lis.virginia.gov/vacode/27-56/'>27-56</a>, to enter upon and examine any building or premises where any fire has occurred, and any other buildings or premises immediately adjoining the same; provided, that such adjoining building is not at the time occupied and used as a dwelling house.</p><p>Code 1919, § 4187; 1977, c. 613.</p>

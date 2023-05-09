@@ -1,3 +1,0 @@
-# § 37.2-404 Authority of Commissioner to grant licenses.
-
-<p>The Commissioner, subject to regulations adopted by the Board, may license any suitable provider to establish, maintain and operate, or have charge of any service.</p><p>1980, c. 582, § 37.1-179.1; 2001, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0486'>486</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?011+ful+CHAP0506'>506</a>; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0056'>56</a>; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

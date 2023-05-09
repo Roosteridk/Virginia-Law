@@ -1,3 +1,0 @@
-# § 21-155 Powers of commission.
-
-<p>Each commission, constituting a corporation is hereby invested with the rights, powers and authority and charged with the duties set forth in this chapter, and shall constitute a political subdivision of the Commonwealth established as a governmental instrumentality to provide for the public health and welfare.</p><p>1942, p. 600; Michie Code 1942, § 1560kk; 1944, p. 72; 1946, p. 528.</p>

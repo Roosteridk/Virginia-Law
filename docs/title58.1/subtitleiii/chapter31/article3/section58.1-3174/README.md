@@ -1,3 +1,0 @@
-# § 58.1-3174 Entries.
-
-<p>The clerk at the time he collects, or is required by statute to collect, any public money shall enter such amounts upon the record required in § <a href='http://law.lis.virginia.gov/vacode/58.1-3173/'>58.1-3173</a>, together with the fees received in connection for such collection, and shall also enter upon the record all other fees, commissions, salaries and allowances received or which should have been received by him.</p><p>Code 1950, § 58-970; 1984, c. 675.</p>

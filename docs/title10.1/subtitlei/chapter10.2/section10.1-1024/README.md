@@ -1,3 +1,0 @@
-# § 10.1-1024 Gifts and bequests to Foundation.
-
-<p>Gifts, devises and bequests of money, securities and other assets accepted by the Foundation, whether personal or real property, shall be deemed to be gifts to the Commonwealth, which shall be exempt from all state and local taxes and shall be regarded as property of the Commonwealth for the purposes of all tax laws.</p><p>1992, c. 426; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1053'>1053</a>.</p>

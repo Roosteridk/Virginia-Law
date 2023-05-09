@@ -1,3 +1,0 @@
-# § 36-99.4 Smoke alarms in certain juvenile care facilities.
-
-<p>Battery operated or AC powered smoke alarm devices shall be installed in all local and regional detention homes, group homes, and other residential care facilities for children or juveniles that are operated by or under the auspices of the Department of Juvenile Justice, regardless of when the building was constructed, in accordance with the provisions of the Building Code. Administrators of such homes and facilities shall be responsible for the installation and maintenance of the smoke alarm devices.</p><p>1984, c. 179; 1989, c. 733; 2018, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0041'>41</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+CHAP0081'>81</a>.</p>

@@ -1,3 +1,0 @@
-# § 56-265.11:1 Notification to energy utilities.
-
-<p>Each person operating a sewerage system which includes one or more sewage treatment plants shall notify in writing, the Commission, the Director of the Department of Environmental Quality and each electric or natural gas utility supplying or distributing energy to such system that such system includes a sewage treatment plant.</p><p>2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP0183'>183</a>.</p>

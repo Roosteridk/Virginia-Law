@@ -1,3 +1,0 @@
-# § 15.2-5431.32 Investment in bonds.
-
-<p>Any bonds issued pursuant to this chapter are hereby made securities in which all public officers, bodies and political subdivisions of the Commonwealth; all insurance companies and associations; and all savings banks and savings institutions, including savings and loan associations, trust companies, beneficial and benevolent associations, administrators, guardians, executors, trustees and other fiduciaries in the Commonwealth, may properly and legally invest funds in their control.</p><p>2003, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?031+ful+CHAP0643'>643</a>.</p>

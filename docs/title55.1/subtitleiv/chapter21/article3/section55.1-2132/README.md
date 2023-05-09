@@ -1,3 +1,0 @@
-# § 55.1-2132 Organization of the association.
-
-<p>An association must be organized no later than the date the first cooperative interest in the cooperative is conveyed. The membership of the association at all times shall consist exclusively of all the proprietary lessees or, following termination of the cooperative, of all former proprietary lessees entitled to distributions of proceeds under § <a href='/vacode/55.1-2128/'>55.1-2128</a> or their heirs, successors, or assigns. The association shall be organized as a stock or nonstock corporation, trust, trustee, unincorporated association, or partnership.</p><p>1982, c. 277, § 55-458; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

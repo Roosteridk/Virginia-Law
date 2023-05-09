@@ -1,1 +1,0 @@
-# 6 Commencement of Terms; Credits and Allowances

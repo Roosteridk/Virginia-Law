@@ -1,3 +1,0 @@
-# § 44-146.33 Radiological Emergency Preparedness Fund.
-
-<p>All moneys received by the Department under this chapter shall be deposited in the state treasury and set apart in a special fund to be known as the "Radiological Emergency Preparedness Fund." Moneys deposited in this fund shall be expended by the Department to the extent appropriated only to support the activities of state agencies and the local governments in establishing, maintaining and operating such emergency plans, programs and capabilities to deal with nuclear accidents as are required by the Nuclear Regulatory Commission and the Federal Emergency Management Agency with respect to nuclear power stations.</p><p>1982, c. 222.</p>

@@ -1,3 +1,0 @@
-# § 35.1-11 Regulations generally.
-
-<p>The Board shall make, adopt, promulgate, and enforce regulations necessary to carry out the provisions of this title and to protect the public health and safety. In promulgating regulations, the Board shall consider the accepted standards of health including the use of precautions to prevent the transmission of communicable diseases, hygiene, sanitation, safety, and physical plant management.</p><p>1981, c. 468; 1993, c. 336.</p>

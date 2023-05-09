@@ -1,3 +1,0 @@
-# § 58.1-3350 Review of assessment.
-
-<p>Any person aggrieved by any assessment under this chapter may apply for relief to the board of assessors, or if none, to the board of equalization created under Article 14 (§ <a href='http://law.lis.virginia.gov/vacode/58.1-3370/'>58.1-3370</a> et seq.) of this chapter or may directly apply for relief to the appropriate circuit court of the county or city in those localities where application to the aforenamed board is not a prerequisite to the jurisdiction of the court.</p><p>1984, c. 675; 1985, c. 64.</p>

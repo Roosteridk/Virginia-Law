@@ -1,3 +1,0 @@
-# §§ 15.2-5921 through 15.2-5927 Expired.
-
-<p>Expired.</p><p></p>

@@ -1,3 +1,0 @@
-# § 58.1-1816 Conversion of trust taxes; penalty; limitation of prosecutions.
-
-<p>Any corporate or partnership officer as defined in § <a href='http://law.lis.virginia.gov/vacode/58.1-1813/'>58.1-1813</a>, or any other person owning and operating a business, or a fiduciary operating or liquidating a business, who through two or more acts or omissions within a period of ninety days willfully fails to truthfully account for any state sales use or withholding tax totaling $1,000 or more collected from others with the intent not to pay over, shall, in addition to any other penalties provided by law, be guilty of a Class 6 felony. A prosecution under this section shall be commenced within five years next after the commission of the offense.</p><p>1992, c. 763.</p>

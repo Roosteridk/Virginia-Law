@@ -1,3 +1,0 @@
-# § 15.2-712 Certification and payment of certain vouchers.
-
-<p>The board may by resolution authorize the county manager to sign and issue an order or authorization to the treasurer for payment of vouchers for materials, supplies and services which have been received and the treasurer shall pay the same. The provisions of § <a href='http://law.lis.virginia.gov/vacode/15.2-711/'>15.2-711</a> shall apply to actions hereunder.</p><p>Code 1950, § 15-353.2; 1954, c. 124; 1962, c. 623, § 15.1-684; 1976, c. 175; 1997, c. 587.</p>

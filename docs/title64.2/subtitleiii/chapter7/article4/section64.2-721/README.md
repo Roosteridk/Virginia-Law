@@ -1,3 +1,0 @@
-# § 64.2-721 Trusts created in other jurisdictions.
-
-<p>A trust not created by will is validly created if its creation complies with the law of the jurisdiction in which the trust instrument was executed, or the law of the jurisdiction in which, at the time of creation:</p><p>1. The settlor was domiciled, had a place of abode, or was a national;</p><p>2. A trustee was domiciled or had a place of business; or</p><p>3. Any trust property was located.</p><p>2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0935'>935</a>, § 55-544.03; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

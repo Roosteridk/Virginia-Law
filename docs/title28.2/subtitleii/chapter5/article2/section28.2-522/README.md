@@ -1,3 +1,0 @@
-# § 28.2-522 Prima facie evidence of violation.
-
-<p>In any prosecution for the violation of any sections of this article against the captain or crew of a vessel or any person on board, proof that the vessel was equipped with a crank, dredge, or scrape shall be prima facie evidence of the violation of such section.</p><p>Code 1950, § 28-155; 1962, c. 406, § 28.1-131; 1992, c. 836.</p>

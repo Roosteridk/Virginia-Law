@@ -1,3 +1,0 @@
-# § 64.2-2510 Admissibility of judicial record determining slayer.
-
-<p>The record of the judicial proceeding in which a person is determined to be a slayer shall be admissible in evidence for or against a claimant of property in any civil action arising under this chapter. A conviction shall be conclusive evidence of the guilt of the slayer.</p><p>1981, c. 469, § 55-413; 2008, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0822'>822</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0830'>830</a>; 2012, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?121+ful+CHAP0614'>614</a>.</p>

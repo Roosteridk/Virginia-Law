@@ -1,3 +1,0 @@
-# § 59.1-211 Interest in inventions prohibited.
-
-<p>No invention developer shall acquire any interest, partial or whole, in the title to the customer's invention or patent rights, unless the invention developer contracts to manufacture the invention and acquires such interest for such purpose at or about the time the contract for manufacture is executed. Nothing in this section shall be construed to prohibit an invention developer from receiving a portion of any proceeds accruing to the customer as a result of performance of invention development services by the invention developer.</p><p>1977, c. 649.</p>

@@ -1,3 +1,0 @@
-# § 22.1-85 Fund for payment of hospital, medical, etc., services provided officers, employees and dependents.
-
-<p>Any school board may establish a fund for the payment of hospital, medical, surgical and related services provided any of its officers, employees and their dependents out of funds appropriated to the school board or by payroll deductions or other mode consistent with state and federal income tax law and regulations. In addition, any school board may establish a fund for the payment of expenses incurred by its officers and employees for dependent care assistance through payroll deductions or other mode consistent with state and federal income tax law and regulations.</p><p>Code 1950, § 22-56.3; 1979, c. 624; 1980, c. 559; 1993, c. 287.</p>

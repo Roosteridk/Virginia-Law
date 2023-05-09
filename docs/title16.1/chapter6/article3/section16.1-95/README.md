@@ -1,3 +1,0 @@
-# § 16.1-95 Abstract of judgment.
-
-<p>At any time while the papers in any case in which a judgment has been rendered by a general district court are retained by the court, the judge or clerk of the court shall certify and deliver an abstract of the judgment to any person interested therein. In the absence of any such judge or clerk, or in the event of a vacancy in the office of such judge or clerk, such abstract of judgment may be made and certified by the substitute judge or clerk, if there be one, or by any other judge of a general district court in such county or city.</p><p>1956, c. 555; 1983, c. 499.</p>

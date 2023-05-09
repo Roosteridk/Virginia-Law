@@ -1,3 +1,0 @@
-# § 63.2-1401 Compacts authorized.
-
-<p>The Governor is authorized to develop, participate in the development of, negotiate and enter into one or more interstate compacts on behalf of this Commonwealth with other states to implement one or more of the purposes set forth in this chapter. When so entered into, and for so long as it remains in force, the compact shall have the force and effect of law.</p><p>1988, c. 154, § 63.1-238.7; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

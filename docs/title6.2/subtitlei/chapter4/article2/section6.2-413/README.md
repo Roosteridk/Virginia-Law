@@ -1,3 +1,0 @@
-# § 6.2-413 Obligation of lender to reimburse unused mortgage guaranty insurance premiums.
-
-<p>Any lender that requires, as a prerequisite to its lending money for the purchase of real property, that private mortgage insurance be secured to insure a certain amount of the lender's interest in the property shall return to the person who paid the premium, or other person entitled thereto, any portion of the premium for such insurance that is not used to secure insurance for the lender's interest in the property.</p><p>1980, c. 748, § 6.1-2.9:1; 1990, c. 7; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

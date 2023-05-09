@@ -1,3 +1,0 @@
-# § 10.1-202.1 Golden Passport established; free entry into state parks.
-
-<p>The Department of Conservation and Recreation shall establish a Golden Passport card that authorizes persons receiving social security disability payments to enter Virginia's state parks without having to pay an admittance or parking fee. Persons seeking such a card shall, upon the presentation of proof of receiving such disability payments, be issued a card by the Division of State Parks. The card shall remain valid during the time a person is receiving such payments.</p><p>1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0778'>778</a>.</p>

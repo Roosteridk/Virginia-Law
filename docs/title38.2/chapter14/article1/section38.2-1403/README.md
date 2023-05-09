@@ -1,3 +1,0 @@
-# § 38.2-1403 Category 2 investments limits.
-
-<p>The value of Category 2 investments shall be excluded from the value of admitted assets to the extent the value of Category 2 investments exceeds seventy-five percent of the amount by which an insurer's surplus to policyholders exceeds its minimum capital and surplus.</p><p>1983, c. 457, § 38.1-217.4; 1986, c. 562; 1992, c. 588; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0414'>414</a>.</p>

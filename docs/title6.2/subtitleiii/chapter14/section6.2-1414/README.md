@@ -1,3 +1,0 @@
-# § 6.2-1414 Annual fees.
-
-<p>Each association shall pay an annual fee calculated in accordance with a schedule set by the Commission. The schedule shall bear a reasonable relationship to the total assets of the individual associations, the actual costs of the associations' examination and other factors relating to their supervision and regulation. All such fees shall be assessed on or before July 1 for each calendar year and be paid by the associations to the State Treasurer on or before the July 31 following such assessment.</p><p>1993, c. 419, § 6.1-237.4; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

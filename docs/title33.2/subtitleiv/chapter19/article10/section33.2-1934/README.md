@@ -1,3 +1,0 @@
-# § 33.2-1934 Liability for torts.
-
-<p>Every district shall be liable for its torts and those of its officers, employees, and agents committed in the conduct of any proprietary function but shall not be liable for any torts occurring in the performance of a governmental function. However, this section shall not apply to a transportation district subject to the provisions of the Virginia Tort Claims Act (§ <a href='http://law.lis.virginia.gov/vacode/8.01-195.1/'>8.01-195.1</a> et seq.).</p><p>1964, c. 631, § 15.1-1371; 1986, c. 584; 1991, c. 23; 1997, c. 587, § 15.1-4533; 2014, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?141+ful+CHAP0805'>805</a>.</p>

@@ -1,3 +1,0 @@
-# § 10.1-418.10 Maury State Scenic River.
-
-<p>The Maury River in Rockbridge County from its origination at the confluence of the Calfpasture and Little Calfpasture Rivers to the confluence with the James River, a distance of approximately 42.4 miles, is hereby designated as the Maury State Scenic River, a component of the Virginia Scenic Rivers System.</p><p>2020, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0403'>403</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0404'>404</a>; 2022, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0409'>409</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?221+ful+CHAP0410'>410</a>.</p>

@@ -1,3 +1,0 @@
-# § 53.1-43 Pay incentives for prisoners.
-
-<p>The Director may establish a system of pay incentives for prisoners confined in any state correctional facility. Such system may provide for the payment of a bonus to any prisoner who is assigned to employment in any position of responsibility or who performs his job in an exemplary manner.</p><p>Code 1950, § 53-222; 1968, c. 590; 1982, c. 636; 2020, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?201+ful+CHAP0759'>759</a>.</p>

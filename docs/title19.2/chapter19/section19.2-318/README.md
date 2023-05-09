@@ -1,3 +1,0 @@
-# § 19.2-318 Appeal on writ of error to judgment for contempt.
-
-<p>From a judgment for any civil contempt of court an appeal may be taken to the Court of Appeals. A writ of error shall lie from the Court of Appeals to a judgment for criminal contempt of court. This section shall also be construed to authorize an appeal from or writ of error to a judgment of a circuit court rendered on appeal from a judgment of a district court for civil or criminal contempt.</p><p>Code 1950, § 19.1-283; 1960, c. 366; 1968, c. 639; 1975, c. 495; 1979, c. 649; 1984, c. 703.</p>

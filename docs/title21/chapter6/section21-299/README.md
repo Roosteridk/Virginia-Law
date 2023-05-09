@@ -1,3 +1,0 @@
-# § 21-299 Notice to viewers of appointment.
-
-<p>The clerk of the court thereupon shall mail a written notice to each member of the board of viewers so appointed, notifying him of his appointment, and requesting that the board proceed without delay to discharge its duties as such according to law.</p><p>Code 1919, § 1738; 1924, p. 708; 1926, p. 606.</p>

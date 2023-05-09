@@ -1,3 +1,0 @@
-# § 22.1-298.4 Teacher preparation programs; learning disabilities.
-
-<p>The Department of Education shall collaborate with the State Council of Higher Education for Virginia to ensure that all teacher preparation programs offered at public institutions of higher education in the Commonwealth or otherwise available convey information on the identification of students at risk for learning disabilities, including dyslexia, other language-based learning disabilities, and attention deficit disorder.</p><p>2016, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?161+ful+CHAP0649'>649</a>.</p>

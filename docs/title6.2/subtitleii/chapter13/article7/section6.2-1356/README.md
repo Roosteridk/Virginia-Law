@@ -1,3 +1,0 @@
-# § 6.2-1356 Special audit.
-
-<p>The Commissioner may require a credit union to have an independent audit made of its books, records, and methods of operation by a certified public accountant or other qualified person or firm approved by the Commissioner, whenever it appears to the Commissioner that (i) the system of internal controls pertaining to the credit union is not adequate, (ii) the credit union is engaging in unsafe or unsound practices, or (iii) the financial condition of the credit union makes such an audit necessary.</p><p>1976, c. 658, § 6.1-213.1; 1990, c. 373, § 6.1-225.39; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

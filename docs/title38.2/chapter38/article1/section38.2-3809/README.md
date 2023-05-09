@@ -1,3 +1,0 @@
-# § 38.2-3809 How a company may become legal reserve life insurer.
-
-<p>Any company filing with the Commission a resolution of its board of directors or similar body, or of its legislative body, making a request to become a legal reserve life insurer, upon submitting proof satisfactory to the Commission that the request is properly authorized and that the condition of its business qualifies it under the laws of this Commonwealth to be classed as a legal reserve life insurer, shall become a legal reserve life insurer under the name and the plan provided by proper amendment of its charter or certificate of incorporation.</p><p>Code 1950, § 38-477; 1952, c. 317, § 38.1-507; 1986, c. 562.</p>

@@ -1,3 +1,0 @@
-# § 16.1-76 Venue.
-
-<p>In all civil actions over which the general district courts have jurisdiction pursuant to § <a href='http://law.lis.virginia.gov/vacode/16.1-77/'>16.1-77</a>, venue shall be determined in accordance with the provisions of Chapter 5 (§ <a href='http://law.lis.virginia.gov/vacode/8.01-257/'>8.01-257</a> et seq.) of Title 8.01.</p><p>1956, c. 555; 1977, c. 624; 1978, c. 421.</p>

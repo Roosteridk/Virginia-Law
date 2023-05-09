@@ -1,3 +1,0 @@
-# § 55.1-2302 Transfer of ownership.
-
-<p>It is unlawful for the developer to transfer fee simple ownership of a lot or parcel within a subdivision to a purchaser by any other means than by a general or special warranty deed or other deed complying with Chapter 3 (§ <a href='/vacode/55.1-300/'>55.1-300</a> et seq.).</p><p>1978, c. 510, § 55-341; 2019, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0712'>712</a>.</p>

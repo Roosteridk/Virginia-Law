@@ -1,3 +1,0 @@
-# § 3.2-4017 Disclaimers, nonwarranties, and limited warranties.
-
-<p>No disclaimer, nonwarranty, or limited warranty used in any invoice, advertising, labeling, nor any other written, printed or graphic matter pertaining to seed may deny or modify any information required by this article or regulations adopted hereunder.</p><p>Code 1950, § 3-219.7; 1958, c. 483; 1966, c. 702, § 3.1-268; 1994, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?941+ful+CHAP0577'>577</a>; 2008, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?081+ful+CHAP0860'>860</a>.</p>

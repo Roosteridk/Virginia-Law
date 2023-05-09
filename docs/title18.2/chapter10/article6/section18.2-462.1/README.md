@@ -1,3 +1,0 @@
-# § 18.2-462.1 Use of police radio during commission of crime.
-
-<p>Any person who has in his possession or who uses a device capable of receiving a police radio signal, message, or transmission, while in the commission of a felony, is guilty of a Class 1 misdemeanor. A prosecution for or conviction of the crime of use or possession of a police radio is not a bar to conviction for any other crime committed while possessing or using the police radio.</p><p>1992, c. 499.</p>

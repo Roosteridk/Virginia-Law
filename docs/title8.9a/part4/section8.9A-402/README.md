@@ -1,3 +1,0 @@
-# § 8.9A-402 Secured party not obligated on contract of debtor or in tort.
-
-<p>The existence of a security interest, agricultural lien, or authority given to a debtor to dispose of or use collateral, without more, does not subject a secured party to liability in contract or tort for the debtor's acts or omissions.</p><p>1964, c. 219, § 8.9-317; 2000, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1007'>1007</a>.</p>

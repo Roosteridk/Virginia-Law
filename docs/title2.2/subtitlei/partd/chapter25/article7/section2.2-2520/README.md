@@ -1,3 +1,0 @@
-# § 2.2-2520 Compensation; expenses.
-
-<p>Members of the Commission shall serve without compensation. All members shall be reimbursed for all reasonable and necessary expenses incurred in the performance of their duties as provided in §§ <a href='http://law.lis.virginia.gov/vacode/2.2-2813/'>2.2-2813</a> and <a href='http://law.lis.virginia.gov/vacode/2.2-2825/'>2.2-2825</a>. Funding for the expenses of the members shall be provided by the Office of the Secretary of the Commonwealth.</p><p>2005, cc. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0933'>933</a>, <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0945'>945</a>.</p>

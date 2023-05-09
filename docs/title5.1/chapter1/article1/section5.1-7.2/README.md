@@ -1,3 +1,0 @@
-# § 5.1-7.2 Registration of private landing areas not within five miles of commercial airport.
-
-<p>Any person owning an area for landing any aircraft, which area is not within five miles of a commercial airport and has been constructed by such person for his private use and which is not open to the general public, shall only be required to register, upon forms furnished by the Department, such landing area with the Department and with the Federal Aviation Administration.</p><p>1981, c. 326.</p>

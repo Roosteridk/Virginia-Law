@@ -1,3 +1,0 @@
-# § 63.2-512 Recovery of public assistance erroneously paid.
-
-<p>Any assistance or part thereof erroneously paid to a recipient or former recipient may be recovered by the Board or local board from the recipient or former recipient as a debt. In accordance with Board regulations, the amount erroneously paid may also be recovered from the income, assets or other property of the recipient or former recipient or from the public assistance payable to the recipient.</p><p>1975, c. 320, § 63.1-127.2; 1983, c. 449; 2002, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?021+ful+CHAP0747'>747</a>.</p>

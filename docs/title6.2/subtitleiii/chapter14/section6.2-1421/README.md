@@ -1,3 +1,0 @@
-# § 6.2-1421 Civil penalties.
-
-<p>In addition to the authority conferred upon the Commission by other provisions of this chapter, the Commission may impose a civil penalty not exceeding $1,000 upon any association which it determines, in proceedings commenced in accordance with the Commission's Rules, has violated any of the provisions of this chapter or regulations adopted pursuant thereto. For the purposes of this section, each separate violation shall constitute a separate offense.</p><p>1993, c. 419, § 6.1-237.11; 2010, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?101+ful+CHAP0794'>794</a>.</p>

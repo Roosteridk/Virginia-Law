@@ -1,3 +1,0 @@
-# § 15.2-3240 Transfer of registration records.
-
-<p>Upon entry of the court order under § <a href='http://law.lis.virginia.gov/vacode/15.2-3238/'>15.2-3238</a>, the registration records of voters residing within the territory shall be transferred, and the appropriate notice given, in accordance with § <a href='http://law.lis.virginia.gov/vacode/24.2-114/'>24.2-114</a>.</p><p>Code 1950, § 15-157; 1962, c. 623, § 15.1-1063; 1997, c. 587.</p>

@@ -1,3 +1,0 @@
-# § 9.1-185.7 Licensure of nonresidents.
-
-<p>A. All nonresident transfers and applicants for a bail bondsman license shall satisfy all licensing requirements for residents of the Commonwealth.</p><p>B. For the purposes of this article, any individual whose physical place of residence and physical place of business are in a county or city located partly within the Commonwealth and partly within another state may be considered as meeting the requirements as a resident of the Commonwealth, provided the other state has established by law or regulation similar requirements as to residence of such individuals.</p><p>2004, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?041+ful+CHAP0460'>460</a>.</p>

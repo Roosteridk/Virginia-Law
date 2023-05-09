@@ -1,3 +1,0 @@
-# § 38.2-3920 Surplus to policyowners.
-
-<p>A. A mutual assessment life, accident and sickness insurer shall have a minimum surplus to policyowners of $100,000.</p><p>B. In order to write the classes of insurance referred to in Category C of § <a href='http://law.lis.virginia.gov/vacode/38.2-3902/'>38.2-3902</a>, minimum surplus to policyowners shall be $800,000.</p><p>1985, c. 400, § 38.1-549.21; 1986, c. 562.</p>

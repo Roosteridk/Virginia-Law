@@ -1,3 +1,0 @@
-# § 18.2-207 Making false entry, etc., in marriage register, etc.
-
-<p>If any clerk of a court, commissioner of the revenue, physician, surgeon, medical examiner or minister celebrating a marriage, or clerk or keeper of the records of any religious society, shall, in any book, register, record, certificate or copy which such person is by Title 20 (§ <a href='http://law.lis.virginia.gov/vacode/20-13/'>20-13</a> et seq.) required to keep, make, or give, knowingly make any false, erroneous, or fraudulent entry, record, registration, or written statement, he shall, for every such offense, be guilty of a Class 3 misdemeanor.</p><p>Code 1950, § 18.1-98; 1960, c. 358; 1975, cc. 14, 15.</p>

@@ -1,3 +1,0 @@
-# § 37.2-708 Salaries of directors and other employees of state facilities.
-
-<p>The directors and other employees of state facilities shall each annually receive such salaries as shall be fixed from time to time in the appropriation act, and, when they occupy buildings on the grounds or belonging to their state facility, they shall pay the rent that was fixed in accordance with law.</p><p>Code 1950, § 14-22; 1964, c. 386, § 14.1-16; 1972, c. 639; 1998, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?981+ful+CHAP0872'>872</a>, § 37.1-42.3; 2005, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?051+ful+CHAP0716'>716</a>.</p>

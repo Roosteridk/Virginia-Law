@@ -1,3 +1,0 @@
-# § 22.1-64 Oath of superintendent.
-
-<p>Every division superintendent, before entering upon the duties of office, shall take and subscribe the oath prescribed for an officer of this Commonwealth as provided in Chapter 1 (§ <a href='http://law.lis.virginia.gov/vacode/49-1/'>49-1</a> et seq.) of Title 49 of this Code, and a certificate of the clerk of the court in which the oath is administered setting forth the qualification and its record shall be furnished the Superintendent of Public Instruction.</p><p>Code 1950, § 22-39; 1980, c. 559.</p>

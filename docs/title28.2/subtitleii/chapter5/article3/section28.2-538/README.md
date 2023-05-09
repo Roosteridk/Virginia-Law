@@ -1,3 +1,0 @@
-# § 28.2-538 Record of oysters handled; penalty.
-
-<p>All licensed oyster harvesters, buyers, shucking houses, and aquaculture operations shall record all fisheries data and information required by the Commission as provided in § <a href='http://law.lis.virginia.gov/vacode/28.2-204/'>28.2-204</a>. Such records shall be open for inspection by the Commissioner and a copy available to him or any employee designated by him to inspect or receive the same. A failure to keep such a record is a Class 1 misdemeanor.</p><p>Code 1950, § 28-100; 1960, c. 517; 1962, c. 406, § 28.1-87; 1966, c. 684; 1975, c. 199; 1976, c. 255; 1988, c. 313; 1992, c. 836; 2013, c. <a href='http://lis.virginia.gov/cgi-bin/legp604.exe?131+ful+CHAP0038'>38</a>.</p>

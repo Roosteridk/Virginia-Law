@@ -1,3 +1,0 @@
-# § 8.01-88 Decree of partition to vest legal title.
-
-<p>A decree heretofore or hereafter made, confirming any partition or allotment in a suit for partition, shall vest in the respective co-owners, between or to whom the partition or allotment is made, the title to their shares under the partition or allotment, in like manner and to the same extent, as if such decree direct such title be conveyed to them and the conveyance was made accordingly.</p><p>Code 1950, § 8-698; 1977, c. 617.</p>

@@ -1,3 +1,0 @@
-# § 19.2-365 Duties of attorney for Commonwealth upon filing of such petition.
-
-<p>The attorney for the Commonwealth, at or before the hearing of such petition, shall file an answer to the same. He shall cause to be summoned such witnesses and shall introduce all such testimony as may be necessary and proper to protect the interest of the Commonwealth; and the petitioner may cause to be summoned such witnesses and shall introduce all such testimony as may be necessary and proper to protect his interest.</p><p>Code 1950, § 19.1-354; 1960, c. 366; 1975, c. 495.</p>

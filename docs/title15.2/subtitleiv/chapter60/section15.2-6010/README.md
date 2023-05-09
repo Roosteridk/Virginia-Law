@@ -1,3 +1,0 @@
-# § 15.2-6010 Proceeds held.
-
-<p>The treasurer may invest and reinvest funds of the Authority pending their need. All moneys received by the Authority pursuant to § <a href='http://law.lis.virginia.gov/vacode/15.2-6009/'>15.2-6009</a>, together with any matching funds received from state or federal sources, shall be applied and used only in the county or city from which the funds were received, unless the governing body of the county or city consents to their use in another county or city.</p><p>Moneys received pursuant to § <a href='http://law.lis.virginia.gov/vacode/58.1-3713.4/'>58.1-3713.4</a> may be used at the discretion of the Authority for purposes and projects as determined by the Authority.</p><p>1988, c. 833, § 15.1-1645; 1990, c. 341; 1997, c. 587.</p>
