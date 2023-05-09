@@ -1,4 +1,6 @@
 name: Deploy
+env: 
+  NODE_OPTIONS: --max_old_space_size=16000
 on:
   workflow_dispatch: {}
   push:
