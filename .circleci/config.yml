@@ -5,7 +5,7 @@ jobs:
       - image: cimg/node:16.0
     environment:
       NODE_OPTIONS: --max_old_space_size=16000
-    resource_class: large # specifies a machine with 8 vCPUs and 16GB of memory
+    resource_class: xlarge # specifies a machine with 8 vCPUs and 16GB of memory
     steps:
       - checkout
       - run: npm ci
