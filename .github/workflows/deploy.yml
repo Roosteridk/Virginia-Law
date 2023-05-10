@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+env:
+  NODE_OPTIONS: --max-old-space-size=128000
 jobs:
   deploy:
     runs-on: [self-hosted, linux, x64]
